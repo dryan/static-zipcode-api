@@ -31,13 +31,15 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1>Static ZIP Code API</h1>
+        <h1>
+<a name="static-zip-code-api" class="anchor" href="#static-zip-code-api"><span class="octicon octicon-link"></span></a>Static ZIP Code API</h1>
 
 <p>Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these in a CDN like Amazon S3.</p>
 
 <p>There are two flavors: vanilla JSON and JSONP with a hardcoded callback function of <code>zipapicallback</code>.</p>
 
-<h2>Usage</h2>
+<h2>
+<a name="usage" class="anchor" href="#usage"><span class="octicon octicon-link"></span></a>Usage</h2>
 
 <pre><code>function zipapicallback(data) {
     // do something with your data
@@ -50,7 +52,8 @@ $.ajax({
 });
 </code></pre>
 
-<h2>Returned Data</h2>
+<h2>
+<a name="returned-data" class="anchor" href="#returned-data"><span class="octicon octicon-link"></span></a>Returned Data</h2>
 
 <pre><code>{
     "zip_code": "37415",
@@ -82,7 +85,7 @@ $.ajax({
           </script>
           <script type="text/javascript">
             try {
-              var pageTracker = _gat._getTracker("UA-3625251-4");
+              var pageTracker = _gat._getTracker("UA-3625251-12");
             pageTracker._trackPageview();
             } catch(err) {}
           </script>

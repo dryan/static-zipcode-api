@@ -1,1 +1,1 @@
-{"lat": 42.774435, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Maynard", "lng": -91.88645, "zip_code": "50655"}
+{"locality": "Maynard", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Maynard"], "postal_code": "50655", "lat": 42.774435, "lng": -91.88645, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]}

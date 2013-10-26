@@ -1,1 +1,1 @@
-{"lat": 36.627827, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Blackwater", "lng": -82.96464, "zip_code": "24221"}
+{"locality": "Blackwater", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Blackwater"], "postal_code": "24221", "lat": 36.627827, "lng": -82.96464, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}, {"fips": "169", "name": "Stokes"}]}

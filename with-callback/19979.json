@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.0461, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Viola", "lng": -75.57185, "zip_code": "19979"});
+zipapicallback({"locality": "Viola", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Viola"], "postal_code": "19979", "lat": 39.0461, "lng": -75.57185, "type": "STANDARD", "counties": [{"fips": "001", "name": "Kent"}]});

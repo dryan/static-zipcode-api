@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.958861, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mount Cory", "lng": -83.8356, "zip_code": "45868"});
+zipapicallback({"locality": "Mount Cory", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mount Cory"], "postal_code": "45868", "lat": 40.958861, "lng": -83.8356, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hancock"}, {"fips": "137", "name": "Putnam"}]});

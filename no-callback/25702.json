@@ -1,1 +1,1 @@
-{"lat": 38.431116, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Huntington", "lng": -82.37019, "zip_code": "25702"}
+{"locality": "Huntington", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Huntington"], "postal_code": "25702", "lat": 38.431116, "lng": -82.37019, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}]}

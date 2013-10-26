@@ -1,1 +1,1 @@
-{"lat": 34.346673, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Fort Sumner", "lng": -104.24242, "zip_code": "88119"}
+{"locality": "Fort Sumner", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Fort Sumner", "Lake Sumner"], "postal_code": "88119", "lat": 34.346673, "lng": -104.24242, "type": "STANDARD", "counties": [{"fips": "011", "name": "De Baca"}]}

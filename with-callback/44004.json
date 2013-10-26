@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.871212, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ashtabula", "lng": -80.79178, "zip_code": "44004"});
+zipapicallback({"locality": "Ashtabula", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Ashtabula"], "postal_code": "44004", "lat": 41.871212, "lng": -80.79178, "type": "STANDARD", "counties": [{"fips": "007", "name": "Ashtabula"}, {"fips": "035", "name": "Cuyahoga"}]});

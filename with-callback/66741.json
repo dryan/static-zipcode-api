@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.726754, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Garland", "lng": -94.65864, "zip_code": "66741"});
+zipapicallback({"locality": "Garland", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Arcadia", "Garland"], "postal_code": "66741", "lat": 37.726754, "lng": -94.65864, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bourbon"}]});

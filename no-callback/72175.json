@@ -1,1 +1,1 @@
-{"lat": 34.351954, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wabbaseka", "lng": -91.77681, "zip_code": "72175"}
+{"locality": "Wabbaseka", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wabbaseka"], "postal_code": "72175", "lat": 34.351954, "lng": -91.77681, "type": "STANDARD", "counties": [{"fips": "069", "name": "Jefferson"}]}

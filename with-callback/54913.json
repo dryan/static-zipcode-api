@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.322836, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Appleton", "lng": -88.40492, "zip_code": "54913"});
+zipapicallback({"locality": "Appleton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Appleton", "Freedom", "Grand Chute"], "postal_code": "54913", "lat": 44.322836, "lng": -88.40492, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}]});

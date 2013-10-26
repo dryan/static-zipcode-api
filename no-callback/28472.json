@@ -1,1 +1,1 @@
-{"lat": 34.312063, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Whiteville", "lng": -78.70773, "zip_code": "28472"}
+{"locality": "Whiteville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Whiteville"], "postal_code": "28472", "lat": 34.312063, "lng": -78.70773, "type": "STANDARD", "counties": [{"fips": "047", "name": "Columbus"}]}

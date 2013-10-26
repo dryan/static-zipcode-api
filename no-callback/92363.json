@@ -1,1 +1,1 @@
-{"lat": 34.808718, "region": {"abbr": "CA", "name": "California"}, "locality": "Needles", "lng": -114.62664, "zip_code": "92363"}
+{"locality": "Needles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Needles"], "postal_code": "92363", "lat": 34.808718, "lng": -114.62664, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

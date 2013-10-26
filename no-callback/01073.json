@@ -1,1 +1,1 @@
-{"lat": 42.223885, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Southampton", "lng": -72.72777, "zip_code": "01073"}
+{"locality": "Southampton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Southampton"], "postal_code": "01073", "lat": 42.223885, "lng": -72.72777, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]}

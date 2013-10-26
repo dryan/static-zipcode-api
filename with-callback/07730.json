@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.423298, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hazlet", "lng": -74.179, "zip_code": "07730"});
+zipapicallback({"locality": "Hazlet", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hazlet"], "postal_code": "07730", "lat": 40.423298, "lng": -74.179, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]});

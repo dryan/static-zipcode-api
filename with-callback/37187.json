@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.117433, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "White Bluff", "lng": -87.21761, "zip_code": "37187"});
+zipapicallback({"locality": "White Bluff", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["White Bluff"], "postal_code": "37187", "lat": 36.117433, "lng": -87.21761, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickson"}, {"fips": "021", "name": "Cheatham"}]});

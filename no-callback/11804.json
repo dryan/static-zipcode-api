@@ -1,1 +1,1 @@
-{"lat": 40.765378, "region": {"abbr": "NY", "name": "New York"}, "locality": "Old Bethpage", "lng": -73.45781, "zip_code": "11804"}
+{"locality": "Old Bethpage", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Old Bethpage"], "postal_code": "11804", "lat": 40.765378, "lng": -73.45781, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

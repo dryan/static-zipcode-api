@@ -1,1 +1,1 @@
-{"lat": 44.026272, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dodge Center", "lng": -92.86903, "zip_code": "55927"}
+{"locality": "Dodge Center", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dodge Center"], "postal_code": "55927", "lat": 44.026272, "lng": -92.86903, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dodge"}]}

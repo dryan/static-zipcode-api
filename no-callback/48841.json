@@ -1,1 +1,1 @@
-{"lat": 43.104499, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Henderson", "lng": -84.23568, "zip_code": "48841"}
+{"locality": "Henderson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Henderson", "Owosso"], "postal_code": "48841", "lat": 43.104499, "lng": -84.23568, "type": "STANDARD", "counties": [{"fips": "155", "name": "Shiawassee"}, {"fips": "145", "name": "Saginaw"}]}

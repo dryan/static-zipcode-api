@@ -1,1 +1,1 @@
-{"lat": 40.738983, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fresh Meadows", "lng": -73.79209, "zip_code": "11365"}
+{"locality": "Fresh Meadows", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Flushing", "Fresh Meadows"], "postal_code": "11365", "lat": 40.738983, "lng": -73.79209, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}, {"fips": "059", "name": "Nassau"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.199446, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lakeview", "lng": -120.42459, "zip_code": "97630"});
+zipapicallback({"locality": "Lakeview", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lakeview"], "postal_code": "97630", "lat": 42.199446, "lng": -120.42459, "type": "STANDARD", "counties": [{"fips": "037", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.929839, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Convoy", "lng": -84.73138, "zip_code": "45832"});
+zipapicallback({"locality": "Convoy", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Convoy"], "postal_code": "45832", "lat": 40.929839, "lng": -84.73138, "type": "STANDARD", "counties": [{"fips": "161", "name": "Van Wert"}, {"fips": "125", "name": "Paulding"}, {"fips": "003", "name": "Allen"}]});

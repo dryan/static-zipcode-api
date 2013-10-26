@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.560826, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Sioux Falls", "lng": -96.7324, "zip_code": "57104"});
+zipapicallback({"locality": "Sioux Falls", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Sioux Falls"], "postal_code": "57104", "lat": 43.560826, "lng": -96.7324, "type": "STANDARD", "counties": [{"fips": "099", "name": "Minnehaha"}]});

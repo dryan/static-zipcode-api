@@ -1,1 +1,1 @@
-{"lat": 33.797317, "region": {"abbr": "CA", "name": "California"}, "locality": "Harbor City", "lng": -118.30065, "zip_code": "90710"}
+{"locality": "Harbor City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Harbor City"], "postal_code": "90710", "lat": 33.797317, "lng": -118.30065, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

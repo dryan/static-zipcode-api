@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.164561, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ivins", "lng": -113.67582, "zip_code": "84738"});
+zipapicallback({"locality": "Ivins", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Ivins"], "postal_code": "84738", "lat": 37.164561, "lng": -113.67582, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]});

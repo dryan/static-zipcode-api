@@ -1,1 +1,1 @@
-{"lat": 38.765972, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kingsville", "lng": -94.09708, "zip_code": "64061"}
+{"locality": "Kingsville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kingsville"], "postal_code": "64061", "lat": 38.765972, "lng": -94.09708, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnson"}, {"fips": "095", "name": "Jackson"}, {"fips": "037", "name": "Cass"}]}

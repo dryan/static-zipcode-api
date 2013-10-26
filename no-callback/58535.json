@@ -1,1 +1,1 @@
-{"lat": 46.501898, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Lark", "lng": -101.24737, "zip_code": "58535"}
+{"locality": "Flasher", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Flasher", "Lark"], "postal_code": "58535", "lat": 46.501898, "lng": -101.24737, "type": "STANDARD", "counties": [{"fips": "059", "name": "Morton"}, {"fips": "037", "name": "Grant"}]}

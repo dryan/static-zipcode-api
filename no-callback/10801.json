@@ -1,1 +1,1 @@
-{"lat": 40.915845, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Rochelle", "lng": -73.78643, "zip_code": "10801"}
+{"locality": "New Rochelle", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Rochelle"], "postal_code": "10801", "lat": 40.915845, "lng": -73.78643, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.062515, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Brooks", "lng": -85.73559, "zip_code": "40109"}
+{"locality": "Brooks", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Brooks"], "postal_code": "40109", "lat": 38.062515, "lng": -85.73559, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bullitt"}, {"fips": "111", "name": "Jefferson"}]}

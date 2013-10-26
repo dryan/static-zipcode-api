@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.150937, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Floresville", "lng": -98.17929, "zip_code": "78114"});
+zipapicallback({"locality": "Floresville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Floresville"], "postal_code": "78114", "lat": 29.150937, "lng": -98.17929, "type": "STANDARD", "counties": [{"fips": "493", "name": "Wilson"}, {"fips": "013", "name": "Atascosa"}]});

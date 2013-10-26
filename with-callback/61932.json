@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.797661, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hume", "lng": -87.87017, "zip_code": "61932"});
+zipapicallback({"locality": "Hume", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hume"], "postal_code": "61932", "lat": 39.797661, "lng": -87.87017, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edgar"}]});

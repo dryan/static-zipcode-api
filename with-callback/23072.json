@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.288999, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hayes", "lng": -76.47393, "zip_code": "23072"});
+zipapicallback({"locality": "Hayes", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hayes"], "postal_code": "23072", "lat": 37.288999, "lng": -76.47393, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gloucester"}]});

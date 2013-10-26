@@ -1,1 +1,1 @@
-{"lat": 38.48679, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Erie", "lng": -88.21636, "zip_code": "62446"}
+{"locality": "Mount Erie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Erie"], "postal_code": "62446", "lat": 38.48679, "lng": -88.21636, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]}

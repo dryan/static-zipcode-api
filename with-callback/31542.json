@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.1747, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hoboken", "lng": -82.13812, "zip_code": "31542"});
+zipapicallback({"locality": "Hoboken", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hoboken"], "postal_code": "31542", "lat": 31.1747, "lng": -82.13812, "type": "STANDARD", "counties": [{"fips": "025", "name": "Brantley"}]});

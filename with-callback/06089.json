@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.839731, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Weatogue", "lng": -72.81974, "zip_code": "06089"});
+zipapicallback({"locality": "Weatogue", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Weatogue"], "postal_code": "06089", "lat": 41.839731, "lng": -72.81974, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

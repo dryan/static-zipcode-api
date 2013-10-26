@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.460534, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Keedysville", "lng": -77.69284, "zip_code": "21756"});
+zipapicallback({"locality": "Keedysville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Keedysville"], "postal_code": "21756", "lat": 39.460534, "lng": -77.69284, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}]});

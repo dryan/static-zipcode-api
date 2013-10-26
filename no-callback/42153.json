@@ -1,1 +1,1 @@
-{"lat": 36.665767, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Holland", "lng": -86.04006, "zip_code": "42153"}
+{"locality": "Holland", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Holland"], "postal_code": "42153", "lat": 36.665767, "lng": -86.04006, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]}

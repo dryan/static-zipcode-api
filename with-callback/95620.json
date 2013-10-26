@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.427208, "region": {"abbr": "CA", "name": "California"}, "locality": "Liberty Farms", "lng": -121.81348, "zip_code": "95620"});
+zipapicallback({"locality": "Dixon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dixon", "Liberty Farms"], "postal_code": "95620", "lat": 38.427208, "lng": -121.81348, "type": "STANDARD", "counties": [{"fips": "095", "name": "Solano"}, {"fips": "067", "name": "Sacramento"}]});

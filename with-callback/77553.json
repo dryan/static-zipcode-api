@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.328547, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Galveston", "lng": -94.79422, "zip_code": "77553"});
+zipapicallback({"locality": "Galveston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Galveston"], "postal_code": "77553", "lat": 29.328547, "lng": -94.79422, "type": "POBOX", "counties": [{"fips": "167", "name": "Galveston"}]});

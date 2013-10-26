@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.352016, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Alvord", "lng": -96.30802, "zip_code": "51230"});
+zipapicallback({"locality": "Alvord", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Alvord"], "postal_code": "51230", "lat": 43.352016, "lng": -96.30802, "type": "STANDARD", "counties": [{"fips": "119", "name": "Lyon"}]});

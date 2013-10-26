@@ -1,1 +1,1 @@
-{"lat": 44.214927, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Sunset", "lng": -68.7769, "zip_code": "04683"}
+{"locality": "Sunset", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Sunset"], "postal_code": "04683", "lat": 44.214927, "lng": -68.7769, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

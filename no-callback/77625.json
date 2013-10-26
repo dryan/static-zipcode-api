@@ -1,1 +1,1 @@
-{"lat": 30.372553, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kountze", "lng": -94.33671, "zip_code": "77625"}
+{"locality": "Kountze", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kountze"], "postal_code": "77625", "lat": 30.372553, "lng": -94.33671, "type": "STANDARD", "counties": [{"fips": "199", "name": "Hardin"}]}

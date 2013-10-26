@@ -1,1 +1,1 @@
-{"lat": 40.639108, "region": {"abbr": "CA", "name": "California"}, "locality": "Hyampom", "lng": -123.47525, "zip_code": "96046"}
+{"locality": "Hyampom", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hyampom"], "postal_code": "96046", "lat": 40.639108, "lng": -123.47525, "type": "POBOX", "counties": [{"fips": "105", "name": "Trinity"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.455036, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Nora", "lng": -89.94561, "zip_code": "61059"});
+zipapicallback({"locality": "Nora", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Nora"], "postal_code": "61059", "lat": 42.455036, "lng": -89.94561, "type": "POBOX", "counties": [{"fips": "085", "name": "Jo Daviess"}]});

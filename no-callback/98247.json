@@ -1,1 +1,1 @@
-{"lat": 48.900256, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Everson", "lng": -122.32095, "zip_code": "98247"}
+{"locality": "Everson", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Everson", "Nooksack"], "postal_code": "98247", "lat": 48.900256, "lng": -122.32095, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.243964, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ashland", "lng": -85.84503, "zip_code": "36251"}
+{"locality": "Ashland", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ashland"], "postal_code": "36251", "lat": 33.243964, "lng": -85.84503, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]}

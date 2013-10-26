@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.542571, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tina", "lng": -93.46006, "zip_code": "64682"});
+zipapicallback({"locality": "Tina", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tina"], "postal_code": "64682", "lat": 39.542571, "lng": -93.46006, "type": "STANDARD", "counties": [{"fips": "033", "name": "Carroll"}]});

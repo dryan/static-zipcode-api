@@ -1,1 +1,1 @@
-{"lat": 32.569122, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "East Dublin", "lng": -82.80959, "zip_code": "31027"}
+{"locality": "East Dublin", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dublin", "E Dublin", "East Dublin"], "postal_code": "31027", "lat": 32.569122, "lng": -82.80959, "type": "STANDARD", "counties": []}

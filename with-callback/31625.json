@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.003274, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Barney", "lng": -83.5282, "zip_code": "31625"});
+zipapicallback({"locality": "Barney", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Barney"], "postal_code": "31625", "lat": 31.003274, "lng": -83.5282, "type": "STANDARD", "counties": [{"fips": "027", "name": "Brooks"}]});

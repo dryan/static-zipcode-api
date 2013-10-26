@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.688224, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Greenleaf", "lng": -96.96583, "zip_code": "66943"});
+zipapicallback({"locality": "Greenleaf", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Greenleaf"], "postal_code": "66943", "lat": 39.688224, "lng": -96.96583, "type": "STANDARD", "counties": [{"fips": "201", "name": "Washington"}]});

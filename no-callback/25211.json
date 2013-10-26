@@ -1,1 +1,1 @@
-{"lat": 38.462053, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Widen", "lng": -80.86627, "zip_code": "25211"}
+{"locality": "Widen", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Widen"], "postal_code": "25211", "lat": 38.462053, "lng": -80.86627, "type": "POBOX", "counties": [{"fips": "015", "name": "Clay"}]}

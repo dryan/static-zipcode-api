@@ -1,1 +1,1 @@
-{"lat": 30.767327, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Burnet", "lng": -98.30109, "zip_code": "78611"}
+{"locality": "Burnet", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Burnet"], "postal_code": "78611", "lat": 30.767327, "lng": -98.30109, "type": "STANDARD", "counties": [{"fips": "053", "name": "Burnet"}]}

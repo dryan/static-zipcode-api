@@ -1,1 +1,1 @@
-{"lat": 42.967906, "region": {"abbr": "NY", "name": "New York"}, "locality": "Munnsville", "lng": -75.59457, "zip_code": "13409"}
+{"locality": "Munnsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Munnsville", "Pratts Hollow"], "postal_code": "13409", "lat": 42.967906, "lng": -75.59457, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}, {"fips": "065", "name": "Oneida"}]}

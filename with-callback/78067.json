@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.198571, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Ygnacio", "lng": -99.36781, "zip_code": "78067"});
+zipapicallback({"locality": "San Ygnacio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Ygnacio"], "postal_code": "78067", "lat": 27.198571, "lng": -99.36781, "type": "STANDARD", "counties": [{"fips": "505", "name": "Zapata"}]});

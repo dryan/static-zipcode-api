@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.964535, "region": {"abbr": "NY", "name": "New York"}, "locality": "Phelps", "lng": -77.02486, "zip_code": "14532"});
+zipapicallback({"locality": "Phelps", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Phelps"], "postal_code": "14532", "lat": 42.964535, "lng": -77.02486, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}, {"fips": "099", "name": "Seneca"}]});

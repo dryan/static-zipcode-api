@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.223023, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Deming", "lng": -107.71282, "zip_code": "88030"});
+zipapicallback({"locality": "Deming", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Deming"], "postal_code": "88030", "lat": 32.223023, "lng": -107.71282, "type": "STANDARD", "counties": [{"fips": "029", "name": "Luna"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.341512, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kent", "lng": -78.14128, "zip_code": "14477"}
+{"locality": "Kent", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kent"], "postal_code": "14477", "lat": 43.341512, "lng": -78.14128, "type": "STANDARD", "counties": [{"fips": "073", "name": "Orleans"}]}

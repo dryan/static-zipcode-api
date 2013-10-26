@@ -1,1 +1,1 @@
-{"lat": 42.642431, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "White Lake", "lng": -83.47193, "zip_code": "48386"}
+{"locality": "White Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["White Lake"], "postal_code": "48386", "lat": 42.642431, "lng": -83.47193, "type": "STANDARD", "counties": []}

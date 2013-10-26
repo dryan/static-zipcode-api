@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.684777, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Plainfield", "lng": -71.91911, "zip_code": "06374"});
+zipapicallback({"locality": "Plainfield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Plainfield"], "postal_code": "06374", "lat": 41.684777, "lng": -71.91911, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]});

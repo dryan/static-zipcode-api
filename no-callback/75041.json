@@ -1,1 +1,1 @@
-{"lat": 32.881525, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Garland", "lng": -96.64601, "zip_code": "75041"}
+{"locality": "Garland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Garland"], "postal_code": "75041", "lat": 32.881525, "lng": -96.64601, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

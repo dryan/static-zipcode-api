@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.655098, "region": {"abbr": "NY", "name": "New York"}, "locality": "Colden", "lng": -78.68472, "zip_code": "14033"});
+zipapicallback({"locality": "Colden", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Colden"], "postal_code": "14033", "lat": 42.655098, "lng": -78.68472, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

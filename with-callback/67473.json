@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.409385, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Osborne", "lng": -98.7059, "zip_code": "67473"});
+zipapicallback({"locality": "Osborne", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Osborne"], "postal_code": "67473", "lat": 39.409385, "lng": -98.7059, "type": "STANDARD", "counties": [{"fips": "141", "name": "Osborne"}]});

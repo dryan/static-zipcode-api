@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.835261, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Panasoffkee", "lng": -82.14818, "zip_code": "33538"});
+zipapicallback({"locality": "Lake Panasoffkee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Panasoffkee", "Lk Panasoffke"], "postal_code": "33538", "lat": 28.835261, "lng": -82.14818, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}]});

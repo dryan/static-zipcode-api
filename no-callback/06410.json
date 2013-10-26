@@ -1,1 +1,1 @@
-{"lat": 41.507049, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Cheshire", "lng": -72.90489, "zip_code": "06410"}
+{"locality": "Cheshire", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Cheshire"], "postal_code": "06410", "lat": 41.507049, "lng": -72.90489, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}, {"fips": "001", "name": "Fairfield"}, {"fips": "007", "name": "Middlesex"}]}

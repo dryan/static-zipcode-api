@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.656933, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lagrangeville", "lng": -73.74539, "zip_code": "12540"});
+zipapicallback({"locality": "Lagrangeville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lagrangeville"], "postal_code": "12540", "lat": 41.656933, "lng": -73.74539, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}]});

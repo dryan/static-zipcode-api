@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.480326, "region": {"abbr": "NY", "name": "New York"}, "locality": "Barryville", "lng": -74.92694, "zip_code": "12719"});
+zipapicallback({"locality": "Barryville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Barryville"], "postal_code": "12719", "lat": 41.480326, "lng": -74.92694, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

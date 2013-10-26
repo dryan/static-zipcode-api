@@ -1,1 +1,1 @@
-{"lat": 31.972626, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Abbeville", "lng": -83.33082, "zip_code": "31001"}
+{"locality": "Abbeville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Abbeville"], "postal_code": "31001", "lat": 31.972626, "lng": -83.33082, "type": "STANDARD", "counties": [{"fips": "315", "name": "Wilcox"}]}

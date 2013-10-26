@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.17924, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Wiley", "lng": -102.75161, "zip_code": "81092"});
+zipapicallback({"locality": "Wiley", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Wiley"], "postal_code": "81092", "lat": 38.17924, "lng": -102.75161, "type": "STANDARD", "counties": [{"fips": "099", "name": "Prowers"}, {"fips": "011", "name": "Bent"}, {"fips": "061", "name": "Kiowa"}]});

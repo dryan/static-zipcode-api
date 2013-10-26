@@ -1,1 +1,1 @@
-{"lat": 37.3799, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mc Henry", "lng": -86.9258, "zip_code": "42354"}
+{"locality": "Mc Henry", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mc Henry"], "postal_code": "42354", "lat": 37.3799, "lng": -86.9258, "type": "STANDARD", "counties": [{"fips": "183", "name": "Ohio"}]}

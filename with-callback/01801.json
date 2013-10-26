@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.484545, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Woburn", "lng": -71.15206, "zip_code": "01801"});
+zipapicallback({"locality": "Woburn", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Woburn"], "postal_code": "01801", "lat": 42.484545, "lng": -71.15206, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

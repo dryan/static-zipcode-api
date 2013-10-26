@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.678463, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Edgewood", "lng": -91.3618, "zip_code": "52042"});
+zipapicallback({"locality": "Edgewood", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Edgewood", "Littleport"], "postal_code": "52042", "lat": 42.678463, "lng": -91.3618, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clayton"}]});

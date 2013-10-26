@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.240926, "region": {"abbr": "CA", "name": "California"}, "locality": "Oceanside", "lng": -117.29851, "zip_code": "92057"});
+zipapicallback({"locality": "Oceanside", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oceanside"], "postal_code": "92057", "lat": 33.240926, "lng": -117.29851, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 42.21773, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lakeside", "lng": -102.42833, "zip_code": "69351"}
+{"locality": "Lakeside", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lakeside"], "postal_code": "69351", "lat": 42.21773, "lng": -102.42833, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sheridan"}]}

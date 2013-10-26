@@ -1,1 +1,1 @@
-{"lat": 36.716315, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Kirksey", "lng": -88.44499, "zip_code": "42054"}
+{"locality": "Kirksey", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Kirksey"], "postal_code": "42054", "lat": 36.716315, "lng": -88.44499, "type": "STANDARD", "counties": [{"fips": "035", "name": "Calloway"}, {"fips": "157", "name": "Marshall"}, {"fips": "083", "name": "Graves"}]}

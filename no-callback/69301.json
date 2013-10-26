@@ -1,1 +1,1 @@
-{"lat": 42.13928, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Alliance", "lng": -102.84937, "zip_code": "69301"}
+{"locality": "Alliance", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Alliance"], "postal_code": "69301", "lat": 42.13928, "lng": -102.84937, "type": "STANDARD", "counties": [{"fips": "013", "name": "Box Butte"}, {"fips": "165", "name": "Sioux"}]}

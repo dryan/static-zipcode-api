@@ -1,1 +1,1 @@
-{"lat": 40.075185, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "New Egypt", "lng": -74.48433, "zip_code": "08533"}
+{"locality": "New Egypt", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["New Egypt"], "postal_code": "08533", "lat": 40.075185, "lng": -74.48433, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]}

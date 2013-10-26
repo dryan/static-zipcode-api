@@ -1,1 +1,1 @@
-{"lat": 33.525889, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Harrell", "lng": -92.39227, "zip_code": "71745"}
+{"locality": "Harrell", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Harrell"], "postal_code": "71745", "lat": 33.525889, "lng": -92.39227, "type": "POBOX", "counties": [{"fips": "013", "name": "Calhoun"}]}

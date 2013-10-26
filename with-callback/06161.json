@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Hartford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Hartford", "Wethersfield"], "postal_code": "06161", "type": "UNIQUE", "counties": [{"fips": "003", "name": "Hartford"}]});

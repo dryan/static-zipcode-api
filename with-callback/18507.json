@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.35838, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Moosic", "lng": -75.71228, "zip_code": "18507"});
+zipapicallback({"locality": "Moosic", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Moosic", "Scranton"], "postal_code": "18507", "lat": 41.35838, "lng": -75.71228, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]});

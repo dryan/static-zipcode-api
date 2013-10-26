@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.822407, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Rose Hill", "lng": -78.04176, "zip_code": "28458"});
+zipapicallback({"locality": "Rose Hill", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Greenevers", "Rose Hill"], "postal_code": "28458", "lat": 34.822407, "lng": -78.04176, "type": "STANDARD", "counties": [{"fips": "061", "name": "Duplin"}]});

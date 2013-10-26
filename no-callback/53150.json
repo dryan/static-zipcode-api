@@ -1,1 +1,1 @@
-{"lat": 42.901235, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Muskego", "lng": -88.12464, "zip_code": "53150"}
+{"locality": "Muskego", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Muskego"], "postal_code": "53150", "lat": 42.901235, "lng": -88.12464, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "101", "name": "Racine"}]}

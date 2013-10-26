@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.820139, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cripple Creek", "lng": -81.11128, "zip_code": "24322"});
+zipapicallback({"locality": "Cripple Creek", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cripple Creek"], "postal_code": "24322", "lat": 36.820139, "lng": -81.11128, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wythe"}]});

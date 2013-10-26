@@ -1,1 +1,1 @@
-{"lat": 41.401398, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Quaker Hill", "lng": -72.11444, "zip_code": "06375"}
+{"locality": "Quaker Hill", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Quaker Hill"], "postal_code": "06375", "lat": 41.401398, "lng": -72.11444, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

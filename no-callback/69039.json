@@ -1,1 +1,1 @@
-{"lat": 40.646065, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Moorefield", "lng": -100.35262, "zip_code": "69039"}
+{"locality": "Moorefield", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Moorefield"], "postal_code": "69039", "lat": 40.646065, "lng": -100.35262, "type": "STANDARD", "counties": [{"fips": "063", "name": "Frontier"}, {"fips": "111", "name": "Lincoln"}]}

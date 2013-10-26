@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.909736, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Allerton", "lng": -87.93384, "zip_code": "61810"});
+zipapicallback({"locality": "Allerton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Allerton"], "postal_code": "61810", "lat": 39.909736, "lng": -87.93384, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]});

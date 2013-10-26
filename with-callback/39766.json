@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.615277, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Steens", "lng": -88.31031, "zip_code": "39766"});
+zipapicallback({"locality": "Steens", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Steens"], "postal_code": "39766", "lat": 33.615277, "lng": -88.31031, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lowndes"}]});

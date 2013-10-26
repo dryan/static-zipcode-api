@@ -1,1 +1,1 @@
-{"lat": 38.082231, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Norwood", "lng": -108.2586, "zip_code": "81423"}
+{"locality": "Norwood", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Norwood"], "postal_code": "81423", "lat": 38.082231, "lng": -108.2586, "type": "POBOX", "counties": [{"fips": "113", "name": "San Miguel"}]}

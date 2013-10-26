@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.416739, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lamont", "lng": -83.8239, "zip_code": "32336"});
+zipapicallback({"locality": "Lamont", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lamont"], "postal_code": "32336", "lat": 30.416739, "lng": -83.8239, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]});

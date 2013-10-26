@@ -1,1 +1,1 @@
-{"lat": 38.356658, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Velpen", "lng": -87.10155, "zip_code": "47590"}
+{"locality": "Velpen", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Velpen"], "postal_code": "47590", "lat": 38.356658, "lng": -87.10155, "type": "STANDARD", "counties": [{"fips": "125", "name": "Pike"}, {"fips": "037", "name": "Dubois"}]}

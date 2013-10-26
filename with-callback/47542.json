@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.302272, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Huntingburg", "lng": -86.96864, "zip_code": "47542"});
+zipapicallback({"locality": "Huntingburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Huntingburg"], "postal_code": "47542", "lat": 38.302272, "lng": -86.96864, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dubois"}]});

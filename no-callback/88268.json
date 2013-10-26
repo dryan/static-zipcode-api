@@ -1,1 +1,1 @@
-{"lat": 32.188634, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Whites City", "lng": -104.36153, "zip_code": "88268"}
+{"locality": "Whites City", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Whites City"], "postal_code": "88268", "lat": 32.188634, "lng": -104.36153, "type": "POBOX", "counties": [{"fips": "015", "name": "Eddy"}]}

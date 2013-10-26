@@ -1,1 +1,1 @@
-{"lat": 36.101538, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Las Vegas", "lng": -115.39948, "zip_code": "89124"}
+{"locality": "Las Vegas", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Calico Basin", "Callville Bay", "Cold Creek", "Corn Creek", "Enterprise", "Las Vegas", "Mount Charleston", "Mountain Sprg", "Mountain Springs", "Mt Charleston", "Sloan"], "postal_code": "89124", "lat": 36.101538, "lng": -115.39948, "type": "STANDARD", "counties": [{"fips": "003", "name": "Clark"}]}

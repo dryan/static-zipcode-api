@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.520921, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lowgap", "lng": -80.84824, "zip_code": "27024"});
+zipapicallback({"locality": "Lowgap", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lowgap"], "postal_code": "27024", "lat": 36.520921, "lng": -80.84824, "type": "STANDARD", "counties": [{"fips": "171", "name": "Surry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.643545, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Holly Springs", "lng": -78.83486, "zip_code": "27540"});
+zipapicallback({"locality": "Holly Springs", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Holly Springs"], "postal_code": "27540", "lat": 35.643545, "lng": -78.83486, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}]});

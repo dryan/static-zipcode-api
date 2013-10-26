@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.58119, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lakeside", "lng": -124.1557, "zip_code": "97449"});
+zipapicallback({"locality": "Lakeside", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lakeside"], "postal_code": "97449", "lat": 43.58119, "lng": -124.1557, "type": "STANDARD", "counties": [{"fips": "011", "name": "Coos"}]});

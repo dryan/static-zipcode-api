@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.16478, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Loysburg", "lng": -78.37709, "zip_code": "16659"});
+zipapicallback({"locality": "Loysburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Loysburg"], "postal_code": "16659", "lat": 40.16478, "lng": -78.37709, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "061", "name": "Huntingdon"}]});

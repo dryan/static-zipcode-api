@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.721094, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Center Harbor", "lng": -71.49652, "zip_code": "03226"});
+zipapicallback({"locality": "Center Harbor", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Center Harbor"], "postal_code": "03226", "lat": 43.721094, "lng": -71.49652, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}]});

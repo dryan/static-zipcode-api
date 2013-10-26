@@ -1,1 +1,1 @@
-{"lat": 56.605546, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Saint", "lng": -169.55958, "zip_code": "99591"}
+{"locality": "Saint George Island", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Saint George Island", "Saint Paul Island", "St George Is", "St Paul Isle"], "postal_code": "99591", "lat": 56.605546, "lng": -169.55958, "type": "POBOX", "counties": [{"fips": "010", "name": "Aleutian Islands"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.333185, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marysville", "lng": -76.96659, "zip_code": "17053"}
+{"locality": "Marysville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marysville"], "postal_code": "17053", "lat": 40.333185, "lng": -76.96659, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}, {"fips": "041", "name": "Cumberland"}]}

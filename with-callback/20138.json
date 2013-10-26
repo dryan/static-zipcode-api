@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.630238, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Calverton", "lng": -77.67295, "zip_code": "20138"});
+zipapicallback({"locality": "Calverton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Calverton"], "postal_code": "20138", "lat": 38.630238, "lng": -77.67295, "type": "POBOX", "counties": []});

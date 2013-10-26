@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.83469, "region": {"abbr": "NY", "name": "New York"}, "locality": "Farmingville", "lng": -73.0386, "zip_code": "11738"});
+zipapicallback({"locality": "Farmingville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Farmingville"], "postal_code": "11738", "lat": 40.83469, "lng": -73.0386, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

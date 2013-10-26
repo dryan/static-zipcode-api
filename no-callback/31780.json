@@ -1,1 +1,1 @@
-{"lat": 32.026125, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Plains", "lng": -84.39361, "zip_code": "31780"}
+{"locality": "Plains", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Plains"], "postal_code": "31780", "lat": 32.026125, "lng": -84.39361, "type": "STANDARD", "counties": [{"fips": "261", "name": "Sumter"}, {"fips": "307", "name": "Webster"}]}

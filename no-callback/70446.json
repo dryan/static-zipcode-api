@@ -1,1 +1,1 @@
-{"lat": 30.623502, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Loranger", "lng": -90.35689, "zip_code": "70446"}
+{"locality": "Loranger", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Loranger"], "postal_code": "70446", "lat": 30.623502, "lng": -90.35689, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.722622, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Waterford Works", "lng": -74.8503, "zip_code": "08089"}
+{"locality": "Waterford Works", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Chesilhurst", "Waterford Wks", "Waterford Works"], "postal_code": "08089", "lat": 39.722622, "lng": -74.8503, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

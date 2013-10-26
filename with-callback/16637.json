@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.34068, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Freedom", "lng": -78.43301, "zip_code": "16637"});
+zipapicallback({"locality": "East Freedom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["East Freedom"], "postal_code": "16637", "lat": 40.34068, "lng": -78.43301, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.850776, "region": {"abbr": "CA", "name": "California"}, "locality": "Helena", "lng": -122.92043, "zip_code": "96048"});
+zipapicallback({"locality": "Junction City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Helena", "Junction City"], "postal_code": "96048", "lat": 40.850776, "lng": -122.92043, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]});

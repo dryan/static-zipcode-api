@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.425683, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fredonia", "lng": -79.3371, "zip_code": "14063"});
+zipapicallback({"locality": "Fredonia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fredonia"], "postal_code": "14063", "lat": 42.425683, "lng": -79.3371, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

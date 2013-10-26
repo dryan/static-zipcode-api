@@ -1,1 +1,1 @@
-{"lat": 38.992471, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dillsboro", "lng": -85.06601, "zip_code": "47018"}
+{"locality": "Dillsboro", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dillsboro"], "postal_code": "47018", "lat": 38.992471, "lng": -85.06601, "type": "STANDARD", "counties": [{"fips": "115", "name": "Ohio"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.142978, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Broken Bow", "lng": -94.80269, "zip_code": "74728"});
+zipapicallback({"locality": "Broken Bow", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Broken Bow"], "postal_code": "74728", "lat": 34.142978, "lng": -94.80269, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]});

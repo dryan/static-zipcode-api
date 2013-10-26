@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.749656, "region": {"abbr": "CA", "name": "California"}, "locality": "Homeland", "lng": -117.11706, "zip_code": "92548"});
+zipapicallback({"locality": "Homeland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Homeland"], "postal_code": "92548", "lat": 33.749656, "lng": -117.11706, "type": "STANDARD", "counties": []});

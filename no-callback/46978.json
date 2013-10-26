@@ -1,1 +1,1 @@
-{"lat": 40.860779, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Royal Center", "lng": -86.50183, "zip_code": "46978"}
+{"locality": "Royal Center", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Royal Center"], "postal_code": "46978", "lat": 40.860779, "lng": -86.50183, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "049", "name": "Fulton"}, {"fips": "131", "name": "Pulaski"}, {"fips": "181", "name": "White"}]}

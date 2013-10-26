@@ -1,1 +1,1 @@
-{"lat": 34.467072, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Blenheim", "lng": -79.6437, "zip_code": "29516"}
+{"locality": "Blenheim", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Blenheim"], "postal_code": "29516", "lat": 34.467072, "lng": -79.6437, "type": "STANDARD", "counties": [{"fips": "069", "name": "Marlboro"}]}

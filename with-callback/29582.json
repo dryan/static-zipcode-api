@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.823495, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cherry Grove Bea", "lng": -78.67824, "zip_code": "29582"});
+zipapicallback({"locality": "North Myrtle Beach", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Atlantic Bch", "Atlantic Beach", "Cherry Grove", "Cherry Grove Beach", "N Myrtle Bch", "North Myrtle Beach", "Ocean Drive"], "postal_code": "29582", "lat": 33.823495, "lng": -78.67824, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}]});

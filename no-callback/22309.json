@@ -1,1 +1,1 @@
-{"lat": 38.725214, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Engleside", "lng": -77.10734, "zip_code": "22309"}
+{"locality": "Alexandria", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alexandria", "Engleside"], "postal_code": "22309", "lat": 38.725214, "lng": -77.10734, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

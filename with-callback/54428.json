@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.440199, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Elcho", "lng": -89.13837, "zip_code": "54428"});
+zipapicallback({"locality": "Elcho", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Elcho"], "postal_code": "54428", "lat": 45.440199, "lng": -89.13837, "type": "STANDARD", "counties": [{"fips": "067", "name": "Langlade"}, {"fips": "085", "name": "Oneida"}]});

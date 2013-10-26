@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.010943, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hugo", "lng": -95.51651, "zip_code": "74743"});
+zipapicallback({"locality": "Hugo", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hugo"], "postal_code": "74743", "lat": 34.010943, "lng": -95.51651, "type": "STANDARD", "counties": [{"fips": "023", "name": "Choctaw"}]});

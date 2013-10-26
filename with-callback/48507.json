@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.973263, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Flint", "lng": -83.70142, "zip_code": "48507"});
+zipapicallback({"locality": "Flint", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Flint"], "postal_code": "48507", "lat": 42.973263, "lng": -83.70142, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}]});

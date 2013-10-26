@@ -1,1 +1,1 @@
-{"lat": 40.109791, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Coffey", "lng": -93.98136, "zip_code": "64636"}
+{"locality": "Coffey", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Coffey"], "postal_code": "64636", "lat": 40.109791, "lng": -93.98136, "type": "STANDARD", "counties": [{"fips": "061", "name": "Daviess"}]}

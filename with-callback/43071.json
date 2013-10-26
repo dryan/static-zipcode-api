@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.173402, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Saint Louisville", "lng": -82.36653, "zip_code": "43071"});
+zipapicallback({"locality": "Saint Louisville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Saint Louisville", "Saint Louisvl", "St Louisville"], "postal_code": "43071", "lat": 40.173402, "lng": -82.36653, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.866845, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hopkinsville", "lng": -87.47617, "zip_code": "42240"}
+{"locality": "Hopkinsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hopkinsville"], "postal_code": "42240", "lat": 36.866845, "lng": -87.47617, "type": "STANDARD", "counties": [{"fips": "047", "name": "Christian"}, {"fips": "219", "name": "Todd"}]}

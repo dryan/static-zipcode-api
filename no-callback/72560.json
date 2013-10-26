@@ -1,1 +1,1 @@
-{"lat": 35.863114, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hanover", "lng": -92.11108, "zip_code": "72560"}
+{"locality": "Mountain View", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hanover", "Mountain View"], "postal_code": "72560", "lat": 35.863114, "lng": -92.11108, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stone"}]}

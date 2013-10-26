@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.830406, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Montrose", "lng": -75.9179, "zip_code": "18801"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Montrose"], "postal_code": "18801", "lat": 41.830406, "lng": -75.9179, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.748838, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Tallapoosa", "lng": -85.29304, "zip_code": "30176"}
+{"locality": "Tallapoosa", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Tallapoosa"], "postal_code": "30176", "lat": 33.748838, "lng": -85.29304, "type": "STANDARD", "counties": [{"fips": "143", "name": "Haralson"}]}

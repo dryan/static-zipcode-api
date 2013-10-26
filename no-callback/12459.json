@@ -1,1 +1,1 @@
-{"lat": 42.227987, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Kingston", "lng": -74.68912, "zip_code": "12459"}
+{"locality": "New Kingston", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Kingston"], "postal_code": "12459", "lat": 42.227987, "lng": -74.68912, "type": "POBOX", "counties": [{"fips": "025", "name": "Delaware"}]}

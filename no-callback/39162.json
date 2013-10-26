@@ -1,1 +1,1 @@
-{"lat": 32.629834, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Satartia", "lng": -90.64376, "zip_code": "39162"}
+{"locality": "Satartia", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Satartia"], "postal_code": "39162", "lat": 32.629834, "lng": -90.64376, "type": "STANDARD", "counties": [{"fips": "163", "name": "Yazoo"}]}

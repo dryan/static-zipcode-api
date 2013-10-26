@@ -1,1 +1,1 @@
-{"lat": 33.125097, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Warthen", "lng": -82.81018, "zip_code": "31094"}
+{"locality": "Warthen", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Warthen"], "postal_code": "31094", "lat": 33.125097, "lng": -82.81018, "type": "STANDARD", "counties": [{"fips": "303", "name": "Washington"}]}

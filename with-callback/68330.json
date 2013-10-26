@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.716216, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cordova", "lng": -97.3522, "zip_code": "68330"});
+zipapicallback({"locality": "Cordova", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cordova"], "postal_code": "68330", "lat": 40.716216, "lng": -97.3522, "type": "POBOX", "counties": [{"fips": "159", "name": "Seward"}]});

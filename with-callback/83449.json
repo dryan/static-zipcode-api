@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.450364, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Swan Valley", "lng": -111.33201, "zip_code": "83449"});
+zipapicallback({"locality": "Swan Valley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Swan Valley"], "postal_code": "83449", "lat": 43.450364, "lng": -111.33201, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bonneville"}]});

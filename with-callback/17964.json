@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.710899, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pitman", "lng": -76.52368, "zip_code": "17964"});
+zipapicallback({"locality": "Pitman", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pitman"], "postal_code": "17964", "lat": 40.710899, "lng": -76.52368, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}, {"fips": "097", "name": "Northumberland"}]});

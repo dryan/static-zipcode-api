@@ -1,1 +1,1 @@
-{"lat": 35.175847, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Glenville", "lng": -83.11146, "zip_code": "28736"}
+{"locality": "Glenville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Glenville"], "postal_code": "28736", "lat": 35.175847, "lng": -83.11146, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jackson"}]}

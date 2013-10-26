@@ -1,1 +1,1 @@
-{"lat": 34.345016, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lafayette", "lng": -89.50735, "zip_code": "38655"}
+{"locality": "Oxford", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lafayette", "Oxford"], "postal_code": "38655", "lat": 34.345016, "lng": -89.50735, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lafayette"}]}

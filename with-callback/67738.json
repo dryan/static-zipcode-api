@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.042757, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Grinnell", "lng": -100.64563, "zip_code": "67738"});
+zipapicallback({"locality": "Grinnell", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Grinnell"], "postal_code": "67738", "lat": 39.042757, "lng": -100.64563, "type": "STANDARD", "counties": [{"fips": "063", "name": "Gove"}, {"fips": "179", "name": "Sheridan"}]});

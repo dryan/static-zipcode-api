@@ -1,1 +1,1 @@
-{"lat": 37.936577, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Raphine", "lng": -79.22828, "zip_code": "24472"}
+{"locality": "Raphine", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Raphine"], "postal_code": "24472", "lat": 37.936577, "lng": -79.22828, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rockbridge"}, {"fips": "015", "name": "Augusta"}]}

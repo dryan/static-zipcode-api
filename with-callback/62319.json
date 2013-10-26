@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.147818, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Camden", "lng": -90.74246, "zip_code": "62319"});
+zipapicallback({"locality": "Camden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Camden"], "postal_code": "62319", "lat": 40.147818, "lng": -90.74246, "type": "STANDARD", "counties": [{"fips": "169", "name": "Schuyler"}]});

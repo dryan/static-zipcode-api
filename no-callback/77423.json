@@ -1,1 +1,1 @@
-{"lat": 29.80038, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brookshire", "lng": -95.98452, "zip_code": "77423"}
+{"locality": "Brookshire", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brookshire", "Pattison"], "postal_code": "77423", "lat": 29.80038, "lng": -95.98452, "type": "STANDARD", "counties": [{"fips": "473", "name": "Waller"}, {"fips": "157", "name": "Fort Bend"}]}

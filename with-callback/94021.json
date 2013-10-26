@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.271753, "region": {"abbr": "CA", "name": "California"}, "locality": "Loma Mar", "lng": -122.27672, "zip_code": "94021"});
+zipapicallback({"locality": "Loma Mar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Loma Mar"], "postal_code": "94021", "lat": 37.271753, "lng": -122.27672, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]});

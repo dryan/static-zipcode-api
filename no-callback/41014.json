@@ -1,1 +1,1 @@
-{"lat": 39.067811, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Rouse", "lng": -84.5039, "zip_code": "41014"}
+{"locality": "Covington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Covington", "Rouse"], "postal_code": "41014", "lat": 39.067811, "lng": -84.5039, "type": "STANDARD", "counties": [{"fips": "117", "name": "Kenton"}]}

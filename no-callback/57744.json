@@ -1,1 +1,1 @@
-{"lat": 43.796169, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hermosa", "lng": -103.07698, "zip_code": "57744"}
+{"locality": "Hermosa", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hermosa"], "postal_code": "57744", "lat": 43.796169, "lng": -103.07698, "type": "STANDARD", "counties": [{"fips": "033", "name": "Custer"}, {"fips": "113", "name": "Shannon"}, {"fips": "103", "name": "Pennington"}]}

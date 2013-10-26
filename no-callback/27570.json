@@ -1,1 +1,1 @@
-{"lat": 36.441215, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ridgeway", "lng": -78.24044, "zip_code": "27570"}
+{"locality": "Ridgeway", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ridgeway"], "postal_code": "27570", "lat": 36.441215, "lng": -78.24044, "type": "POBOX", "counties": [{"fips": "185", "name": "Warren"}]}

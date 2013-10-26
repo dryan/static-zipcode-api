@@ -1,1 +1,1 @@
-{"lat": 43.020762, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Waukesha", "lng": -88.26852, "zip_code": "53188"}
+{"locality": "Waukesha", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Vernon", "Waukesha"], "postal_code": "53188", "lat": 43.020762, "lng": -88.26852, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}]}

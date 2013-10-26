@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.252213, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Altheimer", "lng": -91.7679, "zip_code": "72004"});
+zipapicallback({"locality": "Altheimer", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Altheimer"], "postal_code": "72004", "lat": 34.252213, "lng": -91.7679, "type": "STANDARD", "counties": [{"fips": "069", "name": "Jefferson"}]});

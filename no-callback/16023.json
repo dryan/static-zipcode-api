@@ -1,1 +1,1 @@
-{"lat": 40.796809, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marwood", "lng": -79.75147, "zip_code": "16023"}
+{"locality": "Cabot", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cabot", "Marwood"], "postal_code": "16023", "lat": 40.796809, "lng": -79.75147, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]}

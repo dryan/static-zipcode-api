@@ -1,1 +1,1 @@
-{"lat": 40.058565, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brandamore", "lng": -75.83584, "zip_code": "19316"}
+{"locality": "Brandamore", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brandamore"], "postal_code": "19316", "lat": 40.058565, "lng": -75.83584, "type": "POBOX", "counties": [{"fips": "029", "name": "Chester"}]}

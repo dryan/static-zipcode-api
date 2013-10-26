@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.069085, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Trenton", "lng": -103.84342, "zip_code": "58853"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Trenton"], "postal_code": "58853", "lat": 48.069085, "lng": -103.84342, "type": "POBOX", "counties": [{"fips": "105", "name": "Williams"}]});

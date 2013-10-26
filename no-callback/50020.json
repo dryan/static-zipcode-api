@@ -1,1 +1,1 @@
-{"lat": 41.445635, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Anita", "lng": -94.75806, "zip_code": "50020"}
+{"locality": "Anita", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Anita"], "postal_code": "50020", "lat": 41.445635, "lng": -94.75806, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cass"}, {"fips": "001", "name": "Adair"}, {"fips": "077", "name": "Guthrie"}, {"fips": "009", "name": "Audubon"}]}

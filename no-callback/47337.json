@@ -1,1 +1,1 @@
-{"lat": 39.802917, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dunreith", "lng": -85.43806, "zip_code": "47337"}
+{"locality": "Dunreith", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dunreith"], "postal_code": "47337", "lat": 39.802917, "lng": -85.43806, "type": "POBOX", "counties": [{"fips": "065", "name": "Henry"}]}

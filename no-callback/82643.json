@@ -1,1 +1,1 @@
-{"lat": 43.363864, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Midwest", "lng": -106.27476, "zip_code": "82643"}
+{"locality": "Midwest", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Midwest"], "postal_code": "82643", "lat": 43.363864, "lng": -106.27476, "type": "STANDARD", "counties": [{"fips": "025", "name": "Natrona"}]}

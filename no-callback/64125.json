@@ -1,1 +1,1 @@
-{"lat": 39.104887, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kansas City", "lng": -94.49541, "zip_code": "64125"}
+{"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City"], "postal_code": "64125", "lat": 39.104887, "lng": -94.49541, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]}

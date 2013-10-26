@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.853151, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Seminole", "lng": -82.82712, "zip_code": "33776"});
+zipapicallback({"locality": "Seminole", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Largo", "Seminole"], "postal_code": "33776", "lat": 27.853151, "lng": -82.82712, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.026842, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Muir", "lng": -84.92633, "zip_code": "48860"});
+zipapicallback({"locality": "Muir", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Muir"], "postal_code": "48860", "lat": 43.026842, "lng": -84.92633, "type": "STANDARD", "counties": [{"fips": "067", "name": "Ionia"}]});

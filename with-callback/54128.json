@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.860223, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Gresham", "lng": -88.79585, "zip_code": "54128"});
+zipapicallback({"locality": "Gresham", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gresham"], "postal_code": "54128", "lat": 44.860223, "lng": -88.79585, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}]});

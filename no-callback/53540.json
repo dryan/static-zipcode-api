@@ -1,1 +1,1 @@
-{"lat": 43.222854, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Gotham", "lng": -90.2935, "zip_code": "53540"}
+{"locality": "Gotham", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gotham"], "postal_code": "53540", "lat": 43.222854, "lng": -90.2935, "type": "POBOX", "counties": [{"fips": "103", "name": "Richland"}]}

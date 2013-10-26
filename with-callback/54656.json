@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.96977, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sparta", "lng": -90.80796, "zip_code": "54656"});
+zipapicallback({"locality": "Sparta", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fort Mccoy", "Sparta"], "postal_code": "54656", "lat": 43.96977, "lng": -90.80796, "type": "STANDARD", "counties": [{"fips": "081", "name": "Monroe"}, {"fips": "053", "name": "Jackson"}, {"fips": "063", "name": "La Crosse"}]});

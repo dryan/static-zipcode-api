@@ -1,1 +1,1 @@
-{"lat": 46.114445, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wahkon", "lng": -93.51986, "zip_code": "56386"}
+{"locality": "Wahkon", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wahkon"], "postal_code": "56386", "lat": 46.114445, "lng": -93.51986, "type": "STANDARD", "counties": [{"fips": "095", "name": "Mille Lacs"}]}

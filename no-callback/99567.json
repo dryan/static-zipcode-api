@@ -1,1 +1,1 @@
-{"lat": 61.413717, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chugiak", "lng": -149.42644, "zip_code": "99567"}
+{"locality": "Chugiak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chugiak"], "postal_code": "99567", "lat": 61.413717, "lng": -149.42644, "type": "STANDARD", "counties": [{"fips": "020", "name": "Anchorage"}]}

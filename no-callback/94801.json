@@ -1,1 +1,1 @@
-{"lat": 37.941424, "region": {"abbr": "CA", "name": "California"}, "locality": "Richmond", "lng": -122.36628, "zip_code": "94801"}
+{"locality": "Richmond", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Richmond", "North Richmond", "Point Richmond", "Pt Richmond", "Richmond"], "postal_code": "94801", "lat": 37.941424, "lng": -122.36628, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]}

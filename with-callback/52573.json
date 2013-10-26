@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.620468, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mount Sterling", "lng": -91.93352, "zip_code": "52573"});
+zipapicallback({"locality": "Mount Sterling", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mount Sterling", "Mt Sterling"], "postal_code": "52573", "lat": 40.620468, "lng": -91.93352, "type": "STANDARD", "counties": [{"fips": "177", "name": "Van Buren"}]});

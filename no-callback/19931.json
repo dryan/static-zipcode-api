@@ -1,1 +1,1 @@
-{"lat": 38.570238, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Bethel", "lng": -75.6147, "zip_code": "19931"}
+{"locality": "Bethel", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Bethel"], "postal_code": "19931", "lat": 38.570238, "lng": -75.6147, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

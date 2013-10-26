@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.293165, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Achilles", "lng": -76.41057, "zip_code": "23001"});
+zipapicallback({"locality": "Achilles", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Achilles"], "postal_code": "23001", "lat": 37.293165, "lng": -76.41057, "type": "POBOX", "counties": [{"fips": "073", "name": "Gloucester"}]});

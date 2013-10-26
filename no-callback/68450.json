@@ -1,1 +1,1 @@
-{"lat": 40.373895, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Tecumseh", "lng": -96.2097, "zip_code": "68450"}
+{"locality": "Tecumseh", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Tecumseh"], "postal_code": "68450", "lat": 40.373895, "lng": -96.2097, "type": "STANDARD", "counties": [{"fips": "097", "name": "Johnson"}]}

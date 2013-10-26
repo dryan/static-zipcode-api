@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.58755, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kincaid", "lng": -89.41265, "zip_code": "62540"});
+zipapicallback({"locality": "Kincaid", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kincaid"], "postal_code": "62540", "lat": 39.58755, "lng": -89.41265, "type": "POBOX", "counties": [{"fips": "021", "name": "Christian"}]});

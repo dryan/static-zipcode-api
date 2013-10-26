@@ -1,1 +1,1 @@
-{"lat": 38.35906, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Beaver", "lng": -112.6926, "zip_code": "84713"}
+{"locality": "Beaver", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Beaver"], "postal_code": "84713", "lat": 38.35906, "lng": -112.6926, "type": "STANDARD", "counties": [{"fips": "001", "name": "Beaver"}]}

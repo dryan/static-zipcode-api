@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.76342, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Taft", "lng": -95.54788, "zip_code": "74463"});
+zipapicallback({"locality": "Taft", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Taft"], "postal_code": "74463", "lat": 35.76342, "lng": -95.54788, "type": "POBOX", "counties": [{"fips": "101", "name": "Muskogee"}]});

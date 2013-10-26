@@ -1,1 +1,1 @@
-{"lat": 42.192615, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cameron Mills", "lng": -77.35979, "zip_code": "14820"}
+{"locality": "Cameron Mills", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cameron Mills"], "postal_code": "14820", "lat": 42.192615, "lng": -77.35979, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]}

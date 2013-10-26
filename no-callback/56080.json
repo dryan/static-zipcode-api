@@ -1,1 +1,1 @@
-{"lat": 44.080713, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Clair", "lng": -93.85663, "zip_code": "56080"}
+{"locality": "Saint Clair", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Clair"], "postal_code": "56080", "lat": 44.080713, "lng": -93.85663, "type": "POBOX", "counties": [{"fips": "013", "name": "Blue Earth"}]}

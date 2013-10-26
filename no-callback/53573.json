@@ -1,1 +1,1 @@
-{"lat": 43.1914, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Muscoda", "lng": -90.45655, "zip_code": "53573"}
+{"locality": "Muscoda", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Muscoda"], "postal_code": "53573", "lat": 43.1914, "lng": -90.45655, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "049", "name": "Iowa"}, {"fips": "103", "name": "Richland"}]}

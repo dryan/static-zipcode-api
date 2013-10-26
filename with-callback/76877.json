@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.190826, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Saba", "lng": -98.74134, "zip_code": "76877"});
+zipapicallback({"locality": "San Saba", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Saba"], "postal_code": "76877", "lat": 31.190826, "lng": -98.74134, "type": "STANDARD", "counties": [{"fips": "411", "name": "San Saba"}]});

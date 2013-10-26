@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.837716, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oak Brook", "lng": -87.96041, "zip_code": "60523"});
+zipapicallback({"locality": "Oak Brook", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hinsdale", "Oak Brook"], "postal_code": "60523", "lat": 41.837716, "lng": -87.96041, "type": "STANDARD", "counties": []});

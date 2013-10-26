@@ -1,1 +1,1 @@
-{"lat": 41.045785, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saint Anne", "lng": -87.68963, "zip_code": "60964"}
+{"locality": "Saint Anne", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Saint Anne", "Sun River Ter", "Sun River Terrace"], "postal_code": "60964", "lat": 41.045785, "lng": -87.68963, "type": "STANDARD", "counties": [{"fips": "091", "name": "Kankakee"}, {"fips": "075", "name": "Iroquois"}]}

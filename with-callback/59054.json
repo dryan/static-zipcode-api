@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.56503, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Melstone", "lng": -107.9138, "zip_code": "59054"});
+zipapicallback({"locality": "Melstone", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Melstone"], "postal_code": "59054", "lat": 46.56503, "lng": -107.9138, "type": "POBOX", "counties": [{"fips": "065", "name": "Musselshell"}]});

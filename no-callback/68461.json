@@ -1,1 +1,1 @@
-{"lat": 40.764867, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Walton", "lng": -96.53044, "zip_code": "68461"}
+{"locality": "Walton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Walton"], "postal_code": "68461", "lat": 40.764867, "lng": -96.53044, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}]}

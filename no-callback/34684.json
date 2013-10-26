@@ -1,1 +1,1 @@
-{"lat": 28.081325, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Tarpon", "lng": -82.72751, "zip_code": "34684"}
+{"locality": "Palm Harbor", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Palm Harbor"], "postal_code": "34684", "lat": 28.081325, "lng": -82.72751, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

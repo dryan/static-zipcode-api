@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.198005, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Vansant", "lng": -82.12193, "zip_code": "24656"});
+zipapicallback({"locality": "Vansant", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Vansant"], "postal_code": "24656", "lat": 37.198005, "lng": -82.12193, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}]});

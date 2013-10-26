@@ -1,1 +1,1 @@
-{"lat": 42.490421, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Lynn", "lng": -70.96579, "zip_code": "01904"}
+{"locality": "Lynn", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["East Lynn", "Lynn"], "postal_code": "01904", "lat": 42.490421, "lng": -70.96579, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.433093, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tinker Afb", "lng": -97.39844, "zip_code": "73145"}
+{"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Oklahoma City", "Tinker Afb"], "postal_code": "73145", "lat": 35.433093, "lng": -97.39844, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]}

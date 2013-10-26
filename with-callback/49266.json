@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.844894, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Osseo", "lng": -84.55244, "zip_code": "49266"});
+zipapicallback({"locality": "Osseo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Osseo"], "postal_code": "49266", "lat": 41.844894, "lng": -84.55244, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hillsdale"}]});

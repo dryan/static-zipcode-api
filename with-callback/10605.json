@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.01002, "region": {"abbr": "NY", "name": "New York"}, "locality": "White Plains", "lng": -73.75158, "zip_code": "10605"});
+zipapicallback({"locality": "White Plains", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["White Plains"], "postal_code": "10605", "lat": 41.01002, "lng": -73.75158, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

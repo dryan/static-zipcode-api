@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.778763, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Slick", "lng": -96.26802, "zip_code": "74071"});
+zipapicallback({"locality": "Slick", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Slick"], "postal_code": "74071", "lat": 35.778763, "lng": -96.26802, "type": "POBOX", "counties": [{"fips": "037", "name": "Creek"}]});

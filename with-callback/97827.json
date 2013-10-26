@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.564451, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Elgin", "lng": -117.88306, "zip_code": "97827"});
+zipapicallback({"locality": "Elgin", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Elgin"], "postal_code": "97827", "lat": 45.564451, "lng": -117.88306, "type": "STANDARD", "counties": [{"fips": "061", "name": "Union"}]});

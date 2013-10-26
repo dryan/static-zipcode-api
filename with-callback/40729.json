@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.231717, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Symbol", "lng": -84.13026, "zip_code": "40729"});
+zipapicallback({"locality": "East Bernstadt", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["E Bernstadt", "East Bernstadt", "Symbol", "Victory"], "postal_code": "40729", "lat": 37.231717, "lng": -84.13026, "type": "STANDARD", "counties": [{"fips": "125", "name": "Laurel"}]});

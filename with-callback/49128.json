@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.820452, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Three Oaks", "lng": -86.61984, "zip_code": "49128"});
+zipapicallback({"locality": "Three Oaks", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Three Oaks"], "postal_code": "49128", "lat": 41.820452, "lng": -86.61984, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}]});

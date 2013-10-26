@@ -1,1 +1,1 @@
-{"lat": 40.175357, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wall", "lng": -74.04694, "zip_code": "07719"}
+{"locality": "Belmar", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Belmar", "Lake Como", "Wall", "Wall Township"], "postal_code": "07719", "lat": 40.175357, "lng": -74.04694, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

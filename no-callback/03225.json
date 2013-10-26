@@ -1,1 +1,1 @@
-{"lat": 43.354005, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Center Barnstead", "lng": -71.22819, "zip_code": "03225"}
+{"locality": "Center Barnstead", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Center Barnstead", "Ctr Barnstead"], "postal_code": "03225", "lat": 43.354005, "lng": -71.22819, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}]}

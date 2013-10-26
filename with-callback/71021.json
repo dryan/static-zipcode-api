@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.969535, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Cullen", "lng": -93.44959, "zip_code": "71021"});
+zipapicallback({"locality": "Cullen", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Cullen"], "postal_code": "71021", "lat": 32.969535, "lng": -93.44959, "type": "POBOX", "counties": [{"fips": "119", "name": "Webster"}]});

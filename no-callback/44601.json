@@ -1,1 +1,1 @@
-{"lat": 40.917908, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Alliance", "lng": -81.11641, "zip_code": "44601"}
+{"locality": "Alliance", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Alliance"], "postal_code": "44601", "lat": 40.917908, "lng": -81.11641, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "099", "name": "Mahoning"}, {"fips": "133", "name": "Portage"}, {"fips": "029", "name": "Columbiana"}]}

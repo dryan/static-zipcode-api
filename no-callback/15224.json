@@ -1,1 +1,1 @@
-{"lat": 40.463463, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bloomfield", "lng": -79.94612, "zip_code": "15224"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bloomfield", "Pittsburgh"], "postal_code": "15224", "lat": 40.463463, "lng": -79.94612, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.624913, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fairfield", "lng": -112.03006, "zip_code": "59436"}
+{"locality": "Fairfield", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fairfield"], "postal_code": "59436", "lat": 47.624913, "lng": -112.03006, "type": "STANDARD", "counties": [{"fips": "099", "name": "Teton"}]}

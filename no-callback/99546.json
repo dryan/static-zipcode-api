@@ -1,1 +1,1 @@
-{"lat": 51.87957, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Adak", "lng": -176.63675, "zip_code": "99546"}
+{"locality": "Adak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Adak"], "postal_code": "99546", "lat": 51.87957, "lng": -176.63675, "type": "POBOX", "counties": []}

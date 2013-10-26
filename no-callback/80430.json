@@ -1,1 +1,1 @@
-{"lat": 40.436948, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Coalmont", "lng": -106.49424, "zip_code": "80430"}
+{"locality": "Coalmont", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Coalmont", "Walden"], "postal_code": "80430", "lat": 40.436948, "lng": -106.49424, "type": "STANDARD", "counties": [{"fips": "057", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.499242, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fort Dodge", "lng": -94.18256, "zip_code": "50501"});
+zipapicallback({"locality": "Fort Dodge", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fort Dodge"], "postal_code": "50501", "lat": 42.499242, "lng": -94.18256, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]});

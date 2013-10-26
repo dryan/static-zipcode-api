@@ -1,1 +1,1 @@
-{"lat": 40.518368, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West View", "lng": -80.03364, "zip_code": "15229"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh", "West View"], "postal_code": "15229", "lat": 40.518368, "lng": -80.03364, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

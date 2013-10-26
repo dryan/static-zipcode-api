@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.857663, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ellport", "lng": -80.27534, "zip_code": "16117"});
+zipapicallback({"locality": "Ellwood City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ellport", "Ellwood City"], "postal_code": "16117", "lat": 40.857663, "lng": -80.27534, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}, {"fips": "007", "name": "Beaver"}]});

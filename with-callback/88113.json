@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.843464, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Causey", "lng": -103.10002, "zip_code": "88113"});
+zipapicallback({"locality": "Causey", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Causey"], "postal_code": "88113", "lat": 33.843464, "lng": -103.10002, "type": "STANDARD", "counties": [{"fips": "041", "name": "Roosevelt"}]});

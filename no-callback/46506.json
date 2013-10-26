@@ -1,1 +1,1 @@
-{"lat": 41.450744, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bremen", "lng": -86.1692, "zip_code": "46506"}
+{"locality": "Bremen", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bremen"], "postal_code": "46506", "lat": 41.450744, "lng": -86.1692, "type": "STANDARD", "counties": [{"fips": "099", "name": "Marshall"}, {"fips": "141", "name": "Saint Joseph"}, {"fips": "085", "name": "Kosciusko"}]}

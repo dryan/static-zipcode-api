@@ -1,1 +1,1 @@
-{"lat": 43.761599, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Standish", "lng": -70.56433, "zip_code": "04084"}
+{"locality": "Standish", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Sebago Lake", "Standish"], "postal_code": "04084", "lat": 43.761599, "lng": -70.56433, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

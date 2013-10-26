@@ -1,1 +1,1 @@
-{"lat": 42.855231, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Plainfield", "lng": -92.50295, "zip_code": "50666"}
+{"locality": "Plainfield", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Plainfield"], "postal_code": "50666", "lat": 42.855231, "lng": -92.50295, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bremer"}]}

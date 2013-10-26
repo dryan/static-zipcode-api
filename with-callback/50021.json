@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.725288, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ankeny", "lng": -93.60475, "zip_code": "50021"});
+zipapicallback({"locality": "Ankeny", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ankeny"], "postal_code": "50021", "lat": 41.725288, "lng": -93.60475, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

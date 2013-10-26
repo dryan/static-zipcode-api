@@ -1,1 +1,1 @@
-{"lat": 45.246631, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Annandale", "lng": -94.11692, "zip_code": "55302"}
+{"locality": "Annandale", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Annandale"], "postal_code": "55302", "lat": 45.246631, "lng": -94.11692, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]}

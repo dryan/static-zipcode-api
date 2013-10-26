@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.038539, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mount Tremper", "lng": -74.23905, "zip_code": "12457"});
+zipapicallback({"locality": "Mount Tremper", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mount Tremper"], "postal_code": "12457", "lat": 42.038539, "lng": -74.23905, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

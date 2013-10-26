@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.463644, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Kuna", "lng": -116.39311, "zip_code": "83634"});
+zipapicallback({"locality": "Kuna", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Kuna"], "postal_code": "83634", "lat": 43.463644, "lng": -116.39311, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}]});

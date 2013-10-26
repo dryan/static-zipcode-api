@@ -1,1 +1,1 @@
-{"lat": 35.321815, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Sayre", "lng": -99.65314, "zip_code": "73662"}
+{"locality": "Sayre", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Sayre"], "postal_code": "73662", "lat": 35.321815, "lng": -99.65314, "type": "STANDARD", "counties": [{"fips": "009", "name": "Beckham"}, {"fips": "129", "name": "Roger Mills"}, {"fips": "055", "name": "Greer"}]}

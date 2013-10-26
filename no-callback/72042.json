@@ -1,1 +1,1 @@
-{"lat": 34.283347, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "De Witt", "lng": -91.32515, "zip_code": "72042"}
+{"locality": "De Witt", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["De Witt", "Dewitt"], "postal_code": "72042", "lat": 34.283347, "lng": -91.32515, "type": "STANDARD", "counties": [{"fips": "001", "name": "Arkansas"}]}

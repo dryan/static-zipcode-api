@@ -1,1 +1,1 @@
-{"lat": 29.846862, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rosanky", "lng": -97.3318, "zip_code": "78953"}
+{"locality": "Rosanky", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rosanky"], "postal_code": "78953", "lat": 29.846862, "lng": -97.3318, "type": "STANDARD", "counties": [{"fips": "055", "name": "Caldwell"}, {"fips": "021", "name": "Bastrop"}]}

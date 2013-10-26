@@ -1,1 +1,1 @@
-{"lat": 44.276986, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Appleton", "lng": -88.39445, "zip_code": "54911"}
+{"locality": "Appleton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Appleton", "Grand Chute", "Little Chute"], "postal_code": "54911", "lat": 44.276986, "lng": -88.39445, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.489736, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Battle Mountain", "lng": -117.08692, "zip_code": "89820"}
+{"locality": "Battle Mountain", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Battle Mountain", "Battle Mtn"], "postal_code": "89820", "lat": 40.489736, "lng": -117.08692, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lander"}]}

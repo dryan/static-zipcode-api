@@ -1,1 +1,1 @@
-{"lat": 31.453069, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Newville", "lng": -85.36241, "zip_code": "36353"}
+{"locality": "Newville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Newville"], "postal_code": "36353", "lat": 31.453069, "lng": -85.36241, "type": "STANDARD", "counties": [{"fips": "067", "name": "Henry"}, {"fips": "045", "name": "Dale"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.31353, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Guilford", "lng": -72.69791, "zip_code": "06437"}
+{"locality": "Guilford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Guilford"], "postal_code": "06437", "lat": 41.31353, "lng": -72.69791, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}, {"fips": "001", "name": "Fairfield"}]}

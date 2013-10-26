@@ -1,1 +1,1 @@
-{"lat": 34.604268, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Keo", "lng": -92.01479, "zip_code": "72083"}
+{"locality": "Keo", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Keo"], "postal_code": "72083", "lat": 34.604268, "lng": -92.01479, "type": "POBOX", "counties": [{"fips": "085", "name": "Lonoke"}]}

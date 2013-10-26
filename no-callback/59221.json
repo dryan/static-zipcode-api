@@ -1,1 +1,1 @@
-{"lat": 47.900376, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fairview", "lng": -104.13403, "zip_code": "59221"}
+{"locality": "Fairview", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fairview"], "postal_code": "59221", "lat": 47.900376, "lng": -104.13403, "type": "STANDARD", "counties": [{"fips": "083", "name": "Richland"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.843702, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dixon", "lng": -89.47636, "zip_code": "61021"}
+{"locality": "Dixon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dixon", "Nelson"], "postal_code": "61021", "lat": 41.843702, "lng": -89.47636, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lee"}, {"fips": "141", "name": "Ogle"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.279297, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Yerkes", "lng": -83.3187, "zip_code": "41778"});
+zipapicallback({"locality": "Yerkes", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Yerkes"], "postal_code": "41778", "lat": 37.279297, "lng": -83.3187, "type": "POBOX", "counties": [{"fips": "193", "name": "Perry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.967091, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Luther", "lng": -93.82106, "zip_code": "50152"});
+zipapicallback({"locality": "Luther", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Luther"], "postal_code": "50152", "lat": 41.967091, "lng": -93.82106, "type": "POBOX", "counties": [{"fips": "015", "name": "Boone"}]});

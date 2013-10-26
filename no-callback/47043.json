@@ -1,1 +1,1 @@
-{"lat": 38.788449, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Vevay", "lng": -85.06618, "zip_code": "47043"}
+{"locality": "Vevay", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Vevay"], "postal_code": "47043", "lat": 38.788449, "lng": -85.06618, "type": "STANDARD", "counties": [{"fips": "155", "name": "Switzerland"}]}

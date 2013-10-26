@@ -1,1 +1,1 @@
-{"lat": 29.999453, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Metairie", "lng": -90.13398, "zip_code": "70005"}
+{"locality": "Metairie", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Metairie"], "postal_code": "70005", "lat": 29.999453, "lng": -90.13398, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]}

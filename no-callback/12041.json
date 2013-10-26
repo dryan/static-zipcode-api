@@ -1,1 +1,1 @@
-{"lat": 42.543326, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clarksville", "lng": -73.97403, "zip_code": "12041"}
+{"locality": "Clarksville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clarksville"], "postal_code": "12041", "lat": 42.543326, "lng": -73.97403, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

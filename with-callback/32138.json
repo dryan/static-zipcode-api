@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.727276, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Grandin", "lng": -81.9205, "zip_code": "32138"});
+zipapicallback({"locality": "Grandin", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Grandin"], "postal_code": "32138", "lat": 29.727276, "lng": -81.9205, "type": "POBOX", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.738812, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Ashwood", "lng": -120.75257, "zip_code": "97711"});
+zipapicallback({"locality": "Ashwood", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Ashwood"], "postal_code": "97711", "lat": 44.738812, "lng": -120.75257, "type": "STANDARD", "counties": [{"fips": "031", "name": "Jefferson"}]});

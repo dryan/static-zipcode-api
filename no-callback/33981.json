@@ -1,1 +1,1 @@
-{"lat": 26.922089, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Port Charlotte", "lng": -82.23092, "zip_code": "33981"}
+{"locality": "Port Charlotte", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Port Charlotte", "Pt Charlotte"], "postal_code": "33981", "lat": 26.922089, "lng": -82.23092, "type": "STANDARD", "counties": [{"fips": "015", "name": "Charlotte"}]}

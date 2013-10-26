@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.48684, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gas City", "lng": -85.60772, "zip_code": "46933"});
+zipapicallback({"locality": "Gas City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gas City"], "postal_code": "46933", "lat": 40.48684, "lng": -85.60772, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]});

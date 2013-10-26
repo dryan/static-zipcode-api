@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.928525, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lumber City", "lng": -82.69332, "zip_code": "31549"});
+zipapicallback({"locality": "Lumber City", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lumber City"], "postal_code": "31549", "lat": 31.928525, "lng": -82.69332, "type": "STANDARD", "counties": [{"fips": "271", "name": "Telfair"}, {"fips": "309", "name": "Wheeler"}]});

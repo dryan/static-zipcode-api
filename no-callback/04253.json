@@ -1,1 +1,1 @@
-{"lat": 44.408579, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Livermore", "lng": -70.22452, "zip_code": "04253"}
+{"locality": "Livermore", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Livermore"], "postal_code": "04253", "lat": 44.408579, "lng": -70.22452, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]}

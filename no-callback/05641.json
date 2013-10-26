@@ -1,1 +1,1 @@
-{"lat": 44.194307, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Barre", "lng": -72.49443, "zip_code": "05641"}
+{"locality": "Barre", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Barre", "Orange"], "postal_code": "05641", "lat": 44.194307, "lng": -72.49443, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}, {"fips": "017", "name": "Orange"}]}

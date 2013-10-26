@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.325456, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mantachie", "lng": -88.49376, "zip_code": "38855"});
+zipapicallback({"locality": "Mantachie", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mantachie"], "postal_code": "38855", "lat": 34.325456, "lng": -88.49376, "type": "STANDARD", "counties": [{"fips": "057", "name": "Itawamba"}]});

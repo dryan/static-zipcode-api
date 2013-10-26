@@ -1,1 +1,1 @@
-{"lat": 35.493581, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Warner", "lng": -95.30914, "zip_code": "74469"}
+{"locality": "Warner", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Warner"], "postal_code": "74469", "lat": 35.493581, "lng": -95.30914, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "091", "name": "McIntosh"}]}

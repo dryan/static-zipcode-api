@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.838423, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Forks", "lng": -124.35888, "zip_code": "98331"});
+zipapicallback({"locality": "Forks", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Forks"], "postal_code": "98331", "lat": 47.838423, "lng": -124.35888, "type": "STANDARD", "counties": [{"fips": "009", "name": "Clallam"}]});

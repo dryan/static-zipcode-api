@@ -1,1 +1,1 @@
-{"lat": 35.752578, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Linwood", "lng": -80.37587, "zip_code": "27299"}
+{"locality": "Linwood", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Linwood"], "postal_code": "27299", "lat": 35.752578, "lng": -80.37587, "type": "STANDARD", "counties": [{"fips": "057", "name": "Davidson"}]}

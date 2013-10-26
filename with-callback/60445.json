@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.631683, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Crestwood", "lng": -87.73309, "zip_code": "60445"});
+zipapicallback({"locality": "Midlothian", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Crestwood", "Midlothian"], "postal_code": "60445", "lat": 41.631683, "lng": -87.73309, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

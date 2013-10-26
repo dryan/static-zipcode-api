@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.948979, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Fort Oglethorpe", "lng": -85.25212, "zip_code": "30742"});
+zipapicallback({"locality": "Fort Oglethorpe", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Fort Oglethorpe", "Ft Oglethorpe", "Rossville"], "postal_code": "30742", "lat": 34.948979, "lng": -85.25212, "type": "STANDARD", "counties": [{"fips": "047", "name": "Catoosa"}]});

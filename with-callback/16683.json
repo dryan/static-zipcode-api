@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.662087, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Spruce Creek", "lng": -78.07012, "zip_code": "16683"});
+zipapicallback({"locality": "Spruce Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Spruce Creek"], "postal_code": "16683", "lat": 40.662087, "lng": -78.07012, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.23354, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Sanford", "lng": -105.7477, "zip_code": "81151"});
+zipapicallback({"locality": "Sanford", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["San Acacio", "Sanford"], "postal_code": "81151", "lat": 37.23354, "lng": -105.7477, "type": "STANDARD", "counties": [{"fips": "021", "name": "Conejos"}, {"fips": "023", "name": "Costilla"}]});

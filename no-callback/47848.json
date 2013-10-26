@@ -1,1 +1,1 @@
-{"lat": 39.065547, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dugger", "lng": -87.25714, "zip_code": "47848"}
+{"locality": "Dugger", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dugger"], "postal_code": "47848", "lat": 39.065547, "lng": -87.25714, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sullivan"}, {"fips": "055", "name": "Greene"}]}

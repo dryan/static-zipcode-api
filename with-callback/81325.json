@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.027131, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Egnar", "lng": -108.83162, "zip_code": "81325"});
+zipapicallback({"locality": "Egnar", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Egnar", "Slick Rock"], "postal_code": "81325", "lat": 38.027131, "lng": -108.83162, "type": "STANDARD", "counties": [{"fips": "113", "name": "San Miguel"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.271451, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Surrey", "lng": -101.11174, "zip_code": "58785"}
+{"locality": "Surrey", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Surrey"], "postal_code": "58785", "lat": 48.271451, "lng": -101.11174, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}]}

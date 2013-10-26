@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.471368, "region": {"abbr": "CA", "name": "California"}, "locality": "Russian River Md", "lng": -123.01469, "zip_code": "95462"});
+zipapicallback({"locality": "Monte Rio", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Monte Rio", "Russian River", "Russian River Mdws"], "postal_code": "95462", "lat": 38.471368, "lng": -123.01469, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]});

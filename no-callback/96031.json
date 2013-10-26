@@ -1,1 +1,1 @@
-{"lat": 41.228397, "region": {"abbr": "CA", "name": "California"}, "locality": "Forks Of Salmon", "lng": -123.20187, "zip_code": "96031"}
+{"locality": "Forks Of Salmon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Forks Of Salmon", "Frk Of Salmon"], "postal_code": "96031", "lat": 41.228397, "lng": -123.20187, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]}

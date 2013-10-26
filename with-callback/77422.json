@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.011241, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brazoria", "lng": -95.58071, "zip_code": "77422"});
+zipapicallback({"locality": "Brazoria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brazoria"], "postal_code": "77422", "lat": 29.011241, "lng": -95.58071, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]});

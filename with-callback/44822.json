@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.561377, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Butler", "lng": -82.41237, "zip_code": "44822"});
+zipapicallback({"locality": "Butler", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Butler"], "postal_code": "44822", "lat": 40.561377, "lng": -82.41237, "type": "STANDARD", "counties": [{"fips": "139", "name": "Richland"}, {"fips": "083", "name": "Knox"}, {"fips": "005", "name": "Ashland"}]});

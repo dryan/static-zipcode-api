@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.283826, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Sekiu", "lng": -124.37144, "zip_code": "98381"});
+zipapicallback({"locality": "Sekiu", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Sekiu"], "postal_code": "98381", "lat": 48.283826, "lng": -124.37144, "type": "STANDARD", "counties": [{"fips": "009", "name": "Clallam"}]});

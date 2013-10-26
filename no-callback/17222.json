@@ -1,1 +1,1 @@
-{"lat": 39.897287, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fayetteville", "lng": -77.52006, "zip_code": "17222"}
+{"locality": "Fayetteville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fayetteville"], "postal_code": "17222", "lat": 39.897287, "lng": -77.52006, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}, {"fips": "001", "name": "Adams"}]}

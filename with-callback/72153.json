@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.619538, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Shirley", "lng": -92.32589, "zip_code": "72153"});
+zipapicallback({"locality": "Shirley", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Shirley"], "postal_code": "72153", "lat": 35.619538, "lng": -92.32589, "type": "STANDARD", "counties": [{"fips": "141", "name": "Van Buren"}, {"fips": "023", "name": "Cleburne"}, {"fips": "137", "name": "Stone"}]});

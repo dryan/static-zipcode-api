@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.821862, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nardin", "lng": -97.45366, "zip_code": "74646"});
+zipapicallback({"locality": "Nardin", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nardin"], "postal_code": "74646", "lat": 36.821862, "lng": -97.45366, "type": "STANDARD", "counties": [{"fips": "071", "name": "Kay"}]});

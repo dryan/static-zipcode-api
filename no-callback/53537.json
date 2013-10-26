@@ -1,1 +1,1 @@
-{"lat": 42.668944, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Footville", "lng": -89.20998, "zip_code": "53537"}
+{"locality": "Footville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Footville"], "postal_code": "53537", "lat": 42.668944, "lng": -89.20998, "type": "POBOX", "counties": [{"fips": "105", "name": "Rock"}]}

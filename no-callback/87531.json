@@ -1,1 +1,1 @@
-{"lat": 36.248813, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Embudo", "lng": -105.87995, "zip_code": "87531"}
+{"locality": "Embudo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Embudo"], "postal_code": "87531", "lat": 36.248813, "lng": -105.87995, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

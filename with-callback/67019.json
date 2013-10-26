@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.314208, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Burden", "lng": -96.78463, "zip_code": "67019"});
+zipapicallback({"locality": "Burden", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Burden"], "postal_code": "67019", "lat": 37.314208, "lng": -96.78463, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cowley"}]});

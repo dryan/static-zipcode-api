@@ -1,1 +1,1 @@
-{"lat": 31.337382, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bruceville", "lng": -97.22762, "zip_code": "76630"}
+{"locality": "Bruceville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bruceville"], "postal_code": "76630", "lat": 31.337382, "lng": -97.22762, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}, {"fips": "145", "name": "Falls"}]}

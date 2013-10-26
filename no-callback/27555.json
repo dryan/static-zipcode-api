@@ -1,1 +1,1 @@
-{"lat": 35.562142, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Micro", "lng": -78.20349, "zip_code": "27555"}
+{"locality": "Micro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Micro"], "postal_code": "27555", "lat": 35.562142, "lng": -78.20349, "type": "POBOX", "counties": [{"fips": "101", "name": "Johnston"}]}

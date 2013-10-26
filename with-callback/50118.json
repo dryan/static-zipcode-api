@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.457014, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hartford", "lng": -93.39078, "zip_code": "50118"});
+zipapicallback({"locality": "Hartford", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hartford"], "postal_code": "50118", "lat": 41.457014, "lng": -93.39078, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}]});

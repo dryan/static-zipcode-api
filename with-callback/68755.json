@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.946169, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Naper", "lng": -99.11638, "zip_code": "68755"});
+zipapicallback({"locality": "Naper", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Naper"], "postal_code": "68755", "lat": 42.946169, "lng": -99.11638, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boyd"}]});

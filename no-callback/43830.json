@@ -1,1 +1,1 @@
-{"lat": 40.063886, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Nashport", "lng": -82.15977, "zip_code": "43830"}
+{"locality": "Nashport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Nashport"], "postal_code": "43830", "lat": 40.063886, "lng": -82.15977, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}, {"fips": "089", "name": "Licking"}]}

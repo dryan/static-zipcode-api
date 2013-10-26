@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.445257, "region": {"abbr": "NY", "name": "New York"}, "locality": "Harpersfield", "lng": -74.70189, "zip_code": "13786"});
+zipapicallback({"locality": "Harpersfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Harpersfield"], "postal_code": "13786", "lat": 42.445257, "lng": -74.70189, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]});

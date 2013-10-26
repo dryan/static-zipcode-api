@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.722049, "region": {"abbr": "CA", "name": "California"}, "locality": "Ocotillo", "lng": -115.95998, "zip_code": "92259"});
+zipapicallback({"locality": "Ocotillo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ocotillo"], "postal_code": "92259", "lat": 32.722049, "lng": -115.95998, "type": "POBOX", "counties": [{"fips": "025", "name": "Imperial"}]});

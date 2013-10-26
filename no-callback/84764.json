@@ -1,1 +1,1 @@
-{"lat": 37.638578, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Bryce", "lng": -112.20857, "zip_code": "84764"}
+{"locality": "Bryce", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bryce", "Bryce Canyon", "Bryce Canyon City", "Bryce Cyn Cty"], "postal_code": "84764", "lat": 37.638578, "lng": -112.20857, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]}

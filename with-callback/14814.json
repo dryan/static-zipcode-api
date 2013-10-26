@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.150834, "region": {"abbr": "NY", "name": "New York"}, "locality": "Big Flats", "lng": -76.94805, "zip_code": "14814"});
+zipapicallback({"locality": "Big Flats", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Big Flats"], "postal_code": "14814", "lat": 42.150834, "lng": -76.94805, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chemung"}, {"fips": "101", "name": "Steuben"}]});

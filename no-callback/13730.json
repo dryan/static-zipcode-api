@@ -1,1 +1,1 @@
-{"lat": 42.232991, "region": {"abbr": "NY", "name": "New York"}, "locality": "Afton", "lng": -75.53429, "zip_code": "13730"}
+{"locality": "Afton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Afton"], "postal_code": "13730", "lat": 42.232991, "lng": -75.53429, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}, {"fips": "007", "name": "Broome"}]}

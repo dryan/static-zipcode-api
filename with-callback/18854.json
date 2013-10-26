@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.781522, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wysox", "lng": -76.35906, "zip_code": "18854"});
+zipapicallback({"locality": "Wysox", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wysox"], "postal_code": "18854", "lat": 41.781522, "lng": -76.35906, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]});

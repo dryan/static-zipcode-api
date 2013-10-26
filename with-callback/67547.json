@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.918313, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kinsley", "lng": -99.43134, "zip_code": "67547"});
+zipapicallback({"locality": "Kinsley", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kinsley"], "postal_code": "67547", "lat": 37.918313, "lng": -99.43134, "type": "STANDARD", "counties": [{"fips": "047", "name": "Edwards"}, {"fips": "145", "name": "Pawnee"}, {"fips": "097", "name": "Kiowa"}, {"fips": "083", "name": "Hodgeman"}]});

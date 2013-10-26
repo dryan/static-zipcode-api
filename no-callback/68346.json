@@ -1,1 +1,1 @@
-{"lat": 40.666814, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dunbar", "lng": -96.02796, "zip_code": "68346"}
+{"locality": "Dunbar", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dunbar", "Lorton"], "postal_code": "68346", "lat": 40.666814, "lng": -96.02796, "type": "STANDARD", "counties": [{"fips": "131", "name": "Otoe"}]}

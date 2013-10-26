@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.743169, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Racine", "lng": -87.80534, "zip_code": "53404"});
+zipapicallback({"locality": "Racine", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mount Pleasant", "Mt Pleasant", "Racine"], "postal_code": "53404", "lat": 42.743169, "lng": -87.80534, "type": "STANDARD", "counties": [{"fips": "101", "name": "Racine"}]});

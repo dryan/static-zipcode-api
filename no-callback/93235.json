@@ -1,1 +1,1 @@
-{"lat": 36.387879, "region": {"abbr": "CA", "name": "California"}, "locality": "Ivanhoe", "lng": -119.21908, "zip_code": "93235"}
+{"locality": "Ivanhoe", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ivanhoe"], "postal_code": "93235", "lat": 36.387879, "lng": -119.21908, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

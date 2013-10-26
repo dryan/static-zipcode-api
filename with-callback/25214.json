@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.19411, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Winifrede", "lng": -81.54396, "zip_code": "25214"});
+zipapicallback({"locality": "Winifrede", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Winifrede"], "postal_code": "25214", "lat": 38.19411, "lng": -81.54396, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]});

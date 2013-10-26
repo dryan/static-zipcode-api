@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.527226, "region": {"abbr": "CA", "name": "California"}, "locality": "Cedarville", "lng": -120.13826, "zip_code": "96104"});
+zipapicallback({"locality": "Cedarville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cedarville"], "postal_code": "96104", "lat": 41.527226, "lng": -120.13826, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]});

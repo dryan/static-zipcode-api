@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.926298, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rapid River", "lng": -86.90898, "zip_code": "49878"});
+zipapicallback({"locality": "Rapid River", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rapid River"], "postal_code": "49878", "lat": 45.926298, "lng": -86.90898, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delta"}, {"fips": "003", "name": "Alger"}]});

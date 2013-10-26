@@ -1,1 +1,1 @@
-{"lat": 41.707169, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lindsay", "lng": -97.6865, "zip_code": "68644"}
+{"locality": "Lindsay", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lindsay"], "postal_code": "68644", "lat": 41.707169, "lng": -97.6865, "type": "STANDARD", "counties": [{"fips": "141", "name": "Platte"}, {"fips": "119", "name": "Madison"}]}

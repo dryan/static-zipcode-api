@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.320709, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Spout Spring", "lng": -78.91071, "zip_code": "24593"});
+zipapicallback({"locality": "Spout Spring", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Spout Spring"], "postal_code": "24593", "lat": 37.320709, "lng": -78.91071, "type": "STANDARD", "counties": [{"fips": "011", "name": "Appomattox"}, {"fips": "031", "name": "Campbell"}]});

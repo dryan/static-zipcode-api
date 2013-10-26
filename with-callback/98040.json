@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.569271, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mercer Island", "lng": -122.23233, "zip_code": "98040"});
+zipapicallback({"locality": "Mercer Island", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Mercer Island"], "postal_code": "98040", "lat": 47.569271, "lng": -122.23233, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

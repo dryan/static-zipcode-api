@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.676103, "region": {"abbr": "CA", "name": "California"}, "locality": "North Highlands", "lng": -121.37656, "zip_code": "95660"});
+zipapicallback({"locality": "North Highlands", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Highlands", "North Highlands"], "postal_code": "95660", "lat": 38.676103, "lng": -121.37656, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

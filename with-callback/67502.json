@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.094945, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Medora", "lng": -97.929, "zip_code": "67502"});
+zipapicallback({"locality": "Hutchinson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hutchinson", "Medora"], "postal_code": "67502", "lat": 38.094945, "lng": -97.929, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.952899, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hadley", "lng": -83.40536, "zip_code": "48440"});
+zipapicallback({"locality": "Hadley", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hadley"], "postal_code": "48440", "lat": 42.952899, "lng": -83.40536, "type": "POBOX", "counties": [{"fips": "087", "name": "Lapeer"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.263342, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Rattan", "lng": -95.30693, "zip_code": "74562"});
+zipapicallback({"locality": "Rattan", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rattan"], "postal_code": "74562", "lat": 34.263342, "lng": -95.30693, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}]});

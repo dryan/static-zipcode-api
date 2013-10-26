@@ -1,1 +1,1 @@
-{"lat": 41.411394, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pella", "lng": -92.91126, "zip_code": "50219"}
+{"locality": "Pella", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pella"], "postal_code": "50219", "lat": 41.411394, "lng": -92.91126, "type": "STANDARD", "counties": [{"fips": "125", "name": "Marion"}, {"fips": "123", "name": "Mahaska"}]}

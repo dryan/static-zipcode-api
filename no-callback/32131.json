@@ -1,1 +1,1 @@
-{"lat": 29.668112, "region": {"abbr": "FL", "name": "Florida"}, "locality": "East Palatka", "lng": -81.59005, "zip_code": "32131"}
+{"locality": "East Palatka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["East Palatka"], "postal_code": "32131", "lat": 29.668112, "lng": -81.59005, "type": "STANDARD", "counties": []}

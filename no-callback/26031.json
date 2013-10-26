@@ -1,1 +1,1 @@
-{"lat": 40.013637, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Benwood", "lng": -80.72744, "zip_code": "26031"}
+{"locality": "Benwood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Benwood"], "postal_code": "26031", "lat": 40.013637, "lng": -80.72744, "type": "STANDARD", "counties": [{"fips": "051", "name": "Marshall"}]}

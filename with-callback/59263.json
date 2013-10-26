@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.809655, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Scobey", "lng": -105.45829, "zip_code": "59263"});
+zipapicallback({"locality": "Scobey", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Four Buttes", "Scobey"], "postal_code": "59263", "lat": 48.809655, "lng": -105.45829, "type": "STANDARD", "counties": [{"fips": "019", "name": "Daniels"}]});

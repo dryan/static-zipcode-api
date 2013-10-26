@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.741215, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ladora", "lng": -92.19199, "zip_code": "52251"});
+zipapicallback({"locality": "Ladora", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ladora"], "postal_code": "52251", "lat": 41.741215, "lng": -92.19199, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]});

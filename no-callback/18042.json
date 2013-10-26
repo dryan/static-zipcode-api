@@ -1,1 +1,1 @@
-{"lat": 40.681798, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Forks Township", "lng": -75.22082, "zip_code": "18042"}
+{"locality": "Easton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["College Hill", "Easton", "Glendon", "West Easton", "Williams Township", "Williams Twp"], "postal_code": "18042", "lat": 40.681798, "lng": -75.22082, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}, {"fips": "017", "name": "Bucks"}]}

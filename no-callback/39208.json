@@ -1,1 +1,1 @@
-{"lat": 32.280746, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pearl", "lng": -90.10708, "zip_code": "39208"}
+{"locality": "Pearl", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Jackson", "Pearl"], "postal_code": "39208", "lat": 32.280746, "lng": -90.10708, "type": "STANDARD", "counties": [{"fips": "121", "name": "Rankin"}]}

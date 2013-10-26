@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.126122, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Stockton", "lng": -87.80317, "zip_code": "36579"});
+zipapicallback({"locality": "Stockton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Stockton"], "postal_code": "36579", "lat": 31.126122, "lng": -87.80317, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}]});

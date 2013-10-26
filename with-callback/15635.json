@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.351619, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hannastown", "lng": -79.49612, "zip_code": "15635"});
+zipapicallback({"locality": "Hannastown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hannastown"], "postal_code": "15635", "lat": 40.351619, "lng": -79.49612, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

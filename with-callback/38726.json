@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.780092, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Beulah", "lng": -90.9791, "zip_code": "38726"});
+zipapicallback({"locality": "Beulah", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Beulah"], "postal_code": "38726", "lat": 33.780092, "lng": -90.9791, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bolivar"}]});

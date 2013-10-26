@@ -1,1 +1,1 @@
-{"lat": 36.615813, "region": {"abbr": "CA", "name": "California"}, "locality": "Sand City", "lng": -121.83461, "zip_code": "93955"}
+{"locality": "Seaside", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sand City", "Seaside"], "postal_code": "93955", "lat": 36.615813, "lng": -121.83461, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]}

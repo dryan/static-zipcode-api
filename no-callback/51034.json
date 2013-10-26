@@ -1,1 +1,1 @@
-{"lat": 42.165283, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mapleton", "lng": -95.79109, "zip_code": "51034"}
+{"locality": "Mapleton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mapleton"], "postal_code": "51034", "lat": 42.165283, "lng": -95.79109, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monona"}]}

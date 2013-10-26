@@ -1,1 +1,1 @@
-{"lat": 47.646132, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Coulee City", "lng": -119.3827, "zip_code": "99115"}
+{"locality": "Coulee City", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Coulee City"], "postal_code": "99115", "lat": 47.646132, "lng": -119.3827, "type": "STANDARD", "counties": [{"fips": "017", "name": "Douglas"}, {"fips": "025", "name": "Grant"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.616926, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oakland Mills", "lng": -77.31228, "zip_code": "17076"}
+{"locality": "Oakland Mills", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oakland Mills"], "postal_code": "17076", "lat": 40.616926, "lng": -77.31228, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}]}

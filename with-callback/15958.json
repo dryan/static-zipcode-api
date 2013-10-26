@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.381332, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Summerhill", "lng": -78.7433, "zip_code": "15958"});
+zipapicallback({"locality": "Summerhill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Summerhill"], "postal_code": "15958", "lat": 40.381332, "lng": -78.7433, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]});

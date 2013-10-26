@@ -1,1 +1,1 @@
-{"lat": 44.28177, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Bethlehem", "lng": -71.69225, "zip_code": "03574"}
+{"locality": "Bethlehem", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Bethlehem"], "postal_code": "03574", "lat": 44.28177, "lng": -71.69225, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]}

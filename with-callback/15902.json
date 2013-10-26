@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.309087, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Johnstown", "lng": -78.90069, "zip_code": "15902"});
+zipapicallback({"locality": "Johnstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Johnstown"], "postal_code": "15902", "lat": 40.309087, "lng": -78.90069, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]});

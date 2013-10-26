@@ -1,1 +1,1 @@
-{"lat": 30.966506, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Simmesport", "lng": -91.82242, "zip_code": "71369"}
+{"locality": "Simmesport", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Simmesport"], "postal_code": "71369", "lat": 30.966506, "lng": -91.82242, "type": "STANDARD", "counties": [{"fips": "009", "name": "Avoyelles"}]}

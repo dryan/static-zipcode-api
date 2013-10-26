@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.721265, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ruby", "lng": -80.19733, "zip_code": "29741"});
+zipapicallback({"locality": "Ruby", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ruby"], "postal_code": "29741", "lat": 34.721265, "lng": -80.19733, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chesterfield"}]});

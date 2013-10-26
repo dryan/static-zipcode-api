@@ -1,1 +1,1 @@
-{"lat": 37.196075, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ashland", "lng": -99.77662, "zip_code": "67831"}
+{"locality": "Ashland", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ashland"], "postal_code": "67831", "lat": 37.196075, "lng": -99.77662, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clark"}]}

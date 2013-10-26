@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.556847, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Chokio", "lng": -96.1897, "zip_code": "56221"});
+zipapicallback({"locality": "Chokio", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Chokio"], "postal_code": "56221", "lat": 45.556847, "lng": -96.1897, "type": "STANDARD", "counties": [{"fips": "149", "name": "Stevens"}, {"fips": "155", "name": "Traverse"}, {"fips": "011", "name": "Big Stone"}]});

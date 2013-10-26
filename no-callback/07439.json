@@ -1,1 +1,1 @@
-{"lat": 41.080066, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ogdensburg", "lng": -74.5972, "zip_code": "07439"}
+{"locality": "Ogdensburg", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ogdensburg"], "postal_code": "07439", "lat": 41.080066, "lng": -74.5972, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.472363, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Folsom", "lng": -80.5275, "zip_code": "26348"});
+zipapicallback({"locality": "Folsom", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Folsom"], "postal_code": "26348", "lat": 39.472363, "lng": -80.5275, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}]});

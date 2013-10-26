@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.168577, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Old Town", "lng": -117.02483, "zip_code": "83822"});
+zipapicallback({"locality": "Oldtown", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Oldtown"], "postal_code": "83822", "lat": 48.168577, "lng": -117.02483, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]});

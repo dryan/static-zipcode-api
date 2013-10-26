@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.865305, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ozan", "lng": -93.7512, "zip_code": "71855"});
+zipapicallback({"locality": "Ozan", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ozan"], "postal_code": "71855", "lat": 33.865305, "lng": -93.7512, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hempstead"}]});

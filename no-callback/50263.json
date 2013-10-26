@@ -1,1 +1,1 @@
-{"lat": 41.601516, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Waukee", "lng": -93.86151, "zip_code": "50263"}
+{"locality": "Waukee", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Waukee"], "postal_code": "50263", "lat": 41.601516, "lng": -93.86151, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]}

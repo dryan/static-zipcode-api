@@ -1,1 +1,1 @@
-{"lat": 45.215805, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Milbank", "lng": -96.6092, "zip_code": "57252"}
+{"locality": "Milbank", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Milbank"], "postal_code": "57252", "lat": 45.215805, "lng": -96.6092, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grant"}, {"fips": "109", "name": "Roberts"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.034127, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cuney", "lng": -95.41776, "zip_code": "75759"}
+{"locality": "Cuney", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cuney"], "postal_code": "75759", "lat": 32.034127, "lng": -95.41776, "type": "POBOX", "counties": [{"fips": "073", "name": "Cherokee"}]}

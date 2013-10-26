@@ -1,1 +1,1 @@
-{"lat": 45.622966, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Sartell", "lng": -94.20959, "zip_code": "56377"}
+{"locality": "Sartell", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Sartell"], "postal_code": "56377", "lat": 45.622966, "lng": -94.20959, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "009", "name": "Benton"}]}

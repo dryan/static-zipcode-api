@@ -1,1 +1,1 @@
-{"lat": 47.069257, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "South Range", "lng": -88.63936, "zip_code": "49963"}
+{"locality": "South Range", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["South Range"], "postal_code": "49963", "lat": 47.069257, "lng": -88.63936, "type": "POBOX", "counties": [{"fips": "061", "name": "Houghton"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.893121, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dumas", "lng": -101.95908, "zip_code": "79029"}
+{"locality": "Dumas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dumas"], "postal_code": "79029", "lat": 35.893121, "lng": -101.95908, "type": "STANDARD", "counties": [{"fips": "341", "name": "Moore"}, {"fips": "025", "name": "Bee"}]}

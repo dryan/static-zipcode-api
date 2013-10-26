@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.570035, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lubbock", "lng": -101.84984, "zip_code": "79405"});
+zipapicallback({"locality": "Lubbock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lubbock"], "postal_code": "79405", "lat": 33.570035, "lng": -101.84984, "type": "STANDARD", "counties": [{"fips": "303", "name": "Lubbock"}, {"fips": "015", "name": "Austin"}, {"fips": "025", "name": "Bee"}]});

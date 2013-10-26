@@ -1,1 +1,1 @@
-{"lat": 46.363204, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Culdesac", "lng": -116.63906, "zip_code": "83524"}
+{"locality": "Culdesac", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Culdesac"], "postal_code": "83524", "lat": 46.363204, "lng": -116.63906, "type": "STANDARD", "counties": [{"fips": "069", "name": "Nez Perce"}, {"fips": "061", "name": "Lewis"}]}

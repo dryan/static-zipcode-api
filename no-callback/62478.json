@@ -1,1 +1,1 @@
-{"lat": 39.175832, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "West York", "lng": -87.72312, "zip_code": "62478"}
+{"locality": "West York", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["West York"], "postal_code": "62478", "lat": 39.175832, "lng": -87.72312, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}, {"fips": "023", "name": "Clark"}]}

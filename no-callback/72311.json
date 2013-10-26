@@ -1,1 +1,1 @@
-{"lat": 34.719877, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Aubrey", "lng": -90.89796, "zip_code": "72311"}
+{"locality": "Aubrey", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Aubrey"], "postal_code": "72311", "lat": 34.719877, "lng": -90.89796, "type": "POBOX", "counties": [{"fips": "077", "name": "Lee"}]}

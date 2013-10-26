@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.823864, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Lyme", "lng": -72.13297, "zip_code": "03768"});
+zipapicallback({"locality": "Lyme", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Lyme"], "postal_code": "03768", "lat": 43.823864, "lng": -72.13297, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]});

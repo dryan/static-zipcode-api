@@ -1,1 +1,1 @@
-{"lat": 18.180103, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Adjuntas", "lng": -66.74947, "zip_code": "00601"}
+{"locality": "Adjuntas", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Adjuntas"], "postal_code": "00601", "lat": 18.180103, "lng": -66.74947, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adjuntas"}]}

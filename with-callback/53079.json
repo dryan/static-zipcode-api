@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.808108, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Saint Cloud", "lng": -88.18164, "zip_code": "53079"});
+zipapicallback({"locality": "Saint Cloud", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Saint Cloud"], "postal_code": "53079", "lat": 43.808108, "lng": -88.18164, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}, {"fips": "015", "name": "Calumet"}, {"fips": "117", "name": "Sheboygan"}]});

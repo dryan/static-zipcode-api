@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.338511, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Amelia Court Hou", "lng": -77.95893, "zip_code": "23002"});
+zipapicallback({"locality": "Amelia Court House", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Amelia Court House", "Amelia Ct Hse"], "postal_code": "23002", "lat": 37.338511, "lng": -77.95893, "type": "STANDARD", "counties": [{"fips": "007", "name": "Amelia"}]});

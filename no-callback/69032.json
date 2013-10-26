@@ -1,1 +1,1 @@
-{"lat": 40.560493, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hayes Center", "lng": -100.95654, "zip_code": "69032"}
+{"locality": "Hayes Center", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hayes Center"], "postal_code": "69032", "lat": 40.560493, "lng": -100.95654, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hayes"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.810781, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Benedicta", "lng": -68.39974, "zip_code": "04733"}
+{"locality": "Benedicta", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Benedicta"], "postal_code": "04733", "lat": 45.810781, "lng": -68.39974, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

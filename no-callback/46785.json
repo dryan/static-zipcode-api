@@ -1,1 +1,1 @@
-{"lat": 41.317967, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Saint Joe", "lng": -84.89306, "zip_code": "46785"}
+{"locality": "Saint Joe", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Saint Joe"], "postal_code": "46785", "lat": 41.317967, "lng": -84.89306, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Kalb"}]}

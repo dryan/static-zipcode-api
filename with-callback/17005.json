@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.602475, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Berrysburg", "lng": -76.8113, "zip_code": "17005"});
+zipapicallback({"locality": "Berrysburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Berrysburg"], "postal_code": "17005", "lat": 40.602475, "lng": -76.8113, "type": "POBOX", "counties": [{"fips": "043", "name": "Dauphin"}]});

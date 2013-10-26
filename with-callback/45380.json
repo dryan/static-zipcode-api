@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.231735, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Versailles", "lng": -84.49935, "zip_code": "45380"});
+zipapicallback({"locality": "Versailles", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Versailles"], "postal_code": "45380", "lat": 40.231735, "lng": -84.49935, "type": "STANDARD", "counties": [{"fips": "037", "name": "Darke"}, {"fips": "149", "name": "Shelby"}]});

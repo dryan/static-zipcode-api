@@ -1,1 +1,1 @@
-{"lat": 28.52856, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fowlerton", "lng": -98.80845, "zip_code": "78021"}
+{"locality": "Fowlerton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fowlerton"], "postal_code": "78021", "lat": 28.52856, "lng": -98.80845, "type": "STANDARD", "counties": [{"fips": "283", "name": "La Salle"}, {"fips": "013", "name": "Atascosa"}, {"fips": "311", "name": "McMullen"}]}

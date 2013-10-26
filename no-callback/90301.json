@@ -1,1 +1,1 @@
-{"lat": 33.955913, "region": {"abbr": "CA", "name": "California"}, "locality": "Inglewood", "lng": -118.35868, "zip_code": "90301"}
+{"locality": "Inglewood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Inglewood"], "postal_code": "90301", "lat": 33.955913, "lng": -118.35868, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

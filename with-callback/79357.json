@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.667836, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cone", "lng": -101.38794, "zip_code": "79357"});
+zipapicallback({"locality": "Ralls", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cone", "Ralls"], "postal_code": "79357", "lat": 33.667836, "lng": -101.38794, "type": "STANDARD", "counties": [{"fips": "107", "name": "Crosby"}]});

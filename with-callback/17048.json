@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.592398, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lykens", "lng": -76.72086, "zip_code": "17048"});
+zipapicallback({"locality": "Lykens", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lykens"], "postal_code": "17048", "lat": 40.592398, "lng": -76.72086, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]});

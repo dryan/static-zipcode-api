@@ -1,1 +1,1 @@
-{"lat": 28.511879, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Union Park", "lng": -81.09078, "zip_code": "32833"}
+{"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Alafaya", "Orlando"], "postal_code": "32833", "lat": 28.511879, "lng": -81.09078, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]}

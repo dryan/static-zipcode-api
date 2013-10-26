@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.847964, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Forest Home", "lng": -86.86441, "zip_code": "36030"});
+zipapicallback({"locality": "Forest Home", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Forest Home"], "postal_code": "36030", "lat": 31.847964, "lng": -86.86441, "type": "STANDARD", "counties": [{"fips": "013", "name": "Butler"}]});

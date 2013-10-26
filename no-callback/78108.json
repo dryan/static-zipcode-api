@@ -1,1 +1,1 @@
-{"lat": 29.574127, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cibolo", "lng": -98.23308, "zip_code": "78108"}
+{"locality": "Cibolo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cibolo"], "postal_code": "78108", "lat": 29.574127, "lng": -98.23308, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}, {"fips": "187", "name": "Guadalupe"}]}

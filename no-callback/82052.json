@@ -1,1 +1,1 @@
-{"lat": 41.105595, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Buford", "lng": -105.3549, "zip_code": "82052"}
+{"locality": "Buford", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Buford"], "postal_code": "82052", "lat": 41.105595, "lng": -105.3549, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

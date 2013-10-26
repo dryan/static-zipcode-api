@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.742719, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ronceverte", "lng": -80.47151, "zip_code": "24970"});
+zipapicallback({"locality": "Ronceverte", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Fort Spring", "Organ Cave", "Ronceverte"], "postal_code": "24970", "lat": 37.742719, "lng": -80.47151, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}, {"fips": "063", "name": "Monroe"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.224044, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Shelton", "lng": -123.10538, "zip_code": "98584"}
+{"locality": "Shelton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Shelton", "Skok", "Skokomish Nation"], "postal_code": "98584", "lat": 47.224044, "lng": -123.10538, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mason"}, {"fips": "067", "name": "Thurston"}]}

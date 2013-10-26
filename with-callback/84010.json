@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.876312, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Bountiful", "lng": -111.87249, "zip_code": "84010"});
+zipapicallback({"locality": "Bountiful", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bountiful", "W Bountiful", "West Bountiful", "Woods Cross"], "postal_code": "84010", "lat": 40.876312, "lng": -111.87249, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]});

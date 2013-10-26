@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.56548, "region": {"abbr": "CA", "name": "California"}, "locality": "Lake Los Angeles", "lng": -118.08549, "zip_code": "93550"});
+zipapicallback({"locality": "Palmdale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lake La", "Lake Los Angeles", "Palmdale"], "postal_code": "93550", "lat": 34.56548, "lng": -118.08549, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "071", "name": "San Bernardino"}, {"fips": "087", "name": "Santa Cruz"}]});

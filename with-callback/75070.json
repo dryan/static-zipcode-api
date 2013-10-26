@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.212203, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mc Kinney", "lng": -96.67522, "zip_code": "75070"});
+zipapicallback({"locality": "Mckinney", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mc Kinney", "Mckinney"], "postal_code": "75070", "lat": 33.212203, "lng": -96.67522, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}, {"fips": "113", "name": "Dallas"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.309573, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Wallingford", "lng": -94.74784, "zip_code": "51365"}
+{"locality": "Wallingford", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Wallingford"], "postal_code": "51365", "lat": 43.309573, "lng": -94.74784, "type": "STANDARD", "counties": [{"fips": "063", "name": "Emmet"}]}

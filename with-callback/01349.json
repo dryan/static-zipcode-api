@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.5737, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Millers Falls", "lng": -72.50525, "zip_code": "01349"});
+zipapicallback({"locality": "Millers Falls", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Millers Falls"], "postal_code": "01349", "lat": 42.5737, "lng": -72.50525, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

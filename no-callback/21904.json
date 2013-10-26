@@ -1,1 +1,1 @@
-{"lat": 39.61881, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bainbridge", "lng": -76.0853, "zip_code": "21904"}
+{"locality": "Port Deposit", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bainbridge", "Port Deposit"], "postal_code": "21904", "lat": 39.61881, "lng": -76.0853, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cecil"}]}

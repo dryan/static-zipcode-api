@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.33278, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Slinger", "lng": -88.27907, "zip_code": "53086"});
+zipapicallback({"locality": "Slinger", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Slinger"], "postal_code": "53086", "lat": 43.33278, "lng": -88.27907, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}]});

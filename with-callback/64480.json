@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.061613, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rea", "lng": -94.71818, "zip_code": "64480"});
+zipapicallback({"locality": "Rea", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rea"], "postal_code": "64480", "lat": 40.061613, "lng": -94.71818, "type": "STANDARD", "counties": [{"fips": "003", "name": "Andrew"}]});

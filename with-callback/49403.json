@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.125652, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Conklin", "lng": -85.84983, "zip_code": "49403"});
+zipapicallback({"locality": "Conklin", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Conklin"], "postal_code": "49403", "lat": 43.125652, "lng": -85.84983, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}, {"fips": "121", "name": "Muskegon"}, {"fips": "081", "name": "Kent"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.046493, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Pine Ridge", "lng": -102.57323, "zip_code": "57770"});
+zipapicallback({"locality": "Pine Ridge", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Pine Ridge"], "postal_code": "57770", "lat": 43.046493, "lng": -102.57323, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}]});

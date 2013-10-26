@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.533744, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Theodore", "lng": -88.16865, "zip_code": "36582"});
+zipapicallback({"locality": "Theodore", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Saltaire", "Theodore"], "postal_code": "36582", "lat": 30.533744, "lng": -88.16865, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}, {"fips": "099", "name": "Monroe"}]});

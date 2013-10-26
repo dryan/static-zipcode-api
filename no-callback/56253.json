@@ -1,1 +1,1 @@
-{"lat": 44.959237, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Lillian", "lng": -94.88831, "zip_code": "56253"}
+{"locality": "Lake Lillian", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Lillian"], "postal_code": "56253", "lat": 44.959237, "lng": -94.88831, "type": "STANDARD", "counties": [{"fips": "067", "name": "Kandiyohi"}]}

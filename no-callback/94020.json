@@ -1,1 +1,1 @@
-{"lat": 37.28842, "region": {"abbr": "CA", "name": "California"}, "locality": "La Honda", "lng": -122.22457, "zip_code": "94020"}
+{"locality": "La Honda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["La Honda"], "postal_code": "94020", "lat": 37.28842, "lng": -122.22457, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

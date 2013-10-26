@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.322422, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kampsville", "lng": -90.64246, "zip_code": "62053"});
+zipapicallback({"locality": "Kampsville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kampsville"], "postal_code": "62053", "lat": 39.322422, "lng": -90.64246, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}, {"fips": "149", "name": "Pike"}]});

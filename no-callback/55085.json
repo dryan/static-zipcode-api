@@ -1,1 +1,1 @@
-{"lat": 44.674317, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Vermillion", "lng": -92.96823, "zip_code": "55085"}
+{"locality": "Vermillion", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Vermillion"], "postal_code": "55085", "lat": 44.674317, "lng": -92.96823, "type": "POBOX", "counties": [{"fips": "037", "name": "Dakota"}]}

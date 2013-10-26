@@ -1,1 +1,1 @@
-{"lat": 43.05348, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Delafield", "lng": -88.39844, "zip_code": "53018"}
+{"locality": "Delafield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Delafield"], "postal_code": "53018", "lat": 43.05348, "lng": -88.39844, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "131", "name": "Washington"}]}

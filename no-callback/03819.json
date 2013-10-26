@@ -1,1 +1,1 @@
-{"lat": 42.927682, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Danville", "lng": -71.12034, "zip_code": "03819"}
+{"locality": "Danville", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Danville"], "postal_code": "03819", "lat": 42.927682, "lng": -71.12034, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

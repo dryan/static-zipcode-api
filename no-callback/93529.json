@@ -1,1 +1,1 @@
-{"lat": 37.765218, "region": {"abbr": "CA", "name": "California"}, "locality": "June Lake", "lng": -119.07769, "zip_code": "93529"}
+{"locality": "June Lake", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["June Lake"], "postal_code": "93529", "lat": 37.765218, "lng": -119.07769, "type": "STANDARD", "counties": [{"fips": "051", "name": "Mono"}]}

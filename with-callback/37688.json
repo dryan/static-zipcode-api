@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.529827, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Shady Valley", "lng": -81.91718, "zip_code": "37688"});
+zipapicallback({"locality": "Shady Valley", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Shady Valley"], "postal_code": "37688", "lat": 36.529827, "lng": -81.91718, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}]});

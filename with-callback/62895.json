@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.34239, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wayne City", "lng": -88.58448, "zip_code": "62895"});
+zipapicallback({"locality": "Wayne City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wayne City"], "postal_code": "62895", "lat": 38.34239, "lng": -88.58448, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}, {"fips": "065", "name": "Hamilton"}]});

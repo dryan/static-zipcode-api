@@ -1,1 +1,1 @@
-{"lat": 36.033231, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Sidney", "lng": -91.70461, "zip_code": "72577"}
+{"locality": "Sidney", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Sidney"], "postal_code": "72577", "lat": 36.033231, "lng": -91.70461, "type": "STANDARD", "counties": [{"fips": "135", "name": "Sharp"}]}

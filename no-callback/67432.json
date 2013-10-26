@@ -1,1 +1,1 @@
-{"lat": 39.341513, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Clay Center", "lng": -97.1552, "zip_code": "67432"}
+{"locality": "Clay Center", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Clay Center", "Oakhill"], "postal_code": "67432", "lat": 39.341513, "lng": -97.1552, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "161", "name": "Riley"}]}

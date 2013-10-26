@@ -1,1 +1,1 @@
-{"lat": 38.36528, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Thomas", "lng": -92.19491, "zip_code": "65076"}
+{"locality": "Saint Thomas", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Thomas"], "postal_code": "65076", "lat": 38.36528, "lng": -92.19491, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}, {"fips": "151", "name": "Osage"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.57279, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Spring Grove", "lng": -91.65004, "zip_code": "55974"});
+zipapicallback({"locality": "Spring Grove", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Spring Grove"], "postal_code": "55974", "lat": 43.57279, "lng": -91.65004, "type": "STANDARD", "counties": [{"fips": "055", "name": "Houston"}, {"fips": "045", "name": "Fillmore"}, {"fips": "005", "name": "Becker"}]});

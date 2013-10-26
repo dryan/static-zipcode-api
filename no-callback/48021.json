@@ -1,1 +1,1 @@
-{"lat": 42.466086, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Eastpointe", "lng": -82.94641, "zip_code": "48021"}
+{"locality": "Eastpointe", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["East Detroit", "Eastpointe"], "postal_code": "48021", "lat": 42.466086, "lng": -82.94641, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]}

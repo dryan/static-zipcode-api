@@ -1,1 +1,1 @@
-{"lat": 39.966135, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hopewell", "lng": -82.18376, "zip_code": "43746"}
+{"locality": "Hopewell", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hopewell"], "postal_code": "43746", "lat": 39.966135, "lng": -82.18376, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}, {"fips": "089", "name": "Licking"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.101538, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Kittery", "lng": -70.73611, "zip_code": "03904"}
+{"locality": "Kittery", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Kittery"], "postal_code": "03904", "lat": 43.101538, "lng": -70.73611, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

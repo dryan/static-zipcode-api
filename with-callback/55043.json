@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.9316, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lakeland", "lng": -92.77001, "zip_code": "55043"});
+zipapicallback({"locality": "Lakeland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Saint Croix Beach", "Lakeland", "Lakeland Shores", "Lakeland Shrs", "Saint Marys Point", "St Croix Bch", "St Croix Beach", "St Marys Point", "St Marys Pt"], "postal_code": "55043", "lat": 44.9316, "lng": -92.77001, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]});

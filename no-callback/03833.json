@@ -1,1 +1,1 @@
-{"lat": 42.973783, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Brentwood", "lng": -70.97665, "zip_code": "03833"}
+{"locality": "Exeter", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Brentwood", "Exeter", "Kensington"], "postal_code": "03833", "lat": 42.973783, "lng": -70.97665, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.666426, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Erskine", "lng": -96.03701, "zip_code": "56535"});
+zipapicallback({"locality": "Erskine", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Erskine"], "postal_code": "56535", "lat": 47.666426, "lng": -96.03701, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}, {"fips": "125", "name": "Red Lake"}]});

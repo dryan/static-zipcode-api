@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.795471, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Badger", "lng": -96.01816, "zip_code": "56714"});
+zipapicallback({"locality": "Badger", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Badger"], "postal_code": "56714", "lat": 48.795471, "lng": -96.01816, "type": "STANDARD", "counties": [{"fips": "135", "name": "Roseau"}]});

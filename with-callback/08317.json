@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.406518, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Dorothy", "lng": -74.82706, "zip_code": "08317"});
+zipapicallback({"locality": "Dorothy", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Dorothy"], "postal_code": "08317", "lat": 39.406518, "lng": -74.82706, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]});

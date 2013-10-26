@@ -1,1 +1,1 @@
-{"lat": 28.643141, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Nobleton", "lng": -82.26051, "zip_code": "34661"}
+{"locality": "Nobleton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Nobleton"], "postal_code": "34661", "lat": 28.643141, "lng": -82.26051, "type": "POBOX", "counties": [{"fips": "053", "name": "Hernando"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.167179, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Nashville", "lng": -86.76777, "zip_code": "37213"});
+zipapicallback({"locality": "Nashville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Nashville"], "postal_code": "37213", "lat": 36.167179, "lng": -86.76777, "type": "STANDARD", "counties": [{"fips": "037", "name": "Davidson"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.10033, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Georgetown", "lng": -96.74309, "zip_code": "56546"}
+{"locality": "Georgetown", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Georgetown"], "postal_code": "56546", "lat": 47.10033, "lng": -96.74309, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]}

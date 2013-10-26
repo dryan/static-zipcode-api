@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.390836, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Chesterfield", "lng": -72.84356, "zip_code": "01012"});
+zipapicallback({"locality": "Chesterfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Chesterfield"], "postal_code": "01012", "lat": 42.390836, "lng": -72.84356, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]});

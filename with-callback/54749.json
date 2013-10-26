@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.949207, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Knapp", "lng": -92.08073, "zip_code": "54749"});
+zipapicallback({"locality": "Knapp", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Knapp"], "postal_code": "54749", "lat": 44.949207, "lng": -92.08073, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dunn"}, {"fips": "109", "name": "St Croix"}]});

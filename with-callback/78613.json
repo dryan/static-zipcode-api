@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.501272, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cedar Park", "lng": -97.83087, "zip_code": "78613"});
+zipapicallback({"locality": "Cedar Park", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cedar Park"], "postal_code": "78613", "lat": 30.501272, "lng": -97.83087, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}, {"fips": "453", "name": "Travis"}]});

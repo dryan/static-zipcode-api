@@ -1,1 +1,1 @@
-{"lat": 35.811919, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Granite Falls", "lng": -81.43478, "zip_code": "28630"}
+{"locality": "Granite Falls", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Granite Falls", "Sawmills"], "postal_code": "28630", "lat": 35.811919, "lng": -81.43478, "type": "STANDARD", "counties": [{"fips": "027", "name": "Caldwell"}, {"fips": "003", "name": "Alexander"}]}

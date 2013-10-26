@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.979032, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Chestnut Ridge", "lng": -79.81957, "zip_code": "15422"});
+zipapicallback({"locality": "Chestnut Ridge", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chestnut Rdg", "Chestnut Ridge"], "postal_code": "15422", "lat": 39.979032, "lng": -79.81957, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]});

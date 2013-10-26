@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.966245, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Balmorhea", "lng": -103.73108, "zip_code": "79718"});
+zipapicallback({"locality": "Balmorhea", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Balmorhea"], "postal_code": "79718", "lat": 30.966245, "lng": -103.73108, "type": "STANDARD", "counties": [{"fips": "389", "name": "Reeves"}]});

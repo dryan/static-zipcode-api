@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.587606, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Milford", "lng": -75.10402, "zip_code": "08848"});
+zipapicallback({"locality": "Milford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Milford"], "postal_code": "08848", "lat": 40.587606, "lng": -75.10402, "type": "STANDARD", "counties": [{"fips": "019", "name": "Hunterdon"}]});

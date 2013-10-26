@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.004922, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Calcasieu", "lng": -92.62099, "zip_code": "71433"});
+zipapicallback({"locality": "Glenmora", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Glenmora", "Melder"], "postal_code": "71433", "lat": 31.004922, "lng": -92.62099, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}, {"fips": "039", "name": "Evangeline"}, {"fips": "003", "name": "Allen"}]});

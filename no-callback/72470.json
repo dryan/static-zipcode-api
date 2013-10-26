@@ -1,1 +1,1 @@
-{"lat": 36.460317, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Success", "lng": -90.70524, "zip_code": "72470"}
+{"locality": "Success", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Success"], "postal_code": "72470", "lat": 36.460317, "lng": -90.70524, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]}

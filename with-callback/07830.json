@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.723778, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Califon", "lng": -74.81866, "zip_code": "07830"});
+zipapicallback({"locality": "Califon", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Califon", "Tewksbury Township", "Tewksbury Twp"], "postal_code": "07830", "lat": 40.723778, "lng": -74.81866, "type": "STANDARD", "counties": [{"fips": "019", "name": "Hunterdon"}, {"fips": "041", "name": "Warren"}]});

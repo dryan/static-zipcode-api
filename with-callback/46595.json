@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.526405, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wyatt", "lng": -86.17013, "zip_code": "46595"});
+zipapicallback({"locality": "Wyatt", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wyatt"], "postal_code": "46595", "lat": 41.526405, "lng": -86.17013, "type": "POBOX", "counties": [{"fips": "141", "name": "Saint Joseph"}]});

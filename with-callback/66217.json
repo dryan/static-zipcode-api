@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.021629, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Shawnee", "lng": -94.78107, "zip_code": "66217"});
+zipapicallback({"locality": "Shawnee", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lake Quivira", "Lenexa", "Shawnee", "Shawnee Mission", "Shawnee Msn"], "postal_code": "66217", "lat": 39.021629, "lng": -94.78107, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}]});

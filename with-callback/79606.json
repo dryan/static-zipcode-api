@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.360362, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Abilene", "lng": -99.79886, "zip_code": "79606"});
+zipapicallback({"locality": "Abilene", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Abilene"], "postal_code": "79606", "lat": 32.360362, "lng": -99.79886, "type": "STANDARD", "counties": [{"fips": "441", "name": "Taylor"}]});

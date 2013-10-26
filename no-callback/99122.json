@@ -1,1 +1,1 @@
-{"lat": 47.671143, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Davenport", "lng": -118.18938, "zip_code": "99122"}
+{"locality": "Davenport", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Davenport", "Deer Meadows", "Seven Bays"], "postal_code": "99122", "lat": 47.671143, "lng": -118.18938, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "065", "name": "Stevens"}]}

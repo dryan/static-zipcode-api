@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.544777, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Henryville", "lng": -85.7737, "zip_code": "47126"});
+zipapicallback({"locality": "Henryville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Henryville"], "postal_code": "47126", "lat": 38.544777, "lng": -85.7737, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "143", "name": "Scott"}, {"fips": "175", "name": "Washington"}]});

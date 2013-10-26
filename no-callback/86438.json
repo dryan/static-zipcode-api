@@ -1,1 +1,1 @@
-{"lat": 34.805546, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Yucca", "lng": -114.14175, "zip_code": "86438"}
+{"locality": "Yucca", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Yucca"], "postal_code": "86438", "lat": 34.805546, "lng": -114.14175, "type": "POBOX", "counties": [{"fips": "015", "name": "Mohave"}]}

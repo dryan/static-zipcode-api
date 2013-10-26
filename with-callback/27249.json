@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.125747, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gibsonville", "lng": -79.56352, "zip_code": "27249"});
+zipapicallback({"locality": "Gibsonville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gibsonville"], "postal_code": "27249", "lat": 36.125747, "lng": -79.56352, "type": "STANDARD", "counties": [{"fips": "081", "name": "Guilford"}, {"fips": "001", "name": "Alamance"}, {"fips": "157", "name": "Rockingham"}, {"fips": "033", "name": "Caswell"}]});

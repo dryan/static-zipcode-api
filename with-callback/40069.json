@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.702418, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Maud", "lng": -85.22257, "zip_code": "40069"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Maud", "Springfield"], "postal_code": "40069", "lat": 37.702418, "lng": -85.22257, "type": "STANDARD", "counties": [{"fips": "229", "name": "Washington"}, {"fips": "155", "name": "Marion"}, {"fips": "179", "name": "Nelson"}]});

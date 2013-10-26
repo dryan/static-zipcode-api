@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.517388, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Olaton", "lng": -86.6846, "zip_code": "42361"});
+zipapicallback({"locality": "Olaton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Olaton"], "postal_code": "42361", "lat": 37.517388, "lng": -86.6846, "type": "STANDARD", "counties": [{"fips": "183", "name": "Ohio"}]});

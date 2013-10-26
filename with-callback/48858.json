@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.60616, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mount Pleasant", "lng": -84.78306, "zip_code": "48858"});
+zipapicallback({"locality": "Mount Pleasant", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "48858", "lat": 43.60616, "lng": -84.78306, "type": "STANDARD", "counties": [{"fips": "073", "name": "Isabella"}]});

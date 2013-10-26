@@ -1,1 +1,1 @@
-{"lat": 36.343007, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Lindrith", "lng": -107.09858, "zip_code": "87029"}
+{"locality": "Lindrith", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lindrith"], "postal_code": "87029", "lat": 36.343007, "lng": -107.09858, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

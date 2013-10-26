@@ -1,1 +1,1 @@
-{"lat": 31.255242, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Columbia", "lng": -89.79264, "zip_code": "39429"}
+{"locality": "Columbia", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Columbia"], "postal_code": "39429", "lat": 31.255242, "lng": -89.79264, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marion"}]}

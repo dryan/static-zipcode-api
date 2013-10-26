@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.553036, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Tallassee", "lng": -85.9136, "zip_code": "36078"});
+zipapicallback({"locality": "Tallassee", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Tallassee"], "postal_code": "36078", "lat": 32.553036, "lng": -85.9136, "type": "STANDARD", "counties": [{"fips": "051", "name": "Elmore"}, {"fips": "123", "name": "Tallapoosa"}, {"fips": "087", "name": "MacOn"}]});

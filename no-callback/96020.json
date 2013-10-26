@@ -1,1 +1,1 @@
-{"lat": 40.289788, "region": {"abbr": "CA", "name": "California"}, "locality": "Chester", "lng": -121.23263, "zip_code": "96020"}
+{"locality": "Chester", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chester"], "postal_code": "96020", "lat": 40.289788, "lng": -121.23263, "type": "STANDARD", "counties": [{"fips": "063", "name": "Plumas"}]}

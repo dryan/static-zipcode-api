@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.749249, "region": {"abbr": "CA", "name": "California"}, "locality": "Yreka", "lng": -122.64479, "zip_code": "96097"});
+zipapicallback({"locality": "Yreka", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yreka"], "postal_code": "96097", "lat": 41.749249, "lng": -122.64479, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

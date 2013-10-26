@@ -1,1 +1,1 @@
-{"lat": 47.542989, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Smelterville", "lng": -116.18156, "zip_code": "83868"}
+{"locality": "Smelterville", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Smelterville"], "postal_code": "83868", "lat": 47.542989, "lng": -116.18156, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]}

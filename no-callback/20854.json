@@ -1,1 +1,1 @@
-{"lat": 39.035028, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Potomac", "lng": -77.19995, "zip_code": "20854"}
+{"locality": "Potomac", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Potomac", "Rockville"], "postal_code": "20854", "lat": 39.035028, "lng": -77.19995, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

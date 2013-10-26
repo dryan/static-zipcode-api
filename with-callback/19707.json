@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.784014, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Hockessin", "lng": -75.68586, "zip_code": "19707"});
+zipapicallback({"locality": "Hockessin", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Hockessin"], "postal_code": "19707", "lat": 39.784014, "lng": -75.68586, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.075784, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Johnson Creek", "lng": -88.77595, "zip_code": "53038"}
+{"locality": "Johnson Creek", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Johnson Creek"], "postal_code": "53038", "lat": 43.075784, "lng": -88.77595, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}]}

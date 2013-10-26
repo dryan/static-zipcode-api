@@ -1,1 +1,1 @@
-{"lat": 37.347626, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Dennis", "lng": -95.41692, "zip_code": "67341"}
+{"locality": "Dennis", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Dennis"], "postal_code": "67341", "lat": 37.347626, "lng": -95.41692, "type": "STANDARD", "counties": [{"fips": "099", "name": "Labette"}]}

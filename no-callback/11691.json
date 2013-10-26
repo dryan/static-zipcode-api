@@ -1,1 +1,1 @@
-{"lat": 40.60002, "region": {"abbr": "NY", "name": "New York"}, "locality": "Far Rockaway", "lng": -73.75962, "zip_code": "11691"}
+{"locality": "Far Rockaway", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Far Rockaway"], "postal_code": "11691", "lat": 40.60002, "lng": -73.75962, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}, {"fips": "059", "name": "Nassau"}]}

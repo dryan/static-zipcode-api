@@ -1,1 +1,1 @@
-{"lat": 38.935305, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Boonville", "lng": -92.73932, "zip_code": "65233"}
+{"locality": "Boonville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Boonville"], "postal_code": "65233", "lat": 38.935305, "lng": -92.73932, "type": "STANDARD", "counties": [{"fips": "053", "name": "Cooper"}]}

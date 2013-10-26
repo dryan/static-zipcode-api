@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.603447, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Shelburne Falls", "lng": -72.72754, "zip_code": "01370"});
+zipapicallback({"locality": "Shelburne Falls", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Shelburne Falls", "Shelburne Fls"], "postal_code": "01370", "lat": 42.603447, "lng": -72.72754, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

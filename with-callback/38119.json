@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.082936, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Memphis", "lng": -89.84892, "zip_code": "38119"});
+zipapicallback({"locality": "Memphis", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Memphis"], "postal_code": "38119", "lat": 35.082936, "lng": -89.84892, "type": "STANDARD", "counties": [{"fips": "157", "name": "Shelby"}, {"fips": "113", "name": "Madison"}]});

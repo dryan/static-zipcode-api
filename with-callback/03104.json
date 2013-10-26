@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.006033, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Manchester", "lng": -71.44716, "zip_code": "03104"});
+zipapicallback({"locality": "Manchester", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Manchester"], "postal_code": "03104", "lat": 43.006033, "lng": -71.44716, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}, {"fips": "011", "name": "Hillsborough"}, {"fips": "015", "name": "Rockingham"}]});

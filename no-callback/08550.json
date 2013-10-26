@@ -1,1 +1,1 @@
-{"lat": 40.292358, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Princeton Juncti", "lng": -74.60902, "zip_code": "08550"}
+{"locality": "Princeton Junction", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Princeton Jct", "Princeton Junction", "West Windsor"], "postal_code": "08550", "lat": 40.292358, "lng": -74.60902, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}]}

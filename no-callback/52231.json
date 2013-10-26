@@ -1,1 +1,1 @@
-{"lat": 41.358606, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Harper", "lng": -92.06066, "zip_code": "52231"}
+{"locality": "Harper", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Harper"], "postal_code": "52231", "lat": 41.358606, "lng": -92.06066, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}]}

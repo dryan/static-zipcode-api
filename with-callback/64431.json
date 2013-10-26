@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.527919, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clearmont", "lng": -94.9968, "zip_code": "64431"});
+zipapicallback({"locality": "Clearmont", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clearmont"], "postal_code": "64431", "lat": 40.527919, "lng": -94.9968, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}]});

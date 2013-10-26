@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.396833, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Trafalgar", "lng": -86.16098, "zip_code": "46181"});
+zipapicallback({"locality": "Trafalgar", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Trafalgar"], "postal_code": "46181", "lat": 39.396833, "lng": -86.16098, "type": "STANDARD", "counties": [{"fips": "081", "name": "Johnson"}, {"fips": "013", "name": "Brown"}]});

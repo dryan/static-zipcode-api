@@ -1,1 +1,1 @@
-{"lat": 37.609388, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Simon", "lng": -81.75668, "zip_code": "24882"}
+{"locality": "Simon", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Simon"], "postal_code": "24882", "lat": 37.609388, "lng": -81.75668, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]}

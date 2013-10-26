@@ -1,1 +1,1 @@
-{"lat": 44.950573, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lincoln City", "lng": -124.00655, "zip_code": "97367"}
+{"locality": "Lincoln City", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lincoln City", "Rose Lodge"], "postal_code": "97367", "lat": 44.950573, "lng": -124.00655, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]}

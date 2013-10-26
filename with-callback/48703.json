@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.06434, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Au Gres", "lng": -83.65821, "zip_code": "48703"});
+zipapicallback({"locality": "Au Gres", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Au Gres"], "postal_code": "48703", "lat": 44.06434, "lng": -83.65821, "type": "STANDARD", "counties": [{"fips": "011", "name": "Arenac"}]});

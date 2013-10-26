@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.948587, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lyons", "lng": -96.45359, "zip_code": "68038"});
+zipapicallback({"locality": "Lyons", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lyons"], "postal_code": "68038", "lat": 41.948587, "lng": -96.45359, "type": "STANDARD", "counties": [{"fips": "021", "name": "Burt"}, {"fips": "039", "name": "Cuming"}, {"fips": "173", "name": "Thurston"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.538878, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Elmore", "lng": -86.33358, "zip_code": "36025"}
+{"locality": "Elmore", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Elmore"], "postal_code": "36025", "lat": 32.538878, "lng": -86.33358, "type": "STANDARD", "counties": [{"fips": "051", "name": "Elmore"}]}

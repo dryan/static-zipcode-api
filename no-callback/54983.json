@@ -1,1 +1,1 @@
-{"lat": 44.319005, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Weyauwega", "lng": -88.9404, "zip_code": "54983"}
+{"locality": "Weyauwega", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Weyauwega"], "postal_code": "54983", "lat": 44.319005, "lng": -88.9404, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}, {"fips": "137", "name": "Waushara"}]}

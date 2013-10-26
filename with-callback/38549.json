@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.572543, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Byrdstown", "lng": -85.15007, "zip_code": "38549"});
+zipapicallback({"locality": "Byrdstown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Byrdstown"], "postal_code": "38549", "lat": 36.572543, "lng": -85.15007, "type": "STANDARD", "counties": [{"fips": "137", "name": "Pickett"}]});

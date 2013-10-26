@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.907841, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ihlen", "lng": -96.36802, "zip_code": "56140"});
+zipapicallback({"locality": "Ihlen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ihlen"], "postal_code": "56140", "lat": 43.907841, "lng": -96.36802, "type": "POBOX", "counties": [{"fips": "117", "name": "Pipestone"}]});

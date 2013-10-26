@@ -1,1 +1,1 @@
-{"lat": 38.538953, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Eleanor", "lng": -81.93548, "zip_code": "25070"}
+{"locality": "Eleanor", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Eleanor"], "postal_code": "25070", "lat": 38.538953, "lng": -81.93548, "type": "POBOX", "counties": [{"fips": "079", "name": "Putnam"}]}

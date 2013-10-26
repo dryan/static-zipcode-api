@@ -1,1 +1,1 @@
-{"lat": 43.21107, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sheridan", "lng": -85.04772, "zip_code": "48884"}
+{"locality": "Sheridan", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sheridan"], "postal_code": "48884", "lat": 43.21107, "lng": -85.04772, "type": "STANDARD", "counties": [{"fips": "117", "name": "Montcalm"}, {"fips": "073", "name": "Isabella"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.646099, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "New Martinsville", "lng": -80.83465, "zip_code": "26155"}
+{"locality": "New Martinsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["N Martinsvlle", "New Martinsville"], "postal_code": "26155", "lat": 39.646099, "lng": -80.83465, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}]}

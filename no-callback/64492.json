@@ -1,1 +1,1 @@
-{"lat": 39.474988, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Trimble", "lng": -94.54614, "zip_code": "64492"}
+{"locality": "Trimble", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Trimble"], "postal_code": "64492", "lat": 39.474988, "lng": -94.54614, "type": "STANDARD", "counties": [{"fips": "049", "name": "Clinton"}, {"fips": "047", "name": "Clay"}, {"fips": "165", "name": "Platte"}, {"fips": "095", "name": "Jackson"}]}

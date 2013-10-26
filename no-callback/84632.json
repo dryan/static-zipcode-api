@@ -1,1 +1,1 @@
-{"lat": 39.633383, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Fountain Green", "lng": -111.62844, "zip_code": "84632"}
+{"locality": "Fountain Green", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fountain Green", "Fountain Grn"], "postal_code": "84632", "lat": 39.633383, "lng": -111.62844, "type": "POBOX", "counties": [{"fips": "039", "name": "Sanpete"}]}

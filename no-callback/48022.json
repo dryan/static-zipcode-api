@@ -1,1 +1,1 @@
-{"lat": 43.013805, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Emmett", "lng": -82.79404, "zip_code": "48022"}
+{"locality": "Emmett", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Emmett"], "postal_code": "48022", "lat": 43.013805, "lng": -82.79404, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]}

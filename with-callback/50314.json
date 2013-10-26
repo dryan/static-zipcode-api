@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.602989, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Des Moines", "lng": -93.63237, "zip_code": "50314"});
+zipapicallback({"locality": "Des Moines", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Des Moines"], "postal_code": "50314", "lat": 41.602989, "lng": -93.63237, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

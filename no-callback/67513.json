@@ -1,1 +1,1 @@
-{"lat": 38.446509, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Alexander", "lng": -99.53906, "zip_code": "67513"}
+{"locality": "Alexander", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Alexander"], "postal_code": "67513", "lat": 38.446509, "lng": -99.53906, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rush"}, {"fips": "145", "name": "Pawnee"}]}

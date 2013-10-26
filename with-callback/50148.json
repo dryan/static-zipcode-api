@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.187863, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Liscomb", "lng": -93.00381, "zip_code": "50148"});
+zipapicallback({"locality": "Liscomb", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Liscomb"], "postal_code": "50148", "lat": 42.187863, "lng": -93.00381, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]});

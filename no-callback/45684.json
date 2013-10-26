@@ -1,1 +1,1 @@
-{"lat": 38.664532, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Stout", "lng": -83.29759, "zip_code": "45684"}
+{"locality": "Stout", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Stout"], "postal_code": "45684", "lat": 38.664532, "lng": -83.29759, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "145", "name": "Scioto"}]}

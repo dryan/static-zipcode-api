@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.430323, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Oglesby", "lng": -97.52946, "zip_code": "76561"});
+zipapicallback({"locality": "Oglesby", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Oglesby"], "postal_code": "76561", "lat": 31.430323, "lng": -97.52946, "type": "STANDARD", "counties": [{"fips": "099", "name": "Coryell"}, {"fips": "309", "name": "McLennan"}]});

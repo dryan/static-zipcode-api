@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.78767, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Raton", "lng": -104.38693, "zip_code": "87740"});
+zipapicallback({"locality": "Raton", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Raton"], "postal_code": "87740", "lat": 36.78767, "lng": -104.38693, "type": "STANDARD", "counties": [{"fips": "007", "name": "Colfax"}]});

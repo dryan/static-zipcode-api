@@ -1,1 +1,1 @@
-{"lat": 41.098478, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New London", "lng": -82.40483, "zip_code": "44851"}
+{"locality": "New London", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New London"], "postal_code": "44851", "lat": 41.098478, "lng": -82.40483, "type": "STANDARD", "counties": [{"fips": "077", "name": "Huron"}, {"fips": "005", "name": "Ashland"}, {"fips": "093", "name": "Lorain"}]}

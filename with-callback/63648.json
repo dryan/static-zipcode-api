@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.827126, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Irondale", "lng": -90.68325, "zip_code": "63648"});
+zipapicallback({"locality": "Irondale", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Irondale"], "postal_code": "63648", "lat": 37.827126, "lng": -90.68325, "type": "STANDARD", "counties": [{"fips": "221", "name": "Washington"}, {"fips": "187", "name": "St Francois"}]});

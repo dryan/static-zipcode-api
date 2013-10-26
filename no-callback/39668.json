@@ -1,1 +1,1 @@
-{"lat": 31.668442, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Union Church", "lng": -90.76317, "zip_code": "39668"}
+{"locality": "Union Church", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Union Church"], "postal_code": "39668", "lat": 31.668442, "lng": -90.76317, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jefferson"}, {"fips": "037", "name": "Franklin"}, {"fips": "085", "name": "Lincoln"}]}

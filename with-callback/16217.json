@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.344067, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cooksburg", "lng": -79.20159, "zip_code": "16217"});
+zipapicallback({"locality": "Cooksburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cooksburg"], "postal_code": "16217", "lat": 41.344067, "lng": -79.20159, "type": "STANDARD", "counties": [{"fips": "053", "name": "Forest"}, {"fips": "031", "name": "Clarion"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.340111, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Austin", "lng": -97.98869, "zip_code": "78738"}
+{"locality": "Austin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Austin", "Bee Cave", "Bee Caves", "Lakeway", "The Hills", "Village Of The Hills", "Vlg O The Hls"], "postal_code": "78738", "lat": 30.340111, "lng": -97.98869, "type": "STANDARD", "counties": [{"fips": "453", "name": "Travis"}]}

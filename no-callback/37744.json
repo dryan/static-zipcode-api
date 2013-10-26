@@ -1,1 +1,1 @@
-{"lat": 36.182289, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Greeneville", "lng": -82.73948, "zip_code": "37744"}
+{"locality": "Greeneville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Greeneville"], "postal_code": "37744", "lat": 36.182289, "lng": -82.73948, "type": "POBOX", "counties": [{"fips": "059", "name": "Greene"}, {"fips": "009", "name": "Blount"}]}

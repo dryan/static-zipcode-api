@@ -1,1 +1,1 @@
-{"lat": 37.605335, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wachapreague", "lng": -75.69088, "zip_code": "23480"}
+{"locality": "Wachapreague", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Wachapreague"], "postal_code": "23480", "lat": 37.605335, "lng": -75.69088, "type": "POBOX", "counties": [{"fips": "001", "name": "Accomack"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.025395, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dunedin", "lng": -82.77534, "zip_code": "34698"});
+zipapicallback({"locality": "Dunedin", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dunedin"], "postal_code": "34698", "lat": 28.025395, "lng": -82.77534, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]});

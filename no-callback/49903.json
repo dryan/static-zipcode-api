@@ -1,1 +1,1 @@
-{"lat": 46.234686, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Amasa", "lng": -88.45043, "zip_code": "49903"}
+{"locality": "Amasa", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Amasa"], "postal_code": "49903", "lat": 46.234686, "lng": -88.45043, "type": "POBOX", "counties": [{"fips": "071", "name": "Iron"}]}

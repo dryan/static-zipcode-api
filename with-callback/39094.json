@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.595179, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lena", "lng": -89.6311, "zip_code": "39094"});
+zipapicallback({"locality": "Lena", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lena"], "postal_code": "39094", "lat": 32.595179, "lng": -89.6311, "type": "STANDARD", "counties": [{"fips": "079", "name": "Leake"}, {"fips": "121", "name": "Rankin"}, {"fips": "123", "name": "Scott"}]});

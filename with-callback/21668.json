@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.201203, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Sudlersville", "lng": -75.85175, "zip_code": "21668"});
+zipapicallback({"locality": "Sudlersville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Sudlersville"], "postal_code": "21668", "lat": 39.201203, "lng": -75.85175, "type": "STANDARD", "counties": [{"fips": "035", "name": "Queen Anne's"}]});

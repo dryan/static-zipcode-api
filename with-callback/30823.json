@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.234802, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Stapleton", "lng": -82.46303, "zip_code": "30823"});
+zipapicallback({"locality": "Stapleton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Stapleton"], "postal_code": "30823", "lat": 33.234802, "lng": -82.46303, "type": "STANDARD", "counties": [{"fips": "163", "name": "Jefferson"}, {"fips": "189", "name": "McDuffie"}, {"fips": "301", "name": "Warren"}, {"fips": "125", "name": "Glascock"}]});

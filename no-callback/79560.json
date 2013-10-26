@@ -1,1 +1,1 @@
-{"lat": 32.684029, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sylvester", "lng": -100.1998, "zip_code": "79560"}
+{"locality": "Sylvester", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sylvester"], "postal_code": "79560", "lat": 32.684029, "lng": -100.1998, "type": "STANDARD", "counties": [{"fips": "151", "name": "Fisher"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.767194, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gilman", "lng": -87.98929, "zip_code": "60938"});
+zipapicallback({"locality": "Gilman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gilman"], "postal_code": "60938", "lat": 40.767194, "lng": -87.98929, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}]});

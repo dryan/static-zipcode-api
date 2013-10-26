@@ -1,1 +1,1 @@
-{"lat": 35.486269, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mentmore", "lng": -108.90414, "zip_code": "87319"}
+{"locality": "Mentmore", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Gallup", "Mentmore"], "postal_code": "87319", "lat": 35.486269, "lng": -108.90414, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

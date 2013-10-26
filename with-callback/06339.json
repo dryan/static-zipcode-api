@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.449482, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Ledyard", "lng": -71.98233, "zip_code": "06339"});
+zipapicallback({"locality": "Ledyard", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Gales Ferry", "Ledyard"], "postal_code": "06339", "lat": 41.449482, "lng": -71.98233, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.573072, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Demorest", "lng": -83.55992, "zip_code": "30535"}
+{"locality": "Demorest", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Demorest"], "postal_code": "30535", "lat": 34.573072, "lng": -83.55992, "type": "STANDARD", "counties": [{"fips": "137", "name": "Habersham"}]}

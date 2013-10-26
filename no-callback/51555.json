@@ -1,1 +1,1 @@
-{"lat": 41.557887, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Missouri Valley", "lng": -95.90651, "zip_code": "51555"}
+{"locality": "Missouri Valley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Missouri Valley", "Missouri Vly", "Mo Valley"], "postal_code": "51555", "lat": 41.557887, "lng": -95.90651, "type": "STANDARD", "counties": [{"fips": "085", "name": "Harrison"}, {"fips": "155", "name": "Pottawattamie"}]}

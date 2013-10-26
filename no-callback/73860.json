@@ -1,1 +1,1 @@
-{"lat": 36.56306, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Waynoka", "lng": -98.86623, "zip_code": "73860"}
+{"locality": "Waynoka", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Waynoka"], "postal_code": "73860", "lat": 36.56306, "lng": -98.86623, "type": "STANDARD", "counties": [{"fips": "151", "name": "Woods"}, {"fips": "153", "name": "Woodward"}, {"fips": "093", "name": "Major"}]}

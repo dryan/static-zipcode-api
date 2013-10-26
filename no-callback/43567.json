@@ -1,1 +1,1 @@
-{"lat": 41.5615, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wauseon", "lng": -84.15574, "zip_code": "43567"}
+{"locality": "Wauseon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wauseon"], "postal_code": "43567", "lat": 41.5615, "lng": -84.15574, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fulton"}, {"fips": "069", "name": "Henry"}]}

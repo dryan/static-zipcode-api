@@ -1,1 +1,1 @@
-{"lat": 47.604718, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Seattle", "lng": -122.33523, "zip_code": "98174"}
+{"locality": "Seattle", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Seattle"], "postal_code": "98174", "lat": 47.604718, "lng": -122.33523, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

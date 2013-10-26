@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.879049, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Fairfield", "lng": -74.29378, "zip_code": "07004"});
+zipapicallback({"locality": "Fairfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fairfield"], "postal_code": "07004", "lat": 40.879049, "lng": -74.29378, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.889596, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cerro Gordo", "lng": -88.72633, "zip_code": "61818"});
+zipapicallback({"locality": "Cerro Gordo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cerro Gordo"], "postal_code": "61818", "lat": 39.889596, "lng": -88.72633, "type": "STANDARD", "counties": [{"fips": "147", "name": "Piatt"}]});

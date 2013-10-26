@@ -1,1 +1,1 @@
-{"lat": 44.141056, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Riverton", "lng": -72.66443, "zip_code": "05663"}
+{"locality": "Northfield", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Northfield", "Riverton", "West Berlin"], "postal_code": "05663", "lat": 44.141056, "lng": -72.66443, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}, {"fips": "017", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.44489, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hargill", "lng": -98.01478, "zip_code": "78549"}
+{"locality": "Hargill", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hargill"], "postal_code": "78549", "lat": 26.44489, "lng": -98.01478, "type": "POBOX", "counties": [{"fips": "215", "name": "Hidalgo"}]}

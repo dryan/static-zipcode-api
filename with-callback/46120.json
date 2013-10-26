@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.513388, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Cloverdale", "lng": -86.79169, "zip_code": "46120"});
+zipapicallback({"locality": "Cloverdale", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Cloverdale"], "postal_code": "46120", "lat": 39.513388, "lng": -86.79169, "type": "STANDARD", "counties": [{"fips": "133", "name": "Putnam"}, {"fips": "119", "name": "Owen"}, {"fips": "109", "name": "Morgan"}]});

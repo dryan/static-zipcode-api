@@ -1,1 +1,1 @@
-{"lat": 45.113285, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Milan", "lng": -95.86913, "zip_code": "56262"}
+{"locality": "Milan", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Milan"], "postal_code": "56262", "lat": 45.113285, "lng": -95.86913, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chippewa"}, {"fips": "151", "name": "Swift"}]}

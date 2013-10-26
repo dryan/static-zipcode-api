@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.655003, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Penalosa", "lng": -98.39643, "zip_code": "67035"});
+zipapicallback({"locality": "Cunningham", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cunningham", "Penalosa"], "postal_code": "67035", "lat": 37.655003, "lng": -98.39643, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pratt"}, {"fips": "095", "name": "Kingman"}]});

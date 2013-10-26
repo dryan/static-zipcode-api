@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.68516, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Winchester Bay", "lng": -124.00262, "zip_code": "97467"});
+zipapicallback({"locality": "Reedsport", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Reedsport", "Win Bay", "Winchester Bay", "Winchestr Bay"], "postal_code": "97467", "lat": 43.68516, "lng": -124.00262, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]});

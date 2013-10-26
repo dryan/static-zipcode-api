@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.573848, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bison", "lng": -99.18943, "zip_code": "67520"});
+zipapicallback({"locality": "Bison", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bison"], "postal_code": "67520", "lat": 38.573848, "lng": -99.18943, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rush"}]});

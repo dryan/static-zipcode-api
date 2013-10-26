@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.831242, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Higdon", "lng": -85.61564, "zip_code": "35979"});
+zipapicallback({"locality": "Higdon", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Higdon"], "postal_code": "35979", "lat": 34.831242, "lng": -85.61564, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.184743, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Farmland", "lng": -85.13, "zip_code": "47340"});
+zipapicallback({"locality": "Farmland", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Farmland"], "postal_code": "47340", "lat": 40.184743, "lng": -85.13, "type": "STANDARD", "counties": [{"fips": "135", "name": "Randolph"}]});

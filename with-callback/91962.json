@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.773317, "region": {"abbr": "CA", "name": "California"}, "locality": "Pine Valley", "lng": -116.49139, "zip_code": "91962"});
+zipapicallback({"locality": "Pine Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pine Valley"], "postal_code": "91962", "lat": 32.773317, "lng": -116.49139, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.103892, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Harrison", "lng": -70.65327, "zip_code": "04040"});
+zipapicallback({"locality": "Harrison", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Harrison", "Sweden"], "postal_code": "04040", "lat": 44.103892, "lng": -70.65327, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

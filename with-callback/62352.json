@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.563599, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Milton", "lng": -90.64813, "zip_code": "62352"});
+zipapicallback({"locality": "Milton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Milton"], "postal_code": "62352", "lat": 39.563599, "lng": -90.64813, "type": "POBOX", "counties": [{"fips": "149", "name": "Pike"}]});

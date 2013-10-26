@@ -1,1 +1,1 @@
-{"lat": 36.993498, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mc Kenney", "lng": -77.74687, "zip_code": "23872"}
+{"locality": "Mc Kenney", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mc Kenney"], "postal_code": "23872", "lat": 36.993498, "lng": -77.74687, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dinwiddie"}]}

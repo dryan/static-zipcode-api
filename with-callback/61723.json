@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.256893, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Atlanta", "lng": -89.25013, "zip_code": "61723"});
+zipapicallback({"locality": "Atlanta", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Atlanta"], "postal_code": "61723", "lat": 40.256893, "lng": -89.25013, "type": "STANDARD", "counties": [{"fips": "107", "name": "Logan"}, {"fips": "113", "name": "McLean"}]});

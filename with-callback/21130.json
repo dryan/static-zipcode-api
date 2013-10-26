@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.466859, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Perryman", "lng": -76.20106, "zip_code": "21130"});
+zipapicallback({"locality": "Perryman", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Perryman"], "postal_code": "21130", "lat": 39.466859, "lng": -76.20106, "type": "POBOX", "counties": [{"fips": "025", "name": "Harford"}]});

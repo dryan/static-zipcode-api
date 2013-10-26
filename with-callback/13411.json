@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.626177, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Berlin", "lng": -75.31502, "zip_code": "13411"});
+zipapicallback({"locality": "New Berlin", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Berlin", "S Edmeston", "South Edmeston"], "postal_code": "13411", "lat": 42.626177, "lng": -75.31502, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}]});

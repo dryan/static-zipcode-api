@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.630659, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Enderlin", "lng": -97.6003, "zip_code": "58027"});
+zipapicallback({"locality": "Enderlin", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Enderlin"], "postal_code": "58027", "lat": 46.630659, "lng": -97.6003, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ransom"}, {"fips": "017", "name": "Cass"}, {"fips": "003", "name": "Barnes"}]});

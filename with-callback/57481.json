@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.663385, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Wetonka", "lng": -98.62274, "zip_code": "57481"});
+zipapicallback({"locality": "Westport", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Westport", "Wetonka"], "postal_code": "57481", "lat": 45.663385, "lng": -98.62274, "type": "STANDARD", "counties": [{"fips": "013", "name": "Brown"}, {"fips": "045", "name": "Edmunds"}, {"fips": "089", "name": "McPherson"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.594222, "region": {"abbr": "UT", "name": "Utah"}, "locality": "West Jordan", "lng": -111.97889, "zip_code": "84088"}
+{"locality": "West Jordan", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["West Jordan"], "postal_code": "84088", "lat": 40.594222, "lng": -111.97889, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

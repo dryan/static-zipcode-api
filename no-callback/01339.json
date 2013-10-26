@@ -1,1 +1,1 @@
-{"lat": 42.626858, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hawley", "lng": -72.87939, "zip_code": "01339"}
+{"locality": "Charlemont", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Charlemont", "Hawley"], "postal_code": "01339", "lat": 42.626858, "lng": -72.87939, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]}

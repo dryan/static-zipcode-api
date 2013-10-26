@@ -1,1 +1,1 @@
-{"lat": 46.309371, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Upson", "lng": -90.4354, "zip_code": "54565"}
+{"locality": "Upson", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Upson"], "postal_code": "54565", "lat": 46.309371, "lng": -90.4354, "type": "STANDARD", "counties": [{"fips": "051", "name": "Iron"}]}

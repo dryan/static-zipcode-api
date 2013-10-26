@@ -1,1 +1,1 @@
-{"lat": 40.939075, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bridgehampton", "lng": -72.30514, "zip_code": "11932"}
+{"locality": "Bridgehampton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bridgehampton"], "postal_code": "11932", "lat": 40.939075, "lng": -72.30514, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]}

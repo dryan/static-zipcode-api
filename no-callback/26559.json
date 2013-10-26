@@ -1,1 +1,1 @@
-{"lat": 39.5017, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Barrackville", "lng": -80.1664, "zip_code": "26559"}
+{"locality": "Barrackville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Barrackville"], "postal_code": "26559", "lat": 39.5017, "lng": -80.1664, "type": "POBOX", "counties": [{"fips": "049", "name": "Marion"}]}

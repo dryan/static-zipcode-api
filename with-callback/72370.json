@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.696385, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Osceola", "lng": -90.02631, "zip_code": "72370"});
+zipapicallback({"locality": "Osceola", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Osceola"], "postal_code": "72370", "lat": 35.696385, "lng": -90.02631, "type": "STANDARD", "counties": [{"fips": "093", "name": "Mississippi"}]});

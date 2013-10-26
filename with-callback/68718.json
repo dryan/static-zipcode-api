@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.651113, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bloomfield", "lng": -97.67271, "zip_code": "68718"});
+zipapicallback({"locality": "Bloomfield", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bloomfield"], "postal_code": "68718", "lat": 42.651113, "lng": -97.67271, "type": "STANDARD", "counties": [{"fips": "107", "name": "Knox"}]});

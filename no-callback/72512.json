@@ -1,1 +1,1 @@
-{"lat": 36.225645, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Horseshoe Bend", "lng": -91.75019, "zip_code": "72512"}
+{"locality": "Horseshoe Bend", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Franklin", "Horseshoe Bend", "Horseshoe Bnd"], "postal_code": "72512", "lat": 36.225645, "lng": -91.75019, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]}

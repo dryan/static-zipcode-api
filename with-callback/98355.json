@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.711036, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mineral", "lng": -122.0348, "zip_code": "98355"});
+zipapicallback({"locality": "Mineral", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Mineral"], "postal_code": "98355", "lat": 46.711036, "lng": -122.0348, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]});

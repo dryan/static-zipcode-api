@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.194109, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Sutherland", "lng": -101.17899, "zip_code": "69165"});
+zipapicallback({"locality": "Sutherland", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Sutherland"], "postal_code": "69165", "lat": 41.194109, "lng": -101.17899, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}, {"fips": "101", "name": "Keith"}]});

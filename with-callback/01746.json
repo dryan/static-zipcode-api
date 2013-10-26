@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.196065, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Holliston", "lng": -71.43797, "zip_code": "01746"});
+zipapicallback({"locality": "Holliston", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Holliston"], "postal_code": "01746", "lat": 42.196065, "lng": -71.43797, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.44627, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Burlington Junct", "lng": -95.06768, "zip_code": "64428"}
+{"locality": "Burlington Junction", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brlngton Jctn", "Burlington Junction"], "postal_code": "64428", "lat": 40.44627, "lng": -95.06768, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}, {"fips": "005", "name": "Atchison"}]}

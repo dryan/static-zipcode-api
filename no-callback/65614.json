@@ -1,1 +1,1 @@
-{"lat": 36.734544, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bradleyville", "lng": -92.89942, "zip_code": "65614"}
+{"locality": "Bradleyville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bradleyville"], "postal_code": "65614", "lat": 36.734544, "lng": -92.89942, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "213", "name": "Taney"}]}

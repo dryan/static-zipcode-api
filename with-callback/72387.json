@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.328336, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Vanndale", "lng": -90.77134, "zip_code": "72387"});
+zipapicallback({"locality": "Vanndale", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Vanndale"], "postal_code": "72387", "lat": 35.328336, "lng": -90.77134, "type": "POBOX", "counties": [{"fips": "037", "name": "Cross"}]});

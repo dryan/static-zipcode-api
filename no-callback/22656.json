@@ -1,1 +1,1 @@
-{"lat": 39.230131, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Stephenson", "lng": -78.09992, "zip_code": "22656"}
+{"locality": "Stephenson", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Stephenson"], "postal_code": "22656", "lat": 39.230131, "lng": -78.09992, "type": "STANDARD", "counties": [{"fips": "069", "name": "Frederick"}]}

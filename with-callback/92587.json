@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.692876, "region": {"abbr": "CA", "name": "California"}, "locality": "Canyon Lake", "lng": -117.25038, "zip_code": "92587"});
+zipapicallback({"locality": "Sun City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Canyon Lake", "Menifee", "Quail Valley", "Sun City"], "postal_code": "92587", "lat": 33.692876, "lng": -117.25038, "type": "STANDARD", "counties": []});

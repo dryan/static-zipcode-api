@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.842878, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gordonville", "lng": -96.82348, "zip_code": "76245"});
+zipapicallback({"locality": "Gordonville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gordonville"], "postal_code": "76245", "lat": 33.842878, "lng": -96.82348, "type": "STANDARD", "counties": [{"fips": "181", "name": "Grayson"}]});

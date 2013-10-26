@@ -1,1 +1,1 @@
-{"lat": 43.330471, "region": {"abbr": "NY", "name": "New York"}, "locality": "Queensbury", "lng": -73.67816, "zip_code": "12804"}
+{"locality": "Queensbury", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glens Falls", "Queensbury"], "postal_code": "12804", "lat": 43.330471, "lng": -73.67816, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.307923, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Liberty", "lng": -83.56924, "zip_code": "43319"});
+zipapicallback({"locality": "East Liberty", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["East Liberty"], "postal_code": "43319", "lat": 40.307923, "lng": -83.56924, "type": "STANDARD", "counties": [{"fips": "091", "name": "Logan"}, {"fips": "159", "name": "Union"}]});

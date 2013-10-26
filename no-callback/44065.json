@@ -1,1 +1,1 @@
-{"lat": 41.469908, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Newbury", "lng": -81.24579, "zip_code": "44065"}
+{"locality": "Newbury", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Newbury"], "postal_code": "44065", "lat": 41.469908, "lng": -81.24579, "type": "STANDARD", "counties": [{"fips": "055", "name": "Geauga"}]}

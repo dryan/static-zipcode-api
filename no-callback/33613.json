@@ -1,1 +1,1 @@
-{"lat": 28.077994, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tampa", "lng": -82.44989, "zip_code": "33613"}
+{"locality": "Tampa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Tampa"], "postal_code": "33613", "lat": 28.077994, "lng": -82.44989, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

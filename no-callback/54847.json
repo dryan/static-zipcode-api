@@ -1,1 +1,1 @@
-{"lat": 46.553351, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Iron River", "lng": -91.37996, "zip_code": "54847"}
+{"locality": "Iron River", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Iron River"], "postal_code": "54847", "lat": 46.553351, "lng": -91.37996, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bayfield"}]}

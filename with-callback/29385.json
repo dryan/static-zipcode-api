@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.954729, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Wellford", "lng": -82.09312, "zip_code": "29385"});
+zipapicallback({"locality": "Wellford", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Wellford"], "postal_code": "29385", "lat": 34.954729, "lng": -82.09312, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}]});

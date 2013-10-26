@@ -1,1 +1,1 @@
-{"lat": 39.021657, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bloomfield", "lng": -86.90202, "zip_code": "47424"}
+{"locality": "Bloomfield", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bloomfield"], "postal_code": "47424", "lat": 39.021657, "lng": -86.90202, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]}

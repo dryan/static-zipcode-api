@@ -1,1 +1,1 @@
-{"lat": 30.737405, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Mobile", "lng": -88.08201, "zip_code": "36610"}
+{"locality": "Mobile", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Magazine", "Mobile", "Prichard"], "postal_code": "36610", "lat": 30.737405, "lng": -88.08201, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

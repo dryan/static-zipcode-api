@@ -1,1 +1,1 @@
-{"lat": 38.224172, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Clements", "lng": -96.77229, "zip_code": "66843"}
+{"locality": "Cedar Point", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cedar Point", "Clements"], "postal_code": "66843", "lat": 38.224172, "lng": -96.77229, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chase"}, {"fips": "115", "name": "Marion"}]}

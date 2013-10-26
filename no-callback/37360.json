@@ -1,1 +1,1 @@
-{"lat": 35.433962, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Normandy", "lng": -86.26045, "zip_code": "37360"}
+{"locality": "Normandy", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Normandy"], "postal_code": "37360", "lat": 35.433962, "lng": -86.26045, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bedford"}, {"fips": "127", "name": "Moore"}, {"fips": "031", "name": "Coffee"}]}

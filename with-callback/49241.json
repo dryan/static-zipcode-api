@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.107907, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hanover", "lng": -84.60334, "zip_code": "49241"});
+zipapicallback({"locality": "Hanover", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hanover"], "postal_code": "49241", "lat": 42.107907, "lng": -84.60334, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.880005, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "North Sandwich", "lng": -71.39475, "zip_code": "03259"});
+zipapicallback({"locality": "North Sandwich", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["N Sandwich", "North Sandwich"], "postal_code": "03259", "lat": 43.880005, "lng": -71.39475, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]});

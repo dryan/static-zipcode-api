@@ -1,1 +1,1 @@
-{"lat": 36.479925, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Sturkie", "lng": -91.8863, "zip_code": "72578"}
+{"locality": "Sturkie", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Sturkie"], "postal_code": "72578", "lat": 36.479925, "lng": -91.8863, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fulton"}]}

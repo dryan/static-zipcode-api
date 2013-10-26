@@ -1,1 +1,1 @@
-{"lat": 40.095142, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Roggen", "lng": -104.28784, "zip_code": "80652"}
+{"locality": "Roggen", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Roggen"], "postal_code": "80652", "lat": 40.095142, "lng": -104.28784, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

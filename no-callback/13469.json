@@ -1,1 +1,1 @@
-{"lat": 43.220075, "region": {"abbr": "NY", "name": "New York"}, "locality": "Stittville", "lng": -75.29542, "zip_code": "13469"}
+{"locality": "Stittville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Stittville"], "postal_code": "13469", "lat": 43.220075, "lng": -75.29542, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]}

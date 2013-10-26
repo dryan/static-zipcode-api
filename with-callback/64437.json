@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.135643, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bigelow", "lng": -95.33869, "zip_code": "64437"});
+zipapicallback({"locality": "Craig", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bigelow", "Corning", "Craig", "Fortescue"], "postal_code": "64437", "lat": 40.135643, "lng": -95.33869, "type": "STANDARD", "counties": [{"fips": "087", "name": "Holt"}]});

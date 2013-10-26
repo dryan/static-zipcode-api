@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.114462, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lecompte", "lng": -92.40455, "zip_code": "71346"});
+zipapicallback({"locality": "Lecompte", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lecompte"], "postal_code": "71346", "lat": 31.114462, "lng": -92.40455, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

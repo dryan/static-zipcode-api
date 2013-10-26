@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.226997, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Crystal City", "lng": -90.38215, "zip_code": "63019"});
+zipapicallback({"locality": "Crystal City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Crystal City"], "postal_code": "63019", "lat": 38.226997, "lng": -90.38215, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]});

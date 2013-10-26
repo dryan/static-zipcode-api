@@ -1,1 +1,1 @@
-{"lat": 35.088636, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Holdenville", "lng": -96.38778, "zip_code": "74848"}
+{"locality": "Holdenville", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Holdenville", "Horntown", "Spaulding", "Yeager"], "postal_code": "74848", "lat": 35.088636, "lng": -96.38778, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hughes"}, {"fips": "133", "name": "Seminole"}]}

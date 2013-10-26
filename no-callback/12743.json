@@ -1,1 +1,1 @@
-{"lat": 41.53481, "region": {"abbr": "NY", "name": "New York"}, "locality": "Highland Lake", "lng": -74.84656, "zip_code": "12743"}
+{"locality": "Highland Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Highland Lake"], "postal_code": "12743", "lat": 41.53481, "lng": -74.84656, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

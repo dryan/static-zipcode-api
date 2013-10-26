@@ -1,1 +1,1 @@
-{"lat": 43.256053, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Bradford", "lng": -71.95405, "zip_code": "03221"}
+{"locality": "Bradford", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Bradford"], "postal_code": "03221", "lat": 43.256053, "lng": -71.95405, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]}

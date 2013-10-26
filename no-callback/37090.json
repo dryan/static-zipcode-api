@@ -1,1 +1,1 @@
-{"lat": 36.147433, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lebanon", "lng": -86.31061, "zip_code": "37090"}
+{"locality": "Lebanon", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lebanon"], "postal_code": "37090", "lat": 36.147433, "lng": -86.31061, "type": "STANDARD", "counties": []}

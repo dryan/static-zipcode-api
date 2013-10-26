@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.038731, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tiff", "lng": -90.65623, "zip_code": "63674"});
+zipapicallback({"locality": "Tiff", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tiff"], "postal_code": "63674", "lat": 38.038731, "lng": -90.65623, "type": "POBOX", "counties": [{"fips": "221", "name": "Washington"}]});

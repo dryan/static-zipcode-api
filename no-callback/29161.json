@@ -1,1 +1,1 @@
-{"lat": 34.115691, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Timmonsville", "lng": -79.94482, "zip_code": "29161"}
+{"locality": "Timmonsville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Timmonsville"], "postal_code": "29161", "lat": 34.115691, "lng": -79.94482, "type": "STANDARD", "counties": [{"fips": "041", "name": "Florence"}, {"fips": "031", "name": "Darlington"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.355424, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Carrollton", "lng": -93.48123, "zip_code": "64633"}
+{"locality": "Carrollton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Carrollton"], "postal_code": "64633", "lat": 39.355424, "lng": -93.48123, "type": "STANDARD", "counties": [{"fips": "033", "name": "Carroll"}]}

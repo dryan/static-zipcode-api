@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.924067, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Owensburg", "lng": -86.74308, "zip_code": "47453"});
+zipapicallback({"locality": "Owensburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Owensburg"], "postal_code": "47453", "lat": 38.924067, "lng": -86.74308, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]});

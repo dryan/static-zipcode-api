@@ -1,1 +1,1 @@
-{"lat": 38.665227, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gandeeville", "lng": -81.47783, "zip_code": "25243"}
+{"locality": "Gandeeville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Gandeeville", "Harmony"], "postal_code": "25243", "lat": 38.665227, "lng": -81.47783, "type": "STANDARD", "counties": [{"fips": "087", "name": "Roane"}, {"fips": "039", "name": "Kanawha"}]}

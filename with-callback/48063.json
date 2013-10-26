@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.85452, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Columbus", "lng": -82.68244, "zip_code": "48063"});
+zipapicallback({"locality": "Columbus", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Columbus"], "postal_code": "48063", "lat": 42.85452, "lng": -82.68244, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}, {"fips": "099", "name": "MacOmb"}]});

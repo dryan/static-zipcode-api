@@ -1,1 +1,1 @@
-{"lat": 38.784123, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ashland", "lng": -92.24395, "zip_code": "65010"}
+{"locality": "Ashland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ashland"], "postal_code": "65010", "lat": 38.784123, "lng": -92.24395, "type": "STANDARD", "counties": [{"fips": "019", "name": "Boone"}]}

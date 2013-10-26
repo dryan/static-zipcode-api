@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.558329, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kingston Mines", "lng": -89.76891, "zip_code": "61539"});
+zipapicallback({"locality": "Kingston Mines", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kingston Mine", "Kingston Mines"], "postal_code": "61539", "lat": 40.558329, "lng": -89.76891, "type": "POBOX", "counties": [{"fips": "143", "name": "Peoria"}]});

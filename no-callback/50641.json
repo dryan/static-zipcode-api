@@ -1,1 +1,1 @@
-{"lat": 42.605576, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hazleton", "lng": -91.91229, "zip_code": "50641"}
+{"locality": "Hazleton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hazleton"], "postal_code": "50641", "lat": 42.605576, "lng": -91.91229, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buchanan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.966836, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Alburg", "lng": -73.27028, "zip_code": "05440"});
+zipapicallback({"locality": "Alburgh", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Alburg", "Alburgh"], "postal_code": "05440", "lat": 44.966836, "lng": -73.27028, "type": "STANDARD", "counties": [{"fips": "013", "name": "Grand Isle"}]});

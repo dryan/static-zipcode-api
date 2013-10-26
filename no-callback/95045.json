@@ -1,1 +1,1 @@
-{"lat": 36.829052, "region": {"abbr": "CA", "name": "California"}, "locality": "San Juan Bautist", "lng": -121.52848, "zip_code": "95045"}
+{"locality": "San Juan Bautista", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Juan Bautista", "Sn Jun Batsta"], "postal_code": "95045", "lat": 36.829052, "lng": -121.52848, "type": "STANDARD", "counties": [{"fips": "069", "name": "San Benito"}, {"fips": "087", "name": "Santa Cruz"}]}

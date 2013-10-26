@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.091115, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dassel", "lng": -94.31758, "zip_code": "55325"});
+zipapicallback({"locality": "Dassel", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dassel", "Kingston"], "postal_code": "55325", "lat": 45.091115, "lng": -94.31758, "type": "STANDARD", "counties": [{"fips": "093", "name": "Meeker"}]});

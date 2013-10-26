@@ -1,1 +1,1 @@
-{"lat": 38.669493, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Utica", "lng": -100.19251, "zip_code": "67584"}
+{"locality": "Utica", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Utica"], "postal_code": "67584", "lat": 38.669493, "lng": -100.19251, "type": "STANDARD", "counties": [{"fips": "135", "name": "Ness"}, {"fips": "101", "name": "Lane"}, {"fips": "063", "name": "Gove"}, {"fips": "195", "name": "Trego"}]}

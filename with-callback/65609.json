@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.527558, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bakersfield", "lng": -92.14776, "zip_code": "65609"});
+zipapicallback({"locality": "Bakersfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bakersfield"], "postal_code": "65609", "lat": 36.527558, "lng": -92.14776, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}, {"fips": "091", "name": "Howell"}]});

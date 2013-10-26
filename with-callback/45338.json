@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.849859, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lewisburg", "lng": -84.54428, "zip_code": "45338"});
+zipapicallback({"locality": "Lewisburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lewisburg"], "postal_code": "45338", "lat": 39.849859, "lng": -84.54428, "type": "STANDARD", "counties": [{"fips": "135", "name": "Preble"}, {"fips": "037", "name": "Darke"}, {"fips": "113", "name": "Montgomery"}]});

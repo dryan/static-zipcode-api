@@ -1,1 +1,1 @@
-{"lat": 43.460075, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Carrollton", "lng": -83.92772, "zip_code": "48724"}
+{"locality": "Carrollton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Carrollton"], "postal_code": "48724", "lat": 43.460075, "lng": -83.92772, "type": "POBOX", "counties": [{"fips": "145", "name": "Saginaw"}]}

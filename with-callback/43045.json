@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.179696, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Milford Center", "lng": -83.44266, "zip_code": "43045"});
+zipapicallback({"locality": "Milford Center", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Milford Center", "Milford Ctr"], "postal_code": "43045", "lat": 40.179696, "lng": -83.44266, "type": "STANDARD", "counties": [{"fips": "159", "name": "Union"}, {"fips": "021", "name": "Champaign"}]});

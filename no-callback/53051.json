@@ -1,1 +1,1 @@
-{"lat": 43.151183, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Menomonee Falls", "lng": -88.11034, "zip_code": "53051"}
+{"locality": "Menomonee Falls", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Menomonee Falls", "Menomonee Fls"], "postal_code": "53051", "lat": 43.151183, "lng": -88.11034, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "079", "name": "Milwaukee"}]}

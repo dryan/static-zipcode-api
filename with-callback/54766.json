@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.323865, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sheldon", "lng": -90.89376, "zip_code": "54766"});
+zipapicallback({"locality": "Sheldon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sheldon"], "postal_code": "54766", "lat": 45.323865, "lng": -90.89376, "type": "STANDARD", "counties": [{"fips": "107", "name": "Rusk"}, {"fips": "119", "name": "Taylor"}, {"fips": "017", "name": "Chippewa"}]});

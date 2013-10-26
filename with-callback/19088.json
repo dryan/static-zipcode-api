@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Wayne", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Radnor", "Wayne"], "postal_code": "19088", "type": "UNIQUE", "counties": [{"fips": "045", "name": "Delaware"}]});

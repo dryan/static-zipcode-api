@@ -1,1 +1,1 @@
-{"lat": 41.736497, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "South Amana", "lng": -91.94243, "zip_code": "52334"}
+{"locality": "South Amana", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["South Amana"], "postal_code": "52334", "lat": 41.736497, "lng": -91.94243, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]}

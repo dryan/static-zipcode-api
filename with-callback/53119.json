@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.881035, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Eagle", "lng": -88.47117, "zip_code": "53119"});
+zipapicallback({"locality": "Eagle", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Eagle"], "postal_code": "53119", "lat": 42.881035, "lng": -88.47117, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "055", "name": "Jefferson"}, {"fips": "127", "name": "Walworth"}]});

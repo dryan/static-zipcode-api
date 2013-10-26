@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.472819, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gibson", "lng": -92.3841, "zip_code": "50104"});
+zipapicallback({"locality": "Gibson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gibson"], "postal_code": "50104", "lat": 41.472819, "lng": -92.3841, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.933712, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mound", "lng": -93.66038, "zip_code": "55364"}
+{"locality": "Mound", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Minnetrista", "Mound"], "postal_code": "55364", "lat": 44.933712, "lng": -93.66038, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]}

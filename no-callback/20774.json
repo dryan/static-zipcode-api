@@ -1,1 +1,1 @@
-{"lat": 38.892456, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Upper Marlboro", "lng": -76.80685, "zip_code": "20774"}
+{"locality": "Upper Marlboro", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glenarden", "Kettering", "Largo", "Springdale", "Upper Marlboro", "Uppr Marlboro", "Upr Marlboro"], "postal_code": "20774", "lat": 38.892456, "lng": -76.80685, "type": "STANDARD", "counties": []}

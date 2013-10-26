@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.386584, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Seymour", "lng": -73.0792, "zip_code": "06483"});
+zipapicallback({"locality": "Seymour", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Seymour"], "postal_code": "06483", "lat": 41.386584, "lng": -73.0792, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]});

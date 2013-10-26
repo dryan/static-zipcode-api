@@ -1,1 +1,1 @@
-{"lat": 35.120934, "region": {"abbr": "CA", "name": "California"}, "locality": "Grover Beach", "lng": -120.61952, "zip_code": "93433"}
+{"locality": "Grover Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Grover Beach"], "postal_code": "93433", "lat": 35.120934, "lng": -120.61952, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

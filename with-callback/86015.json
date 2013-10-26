@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.235694, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Bellemont", "lng": -111.83, "zip_code": "86015"});
+zipapicallback({"locality": "Bellemont", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bellemont", "Flagstaff"], "postal_code": "86015", "lat": 35.235694, "lng": -111.83, "type": "POBOX", "counties": [{"fips": "005", "name": "Coconino"}]});

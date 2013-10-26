@@ -1,1 +1,1 @@
-{"lat": 36.522263, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cebolla", "lng": -106.54918, "zip_code": "87518"}
+{"locality": "Cebolla", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cebolla"], "postal_code": "87518", "lat": 36.522263, "lng": -106.54918, "type": "POBOX", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

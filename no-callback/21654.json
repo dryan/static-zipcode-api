@@ -1,1 +1,1 @@
-{"lat": 38.690831, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Oxford", "lng": -76.14666, "zip_code": "21654"}
+{"locality": "Oxford", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Oxford"], "postal_code": "21654", "lat": 38.690831, "lng": -76.14666, "type": "STANDARD", "counties": [{"fips": "041", "name": "Talbot"}]}

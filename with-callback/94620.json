@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Piedmont", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oakland", "Piedmont"], "postal_code": "94620", "type": "POBOX", "counties": [{"fips": "001", "name": "Alameda"}]});

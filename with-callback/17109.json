@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.290439, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Colonial Park", "lng": -76.82841, "zip_code": "17109"});
+zipapicallback({"locality": "Harrisburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harrisburg", "Lower Paxton", "Penbrook"], "postal_code": "17109", "lat": 40.290439, "lng": -76.82841, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]});

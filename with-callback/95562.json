@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.494813, "region": {"abbr": "CA", "name": "California"}, "locality": "Rio Dell", "lng": -124.11637, "zip_code": "95562"});
+zipapicallback({"locality": "Rio Dell", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rio Dell"], "postal_code": "95562", "lat": 40.494813, "lng": -124.11637, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]});

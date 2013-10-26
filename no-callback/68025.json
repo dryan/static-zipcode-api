@@ -1,1 +1,1 @@
-{"lat": 41.434796, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Fremont", "lng": -96.48869, "zip_code": "68025"}
+{"locality": "Fremont", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Fremont", "Inglewood"], "postal_code": "68025", "lat": 41.434796, "lng": -96.48869, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dodge"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.978834, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Andover", "lng": -90.25171, "zip_code": "52701"});
+zipapicallback({"locality": "Andover", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Andover"], "postal_code": "52701", "lat": 41.978834, "lng": -90.25171, "type": "POBOX", "counties": [{"fips": "045", "name": "Clinton"}]});

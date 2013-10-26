@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.974642, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Evansville", "lng": -87.57349, "zip_code": "47708"});
+zipapicallback({"locality": "Evansville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Evansville"], "postal_code": "47708", "lat": 37.974642, "lng": -87.57349, "type": "STANDARD", "counties": [{"fips": "163", "name": "Vanderburgh"}, {"fips": "173", "name": "Warrick"}]});

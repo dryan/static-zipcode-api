@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.173104, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Highland", "lng": -76.95779, "zip_code": "20777"});
+zipapicallback({"locality": "Highland", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Highland"], "postal_code": "20777", "lat": 39.173104, "lng": -76.95779, "type": "STANDARD", "counties": [{"fips": "027", "name": "Howard"}, {"fips": "031", "name": "Montgomery"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.618115, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ghent", "lng": -81.10724, "zip_code": "25843"}
+{"locality": "Ghent", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ghent"], "postal_code": "25843", "lat": 37.618115, "lng": -81.10724, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]}

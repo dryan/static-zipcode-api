@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.88628, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Grove City", "lng": -83.07989, "zip_code": "43123"});
+zipapicallback({"locality": "Grove City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Darbydale", "Grove City", "Urbancrest"], "postal_code": "43123", "lat": 39.88628, "lng": -83.07989, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}]});

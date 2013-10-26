@@ -1,1 +1,1 @@
-{"lat": 45.145353, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Gardiner", "lng": -110.60771, "zip_code": "59030"}
+{"locality": "Gardiner", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Gardiner"], "postal_code": "59030", "lat": 45.145353, "lng": -110.60771, "type": "STANDARD", "counties": [{"fips": "067", "name": "Park"}]}

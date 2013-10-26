@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.75287, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kenmore", "lng": -122.24736, "zip_code": "98028"});
+zipapicallback({"locality": "Kenmore", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bothell", "Kenmore"], "postal_code": "98028", "lat": 47.75287, "lng": -122.24736, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.532215, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rocky Ridge", "lng": -83.21026, "zip_code": "43458"}
+{"locality": "Rocky Ridge", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rocky Ridge"], "postal_code": "43458", "lat": 41.532215, "lng": -83.21026, "type": "POBOX", "counties": [{"fips": "123", "name": "Ottawa"}]}

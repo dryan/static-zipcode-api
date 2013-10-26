@@ -1,1 +1,1 @@
-{"lat": 41.759503, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pierpont", "lng": -80.56995, "zip_code": "44082"}
+{"locality": "Pierpont", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pierpont"], "postal_code": "44082", "lat": 41.759503, "lng": -80.56995, "type": "STANDARD", "counties": [{"fips": "007", "name": "Ashtabula"}]}

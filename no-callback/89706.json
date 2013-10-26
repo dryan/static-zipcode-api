@@ -1,1 +1,1 @@
-{"lat": 39.200035, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Moundhouse", "lng": -119.72732, "zip_code": "89706"}
+{"locality": "Carson City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Carson City", "Mound House"], "postal_code": "89706", "lat": 39.200035, "lng": -119.72732, "type": "STANDARD", "counties": [{"fips": "510", "name": "Carson City"}, {"fips": "005", "name": "Douglas"}, {"fips": "019", "name": "Lyon"}]}

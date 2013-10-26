@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.594956, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Seymour", "lng": -99.28506, "zip_code": "76380"});
+zipapicallback({"locality": "Seymour", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Red Springs", "Seymour", "Vera"], "postal_code": "76380", "lat": 33.594956, "lng": -99.28506, "type": "STANDARD", "counties": [{"fips": "023", "name": "Baylor"}]});

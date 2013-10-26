@@ -1,1 +1,1 @@
-{"lat": 35.156491, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Morrilton", "lng": -92.75858, "zip_code": "72110"}
+{"locality": "Morrilton", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Morrilton", "Oppelo"], "postal_code": "72110", "lat": 35.156491, "lng": -92.75858, "type": "STANDARD", "counties": [{"fips": "141", "name": "Van Buren"}]}

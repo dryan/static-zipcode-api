@@ -1,1 +1,1 @@
-{"lat": 31.809263, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fort Bliss", "lng": -106.43081, "zip_code": "79906"}
+{"locality": "El Paso", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["El Paso"], "postal_code": "79906", "lat": 31.809263, "lng": -106.43081, "type": "STANDARD", "counties": [{"fips": "141", "name": "El Paso"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.453813, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Charlestown", "lng": -85.65443, "zip_code": "47111"});
+zipapicallback({"locality": "Charlestown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Charlestown"], "postal_code": "47111", "lat": 38.453813, "lng": -85.65443, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]});

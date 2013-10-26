@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.83821, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Roseland", "lng": -90.17029, "zip_code": "72442"});
+zipapicallback({"locality": "Manila", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Manila"], "postal_code": "72442", "lat": 35.83821, "lng": -90.17029, "type": "STANDARD", "counties": [{"fips": "093", "name": "Mississippi"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.264749, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "New Hampton", "lng": -94.19587, "zip_code": "64471"});
+zipapicallback({"locality": "New Hampton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Hampton"], "postal_code": "64471", "lat": 40.264749, "lng": -94.19587, "type": "STANDARD", "counties": [{"fips": "081", "name": "Harrison"}, {"fips": "075", "name": "Gentry"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.461613, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Waldo", "lng": -83.05047, "zip_code": "43356"}
+{"locality": "Waldo", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Waldo"], "postal_code": "43356", "lat": 40.461613, "lng": -83.05047, "type": "STANDARD", "counties": [{"fips": "101", "name": "Marion"}, {"fips": "117", "name": "Morrow"}, {"fips": "041", "name": "Delaware"}]}

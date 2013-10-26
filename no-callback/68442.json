@@ -1,1 +1,1 @@
-{"lat": 40.229899, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stella", "lng": -95.77517, "zip_code": "68442"}
+{"locality": "Stella", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stella"], "postal_code": "68442", "lat": 40.229899, "lng": -95.77517, "type": "STANDARD", "counties": [{"fips": "147", "name": "Richardson"}, {"fips": "127", "name": "Nemaha"}]}

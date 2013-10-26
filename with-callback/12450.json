@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.157937, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lanesville", "lng": -74.23034, "zip_code": "12450"});
+zipapicallback({"locality": "Lanesville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lanesville"], "postal_code": "12450", "lat": 42.157937, "lng": -74.23034, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]});

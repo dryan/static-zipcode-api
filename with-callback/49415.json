@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.135994, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fruitport", "lng": -86.13348, "zip_code": "49415"});
+zipapicallback({"locality": "Fruitport", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fruitport"], "postal_code": "49415", "lat": 43.135994, "lng": -86.13348, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}, {"fips": "139", "name": "Ottawa"}]});

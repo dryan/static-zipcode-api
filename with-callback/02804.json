@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.430068, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Ashaway", "lng": -71.78101, "zip_code": "02804"});
+zipapicallback({"locality": "Ashaway", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Ashaway"], "postal_code": "02804", "lat": 41.430068, "lng": -71.78101, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]});

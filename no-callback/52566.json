@@ -1,1 +1,1 @@
-{"lat": 41.14579, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kirkville", "lng": -92.49948, "zip_code": "52566"}
+{"locality": "Kirkville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kirkville"], "postal_code": "52566", "lat": 41.14579, "lng": -92.49948, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wapello"}]}

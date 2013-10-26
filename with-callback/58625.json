@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.252561, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Dodge", "lng": -102.18789, "zip_code": "58625"});
+zipapicallback({"locality": "Dodge", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Dodge"], "postal_code": "58625", "lat": 47.252561, "lng": -102.18789, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dunn"}, {"fips": "057", "name": "Mercer"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.090528, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Atmore", "lng": -87.49715, "zip_code": "36502"});
+zipapicallback({"locality": "Atmore", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Atmore", "Mc Cullough", "Mccullough"], "postal_code": "36502", "lat": 31.090528, "lng": -87.49715, "type": "STANDARD", "counties": [{"fips": "053", "name": "Escambia"}, {"fips": "003", "name": "Baldwin"}, {"fips": "035", "name": "Conecuh"}, {"fips": "099", "name": "Monroe"}]});

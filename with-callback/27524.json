@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.4152, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Four Oaks", "lng": -78.42116, "zip_code": "27524"});
+zipapicallback({"locality": "Four Oaks", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Four Oaks"], "postal_code": "27524", "lat": 35.4152, "lng": -78.42116, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnston"}]});

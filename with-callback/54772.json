@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.084813, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wheeler", "lng": -91.89724, "zip_code": "54772"});
+zipapicallback({"locality": "Wheeler", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wheeler"], "postal_code": "54772", "lat": 45.084813, "lng": -91.89724, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dunn"}]});

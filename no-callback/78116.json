@@ -1,1 +1,1 @@
-{"lat": 29.112202, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gillett", "lng": -97.78275, "zip_code": "78116"}
+{"locality": "Gillett", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gillett"], "postal_code": "78116", "lat": 29.112202, "lng": -97.78275, "type": "STANDARD", "counties": [{"fips": "255", "name": "Karnes"}]}

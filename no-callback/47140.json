@@ -1,1 +1,1 @@
-{"lat": 38.37482, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Marengo", "lng": -86.35313, "zip_code": "47140"}
+{"locality": "Marengo", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hogtown", "Marengo"], "postal_code": "47140", "lat": 38.37482, "lng": -86.35313, "type": "STANDARD", "counties": [{"fips": "025", "name": "Crawford"}]}

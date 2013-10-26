@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.431153, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lashmeet", "lng": -81.22628, "zip_code": "24733"});
+zipapicallback({"locality": "Lashmeet", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lashmeet"], "postal_code": "24733", "lat": 37.431153, "lng": -81.22628, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]});

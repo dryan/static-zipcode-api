@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.128085, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Lee", "lng": -70.96035, "zip_code": "03824"});
+zipapicallback({"locality": "Durham", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Durham", "Lee"], "postal_code": "03824", "lat": 43.128085, "lng": -70.96035, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}, {"fips": "015", "name": "Rockingham"}]});

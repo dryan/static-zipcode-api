@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.99355, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Thayer", "lng": -94.07635, "zip_code": "50254"});
+zipapicallback({"locality": "Thayer", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Thayer"], "postal_code": "50254", "lat": 40.99355, "lng": -94.07635, "type": "STANDARD", "counties": [{"fips": "175", "name": "Union"}]});

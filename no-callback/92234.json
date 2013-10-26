@@ -1,1 +1,1 @@
-{"lat": 33.807761, "region": {"abbr": "CA", "name": "California"}, "locality": "Cathedral City", "lng": -116.46473, "zip_code": "92234"}
+{"locality": "Cathedral City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cathedral City", "Cathedral Cty"], "postal_code": "92234", "lat": 33.807761, "lng": -116.46473, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

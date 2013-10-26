@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.11653, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Saint John", "lng": -117.63938, "zip_code": "99171"});
+zipapicallback({"locality": "Saint John", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Saint John"], "postal_code": "99171", "lat": 47.11653, "lng": -117.63938, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

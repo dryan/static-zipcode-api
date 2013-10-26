@@ -1,1 +1,1 @@
-{"lat": 35.263424, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kellerville", "lng": -100.61635, "zip_code": "79057"}
+{"locality": "Mclean", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mclean"], "postal_code": "79057", "lat": 35.263424, "lng": -100.61635, "type": "STANDARD", "counties": [{"fips": "179", "name": "Gray"}, {"fips": "483", "name": "Wheeler"}, {"fips": "129", "name": "Donley"}]}

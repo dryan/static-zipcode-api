@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.649482, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Big Sandy", "lng": -95.1259, "zip_code": "75755"});
+zipapicallback({"locality": "Big Sandy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Big Sandy", "Holly Lake Ranch", "Holly Lk Rnch"], "postal_code": "75755", "lat": 32.649482, "lng": -95.1259, "type": "STANDARD", "counties": [{"fips": "459", "name": "Upshur"}, {"fips": "499", "name": "Wood"}]});

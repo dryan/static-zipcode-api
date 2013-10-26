@@ -1,1 +1,1 @@
-{"lat": 41.699432, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Palos Hills", "lng": -87.82977, "zip_code": "60465"}
+{"locality": "Palos Hills", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Palos Hills"], "postal_code": "60465", "lat": 41.699432, "lng": -87.82977, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

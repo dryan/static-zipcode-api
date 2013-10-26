@@ -1,1 +1,1 @@
-{"lat": 42.896822, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Casper", "lng": -106.29799, "zip_code": "82601"}
+{"locality": "Casper", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Bar Nunn", "Casper"], "postal_code": "82601", "lat": 42.896822, "lng": -106.29799, "type": "STANDARD", "counties": [{"fips": "025", "name": "Natrona"}]}

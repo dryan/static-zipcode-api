@@ -1,1 +1,1 @@
-{"lat": 46.043951, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fairmount", "lng": -96.66927, "zip_code": "58030"}
+{"locality": "Fairmount", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Fairmount"], "postal_code": "58030", "lat": 46.043951, "lng": -96.66927, "type": "STANDARD", "counties": [{"fips": "077", "name": "Richland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.960029, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Morocco", "lng": -87.44715, "zip_code": "47963"});
+zipapicallback({"locality": "Morocco", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Morocco"], "postal_code": "47963", "lat": 40.960029, "lng": -87.44715, "type": "STANDARD", "counties": [{"fips": "111", "name": "Newton"}]});

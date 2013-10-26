@@ -1,1 +1,1 @@
-{"lat": 39.206652, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Larkspur", "lng": -104.90983, "zip_code": "80118"}
+{"locality": "Larkspur", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Larkspur"], "postal_code": "80118", "lat": 39.206652, "lng": -104.90983, "type": "STANDARD", "counties": [{"fips": "035", "name": "Douglas"}]}

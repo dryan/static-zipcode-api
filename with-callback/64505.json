@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.812344, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Joseph", "lng": -94.84286, "zip_code": "64505"});
+zipapicallback({"locality": "Saint Joseph", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Country Club", "Saint Joseph"], "postal_code": "64505", "lat": 39.812344, "lng": -94.84286, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buchanan"}, {"fips": "003", "name": "Andrew"}]});

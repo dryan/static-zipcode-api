@@ -1,1 +1,1 @@
-{"lat": 35.016373, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Stedman", "lng": -78.6941, "zip_code": "28391"}
+{"locality": "Stedman", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Stedman"], "postal_code": "28391", "lat": 35.016373, "lng": -78.6941, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cumberland"}]}

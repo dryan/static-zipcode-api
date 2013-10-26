@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.87137, "region": {"abbr": "CA", "name": "California"}, "locality": "California Hot S", "lng": -118.6821, "zip_code": "93207"});
+zipapicallback({"locality": "California Hot Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Calif Hot Spg", "California Hot Springs"], "postal_code": "93207", "lat": 35.87137, "lng": -118.6821, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]});

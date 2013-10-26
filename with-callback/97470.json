@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.227287, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Roseburg", "lng": -123.35138, "zip_code": "97470"});
+zipapicallback({"locality": "Roseburg", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Roseburg"], "postal_code": "97470", "lat": 43.227287, "lng": -123.35138, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}, {"fips": "029", "name": "Jackson"}]});

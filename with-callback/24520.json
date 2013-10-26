@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.561396, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Alton", "lng": -79.05268, "zip_code": "24520"});
+zipapicallback({"locality": "Alton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alton"], "postal_code": "24520", "lat": 36.561396, "lng": -79.05268, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]});

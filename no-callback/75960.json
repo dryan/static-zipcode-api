@@ -1,1 +1,1 @@
-{"lat": 30.903688, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Moscow", "lng": -94.80916, "zip_code": "75960"}
+{"locality": "Moscow", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Moscow"], "postal_code": "75960", "lat": 30.903688, "lng": -94.80916, "type": "STANDARD", "counties": [{"fips": "373", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.274904, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Saint Maries", "lng": -116.57392, "zip_code": "83861"});
+zipapicallback({"locality": "Saint Maries", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Saint Maries", "St Maries"], "postal_code": "83861", "lat": 47.274904, "lng": -116.57392, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benewah"}, {"fips": "055", "name": "Kootenai"}, {"fips": "079", "name": "Shoshone"}]});

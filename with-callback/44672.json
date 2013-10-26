@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.922608, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sebring", "lng": -81.02632, "zip_code": "44672"});
+zipapicallback({"locality": "Sebring", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sebring"], "postal_code": "44672", "lat": 40.922608, "lng": -81.02632, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]});

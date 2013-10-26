@@ -1,1 +1,1 @@
-{"lat": 40.952695, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dahinda", "lng": -90.12141, "zip_code": "61428"}
+{"locality": "Dahinda", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dahinda"], "postal_code": "61428", "lat": 40.952695, "lng": -90.12141, "type": "STANDARD", "counties": [{"fips": "095", "name": "Knox"}]}

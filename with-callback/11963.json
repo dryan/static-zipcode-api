@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.99628, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sag Harbor", "lng": -72.31074, "zip_code": "11963"});
+zipapicallback({"locality": "Sag Harbor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sag Harbor"], "postal_code": "11963", "lat": 40.99628, "lng": -72.31074, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

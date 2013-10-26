@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.359626, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kimmell", "lng": -85.56204, "zip_code": "46760"});
+zipapicallback({"locality": "Kimmell", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kimmell"], "postal_code": "46760", "lat": 41.359626, "lng": -85.56204, "type": "STANDARD", "counties": [{"fips": "113", "name": "Noble"}]});

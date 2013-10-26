@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.550375, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Valhermoso Springs", "lng": -86.70576, "zip_code": "35775"});
+zipapicallback({"locality": "Valhermoso Springs", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Valhermoso Sp", "Valhermoso Spg", "Valhermoso Springs", "Vlhrmoso Spgs"], "postal_code": "35775", "lat": 34.550375, "lng": -86.70576, "type": "STANDARD", "counties": [{"fips": "103", "name": "Morgan"}]});

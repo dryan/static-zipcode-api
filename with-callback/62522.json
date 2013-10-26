@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.840482, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Decatur", "lng": -89.00569, "zip_code": "62522"});
+zipapicallback({"locality": "Decatur", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Decatur"], "postal_code": "62522", "lat": 39.840482, "lng": -89.00569, "type": "STANDARD", "counties": [{"fips": "115", "name": "MacOn"}]});

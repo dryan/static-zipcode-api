@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.460576, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pea Ridge", "lng": -94.13334, "zip_code": "72751"});
+zipapicallback({"locality": "Pea Ridge", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pea Ridge"], "postal_code": "72751", "lat": 36.460576, "lng": -94.13334, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]});

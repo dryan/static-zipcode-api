@@ -1,1 +1,1 @@
-{"lat": 40.618751, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Curtis", "lng": -100.50729, "zip_code": "69025"}
+{"locality": "Curtis", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Curtis"], "postal_code": "69025", "lat": 40.618751, "lng": -100.50729, "type": "STANDARD", "counties": [{"fips": "063", "name": "Frontier"}, {"fips": "111", "name": "Lincoln"}]}

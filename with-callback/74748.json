@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.163069, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kenefic", "lng": -96.47772, "zip_code": "74748"});
+zipapicallback({"locality": "Kenefic", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Kenefic"], "postal_code": "74748", "lat": 34.163069, "lng": -96.47772, "type": "STANDARD", "counties": [{"fips": "069", "name": "Johnston"}, {"fips": "005", "name": "Atoka"}, {"fips": "013", "name": "Bryan"}]});

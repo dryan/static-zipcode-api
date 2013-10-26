@@ -1,1 +1,1 @@
-{"lat": 41.733837, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Sandwich", "lng": -70.43754, "zip_code": "02537"}
+{"locality": "East Sandwich", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Sandwich", "East Sandwich"], "postal_code": "02537", "lat": 41.733837, "lng": -70.43754, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

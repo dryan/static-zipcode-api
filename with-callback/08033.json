@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.895213, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Haddonfield", "lng": -75.04019, "zip_code": "08033"});
+zipapicallback({"locality": "Haddonfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Haddonfield"], "postal_code": "08033", "lat": 39.895213, "lng": -75.04019, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]});

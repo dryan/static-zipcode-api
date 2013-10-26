@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.47056, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lake Hamilton", "lng": -93.08805, "zip_code": "71913"});
+zipapicallback({"locality": "Hot Springs National Park", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hot Springs", "Hot Springs National Park", "Lake Hamilton"], "postal_code": "71913", "lat": 34.47056, "lng": -93.08805, "type": "STANDARD", "counties": [{"fips": "051", "name": "Garland"}, {"fips": "119", "name": "Pulaski"}]});

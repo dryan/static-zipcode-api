@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.419846, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Medford", "lng": -71.10942, "zip_code": "02155"});
+zipapicallback({"locality": "Medford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Medford"], "postal_code": "02155", "lat": 42.419846, "lng": -71.10942, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

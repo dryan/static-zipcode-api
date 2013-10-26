@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.744531, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kendrick", "lng": -96.66342, "zip_code": "74079"});
+zipapicallback({"locality": "Stroud", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Kendrick", "Stroud"], "postal_code": "74079", "lat": 35.744531, "lng": -96.66342, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}, {"fips": "001", "name": "Adair"}, {"fips": "037", "name": "Creek"}, {"fips": "143", "name": "Tulsa"}, {"fips": "107", "name": "Okfuskee"}]});

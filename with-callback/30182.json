@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.658254, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Waco", "lng": -85.23497, "zip_code": "30182"});
+zipapicallback({"locality": "Waco", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Waco"], "postal_code": "30182", "lat": 33.658254, "lng": -85.23497, "type": "STANDARD", "counties": [{"fips": "143", "name": "Haralson"}, {"fips": "045", "name": "Carroll"}]});

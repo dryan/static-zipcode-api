@@ -1,1 +1,1 @@
-{"lat": 39.907331, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sidell", "lng": -87.82587, "zip_code": "61876"}
+{"locality": "Sidell", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sidell"], "postal_code": "61876", "lat": 39.907331, "lng": -87.82587, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

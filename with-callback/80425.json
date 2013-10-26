@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.361089, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Buffalo Creek", "lng": -105.22472, "zip_code": "80425"});
+zipapicallback({"locality": "Buffalo Creek", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Buffalo Creek"], "postal_code": "80425", "lat": 39.361089, "lng": -105.22472, "type": "POBOX", "counties": [{"fips": "059", "name": "Jefferson"}]});

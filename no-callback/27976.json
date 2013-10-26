@@ -1,1 +1,1 @@
-{"lat": 36.466396, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "South Mills", "lng": -76.29809, "zip_code": "27976"}
+{"locality": "South Mills", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["South Mills"], "postal_code": "27976", "lat": 36.466396, "lng": -76.29809, "type": "STANDARD", "counties": [{"fips": "029", "name": "Camden"}]}

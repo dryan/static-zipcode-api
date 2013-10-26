@@ -1,1 +1,1 @@
-{"lat": 43.774709, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Moore", "lng": -113.45086, "zip_code": "83255"}
+{"locality": "Moore", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Darlington", "Lost River", "Moore"], "postal_code": "83255", "lat": 43.774709, "lng": -113.45086, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butte"}, {"fips": "037", "name": "Custer"}]}

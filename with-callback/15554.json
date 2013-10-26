@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.121392, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Paris", "lng": -78.5877, "zip_code": "15554"});
+zipapicallback({"locality": "New Paris", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Paris"], "postal_code": "15554", "lat": 40.121392, "lng": -78.5877, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]});

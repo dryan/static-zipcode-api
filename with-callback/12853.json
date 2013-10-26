@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.683067, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Creek", "lng": -73.97457, "zip_code": "12853"});
+zipapicallback({"locality": "North Creek", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North Creek"], "postal_code": "12853", "lat": 43.683067, "lng": -73.97457, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}, {"fips": "031", "name": "Essex"}]});

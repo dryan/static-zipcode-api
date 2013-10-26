@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.811276, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Jarratt", "lng": -77.47496, "zip_code": "23867"});
+zipapicallback({"locality": "Jarratt", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Jarratt"], "postal_code": "23867", "lat": 36.811276, "lng": -77.47496, "type": "STANDARD", "counties": [{"fips": "183", "name": "Sussex"}]});

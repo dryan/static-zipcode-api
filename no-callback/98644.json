@@ -1,1 +1,1 @@
-{"lat": 46.332077, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Seaview", "lng": -124.05517, "zip_code": "98644"}
+{"locality": "Seaview", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Seaview"], "postal_code": "98644", "lat": 46.332077, "lng": -124.05517, "type": "POBOX", "counties": [{"fips": "049", "name": "Pacific"}]}

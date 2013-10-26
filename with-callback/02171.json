@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.284498, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Quincy", "lng": -71.02316, "zip_code": "02171"});
+zipapicallback({"locality": "Quincy", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["North Quincy", "Quincy", "Squantum"], "postal_code": "02171", "lat": 42.284498, "lng": -71.02316, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

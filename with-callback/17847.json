@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.010754, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Milton", "lng": -76.83647, "zip_code": "17847"});
+zipapicallback({"locality": "Milton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Milton"], "postal_code": "17847", "lat": 41.010754, "lng": -76.83647, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}, {"fips": "093", "name": "Montour"}]});

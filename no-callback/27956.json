@@ -1,1 +1,1 @@
-{"lat": 36.419422, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Maple", "lng": -76.03362, "zip_code": "27956"}
+{"locality": "Maple", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Maple"], "postal_code": "27956", "lat": 36.419422, "lng": -76.03362, "type": "STANDARD", "counties": [{"fips": "053", "name": "Currituck"}]}

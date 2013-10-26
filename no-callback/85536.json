@@ -1,1 +1,1 @@
-{"lat": 33.02874, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Fort Thomas", "lng": -109.98719, "zip_code": "85536"}
+{"locality": "Fort Thomas", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Fort Thomas"], "postal_code": "85536", "lat": 33.02874, "lng": -109.98719, "type": "POBOX", "counties": [{"fips": "009", "name": "Graham"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.218668, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ironto", "lng": -80.2335, "zip_code": "24087"}
+{"locality": "Elliston", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Elliston", "Ironto", "Lafayette"], "postal_code": "24087", "lat": 37.218668, "lng": -80.2335, "type": "STANDARD", "counties": [{"fips": "121", "name": "Montgomery"}, {"fips": "161", "name": "Roanoke"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.605289, "region": {"abbr": "CA", "name": "California"}, "locality": "Glenn", "lng": -122.03231, "zip_code": "95943"}
+{"locality": "Glenn", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Glenn"], "postal_code": "95943", "lat": 39.605289, "lng": -122.03231, "type": "STANDARD", "counties": [{"fips": "021", "name": "Glenn"}]}

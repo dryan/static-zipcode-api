@@ -1,1 +1,1 @@
-{"lat": 42.631753, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Essex", "lng": -70.77925, "zip_code": "01929"}
+{"locality": "Essex", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Essex"], "postal_code": "01929", "lat": 42.631753, "lng": -70.77925, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

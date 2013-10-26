@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.597972, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Gamerco", "lng": -108.76657, "zip_code": "87317"});
+zipapicallback({"locality": "Gamerco", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Gallup", "Gamerco"], "postal_code": "87317", "lat": 35.597972, "lng": -108.76657, "type": "STANDARD", "counties": [{"fips": "031", "name": "McKinley"}]});

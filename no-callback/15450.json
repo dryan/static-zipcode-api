@@ -1,1 +1,1 @@
-{"lat": 40.00666, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "La Belle", "lng": -79.96943, "zip_code": "15450"}
+{"locality": "La Belle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["La Belle"], "postal_code": "15450", "lat": 40.00666, "lng": -79.96943, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

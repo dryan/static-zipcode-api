@@ -1,1 +1,1 @@
-{"lat": 32.893447, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Loop", "lng": -102.30958, "zip_code": "79342"}
+{"locality": "Loop", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Loop"], "postal_code": "79342", "lat": 32.893447, "lng": -102.30958, "type": "STANDARD", "counties": [{"fips": "165", "name": "Gaines"}]}

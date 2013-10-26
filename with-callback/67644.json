@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.644576, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kirwin", "lng": -99.1437, "zip_code": "67644"});
+zipapicallback({"locality": "Kirwin", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kirwin"], "postal_code": "67644", "lat": 39.644576, "lng": -99.1437, "type": "STANDARD", "counties": [{"fips": "147", "name": "Phillips"}, {"fips": "183", "name": "Smith"}, {"fips": "141", "name": "Osborne"}, {"fips": "163", "name": "Rooks"}]});

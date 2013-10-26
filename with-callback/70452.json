@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.401481, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pearl River", "lng": -89.76917, "zip_code": "70452"});
+zipapicallback({"locality": "Pearl River", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pearl River"], "postal_code": "70452", "lat": 30.401481, "lng": -89.76917, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]});

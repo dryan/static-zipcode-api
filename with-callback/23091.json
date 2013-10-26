@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.638259, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Little Plymouth", "lng": -76.82858, "zip_code": "23091"});
+zipapicallback({"locality": "Little Plymouth", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Little Plymouth", "Little Plymth"], "postal_code": "23091", "lat": 37.638259, "lng": -76.82858, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]});

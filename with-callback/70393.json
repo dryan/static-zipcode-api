@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.995157, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Plattenville", "lng": -91.02586, "zip_code": "70393"});
+zipapicallback({"locality": "Plattenville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Plattenville"], "postal_code": "70393", "lat": 29.995157, "lng": -91.02586, "type": "STANDARD", "counties": [{"fips": "007", "name": "Assumption"}]});

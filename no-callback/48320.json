@@ -1,1 +1,1 @@
-{"lat": 42.611783, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sylvan Lake", "lng": -83.33757, "zip_code": "48320"}
+{"locality": "Keego Harbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Keego Harbor", "Sylvan Lake"], "postal_code": "48320", "lat": 42.611783, "lng": -83.33757, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

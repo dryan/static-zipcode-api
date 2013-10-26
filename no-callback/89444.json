@@ -1,1 +1,1 @@
-{"lat": 38.738712, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Wellington", "lng": -119.34585, "zip_code": "89444"}
+{"locality": "Wellington", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Wellington"], "postal_code": "89444", "lat": 38.738712, "lng": -119.34585, "type": "STANDARD", "counties": [{"fips": "019", "name": "Lyon"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.61917, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Green Ridge", "lng": -93.41123, "zip_code": "65332"}
+{"locality": "Green Ridge", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Green Ridge"], "postal_code": "65332", "lat": 38.61917, "lng": -93.41123, "type": "STANDARD", "counties": [{"fips": "159", "name": "Pettis"}, {"fips": "101", "name": "Johnson"}]}

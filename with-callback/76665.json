@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.922473, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Meridian", "lng": -97.69159, "zip_code": "76665"});
+zipapicallback({"locality": "Meridian", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Meridian"], "postal_code": "76665", "lat": 31.922473, "lng": -97.69159, "type": "STANDARD", "counties": [{"fips": "035", "name": "Bosque"}]});

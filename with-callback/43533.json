@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.696808, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lyons", "lng": -84.07558, "zip_code": "43533"});
+zipapicallback({"locality": "Lyons", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lyons"], "postal_code": "43533", "lat": 41.696808, "lng": -84.07558, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fulton"}]});

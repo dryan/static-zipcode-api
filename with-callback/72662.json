@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.427675, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Omaha", "lng": -93.19473, "zip_code": "72662"});
+zipapicallback({"locality": "Omaha", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Omaha"], "postal_code": "72662", "lat": 36.427675, "lng": -93.19473, "type": "STANDARD", "counties": [{"fips": "009", "name": "Boone"}]});

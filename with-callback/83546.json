@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.525642, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Pierce", "lng": -115.82276, "zip_code": "83546"});
+zipapicallback({"locality": "Pierce", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Headquarters", "Pierce"], "postal_code": "83546", "lat": 46.525642, "lng": -115.82276, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clearwater"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.312633, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Johnson City", "lng": -82.3802, "zip_code": "37604"}
+{"locality": "Johnson City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Johnson City"], "postal_code": "37604", "lat": 36.312633, "lng": -82.3802, "type": "STANDARD", "counties": [{"fips": "179", "name": "Washington"}]}

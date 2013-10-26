@@ -1,1 +1,1 @@
-{"lat": 40.631011, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gibsonia", "lng": -79.95766, "zip_code": "15044"}
+{"locality": "Gibsonia", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gibsonia"], "postal_code": "15044", "lat": 40.631011, "lng": -79.95766, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}, {"fips": "019", "name": "Butler"}]}

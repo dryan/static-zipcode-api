@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.105195, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Vernon", "lng": -112.31673, "zip_code": "84080"});
+zipapicallback({"locality": "Vernon", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Vernon"], "postal_code": "84080", "lat": 40.105195, "lng": -112.31673, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]});

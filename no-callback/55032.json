@@ -1,1 +1,1 @@
-{"lat": 45.586488, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Harris", "lng": -93.01179, "zip_code": "55032"}
+{"locality": "Harris", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Harris"], "postal_code": "55032", "lat": 45.586488, "lng": -93.01179, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chisago"}]}

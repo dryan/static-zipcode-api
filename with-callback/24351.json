@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.580074, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lambsburg", "lng": -80.76311, "zip_code": "24351"});
+zipapicallback({"locality": "Lambsburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lambsburg"], "postal_code": "24351", "lat": 36.580074, "lng": -80.76311, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carroll"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.983853, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Florence", "lng": -84.64401, "zip_code": "41042"}
+{"locality": "Florence", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Florence"], "postal_code": "41042", "lat": 38.983853, "lng": -84.64401, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}, {"fips": "061", "name": "Edmonson"}, {"fips": "117", "name": "Kenton"}]}

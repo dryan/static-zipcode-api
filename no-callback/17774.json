@@ -1,1 +1,1 @@
-{"lat": 41.239382, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Unityville", "lng": -76.53935, "zip_code": "17774"}
+{"locality": "Unityville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Unityville"], "postal_code": "17774", "lat": 41.239382, "lng": -76.53935, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}, {"fips": "037", "name": "Columbia"}]}

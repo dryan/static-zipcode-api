@@ -1,1 +1,1 @@
-{"lat": 39.383205, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Leonardville", "lng": -96.85876, "zip_code": "66449"}
+{"locality": "Leonardville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Leonardville"], "postal_code": "66449", "lat": 39.383205, "lng": -96.85876, "type": "STANDARD", "counties": [{"fips": "161", "name": "Riley"}]}

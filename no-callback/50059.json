@@ -1,1 +1,1 @@
-{"lat": 41.919495, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cooper", "lng": -94.34518, "zip_code": "50059"}
+{"locality": "Cooper", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cooper"], "postal_code": "50059", "lat": 41.919495, "lng": -94.34518, "type": "STANDARD", "counties": [{"fips": "073", "name": "Greene"}]}

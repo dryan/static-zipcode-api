@@ -1,1 +1,1 @@
-{"lat": 33.899155, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Sumter", "lng": -80.43433, "zip_code": "29154"}
+{"locality": "Sumter", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Sumter"], "postal_code": "29154", "lat": 33.899155, "lng": -80.43433, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sumter"}]}

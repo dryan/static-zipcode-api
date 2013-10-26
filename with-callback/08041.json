@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.038339, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Jobstown", "lng": -74.6806, "zip_code": "08041"});
+zipapicallback({"locality": "Jobstown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Jobstown"], "postal_code": "08041", "lat": 40.038339, "lng": -74.6806, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

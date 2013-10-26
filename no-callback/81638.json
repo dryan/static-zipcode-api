@@ -1,1 +1,1 @@
-{"lat": 40.298366, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hamilton", "lng": -107.51756, "zip_code": "81638"}
+{"locality": "Hamilton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hamilton"], "postal_code": "81638", "lat": 40.298366, "lng": -107.51756, "type": "STANDARD", "counties": [{"fips": "081", "name": "Moffat"}, {"fips": "103", "name": "Rio Blanco"}, {"fips": "107", "name": "Routt"}]}

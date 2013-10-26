@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.085288, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Rockerville", "lng": -103.21335, "zip_code": "57701"});
+zipapicallback({"locality": "Rapid City", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Rapid City"], "postal_code": "57701", "lat": 44.085288, "lng": -103.21335, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pennington"}, {"fips": "093", "name": "Meade"}]});

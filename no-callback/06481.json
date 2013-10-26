@@ -1,1 +1,1 @@
-{"lat": 41.536643, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Rockfall", "lng": -72.69782, "zip_code": "06481"}
+{"locality": "Rockfall", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Rockfall"], "postal_code": "06481", "lat": 41.536643, "lng": -72.69782, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]}

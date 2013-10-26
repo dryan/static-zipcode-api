@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.141336, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Wayland", "lng": -91.66882, "zip_code": "52654"});
+zipapicallback({"locality": "Wayland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Wayland"], "postal_code": "52654", "lat": 41.141336, "lng": -91.66882, "type": "STANDARD", "counties": [{"fips": "087", "name": "Henry"}]});

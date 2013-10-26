@@ -1,1 +1,1 @@
-{"lat": 43.059661, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Comstock Park", "lng": -85.67384, "zip_code": "49321"}
+{"locality": "Comstock Park", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Comstock Park"], "postal_code": "49321", "lat": 43.059661, "lng": -85.67384, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]}

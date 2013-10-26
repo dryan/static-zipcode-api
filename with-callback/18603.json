@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.061356, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Berwick", "lng": -76.24934, "zip_code": "18603"});
+zipapicallback({"locality": "Berwick", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Berwick"], "postal_code": "18603", "lat": 41.061356, "lng": -76.24934, "type": "STANDARD", "counties": [{"fips": "037", "name": "Columbia"}, {"fips": "079", "name": "Luzerne"}]});

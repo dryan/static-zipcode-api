@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.907837, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Cassopolis", "lng": -85.98937, "zip_code": "49031"});
+zipapicallback({"locality": "Cassopolis", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Cassopolis"], "postal_code": "49031", "lat": 41.907837, "lng": -85.98937, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cass"}]});

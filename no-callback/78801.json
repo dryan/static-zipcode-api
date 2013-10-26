@@ -1,1 +1,1 @@
-{"lat": 29.252882, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Uvalde", "lng": -99.8165, "zip_code": "78801"}
+{"locality": "Uvalde", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Uvalde"], "postal_code": "78801", "lat": 29.252882, "lng": -99.8165, "type": "STANDARD", "counties": [{"fips": "463", "name": "Uvalde"}]}

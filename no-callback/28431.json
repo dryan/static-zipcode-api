@@ -1,1 +1,1 @@
-{"lat": 34.312363, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Chadbourn", "lng": -78.83023, "zip_code": "28431"}
+{"locality": "Chadbourn", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Chadbourn"], "postal_code": "28431", "lat": 34.312363, "lng": -78.83023, "type": "STANDARD", "counties": [{"fips": "047", "name": "Columbus"}]}

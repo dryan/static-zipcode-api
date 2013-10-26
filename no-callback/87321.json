@@ -1,1 +1,1 @@
-{"lat": 34.999427, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Ramah", "lng": -108.41304, "zip_code": "87321"}
+{"locality": "Ramah", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Ramah"], "postal_code": "87321", "lat": 34.999427, "lng": -108.41304, "type": "STANDARD", "counties": [{"fips": "006", "name": "Cibola"}]}

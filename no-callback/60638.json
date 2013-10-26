@@ -1,1 +1,1 @@
-{"lat": 41.787982, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bedford Park", "lng": -87.7738, "zip_code": "60638"}
+{"locality": "Chicago", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bedford Park", "Chicago"], "postal_code": "60638", "lat": 41.787982, "lng": -87.7738, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

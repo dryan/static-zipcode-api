@@ -1,1 +1,1 @@
-{"lat": 40.750943, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gordon", "lng": -76.33944, "zip_code": "17936"}
+{"locality": "Gordon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gordon"], "postal_code": "17936", "lat": 40.750943, "lng": -76.33944, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]}

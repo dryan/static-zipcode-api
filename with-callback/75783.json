@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.810076, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Quitman", "lng": -95.4355, "zip_code": "75783"});
+zipapicallback({"locality": "Quitman", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Quitman"], "postal_code": "75783", "lat": 32.810076, "lng": -95.4355, "type": "STANDARD", "counties": [{"fips": "499", "name": "Wood"}]});

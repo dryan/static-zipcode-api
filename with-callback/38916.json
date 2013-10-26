@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.839389, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Calhoun City", "lng": -89.32561, "zip_code": "38916"});
+zipapicallback({"locality": "Calhoun City", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Calhoun City"], "postal_code": "38916", "lat": 33.839389, "lng": -89.32561, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}, {"fips": "155", "name": "Webster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.444448, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Northwood", "lng": -93.24015, "zip_code": "50459"});
+zipapicallback({"locality": "Northwood", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Northwood"], "postal_code": "50459", "lat": 43.444448, "lng": -93.24015, "type": "STANDARD", "counties": [{"fips": "195", "name": "Worth"}]});

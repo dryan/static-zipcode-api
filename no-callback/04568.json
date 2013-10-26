@@ -1,1 +1,1 @@
-{"lat": 43.863902, "region": {"abbr": "ME", "name": "Maine"}, "locality": "South Bristol", "lng": -69.55874, "zip_code": "04568"}
+{"locality": "South Bristol", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["South Bristol"], "postal_code": "04568", "lat": 43.863902, "lng": -69.55874, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]}

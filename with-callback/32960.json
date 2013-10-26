@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.636828, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Vero Beach", "lng": -80.40294, "zip_code": "32960"});
+zipapicallback({"locality": "Vero Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Vero Beach"], "postal_code": "32960", "lat": 27.636828, "lng": -80.40294, "type": "STANDARD", "counties": [{"fips": "061", "name": "Indian River"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.899378, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Iraan", "lng": -101.98029, "zip_code": "79744"});
+zipapicallback({"locality": "Iraan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Iraan"], "postal_code": "79744", "lat": 30.899378, "lng": -101.98029, "type": "POBOX", "counties": [{"fips": "371", "name": "Pecos"}]});

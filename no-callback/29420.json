@@ -1,1 +1,1 @@
-{"lat": 32.93064, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Charleston", "lng": -80.09247, "zip_code": "29420"}
+{"locality": "North Charleston", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Charleston", "N Charleston", "North Charleston"], "postal_code": "29420", "lat": 32.93064, "lng": -80.09247, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}, {"fips": "035", "name": "Dorchester"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.578093, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Marcell", "lng": -93.62929, "zip_code": "56657"});
+zipapicallback({"locality": "Marcell", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Marcell"], "postal_code": "56657", "lat": 47.578093, "lng": -93.62929, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]});

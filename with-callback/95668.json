@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.8323, "region": {"abbr": "CA", "name": "California"}, "locality": "Pleasant Grove", "lng": -121.51661, "zip_code": "95668"});
+zipapicallback({"locality": "Pleasant Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pleasant Grove", "Pleasant Grv"], "postal_code": "95668", "lat": 38.8323, "lng": -121.51661, "type": "STANDARD", "counties": [{"fips": "101", "name": "Sutter"}]});

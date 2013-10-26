@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.51589, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ridge Manor West", "lng": -82.26576, "zip_code": "34602"});
+zipapicallback({"locality": "Brooksville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brooksville"], "postal_code": "34602", "lat": 28.51589, "lng": -82.26576, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hernando"}, {"fips": "101", "name": "Pasco"}]});

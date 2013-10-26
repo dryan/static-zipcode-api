@@ -1,1 +1,1 @@
-{"lat": 32.582205, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Sondheimer", "lng": -91.11541, "zip_code": "71276"}
+{"locality": "Sondheimer", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Sondheimer"], "postal_code": "71276", "lat": 32.582205, "lng": -91.11541, "type": "STANDARD", "counties": [{"fips": "065", "name": "Madison"}]}

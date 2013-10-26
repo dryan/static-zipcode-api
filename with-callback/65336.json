@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.76699, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Knob Noster", "lng": -93.56712, "zip_code": "65336"});
+zipapicallback({"locality": "Knob Noster", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Knob Noster"], "postal_code": "65336", "lat": 38.76699, "lng": -93.56712, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnson"}, {"fips": "159", "name": "Pettis"}]});

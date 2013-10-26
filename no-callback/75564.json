@@ -1,1 +1,1 @@
-{"lat": 32.880182, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lodi", "lng": -94.27725, "zip_code": "75564"}
+{"locality": "Lodi", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lodi"], "postal_code": "75564", "lat": 32.880182, "lng": -94.27725, "type": "POBOX", "counties": [{"fips": "315", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.29025, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cascade", "lng": -90.99759, "zip_code": "52033"}
+{"locality": "Cascade", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cascade"], "postal_code": "52033", "lat": 42.29025, "lng": -90.99759, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}, {"fips": "105", "name": "Jones"}]}

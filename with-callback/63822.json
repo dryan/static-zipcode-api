@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.662399, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bernie", "lng": -90.00768, "zip_code": "63822"});
+zipapicallback({"locality": "Bernie", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bernie"], "postal_code": "63822", "lat": 36.662399, "lng": -90.00768, "type": "STANDARD", "counties": [{"fips": "207", "name": "Stoddard"}, {"fips": "069", "name": "Dunklin"}]});

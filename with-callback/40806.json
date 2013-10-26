@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.872801, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Baxter", "lng": -83.30778, "zip_code": "40806"});
+zipapicallback({"locality": "Baxter", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Baxter", "Keith"], "postal_code": "40806", "lat": 36.872801, "lng": -83.30778, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]});

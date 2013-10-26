@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.081392, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wellsville", "lng": -91.56266, "zip_code": "63384"});
+zipapicallback({"locality": "Wellsville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wellsville"], "postal_code": "63384", "lat": 39.081392, "lng": -91.56266, "type": "STANDARD", "counties": [{"fips": "139", "name": "Montgomery"}, {"fips": "007", "name": "Audrain"}, {"fips": "027", "name": "Callaway"}]});

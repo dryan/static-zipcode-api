@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.70708, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Sophia", "lng": -81.26263, "zip_code": "25921"});
+zipapicallback({"locality": "Sophia", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mcalpin", "Sophia", "Tams"], "postal_code": "25921", "lat": 37.70708, "lng": -81.26263, "type": "POBOX", "counties": [{"fips": "081", "name": "Raleigh"}]});

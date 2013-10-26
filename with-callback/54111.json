@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.826617, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cecil", "lng": -88.4018, "zip_code": "54111"});
+zipapicallback({"locality": "Cecil", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cecil"], "postal_code": "54111", "lat": 44.826617, "lng": -88.4018, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}, {"fips": "083", "name": "Oconto"}]});

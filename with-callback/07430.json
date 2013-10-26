@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.077102, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mahwah", "lng": -74.16147, "zip_code": "07430"});
+zipapicallback({"locality": "Mahwah", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mahwah"], "postal_code": "07430", "lat": 41.077102, "lng": -74.16147, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

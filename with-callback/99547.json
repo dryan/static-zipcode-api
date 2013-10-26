@@ -1,1 +1,1 @@
-zipapicallback({"lat": 52.227555, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Atka", "lng": -174.19628, "zip_code": "99547"});
+zipapicallback({"locality": "Atka", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Atka"], "postal_code": "99547", "lat": 52.227555, "lng": -174.19628, "type": "POBOX", "counties": []});

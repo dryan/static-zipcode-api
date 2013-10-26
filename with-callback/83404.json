@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.465998, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Idaho Falls", "lng": -112.01425, "zip_code": "83404"});
+zipapicallback({"locality": "Idaho Falls", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Idaho Falls"], "postal_code": "83404", "lat": 43.465998, "lng": -112.01425, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bonneville"}]});

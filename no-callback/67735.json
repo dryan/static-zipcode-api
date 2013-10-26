@@ -1,1 +1,1 @@
-{"lat": 39.332837, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Goodland", "lng": -101.75422, "zip_code": "67735"}
+{"locality": "Goodland", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Goodland"], "postal_code": "67735", "lat": 39.332837, "lng": -101.75422, "type": "STANDARD", "counties": [{"fips": "181", "name": "Sherman"}]}

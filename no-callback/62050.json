@@ -1,1 +1,1 @@
-{"lat": 39.430595, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hillview", "lng": -90.54502, "zip_code": "62050"}
+{"locality": "Hillview", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hillview"], "postal_code": "62050", "lat": 39.430595, "lng": -90.54502, "type": "STANDARD", "counties": [{"fips": "061", "name": "Greene"}]}

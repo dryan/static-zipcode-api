@@ -1,1 +1,1 @@
-{"lat": 39.855355, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fultonham", "lng": -82.14178, "zip_code": "43738"}
+{"locality": "Fultonham", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fultonham"], "postal_code": "43738", "lat": 39.855355, "lng": -82.14178, "type": "POBOX", "counties": [{"fips": "119", "name": "Muskingum"}]}

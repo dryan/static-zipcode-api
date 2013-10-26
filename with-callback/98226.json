@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.759079, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bellingham", "lng": -122.43597, "zip_code": "98226"});
+zipapicallback({"locality": "Bellingham", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bellingham"], "postal_code": "98226", "lat": 48.759079, "lng": -122.43597, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]});

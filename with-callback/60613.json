@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.953256, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chicago", "lng": -87.6629, "zip_code": "60613"});
+zipapicallback({"locality": "Chicago", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chicago"], "postal_code": "60613", "lat": 41.953256, "lng": -87.6629, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.818905, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Dulce", "lng": -106.9757, "zip_code": "87528"}
+{"locality": "Dulce", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Dulce", "Lumberton"], "postal_code": "87528", "lat": 36.818905, "lng": -106.9757, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

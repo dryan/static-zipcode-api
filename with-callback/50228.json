@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.584485, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Prairie City", "lng": -93.24161, "zip_code": "50228"});
+zipapicallback({"locality": "Prairie City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Prairie City"], "postal_code": "50228", "lat": 41.584485, "lng": -93.24161, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jasper"}, {"fips": "153", "name": "Polk"}, {"fips": "125", "name": "Marion"}]});

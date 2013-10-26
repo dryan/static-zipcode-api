@@ -1,1 +1,1 @@
-{"lat": 38.668765, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Sunderland", "lng": -76.58648, "zip_code": "20689"}
+{"locality": "Sunderland", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Sunderland"], "postal_code": "20689", "lat": 38.668765, "lng": -76.58648, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]}

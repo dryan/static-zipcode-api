@@ -1,1 +1,1 @@
-{"lat": 37.465744, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Minnie", "lng": -82.75492, "zip_code": "41651"}
+{"locality": "Minnie", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Minnie"], "postal_code": "41651", "lat": 37.465744, "lng": -82.75492, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

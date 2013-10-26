@@ -1,1 +1,1 @@
-{"lat": 41.036199, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sparland", "lng": -89.48336, "zip_code": "61565"}
+{"locality": "Sparland", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hopewell", "Sparland"], "postal_code": "61565", "lat": 41.036199, "lng": -89.48336, "type": "STANDARD", "counties": [{"fips": "123", "name": "Marshall"}, {"fips": "143", "name": "Peoria"}]}

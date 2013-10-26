@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.714369, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Borderland", "lng": -82.30873, "zip_code": "25665"});
+zipapicallback({"locality": "Borderland", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Borderland"], "postal_code": "25665", "lat": 37.714369, "lng": -82.30873, "type": "POBOX", "counties": [{"fips": "059", "name": "Mingo"}]});

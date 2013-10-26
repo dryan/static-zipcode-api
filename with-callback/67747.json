@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.071265, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Monument", "lng": -101.04488, "zip_code": "67747"});
+zipapicallback({"locality": "Monument", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Monument", "Winona"], "postal_code": "67747", "lat": 39.071265, "lng": -101.04488, "type": "STANDARD", "counties": [{"fips": "109", "name": "Logan"}, {"fips": "193", "name": "Thomas"}]});

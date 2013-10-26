@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.404272, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Waukegan", "lng": -87.86525, "zip_code": "60087"});
+zipapicallback({"locality": "Waukegan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Beach Park", "Waukegan"], "postal_code": "60087", "lat": 42.404272, "lng": -87.86525, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]});

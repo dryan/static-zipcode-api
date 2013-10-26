@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.207381, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dix", "lng": -103.47126, "zip_code": "69133"});
+zipapicallback({"locality": "Dix", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dix"], "postal_code": "69133", "lat": 41.207381, "lng": -103.47126, "type": "STANDARD", "counties": [{"fips": "105", "name": "Kimball"}, {"fips": "033", "name": "Cheyenne"}]});

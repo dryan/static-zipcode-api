@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.819042, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Arch Cape", "lng": -123.95827, "zip_code": "97102"});
+zipapicallback({"locality": "Arch Cape", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Arch Cape"], "postal_code": "97102", "lat": 45.819042, "lng": -123.95827, "type": "STANDARD", "counties": [{"fips": "007", "name": "Clatsop"}]});

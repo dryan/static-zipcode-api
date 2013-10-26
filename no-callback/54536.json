@@ -1,1 +1,1 @@
-{"lat": 46.346699, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Iron Belt", "lng": -90.33543, "zip_code": "54536"}
+{"locality": "Iron Belt", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Iron Belt"], "postal_code": "54536", "lat": 46.346699, "lng": -90.33543, "type": "POBOX", "counties": [{"fips": "051", "name": "Iron"}]}

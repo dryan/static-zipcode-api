@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.37649, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harveys Lake", "lng": -76.03662, "zip_code": "18618"});
+zipapicallback({"locality": "Harveys Lake", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harveys Lake", "Monroe Township", "Monroe Twp"], "postal_code": "18618", "lat": 41.37649, "lng": -76.03662, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}, {"fips": "131", "name": "Wyoming"}]});

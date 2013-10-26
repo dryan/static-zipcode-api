@@ -1,1 +1,1 @@
-{"lat": 35.897155, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Snow Camp", "lng": -79.42344, "zip_code": "27349"}
+{"locality": "Snow Camp", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Snow Camp"], "postal_code": "27349", "lat": 35.897155, "lng": -79.42344, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alamance"}, {"fips": "037", "name": "Chatham"}]}

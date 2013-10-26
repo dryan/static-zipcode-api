@@ -1,1 +1,1 @@
-{"lat": 40.90757, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oneida", "lng": -76.12636, "zip_code": "18242"}
+{"locality": "Oneida", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oneida"], "postal_code": "18242", "lat": 40.90757, "lng": -76.12636, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]}

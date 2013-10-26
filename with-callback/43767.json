@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.990948, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Norwich", "lng": -81.80629, "zip_code": "43767"});
+zipapicallback({"locality": "Norwich", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Norwich"], "postal_code": "43767", "lat": 39.990948, "lng": -81.80629, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}]});

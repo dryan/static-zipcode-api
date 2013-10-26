@@ -1,1 +1,1 @@
-{"lat": 40.923894, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cowansville", "lng": -79.59137, "zip_code": "16218"}
+{"locality": "Cowansville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cowansville"], "postal_code": "16218", "lat": 40.923894, "lng": -79.59137, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]}

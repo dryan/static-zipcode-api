@@ -1,1 +1,1 @@
-{"lat": 34.763924, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "North Little Roc", "lng": -92.26463, "zip_code": "72114"}
+{"locality": "North Little Rock", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["N Little Rock", "North Little Rock"], "postal_code": "72114", "lat": 34.763924, "lng": -92.26463, "type": "STANDARD", "counties": [{"fips": "119", "name": "Pulaski"}]}

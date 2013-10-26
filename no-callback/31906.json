@@ -1,1 +1,1 @@
-{"lat": 32.468442, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Columbus", "lng": -84.95128, "zip_code": "31906"}
+{"locality": "Columbus", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Columbus"], "postal_code": "31906", "lat": 32.468442, "lng": -84.95128, "type": "STANDARD", "counties": [{"fips": "215", "name": "Muscogee"}]}

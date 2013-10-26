@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.328843, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Roaring Spring", "lng": -78.39897, "zip_code": "16673"});
+zipapicallback({"locality": "Roaring Spring", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bakers Summit", "Roaring Spg", "Roaring Spring"], "postal_code": "16673", "lat": 40.328843, "lng": -78.39897, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}, {"fips": "009", "name": "Bedford"}]});

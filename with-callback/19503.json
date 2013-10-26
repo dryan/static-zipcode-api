@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.401044, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bally", "lng": -75.58836, "zip_code": "19503"});
+zipapicallback({"locality": "Bally", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bally"], "postal_code": "19503", "lat": 40.401044, "lng": -75.58836, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]});

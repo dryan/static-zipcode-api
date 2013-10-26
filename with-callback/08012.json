@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.784614, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Washington", "lng": -75.05678, "zip_code": "08012"});
+zipapicallback({"locality": "Blackwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Blackwood", "Turnersville"], "postal_code": "08012", "lat": 39.784614, "lng": -75.05678, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}, {"fips": "015", "name": "Gloucester"}, {"fips": "001", "name": "Atlantic"}]});

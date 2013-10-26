@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.352498, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "New London", "lng": -72.10338, "zip_code": "06320"});
+zipapicallback({"locality": "New London", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["New London"], "postal_code": "06320", "lat": 41.352498, "lng": -72.10338, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.877262, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ridley Park", "lng": -75.32272, "zip_code": "19078"});
+zipapicallback({"locality": "Ridley Park", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ridley Park"], "postal_code": "19078", "lat": 39.877262, "lng": -75.32272, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

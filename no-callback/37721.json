@@ -1,1 +1,1 @@
-{"lat": 36.141925, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Corryton", "lng": -83.8066, "zip_code": "37721"}
+{"locality": "Corryton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Corryton"], "postal_code": "37721", "lat": 36.141925, "lng": -83.8066, "type": "STANDARD", "counties": [{"fips": "093", "name": "Knox"}]}

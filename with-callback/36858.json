@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.297792, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hatchechubbee", "lng": -85.31205, "zip_code": "36858"});
+zipapicallback({"locality": "Hatchechubbee", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hatchechubbee"], "postal_code": "36858", "lat": 32.297792, "lng": -85.31205, "type": "STANDARD", "counties": [{"fips": "113", "name": "Russell"}]});

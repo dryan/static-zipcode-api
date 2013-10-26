@@ -1,1 +1,1 @@
-{"lat": 42.460986, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ferndale", "lng": -83.13398, "zip_code": "48220"}
+{"locality": "Ferndale", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Ferndale"], "postal_code": "48220", "lat": 42.460986, "lng": -83.13398, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

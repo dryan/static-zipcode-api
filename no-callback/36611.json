@@ -1,1 +1,1 @@
-{"lat": 30.764938, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Mobile", "lng": -88.08505, "zip_code": "36611"}
+{"locality": "Mobile", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Chickasaw", "Mobile"], "postal_code": "36611", "lat": 30.764938, "lng": -88.08505, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

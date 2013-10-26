@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.14827, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Ashton", "lng": -76.99859, "zip_code": "20861"});
+zipapicallback({"locality": "Ashton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Ashton"], "postal_code": "20861", "lat": 39.14827, "lng": -76.99859, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

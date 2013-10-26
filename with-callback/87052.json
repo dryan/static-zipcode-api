@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.509184, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Santo Domingo Pu", "lng": -106.35022, "zip_code": "87052"});
+zipapicallback({"locality": "Santo Domingo Pueblo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Kewa", "Santo Domingo Pueblo", "St Dmng Pblo"], "postal_code": "87052", "lat": 35.509184, "lng": -106.35022, "type": "STANDARD", "counties": [{"fips": "043", "name": "Sandoval"}]});

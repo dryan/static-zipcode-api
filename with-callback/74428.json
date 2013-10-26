@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.550269, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Council Hill", "lng": -95.64874, "zip_code": "74428"});
+zipapicallback({"locality": "Council Hill", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Council Hill"], "postal_code": "74428", "lat": 35.550269, "lng": -95.64874, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "091", "name": "McIntosh"}]});

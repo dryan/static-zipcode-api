@@ -1,1 +1,1 @@
-{"lat": 40.112153, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Acosta", "lng": -79.06772, "zip_code": "15520"}
+{"locality": "Acosta", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Acosta"], "postal_code": "15520", "lat": 40.112153, "lng": -79.06772, "type": "POBOX", "counties": [{"fips": "111", "name": "Somerset"}]}

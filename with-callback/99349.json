@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.726526, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mattawa", "lng": -119.8857, "zip_code": "99349"});
+zipapicallback({"locality": "Mattawa", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Desert Aire", "Mattawa"], "postal_code": "99349", "lat": 46.726526, "lng": -119.8857, "type": "STANDARD", "counties": []});

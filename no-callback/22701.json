@@ -1,1 +1,1 @@
-{"lat": 38.459521, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Raccoon Ford", "lng": -77.99875, "zip_code": "22701"}
+{"locality": "Culpeper", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Culpeper", "Raccoon Ford", "Winston"], "postal_code": "22701", "lat": 38.459521, "lng": -77.99875, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}, {"fips": "137", "name": "Orange"}, {"fips": "113", "name": "Madison"}]}

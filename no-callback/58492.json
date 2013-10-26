@@ -1,1 +1,1 @@
-{"lat": 47.154922, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Wimbledon", "lng": -98.43993, "zip_code": "58492"}
+{"locality": "Wimbledon", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Wimbledon"], "postal_code": "58492", "lat": 47.154922, "lng": -98.43993, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}, {"fips": "093", "name": "Stutsman"}, {"fips": "039", "name": "Griggs"}]}

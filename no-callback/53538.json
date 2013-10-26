@@ -1,1 +1,1 @@
-{"lat": 42.924942, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Fort Atkinson", "lng": -88.84813, "zip_code": "53538"}
+{"locality": "Fort Atkinson", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fort Atkinson"], "postal_code": "53538", "lat": 42.924942, "lng": -88.84813, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}, {"fips": "105", "name": "Rock"}]}

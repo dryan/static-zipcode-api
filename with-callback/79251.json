@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.975549, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Quail", "lng": -100.44628, "zip_code": "79251"});
+zipapicallback({"locality": "Quail", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Quail"], "postal_code": "79251", "lat": 34.975549, "lng": -100.44628, "type": "STANDARD", "counties": [{"fips": "087", "name": "Collingsworth"}]});

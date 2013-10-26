@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.747887, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Early", "lng": -98.93928, "zip_code": "76802"});
+zipapicallback({"locality": "Early", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brownwood", "Early"], "postal_code": "76802", "lat": 31.747887, "lng": -98.93928, "type": "STANDARD", "counties": []});

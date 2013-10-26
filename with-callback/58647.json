@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.511555, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "New England", "lng": -102.8735, "zip_code": "58647"});
+zipapicallback({"locality": "New England", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["New England"], "postal_code": "58647", "lat": 46.511555, "lng": -102.8735, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hettinger"}, {"fips": "087", "name": "Slope"}, {"fips": "089", "name": "Stark"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.737616, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Willow Springs", "lng": -87.87778, "zip_code": "60480"});
+zipapicallback({"locality": "Willow Springs", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Willow Spgs", "Willow Springs"], "postal_code": "60480", "lat": 41.737616, "lng": -87.87778, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

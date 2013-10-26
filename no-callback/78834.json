@@ -1,1 +1,1 @@
-{"lat": 28.524292, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Carrizo Springs", "lng": -99.83827, "zip_code": "78834"}
+{"locality": "Carrizo Springs", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Carrizo Spgs", "Carrizo Springs"], "postal_code": "78834", "lat": 28.524292, "lng": -99.83827, "type": "STANDARD", "counties": [{"fips": "127", "name": "Dimmit"}, {"fips": "325", "name": "Medina"}]}

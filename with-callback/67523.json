@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.200452, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Burdett", "lng": -99.54314, "zip_code": "67523"});
+zipapicallback({"locality": "Burdett", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Burdett"], "postal_code": "67523", "lat": 38.200452, "lng": -99.54314, "type": "STANDARD", "counties": [{"fips": "145", "name": "Pawnee"}, {"fips": "083", "name": "Hodgeman"}]});

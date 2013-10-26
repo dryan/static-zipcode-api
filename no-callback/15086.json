@@ -1,1 +1,1 @@
-{"lat": 40.661431, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Warrendale", "lng": -80.09304, "zip_code": "15086"}
+{"locality": "Warrendale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Warrendale"], "postal_code": "15086", "lat": 40.661431, "lng": -80.09304, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

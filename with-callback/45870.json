@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.555807, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Hampshire", "lng": -83.95347, "zip_code": "45870"});
+zipapicallback({"locality": "New Hampshire", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Hampshire"], "postal_code": "45870", "lat": 40.555807, "lng": -83.95347, "type": "POBOX", "counties": [{"fips": "011", "name": "Auglaize"}]});

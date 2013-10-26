@@ -1,1 +1,1 @@
-{"lat": 42.534854, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sardinia", "lng": -78.52113, "zip_code": "14134"}
+{"locality": "Sardinia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sardinia"], "postal_code": "14134", "lat": 42.534854, "lng": -78.52113, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

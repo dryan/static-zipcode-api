@@ -1,1 +1,1 @@
-{"lat": 33.879148, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Vardaman", "lng": -89.18351, "zip_code": "38878"}
+{"locality": "Vardaman", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Vardaman"], "postal_code": "38878", "lat": 33.879148, "lng": -89.18351, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}, {"fips": "017", "name": "Chickasaw"}, {"fips": "071", "name": "Lafayette"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.8992, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Birch Island", "lng": -69.95894, "zip_code": "04011"}
+{"locality": "Brunswick", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Birch Island", "Brunswick", "Cundys Harbor", "Mere Point"], "postal_code": "04011", "lat": 43.8992, "lng": -69.95894, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

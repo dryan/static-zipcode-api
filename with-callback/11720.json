@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.868946, "region": {"abbr": "NY", "name": "New York"}, "locality": "Centereach", "lng": -73.08009, "zip_code": "11720"});
+zipapicallback({"locality": "Centereach", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Centereach", "S Setauket", "South Setauket"], "postal_code": "11720", "lat": 40.868946, "lng": -73.08009, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

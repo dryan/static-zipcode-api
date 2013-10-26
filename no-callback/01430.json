@@ -1,1 +1,1 @@
-{"lat": 42.658768, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Ashburnham", "lng": -71.93287, "zip_code": "01430"}
+{"locality": "Ashburnham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Ashburnham"], "postal_code": "01430", "lat": 42.658768, "lng": -71.93287, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

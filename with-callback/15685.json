@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.196455, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Southwest", "lng": -79.52466, "zip_code": "15685"});
+zipapicallback({"locality": "Southwest", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Southwest"], "postal_code": "15685", "lat": 40.196455, "lng": -79.52466, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

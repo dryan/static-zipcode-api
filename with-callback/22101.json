@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.93276, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mc Lean", "lng": -77.1677, "zip_code": "22101"});
+zipapicallback({"locality": "Mc Lean", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mc Lean", "Mclean"], "postal_code": "22101", "lat": 38.93276, "lng": -77.1677, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]});

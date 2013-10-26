@@ -1,1 +1,1 @@
-{"lat": 33.015476, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Meansville", "lng": -84.32187, "zip_code": "30256"}
+{"locality": "Meansville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Meansville"], "postal_code": "30256", "lat": 33.015476, "lng": -84.32187, "type": "STANDARD", "counties": [{"fips": "231", "name": "Pike"}, {"fips": "293", "name": "Upson"}]}

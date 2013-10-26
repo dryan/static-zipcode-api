@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.241957, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Halethorpe", "lng": -76.67712, "zip_code": "21227"});
+zipapicallback({"locality": "Halethorpe", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Arbutus", "Baltimore", "Halethorpe", "Lansdowne"], "postal_code": "21227", "lat": 39.241957, "lng": -76.67712, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}, {"fips": "510", "name": "Baltimore (City)"}, {"fips": "027", "name": "Howard"}]});

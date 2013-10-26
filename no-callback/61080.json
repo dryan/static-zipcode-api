@@ -1,1 +1,1 @@
-{"lat": 42.484835, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "South Beloit", "lng": -89.02756, "zip_code": "61080"}
+{"locality": "South Beloit", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["South Beloit"], "postal_code": "61080", "lat": 42.484835, "lng": -89.02756, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}, {"fips": "007", "name": "Boone"}]}

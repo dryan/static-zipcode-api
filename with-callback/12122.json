@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.558318, "region": {"abbr": "NY", "name": "New York"}, "locality": "Middleburgh", "lng": -74.31458, "zip_code": "12122"});
+zipapicallback({"locality": "Middleburgh", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Middleburgh"], "postal_code": "12122", "lat": 42.558318, "lng": -74.31458, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}, {"fips": "001", "name": "Albany"}]});

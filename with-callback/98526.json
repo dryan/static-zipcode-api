@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.463965, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Amanda Park", "lng": -124.02938, "zip_code": "98526"});
+zipapicallback({"locality": "Amanda Park", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Amanda Park"], "postal_code": "98526", "lat": 47.463965, "lng": -124.02938, "type": "STANDARD", "counties": [{"fips": "027", "name": "Grays Harbor"}]});

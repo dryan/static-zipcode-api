@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.829226, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Richmond", "lng": -82.77538, "zip_code": "48062"});
+zipapicallback({"locality": "Richmond", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Richmond"], "postal_code": "48062", "lat": 42.829226, "lng": -82.77538, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}, {"fips": "147", "name": "Saint Clair"}, {"fips": "125", "name": "Oakland"}]});

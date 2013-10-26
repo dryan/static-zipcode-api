@@ -1,1 +1,1 @@
-{"lat": 28.433019, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dade City", "lng": -82.19736, "zip_code": "33523"}
+{"locality": "Dade City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dade City", "Ridge Manor"], "postal_code": "33523", "lat": 28.433019, "lng": -82.19736, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 39.863666, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Leckrone", "lng": -79.86378, "zip_code": "15454"}
+{"locality": "Leckrone", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leckrone"], "postal_code": "15454", "lat": 39.863666, "lng": -79.86378, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]}

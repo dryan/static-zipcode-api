@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.915952, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Colstrip", "lng": -106.65505, "zip_code": "59323"});
+zipapicallback({"locality": "Colstrip", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Colstrip"], "postal_code": "59323", "lat": 45.915952, "lng": -106.65505, "type": "POBOX", "counties": [{"fips": "087", "name": "Rosebud"}]});

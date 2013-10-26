@@ -1,1 +1,1 @@
-{"lat": 36.772841, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fisk", "lng": -90.21801, "zip_code": "63940"}
+{"locality": "Fisk", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fisk"], "postal_code": "63940", "lat": 36.772841, "lng": -90.21801, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.848556, "region": {"abbr": "CA", "name": "California"}, "locality": "Tecopa", "lng": -116.22627, "zip_code": "92389"}
+{"locality": "Tecopa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tecopa"], "postal_code": "92389", "lat": 35.848556, "lng": -116.22627, "type": "POBOX", "counties": [{"fips": "027", "name": "Inyo"}]}

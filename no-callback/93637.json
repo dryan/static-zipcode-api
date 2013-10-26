@@ -1,1 +1,1 @@
-{"lat": 36.914819, "region": {"abbr": "CA", "name": "California"}, "locality": "Madera", "lng": -120.15817, "zip_code": "93637"}
+{"locality": "Madera", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Berenda", "Madera"], "postal_code": "93637", "lat": 36.914819, "lng": -120.15817, "type": "STANDARD", "counties": [{"fips": "039", "name": "Madera"}, {"fips": "019", "name": "Fresno"}]}

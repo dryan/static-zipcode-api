@@ -1,1 +1,1 @@
-{"lat": 46.001752, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ariel", "lng": -122.45624, "zip_code": "98603"}
+{"locality": "Ariel", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ariel"], "postal_code": "98603", "lat": 46.001752, "lng": -122.45624, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cowlitz"}]}

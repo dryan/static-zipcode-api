@@ -1,1 +1,1 @@
-{"lat": 41.049353, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sykesville", "lng": -78.81868, "zip_code": "15865"}
+{"locality": "Sykesville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sykesville"], "postal_code": "15865", "lat": 41.049353, "lng": -78.81868, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]}

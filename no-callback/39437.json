@@ -1,1 +1,1 @@
-{"lat": 31.588327, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ellisville", "lng": -89.21431, "zip_code": "39437"}
+{"locality": "Ellisville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ellisville"], "postal_code": "39437", "lat": 31.588327, "lng": -89.21431, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jones"}, {"fips": "031", "name": "Covington"}]}

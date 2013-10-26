@@ -1,1 +1,1 @@
-{"lat": 40.081165, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bay Head", "lng": -74.06003, "zip_code": "08742"}
+{"locality": "Point Pleasant Beach", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bay Head", "Point Pleasant Beach", "Point Pleasant Boro", "Pt Pleas Bch", "Pt Pleasant", "Pt Pleasant B", "Pt Pleasant Beach"], "postal_code": "08742", "lat": 40.081165, "lng": -74.06003, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]}

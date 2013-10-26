@@ -1,1 +1,1 @@
-{"lat": 29.549455, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rosenberg", "lng": -95.81901, "zip_code": "77471"}
+{"locality": "Rosenberg", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rosenberg"], "postal_code": "77471", "lat": 29.549455, "lng": -95.81901, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}]}

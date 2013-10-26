@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.917206, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Raymond", "lng": -70.47233, "zip_code": "04071"});
+zipapicallback({"locality": "Raymond", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Frye Island", "Raymond"], "postal_code": "04071", "lat": 43.917206, "lng": -70.47233, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

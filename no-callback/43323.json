@@ -1,1 +1,1 @@
-{"lat": 40.730593, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Harpster", "lng": -83.24454, "zip_code": "43323"}
+{"locality": "Harpster", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Harpster"], "postal_code": "43323", "lat": 40.730593, "lng": -83.24454, "type": "STANDARD", "counties": [{"fips": "175", "name": "Wyandot"}]}

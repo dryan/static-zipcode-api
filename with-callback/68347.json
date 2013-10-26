@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.805678, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Eagle", "lng": -96.4362, "zip_code": "68347"});
+zipapicallback({"locality": "Eagle", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Eagle"], "postal_code": "68347", "lat": 40.805678, "lng": -96.4362, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}, {"fips": "131", "name": "Otoe"}]});

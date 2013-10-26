@@ -1,1 +1,1 @@
-{"lat": 44.24825, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Manderson", "lng": -107.9263, "zip_code": "82432"}
+{"locality": "Manderson", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Manderson"], "postal_code": "82432", "lat": 44.24825, "lng": -107.9263, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]}

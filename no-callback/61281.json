@@ -1,1 +1,1 @@
-{"lat": 41.303101, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sherrard", "lng": -90.50615, "zip_code": "61281"}
+{"locality": "Sherrard", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sherrard"], "postal_code": "61281", "lat": 41.303101, "lng": -90.50615, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}]}

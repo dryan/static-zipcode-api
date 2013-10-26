@@ -1,1 +1,1 @@
-{"lat": 45.454454, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Bison", "lng": -102.5039, "zip_code": "57620"}
+{"locality": "Bison", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bison"], "postal_code": "57620", "lat": 45.454454, "lng": -102.5039, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perkins"}, {"fips": "063", "name": "Harding"}]}

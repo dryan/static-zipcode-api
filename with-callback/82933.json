@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.299766, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Fort Bridger", "lng": -110.43728, "zip_code": "82933"});
+zipapicallback({"locality": "Fort Bridger", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Fort Bridger", "Piedmont"], "postal_code": "82933", "lat": 41.299766, "lng": -110.43728, "type": "STANDARD", "counties": [{"fips": "041", "name": "Uinta"}]});

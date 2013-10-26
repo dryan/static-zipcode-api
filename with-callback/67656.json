@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.989828, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ogallah", "lng": -99.75144, "zip_code": "67656"});
+zipapicallback({"locality": "Ogallah", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ogallah"], "postal_code": "67656", "lat": 38.989828, "lng": -99.75144, "type": "STANDARD", "counties": [{"fips": "195", "name": "Trego"}, {"fips": "065", "name": "Graham"}]});

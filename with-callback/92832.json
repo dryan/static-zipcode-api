@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.869114, "region": {"abbr": "CA", "name": "California"}, "locality": "Fullerton", "lng": -117.92985, "zip_code": "92832"});
+zipapicallback({"locality": "Fullerton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fullerton"], "postal_code": "92832", "lat": 33.869114, "lng": -117.92985, "type": "STANDARD", "counties": []});

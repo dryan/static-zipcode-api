@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.160528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bremond", "lng": -96.6778, "zip_code": "76629"});
+zipapicallback({"locality": "Bremond", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bremond"], "postal_code": "76629", "lat": 31.160528, "lng": -96.6778, "type": "STANDARD", "counties": [{"fips": "395", "name": "Robertson"}, {"fips": "145", "name": "Falls"}]});

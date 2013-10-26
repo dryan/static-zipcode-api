@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.259032, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rio Hondo", "lng": -97.52948, "zip_code": "78583"});
+zipapicallback({"locality": "Rio Hondo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rio Hondo"], "postal_code": "78583", "lat": 26.259032, "lng": -97.52948, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]});

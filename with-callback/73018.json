@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.040526, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Chickasha", "lng": -97.94723, "zip_code": "73018"});
+zipapicallback({"locality": "Chickasha", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Chickasha", "Norge"], "postal_code": "73018", "lat": 35.040526, "lng": -97.94723, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grady"}]});

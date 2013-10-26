@@ -1,1 +1,1 @@
-{"lat": 31.773676, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Topawa", "lng": -111.76494, "zip_code": "85639"}
+{"locality": "Topawa", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Topawa"], "postal_code": "85639", "lat": 31.773676, "lng": -111.76494, "type": "POBOX", "counties": [{"fips": "019", "name": "Pima"}]}

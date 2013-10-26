@@ -1,1 +1,1 @@
-{"lat": 41.172593, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Hooper", "lng": -112.10675, "zip_code": "84315"}
+{"locality": "Hooper", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Hooper", "Kanesville"], "postal_code": "84315", "lat": 41.172593, "lng": -112.10675, "type": "STANDARD", "counties": [{"fips": "057", "name": "Weber"}]}

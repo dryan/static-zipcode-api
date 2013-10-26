@@ -1,1 +1,1 @@
-{"lat": 46.884733, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Eatonville", "lng": -122.29237, "zip_code": "98328"}
+{"locality": "Eatonville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Eatonville"], "postal_code": "98328", "lat": 46.884733, "lng": -122.29237, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

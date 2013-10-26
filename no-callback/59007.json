@@ -1,1 +1,1 @@
-{"lat": 45.159808, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Bearcreek", "lng": -109.14649, "zip_code": "59007"}
+{"locality": "Bearcreek", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Bearcreek", "Washoe"], "postal_code": "59007", "lat": 45.159808, "lng": -109.14649, "type": "STANDARD", "counties": [{"fips": "009", "name": "Carbon"}]}

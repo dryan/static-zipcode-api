@@ -1,1 +1,1 @@
-{"lat": 35.639491, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Chapel Hill", "lng": -86.6865, "zip_code": "37034"}
+{"locality": "Chapel Hill", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Chapel Hill"], "postal_code": "37034", "lat": 35.639491, "lng": -86.6865, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}, {"fips": "003", "name": "Bedford"}]}

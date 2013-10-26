@@ -1,1 +1,1 @@
-{"lat": 35.94901, "region": {"abbr": "CA", "name": "California"}, "locality": "Terra Bella", "lng": -119.03742, "zip_code": "93270"}
+{"locality": "Terra Bella", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Terra Bella"], "postal_code": "93270", "lat": 35.94901, "lng": -119.03742, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.797776, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Thibodaux", "lng": -90.81809, "zip_code": "70301"}
+{"locality": "Thibodaux", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Thibodaux"], "postal_code": "70301", "lat": 29.797776, "lng": -90.81809, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.2112, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Weymouth", "lng": -70.93111, "zip_code": "02189"}
+{"locality": "East Weymouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["East Weymouth", "Weymouth"], "postal_code": "02189", "lat": 42.2112, "lng": -70.93111, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}, {"fips": "017", "name": "Middlesex"}]}

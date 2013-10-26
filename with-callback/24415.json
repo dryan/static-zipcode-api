@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.929347, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Brownsburg", "lng": -79.31644, "zip_code": "24415"});
+zipapicallback({"locality": "Brownsburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Brownsburg"], "postal_code": "24415", "lat": 37.929347, "lng": -79.31644, "type": "POBOX", "counties": [{"fips": "163", "name": "Rockbridge"}]});

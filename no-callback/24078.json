@@ -1,1 +1,1 @@
-{"lat": 36.720217, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Collinsville", "lng": -79.91425, "zip_code": "24078"}
+{"locality": "Collinsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Collinsville"], "postal_code": "24078", "lat": 36.720217, "lng": -79.91425, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henry"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.376739, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Knoxville", "lng": -93.35706, "zip_code": "72845"}
+{"locality": "Knoxville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Knoxville"], "postal_code": "72845", "lat": 35.376739, "lng": -93.35706, "type": "STANDARD", "counties": [{"fips": "071", "name": "Johnson"}]}

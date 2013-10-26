@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.04655, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Willow", "lng": -99.58042, "zip_code": "73673"});
+zipapicallback({"locality": "Willow", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Willow"], "postal_code": "73673", "lat": 35.04655, "lng": -99.58042, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greer"}, {"fips": "009", "name": "Beckham"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.985136, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Little River Academy", "lng": -97.35508, "zip_code": "76554"}
+{"locality": "Little River Academy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Little River Academy", "Ltl Rvr Acad"], "postal_code": "76554", "lat": 30.985136, "lng": -97.35508, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}]}

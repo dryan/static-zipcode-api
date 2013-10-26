@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.718671, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Amado", "lng": -111.09908, "zip_code": "85645"});
+zipapicallback({"locality": "Amado", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Amado"], "postal_code": "85645", "lat": 31.718671, "lng": -111.09908, "type": "STANDARD", "counties": [{"fips": "023", "name": "Santa Cruz"}, {"fips": "019", "name": "Pima"}]});

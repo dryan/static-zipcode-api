@@ -1,1 +1,1 @@
-{"lat": 34.254277, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Donaldson", "lng": -92.95971, "zip_code": "71941"}
+{"locality": "Donaldson", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Donaldson"], "postal_code": "71941", "lat": 34.254277, "lng": -92.95971, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hot Spring"}]}

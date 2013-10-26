@@ -1,1 +1,1 @@
-{"lat": 44.30411, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Ironside", "lng": -117.9161, "zip_code": "97908"}
+{"locality": "Ironside", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Ironside"], "postal_code": "97908", "lat": 44.30411, "lng": -117.9161, "type": "STANDARD", "counties": [{"fips": "045", "name": "Malheur"}]}

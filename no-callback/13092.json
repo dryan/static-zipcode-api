@@ -1,1 +1,1 @@
-{"lat": 42.643214, "region": {"abbr": "NY", "name": "New York"}, "locality": "Locke", "lng": -76.42578, "zip_code": "13092"}
+{"locality": "Locke", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Locke"], "postal_code": "13092", "lat": 42.643214, "lng": -76.42578, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cayuga"}, {"fips": "109", "name": "Tompkins"}]}

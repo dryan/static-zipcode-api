@@ -1,1 +1,1 @@
-{"lat": 41.092081, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Keithsburg", "lng": -90.92743, "zip_code": "61442"}
+{"locality": "Keithsburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Keithsburg"], "postal_code": "61442", "lat": 41.092081, "lng": -90.92743, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}, {"fips": "071", "name": "Henderson"}]}

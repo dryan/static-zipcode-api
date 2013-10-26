@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.26938, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Jackson", "lng": -113.35533, "zip_code": "59736"});
+zipapicallback({"locality": "Jackson", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Jackson"], "postal_code": "59736", "lat": 45.26938, "lng": -113.35533, "type": "STANDARD", "counties": [{"fips": "001", "name": "Beaverhead"}]});

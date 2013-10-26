@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.17074, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Clarendon", "lng": -78.75997, "zip_code": "28432"});
+zipapicallback({"locality": "Clarendon", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Clarendon"], "postal_code": "28432", "lat": 34.17074, "lng": -78.75997, "type": "STANDARD", "counties": [{"fips": "047", "name": "Columbus"}]});

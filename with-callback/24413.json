@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.521373, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Blue Grass", "lng": -79.58361, "zip_code": "24413"});
+zipapicallback({"locality": "Blue Grass", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Blue Grass"], "postal_code": "24413", "lat": 38.521373, "lng": -79.58361, "type": "STANDARD", "counties": [{"fips": "091", "name": "Highland"}]});

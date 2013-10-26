@@ -1,1 +1,1 @@
-{"lat": 36.362525, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bentonville", "lng": -94.23308, "zip_code": "72712"}
+{"locality": "Bentonville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bentonville"], "postal_code": "72712", "lat": 36.362525, "lng": -94.23308, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

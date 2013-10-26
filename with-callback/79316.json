@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.153528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brownfield", "lng": -102.29568, "zip_code": "79316"});
+zipapicallback({"locality": "Brownfield", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brownfield"], "postal_code": "79316", "lat": 33.153528, "lng": -102.29568, "type": "STANDARD", "counties": [{"fips": "445", "name": "Terry"}]});

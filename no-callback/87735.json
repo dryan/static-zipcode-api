@@ -1,1 +1,1 @@
-{"lat": 36.074211, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Ojo Feliz", "lng": -105.11586, "zip_code": "87735"}
+{"locality": "Ojo Feliz", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Ojo Feliz", "Wagon Mound"], "postal_code": "87735", "lat": 36.074211, "lng": -105.11586, "type": "STANDARD", "counties": [{"fips": "033", "name": "Mora"}]}

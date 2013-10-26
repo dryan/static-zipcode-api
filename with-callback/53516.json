@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.802663, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Blanchardville", "lng": -89.85943, "zip_code": "53516"});
+zipapicallback({"locality": "Blanchardville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Blanchardville", "Blanchardvlle"], "postal_code": "53516", "lat": 42.802663, "lng": -89.85943, "type": "STANDARD", "counties": [{"fips": "065", "name": "Lafayette"}, {"fips": "049", "name": "Iowa"}, {"fips": "025", "name": "Dane"}, {"fips": "045", "name": "Green"}]});

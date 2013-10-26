@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.353249, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Redwater", "lng": -94.25971, "zip_code": "75573"});
+zipapicallback({"locality": "Redwater", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Redwater"], "postal_code": "75573", "lat": 33.353249, "lng": -94.25971, "type": "POBOX", "counties": [{"fips": "037", "name": "Bowie"}]});

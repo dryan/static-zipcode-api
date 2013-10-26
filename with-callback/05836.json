@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.529915, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "East Hardwick", "lng": -72.26819, "zip_code": "05836"});
+zipapicallback({"locality": "East Hardwick", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Hardwick"], "postal_code": "05836", "lat": 44.529915, "lng": -72.26819, "type": "STANDARD", "counties": [{"fips": "005", "name": "Caledonia"}]});

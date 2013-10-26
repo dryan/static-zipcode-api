@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.353773, "region": {"abbr": "NY", "name": "New York"}, "locality": "Coxsackie", "lng": -73.82774, "zip_code": "12051"});
+zipapicallback({"locality": "Coxsackie", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Coxsackie"], "postal_code": "12051", "lat": 42.353773, "lng": -73.82774, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]});

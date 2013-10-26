@@ -1,1 +1,1 @@
-{"lat": 44.704646, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Prior Lake", "lng": -93.42139, "zip_code": "55372"}
+{"locality": "Prior Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Prior Lake", "Shakopee"], "postal_code": "55372", "lat": 44.704646, "lng": -93.42139, "type": "STANDARD", "counties": [{"fips": "139", "name": "Scott"}]}

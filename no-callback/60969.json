@@ -1,1 +1,1 @@
-{"lat": 41.109101, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Union Hill", "lng": -88.14732, "zip_code": "60969"}
+{"locality": "Union Hill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Union Hill"], "postal_code": "60969", "lat": 41.109101, "lng": -88.14732, "type": "POBOX", "counties": [{"fips": "091", "name": "Kankakee"}]}

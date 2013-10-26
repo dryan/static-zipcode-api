@@ -1,1 +1,1 @@
-{"lat": 42.970621, "region": {"abbr": "NY", "name": "New York"}, "locality": "Manchester", "lng": -77.2298, "zip_code": "14504"}
+{"locality": "Manchester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Manchester"], "postal_code": "14504", "lat": 42.970621, "lng": -77.2298, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}]}

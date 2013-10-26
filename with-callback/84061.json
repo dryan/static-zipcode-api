@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.732935, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Peoa", "lng": -111.35283, "zip_code": "84061"});
+zipapicallback({"locality": "Peoa", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Peoa"], "postal_code": "84061", "lat": 40.732935, "lng": -111.35283, "type": "STANDARD", "counties": [{"fips": "043", "name": "Summit"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.287005, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Dammeron Valley", "lng": -113.66144, "zip_code": "84783"}
+{"locality": "Dammeron Valley", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Dammeron Valley", "Dammeron Vly"], "postal_code": "84783", "lat": 37.287005, "lng": -113.66144, "type": "STANDARD", "counties": []}

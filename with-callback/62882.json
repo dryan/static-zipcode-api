@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.60823, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sandoval", "lng": -89.11963, "zip_code": "62882"});
+zipapicallback({"locality": "Sandoval", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sandoval"], "postal_code": "62882", "lat": 38.60823, "lng": -89.11963, "type": "STANDARD", "counties": [{"fips": "121", "name": "Marion"}, {"fips": "027", "name": "Clinton"}]});

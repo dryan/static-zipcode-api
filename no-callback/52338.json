@@ -1,1 +1,1 @@
-{"lat": 41.840184, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Swisher", "lng": -91.68552, "zip_code": "52338"}
+{"locality": "Swisher", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Shueyville", "Swisher"], "postal_code": "52338", "lat": 41.840184, "lng": -91.68552, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]}

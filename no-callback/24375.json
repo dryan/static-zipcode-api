@@ -1,1 +1,1 @@
-{"lat": 36.790265, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sugar Grove", "lng": -81.37541, "zip_code": "24375"}
+{"locality": "Sugar Grove", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sugar Grove"], "postal_code": "24375", "lat": 36.790265, "lng": -81.37541, "type": "STANDARD", "counties": [{"fips": "173", "name": "Smyth"}]}

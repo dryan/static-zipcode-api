@@ -1,1 +1,1 @@
-{"lat": 35.818054, "region": {"abbr": "CA", "name": "California"}, "locality": "Parkfield", "lng": -120.63645, "zip_code": "93451"}
+{"locality": "San Miguel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Parkfield", "San Miguel"], "postal_code": "93451", "lat": 35.818054, "lng": -120.63645, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

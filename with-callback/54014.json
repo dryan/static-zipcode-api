@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.626915, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hager City", "lng": -92.548, "zip_code": "54014"});
+zipapicallback({"locality": "Hager City", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hager City"], "postal_code": "54014", "lat": 44.626915, "lng": -92.548, "type": "STANDARD", "counties": [{"fips": "093", "name": "Pierce"}]});

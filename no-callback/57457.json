@@ -1,1 +1,1 @@
-{"lat": 45.893818, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Longlake", "lng": -99.15407, "zip_code": "57457"}
+{"locality": "Long Lake", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Long Lake"], "postal_code": "57457", "lat": 45.893818, "lng": -99.15407, "type": "STANDARD", "counties": [{"fips": "089", "name": "McPherson"}]}

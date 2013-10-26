@@ -1,1 +1,1 @@
-zipapicallback({"lat": 24.567593, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Naval Air Statio", "lng": -81.7566, "zip_code": "33040"});
+zipapicallback({"locality": "Key West", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["E Rockland Key", "E Rockland Ky", "East Rockland Key", "Key West", "Key West Nas", "Key West Naval Air Station", "Stock Island"], "postal_code": "33040", "lat": 24.567593, "lng": -81.7566, "type": "STANDARD", "counties": [{"fips": "087", "name": "Monroe"}]});

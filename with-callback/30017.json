@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.888829, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Grayson", "lng": -83.96848, "zip_code": "30017"});
+zipapicallback({"locality": "Grayson", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Grayson"], "postal_code": "30017", "lat": 33.888829, "lng": -83.96848, "type": "STANDARD", "counties": []});

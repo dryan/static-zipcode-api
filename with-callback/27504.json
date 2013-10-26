@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.390431, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Benson", "lng": -78.53155, "zip_code": "27504"});
+zipapicallback({"locality": "Benson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Benson"], "postal_code": "27504", "lat": 35.390431, "lng": -78.53155, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnston"}, {"fips": "085", "name": "Harnett"}]});

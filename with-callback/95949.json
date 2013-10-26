@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.13255, "region": {"abbr": "CA", "name": "California"}, "locality": "Grass Valley", "lng": -121.0981, "zip_code": "95949"});
+zipapicallback({"locality": "Grass Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Grass Valley"], "postal_code": "95949", "lat": 39.13255, "lng": -121.0981, "type": "STANDARD", "counties": [{"fips": "057", "name": "Nevada"}]});

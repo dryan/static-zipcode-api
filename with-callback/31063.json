@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.293293, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Montezuma", "lng": -83.98913, "zip_code": "31063"});
+zipapicallback({"locality": "Montezuma", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dooling", "Montezuma"], "postal_code": "31063", "lat": 32.293293, "lng": -83.98913, "type": "STANDARD", "counties": [{"fips": "193", "name": "MacOn"}, {"fips": "093", "name": "Dooly"}]});

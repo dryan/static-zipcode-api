@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.287173, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Upland", "lng": -98.88958, "zip_code": "68981"});
+zipapicallback({"locality": "Upland", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Upland"], "postal_code": "68981", "lat": 40.287173, "lng": -98.88958, "type": "STANDARD", "counties": [{"fips": "061", "name": "Franklin"}, {"fips": "099", "name": "Kearney"}]});

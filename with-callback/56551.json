@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.31855, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Henning", "lng": -95.45375, "zip_code": "56551"});
+zipapicallback({"locality": "Henning", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Henning"], "postal_code": "56551", "lat": 46.31855, "lng": -95.45375, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]});

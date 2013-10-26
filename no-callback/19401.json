@@ -1,1 +1,1 @@
-{"lat": 40.123708, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Norristown", "lng": -75.33843, "zip_code": "19401"}
+{"locality": "Norristown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Black Horse", "East Norriton", "Norristown"], "postal_code": "19401", "lat": 40.123708, "lng": -75.33843, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

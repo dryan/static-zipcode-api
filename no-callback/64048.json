@@ -1,1 +1,1 @@
-{"lat": 39.44609, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Holt", "lng": -94.35335, "zip_code": "64048"}
+{"locality": "Holt", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Holt"], "postal_code": "64048", "lat": 39.44609, "lng": -94.35335, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}, {"fips": "049", "name": "Clinton"}]}

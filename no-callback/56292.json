@@ -1,1 +1,1 @@
-{"lat": 44.501023, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Vesta", "lng": -95.45228, "zip_code": "56292"}
+{"locality": "Vesta", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Vesta"], "postal_code": "56292", "lat": 44.501023, "lng": -95.45228, "type": "STANDARD", "counties": [{"fips": "127", "name": "Redwood"}, {"fips": "173", "name": "Yellow Medicine"}, {"fips": "083", "name": "Lyon"}]}

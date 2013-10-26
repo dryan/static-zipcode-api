@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.261679, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kansas City", "lng": -94.63353, "zip_code": "64154"});
+zipapicallback({"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City"], "postal_code": "64154", "lat": 39.261679, "lng": -94.63353, "type": "STANDARD", "counties": [{"fips": "165", "name": "Platte"}]});

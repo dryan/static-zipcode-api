@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.53414, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Reedsburg", "lng": -89.99183, "zip_code": "53959"});
+zipapicallback({"locality": "Reedsburg", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Reedsburg"], "postal_code": "53959", "lat": 43.53414, "lng": -89.99183, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}]});

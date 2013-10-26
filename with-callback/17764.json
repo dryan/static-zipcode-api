@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.351129, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Renovo", "lng": -77.79678, "zip_code": "17764"});
+zipapicallback({"locality": "Renovo", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Renovo"], "postal_code": "17764", "lat": 41.351129, "lng": -77.79678, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clinton"}]});

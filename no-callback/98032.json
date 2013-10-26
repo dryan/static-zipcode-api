@@ -1,1 +1,1 @@
-{"lat": 47.388254, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kent", "lng": -122.25932, "zip_code": "98032"}
+{"locality": "Kent", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kent"], "postal_code": "98032", "lat": 47.388254, "lng": -122.25932, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

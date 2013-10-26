@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.683392, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wichita", "lng": -97.1706, "zip_code": "67230"});
+zipapicallback({"locality": "Wichita", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wichita"], "postal_code": "67230", "lat": 37.683392, "lng": -97.1706, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "015", "name": "Butler"}]});

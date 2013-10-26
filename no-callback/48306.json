@@ -1,1 +1,1 @@
-{"lat": 42.708151, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rochester Hills", "lng": -83.16584, "zip_code": "48306"}
+{"locality": "Rochester", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Goodison", "Oakland", "Oakland Township", "Oakland Twp", "Rochester", "Rochester Hills", "Rochester Hls"], "postal_code": "48306", "lat": 42.708151, "lng": -83.16584, "type": "STANDARD", "counties": []}

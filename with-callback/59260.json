@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.717859, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Richland", "lng": -106.07899, "zip_code": "59260"});
+zipapicallback({"locality": "Richland", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Richland"], "postal_code": "59260", "lat": 48.717859, "lng": -106.07899, "type": "STANDARD", "counties": [{"fips": "105", "name": "Valley"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.259678, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Selma", "lng": -123.54778, "zip_code": "97538"});
+zipapicallback({"locality": "Selma", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Selma"], "postal_code": "97538", "lat": 42.259678, "lng": -123.54778, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}]});

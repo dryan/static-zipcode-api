@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.580076, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Charlotte", "lng": -84.8228, "zip_code": "48813"});
+zipapicallback({"locality": "Charlotte", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Charlotte"], "postal_code": "48813", "lat": 42.580076, "lng": -84.8228, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}, {"fips": "025", "name": "Calhoun"}]});

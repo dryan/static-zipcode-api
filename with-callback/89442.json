@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.659593, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Wadsworth", "lng": -119.30527, "zip_code": "89442"});
+zipapicallback({"locality": "Wadsworth", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Wadsworth"], "postal_code": "89442", "lat": 39.659593, "lng": -119.30527, "type": "POBOX", "counties": [{"fips": "031", "name": "Washoe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.515014, "region": {"abbr": "CA", "name": "California"}, "locality": "Fremont", "lng": -121.92916, "zip_code": "94539"});
+zipapicallback({"locality": "Fremont", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fremont"], "postal_code": "94539", "lat": 37.515014, "lng": -121.92916, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

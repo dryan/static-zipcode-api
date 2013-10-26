@@ -1,1 +1,1 @@
-{"lat": 39.940043, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Chester", "lng": -75.59729, "zip_code": "19382"}
+{"locality": "West Chester", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["West Chester"], "postal_code": "19382", "lat": 39.940043, "lng": -75.59729, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "045", "name": "Delaware"}]}

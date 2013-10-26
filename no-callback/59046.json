@@ -1,1 +1,1 @@
-{"lat": 46.418078, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lavina", "lng": -109.03637, "zip_code": "59046"}
+{"locality": "Lavina", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lavina"], "postal_code": "59046", "lat": 46.418078, "lng": -109.03637, "type": "STANDARD", "counties": [{"fips": "037", "name": "Golden Valley"}]}

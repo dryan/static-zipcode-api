@@ -1,1 +1,1 @@
-{"lat": 43.260087, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fertile", "lng": -93.43553, "zip_code": "50434"}
+{"locality": "Fertile", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fertile"], "postal_code": "50434", "lat": 43.260087, "lng": -93.43553, "type": "STANDARD", "counties": [{"fips": "195", "name": "Worth"}]}

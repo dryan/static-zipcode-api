@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.033215, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Chilton", "lng": -88.17626, "zip_code": "53014"});
+zipapicallback({"locality": "Chilton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Chilton"], "postal_code": "53014", "lat": 44.033215, "lng": -88.17626, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calumet"}, {"fips": "071", "name": "Manitowoc"}, {"fips": "039", "name": "Fond Du Lac"}]});

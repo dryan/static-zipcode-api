@@ -1,1 +1,1 @@
-{"lat": 33.454082, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Metcalfe", "lng": -90.99667, "zip_code": "38760"}
+{"locality": "Metcalfe", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Metcalfe"], "postal_code": "38760", "lat": 33.454082, "lng": -90.99667, "type": "POBOX", "counties": [{"fips": "151", "name": "Washington"}]}

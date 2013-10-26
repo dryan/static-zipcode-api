@@ -1,1 +1,1 @@
-{"lat": 39.794538, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Smith Center", "lng": -98.79561, "zip_code": "66967"}
+{"locality": "Smith Center", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Harlan", "Smith Center"], "postal_code": "66967", "lat": 39.794538, "lng": -98.79561, "type": "STANDARD", "counties": [{"fips": "183", "name": "Smith"}]}

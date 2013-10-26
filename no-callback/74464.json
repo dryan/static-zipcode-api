@@ -1,1 +1,1 @@
-{"lat": 35.923658, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tahlequah", "lng": -94.97185, "zip_code": "74464"}
+{"locality": "Tahlequah", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Tahlequah"], "postal_code": "74464", "lat": 35.923658, "lng": -94.97185, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}]}

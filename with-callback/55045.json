@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.387281, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lindstrom", "lng": -92.83551, "zip_code": "55045"});
+zipapicallback({"locality": "Lindstrom", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lindstrom"], "postal_code": "55045", "lat": 45.387281, "lng": -92.83551, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chisago"}]});

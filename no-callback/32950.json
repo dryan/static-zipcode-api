@@ -1,1 +1,1 @@
-{"lat": 27.974173, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Malabar", "lng": -80.56986, "zip_code": "32950"}
+{"locality": "Malabar", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Grant Valkaria", "Grant Vlkria", "Malabar"], "postal_code": "32950", "lat": 27.974173, "lng": -80.56986, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]}

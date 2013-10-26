@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.203511, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Roxobel", "lng": -77.24791, "zip_code": "27872"});
+zipapicallback({"locality": "Roxobel", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Roxobel"], "postal_code": "27872", "lat": 36.203511, "lng": -77.24791, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bertie"}]});

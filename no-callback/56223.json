@@ -1,1 +1,1 @@
-{"lat": 44.761504, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clarkfield", "lng": -95.8183, "zip_code": "56223"}
+{"locality": "Clarkfield", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clarkfield"], "postal_code": "56223", "lat": 44.761504, "lng": -95.8183, "type": "STANDARD", "counties": [{"fips": "173", "name": "Yellow Medicine"}, {"fips": "073", "name": "Lac Qui Parle"}]}

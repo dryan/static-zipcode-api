@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.154381, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Talbott", "lng": -83.40946, "zip_code": "37877"});
+zipapicallback({"locality": "Talbott", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Talbott"], "postal_code": "37877", "lat": 36.154381, "lng": -83.40946, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jefferson"}, {"fips": "063", "name": "Hamblen"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.166859, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Levittown", "lng": -74.82066, "zip_code": "19054"}
+{"locality": "Levittown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fallsington", "Levittown"], "postal_code": "19054", "lat": 40.166859, "lng": -74.82066, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

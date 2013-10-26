@@ -1,1 +1,1 @@
-{"lat": 32.26958, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Overton", "lng": -94.94935, "zip_code": "75684"}
+{"locality": "Overton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Overton"], "postal_code": "75684", "lat": 32.26958, "lng": -94.94935, "type": "STANDARD", "counties": [{"fips": "401", "name": "Rusk"}, {"fips": "423", "name": "Smith"}]}

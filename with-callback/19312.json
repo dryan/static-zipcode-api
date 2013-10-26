@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.037958, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Berwyn", "lng": -75.44986, "zip_code": "19312"});
+zipapicallback({"locality": "Berwyn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Berwyn", "Tredyffrin"], "postal_code": "19312", "lat": 40.037958, "lng": -75.44986, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "045", "name": "Delaware"}, {"fips": "021", "name": "Cambria"}]});

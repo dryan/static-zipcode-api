@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.477752, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Harrisonburg", "lng": -78.86302, "zip_code": "22802"});
+zipapicallback({"locality": "Harrisonburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Harrisonburg"], "postal_code": "22802", "lat": 38.477752, "lng": -78.86302, "type": "STANDARD", "counties": []});

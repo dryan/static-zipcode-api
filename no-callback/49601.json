@@ -1,1 +1,1 @@
-{"lat": 44.243788, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Cadillac", "lng": -85.46006, "zip_code": "49601"}
+{"locality": "Cadillac", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Cadillac", "Hoxeyville"], "postal_code": "49601", "lat": 44.243788, "lng": -85.46006, "type": "STANDARD", "counties": [{"fips": "165", "name": "Wexford"}, {"fips": "085", "name": "Lake"}, {"fips": "113", "name": "Missaukee"}]}

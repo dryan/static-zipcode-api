@@ -1,1 +1,1 @@
-{"lat": 42.938385, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Berlin", "lng": -82.91582, "zip_code": "48002"}
+{"locality": "Allenton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Allenton", "Berlin", "Berville"], "postal_code": "48002", "lat": 42.938385, "lng": -82.91582, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}, {"fips": "099", "name": "MacOmb"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.79215, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Morristown", "lng": -74.48559, "zip_code": "07960"});
+zipapicallback({"locality": "Morristown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Morristown"], "postal_code": "07960", "lat": 40.79215, "lng": -74.48559, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]});

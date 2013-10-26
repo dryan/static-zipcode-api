@@ -1,1 +1,1 @@
-{"lat": 45.186997, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ridgeland", "lng": -91.88073, "zip_code": "54763"}
+{"locality": "Ridgeland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ridgeland"], "postal_code": "54763", "lat": 45.186997, "lng": -91.88073, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dunn"}, {"fips": "005", "name": "Barron"}]}

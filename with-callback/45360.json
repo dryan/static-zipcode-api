@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.330423, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Port Jefferson", "lng": -84.09097, "zip_code": "45360"});
+zipapicallback({"locality": "Port Jefferson", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Port Jefferson", "Prt Jefferson"], "postal_code": "45360", "lat": 40.330423, "lng": -84.09097, "type": "POBOX", "counties": [{"fips": "149", "name": "Shelby"}]});

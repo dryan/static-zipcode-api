@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.127805, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Offutt A F B", "lng": -95.90649, "zip_code": "68113"});
+zipapicallback({"locality": "Offutt A F B", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Offutt A F B", "Offutt Afb", "Omaha"], "postal_code": "68113", "lat": 41.127805, "lng": -95.90649, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sarpy"}]});

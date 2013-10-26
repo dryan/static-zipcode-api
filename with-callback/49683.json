@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.531456, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Thompsonville", "lng": -85.9334, "zip_code": "49683"});
+zipapicallback({"locality": "Thompsonville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Thompsonville"], "postal_code": "49683", "lat": 44.531456, "lng": -85.9334, "type": "STANDARD", "counties": [{"fips": "019", "name": "Benzie"}, {"fips": "101", "name": "Manistee"}, {"fips": "055", "name": "Grand Traverse"}]});

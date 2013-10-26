@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.35996, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Stamps", "lng": -93.49293, "zip_code": "71860"});
+zipapicallback({"locality": "Stamps", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Stamps"], "postal_code": "71860", "lat": 33.35996, "lng": -93.49293, "type": "STANDARD", "counties": [{"fips": "027", "name": "Columbia"}, {"fips": "119", "name": "Pulaski"}]});

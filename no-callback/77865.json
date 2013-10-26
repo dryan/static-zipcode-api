@@ -1,1 +1,1 @@
-{"lat": 31.222211, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Marquez", "lng": -96.24043, "zip_code": "77865"}
+{"locality": "Marquez", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Marquez"], "postal_code": "77865", "lat": 31.222211, "lng": -96.24043, "type": "STANDARD", "counties": [{"fips": "289", "name": "Leon"}]}

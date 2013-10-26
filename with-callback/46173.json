@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.614803, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Rushville", "lng": -85.43834, "zip_code": "46173"});
+zipapicallback({"locality": "Rushville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Rushville"], "postal_code": "46173", "lat": 39.614803, "lng": -85.43834, "type": "STANDARD", "counties": [{"fips": "139", "name": "Rush"}, {"fips": "041", "name": "Fayette"}, {"fips": "047", "name": "Franklin"}, {"fips": "031", "name": "Decatur"}]});

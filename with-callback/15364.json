@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.956204, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sycamore", "lng": -80.27779, "zip_code": "15364"});
+zipapicallback({"locality": "Sycamore", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sycamore"], "postal_code": "15364", "lat": 39.956204, "lng": -80.27779, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

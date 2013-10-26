@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.63123, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Boise", "lng": -116.28716, "zip_code": "83704"});
+zipapicallback({"locality": "Boise", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Boise"], "postal_code": "83704", "lat": 43.63123, "lng": -116.28716, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}]});

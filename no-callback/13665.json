@@ -1,1 +1,1 @@
-{"lat": 44.055436, "region": {"abbr": "NY", "name": "New York"}, "locality": "Natural Bridge", "lng": -75.46279, "zip_code": "13665"}
+{"locality": "Natural Bridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Natural Brg", "Natural Bridge"], "postal_code": "13665", "lat": 44.055436, "lng": -75.46279, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}, {"fips": "049", "name": "Lewis"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.186913, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Channing", "lng": -88.04546, "zip_code": "49815"});
+zipapicallback({"locality": "Channing", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Channing"], "postal_code": "49815", "lat": 46.186913, "lng": -88.04546, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickinson"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.194029, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Canton", "lng": -84.43884, "zip_code": "30115"}
+{"locality": "Canton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Canton", "Holly Springs"], "postal_code": "30115", "lat": 34.194029, "lng": -84.43884, "type": "STANDARD", "counties": []}

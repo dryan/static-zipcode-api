@@ -1,1 +1,1 @@
-{"lat": 42.483971, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Dubuque", "lng": -90.58945, "zip_code": "61025"}
+{"locality": "East Dubuque", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["East Dubuque"], "postal_code": "61025", "lat": 42.483971, "lng": -90.58945, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jo Daviess"}]}

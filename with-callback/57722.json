@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.473186, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Buffalo Gap", "lng": -102.98607, "zip_code": "57722"});
+zipapicallback({"locality": "Buffalo Gap", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Buffalo Gap"], "postal_code": "57722", "lat": 43.473186, "lng": -102.98607, "type": "STANDARD", "counties": [{"fips": "033", "name": "Custer"}, {"fips": "113", "name": "Shannon"}, {"fips": "047", "name": "Fall River"}]});

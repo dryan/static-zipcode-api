@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.894491, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Ambrose", "lng": -103.51215, "zip_code": "58833"});
+zipapicallback({"locality": "Ambrose", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Ambrose"], "postal_code": "58833", "lat": 48.894491, "lng": -103.51215, "type": "STANDARD", "counties": [{"fips": "023", "name": "Divide"}]});

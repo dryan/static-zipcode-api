@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.142069, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Millville", "lng": -76.51679, "zip_code": "17846"});
+zipapicallback({"locality": "Millville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Millville"], "postal_code": "17846", "lat": 41.142069, "lng": -76.51679, "type": "STANDARD", "counties": [{"fips": "037", "name": "Columbia"}, {"fips": "081", "name": "Lycoming"}]});

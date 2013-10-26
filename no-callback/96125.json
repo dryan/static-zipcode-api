@@ -1,1 +1,1 @@
-{"lat": 39.598792, "region": {"abbr": "CA", "name": "California"}, "locality": "Sierra City", "lng": -120.63432, "zip_code": "96125"}
+{"locality": "Sierra City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sierra City"], "postal_code": "96125", "lat": 39.598792, "lng": -120.63432, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sierra"}]}

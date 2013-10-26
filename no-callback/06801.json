@@ -1,1 +1,1 @@
-{"lat": 41.379978, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Bethel", "lng": -73.40105, "zip_code": "06801"}
+{"locality": "Bethel", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Bethel"], "postal_code": "06801", "lat": 41.379978, "lng": -73.40105, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

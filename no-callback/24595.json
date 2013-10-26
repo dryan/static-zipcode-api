@@ -1,1 +1,1 @@
-{"lat": 37.556248, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sweet Briar", "lng": -79.08249, "zip_code": "24595"}
+{"locality": "Sweet Briar", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sweet Briar"], "postal_code": "24595", "lat": 37.556248, "lng": -79.08249, "type": "POBOX", "counties": [{"fips": "009", "name": "Amherst"}]}

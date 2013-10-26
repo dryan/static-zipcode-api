@@ -1,1 +1,1 @@
-{"lat": 46.355548, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Eckerman", "lng": -84.99249, "zip_code": "49728"}
+{"locality": "Eckerman", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Eckerman", "Strongs"], "postal_code": "49728", "lat": 46.355548, "lng": -84.99249, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]}

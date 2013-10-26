@@ -1,1 +1,1 @@
-{"lat": 40.318569, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mingo Junction", "lng": -80.64172, "zip_code": "43938"}
+{"locality": "Mingo Junction", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mingo Jct", "Mingo Junction"], "postal_code": "43938", "lat": 40.318569, "lng": -80.64172, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]}

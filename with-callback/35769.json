@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.606124, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Scottsboro", "lng": -86.06464, "zip_code": "35769"});
+zipapicallback({"locality": "Scottsboro", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Scottsboro"], "postal_code": "35769", "lat": 34.606124, "lng": -86.06464, "type": "STANDARD", "counties": []});

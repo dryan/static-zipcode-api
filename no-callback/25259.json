@@ -1,1 +1,1 @@
-{"lat": 38.679327, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Looneyville", "lng": -81.27334, "zip_code": "25259"}
+{"locality": "Looneyville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Linden", "Looneyville", "Tariff"], "postal_code": "25259", "lat": 38.679327, "lng": -81.27334, "type": "STANDARD", "counties": [{"fips": "087", "name": "Roane"}]}

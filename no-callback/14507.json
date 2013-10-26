@@ -1,1 +1,1 @@
-{"lat": 42.702921, "region": {"abbr": "NY", "name": "New York"}, "locality": "Middlesex", "lng": -77.27447, "zip_code": "14507"}
+{"locality": "Middlesex", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Middlesex"], "postal_code": "14507", "lat": 42.702921, "lng": -77.27447, "type": "STANDARD", "counties": [{"fips": "123", "name": "Yates"}]}

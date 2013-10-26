@@ -1,1 +1,1 @@
-{"lat": 56.298297, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chignik", "lng": -158.4044, "zip_code": "99564"}
+{"locality": "Chignik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chignik"], "postal_code": "99564", "lat": 56.298297, "lng": -158.4044, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]}

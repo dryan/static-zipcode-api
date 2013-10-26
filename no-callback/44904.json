@@ -1,1 +1,1 @@
-{"lat": 40.678208, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lexington", "lng": -82.58207, "zip_code": "44904"}
+{"locality": "Mansfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lexington", "Mansfield"], "postal_code": "44904", "lat": 40.678208, "lng": -82.58207, "type": "STANDARD", "counties": [{"fips": "139", "name": "Richland"}, {"fips": "117", "name": "Morrow"}, {"fips": "049", "name": "Franklin"}]}

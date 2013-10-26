@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.260634, "region": {"abbr": "NY", "name": "New York"}, "locality": "Jewett", "lng": -74.27527, "zip_code": "12444"});
+zipapicallback({"locality": "Jewett", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jewett"], "postal_code": "12444", "lat": 42.260634, "lng": -74.27527, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]});

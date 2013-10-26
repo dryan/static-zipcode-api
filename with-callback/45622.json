@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.364574, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Creola", "lng": -82.4959, "zip_code": "45622"});
+zipapicallback({"locality": "Creola", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Creola"], "postal_code": "45622", "lat": 39.364574, "lng": -82.4959, "type": "STANDARD", "counties": [{"fips": "163", "name": "Vinton"}, {"fips": "073", "name": "Hocking"}]});

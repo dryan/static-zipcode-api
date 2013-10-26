@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.614374, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Junction City", "lng": -84.44513, "zip_code": "31812"});
+zipapicallback({"locality": "Junction City", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Junction City"], "postal_code": "31812", "lat": 32.614374, "lng": -84.44513, "type": "STANDARD", "counties": [{"fips": "263", "name": "Talbot"}, {"fips": "269", "name": "Taylor"}]});

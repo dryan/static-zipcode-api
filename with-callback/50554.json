@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.844055, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Laurens", "lng": -94.84275, "zip_code": "50554"});
+zipapicallback({"locality": "Laurens", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Laurens"], "postal_code": "50554", "lat": 42.844055, "lng": -94.84275, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pocahontas"}]});

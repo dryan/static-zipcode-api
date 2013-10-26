@@ -1,1 +1,1 @@
-{"lat": 40.489925, "region": {"abbr": "CA", "name": "California"}, "locality": "Carlotta", "lng": -123.97132, "zip_code": "95528"}
+{"locality": "Carlotta", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Carlotta"], "postal_code": "95528", "lat": 40.489925, "lng": -123.97132, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]}

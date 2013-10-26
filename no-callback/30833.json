@@ -1,1 +1,1 @@
-{"lat": 33.200325, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Wrens", "lng": -82.37625, "zip_code": "30833"}
+{"locality": "Wrens", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Wrens"], "postal_code": "30833", "lat": 33.200325, "lng": -82.37625, "type": "STANDARD", "counties": [{"fips": "163", "name": "Jefferson"}]}

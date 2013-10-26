@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.425836, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grosse Pointe", "lng": -82.90003, "zip_code": "48236"});
+zipapicallback({"locality": "Grosse Pointe", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Grosse Pointe", "Grosse Pointe Farms", "Grosse Pointe Park", "Grosse Pointe Shores", "Grosse Pointe Woods"], "postal_code": "48236", "lat": 42.425836, "lng": -82.90003, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}, {"fips": "099", "name": "MacOmb"}]});

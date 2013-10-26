@@ -1,1 +1,1 @@
-{"lat": 47.916124, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Drake", "lng": -100.38123, "zip_code": "58736"}
+{"locality": "Drake", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Drake"], "postal_code": "58736", "lat": 47.916124, "lng": -100.38123, "type": "STANDARD", "counties": [{"fips": "049", "name": "McHenry"}, {"fips": "083", "name": "Sheridan"}]}

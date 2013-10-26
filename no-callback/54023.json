@@ -1,1 +1,1 @@
-{"lat": 44.970887, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Roberts", "lng": -92.5478, "zip_code": "54023"}
+{"locality": "Roberts", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Roberts"], "postal_code": "54023", "lat": 44.970887, "lng": -92.5478, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}]}

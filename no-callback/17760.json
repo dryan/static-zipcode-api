@@ -1,1 +1,1 @@
-{"lat": 41.404439, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "North Bend", "lng": -77.68536, "zip_code": "17760"}
+{"locality": "North Bend", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["North Bend"], "postal_code": "17760", "lat": 41.404439, "lng": -77.68536, "type": "POBOX", "counties": [{"fips": "035", "name": "Clinton"}]}

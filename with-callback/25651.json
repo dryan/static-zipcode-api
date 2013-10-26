@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.555503, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wharncliffe", "lng": -81.96819, "zip_code": "25651"});
+zipapicallback({"locality": "Wharncliffe", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Wharncliffe"], "postal_code": "25651", "lat": 37.555503, "lng": -81.96819, "type": "STANDARD", "counties": [{"fips": "059", "name": "Mingo"}]});

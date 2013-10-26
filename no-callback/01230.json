@@ -1,1 +1,1 @@
-{"lat": 42.189715, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Great Barrington", "lng": -73.35249, "zip_code": "01230"}
+{"locality": "Great Barrington", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Egremont", "Great Barrington", "Gt Barrington", "N Egremont", "New Marlboro", "New Marlborou", "New Marlborough", "North Egremont", "Simons Rock"], "postal_code": "01230", "lat": 42.189715, "lng": -73.35249, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

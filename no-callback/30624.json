@@ -1,1 +1,1 @@
-{"lat": 34.193943, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bowman", "lng": -83.03375, "zip_code": "30624"}
+{"locality": "Bowman", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bowman"], "postal_code": "30624", "lat": 34.193943, "lng": -83.03375, "type": "STANDARD", "counties": [{"fips": "105", "name": "Elbert"}, {"fips": "147", "name": "Hart"}, {"fips": "195", "name": "Madison"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.632051, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Dallesport", "lng": -121.16835, "zip_code": "98617"});
+zipapicallback({"locality": "Dallesport", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Dallesport"], "postal_code": "98617", "lat": 45.632051, "lng": -121.16835, "type": "POBOX", "counties": [{"fips": "039", "name": "Klickitat"}]});

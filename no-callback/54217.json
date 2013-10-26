@@ -1,1 +1,1 @@
-{"lat": 44.55681, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Luxemburg", "lng": -87.71413, "zip_code": "54217"}
+{"locality": "Luxemburg", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Luxemburg"], "postal_code": "54217", "lat": 44.55681, "lng": -87.71413, "type": "STANDARD", "counties": [{"fips": "061", "name": "Kewaunee"}, {"fips": "009", "name": "Brown"}, {"fips": "029", "name": "Door"}]}

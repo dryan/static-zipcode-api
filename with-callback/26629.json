@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.553898, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Tesla", "lng": -80.69864, "zip_code": "26629"});
+zipapicallback({"locality": "Little Birch", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Little Birch", "Tesla"], "postal_code": "26629", "lat": 38.553898, "lng": -80.69864, "type": "STANDARD", "counties": [{"fips": "007", "name": "Braxton"}]});

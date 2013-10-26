@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.773595, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Hayden Lake", "lng": -116.74907, "zip_code": "83835"});
+zipapicallback({"locality": "Hayden", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Hayden", "Hayden Lake"], "postal_code": "83835", "lat": 47.773595, "lng": -116.74907, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kootenai"}]});

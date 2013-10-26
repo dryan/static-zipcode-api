@@ -1,1 +1,1 @@
-{"lat": 48.483212, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Harlem", "lng": -108.72208, "zip_code": "59526"}
+{"locality": "Harlem", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Harlem"], "postal_code": "59526", "lat": 48.483212, "lng": -108.72208, "type": "STANDARD", "counties": [{"fips": "005", "name": "Blaine"}]}

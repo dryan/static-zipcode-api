@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.99535, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Oak Grove", "lng": -94.14225, "zip_code": "64075"});
+zipapicallback({"locality": "Oak Grove", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Oak Grove"], "postal_code": "64075", "lat": 38.99535, "lng": -94.14225, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}, {"fips": "107", "name": "Lafayette"}, {"fips": "101", "name": "Johnson"}]});

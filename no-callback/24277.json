@@ -1,1 +1,1 @@
-{"lat": 36.756705, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Pennington Gap", "lng": -83.04178, "zip_code": "24277"}
+{"locality": "Pennington Gap", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Penningtn Gap", "Pennington Gap"], "postal_code": "24277", "lat": 36.756705, "lng": -83.04178, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}]}

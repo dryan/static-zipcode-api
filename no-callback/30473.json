@@ -1,1 +1,1 @@
-{"lat": 32.03096, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Uvalda", "lng": -82.48797, "zip_code": "30473"}
+{"locality": "Uvalda", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Uvalda"], "postal_code": "30473", "lat": 32.03096, "lng": -82.48797, "type": "STANDARD", "counties": [{"fips": "209", "name": "Montgomery"}, {"fips": "279", "name": "Toombs"}]}

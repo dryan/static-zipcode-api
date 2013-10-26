@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.817055, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cherryville", "lng": -91.26828, "zip_code": "65446"});
+zipapicallback({"locality": "Cherryville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cherryville"], "postal_code": "65446", "lat": 37.817055, "lng": -91.26828, "type": "STANDARD", "counties": [{"fips": "055", "name": "Crawford"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.628333, "region": {"abbr": "CA", "name": "California"}, "locality": "Lost Lake", "lng": -114.61905, "zip_code": "92225"});
+zipapicallback({"locality": "Blythe", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Blythe", "Ripley"], "postal_code": "92225", "lat": 33.628333, "lng": -114.61905, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]});

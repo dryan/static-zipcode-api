@@ -1,1 +1,1 @@
-{"lat": 38.106135, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Fairdale", "lng": -85.75362, "zip_code": "40118"}
+{"locality": "Fairdale", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Fairdale", "Hollyvilla"], "postal_code": "40118", "lat": 38.106135, "lng": -85.75362, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]}

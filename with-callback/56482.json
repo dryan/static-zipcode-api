@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.447659, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wadena", "lng": -95.14289, "zip_code": "56482"});
+zipapicallback({"locality": "Wadena", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wadena"], "postal_code": "56482", "lat": 46.447659, "lng": -95.14289, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}, {"fips": "159", "name": "Wadena"}]});

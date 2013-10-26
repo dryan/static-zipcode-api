@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.380047, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ney", "lng": -84.51313, "zip_code": "43549"});
+zipapicallback({"locality": "Ney", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Ney"], "postal_code": "43549", "lat": 41.380047, "lng": -84.51313, "type": "STANDARD", "counties": [{"fips": "039", "name": "Defiance"}]});

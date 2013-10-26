@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.343166, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Berlin", "lng": -75.19082, "zip_code": "21811"});
+zipapicallback({"locality": "Berlin", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Berlin", "Ocean Pines", "Ocean Pnes"], "postal_code": "21811", "lat": 38.343166, "lng": -75.19082, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]});

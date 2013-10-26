@@ -1,1 +1,1 @@
-{"lat": 33.035716, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cason", "lng": -94.81589, "zip_code": "75636"}
+{"locality": "Cason", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cason"], "postal_code": "75636", "lat": 33.035716, "lng": -94.81589, "type": "POBOX", "counties": [{"fips": "343", "name": "Morris"}]}

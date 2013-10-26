@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.067424, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Colony", "lng": -95.40614, "zip_code": "66015"});
+zipapicallback({"locality": "Colony", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Colony"], "postal_code": "66015", "lat": 38.067424, "lng": -95.40614, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anderson"}, {"fips": "001", "name": "Allen"}]});

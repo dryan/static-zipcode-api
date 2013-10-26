@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.010333, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shawnee On Delaware", "lng": -75.09995, "zip_code": "18356"});
+zipapicallback({"locality": "Shawnee On Delaware", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shawnee", "Shawnee On De", "Shawnee On Delaware"], "postal_code": "18356", "lat": 41.010333, "lng": -75.09995, "type": "POBOX", "counties": [{"fips": "089", "name": "Monroe"}]});

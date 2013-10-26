@@ -1,1 +1,1 @@
-{"lat": 40.793562, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Craigville", "lng": -85.0974, "zip_code": "46731"}
+{"locality": "Craigville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Craigville"], "postal_code": "46731", "lat": 40.793562, "lng": -85.0974, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wells"}, {"fips": "001", "name": "Adams"}]}

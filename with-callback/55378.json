@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.761796, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Savage", "lng": -93.3722, "zip_code": "55378"});
+zipapicallback({"locality": "Savage", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Savage"], "postal_code": "55378", "lat": 44.761796, "lng": -93.3722, "type": "STANDARD", "counties": [{"fips": "139", "name": "Scott"}]});

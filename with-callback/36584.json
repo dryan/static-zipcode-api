@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.202048, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Vinegar Bend", "lng": -88.38071, "zip_code": "36584"});
+zipapicallback({"locality": "Vinegar Bend", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Vinegar Bend"], "postal_code": "36584", "lat": 31.202048, "lng": -88.38071, "type": "STANDARD", "counties": [{"fips": "129", "name": "Washington"}]});

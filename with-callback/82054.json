@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.064212, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Carpenter", "lng": -104.34107, "zip_code": "82054"});
+zipapicallback({"locality": "Carpenter", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Carpenter"], "postal_code": "82054", "lat": 41.064212, "lng": -104.34107, "type": "STANDARD", "counties": [{"fips": "021", "name": "Laramie"}]});

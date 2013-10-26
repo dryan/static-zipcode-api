@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.533471, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hartfield", "lng": -76.4609, "zip_code": "23071"});
+zipapicallback({"locality": "Hartfield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hartfield"], "postal_code": "23071", "lat": 37.533471, "lng": -76.4609, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

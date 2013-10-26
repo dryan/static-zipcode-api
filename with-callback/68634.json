@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.388893, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Duncan", "lng": -97.49439, "zip_code": "68634"});
+zipapicallback({"locality": "Duncan", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Duncan"], "postal_code": "68634", "lat": 41.388893, "lng": -97.49439, "type": "POBOX", "counties": [{"fips": "141", "name": "Platte"}]});

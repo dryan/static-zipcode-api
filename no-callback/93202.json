@@ -1,1 +1,1 @@
-{"lat": 36.311439, "region": {"abbr": "CA", "name": "California"}, "locality": "Armona", "lng": -119.70823, "zip_code": "93202"}
+{"locality": "Armona", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Armona"], "postal_code": "93202", "lat": 36.311439, "lng": -119.70823, "type": "STANDARD", "counties": [{"fips": "031", "name": "Kings"}]}

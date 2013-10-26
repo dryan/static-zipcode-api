@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.048238, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Eolia", "lng": -82.81775, "zip_code": "40826"});
+zipapicallback({"locality": "Eolia", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Eolia"], "postal_code": "40826", "lat": 37.048238, "lng": -82.81775, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.702777, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Columbia", "lng": -72.29349, "zip_code": "06237"}
+{"locality": "Columbia", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Columbia"], "postal_code": "06237", "lat": 41.702777, "lng": -72.29349, "type": "STANDARD", "counties": [{"fips": "013", "name": "Tolland"}]}

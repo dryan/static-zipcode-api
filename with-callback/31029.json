@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.0409, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Forsyth", "lng": -83.92941, "zip_code": "31029"});
+zipapicallback({"locality": "Forsyth", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Forsyth"], "postal_code": "31029", "lat": 33.0409, "lng": -83.92941, "type": "STANDARD", "counties": [{"fips": "207", "name": "Monroe"}, {"fips": "171", "name": "Lamar"}, {"fips": "035", "name": "Butts"}]});

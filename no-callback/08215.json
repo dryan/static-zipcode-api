@@ -1,1 +1,1 @@
-{"lat": 39.548049, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Egg Harbor City", "lng": -74.62171, "zip_code": "08215"}
+{"locality": "Egg Harbor City", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Egg Harbor City", "Egg Harbor Cy", "Egg Hbr City"], "postal_code": "08215", "lat": 39.548049, "lng": -74.62171, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}, {"fips": "005", "name": "Burlington"}]}

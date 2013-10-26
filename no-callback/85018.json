@@ -1,1 +1,1 @@
-{"lat": 33.498076, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Phoenix", "lng": -111.98603, "zip_code": "85018"}
+{"locality": "Phoenix", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Phoenix"], "postal_code": "85018", "lat": 33.498076, "lng": -111.98603, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

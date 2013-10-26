@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.671295, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hinton", "lng": -80.86867, "zip_code": "25951"});
+zipapicallback({"locality": "Hinton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Brooks", "Hinton", "True"], "postal_code": "25951", "lat": 37.671295, "lng": -80.86867, "type": "STANDARD", "counties": [{"fips": "089", "name": "Summers"}]});

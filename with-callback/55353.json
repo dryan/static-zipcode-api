@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.328802, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kimball", "lng": -94.32528, "zip_code": "55353"});
+zipapicallback({"locality": "Kimball", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kimball", "Saint Augusta"], "postal_code": "55353", "lat": 45.328802, "lng": -94.32528, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "093", "name": "Meeker"}]});

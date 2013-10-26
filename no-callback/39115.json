@@ -1,1 +1,1 @@
-{"lat": 33.078256, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Midnight", "lng": -90.60068, "zip_code": "39115"}
+{"locality": "Midnight", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Midnight"], "postal_code": "39115", "lat": 33.078256, "lng": -90.60068, "type": "POBOX", "counties": [{"fips": "053", "name": "Humphreys"}]}

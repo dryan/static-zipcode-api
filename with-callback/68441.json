@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.224384, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Steinauer", "lng": -96.24072, "zip_code": "68441"});
+zipapicallback({"locality": "Steinauer", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Steinauer"], "postal_code": "68441", "lat": 40.224384, "lng": -96.24072, "type": "STANDARD", "counties": [{"fips": "133", "name": "Pawnee"}, {"fips": "097", "name": "Johnson"}]});

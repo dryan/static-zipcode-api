@@ -1,1 +1,1 @@
-{"lat": 40.825947, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Padroni", "lng": -103.27669, "zip_code": "80745"}
+{"locality": "Padroni", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Padroni"], "postal_code": "80745", "lat": 40.825947, "lng": -103.27669, "type": "STANDARD", "counties": [{"fips": "075", "name": "Logan"}]}

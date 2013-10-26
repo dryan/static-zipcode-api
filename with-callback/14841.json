@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.521501, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hector", "lng": -76.86246, "zip_code": "14841"});
+zipapicallback({"locality": "Hector", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hector", "Valois"], "postal_code": "14841", "lat": 42.521501, "lng": -76.86246, "type": "STANDARD", "counties": [{"fips": "097", "name": "Schuyler"}]});

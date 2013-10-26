@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.739739, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Taneyville", "lng": -93.02965, "zip_code": "65759"});
+zipapicallback({"locality": "Taneyville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Taneyville"], "postal_code": "65759", "lat": 36.739739, "lng": -93.02965, "type": "STANDARD", "counties": [{"fips": "213", "name": "Taney"}, {"fips": "043", "name": "Christian"}]});

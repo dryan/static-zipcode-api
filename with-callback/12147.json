@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.518386, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rensselaerville", "lng": -74.15997, "zip_code": "12147"});
+zipapicallback({"locality": "Rensselaerville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rensselaerville", "Rensselaervle"], "postal_code": "12147", "lat": 42.518386, "lng": -74.15997, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

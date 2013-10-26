@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.456917, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Medimont", "lng": -116.57917, "zip_code": "83842"});
+zipapicallback({"locality": "Medimont", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Medimont"], "postal_code": "83842", "lat": 47.456917, "lng": -116.57917, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kootenai"}]});

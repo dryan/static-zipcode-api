@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.791537, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Scottdale", "lng": -84.25994, "zip_code": "30079"});
+zipapicallback({"locality": "Scottdale", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Scottdale"], "postal_code": "30079", "lat": 33.791537, "lng": -84.25994, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}]});

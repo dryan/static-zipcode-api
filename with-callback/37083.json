@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.537994, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lafayette", "lng": -86.01497, "zip_code": "37083"});
+zipapicallback({"locality": "Lafayette", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lafayette"], "postal_code": "37083", "lat": 36.537994, "lng": -86.01497, "type": "STANDARD", "counties": [{"fips": "111", "name": "MacOn"}]});

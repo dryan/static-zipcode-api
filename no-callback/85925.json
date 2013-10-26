@@ -1,1 +1,1 @@
-{"lat": 34.109777, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Eagar", "lng": -109.34532, "zip_code": "85925"}
+{"locality": "Eagar", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Eagar"], "postal_code": "85925", "lat": 34.109777, "lng": -109.34532, "type": "STANDARD", "counties": [{"fips": "001", "name": "Apache"}]}

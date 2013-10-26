@@ -1,1 +1,1 @@
-{"lat": 30.728695, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lebeau", "lng": -91.9727, "zip_code": "71345"}
+{"locality": "Lebeau", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lebeau", "Rosa"], "postal_code": "71345", "lat": 30.728695, "lng": -91.9727, "type": "POBOX", "counties": [{"fips": "097", "name": "St. Landry"}]}

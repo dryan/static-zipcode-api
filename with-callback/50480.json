@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.242739, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Titonka", "lng": -94.04333, "zip_code": "50480"});
+zipapicallback({"locality": "Titonka", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Titonka"], "postal_code": "50480", "lat": 43.242739, "lng": -94.04333, "type": "STANDARD", "counties": [{"fips": "109", "name": "Kossuth"}]});

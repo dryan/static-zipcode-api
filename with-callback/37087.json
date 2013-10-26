@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.240331, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lebanon", "lng": -86.29271, "zip_code": "37087"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lebanon"], "postal_code": "37087", "lat": 36.240331, "lng": -86.29271, "type": "STANDARD", "counties": [{"fips": "189", "name": "Wilson"}, {"fips": "149", "name": "Rutherford"}, {"fips": "159", "name": "Smith"}, {"fips": "169", "name": "Trousdale"}]});

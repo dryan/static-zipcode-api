@@ -1,1 +1,1 @@
-{"lat": 41.336945, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elba", "lng": -98.61248, "zip_code": "68835"}
+{"locality": "Elba", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cotesfield", "Elba"], "postal_code": "68835", "lat": 41.336945, "lng": -98.61248, "type": "STANDARD", "counties": [{"fips": "093", "name": "Howard"}]}

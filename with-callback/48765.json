@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.147192, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Turner", "lng": -83.73723, "zip_code": "48765"});
+zipapicallback({"locality": "Turner", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Turner"], "postal_code": "48765", "lat": 44.147192, "lng": -83.73723, "type": "STANDARD", "counties": [{"fips": "011", "name": "Arenac"}, {"fips": "069", "name": "Iosco"}]});

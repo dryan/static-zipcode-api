@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.226082, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Whitehouse", "lng": -95.21751, "zip_code": "75791"});
+zipapicallback({"locality": "Whitehouse", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Whitehouse"], "postal_code": "75791", "lat": 32.226082, "lng": -95.21751, "type": "STANDARD", "counties": [{"fips": "423", "name": "Smith"}]});

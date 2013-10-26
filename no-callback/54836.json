@@ -1,1 +1,1 @@
-{"lat": 46.449996, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Foxboro", "lng": -92.21831, "zip_code": "54836"}
+{"locality": "Foxboro", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Foxboro"], "postal_code": "54836", "lat": 46.449996, "lng": -92.21831, "type": "STANDARD", "counties": [{"fips": "031", "name": "Douglas"}]}

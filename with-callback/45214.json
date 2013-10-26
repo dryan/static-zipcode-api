@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.12056, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cincinnati", "lng": -84.53575, "zip_code": "45214"});
+zipapicallback({"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Queen City"], "postal_code": "45214", "lat": 39.12056, "lng": -84.53575, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]});

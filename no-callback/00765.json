@@ -1,1 +1,1 @@
-{"lat": 18.125664, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Vieques", "lng": -65.45603, "zip_code": "00765"}
+{"locality": "Vieques", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Vieques"], "postal_code": "00765", "lat": 18.125664, "lng": -65.45603, "type": "STANDARD", "counties": [{"fips": "147", "name": "Vieques"}]}

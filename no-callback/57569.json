@@ -1,1 +1,1 @@
-{"lat": 43.839997, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Reliance", "lng": -99.57459, "zip_code": "57569"}
+{"locality": "Reliance", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Reliance"], "postal_code": "57569", "lat": 43.839997, "lng": -99.57459, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lyman"}, {"fips": "123", "name": "Tripp"}]}

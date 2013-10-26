@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.541896, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Polo", "lng": -94.05158, "zip_code": "64671"});
+zipapicallback({"locality": "Polo", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Polo"], "postal_code": "64671", "lat": 39.541896, "lng": -94.05158, "type": "STANDARD", "counties": [{"fips": "025", "name": "Caldwell"}, {"fips": "177", "name": "Ray"}]});

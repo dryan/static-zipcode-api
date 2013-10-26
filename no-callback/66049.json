@@ -1,1 +1,1 @@
-{"lat": 38.97583, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lawrence", "lng": -95.30399, "zip_code": "66049"}
+{"locality": "Lawrence", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lawrence"], "postal_code": "66049", "lat": 38.97583, "lng": -95.30399, "type": "STANDARD", "counties": []}

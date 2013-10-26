@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.382899, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Otto", "lng": -78.72101, "zip_code": "14729"});
+zipapicallback({"locality": "East Otto", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Otto"], "postal_code": "14729", "lat": 42.382899, "lng": -78.72101, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]});

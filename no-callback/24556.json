@@ -1,1 +1,1 @@
-{"lat": 37.361512, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Goode", "lng": -79.3981, "zip_code": "24556"}
+{"locality": "Goode", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Goode"], "postal_code": "24556", "lat": 37.361512, "lng": -79.3981, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bedford"}]}

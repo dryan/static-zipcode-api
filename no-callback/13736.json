@@ -1,1 +1,1 @@
-{"lat": 42.306877, "region": {"abbr": "NY", "name": "New York"}, "locality": "Berkshire", "lng": -76.204, "zip_code": "13736"}
+{"locality": "Berkshire", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Berkshire"], "postal_code": "13736", "lat": 42.306877, "lng": -76.204, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}, {"fips": "109", "name": "Tompkins"}, {"fips": "007", "name": "Broome"}]}

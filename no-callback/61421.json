@@ -1,1 +1,1 @@
-{"lat": 41.174037, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bradford", "lng": -89.65849, "zip_code": "61421"}
+{"locality": "Bradford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bradford"], "postal_code": "61421", "lat": 41.174037, "lng": -89.65849, "type": "STANDARD", "counties": [{"fips": "175", "name": "Stark"}, {"fips": "123", "name": "Marshall"}, {"fips": "011", "name": "Bureau"}]}

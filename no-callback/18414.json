@@ -1,1 +1,1 @@
-{"lat": 41.537933, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dalton", "lng": -75.73826, "zip_code": "18414"}
+{"locality": "Dalton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dalton", "Scott Township", "Scott Twp"], "postal_code": "18414", "lat": 41.537933, "lng": -75.73826, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}, {"fips": "131", "name": "Wyoming"}]}

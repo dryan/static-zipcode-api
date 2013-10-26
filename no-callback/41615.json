@@ -1,1 +1,1 @@
-{"lat": 37.550496, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dana", "lng": -82.6933, "zip_code": "41615"}
+{"locality": "Dana", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dana"], "postal_code": "41615", "lat": 37.550496, "lng": -82.6933, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

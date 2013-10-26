@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.191002, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Plainview", "lng": -101.72506, "zip_code": "79072"});
+zipapicallback({"locality": "Plainview", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Plainview"], "postal_code": "79072", "lat": 34.191002, "lng": -101.72506, "type": "STANDARD", "counties": [{"fips": "189", "name": "Hale"}]});

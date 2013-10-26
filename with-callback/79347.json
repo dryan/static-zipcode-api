@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.206848, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Muleshoe", "lng": -102.78511, "zip_code": "79347"});
+zipapicallback({"locality": "Muleshoe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Muleshoe"], "postal_code": "79347", "lat": 34.206848, "lng": -102.78511, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bailey"}, {"fips": "069", "name": "Castro"}, {"fips": "369", "name": "Parmer"}, {"fips": "279", "name": "Lamb"}]});

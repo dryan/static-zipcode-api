@@ -1,1 +1,1 @@
-{"lat": 33.907546, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jasper", "lng": -87.29957, "zip_code": "35503"}
+{"locality": "Jasper", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jasper"], "postal_code": "35503", "lat": 33.907546, "lng": -87.29957, "type": "STANDARD", "counties": []}

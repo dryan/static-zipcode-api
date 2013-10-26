@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.34381, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Battle Creek", "lng": -85.29136, "zip_code": "49016"});
+zipapicallback({"locality": "Battle Creek", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Battle Creek"], "postal_code": "49016", "lat": 42.34381, "lng": -85.29136, "type": "POBOX", "counties": [{"fips": "025", "name": "Calhoun"}]});

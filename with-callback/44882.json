@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.953556, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sycamore", "lng": -83.14177, "zip_code": "44882"});
+zipapicallback({"locality": "Sycamore", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sycamore"], "postal_code": "44882", "lat": 40.953556, "lng": -83.14177, "type": "STANDARD", "counties": [{"fips": "175", "name": "Wyandot"}, {"fips": "147", "name": "Seneca"}, {"fips": "033", "name": "Crawford"}]});

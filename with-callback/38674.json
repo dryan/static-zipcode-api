@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.884396, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Tiplersville", "lng": -88.89784, "zip_code": "38674"});
+zipapicallback({"locality": "Tiplersville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Tiplersville"], "postal_code": "38674", "lat": 34.884396, "lng": -88.89784, "type": "STANDARD", "counties": [{"fips": "139", "name": "Tippah"}]});

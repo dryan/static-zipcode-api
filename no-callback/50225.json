@@ -1,1 +1,1 @@
-{"lat": 41.381537, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pleasantville", "lng": -93.27056, "zip_code": "50225"}
+{"locality": "Pleasantville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pleasantville"], "postal_code": "50225", "lat": 41.381537, "lng": -93.27056, "type": "STANDARD", "counties": [{"fips": "125", "name": "Marion"}, {"fips": "181", "name": "Warren"}, {"fips": "135", "name": "Monroe"}]}

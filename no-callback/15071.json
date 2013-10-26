@@ -1,1 +1,1 @@
-{"lat": 40.420319, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Noblestown", "lng": -80.18692, "zip_code": "15071"}
+{"locality": "Oakdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Noblestown", "Oakdale"], "postal_code": "15071", "lat": 40.420319, "lng": -80.18692, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

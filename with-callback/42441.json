@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.36327, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Nebo", "lng": -87.65307, "zip_code": "42441"});
+zipapicallback({"locality": "Nebo", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Nebo"], "postal_code": "42441", "lat": 37.36327, "lng": -87.65307, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}, {"fips": "233", "name": "Webster"}]});

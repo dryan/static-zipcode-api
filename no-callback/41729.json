@@ -1,1 +1,1 @@
-{"lat": 37.266633, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Combs", "lng": -83.21226, "zip_code": "41729"}
+{"locality": "Combs", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Combs"], "postal_code": "41729", "lat": 37.266633, "lng": -83.21226, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]}

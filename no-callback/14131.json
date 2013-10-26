@@ -1,1 +1,1 @@
-{"lat": 43.237855, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ransomville", "lng": -78.90884, "zip_code": "14131"}
+{"locality": "Ransomville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ransomville"], "postal_code": "14131", "lat": 43.237855, "lng": -78.90884, "type": "STANDARD", "counties": [{"fips": "063", "name": "Niagara"}]}

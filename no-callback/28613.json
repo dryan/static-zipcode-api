@@ -1,1 +1,1 @@
-{"lat": 35.720227, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Conover", "lng": -81.21466, "zip_code": "28613"}
+{"locality": "Conover", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Conover"], "postal_code": "28613", "lat": 35.720227, "lng": -81.21466, "type": "STANDARD", "counties": [{"fips": "035", "name": "Catawba"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.299215, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Iva", "lng": -82.63812, "zip_code": "29655"}
+{"locality": "Iva", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Iva"], "postal_code": "29655", "lat": 34.299215, "lng": -82.63812, "type": "STANDARD", "counties": [{"fips": "007", "name": "Anderson"}, {"fips": "001", "name": "Abbeville"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.801302, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Smethport", "lng": -78.44419, "zip_code": "16749"});
+zipapicallback({"locality": "Smethport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Smethport"], "postal_code": "16749", "lat": 41.801302, "lng": -78.44419, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]});

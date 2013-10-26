@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.7596, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Nisula", "lng": -88.84928, "zip_code": "49952"});
+zipapicallback({"locality": "Nisula", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Nisula"], "postal_code": "49952", "lat": 46.7596, "lng": -88.84928, "type": "STANDARD", "counties": [{"fips": "061", "name": "Houghton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.708281, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Albion", "lng": -98.0246, "zip_code": "68620"});
+zipapicallback({"locality": "Albion", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Albion", "Boone"], "postal_code": "68620", "lat": 41.708281, "lng": -98.0246, "type": "STANDARD", "counties": [{"fips": "011", "name": "Boone"}, {"fips": "077", "name": "Greeley"}]});

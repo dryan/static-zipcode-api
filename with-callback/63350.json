@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.898823, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "High Hill", "lng": -91.3682, "zip_code": "63350"});
+zipapicallback({"locality": "High Hill", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["High Hill"], "postal_code": "63350", "lat": 38.898823, "lng": -91.3682, "type": "STANDARD", "counties": [{"fips": "139", "name": "Montgomery"}]});

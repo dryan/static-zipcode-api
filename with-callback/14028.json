@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.326155, "region": {"abbr": "NY", "name": "New York"}, "locality": "Burt", "lng": -78.71564, "zip_code": "14028"});
+zipapicallback({"locality": "Burt", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Burt"], "postal_code": "14028", "lat": 43.326155, "lng": -78.71564, "type": "STANDARD", "counties": [{"fips": "063", "name": "Niagara"}]});

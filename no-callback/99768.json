@@ -1,1 +1,1 @@
-{"lat": 64.737306, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Ruby", "lng": -155.48769, "zip_code": "99768"}
+{"locality": "Ruby", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ruby"], "postal_code": "99768", "lat": 64.737306, "lng": -155.48769, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]}

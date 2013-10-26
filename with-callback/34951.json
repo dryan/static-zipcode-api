@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.53831, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Pierce", "lng": -80.40526, "zip_code": "34951"});
+zipapicallback({"locality": "Fort Pierce", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Pierce"], "postal_code": "34951", "lat": 27.53831, "lng": -80.40526, "type": "STANDARD", "counties": [{"fips": "111", "name": "St. Lucie"}, {"fips": "011", "name": "Broward"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.501345, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wakefield", "lng": -71.07132, "zip_code": "01880"});
+zipapicallback({"locality": "Wakefield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wakefield"], "postal_code": "01880", "lat": 42.501345, "lng": -71.07132, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "009", "name": "Essex"}]});

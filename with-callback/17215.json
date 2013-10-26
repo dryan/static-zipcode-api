@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.079326, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Burnt Cabins", "lng": -77.90039, "zip_code": "17215"});
+zipapicallback({"locality": "Burnt Cabins", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Burnt Cabins"], "postal_code": "17215", "lat": 40.079326, "lng": -77.90039, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}, {"fips": "061", "name": "Huntingdon"}]});

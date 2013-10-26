@@ -1,1 +1,1 @@
-{"lat": 40.410155, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Skillman", "lng": -74.70726, "zip_code": "08558"}
+{"locality": "Skillman", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Skillman"], "postal_code": "08558", "lat": 40.410155, "lng": -74.70726, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]}

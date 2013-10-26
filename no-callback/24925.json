@@ -1,1 +1,1 @@
-{"lat": 37.741887, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Caldwell", "lng": -80.37481, "zip_code": "24925"}
+{"locality": "Caldwell", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Caldwell"], "postal_code": "24925", "lat": 37.741887, "lng": -80.37481, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}, {"fips": "063", "name": "Monroe"}]}

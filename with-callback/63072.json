@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.369435, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Robertsville", "lng": -90.81792, "zip_code": "63072"});
+zipapicallback({"locality": "Robertsville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Robertsville"], "postal_code": "63072", "lat": 38.369435, "lng": -90.81792, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]});

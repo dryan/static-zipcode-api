@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.118835, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Paradise", "lng": -98.91517, "zip_code": "67658"});
+zipapicallback({"locality": "Paradise", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Paradise"], "postal_code": "67658", "lat": 39.118835, "lng": -98.91517, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}, {"fips": "141", "name": "Osborne"}]});

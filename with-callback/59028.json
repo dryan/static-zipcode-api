@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.373162, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fishtail", "lng": -109.64134, "zip_code": "59028"});
+zipapicallback({"locality": "Fishtail", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fishtail"], "postal_code": "59028", "lat": 45.373162, "lng": -109.64134, "type": "STANDARD", "counties": [{"fips": "095", "name": "Stillwater"}]});

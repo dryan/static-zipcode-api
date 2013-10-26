@@ -1,1 +1,1 @@
-{"lat": 44.268332, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Benton", "lng": -96.30822, "zip_code": "56149"}
+{"locality": "Lake Benton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Benton"], "postal_code": "56149", "lat": 44.268332, "lng": -96.30822, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}, {"fips": "117", "name": "Pipestone"}]}

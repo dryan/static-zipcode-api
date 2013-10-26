@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.963608, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Benham", "lng": -82.95015, "zip_code": "40807"});
+zipapicallback({"locality": "Benham", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Benham"], "postal_code": "40807", "lat": 36.963608, "lng": -82.95015, "type": "POBOX", "counties": [{"fips": "095", "name": "Harlan"}]});

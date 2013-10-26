@@ -1,1 +1,1 @@
-{"lat": 45.200641, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Pennock", "lng": -95.17748, "zip_code": "56279"}
+{"locality": "Pennock", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Pennock"], "postal_code": "56279", "lat": 45.200641, "lng": -95.17748, "type": "STANDARD", "counties": [{"fips": "067", "name": "Kandiyohi"}]}

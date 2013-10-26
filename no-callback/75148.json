@@ -1,1 +1,1 @@
-{"lat": 32.183649, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Malakoff", "lng": -96.01862, "zip_code": "75148"}
+{"locality": "Malakoff", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Log Cabin", "Malakoff"], "postal_code": "75148", "lat": 32.183649, "lng": -96.01862, "type": "STANDARD", "counties": [{"fips": "213", "name": "Henderson"}, {"fips": "113", "name": "Dallas"}]}

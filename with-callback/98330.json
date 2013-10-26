@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.761546, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Elbe", "lng": -122.17858, "zip_code": "98330"});
+zipapicallback({"locality": "Elbe", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Elbe"], "postal_code": "98330", "lat": 46.761546, "lng": -122.17858, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}, {"fips": "041", "name": "Lewis"}]});

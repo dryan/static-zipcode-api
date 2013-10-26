@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.640464, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jacksonport", "lng": -91.30412, "zip_code": "72075"});
+zipapicallback({"locality": "Jacksonport", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Jacksonport"], "postal_code": "72075", "lat": 35.640464, "lng": -91.30412, "type": "POBOX", "counties": [{"fips": "067", "name": "Jackson"}]});

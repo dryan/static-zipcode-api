@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.18238, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Clarksburg", "lng": -74.42134, "zip_code": "08510"});
+zipapicallback({"locality": "Millstone Township", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Clarksburg", "Millstone Township", "Millstone Twp"], "postal_code": "08510", "lat": 40.18238, "lng": -74.42134, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]});

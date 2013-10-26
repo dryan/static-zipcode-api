@@ -1,1 +1,1 @@
-{"lat": 38.596199, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fairview Heights", "lng": -90.00227, "zip_code": "62208"}
+{"locality": "Fairview Heights", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["E Saint Louis", "East Saint Louis", "Fairview Heights", "Fairview Hts"], "postal_code": "62208", "lat": 38.596199, "lng": -90.00227, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.062255, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fort Littleton", "lng": -77.96308, "zip_code": "17223"});
+zipapicallback({"locality": "Fort Littleton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fort Littletn", "Fort Littleton"], "postal_code": "17223", "lat": 40.062255, "lng": -77.96308, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}]});

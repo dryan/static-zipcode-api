@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.033235, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ames", "lng": -93.66741, "zip_code": "50014"});
+zipapicallback({"locality": "Ames", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ames"], "postal_code": "50014", "lat": 42.033235, "lng": -93.66741, "type": "STANDARD", "counties": []});

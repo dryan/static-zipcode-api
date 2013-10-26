@@ -1,1 +1,1 @@
-{"lat": 32.00196, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Vail", "lng": -110.67442, "zip_code": "85641"}
+{"locality": "Vail", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Corona", "Corona De Tuc", "Corona De Tucson", "Santa Rita", "Santa Rita Foothills", "Vail"], "postal_code": "85641", "lat": 32.00196, "lng": -110.67442, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}]}

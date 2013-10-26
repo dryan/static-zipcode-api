@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.551457, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Munster", "lng": -87.50143, "zip_code": "46321"});
+zipapicallback({"locality": "Munster", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hammond", "Munster"], "postal_code": "46321", "lat": 41.551457, "lng": -87.50143, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]});

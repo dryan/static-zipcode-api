@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.964093, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Lanham", "lng": -76.85331, "zip_code": "20706"});
+zipapicallback({"locality": "Lanham", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glenarden", "Lanham", "Lanham Seabrook", "Seabrook"], "postal_code": "20706", "lat": 38.964093, "lng": -76.85331, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

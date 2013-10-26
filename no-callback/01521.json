@@ -1,1 +1,1 @@
-{"lat": 42.054676, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Holland", "lng": -72.16137, "zip_code": "01521"}
+{"locality": "Holland", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Fiskdale", "Holland"], "postal_code": "01521", "lat": 42.054676, "lng": -72.16137, "type": "STANDARD", "counties": []}

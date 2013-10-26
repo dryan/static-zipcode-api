@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.260283, "region": {"abbr": "NY", "name": "New York"}, "locality": "Buchanan", "lng": -73.94033, "zip_code": "10511"});
+zipapicallback({"locality": "Buchanan", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buchanan"], "postal_code": "10511", "lat": 41.260283, "lng": -73.94033, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

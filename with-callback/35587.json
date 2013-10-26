@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.807412, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Townley", "lng": -87.446, "zip_code": "35587"});
+zipapicallback({"locality": "Townley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Townley"], "postal_code": "35587", "lat": 33.807412, "lng": -87.446, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walker"}]});

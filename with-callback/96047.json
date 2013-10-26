@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.472993, "region": {"abbr": "CA", "name": "California"}, "locality": "Igo", "lng": -122.63707, "zip_code": "96047"});
+zipapicallback({"locality": "Igo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Igo", "Ono"], "postal_code": "96047", "lat": 40.472993, "lng": -122.63707, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]});

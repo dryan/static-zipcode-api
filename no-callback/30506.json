@@ -1,1 +1,1 @@
-{"lat": 34.346102, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Gainesville", "lng": -83.901, "zip_code": "30506"}
+{"locality": "Gainesville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Gainesville"], "postal_code": "30506", "lat": 34.346102, "lng": -83.901, "type": "STANDARD", "counties": [{"fips": "139", "name": "Hall"}, {"fips": "117", "name": "Forsyth"}]}

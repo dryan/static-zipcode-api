@@ -1,1 +1,1 @@
-{"lat": 32.488113, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Prattville", "lng": -86.52962, "zip_code": "36067"}
+{"locality": "Prattville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Prattville"], "postal_code": "36067", "lat": 32.488113, "lng": -86.52962, "type": "STANDARD", "counties": [{"fips": "001", "name": "Autauga"}, {"fips": "051", "name": "Elmore"}]}

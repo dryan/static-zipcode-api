@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.328336, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Gays Creek", "lng": -83.4399, "zip_code": "41745"});
+zipapicallback({"locality": "Gays Creek", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gays Creek"], "postal_code": "41745", "lat": 37.328336, "lng": -83.4399, "type": "STANDARD", "counties": [{"fips": "025", "name": "Breathitt"}, {"fips": "193", "name": "Perry"}]});

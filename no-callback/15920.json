@@ -1,1 +1,1 @@
-{"lat": 40.460191, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Armagh", "lng": -79.04608, "zip_code": "15920"}
+{"locality": "Armagh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Armagh"], "postal_code": "15920", "lat": 40.460191, "lng": -79.04608, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}]}

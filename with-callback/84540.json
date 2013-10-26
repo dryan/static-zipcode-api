@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.210907, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Thompson", "lng": -109.44491, "zip_code": "84540"});
+zipapicallback({"locality": "Thompson", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Green River", "Thompson"], "postal_code": "84540", "lat": 39.210907, "lng": -109.44491, "type": "STANDARD", "counties": [{"fips": "019", "name": "Grand"}]});

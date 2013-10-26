@@ -1,1 +1,1 @@
-{"lat": 45.792399, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Norway", "lng": -87.90824, "zip_code": "49870"}
+{"locality": "Norway", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Norway"], "postal_code": "49870", "lat": 45.792399, "lng": -87.90824, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickinson"}]}

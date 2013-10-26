@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.287405, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Argyle", "lng": -92.02352, "zip_code": "65001"});
+zipapicallback({"locality": "Argyle", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Argyle"], "postal_code": "65001", "lat": 38.287405, "lng": -92.02352, "type": "STANDARD", "counties": [{"fips": "151", "name": "Osage"}, {"fips": "125", "name": "Maries"}]});

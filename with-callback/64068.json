@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.246179, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pleasant Valley", "lng": -94.41763, "zip_code": "64068"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Liberty", "Pleasant Valley", "Pleasant Vly"], "postal_code": "64068", "lat": 39.246179, "lng": -94.41763, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}]});

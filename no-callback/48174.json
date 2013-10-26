@@ -1,1 +1,1 @@
-{"lat": 42.212372, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Romulus", "lng": -83.37223, "zip_code": "48174"}
+{"locality": "Romulus", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Brownstown", "Brownstown Township", "Brownstown Twp", "Brownstwn Twp", "Romulus"], "postal_code": "48174", "lat": 42.212372, "lng": -83.37223, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.37427, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Cedar Grove", "lng": -84.91113, "zip_code": "47016"});
+zipapicallback({"locality": "Cedar Grove", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Cedar Grove"], "postal_code": "47016", "lat": 39.37427, "lng": -84.91113, "type": "STANDARD", "counties": [{"fips": "047", "name": "Franklin"}]});

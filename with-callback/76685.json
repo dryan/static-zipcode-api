@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.35797, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Satin", "lng": -97.02091, "zip_code": "76685"});
+zipapicallback({"locality": "Satin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Satin"], "postal_code": "76685", "lat": 31.35797, "lng": -97.02091, "type": "POBOX", "counties": [{"fips": "145", "name": "Falls"}]});

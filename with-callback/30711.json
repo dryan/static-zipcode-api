@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.93882, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Crandall", "lng": -84.76558, "zip_code": "30711"});
+zipapicallback({"locality": "Crandall", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Crandall"], "postal_code": "30711", "lat": 34.93882, "lng": -84.76558, "type": "STANDARD", "counties": [{"fips": "213", "name": "Murray"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.519724, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Booneville", "lng": -93.90483, "zip_code": "50038"});
+zipapicallback({"locality": "Booneville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Booneville"], "postal_code": "50038", "lat": 41.519724, "lng": -93.90483, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]});

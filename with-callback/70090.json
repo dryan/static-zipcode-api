@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.979997, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Vacherie", "lng": -90.71178, "zip_code": "70090"});
+zipapicallback({"locality": "Vacherie", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Vacherie"], "postal_code": "70090", "lat": 29.979997, "lng": -90.71178, "type": "STANDARD", "counties": [{"fips": "093", "name": "St. James"}]});

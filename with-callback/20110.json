@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.752269, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Manassas", "lng": -77.47694, "zip_code": "20110"});
+zipapicallback({"locality": "Manassas", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Manassas"], "postal_code": "20110", "lat": 38.752269, "lng": -77.47694, "type": "STANDARD", "counties": []});

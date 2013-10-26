@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.093271, "region": {"abbr": "CA", "name": "California"}, "locality": "Homewood", "lng": -120.16325, "zip_code": "96141"});
+zipapicallback({"locality": "Homewood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Homewood"], "postal_code": "96141", "lat": 39.093271, "lng": -120.16325, "type": "POBOX", "counties": []});

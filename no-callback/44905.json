@@ -1,1 +1,1 @@
-{"lat": 40.773556, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lincoln", "lng": -82.47612, "zip_code": "44905"}
+{"locality": "Mansfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mansfield"], "postal_code": "44905", "lat": 40.773556, "lng": -82.47612, "type": "STANDARD", "counties": [{"fips": "139", "name": "Richland"}]}

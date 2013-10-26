@@ -1,1 +1,1 @@
-{"lat": 42.114195, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Whitinsville", "lng": -71.67225, "zip_code": "01588"}
+{"locality": "Whitinsville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Linwood", "Whitinsville"], "postal_code": "01588", "lat": 42.114195, "lng": -71.67225, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

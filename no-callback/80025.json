@@ -1,1 +1,1 @@
-{"lat": 39.92926, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Eldorado Springs", "lng": -105.28863, "zip_code": "80025"}
+{"locality": "Eldorado Springs", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Eldorado Sprg", "Eldorado Springs"], "postal_code": "80025", "lat": 39.92926, "lng": -105.28863, "type": "POBOX", "counties": [{"fips": "013", "name": "Boulder"}]}

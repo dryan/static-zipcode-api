@@ -1,1 +1,1 @@
-{"lat": 41.900204, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mechanicsville", "lng": -91.25428, "zip_code": "52306"}
+{"locality": "Mechanicsville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mechanicsville", "Mechanicsvlle"], "postal_code": "52306", "lat": 41.900204, "lng": -91.25428, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cedar"}]}

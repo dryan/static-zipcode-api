@@ -1,1 +1,1 @@
-{"lat": 35.511094, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Waynesville", "lng": -82.99607, "zip_code": "28786"}
+{"locality": "Waynesville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hazelwood", "Waynesville"], "postal_code": "28786", "lat": 35.511094, "lng": -82.99607, "type": "STANDARD", "counties": [{"fips": "087", "name": "Haywood"}]}

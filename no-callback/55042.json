@@ -1,1 +1,1 @@
-{"lat": 44.999023, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Elmo", "lng": -92.90939, "zip_code": "55042"}
+{"locality": "Lake Elmo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Elmo"], "postal_code": "55042", "lat": 44.999023, "lng": -92.90939, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]}

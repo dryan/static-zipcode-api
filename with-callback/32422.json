@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.716494, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Argyle", "lng": -86.03889, "zip_code": "32422"});
+zipapicallback({"locality": "Argyle", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Argyle"], "postal_code": "32422", "lat": 30.716494, "lng": -86.03889, "type": "POBOX", "counties": [{"fips": "131", "name": "Walton"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.393237, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Terre Haute", "lng": -87.3977, "zip_code": "47802"}
+{"locality": "Terre Haute", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Terre Haute"], "postal_code": "47802", "lat": 39.393237, "lng": -87.3977, "type": "STANDARD", "counties": [{"fips": "167", "name": "Vigo"}, {"fips": "021", "name": "Clay"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.27936, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Loving", "lng": -103.98784, "zip_code": "88256"});
+zipapicallback({"locality": "Loving", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Loving"], "postal_code": "88256", "lat": 32.27936, "lng": -103.98784, "type": "STANDARD", "counties": [{"fips": "015", "name": "Eddy"}]});

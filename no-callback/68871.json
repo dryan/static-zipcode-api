@@ -1,1 +1,1 @@
-{"lat": 41.121028, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Rockville", "lng": -98.82619, "zip_code": "68871"}
+{"locality": "Rockville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Rockville"], "postal_code": "68871", "lat": 41.121028, "lng": -98.82619, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sherman"}]}

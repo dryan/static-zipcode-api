@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.624592, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Orefield", "lng": -75.60728, "zip_code": "18069"});
+zipapicallback({"locality": "Orefield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Orefield"], "postal_code": "18069", "lat": 40.624592, "lng": -75.60728, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]});

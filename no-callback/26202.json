@@ -1,1 +1,1 @@
-{"lat": 38.224393, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Fenwick", "lng": -80.61391, "zip_code": "26202"}
+{"locality": "Fenwick", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Fenwick"], "postal_code": "26202", "lat": 38.224393, "lng": -80.61391, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}]}

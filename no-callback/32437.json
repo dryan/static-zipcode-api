@@ -1,1 +1,1 @@
-{"lat": 30.443152, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ebro", "lng": -85.88079, "zip_code": "32437"}
+{"locality": "Ebro", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ebro"], "postal_code": "32437", "lat": 30.443152, "lng": -85.88079, "type": "STANDARD", "counties": [{"fips": "133", "name": "Washington"}]}

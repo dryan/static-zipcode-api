@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.74209, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Loco Hills", "lng": -103.96139, "zip_code": "88255"});
+zipapicallback({"locality": "Loco Hills", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Loco Hills"], "postal_code": "88255", "lat": 32.74209, "lng": -103.96139, "type": "POBOX", "counties": [{"fips": "015", "name": "Eddy"}]});

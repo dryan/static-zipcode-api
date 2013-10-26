@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.347058, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Hillsboro", "lng": -97.21489, "zip_code": "67063"});
+zipapicallback({"locality": "Hillsboro", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hillsboro"], "postal_code": "67063", "lat": 38.347058, "lng": -97.21489, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]});

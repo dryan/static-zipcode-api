@@ -1,1 +1,1 @@
-{"lat": 41.874847, "region": {"abbr": "CA", "name": "California"}, "locality": "Tulelake", "lng": -121.43738, "zip_code": "96134"}
+{"locality": "Tulelake", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Newell", "Tionesta", "Tulelake"], "postal_code": "96134", "lat": 41.874847, "lng": -121.43738, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}, {"fips": "093", "name": "Siskiyou"}]}

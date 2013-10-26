@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.411513, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hamlet", "lng": -86.61127, "zip_code": "46532"});
+zipapicallback({"locality": "Hamlet", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hamlet"], "postal_code": "46532", "lat": 41.411513, "lng": -86.61127, "type": "STANDARD", "counties": [{"fips": "149", "name": "Starke"}, {"fips": "091", "name": "La Porte"}]});

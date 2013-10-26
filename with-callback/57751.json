@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.892254, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Keystone", "lng": -103.41721, "zip_code": "57751"});
+zipapicallback({"locality": "Keystone", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Keystone"], "postal_code": "57751", "lat": 43.892254, "lng": -103.41721, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pennington"}]});

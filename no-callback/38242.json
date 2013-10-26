@@ -1,1 +1,1 @@
-{"lat": 36.300311, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Paris", "lng": -88.32891, "zip_code": "38242"}
+{"locality": "Paris", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Paris"], "postal_code": "38242", "lat": 36.300311, "lng": -88.32891, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

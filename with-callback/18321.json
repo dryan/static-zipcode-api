@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.012235, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bartonsville", "lng": -75.29039, "zip_code": "18321"});
+zipapicallback({"locality": "Bartonsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bartonsville"], "postal_code": "18321", "lat": 41.012235, "lng": -75.29039, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

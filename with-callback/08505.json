@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.132784, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bordentown", "lng": -74.71778, "zip_code": "08505"});
+zipapicallback({"locality": "Bordentown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bordentown", "Fieldsboro"], "postal_code": "08505", "lat": 40.132784, "lng": -74.71778, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.03664, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cedar Creek", "lng": -96.10884, "zip_code": "68016"}
+{"locality": "Cedar Creek", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cedar Creek"], "postal_code": "68016", "lat": 41.03664, "lng": -96.10884, "type": "POBOX", "counties": [{"fips": "025", "name": "Cass"}]}

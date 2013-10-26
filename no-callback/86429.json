@@ -1,1 +1,1 @@
-{"lat": 35.172854, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Bullhead City", "lng": -114.54696, "zip_code": "86429"}
+{"locality": "Bullhead City", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bullhead City"], "postal_code": "86429", "lat": 35.172854, "lng": -114.54696, "type": "STANDARD", "counties": []}

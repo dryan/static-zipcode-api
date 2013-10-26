@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.122239, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Pioche", "lng": -114.40318, "zip_code": "89043"});
+zipapicallback({"locality": "Pioche", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Pioche"], "postal_code": "89043", "lat": 38.122239, "lng": -114.40318, "type": "STANDARD", "counties": [{"fips": "017", "name": "Lincoln"}]});

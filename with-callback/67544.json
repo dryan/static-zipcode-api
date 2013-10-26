@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.562172, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Susank", "lng": -98.76647, "zip_code": "67544"});
+zipapicallback({"locality": "Hoisington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hoisington", "Susank"], "postal_code": "67544", "lat": 38.562172, "lng": -98.76647, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barton"}, {"fips": "167", "name": "Russell"}]});

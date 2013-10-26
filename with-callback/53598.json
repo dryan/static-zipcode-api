@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.21352, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Windsor", "lng": -89.34203, "zip_code": "53598"});
+zipapicallback({"locality": "Windsor", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Windsor"], "postal_code": "53598", "lat": 43.21352, "lng": -89.34203, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}]});

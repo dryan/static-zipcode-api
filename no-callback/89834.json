@@ -1,1 +1,1 @@
-{"lat": 41.328852, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Tuscarora", "lng": -116.12251, "zip_code": "89834"}
+{"locality": "Tuscarora", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Tuscarora"], "postal_code": "89834", "lat": 41.328852, "lng": -116.12251, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]}

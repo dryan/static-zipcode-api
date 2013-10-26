@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.400799, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Radnor", "lng": -83.15216, "zip_code": "43066"});
+zipapicallback({"locality": "Radnor", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Radnor"], "postal_code": "43066", "lat": 40.400799, "lng": -83.15216, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delaware"}, {"fips": "159", "name": "Union"}]});

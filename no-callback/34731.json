@@ -1,1 +1,1 @@
-{"lat": 28.859765, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fruitland Park", "lng": -81.90184, "zip_code": "34731"}
+{"locality": "Fruitland Park", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fruitland Park", "Fruitland Pk"], "postal_code": "34731", "lat": 28.859765, "lng": -81.90184, "type": "STANDARD", "counties": []}

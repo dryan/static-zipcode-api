@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.963063, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wayzata", "lng": -93.52912, "zip_code": "55391"});
+zipapicallback({"locality": "Wayzata", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wayzata"], "postal_code": "55391", "lat": 44.963063, "lng": -93.52912, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]});

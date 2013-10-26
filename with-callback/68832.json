@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.763643, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Doniphan", "lng": -98.38794, "zip_code": "68832"});
+zipapicallback({"locality": "Doniphan", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Doniphan"], "postal_code": "68832", "lat": 40.763643, "lng": -98.38794, "type": "STANDARD", "counties": [{"fips": "079", "name": "Hall"}, {"fips": "081", "name": "Hamilton"}]});

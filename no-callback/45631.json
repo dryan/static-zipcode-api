@@ -1,1 +1,1 @@
-{"lat": 38.825478, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gallipolis", "lng": -82.22755, "zip_code": "45631"}
+{"locality": "Gallipolis", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Gallipolis"], "postal_code": "45631", "lat": 38.825478, "lng": -82.22755, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gallia"}]}

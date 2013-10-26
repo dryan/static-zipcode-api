@@ -1,1 +1,1 @@
-{"lat": 46.606751, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Gold Creek", "lng": -112.97866, "zip_code": "59733"}
+{"locality": "Gold Creek", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Gold Creek"], "postal_code": "59733", "lat": 46.606751, "lng": -112.97866, "type": "STANDARD", "counties": [{"fips": "077", "name": "Powell"}]}

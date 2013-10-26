@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.297285, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Auburn", "lng": -122.16328, "zip_code": "98092"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Auburn"], "postal_code": "98092", "lat": 47.297285, "lng": -122.16328, "type": "STANDARD", "counties": []});

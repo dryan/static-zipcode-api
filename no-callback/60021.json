@@ -1,1 +1,1 @@
-{"lat": 42.194946, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fox River Grove", "lng": -88.21676, "zip_code": "60021"}
+{"locality": "Fox River Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fox River Grove", "Fox River Grv"], "postal_code": "60021", "lat": 42.194946, "lng": -88.21676, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}]}

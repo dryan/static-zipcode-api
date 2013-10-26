@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.26974, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Arona", "lng": -79.66042, "zip_code": "15617"});
+zipapicallback({"locality": "Arona", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Arona"], "postal_code": "15617", "lat": 40.26974, "lng": -79.66042, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

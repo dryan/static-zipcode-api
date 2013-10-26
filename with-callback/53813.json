@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.847591, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lancaster", "lng": -90.70167, "zip_code": "53813"});
+zipapicallback({"locality": "Lancaster", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lancaster"], "postal_code": "53813", "lat": 42.847591, "lng": -90.70167, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}]});

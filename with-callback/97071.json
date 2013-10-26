@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.144415, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Woodburn", "lng": -122.84521, "zip_code": "97071"});
+zipapicallback({"locality": "Woodburn", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Woodburn"], "postal_code": "97071", "lat": 45.144415, "lng": -122.84521, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}, {"fips": "005", "name": "Clackamas"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.618547, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Austin", "lng": -111.88908, "zip_code": "84754"}
+{"locality": "Monroe", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Austin", "Central Valley", "Central Vly", "Monroe"], "postal_code": "84754", "lat": 38.618547, "lng": -111.88908, "type": "STANDARD", "counties": [{"fips": "041", "name": "Sevier"}]}

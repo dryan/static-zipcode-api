@@ -1,1 +1,1 @@
-{"lat": 42.778924, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Westgate", "lng": -92.00735, "zip_code": "50681"}
+{"locality": "Westgate", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Westgate"], "postal_code": "50681", "lat": 42.778924, "lng": -92.00735, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]}

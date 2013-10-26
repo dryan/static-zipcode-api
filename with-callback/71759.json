@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.323051, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Norphlet", "lng": -92.66095, "zip_code": "71759"});
+zipapicallback({"locality": "Norphlet", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Norphlet"], "postal_code": "71759", "lat": 33.323051, "lng": -92.66095, "type": "POBOX", "counties": [{"fips": "139", "name": "Union"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.844129, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Larson", "lng": -102.80485, "zip_code": "58727"}
+{"locality": "Columbus", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Columbus", "Larson"], "postal_code": "58727", "lat": 48.844129, "lng": -102.80485, "type": "STANDARD", "counties": [{"fips": "013", "name": "Burke"}]}

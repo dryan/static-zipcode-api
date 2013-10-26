@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.188136, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Catoosa", "lng": -95.73199, "zip_code": "74015"});
+zipapicallback({"locality": "Catoosa", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Catoosa", "Fair Oaks"], "postal_code": "74015", "lat": 36.188136, "lng": -95.73199, "type": "STANDARD", "counties": [{"fips": "131", "name": "Rogers"}, {"fips": "145", "name": "Wagoner"}]});

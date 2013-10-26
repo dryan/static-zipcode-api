@@ -1,1 +1,1 @@
-{"lat": 39.768134, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cameron", "lng": -80.94455, "zip_code": "43914"}
+{"locality": "Cameron", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cameron"], "postal_code": "43914", "lat": 39.768134, "lng": -80.94455, "type": "POBOX", "counties": [{"fips": "111", "name": "Monroe"}]}

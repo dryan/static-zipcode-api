@@ -1,1 +1,1 @@
-{"lat": 39.823946, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Prairie View", "lng": -99.56002, "zip_code": "67664"}
+{"locality": "Prairie View", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Prairie View"], "postal_code": "67664", "lat": 39.823946, "lng": -99.56002, "type": "STANDARD", "counties": [{"fips": "147", "name": "Phillips"}, {"fips": "137", "name": "Norton"}]}

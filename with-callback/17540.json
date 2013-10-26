@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.096346, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Leola", "lng": -76.19007, "zip_code": "17540"});
+zipapicallback({"locality": "Leola", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leola"], "postal_code": "17540", "lat": 40.096346, "lng": -76.19007, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

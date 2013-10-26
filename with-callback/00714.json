@@ -1,1 +1,1 @@
-zipapicallback({"lat": 17.987288, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Arroyo", "lng": -66.05552, "zip_code": "00714"});
+zipapicallback({"locality": "Arroyo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Arroyo"], "postal_code": "00714", "lat": 17.987288, "lng": -66.05552, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.159654, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Encampment", "lng": -106.66284, "zip_code": "82325"});
+zipapicallback({"locality": "Encampment", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Encampment", "Riverside"], "postal_code": "82325", "lat": 41.159654, "lng": -106.66284, "type": "STANDARD", "counties": [{"fips": "007", "name": "Carbon"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.434204, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Tucker", "lng": -91.98585, "zip_code": "72168"});
+zipapicallback({"locality": "Tucker", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Tucker"], "postal_code": "72168", "lat": 34.434204, "lng": -91.98585, "type": "STANDARD", "counties": [{"fips": "069", "name": "Jefferson"}]});

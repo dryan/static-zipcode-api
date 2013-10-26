@@ -1,1 +1,1 @@
-{"lat": 39.516668, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Holliday", "lng": -92.13198, "zip_code": "65258"}
+{"locality": "Holliday", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Holliday"], "postal_code": "65258", "lat": 39.516668, "lng": -92.13198, "type": "STANDARD", "counties": [{"fips": "137", "name": "Monroe"}]}

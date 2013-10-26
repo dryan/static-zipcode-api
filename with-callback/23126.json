@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.902954, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Newtown", "lng": -77.14586, "zip_code": "23126"});
+zipapicallback({"locality": "Newtown", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Newtown"], "postal_code": "23126", "lat": 37.902954, "lng": -77.14586, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]});

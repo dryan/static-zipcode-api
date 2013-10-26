@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.879242, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Palmyra", "lng": -88.58987, "zip_code": "53156"});
+zipapicallback({"locality": "Palmyra", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Palmyra"], "postal_code": "53156", "lat": 42.879242, "lng": -88.58987, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}]});

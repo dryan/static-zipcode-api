@@ -1,1 +1,1 @@
-{"lat": 39.25287, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hazel Dell", "lng": -88.13528, "zip_code": "62428"}
+{"locality": "Greenup", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Greenup", "Hazel Dell"], "postal_code": "62428", "lat": 39.25287, "lng": -88.13528, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cumberland"}, {"fips": "079", "name": "Jasper"}, {"fips": "029", "name": "Coles"}]}

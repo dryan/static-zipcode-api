@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.65026, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Royalton", "lng": -82.94544, "zip_code": "41464"});
+zipapicallback({"locality": "Royalton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gypsy", "Royalton"], "postal_code": "41464", "lat": 37.65026, "lng": -82.94544, "type": "STANDARD", "counties": [{"fips": "153", "name": "Magoffin"}]});

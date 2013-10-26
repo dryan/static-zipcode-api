@@ -1,1 +1,1 @@
-{"lat": 31.685153, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Zephyr", "lng": -98.77741, "zip_code": "76890"}
+{"locality": "Zephyr", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Zephyr"], "postal_code": "76890", "lat": 31.685153, "lng": -98.77741, "type": "STANDARD", "counties": [{"fips": "049", "name": "Brown"}, {"fips": "333", "name": "Mills"}, {"fips": "093", "name": "Comanche"}]}

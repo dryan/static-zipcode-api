@@ -1,1 +1,1 @@
-{"lat": 44.926644, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Salem", "lng": -122.98694, "zip_code": "97301"}
+{"locality": "Salem", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Salem"], "postal_code": "97301", "lat": 44.926644, "lng": -122.98694, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}]}

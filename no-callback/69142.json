@@ -1,1 +1,1 @@
-{"lat": 41.931243, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Halsey", "lng": -100.27285, "zip_code": "69142"}
+{"locality": "Halsey", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Halsey"], "postal_code": "69142", "lat": 41.931243, "lng": -100.27285, "type": "STANDARD", "counties": [{"fips": "171", "name": "Thomas"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.300573, "region": {"abbr": "CA", "name": "California"}, "locality": "Orleans", "lng": -123.54411, "zip_code": "95556"}
+{"locality": "Orleans", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orleans"], "postal_code": "95556", "lat": 41.300573, "lng": -123.54411, "type": "POBOX", "counties": [{"fips": "023", "name": "Humboldt"}]}

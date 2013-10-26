@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.70062, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Prescott", "lng": -112.63753, "zip_code": "86305"});
+zipapicallback({"locality": "Prescott", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Iron Springs", "Prescott"], "postal_code": "86305", "lat": 34.70062, "lng": -112.63753, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 26.681122, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cape Coral", "lng": -82.01319, "zip_code": "33993"}
+{"locality": "Cape Coral", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cape Coral", "Fort Myers", "Matlacha"], "postal_code": "33993", "lat": 26.681122, "lng": -82.01319, "type": "STANDARD", "counties": []}

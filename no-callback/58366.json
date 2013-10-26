@@ -1,1 +1,1 @@
-{"lat": 48.653781, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Nanson", "lng": -99.91768, "zip_code": "58366"}
+{"locality": "Rolette", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Nanson", "Rolette"], "postal_code": "58366", "lat": 48.653781, "lng": -99.91768, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rolette"}, {"fips": "069", "name": "Pierce"}]}

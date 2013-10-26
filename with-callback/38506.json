@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.177831, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cookeville", "lng": -85.46238, "zip_code": "38506"});
+zipapicallback({"locality": "Cookeville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cookeville"], "postal_code": "38506", "lat": 36.177831, "lng": -85.46238, "type": "STANDARD", "counties": []});

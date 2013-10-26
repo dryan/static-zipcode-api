@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.60599, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lehigh Acres", "lng": -81.70296, "zip_code": "33971"});
+zipapicallback({"locality": "Lehigh Acres", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lehigh Acres"], "postal_code": "33971", "lat": 26.60599, "lng": -81.70296, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}]});

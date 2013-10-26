@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.530639, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Snoqualmie", "lng": -121.83053, "zip_code": "98065"});
+zipapicallback({"locality": "Snoqualmie", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Snoqualmie"], "postal_code": "98065", "lat": 47.530639, "lng": -121.83053, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

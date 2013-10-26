@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.0645, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Southfield", "lng": -73.24674, "zip_code": "01259"});
+zipapicallback({"locality": "Southfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Southfield"], "postal_code": "01259", "lat": 42.0645, "lng": -73.24674, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]});

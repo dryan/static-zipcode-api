@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.104789, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lupton City", "lng": -85.26415, "zip_code": "37351"});
+zipapicallback({"locality": "Lupton City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lupton City"], "postal_code": "37351", "lat": 35.104789, "lng": -85.26415, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]});

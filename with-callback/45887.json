@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.711394, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Spencerville", "lng": -84.35509, "zip_code": "45887"});
+zipapicallback({"locality": "Spencerville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Spencerville"], "postal_code": "45887", "lat": 40.711394, "lng": -84.35509, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}, {"fips": "161", "name": "Van Wert"}]});

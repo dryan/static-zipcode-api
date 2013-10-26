@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.282346, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Curryville", "lng": -78.34748, "zip_code": "16631"});
+zipapicallback({"locality": "Curryville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Curryville"], "postal_code": "16631", "lat": 40.282346, "lng": -78.34748, "type": "POBOX", "counties": [{"fips": "013", "name": "Blair"}]});

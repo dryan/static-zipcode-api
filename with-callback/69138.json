@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.952436, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gothenburg", "lng": -100.15719, "zip_code": "69138"});
+zipapicallback({"locality": "Gothenburg", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gothenburg"], "postal_code": "69138", "lat": 40.952436, "lng": -100.15719, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dawson"}, {"fips": "041", "name": "Custer"}, {"fips": "111", "name": "Lincoln"}]});

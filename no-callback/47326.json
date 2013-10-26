@@ -1,1 +1,1 @@
-{"lat": 40.548194, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bryant", "lng": -84.96724, "zip_code": "47326"}
+{"locality": "Bryant", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bryant"], "postal_code": "47326", "lat": 40.548194, "lng": -84.96724, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jay"}]}

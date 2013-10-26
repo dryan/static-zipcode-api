@@ -1,1 +1,1 @@
-{"lat": 39.807695, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "West Berlin", "lng": -74.93392, "zip_code": "08091"}
+{"locality": "West Berlin", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Berlin Township", "Berlin Twp", "West Berlin"], "postal_code": "08091", "lat": 39.807695, "lng": -74.93392, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

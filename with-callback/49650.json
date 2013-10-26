@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.725887, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lake Ann", "lng": -85.85676, "zip_code": "49650"});
+zipapicallback({"locality": "Lake Ann", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lake Ann"], "postal_code": "49650", "lat": 44.725887, "lng": -85.85676, "type": "STANDARD", "counties": [{"fips": "019", "name": "Benzie"}]});

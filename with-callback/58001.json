@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.448462, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Abercrombie", "lng": -96.73165, "zip_code": "58001"});
+zipapicallback({"locality": "Abercrombie", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Abercrombie"], "postal_code": "58001", "lat": 46.448462, "lng": -96.73165, "type": "POBOX", "counties": [{"fips": "077", "name": "Richland"}]});

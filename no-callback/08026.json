@@ -1,1 +1,1 @@
-{"lat": 39.833847, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Gibbsboro", "lng": -74.96899, "zip_code": "08026"}
+{"locality": "Gibbsboro", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Gibbsboro"], "postal_code": "08026", "lat": 39.833847, "lng": -74.96899, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

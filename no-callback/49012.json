@@ -1,1 +1,1 @@
-{"lat": 42.347289, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Augusta", "lng": -85.35242, "zip_code": "49012"}
+{"locality": "Augusta", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Augusta"], "postal_code": "49012", "lat": 42.347289, "lng": -85.35242, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}]}

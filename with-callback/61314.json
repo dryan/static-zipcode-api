@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.310471, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Buda", "lng": -89.67662, "zip_code": "61314"});
+zipapicallback({"locality": "Buda", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Buda"], "postal_code": "61314", "lat": 41.310471, "lng": -89.67662, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}, {"fips": "175", "name": "Stark"}]});

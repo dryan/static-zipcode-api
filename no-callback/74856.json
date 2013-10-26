@@ -1,1 +1,1 @@
-{"lat": 34.395266, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mill Creek", "lng": -96.81667, "zip_code": "74856"}
+{"locality": "Mill Creek", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mill Creek"], "postal_code": "74856", "lat": 34.395266, "lng": -96.81667, "type": "STANDARD", "counties": [{"fips": "069", "name": "Johnston"}, {"fips": "099", "name": "Murray"}]}

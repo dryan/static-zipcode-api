@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.521297, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sneedville", "lng": -83.22818, "zip_code": "37869"});
+zipapicallback({"locality": "Sneedville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sneedville"], "postal_code": "37869", "lat": 36.521297, "lng": -83.22818, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}, {"fips": "025", "name": "Claiborne"}, {"fips": "073", "name": "Hawkins"}]});

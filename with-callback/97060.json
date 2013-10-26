@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.529551, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Troutdale", "lng": -122.39156, "zip_code": "97060"});
+zipapicallback({"locality": "Troutdale", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Troutdale", "Wood Village"], "postal_code": "97060", "lat": 45.529551, "lng": -122.39156, "type": "STANDARD", "counties": [{"fips": "051", "name": "Multnomah"}]});

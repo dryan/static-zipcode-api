@@ -1,1 +1,1 @@
-{"lat": 39.931666, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Chula", "lng": -93.45736, "zip_code": "64635"}
+{"locality": "Chula", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Chula"], "postal_code": "64635", "lat": 39.931666, "lng": -93.45736, "type": "STANDARD", "counties": [{"fips": "117", "name": "Livingston"}, {"fips": "115", "name": "Linn"}, {"fips": "079", "name": "Grundy"}]}

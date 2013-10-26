@@ -1,1 +1,1 @@
-{"lat": 38.671662, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Huttonsville", "lng": -79.98029, "zip_code": "26273"}
+{"locality": "Huttonsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Huttonsville"], "postal_code": "26273", "lat": 38.671662, "lng": -79.98029, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}]}

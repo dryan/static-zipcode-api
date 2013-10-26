@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.609313, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Florence", "lng": -92.97655, "zip_code": "65329"});
+zipapicallback({"locality": "Florence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Florence"], "postal_code": "65329", "lat": 38.609313, "lng": -92.97655, "type": "STANDARD", "counties": [{"fips": "141", "name": "Morgan"}]});

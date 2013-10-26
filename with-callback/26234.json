@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.792214, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rock Cave", "lng": -80.3159, "zip_code": "26234"});
+zipapicallback({"locality": "Rock Cave", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rock Cave"], "postal_code": "26234", "lat": 38.792214, "lng": -80.3159, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}, {"fips": "101", "name": "Webster"}]});

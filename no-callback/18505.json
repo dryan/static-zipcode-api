@@ -1,1 +1,1 @@
-{"lat": 41.39208, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Scranton", "lng": -75.66603, "zip_code": "18505"}
+{"locality": "Scranton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Scranton"], "postal_code": "18505", "lat": 41.39208, "lng": -75.66603, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]}

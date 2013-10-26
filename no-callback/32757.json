@@ -1,1 +1,1 @@
-{"lat": 28.786272, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Mount Dora", "lng": -81.64475, "zip_code": "32757"}
+{"locality": "Mount Dora", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mount Dora"], "postal_code": "32757", "lat": 28.786272, "lng": -81.64475, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lake"}, {"fips": "095", "name": "Orange"}]}

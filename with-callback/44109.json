@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.448951, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cleveland", "lng": -81.70342, "zip_code": "44109"});
+zipapicallback({"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland"], "postal_code": "44109", "lat": 41.448951, "lng": -81.70342, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

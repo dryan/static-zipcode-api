@@ -1,1 +1,1 @@
-{"lat": 39.639487, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bethany", "lng": -88.74383, "zip_code": "61914"}
+{"locality": "Bethany", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bethany"], "postal_code": "61914", "lat": 39.639487, "lng": -88.74383, "type": "STANDARD", "counties": [{"fips": "139", "name": "Moultrie"}]}

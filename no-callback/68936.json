@@ -1,1 +1,1 @@
-{"lat": 40.310905, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Edison", "lng": -99.7648, "zip_code": "68936"}
+{"locality": "Edison", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Edison"], "postal_code": "68936", "lat": 40.310905, "lng": -99.7648, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}, {"fips": "077", "name": "Greeley"}]}

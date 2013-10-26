@@ -1,1 +1,1 @@
-{"lat": 36.167573, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mansfield", "lng": -88.26817, "zip_code": "38236"}
+{"locality": "Mansfield", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mansfield"], "postal_code": "38236", "lat": 36.167573, "lng": -88.26817, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

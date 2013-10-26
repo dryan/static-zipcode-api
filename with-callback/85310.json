@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.701173, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Glendale", "lng": -112.17614, "zip_code": "85310"});
+zipapicallback({"locality": "Glendale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Glendale"], "postal_code": "85310", "lat": 33.701173, "lng": -112.17614, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.28867, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Laotto", "lng": -85.22236, "zip_code": "46763"});
+zipapicallback({"locality": "Laotto", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Laotto"], "postal_code": "46763", "lat": 41.28867, "lng": -85.22236, "type": "STANDARD", "counties": [{"fips": "113", "name": "Noble"}, {"fips": "033", "name": "De Kalb"}]});

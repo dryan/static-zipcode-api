@@ -1,1 +1,1 @@
-{"lat": 41.845871, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bayard", "lng": -94.55588, "zip_code": "50029"}
+{"locality": "Bayard", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bayard"], "postal_code": "50029", "lat": 41.845871, "lng": -94.55588, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}]}

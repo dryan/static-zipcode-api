@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.729758, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Silver City", "lng": -108.30206, "zip_code": "88061"});
+zipapicallback({"locality": "Silver City", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Silver City"], "postal_code": "88061", "lat": 32.729758, "lng": -108.30206, "type": "STANDARD", "counties": [{"fips": "003", "name": "Catron"}, {"fips": "017", "name": "Grant"}]});

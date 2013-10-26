@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.732705, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Pullman", "lng": -117.18648, "zip_code": "99163"});
+zipapicallback({"locality": "Pullman", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Pullman"], "postal_code": "99163", "lat": 46.732705, "lng": -117.18648, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

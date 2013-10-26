@@ -1,1 +1,1 @@
-{"lat": 39.735745, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Golden", "lng": -105.19337, "zip_code": "80401"}
+{"locality": "Golden", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Evergreen", "Golden", "Lakewood"], "postal_code": "80401", "lat": 39.735745, "lng": -105.19337, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}]}

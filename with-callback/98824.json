@@ -1,0 +1,1 @@
+zipapicallback({"locality": "George", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["George"], "postal_code": "98824", "type": "POBOX", "counties": [{"fips": "025", "name": "Grant"}]});

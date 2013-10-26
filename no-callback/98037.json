@@ -1,1 +1,1 @@
-{"lat": 47.848237, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lynnwood", "lng": -122.28348, "zip_code": "98037"}
+{"locality": "Lynnwood", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lynnwood"], "postal_code": "98037", "lat": 47.848237, "lng": -122.28348, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}, {"fips": "033", "name": "King"}]}

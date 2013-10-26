@@ -1,1 +1,1 @@
-{"lat": 36.706492, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Forsyth", "lng": -93.11171, "zip_code": "65653"}
+{"locality": "Forsyth", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Forsyth"], "postal_code": "65653", "lat": 36.706492, "lng": -93.11171, "type": "STANDARD", "counties": [{"fips": "213", "name": "Taney"}, {"fips": "043", "name": "Christian"}]}

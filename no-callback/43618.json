@@ -1,1 +1,1 @@
-{"lat": 41.676897, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Oregon", "lng": -83.39972, "zip_code": "43618"}
+{"locality": "Oregon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Oregon"], "postal_code": "43618", "lat": 41.676897, "lng": -83.39972, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lucas"}]}

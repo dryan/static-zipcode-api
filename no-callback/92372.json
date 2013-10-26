@@ -1,1 +1,1 @@
-{"lat": 34.44654, "region": {"abbr": "CA", "name": "California"}, "locality": "Pinon Hills", "lng": -117.63411, "zip_code": "92372"}
+{"locality": "Pinon Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pinon Hills"], "postal_code": "92372", "lat": 34.44654, "lng": -117.63411, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

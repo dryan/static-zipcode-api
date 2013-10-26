@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.172214, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cynthiana", "lng": -83.34842, "zip_code": "45624"});
+zipapicallback({"locality": "Cynthiana", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cynthiana"], "postal_code": "45624", "lat": 39.172214, "lng": -83.34842, "type": "POBOX", "counties": [{"fips": "131", "name": "Pike"}]});

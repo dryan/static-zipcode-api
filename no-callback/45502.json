@@ -1,1 +1,1 @@
-{"lat": 39.926617, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Springfield", "lng": -83.8128, "zip_code": "45502"}
+{"locality": "Springfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Springfield"], "postal_code": "45502", "lat": 39.926617, "lng": -83.8128, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "021", "name": "Champaign"}]}

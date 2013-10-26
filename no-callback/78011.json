@@ -1,1 +1,1 @@
-{"lat": 28.795637, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Charlotte", "lng": -98.71951, "zip_code": "78011"}
+{"locality": "Charlotte", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Charlotte"], "postal_code": "78011", "lat": 28.795637, "lng": -98.71951, "type": "STANDARD", "counties": [{"fips": "013", "name": "Atascosa"}]}

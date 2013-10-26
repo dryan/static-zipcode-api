@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.44415, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Oregonia", "lng": -84.06299, "zip_code": "45054"});
+zipapicallback({"locality": "Oregonia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Oregonia"], "postal_code": "45054", "lat": 39.44415, "lng": -84.06299, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]});

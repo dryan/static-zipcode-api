@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.079378, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Steele", "lng": -89.84896, "zip_code": "63877"});
+zipapicallback({"locality": "Steele", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Steele"], "postal_code": "63877", "lat": 36.079378, "lng": -89.84896, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pemiscot"}, {"fips": "069", "name": "Dunklin"}]});

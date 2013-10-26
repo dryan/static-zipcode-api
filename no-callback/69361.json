@@ -1,1 +1,1 @@
-{"lat": 41.885553, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Scottsbluff", "lng": -103.65241, "zip_code": "69361"}
+{"locality": "Scottsbluff", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Scottsbluff"], "postal_code": "69361", "lat": 41.885553, "lng": -103.65241, "type": "STANDARD", "counties": [{"fips": "157", "name": "Scotts Bluff"}]}

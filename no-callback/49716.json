@@ -1,1 +1,1 @@
-{"lat": 45.515594, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Brutus", "lng": -84.72353, "zip_code": "49716"}
+{"locality": "Brutus", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Brutus"], "postal_code": "49716", "lat": 45.515594, "lng": -84.72353, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "031", "name": "Cheboygan"}]}

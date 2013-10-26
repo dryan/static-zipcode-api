@@ -1,1 +1,1 @@
-{"lat": 39.260146, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hagaman", "lng": -90.06937, "zip_code": "62630"}
+{"locality": "Chesterfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chesterfield", "Hagaman"], "postal_code": "62630", "lat": 39.260146, "lng": -90.06937, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}, {"fips": "083", "name": "Jersey"}, {"fips": "061", "name": "Greene"}]}

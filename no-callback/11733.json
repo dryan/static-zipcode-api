@@ -1,1 +1,1 @@
-{"lat": 40.932053, "region": {"abbr": "NY", "name": "New York"}, "locality": "Setauket", "lng": -73.10666, "zip_code": "11733"}
+{"locality": "East Setauket", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Setauket", "Setauket"], "postal_code": "11733", "lat": 40.932053, "lng": -73.10666, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

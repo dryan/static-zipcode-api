@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.003455, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Gray", "lng": -83.55078, "zip_code": "31032"});
+zipapicallback({"locality": "Gray", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Gray"], "postal_code": "31032", "lat": 33.003455, "lng": -83.55078, "type": "STANDARD", "counties": [{"fips": "169", "name": "Jones"}]});

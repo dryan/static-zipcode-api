@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.190331, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Conrad", "lng": -111.96872, "zip_code": "59425"});
+zipapicallback({"locality": "Conrad", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Conrad"], "postal_code": "59425", "lat": 48.190331, "lng": -111.96872, "type": "STANDARD", "counties": [{"fips": "073", "name": "Pondera"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.53457, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Globe", "lng": -110.75681, "zip_code": "85501"});
+zipapicallback({"locality": "Globe", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Globe"], "postal_code": "85501", "lat": 33.53457, "lng": -110.75681, "type": "STANDARD", "counties": [{"fips": "007", "name": "Gila"}]});

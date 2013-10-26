@@ -1,1 +1,1 @@
-{"lat": 32.658384, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Duncanville", "lng": -96.91265, "zip_code": "75116"}
+{"locality": "Duncanville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Duncanville"], "postal_code": "75116", "lat": 32.658384, "lng": -96.91265, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

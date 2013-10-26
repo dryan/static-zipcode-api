@@ -1,1 +1,1 @@
-{"lat": 41.782474, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Brooklyn", "lng": -71.95989, "zip_code": "06234"}
+{"locality": "Brooklyn", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Brooklyn"], "postal_code": "06234", "lat": 41.782474, "lng": -71.95989, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]}

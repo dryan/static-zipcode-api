@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.390943, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Reading", "lng": -75.9375, "zip_code": "19605"});
+zipapicallback({"locality": "Reading", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Laureldale", "Muhlenberg", "Muhlenberg Township", "Ontelaunee", "Reading"], "postal_code": "19605", "lat": 40.390943, "lng": -75.9375, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]});

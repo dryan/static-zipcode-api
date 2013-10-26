@@ -1,1 +1,1 @@
-{"lat": 38.818541, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Greenwood", "lng": -75.60966, "zip_code": "19950"}
+{"locality": "Greenwood", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Farmington", "Greenwood"], "postal_code": "19950", "lat": 38.818541, "lng": -75.60966, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}, {"fips": "001", "name": "Kent"}, {"fips": "003", "name": "New Castle"}]}

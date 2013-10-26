@@ -1,1 +1,1 @@
-{"lat": 36.725025, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cape Fair", "lng": -93.50573, "zip_code": "65624"}
+{"locality": "Cape Fair", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cape Fair", "Galena"], "postal_code": "65624", "lat": 36.725025, "lng": -93.50573, "type": "STANDARD", "counties": [{"fips": "209", "name": "Stone"}]}

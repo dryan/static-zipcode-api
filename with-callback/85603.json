@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.406229, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Bisbee", "lng": -109.8958, "zip_code": "85603"});
+zipapicallback({"locality": "Bisbee", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bisbee"], "postal_code": "85603", "lat": 31.406229, "lng": -109.8958, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]});

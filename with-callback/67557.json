@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.934689, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Macksville", "lng": -98.95861, "zip_code": "67557"});
+zipapicallback({"locality": "Macksville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Macksville"], "postal_code": "67557", "lat": 37.934689, "lng": -98.95861, "type": "STANDARD", "counties": [{"fips": "185", "name": "Stafford"}, {"fips": "151", "name": "Pratt"}, {"fips": "047", "name": "Edwards"}, {"fips": "145", "name": "Pawnee"}]});

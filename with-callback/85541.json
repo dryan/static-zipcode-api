@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.243578, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Payson", "lng": -111.28137, "zip_code": "85541"});
+zipapicallback({"locality": "Payson", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Payson", "Star Valley"], "postal_code": "85541", "lat": 34.243578, "lng": -111.28137, "type": "STANDARD", "counties": [{"fips": "007", "name": "Gila"}]});

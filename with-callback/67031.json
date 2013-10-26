@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.400431, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Conway Springs", "lng": -97.65338, "zip_code": "67031"});
+zipapicallback({"locality": "Conway Springs", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Conway Spgs", "Conway Springs"], "postal_code": "67031", "lat": 37.400431, "lng": -97.65338, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}, {"fips": "173", "name": "Sedgwick"}]});

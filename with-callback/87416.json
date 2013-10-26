@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.654783, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Fruitland", "lng": -108.45001, "zip_code": "87416"});
+zipapicallback({"locality": "Fruitland", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Fruitland"], "postal_code": "87416", "lat": 36.654783, "lng": -108.45001, "type": "STANDARD", "counties": [{"fips": "045", "name": "San Juan"}]});

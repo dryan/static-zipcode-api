@@ -1,1 +1,1 @@
-{"lat": 38.925358, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Wye Mills", "lng": -76.05652, "zip_code": "21679"}
+{"locality": "Wye Mills", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Wye Mills"], "postal_code": "21679", "lat": 38.925358, "lng": -76.05652, "type": "STANDARD", "counties": [{"fips": "041", "name": "Talbot"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.804064, "region": {"abbr": "CA", "name": "California"}, "locality": "Danville", "lng": -121.91202, "zip_code": "94506"}
+{"locality": "Danville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Blackhawk", "Danville"], "postal_code": "94506", "lat": 37.804064, "lng": -121.91202, "type": "STANDARD", "counties": []}

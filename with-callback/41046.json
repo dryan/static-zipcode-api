@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.742296, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Glencoe", "lng": -84.81223, "zip_code": "41046"});
+zipapicallback({"locality": "Glencoe", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Glencoe"], "postal_code": "41046", "lat": 38.742296, "lng": -84.81223, "type": "STANDARD", "counties": [{"fips": "077", "name": "Gallatin"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.976118, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wausau", "lng": -89.59209, "zip_code": "54403"}
+{"locality": "Wausau", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wausau"], "postal_code": "54403", "lat": 44.976118, "lng": -89.59209, "type": "STANDARD", "counties": []}

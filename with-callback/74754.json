@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.199682, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ringold", "lng": -95.12064, "zip_code": "74754"});
+zipapicallback({"locality": "Ringold", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ringold"], "postal_code": "74754", "lat": 34.199682, "lng": -95.12064, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]});

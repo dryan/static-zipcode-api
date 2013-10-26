@@ -1,1 +1,1 @@
-{"lat": 40.958573, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Haworth", "lng": -73.98659, "zip_code": "07641"}
+{"locality": "Haworth", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Haworth"], "postal_code": "07641", "lat": 40.958573, "lng": -73.98659, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

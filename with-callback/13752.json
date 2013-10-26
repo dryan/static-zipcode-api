@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.187835, "region": {"abbr": "NY", "name": "New York"}, "locality": "De Lancey", "lng": -74.89418, "zip_code": "13752"});
+zipapicallback({"locality": "Delancey", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Delancey"], "postal_code": "13752", "lat": 42.187835, "lng": -74.89418, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]});

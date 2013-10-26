@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.030933, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Drums", "lng": -75.98932, "zip_code": "18222"});
+zipapicallback({"locality": "Drums", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Drums"], "postal_code": "18222", "lat": 41.030933, "lng": -75.98932, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

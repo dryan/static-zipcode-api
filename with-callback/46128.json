@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.674879, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fillmore", "lng": -86.75256, "zip_code": "46128"});
+zipapicallback({"locality": "Fillmore", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fillmore"], "postal_code": "46128", "lat": 39.674879, "lng": -86.75256, "type": "STANDARD", "counties": [{"fips": "133", "name": "Putnam"}]});

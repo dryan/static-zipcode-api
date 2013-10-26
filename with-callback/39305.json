@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.439945, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Meridian", "lng": -88.70918, "zip_code": "39305"});
+zipapicallback({"locality": "Meridian", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Meridian"], "postal_code": "39305", "lat": 32.439945, "lng": -88.70918, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lauderdale"}]});

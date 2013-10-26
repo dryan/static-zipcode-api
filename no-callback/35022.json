@@ -1,1 +1,1 @@
-{"lat": 33.346817, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Bessemer", "lng": -86.95252, "zip_code": "35022"}
+{"locality": "Bessemer", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bessemer", "Helena"], "postal_code": "35022", "lat": 33.346817, "lng": -86.95252, "type": "STANDARD", "counties": []}

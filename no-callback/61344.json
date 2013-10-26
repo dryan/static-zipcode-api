@@ -1,1 +1,1 @@
-{"lat": 41.394429, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mineral", "lng": -89.84111, "zip_code": "61344"}
+{"locality": "Mineral", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mineral"], "postal_code": "61344", "lat": 41.394429, "lng": -89.84111, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}, {"fips": "073", "name": "Henry"}]}

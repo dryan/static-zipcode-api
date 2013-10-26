@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.010733, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "East Canaan", "lng": -73.26877, "zip_code": "06024"});
+zipapicallback({"locality": "East Canaan", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["East Canaan"], "postal_code": "06024", "lat": 42.010733, "lng": -73.26877, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

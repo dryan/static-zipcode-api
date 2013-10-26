@@ -1,1 +1,1 @@
-{"lat": 40.310244, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dewey", "lng": -88.30526, "zip_code": "61840"}
+{"locality": "Dewey", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dewey"], "postal_code": "61840", "lat": 40.310244, "lng": -88.30526, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

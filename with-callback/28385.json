@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.053627, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Salemburg", "lng": -78.50025, "zip_code": "28385"});
+zipapicallback({"locality": "Salemburg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Salemburg"], "postal_code": "28385", "lat": 35.053627, "lng": -78.50025, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sampson"}]});

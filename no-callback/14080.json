@@ -1,1 +1,1 @@
-{"lat": 42.640351, "region": {"abbr": "NY", "name": "New York"}, "locality": "Holland", "lng": -78.53494, "zip_code": "14080"}
+{"locality": "Holland", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Holland"], "postal_code": "14080", "lat": 42.640351, "lng": -78.53494, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.460727, "region": {"abbr": "CA", "name": "California"}, "locality": "Capistrano Beach", "lng": -117.66467, "zip_code": "92624"});
+zipapicallback({"locality": "Capistrano Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Capistrano Beach", "Capo Beach", "Dana Point"], "postal_code": "92624", "lat": 33.460727, "lng": -117.66467, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

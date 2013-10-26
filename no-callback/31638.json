@@ -1,1 +1,1 @@
-{"lat": 30.935087, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Morven", "lng": -83.50211, "zip_code": "31638"}
+{"locality": "Morven", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Morven"], "postal_code": "31638", "lat": 30.935087, "lng": -83.50211, "type": "STANDARD", "counties": [{"fips": "027", "name": "Brooks"}]}

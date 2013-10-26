@@ -1,1 +1,1 @@
-{"lat": 42.291075, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Coggon", "lng": -91.54024, "zip_code": "52218"}
+{"locality": "Coggon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Coggon"], "postal_code": "52218", "lat": 42.291075, "lng": -91.54024, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}]}

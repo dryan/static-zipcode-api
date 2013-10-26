@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.801928, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Talpa", "lng": -99.68057, "zip_code": "76882"});
+zipapicallback({"locality": "Talpa", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Talpa"], "postal_code": "76882", "lat": 31.801928, "lng": -99.68057, "type": "STANDARD", "counties": [{"fips": "083", "name": "Coleman"}, {"fips": "399", "name": "Runnels"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.388831, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Hatfield", "lng": -72.6321, "zip_code": "01088"}
+{"locality": "West Hatfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["W Hatfield", "West Hatfield"], "postal_code": "01088", "lat": 42.388831, "lng": -72.6321, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]}

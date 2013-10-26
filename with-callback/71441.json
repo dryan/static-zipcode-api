@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.95047, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Kelly", "lng": -92.15107, "zip_code": "71441"});
+zipapicallback({"locality": "Kelly", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Kelly"], "postal_code": "71441", "lat": 31.95047, "lng": -92.15107, "type": "STANDARD", "counties": [{"fips": "021", "name": "Caldwell"}, {"fips": "059", "name": "La Salle"}]});

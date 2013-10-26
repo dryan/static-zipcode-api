@@ -1,1 +1,1 @@
-{"lat": 42.160787, "region": {"abbr": "NY", "name": "New York"}, "locality": "Randolph", "lng": -78.95167, "zip_code": "14772"}
+{"locality": "Randolph", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Randolph"], "postal_code": "14772", "lat": 42.160787, "lng": -78.95167, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

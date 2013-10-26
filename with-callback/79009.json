@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.51748, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bovina", "lng": -102.89478, "zip_code": "79009"});
+zipapicallback({"locality": "Bovina", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bovina"], "postal_code": "79009", "lat": 34.51748, "lng": -102.89478, "type": "STANDARD", "counties": [{"fips": "369", "name": "Parmer"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.943476, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lynden", "lng": -122.45723, "zip_code": "98264"});
+zipapicallback({"locality": "Lynden", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lynden"], "postal_code": "98264", "lat": 48.943476, "lng": -122.45723, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]});

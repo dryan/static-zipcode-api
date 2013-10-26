@@ -1,1 +1,1 @@
-{"lat": 42.36534, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Callender", "lng": -94.29779, "zip_code": "50523"}
+{"locality": "Callender", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Callender"], "postal_code": "50523", "lat": 42.36534, "lng": -94.29779, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]}

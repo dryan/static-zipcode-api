@@ -1,1 +1,1 @@
-{"lat": 46.912684, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Casselton", "lng": -97.18939, "zip_code": "58012"}
+{"locality": "Casselton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Casselton"], "postal_code": "58012", "lat": 46.912684, "lng": -97.18939, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]}

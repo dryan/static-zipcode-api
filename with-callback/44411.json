@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.024608, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Deerfield", "lng": -81.05025, "zip_code": "44411"});
+zipapicallback({"locality": "Deerfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Deerfield"], "postal_code": "44411", "lat": 41.024608, "lng": -81.05025, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}]});

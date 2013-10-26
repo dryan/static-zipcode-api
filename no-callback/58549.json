@@ -1,1 +1,1 @@
-{"lat": 46.467732, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Kintyre", "lng": -99.93796, "zip_code": "58549"}
+{"locality": "Kintyre", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Kintyre"], "postal_code": "58549", "lat": 46.467732, "lng": -99.93796, "type": "STANDARD", "counties": [{"fips": "029", "name": "Emmons"}, {"fips": "043", "name": "Kidder"}, {"fips": "047", "name": "Logan"}]}

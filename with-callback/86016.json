@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.675689, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Gray Mountain", "lng": -111.49474, "zip_code": "86016"});
+zipapicallback({"locality": "Gray Mountain", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Cameron", "Gray Mountain"], "postal_code": "86016", "lat": 35.675689, "lng": -111.49474, "type": "POBOX", "counties": []});

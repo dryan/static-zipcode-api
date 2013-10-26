@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.941748, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Floydada", "lng": -101.30072, "zip_code": "79235"});
+zipapicallback({"locality": "Floydada", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Floydada"], "postal_code": "79235", "lat": 33.941748, "lng": -101.30072, "type": "STANDARD", "counties": [{"fips": "153", "name": "Floyd"}, {"fips": "345", "name": "Motley"}, {"fips": "189", "name": "Hale"}, {"fips": "107", "name": "Crosby"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.4505, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Westfield", "lng": -87.99681, "zip_code": "62474"});
+zipapicallback({"locality": "Westfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Westfield"], "postal_code": "62474", "lat": 39.4505, "lng": -87.99681, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "045", "name": "Edgar"}, {"fips": "029", "name": "Coles"}]});

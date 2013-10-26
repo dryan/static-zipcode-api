@@ -1,1 +1,1 @@
-{"lat": 38.695252, "region": {"abbr": "CA", "name": "California"}, "locality": "Citrus Heights", "lng": -121.3081, "zip_code": "95621"}
+{"locality": "Citrus Heights", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Citrus Heights", "Citrus Hts"], "postal_code": "95621", "lat": 38.695252, "lng": -121.3081, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

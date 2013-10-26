@@ -1,1 +1,1 @@
-{"lat": 44.383559, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Worcester", "lng": -72.55088, "zip_code": "05682"}
+{"locality": "Worcester", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["N Middlesex", "North Middlesex", "Worcester"], "postal_code": "05682", "lat": 44.383559, "lng": -72.55088, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.396289, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wayland", "lng": -91.58325, "zip_code": "63472"}
+{"locality": "Wayland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wayland"], "postal_code": "63472", "lat": 40.396289, "lng": -91.58325, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}]}

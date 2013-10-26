@@ -1,1 +1,1 @@
-{"lat": 38.641439, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Herold", "lng": -80.67497, "zip_code": "26601"}
+{"locality": "Sutton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Centralia", "Herold", "Newville", "Sutton"], "postal_code": "26601", "lat": 38.641439, "lng": -80.67497, "type": "STANDARD", "counties": [{"fips": "007", "name": "Braxton"}]}

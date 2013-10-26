@@ -1,1 +1,1 @@
-{"lat": 47.049301, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Stockholm", "lng": -68.20823, "zip_code": "04783"}
+{"locality": "Stockholm", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Stockholm", "Westmanland"], "postal_code": "04783", "lat": 47.049301, "lng": -68.20823, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

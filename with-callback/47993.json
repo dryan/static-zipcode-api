@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.300013, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Marshfield", "lng": -87.38396, "zip_code": "47993"});
+zipapicallback({"locality": "Williamsport", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Marshfield", "Pence", "Williamsport"], "postal_code": "47993", "lat": 40.300013, "lng": -87.38396, "type": "STANDARD", "counties": [{"fips": "171", "name": "Warren"}]});

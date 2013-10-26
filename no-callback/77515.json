@@ -1,1 +1,1 @@
-{"lat": 29.16866, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Angleton", "lng": -95.44541, "zip_code": "77515"}
+{"locality": "Angleton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Angleton", "Holiday Lakes", "Richwood"], "postal_code": "77515", "lat": 29.16866, "lng": -95.44541, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]}

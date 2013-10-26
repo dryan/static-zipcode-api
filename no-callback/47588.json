@@ -1,1 +1,1 @@
-{"lat": 38.012451, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Troy", "lng": -86.79698, "zip_code": "47588"}
+{"locality": "Troy", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Troy"], "postal_code": "47588", "lat": 38.012451, "lng": -86.79698, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}, {"fips": "123", "name": "Perry"}]}

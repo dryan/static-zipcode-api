@@ -1,1 +1,1 @@
-{"lat": 40.294423, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Berthoud", "lng": -105.08431, "zip_code": "80513"}
+{"locality": "Berthoud", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Berthoud"], "postal_code": "80513", "lat": 40.294423, "lng": -105.08431, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}, {"fips": "123", "name": "Weld"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.483263, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Waubeka", "lng": -87.98908, "zip_code": "53021"});
+zipapicallback({"locality": "Fredonia", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fredonia", "Waubeka"], "postal_code": "53021", "lat": 43.483263, "lng": -87.98908, "type": "STANDARD", "counties": [{"fips": "089", "name": "Ozaukee"}, {"fips": "117", "name": "Sheboygan"}, {"fips": "131", "name": "Washington"}]});

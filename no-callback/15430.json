@@ -1,1 +1,1 @@
-{"lat": 40.040653, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dickerson Run", "lng": -79.66089, "zip_code": "15430"}
+{"locality": "Dickerson Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dickerson Run"], "postal_code": "15430", "lat": 40.040653, "lng": -79.66089, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]}

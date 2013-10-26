@@ -1,1 +1,1 @@
-{"lat": 37.553553, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mc Andrews", "lng": -82.28283, "zip_code": "41543"}
+{"locality": "Mc Andrews", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mc Andrews"], "postal_code": "41543", "lat": 37.553553, "lng": -82.28283, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

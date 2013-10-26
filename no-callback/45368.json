@@ -1,1 +1,1 @@
-{"lat": 39.840367, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Selma", "lng": -83.65813, "zip_code": "45368"}
+{"locality": "South Charleston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["S Charleston", "South Charleston"], "postal_code": "45368", "lat": 39.840367, "lng": -83.65813, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "097", "name": "Madison"}, {"fips": "057", "name": "Greene"}]}

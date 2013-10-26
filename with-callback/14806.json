@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.157534, "region": {"abbr": "NY", "name": "New York"}, "locality": "Andover", "lng": -77.79265, "zip_code": "14806"});
+zipapicallback({"locality": "Andover", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Andover"], "postal_code": "14806", "lat": 42.157534, "lng": -77.79265, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}, {"fips": "101", "name": "Steuben"}]});

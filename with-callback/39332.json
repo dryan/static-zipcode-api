@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.314553, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Hickory", "lng": -89.01461, "zip_code": "39332"});
+zipapicallback({"locality": "Hickory", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hickory"], "postal_code": "39332", "lat": 32.314553, "lng": -89.01461, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}, {"fips": "061", "name": "Jasper"}]});

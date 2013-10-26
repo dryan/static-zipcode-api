@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.240761, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ravia", "lng": -96.75726, "zip_code": "73455"});
+zipapicallback({"locality": "Ravia", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ravia"], "postal_code": "73455", "lat": 34.240761, "lng": -96.75726, "type": "POBOX", "counties": [{"fips": "069", "name": "Johnston"}]});

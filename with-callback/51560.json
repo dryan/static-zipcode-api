@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.320647, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Oakland", "lng": -95.39748, "zip_code": "51560"});
+zipapicallback({"locality": "Oakland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Oakland"], "postal_code": "51560", "lat": 41.320647, "lng": -95.39748, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]});

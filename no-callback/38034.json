@@ -1,1 +1,1 @@
-{"lat": 35.908286, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Friendship", "lng": -89.24555, "zip_code": "38034"}
+{"locality": "Friendship", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Friendship"], "postal_code": "38034", "lat": 35.908286, "lng": -89.24555, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crockett"}]}

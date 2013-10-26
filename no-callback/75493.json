@@ -1,1 +1,1 @@
-{"lat": 33.165327, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Winfield", "lng": -95.11279, "zip_code": "75493"}
+{"locality": "Winfield", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Winfield"], "postal_code": "75493", "lat": 33.165327, "lng": -95.11279, "type": "POBOX", "counties": [{"fips": "449", "name": "Titus"}]}

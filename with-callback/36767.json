@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.29165, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Orrville", "lng": -87.23168, "zip_code": "36767"});
+zipapicallback({"locality": "Orrville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Orrville"], "postal_code": "36767", "lat": 32.29165, "lng": -87.23168, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dallas"}]});

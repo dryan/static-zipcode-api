@@ -1,1 +1,1 @@
-{"lat": 40.753753, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Washington", "lng": -74.99617, "zip_code": "07882"}
+{"locality": "Washington", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Washington"], "postal_code": "07882", "lat": 40.753753, "lng": -74.99617, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}, {"fips": "019", "name": "Hunterdon"}]}

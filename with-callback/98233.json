@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.486892, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Burlington", "lng": -122.33366, "zip_code": "98233"});
+zipapicallback({"locality": "Burlington", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Burlington"], "postal_code": "98233", "lat": 48.486892, "lng": -122.33366, "type": "STANDARD", "counties": [{"fips": "057", "name": "Skagit"}]});

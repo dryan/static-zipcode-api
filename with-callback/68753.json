@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.855832, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mills", "lng": -99.44391, "zip_code": "68753"});
+zipapicallback({"locality": "Mills", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mills"], "postal_code": "68753", "lat": 42.855832, "lng": -99.44391, "type": "STANDARD", "counties": [{"fips": "103", "name": "Keya Paha"}]});

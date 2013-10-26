@@ -1,1 +1,1 @@
-{"lat": 35.060787, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sherwood", "lng": -85.92217, "zip_code": "37376"}
+{"locality": "Sherwood", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sherwood"], "postal_code": "37376", "lat": 35.060787, "lng": -85.92217, "type": "STANDARD", "counties": [{"fips": "051", "name": "Franklin"}]}

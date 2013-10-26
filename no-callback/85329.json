@@ -1,1 +1,1 @@
-{"lat": 33.431242, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Cashion", "lng": -112.29588, "zip_code": "85329"}
+{"locality": "Cashion", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Cashion"], "postal_code": "85329", "lat": 33.431242, "lng": -112.29588, "type": "POBOX", "counties": [{"fips": "013", "name": "Maricopa"}]}

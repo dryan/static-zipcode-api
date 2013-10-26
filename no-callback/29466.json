@@ -1,1 +1,1 @@
-{"lat": 32.87602, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Mount Pleasant", "lng": -79.79148, "zip_code": "29466"}
+{"locality": "Mount Pleasant", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "29466", "lat": 32.87602, "lng": -79.79148, "type": "STANDARD", "counties": []}

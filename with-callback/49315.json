@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.802932, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Byron Center", "lng": -85.72542, "zip_code": "49315"});
+zipapicallback({"locality": "Byron Center", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Byron Center"], "postal_code": "49315", "lat": 42.802932, "lng": -85.72542, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}, {"fips": "005", "name": "Allegan"}, {"fips": "139", "name": "Ottawa"}]});

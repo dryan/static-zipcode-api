@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.105309, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Argyle", "lng": -97.16294, "zip_code": "76226"});
+zipapicallback({"locality": "Argyle", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Argyle", "Bartonville", "Lantana", "Northlake"], "postal_code": "76226", "lat": 33.105309, "lng": -97.16294, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]});

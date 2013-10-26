@@ -1,1 +1,1 @@
-{"lat": 38.467553, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Chivington", "lng": -102.80439, "zip_code": "81036"}
+{"locality": "Eads", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Chivington", "Eads"], "postal_code": "81036", "lat": 38.467553, "lng": -102.80439, "type": "STANDARD", "counties": [{"fips": "061", "name": "Kiowa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.839929, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lewiston", "lng": -84.30787, "zip_code": "49756"});
+zipapicallback({"locality": "Lewiston", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lewiston"], "postal_code": "49756", "lat": 44.839929, "lng": -84.30787, "type": "STANDARD", "counties": [{"fips": "119", "name": "Montmorency"}, {"fips": "135", "name": "Oscoda"}]});

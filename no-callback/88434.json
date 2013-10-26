@@ -1,1 +1,1 @@
-{"lat": 35.098357, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "San Jon", "lng": -103.34027, "zip_code": "88434"}
+{"locality": "San Jon", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Glenrio", "San Jon"], "postal_code": "88434", "lat": 35.098357, "lng": -103.34027, "type": "STANDARD", "counties": [{"fips": "037", "name": "Quay"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.596018, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Nashville", "lng": -82.11317, "zip_code": "44661"});
+zipapicallback({"locality": "Nashville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Nashville"], "postal_code": "44661", "lat": 40.596018, "lng": -82.11317, "type": "POBOX", "counties": [{"fips": "075", "name": "Holmes"}]});

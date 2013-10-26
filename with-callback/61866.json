@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.307065, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rantoul", "lng": -88.15575, "zip_code": "61866"});
+zipapicallback({"locality": "Rantoul", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rantoul"], "postal_code": "61866", "lat": 40.307065, "lng": -88.15575, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]});

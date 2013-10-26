@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.558772, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Birmingham", "lng": -86.89199, "zip_code": "35214"});
+zipapicallback({"locality": "Birmingham", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Birmingham", "Forestdale"], "postal_code": "35214", "lat": 33.558772, "lng": -86.89199, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}]});

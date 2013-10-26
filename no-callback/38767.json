@@ -1,1 +1,1 @@
-{"lat": 34.13452, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Rena Lara", "lng": -90.7836, "zip_code": "38767"}
+{"locality": "Rena Lara", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Rena Lara"], "postal_code": "38767", "lat": 34.13452, "lng": -90.7836, "type": "POBOX", "counties": [{"fips": "027", "name": "Coahoma"}]}

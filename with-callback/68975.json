@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.605538, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Saronville", "lng": -97.94955, "zip_code": "68975"});
+zipapicallback({"locality": "Saronville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Saronville"], "postal_code": "68975", "lat": 40.605538, "lng": -97.94955, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clay"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.361567, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Donaldson", "lng": -86.44545, "zip_code": "46513"}
+{"locality": "Donaldson", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Donaldson"], "postal_code": "46513", "lat": 41.361567, "lng": -86.44545, "type": "POBOX", "counties": [{"fips": "099", "name": "Marshall"}]}

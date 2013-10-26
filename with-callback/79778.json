@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.2244, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rankin", "lng": -101.94317, "zip_code": "79778"});
+zipapicallback({"locality": "Rankin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rankin"], "postal_code": "79778", "lat": 31.2244, "lng": -101.94317, "type": "POBOX", "counties": [{"fips": "461", "name": "Upton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.212746, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Waltonville", "lng": -89.03866, "zip_code": "62894"});
+zipapicallback({"locality": "Waltonville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Waltonville"], "postal_code": "62894", "lat": 38.212746, "lng": -89.03866, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]});

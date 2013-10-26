@@ -1,1 +1,1 @@
-{"lat": 40.394773, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sparta", "lng": -82.69952, "zip_code": "43350"}
+{"locality": "Sparta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sparta"], "postal_code": "43350", "lat": 40.394773, "lng": -82.69952, "type": "POBOX", "counties": [{"fips": "117", "name": "Morrow"}]}

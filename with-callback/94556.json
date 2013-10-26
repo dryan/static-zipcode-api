@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.839426, "region": {"abbr": "CA", "name": "California"}, "locality": "Moraga", "lng": -122.12426, "zip_code": "94556"});
+zipapicallback({"locality": "Moraga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Moraga"], "postal_code": "94556", "lat": 37.839426, "lng": -122.12426, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

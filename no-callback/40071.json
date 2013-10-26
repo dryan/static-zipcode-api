@@ -1,1 +1,1 @@
-{"lat": 38.045406, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Taylorsville", "lng": -85.36427, "zip_code": "40071"}
+{"locality": "Taylorsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Taylorsville"], "postal_code": "40071", "lat": 38.045406, "lng": -85.36427, "type": "STANDARD", "counties": [{"fips": "215", "name": "Spencer"}, {"fips": "029", "name": "Bullitt"}, {"fips": "211", "name": "Shelby"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.333259, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Carson", "lng": -105.81143, "zip_code": "87517"}
+{"locality": "Carson", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Carson"], "postal_code": "87517", "lat": 36.333259, "lng": -105.81143, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.97957, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Montreal", "lng": -92.59117, "zip_code": "65591"}
+{"locality": "Montreal", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Montreal"], "postal_code": "65591", "lat": 37.97957, "lng": -92.59117, "type": "STANDARD", "counties": [{"fips": "029", "name": "Camden"}]}

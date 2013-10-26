@@ -1,1 +1,1 @@
-{"lat": 30.366126, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fenton", "lng": -92.91837, "zip_code": "70640"}
+{"locality": "Fenton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fenton"], "postal_code": "70640", "lat": 30.366126, "lng": -92.91837, "type": "POBOX", "counties": [{"fips": "053", "name": "Jefferson Davis"}]}

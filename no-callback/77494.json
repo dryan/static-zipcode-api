@@ -1,1 +1,1 @@
-{"lat": 29.760833, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Park Row", "lng": -95.81104, "zip_code": "77494"}
+{"locality": "Katy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Katy", "Park Row"], "postal_code": "77494", "lat": 29.760833, "lng": -95.81104, "type": "STANDARD", "counties": []}

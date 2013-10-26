@@ -1,1 +1,1 @@
-{"lat": 36.243698, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Old Hickory", "lng": -86.62308, "zip_code": "37138"}
+{"locality": "Old Hickory", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lakewood", "Old Hickory"], "postal_code": "37138", "lat": 36.243698, "lng": -86.62308, "type": "STANDARD", "counties": [{"fips": "189", "name": "Wilson"}, {"fips": "037", "name": "Davidson"}, {"fips": "003", "name": "Bedford"}]}

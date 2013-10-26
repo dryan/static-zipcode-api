@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.743424, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brave", "lng": -80.26376, "zip_code": "15316"});
+zipapicallback({"locality": "Brave", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brave"], "postal_code": "15316", "lat": 39.743424, "lng": -80.26376, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

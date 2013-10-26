@@ -1,1 +1,1 @@
-{"lat": 33.709595, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Atlanta", "lng": -84.38365, "zip_code": "30315"}
+{"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta"], "postal_code": "30315", "lat": 33.709595, "lng": -84.38365, "type": "STANDARD", "counties": [{"fips": "121", "name": "Fulton"}, {"fips": "089", "name": "De Kalb"}]}

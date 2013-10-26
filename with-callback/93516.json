@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.030694, "region": {"abbr": "CA", "name": "California"}, "locality": "Boron", "lng": -117.67264, "zip_code": "93516"});
+zipapicallback({"locality": "Boron", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Boron"], "postal_code": "93516", "lat": 35.030694, "lng": -117.67264, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.3389, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Decatur", "lng": -94.46394, "zip_code": "72722"}
+{"locality": "Decatur", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Decatur"], "postal_code": "72722", "lat": 36.3389, "lng": -94.46394, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.487552, "region": {"abbr": "CA", "name": "California"}, "locality": "Juniper Hills", "lng": -117.89885, "zip_code": "93553"}
+{"locality": "Pearblossom", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pearblossom"], "postal_code": "93553", "lat": 34.487552, "lng": -117.89885, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

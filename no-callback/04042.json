@@ -1,1 +1,1 @@
-{"lat": 43.611238, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Hollis Center", "lng": -70.63265, "zip_code": "04042"}
+{"locality": "Hollis Center", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Hollis Center"], "postal_code": "04042", "lat": 43.611238, "lng": -70.63265, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

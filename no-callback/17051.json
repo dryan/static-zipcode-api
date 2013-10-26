@@ -1,1 +1,1 @@
-{"lat": 40.458618, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mc Veytown", "lng": -77.77254, "zip_code": "17051"}
+{"locality": "Mc Veytown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mc Veytown"], "postal_code": "17051", "lat": 40.458618, "lng": -77.77254, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mifflin"}]}

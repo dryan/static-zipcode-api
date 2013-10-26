@@ -1,1 +1,1 @@
-{"lat": 41.650114, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Portsmouth", "lng": -95.52275, "zip_code": "51565"}
+{"locality": "Portsmouth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Portsmouth"], "postal_code": "51565", "lat": 41.650114, "lng": -95.52275, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}, {"fips": "085", "name": "Harrison"}]}

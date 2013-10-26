@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.191147, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Gloster", "lng": -93.8191, "zip_code": "71030"});
+zipapicallback({"locality": "Gloster", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Gloster"], "postal_code": "71030", "lat": 32.191147, "lng": -93.8191, "type": "STANDARD", "counties": [{"fips": "031", "name": "De Soto"}]});

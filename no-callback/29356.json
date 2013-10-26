@@ -1,1 +1,1 @@
-{"lat": 35.15617, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Landrum", "lng": -82.22045, "zip_code": "29356"}
+{"locality": "Landrum", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Landrum"], "postal_code": "29356", "lat": 35.15617, "lng": -82.22045, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}, {"fips": "045", "name": "Greenville"}]}

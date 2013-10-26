@@ -1,1 +1,1 @@
-{"lat": 39.16855, "region": {"abbr": "CA", "name": "California"}, "locality": "Sutter", "lng": -121.76465, "zip_code": "95982"}
+{"locality": "Sutter", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sutter"], "postal_code": "95982", "lat": 39.16855, "lng": -121.76465, "type": "STANDARD", "counties": [{"fips": "101", "name": "Sutter"}]}

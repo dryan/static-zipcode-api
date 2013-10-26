@@ -1,1 +1,1 @@
-{"lat": 42.28911, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "La Motte", "lng": -90.6341, "zip_code": "52054"}
+{"locality": "La Motte", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["La Motte"], "postal_code": "52054", "lat": 42.28911, "lng": -90.6341, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}, {"fips": "061", "name": "Dubuque"}]}

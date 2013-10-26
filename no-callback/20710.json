@@ -1,1 +1,1 @@
-{"lat": 38.941428, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bladensburg", "lng": -76.93005, "zip_code": "20710"}
+{"locality": "Bladensburg", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bladensburg"], "postal_code": "20710", "lat": 38.941428, "lng": -76.93005, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.347826, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cuddy", "lng": -80.1656, "zip_code": "15031"});
+zipapicallback({"locality": "Cuddy", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cuddy"], "postal_code": "15031", "lat": 40.347826, "lng": -80.1656, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

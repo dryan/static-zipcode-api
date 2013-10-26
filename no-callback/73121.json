@@ -1,1 +1,1 @@
-{"lat": 35.50356, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Oklahoma City", "lng": -97.44693, "zip_code": "73121"}
+{"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Forest Park", "Lake Aluma", "Oklahoma City"], "postal_code": "73121", "lat": 35.50356, "lng": -97.44693, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]}

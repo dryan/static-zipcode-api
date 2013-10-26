@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.0632, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Montpelier", "lng": -76.84103, "zip_code": "20708"});
+zipapicallback({"locality": "Laurel", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Laurel", "Montpelier"], "postal_code": "20708", "lat": 39.0632, "lng": -76.84103, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

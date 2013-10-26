@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.234838, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Lexington Park", "lng": -76.44889, "zip_code": "20653"});
+zipapicallback({"locality": "Lexington Park", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Lexington Park", "Lexington Pk"], "postal_code": "20653", "lat": 38.234838, "lng": -76.44889, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

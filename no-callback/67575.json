@@ -1,1 +1,1 @@
-{"lat": 38.445884, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Rush Center", "lng": -99.26298, "zip_code": "67575"}
+{"locality": "Rush Center", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Rush Center", "Timken"], "postal_code": "67575", "lat": 38.445884, "lng": -99.26298, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rush"}, {"fips": "145", "name": "Pawnee"}]}

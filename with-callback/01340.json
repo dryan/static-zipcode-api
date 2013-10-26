@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.673371, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Colrain", "lng": -72.73104, "zip_code": "01340"});
+zipapicallback({"locality": "Colrain", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Colrain", "Shattuckville"], "postal_code": "01340", "lat": 42.673371, "lng": -72.73104, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

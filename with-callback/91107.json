@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.151066, "region": {"abbr": "CA", "name": "California"}, "locality": "Pasadena", "lng": -118.08974, "zip_code": "91107"});
+zipapicallback({"locality": "Pasadena", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pasadena"], "postal_code": "91107", "lat": 34.151066, "lng": -118.08974, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

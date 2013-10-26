@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.22514, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Paw Paw", "lng": -85.90002, "zip_code": "49079"});
+zipapicallback({"locality": "Paw Paw", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Paw Paw"], "postal_code": "49079", "lat": 42.22514, "lng": -85.90002, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.856701, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Bayfield", "lng": -90.85401, "zip_code": "54814"});
+zipapicallback({"locality": "Bayfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bayfield"], "postal_code": "54814", "lat": 46.856701, "lng": -90.85401, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bayfield"}, {"fips": "003", "name": "Ashland"}]});

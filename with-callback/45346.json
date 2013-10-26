@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.971929, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Madison", "lng": -84.70471, "zip_code": "45346"});
+zipapicallback({"locality": "New Madison", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Madison"], "postal_code": "45346", "lat": 39.971929, "lng": -84.70471, "type": "STANDARD", "counties": [{"fips": "037", "name": "Darke"}]});

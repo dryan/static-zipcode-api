@@ -1,1 +1,1 @@
-{"lat": 41.66566, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Cataumet", "lng": -70.616, "zip_code": "02534"}
+{"locality": "Cataumet", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Cataumet"], "postal_code": "02534", "lat": 41.66566, "lng": -70.616, "type": "POBOX", "counties": [{"fips": "001", "name": "Barnstable"}]}

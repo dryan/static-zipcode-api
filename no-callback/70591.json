@@ -1,1 +1,1 @@
-{"lat": 30.246368, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Welsh", "lng": -92.83199, "zip_code": "70591"}
+{"locality": "Welsh", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Welsh"], "postal_code": "70591", "lat": 30.246368, "lng": -92.83199, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jefferson Davis"}]}

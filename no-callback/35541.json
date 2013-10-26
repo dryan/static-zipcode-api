@@ -1,1 +1,1 @@
-{"lat": 34.059527, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Arley", "lng": -87.18344, "zip_code": "35541"}
+{"locality": "Arley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Arley"], "postal_code": "35541", "lat": 34.059527, "lng": -87.18344, "type": "STANDARD", "counties": [{"fips": "133", "name": "Winston"}, {"fips": "043", "name": "Cullman"}]}

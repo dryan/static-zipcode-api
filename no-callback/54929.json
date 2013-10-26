@@ -1,1 +1,1 @@
-{"lat": 44.63605, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Clintonville", "lng": -88.74673, "zip_code": "54929"}
+{"locality": "Clintonville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Clintonville"], "postal_code": "54929", "lat": 44.63605, "lng": -88.74673, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}, {"fips": "115", "name": "Shawano"}, {"fips": "087", "name": "Outagamie"}]}

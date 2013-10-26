@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.43813, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lester", "lng": -96.33334, "zip_code": "51242"});
+zipapicallback({"locality": "Lester", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lester"], "postal_code": "51242", "lat": 43.43813, "lng": -96.33334, "type": "POBOX", "counties": [{"fips": "119", "name": "Lyon"}]});

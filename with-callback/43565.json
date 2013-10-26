@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.419152, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Tontogany", "lng": -83.74024, "zip_code": "43565"});
+zipapicallback({"locality": "Tontogany", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Tontogany"], "postal_code": "43565", "lat": 41.419152, "lng": -83.74024, "type": "POBOX", "counties": [{"fips": "173", "name": "Wood"}]});

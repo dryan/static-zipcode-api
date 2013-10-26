@@ -1,1 +1,1 @@
-zipapicallback({"lat": 58.687446, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Igiugig", "lng": -156.64007, "zip_code": "99613"});
+zipapicallback({"locality": "King Salmon", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Igiugig", "King Salmon"], "postal_code": "99613", "lat": 58.687446, "lng": -156.64007, "type": "POBOX", "counties": [{"fips": "060", "name": "Bristol Bay"}]});

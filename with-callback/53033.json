@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.233282, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hubertus", "lng": -88.2396, "zip_code": "53033"});
+zipapicallback({"locality": "Hubertus", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hubertus"], "postal_code": "53033", "lat": 43.233282, "lng": -88.2396, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}]});

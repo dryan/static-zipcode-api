@@ -1,1 +1,1 @@
-{"lat": 36.828285, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Chevrolet", "lng": -83.31856, "zip_code": "40831"}
+{"locality": "Harlan", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Chevrolet", "Harlan", "Smith"], "postal_code": "40831", "lat": 36.828285, "lng": -83.31856, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]}

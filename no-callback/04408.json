@@ -1,1 +1,1 @@
-{"lat": 44.87332, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Aurora", "lng": -68.23311, "zip_code": "04408"}
+{"locality": "Aurora", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Aurora", "Great Pond"], "postal_code": "04408", "lat": 44.87332, "lng": -68.23311, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

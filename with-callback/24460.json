@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.015153, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Millboro Spring", "lng": -79.65065, "zip_code": "24460"});
+zipapicallback({"locality": "Millboro", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Millboro"], "postal_code": "24460", "lat": 38.015153, "lng": -79.65065, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bath"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.981558, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clarence", "lng": -78.61484, "zip_code": "14031"});
+zipapicallback({"locality": "Clarence", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clarence"], "postal_code": "14031", "lat": 42.981558, "lng": -78.61484, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

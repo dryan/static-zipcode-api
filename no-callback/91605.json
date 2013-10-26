@@ -1,1 +1,1 @@
-{"lat": 34.208142, "region": {"abbr": "CA", "name": "California"}, "locality": "North Hollywood", "lng": -118.4011, "zip_code": "91605"}
+{"locality": "North Hollywood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Hollywood", "North Hollywood"], "postal_code": "91605", "lat": 34.208142, "lng": -118.4011, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

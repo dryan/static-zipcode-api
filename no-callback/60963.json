@@ -1,1 +1,1 @@
-{"lat": 40.372447, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rossville", "lng": -87.6603, "zip_code": "60963"}
+{"locality": "Rossville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rossville"], "postal_code": "60963", "lat": 40.372447, "lng": -87.6603, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

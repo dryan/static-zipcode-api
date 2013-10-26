@@ -1,1 +1,1 @@
-{"lat": 40.94399, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Galesburg", "lng": -90.31205, "zip_code": "61430"}
+{"locality": "East Galesburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["E Galesburg", "East Galesburg"], "postal_code": "61430", "lat": 40.94399, "lng": -90.31205, "type": "STANDARD", "counties": [{"fips": "095", "name": "Knox"}]}

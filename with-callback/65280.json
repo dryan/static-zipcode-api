@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.213975, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rush Hill", "lng": -91.73545, "zip_code": "65280"});
+zipapicallback({"locality": "Rush Hill", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rush Hill"], "postal_code": "65280", "lat": 39.213975, "lng": -91.73545, "type": "STANDARD", "counties": [{"fips": "007", "name": "Audrain"}]});

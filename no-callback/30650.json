@@ -1,1 +1,1 @@
-{"lat": 33.588436, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Madison", "lng": -83.47936, "zip_code": "30650"}
+{"locality": "Madison", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Madison"], "postal_code": "30650", "lat": 33.588436, "lng": -83.47936, "type": "STANDARD", "counties": [{"fips": "211", "name": "Morgan"}, {"fips": "133", "name": "Greene"}, {"fips": "237", "name": "Putnam"}, {"fips": "297", "name": "Walton"}]}

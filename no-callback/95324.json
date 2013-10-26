@@ -1,1 +1,1 @@
-{"lat": 37.400932, "region": {"abbr": "CA", "name": "California"}, "locality": "Hilmar", "lng": -120.87972, "zip_code": "95324"}
+{"locality": "Hilmar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hilmar"], "postal_code": "95324", "lat": 37.400932, "lng": -120.87972, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]}

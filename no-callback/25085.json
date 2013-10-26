@@ -1,1 +1,1 @@
-{"lat": 38.176834, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gauley Bridge", "lng": -81.19688, "zip_code": "25085"}
+{"locality": "Gauley Bridge", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Brownsville", "Gauley Bridge"], "postal_code": "25085", "lat": 38.176834, "lng": -81.19688, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]}

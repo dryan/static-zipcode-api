@@ -1,1 +1,1 @@
-{"lat": 39.622536, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Universal", "lng": -87.45451, "zip_code": "47884"}
+{"locality": "Universal", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Universal"], "postal_code": "47884", "lat": 39.622536, "lng": -87.45451, "type": "POBOX", "counties": [{"fips": "165", "name": "Vermillion"}]}

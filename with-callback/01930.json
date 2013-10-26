@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.624015, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Gloucester", "lng": -70.67552, "zip_code": "01930"});
+zipapicallback({"locality": "Gloucester", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Gloucester"], "postal_code": "01930", "lat": 42.624015, "lng": -70.67552, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]});

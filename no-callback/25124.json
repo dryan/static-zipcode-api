@@ -1,1 +1,1 @@
-{"lat": 38.619376, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Liberty", "lng": -81.76361, "zip_code": "25124"}
+{"locality": "Liberty", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Liberty"], "postal_code": "25124", "lat": 38.619376, "lng": -81.76361, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}, {"fips": "039", "name": "Kanawha"}, {"fips": "035", "name": "Jackson"}]}

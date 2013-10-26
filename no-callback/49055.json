@@ -1,1 +1,1 @@
-{"lat": 42.37346, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Gobles", "lng": -85.85725, "zip_code": "49055"}
+{"locality": "Gobles", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Gobles"], "postal_code": "49055", "lat": 42.37346, "lng": -85.85725, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}, {"fips": "005", "name": "Allegan"}]}

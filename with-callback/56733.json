@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.634961, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kennedy", "lng": -96.92156, "zip_code": "56733"});
+zipapicallback({"locality": "Kennedy", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kennedy"], "postal_code": "56733", "lat": 48.634961, "lng": -96.92156, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kittson"}]});

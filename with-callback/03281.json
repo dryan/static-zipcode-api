@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.080986, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Weare", "lng": -71.72329, "zip_code": "03281"});
+zipapicallback({"locality": "Weare", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Weare"], "postal_code": "03281", "lat": 43.080986, "lng": -71.72329, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]});

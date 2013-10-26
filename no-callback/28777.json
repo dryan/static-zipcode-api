@@ -1,1 +1,1 @@
-{"lat": 35.910932, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Spruce Pine", "lng": -82.07366, "zip_code": "28777"}
+{"locality": "Spruce Pine", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Spruce Pine"], "postal_code": "28777", "lat": 35.910932, "lng": -82.07366, "type": "STANDARD", "counties": [{"fips": "121", "name": "Mitchell"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.449117, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hamburg", "lng": -83.80332, "zip_code": "48139"});
+zipapicallback({"locality": "Hamburg", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hamburg"], "postal_code": "48139", "lat": 42.449117, "lng": -83.80332, "type": "POBOX", "counties": [{"fips": "093", "name": "Livingston"}]});

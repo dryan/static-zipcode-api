@@ -1,1 +1,1 @@
-{"lat": 37.622778, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lenox", "lng": -91.76321, "zip_code": "65541"}
+{"locality": "Lenox", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lenox"], "postal_code": "65541", "lat": 37.622778, "lng": -91.76321, "type": "STANDARD", "counties": [{"fips": "065", "name": "Dent"}]}

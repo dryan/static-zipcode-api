@@ -1,1 +1,1 @@
-{"lat": 46.559834, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Covington", "lng": -88.52201, "zip_code": "49919"}
+{"locality": "Covington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Covington"], "postal_code": "49919", "lat": 46.559834, "lng": -88.52201, "type": "STANDARD", "counties": [{"fips": "013", "name": "Baraga"}]}

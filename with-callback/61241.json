@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.483484, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Green Rock", "lng": -90.34046, "zip_code": "61241"});
+zipapicallback({"locality": "Colona", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cleveland", "Colona", "Green Rock"], "postal_code": "61241", "lat": 41.483484, "lng": -90.34046, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}]});

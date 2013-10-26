@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.669461, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Marion", "lng": -88.89693, "zip_code": "54950"});
+zipapicallback({"locality": "Marion", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Marion"], "postal_code": "54950", "lat": 44.669461, "lng": -88.89693, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}, {"fips": "115", "name": "Shawano"}]});

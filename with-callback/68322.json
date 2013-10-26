@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.328889, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bruning", "lng": -97.54836, "zip_code": "68322"});
+zipapicallback({"locality": "Bruning", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bruning"], "postal_code": "68322", "lat": 40.328889, "lng": -97.54836, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}, {"fips": "059", "name": "Fillmore"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.723034, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Amite", "lng": -90.52108, "zip_code": "70422"}
+{"locality": "Amite", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Amite", "Hillsdale", "Montpelier"], "postal_code": "70422", "lat": 30.723034, "lng": -90.52108, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}, {"fips": "091", "name": "St. Helena"}, {"fips": "063", "name": "Livingston"}]}

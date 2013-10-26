@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.435936, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sykeston", "lng": -99.40469, "zip_code": "58486"});
+zipapicallback({"locality": "Sykeston", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sykeston"], "postal_code": "58486", "lat": 47.435936, "lng": -99.40469, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wells"}, {"fips": "093", "name": "Stutsman"}]});

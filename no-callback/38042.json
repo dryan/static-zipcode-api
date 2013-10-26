@@ -1,1 +1,1 @@
-{"lat": 35.149952, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hickory Valley", "lng": -89.1536, "zip_code": "38042"}
+{"locality": "Hickory Valley", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hickory Valley", "Hickory Vly"], "postal_code": "38042", "lat": 35.149952, "lng": -89.1536, "type": "STANDARD", "counties": [{"fips": "069", "name": "Hardeman"}]}

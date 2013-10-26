@@ -1,1 +1,1 @@
-{"lat": 43.219155, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Germantown", "lng": -88.12043, "zip_code": "53022"}
+{"locality": "Germantown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Germantown", "Rockfield"], "postal_code": "53022", "lat": 43.219155, "lng": -88.12043, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}]}

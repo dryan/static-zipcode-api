@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.083218, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Manvel", "lng": -97.18994, "zip_code": "58256"});
+zipapicallback({"locality": "Manvel", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Manvel"], "postal_code": "58256", "lat": 48.083218, "lng": -97.18994, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}]});

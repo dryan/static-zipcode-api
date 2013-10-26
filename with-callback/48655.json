@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.297082, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Charles", "lng": -84.14652, "zip_code": "48655"});
+zipapicallback({"locality": "Saint Charles", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Charles"], "postal_code": "48655", "lat": 43.297082, "lng": -84.14652, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}]});

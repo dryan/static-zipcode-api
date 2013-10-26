@@ -1,1 +1,1 @@
-{"lat": 40.365242, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Loysville", "lng": -77.40369, "zip_code": "17047"}
+{"locality": "Loysville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Loysville"], "postal_code": "17047", "lat": 40.365242, "lng": -77.40369, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}]}

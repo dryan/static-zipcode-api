@@ -1,1 +1,1 @@
-{"lat": 32.307456, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Maypearl", "lng": -97.02761, "zip_code": "76064"}
+{"locality": "Maypearl", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Maypearl"], "postal_code": "76064", "lat": 32.307456, "lng": -97.02761, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ellis"}]}

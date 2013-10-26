@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.798727, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Prairie Home", "lng": -92.6068, "zip_code": "65068"});
+zipapicallback({"locality": "Prairie Home", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Prairie Home"], "postal_code": "65068", "lat": 38.798727, "lng": -92.6068, "type": "STANDARD", "counties": [{"fips": "053", "name": "Cooper"}]});

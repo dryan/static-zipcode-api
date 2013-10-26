@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.919028, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Corry", "lng": -79.65224, "zip_code": "16407"});
+zipapicallback({"locality": "Corry", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Corry"], "postal_code": "16407", "lat": 41.919028, "lng": -79.65224, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}, {"fips": "123", "name": "Warren"}, {"fips": "039", "name": "Crawford"}]});

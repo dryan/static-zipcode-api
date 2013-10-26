@@ -1,1 +1,1 @@
-{"lat": 42.10028, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Genoa", "lng": -88.6906, "zip_code": "60135"}
+{"locality": "Genoa", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Genoa"], "postal_code": "60135", "lat": 42.10028, "lng": -88.6906, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}, {"fips": "111", "name": "McHenry"}]}

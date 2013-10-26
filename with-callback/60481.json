@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.298186, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Custer Park", "lng": -88.1464, "zip_code": "60481"});
+zipapicallback({"locality": "Wilmington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Custer Park", "Wilmington"], "postal_code": "60481", "lat": 41.298186, "lng": -88.1464, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}, {"fips": "063", "name": "Grundy"}]});

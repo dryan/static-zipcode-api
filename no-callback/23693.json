@@ -1,1 +1,1 @@
-{"lat": 37.112915, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Tabb", "lng": -76.43591, "zip_code": "23693"}
+{"locality": "Yorktown", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Tabb", "Yorktown"], "postal_code": "23693", "lat": 37.112915, "lng": -76.43591, "type": "STANDARD", "counties": []}

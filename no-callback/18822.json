@@ -1,1 +1,1 @@
-{"lat": 41.951797, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hallstead", "lng": -75.77536, "zip_code": "18822"}
+{"locality": "Hallstead", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hallstead"], "postal_code": "18822", "lat": 41.951797, "lng": -75.77536, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.792046, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Plano", "lng": -93.04963, "zip_code": "52581"}
+{"locality": "Plano", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Plano"], "postal_code": "52581", "lat": 40.792046, "lng": -93.04963, "type": "STANDARD", "counties": [{"fips": "007", "name": "Appanoose"}]}

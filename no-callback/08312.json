@@ -1,1 +1,1 @@
-{"lat": 39.655964, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Clayton", "lng": -75.08736, "zip_code": "08312"}
+{"locality": "Clayton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Clayton"], "postal_code": "08312", "lat": 39.655964, "lng": -75.08736, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

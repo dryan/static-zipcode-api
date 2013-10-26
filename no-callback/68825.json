@@ -1,1 +1,1 @@
-{"lat": 41.288656, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Callaway", "lng": -99.95439, "zip_code": "68825"}
+{"locality": "Callaway", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Callaway"], "postal_code": "68825", "lat": 41.288656, "lng": -99.95439, "type": "STANDARD", "counties": [{"fips": "041", "name": "Custer"}]}

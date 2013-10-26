@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.042479, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Osbornsville", "lng": -74.123, "zip_code": "08723"});
+zipapicallback({"locality": "Brick", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Brick", "Osbornville"], "postal_code": "08723", "lat": 40.042479, "lng": -74.123, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}, {"fips": "025", "name": "Monmouth"}]});

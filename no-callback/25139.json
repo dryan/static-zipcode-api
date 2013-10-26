@@ -1,1 +1,1 @@
-{"lat": 38.143496, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mount Carbon", "lng": -81.29088, "zip_code": "25139"}
+{"locality": "Mount Carbon", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mount Carbon"], "postal_code": "25139", "lat": 38.143496, "lng": -81.29088, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]}

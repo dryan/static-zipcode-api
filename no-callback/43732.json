@@ -1,1 +1,1 @@
-{"lat": 39.85261, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cumberland", "lng": -81.64922, "zip_code": "43732"}
+{"locality": "Cumberland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cumberland"], "postal_code": "43732", "lat": 39.85261, "lng": -81.64922, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "115", "name": "Morgan"}, {"fips": "119", "name": "Muskingum"}, {"fips": "121", "name": "Noble"}]}

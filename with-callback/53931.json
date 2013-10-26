@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.740108, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Fairwater", "lng": -88.86812, "zip_code": "53931"});
+zipapicallback({"locality": "Fairwater", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fairwater"], "postal_code": "53931", "lat": 43.740108, "lng": -88.86812, "type": "POBOX", "counties": [{"fips": "039", "name": "Fond Du Lac"}]});

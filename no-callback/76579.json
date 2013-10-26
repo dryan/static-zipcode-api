@@ -1,1 +1,1 @@
-{"lat": 31.212196, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Troy", "lng": -97.26563, "zip_code": "76579"}
+{"locality": "Troy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Troy"], "postal_code": "76579", "lat": 31.212196, "lng": -97.26563, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}, {"fips": "145", "name": "Falls"}]}

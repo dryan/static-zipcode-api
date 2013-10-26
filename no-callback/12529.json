@@ -1,1 +1,1 @@
-{"lat": 42.204681, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hillsdale", "lng": -73.54775, "zip_code": "12529"}
+{"locality": "Hillsdale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hillsdale"], "postal_code": "12529", "lat": 42.204681, "lng": -73.54775, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

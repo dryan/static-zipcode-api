@@ -1,1 +1,1 @@
-{"lat": 39.832762, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Boothwyn", "lng": -75.44063, "zip_code": "19061"}
+{"locality": "Marcus Hook", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Boothwyn", "Garnet Valley", "Linwood", "Marcus Hook", "Ogden", "Trainer", "Upper Chichester", "Uppr Chichstr"], "postal_code": "19061", "lat": 39.832762, "lng": -75.44063, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.177462, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Grafton", "lng": -71.69382, "zip_code": "01560"}
+{"locality": "South Grafton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["South Grafton"], "postal_code": "01560", "lat": 42.177462, "lng": -71.69382, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

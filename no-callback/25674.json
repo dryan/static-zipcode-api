@@ -1,1 +1,1 @@
-{"lat": 37.860845, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kermit", "lng": -82.37574, "zip_code": "25674"}
+{"locality": "Kermit", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kermit"], "postal_code": "25674", "lat": 37.860845, "lng": -82.37574, "type": "STANDARD", "counties": [{"fips": "059", "name": "Mingo"}, {"fips": "099", "name": "Wayne"}]}

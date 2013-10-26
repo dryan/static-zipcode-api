@@ -1,1 +1,1 @@
-{"lat": 37.256301, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Merrimac", "lng": -76.70024, "zip_code": "23185"}
+{"locality": "Williamsburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Williamsburg"], "postal_code": "23185", "lat": 37.256301, "lng": -76.70024, "type": "STANDARD", "counties": [{"fips": "095", "name": "James City"}, {"fips": "199", "name": "York"}, {"fips": "830", "name": "Williamsburg (City)"}]}

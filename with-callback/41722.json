@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.369312, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Tribbey", "lng": -83.1156, "zip_code": "41722"});
+zipapicallback({"locality": "Bulan", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bulan", "Talcum", "Tribbey"], "postal_code": "41722", "lat": 37.369312, "lng": -83.1156, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]});

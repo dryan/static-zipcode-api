@@ -1,1 +1,1 @@
-{"lat": 34.094472, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Rembert", "lng": -80.54447, "zip_code": "29128"}
+{"locality": "Rembert", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Borden", "Rembert"], "postal_code": "29128", "lat": 34.094472, "lng": -80.54447, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sumter"}, {"fips": "061", "name": "Lee"}, {"fips": "055", "name": "Kershaw"}]}

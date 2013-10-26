@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.895482, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Eustis", "lng": -81.5228, "zip_code": "32736"});
+zipapicallback({"locality": "Eustis", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Eustis"], "postal_code": "32736", "lat": 28.895482, "lng": -81.5228, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.270319, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ogden", "lng": -112.01932, "zip_code": "84404"});
+zipapicallback({"locality": "Ogden", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Farr West", "Harrisville", "Marriott Slaterville", "Marriott-slaterville City", "Mriott Sltrvl", "Ms City", "Msc", "North Ogden", "Ogden", "Plain City", "Pleasant View"], "postal_code": "84404", "lat": 41.270319, "lng": -112.01932, "type": "STANDARD", "counties": [{"fips": "057", "name": "Weber"}]});

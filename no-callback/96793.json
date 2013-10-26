@@ -1,1 +1,1 @@
-{"lat": 20.889294, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Wailuku", "lng": -156.50497, "zip_code": "96793"}
+{"locality": "Wailuku", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Wailuku"], "postal_code": "96793", "lat": 20.889294, "lng": -156.50497, "type": "STANDARD", "counties": [{"fips": "009", "name": "Maui"}]}

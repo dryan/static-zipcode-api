@@ -1,1 +1,1 @@
-{"lat": 38.806163, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Alexandria", "lng": -77.05139, "zip_code": "22314"}
+{"locality": "Alexandria", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alexandria"], "postal_code": "22314", "lat": 38.806163, "lng": -77.05139, "type": "STANDARD", "counties": [{"fips": "510", "name": "Alexandria (City)"}, {"fips": "610", "name": "Falls Church (City)"}, {"fips": "059", "name": "Fairfax"}]}

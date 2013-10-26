@@ -1,1 +1,1 @@
-{"lat": 39.534907, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Middletown", "lng": -84.39324, "zip_code": "45042"}
+{"locality": "Middletown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Middletown"], "postal_code": "45042", "lat": 39.534907, "lng": -84.39324, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.052591, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hayesville", "lng": -83.76683, "zip_code": "28904"});
+zipapicallback({"locality": "Hayesville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hayesville"], "postal_code": "28904", "lat": 35.052591, "lng": -83.76683, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clay"}]});

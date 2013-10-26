@@ -1,1 +1,1 @@
-{"lat": 36.541861, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Piney Creek", "lng": -81.3195, "zip_code": "28663"}
+{"locality": "Piney Creek", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Piney Creek"], "postal_code": "28663", "lat": 36.541861, "lng": -81.3195, "type": "STANDARD", "counties": [{"fips": "005", "name": "Alleghany"}]}

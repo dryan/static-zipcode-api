@@ -1,1 +1,1 @@
-{"lat": 40.306819, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Boston", "lng": -79.8145, "zip_code": "15135"}
+{"locality": "Mckeesport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Boston", "Mckeesport"], "postal_code": "15135", "lat": 40.306819, "lng": -79.8145, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

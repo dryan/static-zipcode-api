@@ -1,1 +1,1 @@
-{"lat": 42.103122, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Egremont", "lng": -73.45734, "zip_code": "01258"}
+{"locality": "South Egremont", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Mount Washington", "Mt Washington", "S Egremont", "South Egremont"], "postal_code": "01258", "lat": 42.103122, "lng": -73.45734, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

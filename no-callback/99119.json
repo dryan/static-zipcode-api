@@ -1,1 +1,1 @@
-{"lat": 48.504786, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Cusick", "lng": -117.31689, "zip_code": "99119"}
+{"locality": "Cusick", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Cusick"], "postal_code": "99119", "lat": 48.504786, "lng": -117.31689, "type": "STANDARD", "counties": [{"fips": "051", "name": "Pend Oreille"}]}

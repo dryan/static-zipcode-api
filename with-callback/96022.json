@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.360583, "region": {"abbr": "CA", "name": "California"}, "locality": "Cottonwood", "lng": -122.33544, "zip_code": "96022"});
+zipapicallback({"locality": "Cottonwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cottonwood"], "postal_code": "96022", "lat": 40.360583, "lng": -122.33544, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}, {"fips": "103", "name": "Tehama"}]});

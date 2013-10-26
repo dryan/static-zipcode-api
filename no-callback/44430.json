@@ -1,1 +1,1 @@
-{"lat": 41.24168, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Leavittsburg", "lng": -80.88588, "zip_code": "44430"}
+{"locality": "Leavittsburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Leavittsburg"], "postal_code": "44430", "lat": 41.24168, "lng": -80.88588, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

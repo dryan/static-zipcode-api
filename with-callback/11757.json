@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.690049, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lindenhurst", "lng": -73.37442, "zip_code": "11757"});
+zipapicallback({"locality": "Lindenhurst", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lindenhurst"], "postal_code": "11757", "lat": 40.690049, "lng": -73.37442, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.567787, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pellston", "lng": -84.81464, "zip_code": "49769"});
+zipapicallback({"locality": "Pellston", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pellston"], "postal_code": "49769", "lat": 45.567787, "lng": -84.81464, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "031", "name": "Cheboygan"}, {"fips": "063", "name": "Huron"}]});

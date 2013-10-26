@@ -1,1 +1,1 @@
-{"lat": 40.318156, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Arapahoe", "lng": -99.89562, "zip_code": "68922"}
+{"locality": "Arapahoe", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Arapahoe"], "postal_code": "68922", "lat": 40.318156, "lng": -99.89562, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}, {"fips": "073", "name": "Gosper"}]}

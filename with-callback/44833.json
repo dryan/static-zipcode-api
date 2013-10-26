@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.720869, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Galion", "lng": -82.797, "zip_code": "44833"});
+zipapicallback({"locality": "Galion", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Galion"], "postal_code": "44833", "lat": 40.720869, "lng": -82.797, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}, {"fips": "117", "name": "Morrow"}, {"fips": "101", "name": "Marion"}, {"fips": "139", "name": "Richland"}, {"fips": "049", "name": "Franklin"}]});

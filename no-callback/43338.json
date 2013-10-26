@@ -1,1 +1,1 @@
-{"lat": 40.555366, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mount Gilead", "lng": -82.77273, "zip_code": "43338"}
+{"locality": "Mount Gilead", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mount Gilead"], "postal_code": "43338", "lat": 40.555366, "lng": -82.77273, "type": "STANDARD", "counties": [{"fips": "117", "name": "Morrow"}]}

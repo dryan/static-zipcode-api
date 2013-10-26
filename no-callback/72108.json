@@ -1,1 +1,1 @@
-{"lat": 34.726737, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Monroe", "lng": -91.10958, "zip_code": "72108"}
+{"locality": "Monroe", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Monroe"], "postal_code": "72108", "lat": 34.726737, "lng": -91.10958, "type": "POBOX", "counties": [{"fips": "095", "name": "Monroe"}]}

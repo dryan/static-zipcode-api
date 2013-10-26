@@ -1,1 +1,1 @@
-{"lat": 37.448681, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Rosine", "lng": -86.74121, "zip_code": "42370"}
+{"locality": "Rosine", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Rosine"], "postal_code": "42370", "lat": 37.448681, "lng": -86.74121, "type": "POBOX", "counties": [{"fips": "183", "name": "Ohio"}]}

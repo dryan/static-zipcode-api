@@ -1,1 +1,1 @@
-{"lat": 48.303578, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Lawton", "lng": -98.33378, "zip_code": "58345"}
+{"locality": "Lawton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Lawton"], "postal_code": "58345", "lat": 48.303578, "lng": -98.33378, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}, {"fips": "099", "name": "Walsh"}]}

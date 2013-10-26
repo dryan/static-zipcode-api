@@ -1,1 +1,1 @@
-{"lat": 41.987238, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Enfield", "lng": -72.56365, "zip_code": "06082"}
+{"locality": "Enfield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Enfield"], "postal_code": "06082", "lat": 41.987238, "lng": -72.56365, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

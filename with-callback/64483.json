@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.03722, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rosendale", "lng": -94.83935, "zip_code": "64483"});
+zipapicallback({"locality": "Rosendale", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rosendale"], "postal_code": "64483", "lat": 40.03722, "lng": -94.83935, "type": "STANDARD", "counties": [{"fips": "003", "name": "Andrew"}]});

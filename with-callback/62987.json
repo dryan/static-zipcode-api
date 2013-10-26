@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.635792, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stonefort", "lng": -88.67912, "zip_code": "62987"});
+zipapicallback({"locality": "Stonefort", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stonefort"], "postal_code": "62987", "lat": 37.635792, "lng": -88.67912, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}, {"fips": "151", "name": "Pope"}, {"fips": "199", "name": "Williamson"}]});

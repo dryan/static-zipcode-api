@@ -1,1 +1,1 @@
-{"lat": 39.349476, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kearneysville", "lng": -77.93415, "zip_code": "25430"}
+{"locality": "Kearneysville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kearneysville", "Middleway"], "postal_code": "25430", "lat": 39.349476, "lng": -77.93415, "type": "STANDARD", "counties": [{"fips": "037", "name": "Jefferson"}]}

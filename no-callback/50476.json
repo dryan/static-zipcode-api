@@ -1,1 +1,1 @@
-{"lat": 43.441028, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Stacyville", "lng": -92.77702, "zip_code": "50476"}
+{"locality": "Stacyville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Stacyville"], "postal_code": "50476", "lat": 43.441028, "lng": -92.77702, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mitchell"}]}

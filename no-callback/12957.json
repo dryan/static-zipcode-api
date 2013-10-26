@@ -1,1 +1,1 @@
-{"lat": 44.833996, "region": {"abbr": "NY", "name": "New York"}, "locality": "Moira", "lng": -74.5716, "zip_code": "12957"}
+{"locality": "Moira", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Moira"], "postal_code": "12957", "lat": 44.833996, "lng": -74.5716, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}]}

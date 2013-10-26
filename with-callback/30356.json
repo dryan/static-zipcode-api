@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta", "Dunwoody"], "postal_code": "30356", "type": "POBOX", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "121", "name": "Fulton"}]});

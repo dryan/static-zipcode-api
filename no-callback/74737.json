@@ -1,1 +1,1 @@
-{"lat": 34.032184, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Golden", "lng": -94.89649, "zip_code": "74737"}
+{"locality": "Golden", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Golden"], "postal_code": "74737", "lat": 34.032184, "lng": -94.89649, "type": "POBOX", "counties": [{"fips": "089", "name": "McCurtain"}]}

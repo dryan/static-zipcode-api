@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.335676, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Pine Hall", "lng": -80.05135, "zip_code": "27042"});
+zipapicallback({"locality": "Pine Hall", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Pine Hall"], "postal_code": "27042", "lat": 36.335676, "lng": -80.05135, "type": "STANDARD", "counties": [{"fips": "169", "name": "Stokes"}]});

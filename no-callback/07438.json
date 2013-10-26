@@ -1,1 +1,1 @@
-{"lat": 41.029555, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Milton", "lng": -74.5071, "zip_code": "07438"}
+{"locality": "Oak Ridge", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Oak Ridge"], "postal_code": "07438", "lat": 41.029555, "lng": -74.5071, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}, {"fips": "027", "name": "Morris"}]}

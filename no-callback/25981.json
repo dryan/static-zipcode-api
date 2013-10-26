@@ -1,1 +1,1 @@
-{"lat": 38.07743, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Marfrance", "lng": -80.72476, "zip_code": "25981"}
+{"locality": "Quinwood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Crichton", "Marfrance", "Quinwood"], "postal_code": "25981", "lat": 38.07743, "lng": -80.72476, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}, {"fips": "067", "name": "Nicholas"}]}

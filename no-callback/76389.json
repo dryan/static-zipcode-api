@@ -1,1 +1,1 @@
-{"lat": 33.554607, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Windthorst", "lng": -98.42076, "zip_code": "76389"}
+{"locality": "Windthorst", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Windthorst"], "postal_code": "76389", "lat": 33.554607, "lng": -98.42076, "type": "STANDARD", "counties": [{"fips": "009", "name": "Archer"}, {"fips": "503", "name": "Young"}, {"fips": "237", "name": "Jack"}, {"fips": "077", "name": "Clay"}]}

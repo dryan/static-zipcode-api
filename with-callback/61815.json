@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.112616, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bondville", "lng": -88.3708, "zip_code": "61815"});
+zipapicallback({"locality": "Bondville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bondville"], "postal_code": "61815", "lat": 40.112616, "lng": -88.3708, "type": "POBOX", "counties": [{"fips": "019", "name": "Champaign"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.235125, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clitherall", "lng": -95.61543, "zip_code": "56524"}
+{"locality": "Clitherall", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clitherall"], "postal_code": "56524", "lat": 46.235125, "lng": -95.61543, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]}

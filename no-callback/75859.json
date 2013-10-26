@@ -1,1 +1,1 @@
-{"lat": 31.889748, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Streetman", "lng": -96.25435, "zip_code": "75859"}
+{"locality": "Streetman", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Streetman"], "postal_code": "75859", "lat": 31.889748, "lng": -96.25435, "type": "STANDARD", "counties": [{"fips": "161", "name": "Freestone"}, {"fips": "349", "name": "Navarro"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.434644, "region": {"abbr": "CA", "name": "California"}, "locality": "Palermo", "lng": -121.55043, "zip_code": "95968"}
+{"locality": "Palermo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palermo"], "postal_code": "95968", "lat": 39.434644, "lng": -121.55043, "type": "STANDARD", "counties": [{"fips": "007", "name": "Butte"}]}

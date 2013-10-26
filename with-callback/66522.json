@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.865907, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Oneida", "lng": -95.9413, "zip_code": "66522"});
+zipapicallback({"locality": "Oneida", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Oneida"], "postal_code": "66522", "lat": 39.865907, "lng": -95.9413, "type": "STANDARD", "counties": [{"fips": "131", "name": "Nemaha"}]});

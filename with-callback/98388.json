@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.164965, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Steilacoom", "lng": -122.6005, "zip_code": "98388"});
+zipapicallback({"locality": "Steilacoom", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Steilacoom"], "postal_code": "98388", "lat": 47.164965, "lng": -122.6005, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]});

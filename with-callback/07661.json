@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.927579, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "River Edge", "lng": -74.03739, "zip_code": "07661"});
+zipapicallback({"locality": "River Edge", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["River Edge"], "postal_code": "07661", "lat": 40.927579, "lng": -74.03739, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

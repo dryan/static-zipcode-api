@@ -1,1 +1,1 @@
-{"lat": 42.77448, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "West Halifax", "lng": -72.71702, "zip_code": "05358"}
+{"locality": "West Halifax", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["West Halifax"], "postal_code": "05358", "lat": 42.77448, "lng": -72.71702, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]}

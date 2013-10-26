@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.584172, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Clodine", "lng": -95.747, "zip_code": "77469"});
+zipapicallback({"locality": "Richmond", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Booth", "Clodine", "Richmond", "Rosenberg"], "postal_code": "77469", "lat": 29.584172, "lng": -95.747, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}]});

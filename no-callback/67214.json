@@ -1,1 +1,1 @@
-{"lat": 37.705384, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wichita", "lng": -97.31777, "zip_code": "67214"}
+{"locality": "Wichita", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wichita"], "postal_code": "67214", "lat": 37.705384, "lng": -97.31777, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}]}

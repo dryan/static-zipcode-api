@@ -1,1 +1,1 @@
-{"lat": 40.771447, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bellport", "lng": -72.94663, "zip_code": "11713"}
+{"locality": "Bellport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bellport"], "postal_code": "11713", "lat": 40.771447, "lng": -72.94663, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

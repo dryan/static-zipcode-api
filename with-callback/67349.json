@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.479165, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Howard", "lng": -96.26594, "zip_code": "67349"});
+zipapicallback({"locality": "Howard", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Howard"], "postal_code": "67349", "lat": 37.479165, "lng": -96.26594, "type": "STANDARD", "counties": [{"fips": "049", "name": "Elk"}]});

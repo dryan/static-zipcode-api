@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.376701, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Longton", "lng": -96.07025, "zip_code": "67352"});
+zipapicallback({"locality": "Longton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Longton"], "postal_code": "67352", "lat": 37.376701, "lng": -96.07025, "type": "STANDARD", "counties": [{"fips": "049", "name": "Elk"}, {"fips": "019", "name": "Chautauqua"}]});

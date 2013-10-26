@@ -1,1 +1,1 @@
-{"lat": 30.698517, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Grand Ridge", "lng": -85.01619, "zip_code": "32442"}
+{"locality": "Grand Ridge", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Grand Ridge"], "postal_code": "32442", "lat": 30.698517, "lng": -85.01619, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jackson"}]}

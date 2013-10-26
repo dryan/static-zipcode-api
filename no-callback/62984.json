@@ -1,1 +1,1 @@
-{"lat": 37.712847, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Shawneetown", "lng": -88.16553, "zip_code": "62984"}
+{"locality": "Shawneetown", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Shawneetown"], "postal_code": "62984", "lat": 37.712847, "lng": -88.16553, "type": "STANDARD", "counties": [{"fips": "059", "name": "Gallatin"}]}

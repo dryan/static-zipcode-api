@@ -1,1 +1,1 @@
-{"lat": 36.618928, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Espanola", "lng": -106.75512, "zip_code": "87533"}
+{"locality": "Espanola", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Espanola", "Fairview"], "postal_code": "87533", "lat": 36.618928, "lng": -106.75512, "type": "POBOX", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

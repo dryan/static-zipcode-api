@@ -1,1 +1,1 @@
-{"lat": 41.784794, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Hartford", "lng": -72.67378, "zip_code": "06120"}
+{"locality": "Hartford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Hartford"], "postal_code": "06120", "lat": 41.784794, "lng": -72.67378, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

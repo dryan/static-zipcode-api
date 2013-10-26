@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.98291, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Oakdale", "lng": -84.60149, "zip_code": "37829"});
+zipapicallback({"locality": "Oakdale", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Oakdale"], "postal_code": "37829", "lat": 35.98291, "lng": -84.60149, "type": "STANDARD", "counties": [{"fips": "129", "name": "Morgan"}]});

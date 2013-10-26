@@ -1,1 +1,1 @@
-{"lat": 42.042648, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Marion", "lng": -91.58262, "zip_code": "52302"}
+{"locality": "Marion", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Marion"], "postal_code": "52302", "lat": 42.042648, "lng": -91.58262, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}]}

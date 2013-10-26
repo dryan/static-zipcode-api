@@ -1,1 +1,1 @@
-{"lat": 42.300918, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Freeport", "lng": -89.63208, "zip_code": "61032"}
+{"locality": "Freeport", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Freeport", "Scioto Mills"], "postal_code": "61032", "lat": 42.300918, "lng": -89.63208, "type": "STANDARD", "counties": [{"fips": "177", "name": "Stephenson"}]}

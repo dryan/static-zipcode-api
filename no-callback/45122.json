@@ -1,1 +1,1 @@
-{"lat": 39.222264, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Goshen", "lng": -84.11831, "zip_code": "45122"}
+{"locality": "Goshen", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Goshen"], "postal_code": "45122", "lat": 39.222264, "lng": -84.11831, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}, {"fips": "165", "name": "Warren"}, {"fips": "015", "name": "Brown"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.390932, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cape Canaveral", "lng": -80.60501, "zip_code": "32920"});
+zipapicallback({"locality": "Cape Canaveral", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cape Canaveral", "Cpe Canaveral", "Port Canaveral", "Pt Canaveral"], "postal_code": "32920", "lat": 28.390932, "lng": -80.60501, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]});

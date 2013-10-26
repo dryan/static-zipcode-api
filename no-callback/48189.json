@@ -1,1 +1,1 @@
-{"lat": 42.422746, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Whitmore Lake", "lng": -83.78009, "zip_code": "48189"}
+{"locality": "Whitmore Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hamburg Twp", "Whitmore Lake"], "postal_code": "48189", "lat": 42.422746, "lng": -83.78009, "type": "STANDARD", "counties": [{"fips": "093", "name": "Livingston"}, {"fips": "161", "name": "Washtenaw"}]}

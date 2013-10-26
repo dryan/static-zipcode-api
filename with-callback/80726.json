@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.888254, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Crook", "lng": -102.78823, "zip_code": "80726"});
+zipapicallback({"locality": "Crook", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Crook"], "postal_code": "80726", "lat": 40.888254, "lng": -102.78823, "type": "STANDARD", "counties": [{"fips": "075", "name": "Logan"}]});

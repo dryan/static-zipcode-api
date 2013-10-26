@@ -1,1 +1,1 @@
-{"lat": 41.533848, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Norwich", "lng": -72.06232, "zip_code": "06360"}
+{"locality": "Norwich", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Norwich"], "postal_code": "06360", "lat": 41.533848, "lng": -72.06232, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

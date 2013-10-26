@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.159515, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Nunda", "lng": -97.00957, "zip_code": "57050"});
+zipapicallback({"locality": "Nunda", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Nunda"], "postal_code": "57050", "lat": 44.159515, "lng": -97.00957, "type": "STANDARD", "counties": [{"fips": "079", "name": "Lake"}]});

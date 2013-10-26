@@ -1,1 +1,1 @@
-{"lat": 44.184909, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "North Mankato", "lng": -94.04244, "zip_code": "56003"}
+{"locality": "Mankato", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mankato", "North Mankato"], "postal_code": "56003", "lat": 44.184909, "lng": -94.04244, "type": "STANDARD", "counties": []}

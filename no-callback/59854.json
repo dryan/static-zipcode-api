@@ -1,1 +1,1 @@
-{"lat": 47.044698, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ovando", "lng": -113.09214, "zip_code": "59854"}
+{"locality": "Ovando", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ovando"], "postal_code": "59854", "lat": 47.044698, "lng": -113.09214, "type": "STANDARD", "counties": [{"fips": "077", "name": "Powell"}]}

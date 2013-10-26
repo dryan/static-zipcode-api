@@ -1,1 +1,1 @@
-{"lat": 33.281102, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Senoia", "lng": -84.58017, "zip_code": "30276"}
+{"locality": "Senoia", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Senoia"], "postal_code": "30276", "lat": 33.281102, "lng": -84.58017, "type": "STANDARD", "counties": [{"fips": "077", "name": "Coweta"}, {"fips": "113", "name": "Fayette"}, {"fips": "199", "name": "Meriwether"}]}

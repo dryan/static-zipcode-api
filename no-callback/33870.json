@@ -1,1 +1,1 @@
-{"lat": 27.483817, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sebring", "lng": -81.42131, "zip_code": "33870"}
+{"locality": "Sebring", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sebring"], "postal_code": "33870", "lat": 27.483817, "lng": -81.42131, "type": "STANDARD", "counties": [{"fips": "055", "name": "Highlands"}]}

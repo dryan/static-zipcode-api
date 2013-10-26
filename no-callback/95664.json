@@ -1,1 +1,1 @@
-{"lat": 38.811695, "region": {"abbr": "CA", "name": "California"}, "locality": "Pilot Hill", "lng": -121.02427, "zip_code": "95664"}
+{"locality": "Pilot Hill", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pilot Hill"], "postal_code": "95664", "lat": 38.811695, "lng": -121.02427, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.38928, "region": {"abbr": "NY", "name": "New York"}, "locality": "Goshen", "lng": -74.3337, "zip_code": "10924"});
+zipapicallback({"locality": "Goshen", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Goshen"], "postal_code": "10924", "lat": 41.38928, "lng": -74.3337, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

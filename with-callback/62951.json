@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.820724, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Johnston City", "lng": -88.92647, "zip_code": "62951"});
+zipapicallback({"locality": "Johnston City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Johnston City"], "postal_code": "62951", "lat": 37.820724, "lng": -88.92647, "type": "STANDARD", "counties": [{"fips": "199", "name": "Williamson"}]});

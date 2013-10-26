@@ -1,1 +1,1 @@
-{"lat": 44.306955, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Manchester", "lng": -69.87518, "zip_code": "04351"}
+{"locality": "Manchester", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Manchester"], "postal_code": "04351", "lat": 44.306955, "lng": -69.87518, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]}

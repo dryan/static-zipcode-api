@@ -1,1 +1,1 @@
-{"lat": 43.063858, "region": {"abbr": "NY", "name": "New York"}, "locality": "Palmyra", "lng": -77.2223, "zip_code": "14522"}
+{"locality": "Palmyra", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Palmyra"], "postal_code": "14522", "lat": 43.063858, "lng": -77.2223, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}, {"fips": "069", "name": "Ontario"}]}

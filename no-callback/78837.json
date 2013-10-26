@@ -1,1 +1,1 @@
-{"lat": 29.933388, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Comstock", "lng": -101.40061, "zip_code": "78837"}
+{"locality": "Comstock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Comstock"], "postal_code": "78837", "lat": 29.933388, "lng": -101.40061, "type": "STANDARD", "counties": [{"fips": "465", "name": "Val Verde"}]}

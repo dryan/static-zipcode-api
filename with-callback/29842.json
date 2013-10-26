@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.443562, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Beech Island", "lng": -81.87994, "zip_code": "29842"});
+zipapicallback({"locality": "Beech Island", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Beech Island"], "postal_code": "29842", "lat": 33.443562, "lng": -81.87994, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aiken"}]});

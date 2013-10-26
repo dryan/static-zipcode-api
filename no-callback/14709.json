@@ -1,1 +1,1 @@
-{"lat": 42.339925, "region": {"abbr": "NY", "name": "New York"}, "locality": "Angelica", "lng": -77.99413, "zip_code": "14709"}
+{"locality": "Angelica", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Angelica"], "postal_code": "14709", "lat": 42.339925, "lng": -77.99413, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.665605, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Otis A F B", "lng": -70.52456, "zip_code": "02542"});
+zipapicallback({"locality": "Buzzards Bay", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Buzzards Bay", "Otis Angb"], "postal_code": "02542", "lat": 41.665605, "lng": -70.52456, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

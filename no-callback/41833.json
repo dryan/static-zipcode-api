@@ -1,1 +1,1 @@
-{"lat": 37.021403, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Linefork", "lng": -82.98159, "zip_code": "41833"}
+{"locality": "Linefork", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Linefork"], "postal_code": "41833", "lat": 37.021403, "lng": -82.98159, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]}

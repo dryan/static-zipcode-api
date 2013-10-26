@@ -1,1 +1,1 @@
-{"lat": 47.632573, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Spokane", "lng": -117.49326, "zip_code": "99224"}
+{"locality": "Spokane", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Spokane"], "postal_code": "99224", "lat": 47.632573, "lng": -117.49326, "type": "STANDARD", "counties": []}

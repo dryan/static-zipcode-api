@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.410781, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kingston", "lng": -83.17248, "zip_code": "48741"});
+zipapicallback({"locality": "Kingston", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kingston"], "postal_code": "48741", "lat": 43.410781, "lng": -83.17248, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}, {"fips": "151", "name": "Sanilac"}]});

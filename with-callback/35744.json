@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.610055, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Dutton", "lng": -85.91553, "zip_code": "35744"});
+zipapicallback({"locality": "Dutton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dutton"], "postal_code": "35744", "lat": 34.610055, "lng": -85.91553, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}]});

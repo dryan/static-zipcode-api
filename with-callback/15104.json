@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.404743, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rankin", "lng": -79.86439, "zip_code": "15104"});
+zipapicallback({"locality": "Braddock", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Braddock", "Rankin"], "postal_code": "15104", "lat": 40.404743, "lng": -79.86439, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

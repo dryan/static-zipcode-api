@@ -1,1 +1,1 @@
-{"lat": 38.632055, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Holts Summit", "lng": -92.11831, "zip_code": "65043"}
+{"locality": "Holts Summit", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Holts Summit"], "postal_code": "65043", "lat": 38.632055, "lng": -92.11831, "type": "STANDARD", "counties": [{"fips": "027", "name": "Callaway"}]}

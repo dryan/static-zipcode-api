@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.457903, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Shreveport", "lng": -93.7133, "zip_code": "71105"});
+zipapicallback({"locality": "Shreveport", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Shreveport"], "postal_code": "71105", "lat": 32.457903, "lng": -93.7133, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}, {"fips": "071", "name": "Orleans"}]});

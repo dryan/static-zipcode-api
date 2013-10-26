@@ -1,1 +1,1 @@
-{"lat": 41.764498, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Tiona", "lng": -79.04693, "zip_code": "16352"}
+{"locality": "Tiona", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Tiona"], "postal_code": "16352", "lat": 41.764498, "lng": -79.04693, "type": "POBOX", "counties": [{"fips": "123", "name": "Warren"}]}

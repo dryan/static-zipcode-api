@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.671356, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Dunstable", "lng": -71.50292, "zip_code": "01827"});
+zipapicallback({"locality": "Dunstable", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Dunstable"], "postal_code": "01827", "lat": 42.671356, "lng": -71.50292, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

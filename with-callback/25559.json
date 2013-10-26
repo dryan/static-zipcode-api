@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.324409, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Salt Rock", "lng": -82.22242, "zip_code": "25559"});
+zipapicallback({"locality": "Salt Rock", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Salt Rock"], "postal_code": "25559", "lat": 38.324409, "lng": -82.22242, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}]});

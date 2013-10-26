@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.726931, "region": {"abbr": "CA", "name": "California"}, "locality": "Heber", "lng": -115.51245, "zip_code": "92249"});
+zipapicallback({"locality": "Heber", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Heber"], "postal_code": "92249", "lat": 32.726931, "lng": -115.51245, "type": "STANDARD", "counties": [{"fips": "025", "name": "Imperial"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.6128, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Roaming Shores", "lng": -80.83579, "zip_code": "44085"});
+zipapicallback({"locality": "Rome", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Roaming Shores", "Roaming Shrs", "Rome"], "postal_code": "44085", "lat": 41.6128, "lng": -80.83579, "type": "STANDARD", "counties": [{"fips": "007", "name": "Ashtabula"}]});

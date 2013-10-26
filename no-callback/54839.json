@@ -1,1 +1,1 @@
-{"lat": 46.360155, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Grand View", "lng": -91.14425, "zip_code": "54839"}
+{"locality": "Grand View", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Grand View"], "postal_code": "54839", "lat": 46.360155, "lng": -91.14425, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bayfield"}]}

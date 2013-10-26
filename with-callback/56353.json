@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.760191, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Milaca", "lng": -93.63247, "zip_code": "56353"});
+zipapicallback({"locality": "Milaca", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Milaca"], "postal_code": "56353", "lat": 45.760191, "lng": -93.63247, "type": "STANDARD", "counties": [{"fips": "095", "name": "Mille Lacs"}, {"fips": "059", "name": "Isanti"}, {"fips": "097", "name": "Morrison"}]});

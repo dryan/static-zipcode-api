@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.156378, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Berryville", "lng": -77.97857, "zip_code": "22611"});
+zipapicallback({"locality": "Berryville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Berryville", "Mount Weather"], "postal_code": "22611", "lat": 39.156378, "lng": -77.97857, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clarke"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.625883, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Kamas", "lng": -111.20141, "zip_code": "84036"});
+zipapicallback({"locality": "Kamas", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Francis", "Hideout", "Kamas"], "postal_code": "84036", "lat": 40.625883, "lng": -111.20141, "type": "STANDARD", "counties": [{"fips": "043", "name": "Summit"}]});

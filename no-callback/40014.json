@@ -1,1 +1,1 @@
-{"lat": 38.335106, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Crestwood", "lng": -85.4584, "zip_code": "40014"}
+{"locality": "Crestwood", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ballardsville", "Crestwood", "Orchard Grass", "Orchard Grass Hills"], "postal_code": "40014", "lat": 38.335106, "lng": -85.4584, "type": "STANDARD", "counties": [{"fips": "185", "name": "Oldham"}]}

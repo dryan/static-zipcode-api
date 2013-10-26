@@ -1,1 +1,1 @@
-{"lat": 39.931181, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Republic", "lng": -97.81023, "zip_code": "66964"}
+{"locality": "Republic", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Republic"], "postal_code": "66964", "lat": 39.931181, "lng": -97.81023, "type": "STANDARD", "counties": [{"fips": "157", "name": "Republic"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.050838, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Axtell", "lng": -111.84775, "zip_code": "84621"});
+zipapicallback({"locality": "Axtell", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Axtell"], "postal_code": "84621", "lat": 39.050838, "lng": -111.84775, "type": "STANDARD", "counties": [{"fips": "039", "name": "Sanpete"}]});

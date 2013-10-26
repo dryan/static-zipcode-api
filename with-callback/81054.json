@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.037435, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Deora", "lng": -103.18631, "zip_code": "81054"});
+zipapicallback({"locality": "Las Animas", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Deora", "Fort Lyon", "Las Animas", "Ninaview"], "postal_code": "81054", "lat": 38.037435, "lng": -103.18631, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bent"}, {"fips": "101", "name": "Pueblo"}, {"fips": "009", "name": "Baca"}, {"fips": "071", "name": "Las Animas"}]});

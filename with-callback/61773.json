@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.584937, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sibley", "lng": -88.38028, "zip_code": "61773"});
+zipapicallback({"locality": "Sibley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sibley"], "postal_code": "61773", "lat": 40.584937, "lng": -88.38028, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ford"}]});

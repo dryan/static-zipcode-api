@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.859953, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mears", "lng": -75.62995, "zip_code": "23409"});
+zipapicallback({"locality": "Mears", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mears"], "postal_code": "23409", "lat": 37.859953, "lng": -75.62995, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

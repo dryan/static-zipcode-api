@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.662451, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Folly Beach", "lng": -79.93224, "zip_code": "29439"});
+zipapicallback({"locality": "Folly Beach", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Folly Beach"], "postal_code": "29439", "lat": 32.662451, "lng": -79.93224, "type": "POBOX", "counties": [{"fips": "019", "name": "Charleston"}]});

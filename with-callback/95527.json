@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.877334, "region": {"abbr": "CA", "name": "California"}, "locality": "Burnt Ranch", "lng": -123.45661, "zip_code": "95527"});
+zipapicallback({"locality": "Burnt Ranch", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Burnt Ranch"], "postal_code": "95527", "lat": 40.877334, "lng": -123.45661, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]});

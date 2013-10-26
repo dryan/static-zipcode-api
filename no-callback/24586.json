@@ -1,1 +1,1 @@
-{"lat": 36.595244, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ringgold", "lng": -79.28647, "zip_code": "24586"}
+{"locality": "Ringgold", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ringgold"], "postal_code": "24586", "lat": 36.595244, "lng": -79.28647, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]}

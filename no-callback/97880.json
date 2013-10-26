@@ -1,1 +1,1 @@
-{"lat": 45.085144, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Ukiah", "lng": -118.944, "zip_code": "97880"}
+{"locality": "Ukiah", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Dale", "Ukiah"], "postal_code": "97880", "lat": 45.085144, "lng": -118.944, "type": "POBOX", "counties": [{"fips": "059", "name": "Umatilla"}]}

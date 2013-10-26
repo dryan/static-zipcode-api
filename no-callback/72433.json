@@ -1,1 +1,1 @@
-{"lat": 36.042319, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hoxie", "lng": -90.99827, "zip_code": "72433"}
+{"locality": "Hoxie", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hoxie"], "postal_code": "72433", "lat": 36.042319, "lng": -90.99827, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lawrence"}]}

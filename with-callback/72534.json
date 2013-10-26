@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.588979, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Floral", "lng": -91.74043, "zip_code": "72534"});
+zipapicallback({"locality": "Floral", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Floral"], "postal_code": "72534", "lat": 35.588979, "lng": -91.74043, "type": "STANDARD", "counties": [{"fips": "063", "name": "Independence"}]});

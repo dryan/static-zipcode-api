@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.961443, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Blaine", "lng": -122.73714, "zip_code": "98230"});
+zipapicallback({"locality": "Blaine", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Blaine"], "postal_code": "98230", "lat": 48.961443, "lng": -122.73714, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]});

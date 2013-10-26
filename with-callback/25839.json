@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.776961, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Fairdale", "lng": -81.36179, "zip_code": "25839"});
+zipapicallback({"locality": "Fairdale", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Fairdale"], "postal_code": "25839", "lat": 37.776961, "lng": -81.36179, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

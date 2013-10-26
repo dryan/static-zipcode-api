@@ -1,1 +1,1 @@
-{"lat": 41.173044, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Corsica", "lng": -79.19369, "zip_code": "15829"}
+{"locality": "Corsica", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Corsica"], "postal_code": "15829", "lat": 41.173044, "lng": -79.19369, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}, {"fips": "031", "name": "Clarion"}]}

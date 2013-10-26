@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.588087, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Shelbyville", "lng": -85.5824, "zip_code": "49344"});
+zipapicallback({"locality": "Shelbyville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Shelbyville"], "postal_code": "49344", "lat": 42.588087, "lng": -85.5824, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allegan"}, {"fips": "015", "name": "Barry"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.707505, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Peapack", "lng": -74.65657, "zip_code": "07977"}
+{"locality": "Peapack", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Peapack"], "postal_code": "07977", "lat": 40.707505, "lng": -74.65657, "type": "POBOX", "counties": [{"fips": "035", "name": "Somerset"}]}

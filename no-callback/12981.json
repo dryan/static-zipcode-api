@@ -1,1 +1,1 @@
-{"lat": 44.617642, "region": {"abbr": "NY", "name": "New York"}, "locality": "Saranac", "lng": -73.81196, "zip_code": "12981"}
+{"locality": "Saranac", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Saranac"], "postal_code": "12981", "lat": 44.617642, "lng": -73.81196, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]}

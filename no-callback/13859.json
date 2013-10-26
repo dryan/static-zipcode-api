@@ -1,1 +1,1 @@
-{"lat": 42.367765, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wells Bridge", "lng": -75.24718, "zip_code": "13859"}
+{"locality": "Wells Bridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wells Bridge"], "postal_code": "13859", "lat": 42.367765, "lng": -75.24718, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}, {"fips": "025", "name": "Delaware"}]}

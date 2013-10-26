@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.949054, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lawrenceville", "lng": -83.98565, "zip_code": "30045"});
+zipapicallback({"locality": "Lawrenceville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lawrenceville"], "postal_code": "30045", "lat": 33.949054, "lng": -83.98565, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.23521, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kismet", "lng": -100.75208, "zip_code": "67859"});
+zipapicallback({"locality": "Kismet", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kismet"], "postal_code": "67859", "lat": 37.23521, "lng": -100.75208, "type": "STANDARD", "counties": [{"fips": "175", "name": "Seward"}]});

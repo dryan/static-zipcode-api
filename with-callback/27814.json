@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.384013, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Blounts Creek", "lng": -76.93188, "zip_code": "27814"});
+zipapicallback({"locality": "Blounts Creek", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Blounts Creek"], "postal_code": "27814", "lat": 35.384013, "lng": -76.93188, "type": "STANDARD", "counties": [{"fips": "013", "name": "Beaufort"}]});

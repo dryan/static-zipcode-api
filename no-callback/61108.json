@@ -1,1 +1,1 @@
-{"lat": 42.254087, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rockford", "lng": -89.01776, "zip_code": "61108"}
+{"locality": "Rockford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rockford"], "postal_code": "61108", "lat": 42.254087, "lng": -89.01776, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}, {"fips": "007", "name": "Boone"}]}

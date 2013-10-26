@@ -1,1 +1,1 @@
-{"lat": 40.539432, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fort Collins", "lng": -105.11576, "zip_code": "80526"}
+{"locality": "Fort Collins", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fort Collins"], "postal_code": "80526", "lat": 40.539432, "lng": -105.11576, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}]}

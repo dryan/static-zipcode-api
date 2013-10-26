@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.724682, "region": {"abbr": "CA", "name": "California"}, "locality": "Placerville", "lng": -120.79533, "zip_code": "95667"});
+zipapicallback({"locality": "Placerville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kelsey", "Placerville"], "postal_code": "95667", "lat": 38.724682, "lng": -120.79533, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.298409, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sherwood", "lng": -84.55885, "zip_code": "43556"}
+{"locality": "Sherwood", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sherwood"], "postal_code": "43556", "lat": 41.298409, "lng": -84.55885, "type": "STANDARD", "counties": [{"fips": "039", "name": "Defiance"}, {"fips": "125", "name": "Paulding"}]}

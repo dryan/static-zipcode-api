@@ -1,1 +1,1 @@
-{"lat": 40.606673, "region": {"abbr": "CA", "name": "California"}, "locality": "Douglas City", "lng": -122.92335, "zip_code": "96024"}
+{"locality": "Douglas City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Douglas City"], "postal_code": "96024", "lat": 40.606673, "lng": -122.92335, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]}

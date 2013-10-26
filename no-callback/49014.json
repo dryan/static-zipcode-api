@@ -1,1 +1,1 @@
-{"lat": 42.311089, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Battle Creek", "lng": -85.13845, "zip_code": "49014"}
+{"locality": "Battle Creek", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Battle Creek"], "postal_code": "49014", "lat": 42.311089, "lng": -85.13845, "type": "STANDARD", "counties": []}

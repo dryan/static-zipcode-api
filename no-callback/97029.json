@@ -1,1 +1,1 @@
-{"lat": 45.335199, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Grass Valley", "lng": -120.7798, "zip_code": "97029"}
+{"locality": "Grass Valley", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Grass Valley"], "postal_code": "97029", "lat": 45.335199, "lng": -120.7798, "type": "STANDARD", "counties": [{"fips": "055", "name": "Sherman"}]}

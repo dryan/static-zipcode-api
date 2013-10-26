@@ -1,1 +1,1 @@
-{"lat": 45.880436, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Sherman Station", "lng": -68.45173, "zip_code": "04777"}
+{"locality": "Stacyville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Herseytown Twp", "Hrsytown Twp", "Sherman Sta", "Sherman Station", "Stacyville"], "postal_code": "04777", "lat": 45.880436, "lng": -68.45173, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "003", "name": "Aroostook"}]}

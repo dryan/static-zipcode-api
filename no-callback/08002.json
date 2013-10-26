@@ -1,1 +1,1 @@
-{"lat": 39.932279, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cherry Hill", "lng": -75.02266, "zip_code": "08002"}
+{"locality": "Cherry Hill", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cherry Hill"], "postal_code": "08002", "lat": 39.932279, "lng": -75.02266, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

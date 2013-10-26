@@ -1,1 +1,1 @@
-{"lat": 35.027, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Dibble", "lng": -97.62801, "zip_code": "73031"}
+{"locality": "Dibble", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Dibble"], "postal_code": "73031", "lat": 35.027, "lng": -97.62801, "type": "POBOX", "counties": [{"fips": "087", "name": "McClain"}]}

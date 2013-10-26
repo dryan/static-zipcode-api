@@ -1,1 +1,1 @@
-{"lat": 35.198687, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Earl", "lng": -81.54162, "zip_code": "28038"}
+{"locality": "Earl", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Earl"], "postal_code": "28038", "lat": 35.198687, "lng": -81.54162, "type": "POBOX", "counties": [{"fips": "045", "name": "Cleveland"}]}

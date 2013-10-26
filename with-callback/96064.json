@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.736424, "region": {"abbr": "CA", "name": "California"}, "locality": "Montague", "lng": -122.40008, "zip_code": "96064"});
+zipapicallback({"locality": "Montague", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Montague"], "postal_code": "96064", "lat": 41.736424, "lng": -122.40008, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

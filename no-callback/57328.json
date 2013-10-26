@@ -1,1 +1,1 @@
-{"lat": 43.438138, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Corsica", "lng": -98.44031, "zip_code": "57328"}
+{"locality": "Corsica", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Corsica"], "postal_code": "57328", "lat": 43.438138, "lng": -98.44031, "type": "STANDARD", "counties": [{"fips": "043", "name": "Douglas"}, {"fips": "003", "name": "Aurora"}, {"fips": "035", "name": "Davison"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.789079, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lisle", "lng": -88.08536, "zip_code": "60532"}
+{"locality": "Lisle", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lisle"], "postal_code": "60532", "lat": 41.789079, "lng": -88.08536, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}]}

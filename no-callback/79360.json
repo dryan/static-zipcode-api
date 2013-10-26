@@ -1,1 +1,1 @@
-{"lat": 32.718232, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Seminole", "lng": -102.73458, "zip_code": "79360"}
+{"locality": "Seminole", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Seminole"], "postal_code": "79360", "lat": 32.718232, "lng": -102.73458, "type": "STANDARD", "counties": [{"fips": "165", "name": "Gaines"}]}

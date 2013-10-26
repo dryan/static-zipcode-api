@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.106327, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Forestville", "lng": -80.00429, "zip_code": "16035"});
+zipapicallback({"locality": "Forestville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Forestville"], "postal_code": "16035", "lat": 41.106327, "lng": -80.00429, "type": "POBOX", "counties": [{"fips": "019", "name": "Butler"}]});

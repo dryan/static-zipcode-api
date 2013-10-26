@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.293245, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Dudley", "lng": -78.01897, "zip_code": "28333"});
+zipapicallback({"locality": "Dudley", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Dudley"], "postal_code": "28333", "lat": 35.293245, "lng": -78.01897, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]});

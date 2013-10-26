@@ -1,1 +1,1 @@
-{"lat": 41.010666, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Little York", "lng": -90.75393, "zip_code": "61453"}
+{"locality": "Little York", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Little York"], "postal_code": "61453", "lat": 41.010666, "lng": -90.75393, "type": "STANDARD", "counties": [{"fips": "187", "name": "Warren"}, {"fips": "071", "name": "Henderson"}]}

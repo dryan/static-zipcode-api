@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.33394, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ronald", "lng": -121.02979, "zip_code": "98940"});
+zipapicallback({"locality": "Ronald", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ronald"], "postal_code": "98940", "lat": 47.33394, "lng": -121.02979, "type": "POBOX", "counties": [{"fips": "037", "name": "Kittitas"}]});

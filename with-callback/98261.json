@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.481655, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lopez", "lng": -122.88271, "zip_code": "98261"});
+zipapicallback({"locality": "Lopez Island", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lopez Island"], "postal_code": "98261", "lat": 48.481655, "lng": -122.88271, "type": "STANDARD", "counties": [{"fips": "055", "name": "San Juan"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.058211, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Beverly", "lng": -74.91404, "zip_code": "08010"});
+zipapicallback({"locality": "Beverly", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Beverly", "Edgewater Park", "Edgewater Prk"], "postal_code": "08010", "lat": 40.058211, "lng": -74.91404, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

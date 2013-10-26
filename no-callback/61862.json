@@ -1,1 +1,1 @@
-{"lat": 40.296282, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Penfield", "lng": -87.95553, "zip_code": "61862"}
+{"locality": "Penfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Penfield"], "postal_code": "61862", "lat": 40.296282, "lng": -87.95553, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

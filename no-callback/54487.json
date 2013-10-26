@@ -1,1 +1,1 @@
-{"lat": 45.510639, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Tomahawk", "lng": -89.73162, "zip_code": "54487"}
+{"locality": "Tomahawk", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tomahawk"], "postal_code": "54487", "lat": 45.510639, "lng": -89.73162, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lincoln"}, {"fips": "085", "name": "Oneida"}]}

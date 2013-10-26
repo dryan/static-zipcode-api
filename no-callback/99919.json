@@ -1,1 +1,1 @@
-{"lat": 55.677232, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Thorne Bay", "lng": -132.55624, "zip_code": "99919"}
+{"locality": "Thorne Bay", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ketchikan", "Thorne Bay"], "postal_code": "99919", "lat": 55.677232, "lng": -132.55624, "type": "POBOX", "counties": [{"fips": "201", "name": "Prince-Wales-Ketchikan"}]}

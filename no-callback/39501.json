@@ -1,1 +1,1 @@
-{"lat": 30.380597, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Gulfport", "lng": -89.09626, "zip_code": "39501"}
+{"locality": "Gulfport", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Gulfport"], "postal_code": "39501", "lat": 30.380597, "lng": -89.09626, "type": "STANDARD", "counties": [{"fips": "047", "name": "Harrison"}]}

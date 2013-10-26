@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.432956, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Hatillo", "lng": -66.80039, "zip_code": "00659"});
+zipapicallback({"locality": "Hatillo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Hatillo"], "postal_code": "00659", "lat": 18.432956, "lng": -66.80039, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hatillo"}]});

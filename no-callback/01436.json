@@ -1,1 +1,1 @@
-{"lat": 42.608903, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Baldwinville", "lng": -72.08021, "zip_code": "01436"}
+{"locality": "Baldwinville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Baldwinville"], "postal_code": "01436", "lat": 42.608903, "lng": -72.08021, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

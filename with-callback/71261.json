@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.770852, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mer Rouge", "lng": -91.74361, "zip_code": "71261"});
+zipapicallback({"locality": "Mer Rouge", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mer Rouge"], "postal_code": "71261", "lat": 32.770852, "lng": -91.74361, "type": "STANDARD", "counties": [{"fips": "067", "name": "Morehouse"}]});

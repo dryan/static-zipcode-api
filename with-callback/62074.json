@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.964162, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Douglas", "lng": -89.68226, "zip_code": "62074"});
+zipapicallback({"locality": "New Douglas", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Douglas"], "postal_code": "62074", "lat": 38.964162, "lng": -89.68226, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]});

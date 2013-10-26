@@ -1,1 +1,1 @@
-{"lat": 44.926344, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Anson", "lng": -69.93521, "zip_code": "04958"}
+{"locality": "North Anson", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Embden", "North Anson"], "postal_code": "04958", "lat": 44.926344, "lng": -69.93521, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]}

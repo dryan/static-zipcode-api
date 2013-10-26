@@ -1,1 +1,1 @@
-{"lat": 42.603462, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Monroe", "lng": -89.64037, "zip_code": "53566"}
+{"locality": "Monroe", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Monroe"], "postal_code": "53566", "lat": 42.603462, "lng": -89.64037, "type": "STANDARD", "counties": [{"fips": "045", "name": "Green"}]}

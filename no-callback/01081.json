@@ -1,1 +1,1 @@
-{"lat": 42.058024, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wales", "lng": -72.22517, "zip_code": "01081"}
+{"locality": "Wales", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wales"], "postal_code": "01081", "lat": 42.058024, "lng": -72.22517, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

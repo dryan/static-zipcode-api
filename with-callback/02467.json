@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.321997, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Chestnut Hill", "lng": -71.17314, "zip_code": "02467"});
+zipapicallback({"locality": "Chestnut Hill", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston Clg", "Boston College", "Chestnut Hill"], "postal_code": "02467", "lat": 42.321997, "lng": -71.17314, "type": "STANDARD", "counties": []});

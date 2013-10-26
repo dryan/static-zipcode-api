@@ -1,1 +1,1 @@
-{"lat": 44.066434, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Banks", "lng": -116.13976, "zip_code": "83602"}
+{"locality": "Banks", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Banks"], "postal_code": "83602", "lat": 44.066434, "lng": -116.13976, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boise"}]}

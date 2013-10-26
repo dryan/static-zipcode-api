@@ -1,1 +1,1 @@
-{"lat": 43.523037, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Blanchard", "lng": -85.04876, "zip_code": "49310"}
+{"locality": "Blanchard", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Blanchard", "Millbrook"], "postal_code": "49310", "lat": 43.523037, "lng": -85.04876, "type": "STANDARD", "counties": [{"fips": "073", "name": "Isabella"}, {"fips": "117", "name": "Montcalm"}, {"fips": "107", "name": "Mecosta"}]}

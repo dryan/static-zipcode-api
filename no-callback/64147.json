@@ -1,1 +1,1 @@
-{"lat": 38.849841, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Martin City", "lng": -94.54555, "zip_code": "64147"}
+{"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City", "Martin City"], "postal_code": "64147", "lat": 38.849841, "lng": -94.54555, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}, {"fips": "037", "name": "Cass"}]}

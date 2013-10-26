@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.34357, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Deweese", "lng": -98.15079, "zip_code": "68934"});
+zipapicallback({"locality": "Deweese", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Deweese"], "postal_code": "68934", "lat": 40.34357, "lng": -98.15079, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clay"}, {"fips": "129", "name": "Nuckolls"}]});

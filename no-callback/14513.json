@@ -1,1 +1,1 @@
-{"lat": 43.052126, "region": {"abbr": "NY", "name": "New York"}, "locality": "Newark", "lng": -77.09424, "zip_code": "14513"}
+{"locality": "Newark", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Palmyra", "Newark"], "postal_code": "14513", "lat": 43.052126, "lng": -77.09424, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}, {"fips": "069", "name": "Ontario"}]}

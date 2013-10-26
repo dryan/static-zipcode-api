@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.903133, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Afton", "lng": -92.81904, "zip_code": "55001"});
+zipapicallback({"locality": "Afton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Afton"], "postal_code": "55001", "lat": 44.903133, "lng": -92.81904, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]});

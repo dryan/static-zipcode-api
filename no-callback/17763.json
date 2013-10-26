@@ -1,1 +1,1 @@
-{"lat": 41.505366, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ralston", "lng": -76.95432, "zip_code": "17763"}
+{"locality": "Ralston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ralston"], "postal_code": "17763", "lat": 41.505366, "lng": -76.95432, "type": "POBOX", "counties": [{"fips": "081", "name": "Lycoming"}]}

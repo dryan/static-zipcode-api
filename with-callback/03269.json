@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.523175, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Sanbornton", "lng": -71.5876, "zip_code": "03269"});
+zipapicallback({"locality": "Sanbornton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Sanbornton"], "postal_code": "03269", "lat": 43.523175, "lng": -71.5876, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}]});

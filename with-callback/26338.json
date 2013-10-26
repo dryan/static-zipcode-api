@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.09666, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Camden", "lng": -80.62283, "zip_code": "26338"});
+zipapicallback({"locality": "Camden", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Camden"], "postal_code": "26338", "lat": 39.09666, "lng": -80.62283, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.120158, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Luray", "lng": -98.69182, "zip_code": "67649"}
+{"locality": "Luray", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Luray"], "postal_code": "67649", "lat": 39.120158, "lng": -98.69182, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}, {"fips": "141", "name": "Osborne"}]}

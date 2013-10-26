@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.367879, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hubbard", "lng": -96.58297, "zip_code": "68741"});
+zipapicallback({"locality": "Hubbard", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hubbard"], "postal_code": "68741", "lat": 42.367879, "lng": -96.58297, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dakota"}]});

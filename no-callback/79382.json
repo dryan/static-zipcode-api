@@ -1,1 +1,1 @@
-{"lat": 33.483465, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wolfforth", "lng": -102.02033, "zip_code": "79382"}
+{"locality": "Wolfforth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wolfforth"], "postal_code": "79382", "lat": 33.483465, "lng": -102.02033, "type": "STANDARD", "counties": [{"fips": "303", "name": "Lubbock"}, {"fips": "305", "name": "Lynn"}, {"fips": "219", "name": "Hockley"}]}

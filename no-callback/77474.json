@@ -1,1 +1,1 @@
-{"lat": 29.776375, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sealy", "lng": -96.16474, "zip_code": "77474"}
+{"locality": "Sealy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sealy"], "postal_code": "77474", "lat": 29.776375, "lng": -96.16474, "type": "STANDARD", "counties": [{"fips": "015", "name": "Austin"}, {"fips": "089", "name": "Colorado"}]}

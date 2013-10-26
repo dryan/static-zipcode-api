@@ -1,1 +1,1 @@
-{"lat": 41.84115, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gray", "lng": -94.9812, "zip_code": "50110"}
+{"locality": "Gray", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gray"], "postal_code": "50110", "lat": 41.84115, "lng": -94.9812, "type": "POBOX", "counties": [{"fips": "009", "name": "Audubon"}]}

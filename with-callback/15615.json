@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.358962, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ardara", "lng": -79.73879, "zip_code": "15615"});
+zipapicallback({"locality": "Ardara", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ardara"], "postal_code": "15615", "lat": 40.358962, "lng": -79.73879, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

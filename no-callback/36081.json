@@ -1,1 +1,1 @@
-{"lat": 31.852825, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Troy", "lng": -85.92314, "zip_code": "36081"}
+{"locality": "Troy", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Troy"], "postal_code": "36081", "lat": 31.852825, "lng": -85.92314, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}, {"fips": "011", "name": "Bullock"}, {"fips": "031", "name": "Coffee"}]}

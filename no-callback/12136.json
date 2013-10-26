@@ -1,1 +1,1 @@
-{"lat": 42.437594, "region": {"abbr": "NY", "name": "New York"}, "locality": "Old Chatham", "lng": -73.55599, "zip_code": "12136"}
+{"locality": "Old Chatham", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Old Chatham"], "postal_code": "12136", "lat": 42.437594, "lng": -73.55599, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

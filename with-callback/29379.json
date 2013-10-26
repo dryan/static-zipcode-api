@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.714045, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Union", "lng": -81.60496, "zip_code": "29379"});
+zipapicallback({"locality": "Union", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Union"], "postal_code": "29379", "lat": 34.714045, "lng": -81.60496, "type": "STANDARD", "counties": [{"fips": "087", "name": "Union"}]});

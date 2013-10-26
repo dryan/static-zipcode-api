@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.346914, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ridge Manor", "lng": -82.20293, "zip_code": "33525"});
+zipapicallback({"locality": "Dade City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dade City", "Richland"], "postal_code": "33525", "lat": 28.346914, "lng": -82.20293, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hernando"}, {"fips": "101", "name": "Pasco"}]});

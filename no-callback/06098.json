@@ -1,1 +1,1 @@
-{"lat": 41.925967, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Winsted", "lng": -73.06944, "zip_code": "06098"}
+{"locality": "Winsted", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Winchester Center", "Winchestr Ctr", "Winsted"], "postal_code": "06098", "lat": 41.925967, "lng": -73.06944, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

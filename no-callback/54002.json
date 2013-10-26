@@ -1,1 +1,1 @@
-{"lat": 44.96915, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Baldwin", "lng": -92.37326, "zip_code": "54002"}
+{"locality": "Baldwin", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Baldwin"], "postal_code": "54002", "lat": 44.96915, "lng": -92.37326, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}, {"fips": "093", "name": "Pierce"}]}

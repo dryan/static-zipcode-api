@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.246611, "region": {"abbr": "CA", "name": "California"}, "locality": "Dillon Beach", "lng": -122.95916, "zip_code": "94929"});
+zipapicallback({"locality": "Dillon Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dillon Beach"], "postal_code": "94929", "lat": 38.246611, "lng": -122.95916, "type": "POBOX", "counties": [{"fips": "041", "name": "Marin"}]});

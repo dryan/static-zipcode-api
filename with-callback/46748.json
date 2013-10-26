@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.243248, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Huntertown", "lng": -85.16711, "zip_code": "46748"});
+zipapicallback({"locality": "Huntertown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Huntertown"], "postal_code": "46748", "lat": 41.243248, "lng": -85.16711, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}, {"fips": "113", "name": "Noble"}, {"fips": "033", "name": "De Kalb"}]});

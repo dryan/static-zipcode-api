@@ -1,1 +1,1 @@
-{"lat": 38.868136, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Alton", "lng": -90.08023, "zip_code": "62024"}
+{"locality": "East Alton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["East Alton"], "postal_code": "62024", "lat": 38.868136, "lng": -90.08023, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]}

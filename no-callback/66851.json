@@ -1,1 +1,1 @@
-{"lat": 38.228452, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Florence", "lng": -96.92825, "zip_code": "66851"}
+{"locality": "Florence", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Florence"], "postal_code": "66851", "lat": 38.228452, "lng": -96.92825, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]}

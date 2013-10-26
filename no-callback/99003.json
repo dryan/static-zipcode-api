@@ -1,1 +1,1 @@
-{"lat": 47.921687, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Chattaroy", "lng": -117.29378, "zip_code": "99003"}
+{"locality": "Chattaroy", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Chattaroy"], "postal_code": "99003", "lat": 47.921687, "lng": -117.29378, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.860353, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Baltimore", "lng": -82.61356, "zip_code": "43105"});
+zipapicallback({"locality": "Baltimore", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Baltimore", "Etna"], "postal_code": "43105", "lat": 39.860353, "lng": -82.61356, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fairfield"}, {"fips": "089", "name": "Licking"}]});

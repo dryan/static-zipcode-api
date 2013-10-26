@@ -1,1 +1,1 @@
-{"lat": 44.190761, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Waterford", "lng": -70.70757, "zip_code": "04088"}
+{"locality": "Waterford", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Waterford"], "postal_code": "04088", "lat": 44.190761, "lng": -70.70757, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]}

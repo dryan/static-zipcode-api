@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.853477, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Home", "lng": -96.50361, "zip_code": "66438"});
+zipapicallback({"locality": "Home", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Home"], "postal_code": "66438", "lat": 39.853477, "lng": -96.50361, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}]});

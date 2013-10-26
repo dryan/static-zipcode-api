@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.750367, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Shell Lake", "lng": -91.99048, "zip_code": "54871"});
+zipapicallback({"locality": "Shell Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Shell Lake"], "postal_code": "54871", "lat": 45.750367, "lng": -91.99048, "type": "STANDARD", "counties": [{"fips": "129", "name": "Washburn"}, {"fips": "013", "name": "Burnett"}]});

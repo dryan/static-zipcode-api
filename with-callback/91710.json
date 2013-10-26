@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.015963, "region": {"abbr": "CA", "name": "California"}, "locality": "Chino", "lng": -117.68737, "zip_code": "91710"});
+zipapicallback({"locality": "Chino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chino", "Montclair", "Ontario"], "postal_code": "91710", "lat": 34.015963, "lng": -117.68737, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

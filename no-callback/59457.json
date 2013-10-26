@@ -1,1 +1,1 @@
-{"lat": 47.054233, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lewistown", "lng": -109.48065, "zip_code": "59457"}
+{"locality": "Lewistown", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lewistown"], "postal_code": "59457", "lat": 47.054233, "lng": -109.48065, "type": "STANDARD", "counties": [{"fips": "027", "name": "Fergus"}]}

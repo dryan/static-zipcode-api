@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.59793, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "New Madrid", "lng": -89.54435, "zip_code": "63869"});
+zipapicallback({"locality": "New Madrid", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Madrid"], "postal_code": "63869", "lat": 36.59793, "lng": -89.54435, "type": "STANDARD", "counties": [{"fips": "143", "name": "New Madrid"}]});

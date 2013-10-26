@@ -1,1 +1,1 @@
-{"lat": 27.826864, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Babson Park", "lng": -81.53291, "zip_code": "33827"}
+{"locality": "Babson Park", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Babson Park"], "postal_code": "33827", "lat": 27.826864, "lng": -81.53291, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.628034, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Posen", "lng": -87.68694, "zip_code": "60469"}
+{"locality": "Posen", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Posen"], "postal_code": "60469", "lat": 41.628034, "lng": -87.68694, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

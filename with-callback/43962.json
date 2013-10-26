@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.679857, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Summitville", "lng": -80.88595, "zip_code": "43962"});
+zipapicallback({"locality": "Summitville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Summitville"], "postal_code": "43962", "lat": 40.679857, "lng": -80.88595, "type": "POBOX", "counties": [{"fips": "029", "name": "Columbiana"}]});

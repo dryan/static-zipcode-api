@@ -1,1 +1,1 @@
-{"lat": 33.170357, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cottondale", "lng": -87.39889, "zip_code": "35453"}
+{"locality": "Cottondale", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Coaling", "Cottondale"], "postal_code": "35453", "lat": 33.170357, "lng": -87.39889, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]}

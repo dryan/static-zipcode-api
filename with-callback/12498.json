@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.037356, "region": {"abbr": "NY", "name": "New York"}, "locality": "Woodstock", "lng": -74.11016, "zip_code": "12498"});
+zipapicallback({"locality": "Woodstock", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Woodstock"], "postal_code": "12498", "lat": 42.037356, "lng": -74.11016, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

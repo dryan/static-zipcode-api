@@ -1,1 +1,1 @@
-{"lat": 33.323467, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sulphur Bluff", "lng": -95.39168, "zip_code": "75481"}
+{"locality": "Sulphur Bluff", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sulphur Bluff"], "postal_code": "75481", "lat": 33.323467, "lng": -95.39168, "type": "STANDARD", "counties": [{"fips": "223", "name": "Hopkins"}]}

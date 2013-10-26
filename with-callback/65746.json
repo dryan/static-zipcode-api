@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.157055, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Seymour", "lng": -92.78857, "zip_code": "65746"});
+zipapicallback({"locality": "Seymour", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Seymour"], "postal_code": "65746", "lat": 37.157055, "lng": -92.78857, "type": "STANDARD", "counties": [{"fips": "225", "name": "Webster"}, {"fips": "229", "name": "Wright"}, {"fips": "067", "name": "Douglas"}]});

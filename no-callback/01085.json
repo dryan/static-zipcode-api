@@ -1,1 +1,1 @@
-{"lat": 42.133642, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Montgomery", "lng": -72.75029, "zip_code": "01085"}
+{"locality": "Westfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Montgomery", "Westfield"], "postal_code": "01085", "lat": 42.133642, "lng": -72.75029, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

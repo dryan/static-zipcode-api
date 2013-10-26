@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.586545, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cascade", "lng": -79.64194, "zip_code": "24069"});
+zipapicallback({"locality": "Cascade", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cascade"], "postal_code": "24069", "lat": 36.586545, "lng": -79.64194, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]});

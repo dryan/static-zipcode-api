@@ -1,1 +1,1 @@
-{"lat": 40.838891, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Andrews", "lng": -85.62014, "zip_code": "46702"}
+{"locality": "Andrews", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Andrews"], "postal_code": "46702", "lat": 40.838891, "lng": -85.62014, "type": "STANDARD", "counties": [{"fips": "069", "name": "Huntington"}, {"fips": "169", "name": "Wabash"}]}

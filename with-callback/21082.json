@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.470274, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Hydes", "lng": -76.45964, "zip_code": "21082"});
+zipapicallback({"locality": "Hydes", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hydes"], "postal_code": "21082", "lat": 39.470274, "lng": -76.45964, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}, {"fips": "025", "name": "Harford"}]});

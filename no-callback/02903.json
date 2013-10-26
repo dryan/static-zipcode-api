@@ -1,1 +1,1 @@
-{"lat": 41.8208, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Providence", "lng": -71.41306, "zip_code": "02903"}
+{"locality": "Providence", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Providence"], "postal_code": "02903", "lat": 41.8208, "lng": -71.41306, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}, {"fips": "005", "name": "Newport"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.218456, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "El Dorado", "lng": -92.64911, "zip_code": "71730"});
+zipapicallback({"locality": "El Dorado", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["El Dorado"], "postal_code": "71730", "lat": 33.218456, "lng": -92.64911, "type": "STANDARD", "counties": [{"fips": "139", "name": "Union"}]});

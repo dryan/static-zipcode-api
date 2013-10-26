@@ -1,1 +1,1 @@
-{"lat": 43.736145, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sheboygan", "lng": -87.72893, "zip_code": "53081"}
+{"locality": "Sheboygan", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sheboygan"], "postal_code": "53081", "lat": 43.736145, "lng": -87.72893, "type": "STANDARD", "counties": [{"fips": "117", "name": "Sheboygan"}]}

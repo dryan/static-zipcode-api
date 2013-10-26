@@ -1,1 +1,1 @@
-{"lat": 33.087868, "region": {"abbr": "CA", "name": "California"}, "locality": "Escondido", "lng": -117.11558, "zip_code": "92029"}
+{"locality": "Escondido", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Escondido"], "postal_code": "92029", "lat": 33.087868, "lng": -117.11558, "type": "STANDARD", "counties": []}

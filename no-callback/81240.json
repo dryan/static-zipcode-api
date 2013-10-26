@@ -1,1 +1,1 @@
-{"lat": 38.439499, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Penrose", "lng": -105.02111, "zip_code": "81240"}
+{"locality": "Penrose", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Penrose"], "postal_code": "81240", "lat": 38.439499, "lng": -105.02111, "type": "STANDARD", "counties": [{"fips": "043", "name": "Fremont"}]}

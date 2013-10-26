@@ -1,1 +1,1 @@
-{"lat": 38.957385, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Richmond", "lng": -84.24755, "zip_code": "45157"}
+{"locality": "New Richmond", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Richmond"], "postal_code": "45157", "lat": 38.957385, "lng": -84.24755, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}]}

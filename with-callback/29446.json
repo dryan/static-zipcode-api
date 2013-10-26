@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.683083, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Green Pond", "lng": -80.56074, "zip_code": "29446"});
+zipapicallback({"locality": "Green Pond", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Green Pond", "Greenpond"], "postal_code": "29446", "lat": 32.683083, "lng": -80.56074, "type": "STANDARD", "counties": [{"fips": "029", "name": "Colleton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.08115, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Dodson", "lng": -92.63979, "zip_code": "71422"});
+zipapicallback({"locality": "Dodson", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Dodson"], "postal_code": "71422", "lat": 32.08115, "lng": -92.63979, "type": "STANDARD", "counties": [{"fips": "127", "name": "Winn"}, {"fips": "049", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.535491, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ranburne", "lng": -85.36312, "zip_code": "36273"});
+zipapicallback({"locality": "Ranburne", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ranburne"], "postal_code": "36273", "lat": 33.535491, "lng": -85.36312, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cleburne"}]});

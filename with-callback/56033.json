@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.579548, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Frost", "lng": -93.93826, "zip_code": "56033"});
+zipapicallback({"locality": "Frost", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Frost"], "postal_code": "56033", "lat": 43.579548, "lng": -93.93826, "type": "STANDARD", "counties": [{"fips": "043", "name": "Faribault"}]});

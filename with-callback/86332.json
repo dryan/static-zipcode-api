@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.426513, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Kirkland", "lng": -112.6261, "zip_code": "86332"});
+zipapicallback({"locality": "Kirkland", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Kirkland", "Peeples Valley", "Peeples Vly"], "postal_code": "86332", "lat": 34.426513, "lng": -112.6261, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

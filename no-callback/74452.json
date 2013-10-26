@@ -1,1 +1,1 @@
-{"lat": 36.10862, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Peggs", "lng": -95.11169, "zip_code": "74452"}
+{"locality": "Peggs", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Peggs"], "postal_code": "74452", "lat": 36.10862, "lng": -95.11169, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}, {"fips": "097", "name": "Mayes"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.467506, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Chireno", "lng": -94.37459, "zip_code": "75937"});
+zipapicallback({"locality": "Chireno", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Chireno"], "postal_code": "75937", "lat": 31.467506, "lng": -94.37459, "type": "STANDARD", "counties": [{"fips": "347", "name": "Nacogdoches"}]});

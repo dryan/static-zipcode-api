@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.979994, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Veteran", "lng": -104.38969, "zip_code": "82243"});
+zipapicallback({"locality": "Veteran", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Veteran"], "postal_code": "82243", "lat": 41.979994, "lng": -104.38969, "type": "STANDARD", "counties": [{"fips": "015", "name": "Goshen"}]});

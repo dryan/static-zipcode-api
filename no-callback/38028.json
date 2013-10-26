@@ -1,1 +1,1 @@
-{"lat": 35.203968, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Eads", "lng": -89.62203, "zip_code": "38028"}
+{"locality": "Eads", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Eads"], "postal_code": "38028", "lat": 35.203968, "lng": -89.62203, "type": "STANDARD", "counties": [{"fips": "157", "name": "Shelby"}]}

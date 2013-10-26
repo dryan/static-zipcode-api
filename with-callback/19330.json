@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.872123, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cochranville", "lng": -75.91411, "zip_code": "19330"});
+zipapicallback({"locality": "Cochranville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cochranville"], "postal_code": "19330", "lat": 39.872123, "lng": -75.91411, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

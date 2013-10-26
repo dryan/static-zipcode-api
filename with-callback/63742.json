@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.157131, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Commerce", "lng": -89.44651, "zip_code": "63742"});
+zipapicallback({"locality": "Commerce", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Commerce"], "postal_code": "63742", "lat": 37.157131, "lng": -89.44651, "type": "POBOX", "counties": [{"fips": "201", "name": "Scott"}]});

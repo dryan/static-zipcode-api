@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.620594, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Daphne", "lng": -87.88312, "zip_code": "36526"});
+zipapicallback({"locality": "Daphne", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Daphne"], "postal_code": "36526", "lat": 30.620594, "lng": -87.88312, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}, {"fips": "053", "name": "Escambia"}]});

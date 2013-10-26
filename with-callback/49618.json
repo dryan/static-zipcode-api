@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.306885, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Boon", "lng": -85.60119, "zip_code": "49618"});
+zipapicallback({"locality": "Boon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Boon"], "postal_code": "49618", "lat": 44.306885, "lng": -85.60119, "type": "STANDARD", "counties": [{"fips": "165", "name": "Wexford"}]});

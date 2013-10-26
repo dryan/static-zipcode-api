@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.877676, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nemacolin", "lng": -79.92585, "zip_code": "15351"});
+zipapicallback({"locality": "Nemacolin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Nemacolin"], "postal_code": "15351", "lat": 39.877676, "lng": -79.92585, "type": "POBOX", "counties": [{"fips": "059", "name": "Greene"}]});

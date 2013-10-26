@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.568095, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "South Woodstock", "lng": -72.55327, "zip_code": "05071"});
+zipapicallback({"locality": "South Woodstock", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["S Woodstock", "South Woodstock"], "postal_code": "05071", "lat": 43.568095, "lng": -72.55327, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

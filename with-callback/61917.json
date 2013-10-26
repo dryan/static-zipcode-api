@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.706131, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Brocton", "lng": -87.91691, "zip_code": "61917"});
+zipapicallback({"locality": "Brocton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Brocton"], "postal_code": "61917", "lat": 39.706131, "lng": -87.91691, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edgar"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.233164, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Kingstown", "lng": -77.08212, "zip_code": "17072"});
+zipapicallback({"locality": "New Kingstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Kingstown"], "postal_code": "17072", "lat": 40.233164, "lng": -77.08212, "type": "POBOX", "counties": [{"fips": "041", "name": "Cumberland"}]});

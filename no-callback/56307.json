@@ -1,1 +1,1 @@
-{"lat": 45.632455, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Albany", "lng": -94.58257, "zip_code": "56307"}
+{"locality": "Albany", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Albany"], "postal_code": "56307", "lat": 45.632455, "lng": -94.58257, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "097", "name": "Morrison"}]}

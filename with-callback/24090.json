@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.512912, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fincastle", "lng": -79.87046, "zip_code": "24090"});
+zipapicallback({"locality": "Fincastle", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fincastle"], "postal_code": "24090", "lat": 37.512912, "lng": -79.87046, "type": "STANDARD", "counties": [{"fips": "023", "name": "Botetourt"}]});

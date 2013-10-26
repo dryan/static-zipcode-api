@@ -1,1 +1,1 @@
-{"lat": 31.612646, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Peterman", "lng": -87.24886, "zip_code": "36471"}
+{"locality": "Peterman", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Peterman"], "postal_code": "36471", "lat": 31.612646, "lng": -87.24886, "type": "STANDARD", "counties": [{"fips": "099", "name": "Monroe"}, {"fips": "035", "name": "Conecuh"}]}

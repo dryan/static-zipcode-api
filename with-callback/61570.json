@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.920631, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Washburn", "lng": -89.29547, "zip_code": "61570"});
+zipapicallback({"locality": "Washburn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Washburn"], "postal_code": "61570", "lat": 40.920631, "lng": -89.29547, "type": "STANDARD", "counties": [{"fips": "123", "name": "Marshall"}, {"fips": "203", "name": "Woodford"}]});

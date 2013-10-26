@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.499283, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "North Rim", "lng": -112.23039, "zip_code": "86052"});
+zipapicallback({"locality": "North Rim", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Fredonia", "North Rim"], "postal_code": "86052", "lat": 36.499283, "lng": -112.23039, "type": "POBOX", "counties": []});

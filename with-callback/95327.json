@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.867243, "region": {"abbr": "CA", "name": "California"}, "locality": "Jamestown", "lng": -120.49157, "zip_code": "95327"});
+zipapicallback({"locality": "Jamestown", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Jamestown"], "postal_code": "95327", "lat": 37.867243, "lng": -120.49157, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}, {"fips": "009", "name": "Calaveras"}]});

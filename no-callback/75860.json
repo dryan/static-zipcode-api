@@ -1,1 +1,1 @@
-{"lat": 31.625567, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Teague", "lng": -96.27068, "zip_code": "75860"}
+{"locality": "Teague", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Teague"], "postal_code": "75860", "lat": 31.625567, "lng": -96.27068, "type": "STANDARD", "counties": [{"fips": "161", "name": "Freestone"}]}

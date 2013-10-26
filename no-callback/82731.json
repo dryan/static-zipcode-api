@@ -1,1 +1,1 @@
-{"lat": 44.799642, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Gillette", "lng": -105.24695, "zip_code": "82731"}
+{"locality": "Weston", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Gillette", "Weston"], "postal_code": "82731", "lat": 44.799642, "lng": -105.24695, "type": "STANDARD", "counties": [{"fips": "005", "name": "Campbell"}]}

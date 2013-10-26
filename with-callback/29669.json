@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.646501, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pelzer", "lng": -82.44077, "zip_code": "29669"});
+zipapicallback({"locality": "Pelzer", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pelzer"], "postal_code": "29669", "lat": 34.646501, "lng": -82.44077, "type": "STANDARD", "counties": [{"fips": "007", "name": "Anderson"}, {"fips": "045", "name": "Greenville"}]});

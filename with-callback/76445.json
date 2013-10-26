@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.298841, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Desdemona", "lng": -98.55194, "zip_code": "76445"});
+zipapicallback({"locality": "Desdemona", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Desdemona"], "postal_code": "76445", "lat": 32.298841, "lng": -98.55194, "type": "STANDARD", "counties": [{"fips": "133", "name": "Eastland"}, {"fips": "143", "name": "Erath"}, {"fips": "093", "name": "Comanche"}]});

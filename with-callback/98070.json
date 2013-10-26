@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.416198, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Vashon", "lng": -122.46821, "zip_code": "98070"});
+zipapicallback({"locality": "Vashon", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Vashon"], "postal_code": "98070", "lat": 47.416198, "lng": -122.46821, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

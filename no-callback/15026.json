@@ -1,1 +1,1 @@
-{"lat": 40.508376, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clinton", "lng": -80.35953, "zip_code": "15026"}
+{"locality": "Clinton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clinton"], "postal_code": "15026", "lat": 40.508376, "lng": -80.35953, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}, {"fips": "007", "name": "Beaver"}, {"fips": "125", "name": "Washington"}]}

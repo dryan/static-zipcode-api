@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.34149, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clarington", "lng": -79.13567, "zip_code": "15828"});
+zipapicallback({"locality": "Clarington", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clarington"], "postal_code": "15828", "lat": 41.34149, "lng": -79.13567, "type": "STANDARD", "counties": [{"fips": "053", "name": "Forest"}, {"fips": "065", "name": "Jefferson"}]});

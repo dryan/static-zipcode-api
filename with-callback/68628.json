@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.212516, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Clarks", "lng": -97.83118, "zip_code": "68628"});
+zipapicallback({"locality": "Clarks", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Clarks"], "postal_code": "68628", "lat": 41.212516, "lng": -97.83118, "type": "STANDARD", "counties": [{"fips": "121", "name": "Merrick"}, {"fips": "081", "name": "Hamilton"}, {"fips": "143", "name": "Polk"}]});

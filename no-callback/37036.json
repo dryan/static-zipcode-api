@@ -1,1 +1,1 @@
-{"lat": 36.225389, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Charlotte", "lng": -87.29179, "zip_code": "37036"}
+{"locality": "Charlotte", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Charlotte"], "postal_code": "37036", "lat": 36.225389, "lng": -87.29179, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickson"}, {"fips": "021", "name": "Cheatham"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.234417, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alton", "lng": -98.34205, "zip_code": "78572"}
+{"locality": "Mission", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mission", "Palmhurst", "Palmview"], "postal_code": "78572", "lat": 26.234417, "lng": -98.34205, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.727451, "region": {"abbr": "CA", "name": "California"}, "locality": "Elverta", "lng": -121.45433, "zip_code": "95626"});
+zipapicallback({"locality": "Elverta", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Elverta"], "postal_code": "95626", "lat": 38.727451, "lng": -121.45433, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

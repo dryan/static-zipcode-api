@@ -1,1 +1,1 @@
-{"lat": 41.144256, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bradley", "lng": -87.86239, "zip_code": "60915"}
+{"locality": "Bradley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bradley"], "postal_code": "60915", "lat": 41.144256, "lng": -87.86239, "type": "STANDARD", "counties": [{"fips": "091", "name": "Kankakee"}]}

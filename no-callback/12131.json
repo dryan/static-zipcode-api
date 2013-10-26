@@ -1,1 +1,1 @@
-{"lat": 42.482123, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Blenheim", "lng": -74.45715, "zip_code": "12131"}
+{"locality": "North Blenheim", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["N Blenheim", "North Blenheim"], "postal_code": "12131", "lat": 42.482123, "lng": -74.45715, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]}

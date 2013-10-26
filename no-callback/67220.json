@@ -1,1 +1,1 @@
-{"lat": 37.745561, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bel Aire", "lng": -97.27841, "zip_code": "67220"}
+{"locality": "Wichita", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bel Aire", "Wichita"], "postal_code": "67220", "lat": 37.745561, "lng": -97.27841, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}]}

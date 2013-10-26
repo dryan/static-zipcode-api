@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.903165, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "West Saint Paul", "lng": -93.10026, "zip_code": "55118"});
+zipapicallback({"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mendota Heights", "Mendota Hts", "Saint Paul", "Sunfish Lake", "W Saint Paul", "W St Paul", "West Saint Paul", "West St Paul"], "postal_code": "55118", "lat": 44.903165, "lng": -93.10026, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "123", "name": "Ramsey"}]});

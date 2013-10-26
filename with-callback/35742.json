@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.813577, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Capshaw", "lng": -86.80405, "zip_code": "35742"});
+zipapicallback({"locality": "Capshaw", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Capshaw"], "postal_code": "35742", "lat": 34.813577, "lng": -86.80405, "type": "POBOX", "counties": [{"fips": "083", "name": "Limestone"}]});

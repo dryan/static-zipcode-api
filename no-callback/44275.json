@@ -1,1 +1,1 @@
-{"lat": 41.101909, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Spencer", "lng": -82.10234, "zip_code": "44275"}
+{"locality": "Spencer", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Spencer"], "postal_code": "44275", "lat": 41.101909, "lng": -82.10234, "type": "STANDARD", "counties": [{"fips": "103", "name": "Medina"}, {"fips": "093", "name": "Lorain"}]}

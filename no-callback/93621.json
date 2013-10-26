@@ -1,1 +1,1 @@
-{"lat": 36.774951, "region": {"abbr": "CA", "name": "California"}, "locality": "Dunlap", "lng": -119.13779, "zip_code": "93621"}
+{"locality": "Dunlap", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dunlap"], "postal_code": "93621", "lat": 36.774951, "lng": -119.13779, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

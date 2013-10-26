@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.962256, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Modena", "lng": -75.80215, "zip_code": "19358"});
+zipapicallback({"locality": "Modena", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Modena"], "postal_code": "19358", "lat": 39.962256, "lng": -75.80215, "type": "POBOX", "counties": [{"fips": "029", "name": "Chester"}]});

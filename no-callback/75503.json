@@ -1,1 +1,1 @@
-{"lat": 33.476844, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Texarkana", "lng": -94.09637, "zip_code": "75503"}
+{"locality": "Texarkana", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Texarkana"], "postal_code": "75503", "lat": 33.476844, "lng": -94.09637, "type": "STANDARD", "counties": [{"fips": "037", "name": "Bowie"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.617378, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Agate", "lng": -99.63453, "zip_code": "58310"}
+{"locality": "Agate", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Agate"], "postal_code": "58310", "lat": 48.617378, "lng": -99.63453, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rolette"}]}

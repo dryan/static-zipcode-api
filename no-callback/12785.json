@@ -1,1 +1,1 @@
-{"lat": 41.518125, "region": {"abbr": "NY", "name": "New York"}, "locality": "Westbrookville", "lng": -74.57566, "zip_code": "12785"}
+{"locality": "Westbrookville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Port Jervis", "Westbrookville", "Westbrookvlle"], "postal_code": "12785", "lat": 41.518125, "lng": -74.57566, "type": "POBOX", "counties": [{"fips": "105", "name": "Sullivan"}]}

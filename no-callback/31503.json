@@ -1,1 +1,1 @@
-{"lat": 31.205194, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Waycross", "lng": -82.37534, "zip_code": "31503"}
+{"locality": "Waycross", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Waycross"], "postal_code": "31503", "lat": 31.205194, "lng": -82.37534, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.692424, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Nephi", "lng": -111.88229, "zip_code": "84648"});
+zipapicallback({"locality": "Nephi", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Nephi"], "postal_code": "84648", "lat": 39.692424, "lng": -111.88229, "type": "STANDARD", "counties": [{"fips": "023", "name": "Juab"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.07952, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bingham", "lng": -69.84723, "zip_code": "04920"});
+zipapicallback({"locality": "Bingham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bingham", "Concord Twp", "Moscow", "Pleasant Ridge Plt", "Plsnt Rdg Plt"], "postal_code": "04920", "lat": 45.07952, "lng": -69.84723, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]});

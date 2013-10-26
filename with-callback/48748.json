@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.328794, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "National City", "lng": -83.66579, "zip_code": "48748"});
+zipapicallback({"locality": "National City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["National City"], "postal_code": "48748", "lat": 44.328794, "lng": -83.66579, "type": "STANDARD", "counties": [{"fips": "069", "name": "Iosco"}]});

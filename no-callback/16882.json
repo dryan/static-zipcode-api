@@ -1,1 +1,1 @@
-{"lat": 40.918517, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Woodward", "lng": -77.32269, "zip_code": "16882"}
+{"locality": "Woodward", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Woodward"], "postal_code": "16882", "lat": 40.918517, "lng": -77.32269, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.425328, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lindsey", "lng": -83.2253, "zip_code": "43442"}
+{"locality": "Lindsey", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lindsey"], "postal_code": "43442", "lat": 41.425328, "lng": -83.2253, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sandusky"}, {"fips": "123", "name": "Ottawa"}]}

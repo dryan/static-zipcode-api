@@ -1,1 +1,1 @@
-{"lat": 33.262553, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Peridot", "lng": -110.5231, "zip_code": "85542"}
+{"locality": "Peridot", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Peridot"], "postal_code": "85542", "lat": 33.262553, "lng": -110.5231, "type": "STANDARD", "counties": [{"fips": "007", "name": "Gila"}]}

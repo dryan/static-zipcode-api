@@ -1,1 +1,1 @@
-{"lat": 41.895838, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Little Marsh", "lng": -77.52164, "zip_code": "16950"}
+{"locality": "Westfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cowanesque", "Little Marsh", "Westfield"], "postal_code": "16950", "lat": 41.895838, "lng": -77.52164, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "105", "name": "Potter"}]}

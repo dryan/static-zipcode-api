@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.069965, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Foley", "lng": -90.75875, "zip_code": "63347"});
+zipapicallback({"locality": "Foley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Foley"], "postal_code": "63347", "lat": 39.069965, "lng": -90.75875, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}]});

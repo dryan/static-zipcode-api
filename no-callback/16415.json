@@ -1,1 +1,1 @@
-{"lat": 42.035523, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fairview", "lng": -80.23526, "zip_code": "16415"}
+{"locality": "Fairview", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fairview"], "postal_code": "16415", "lat": 42.035523, "lng": -80.23526, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]}

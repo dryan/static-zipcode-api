@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.780058, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brookhaven", "lng": -72.91566, "zip_code": "11719"});
+zipapicallback({"locality": "Brookhaven", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brookhaven"], "postal_code": "11719", "lat": 40.780058, "lng": -72.91566, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

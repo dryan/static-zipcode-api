@@ -1,1 +1,1 @@
-{"lat": 37.454925, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Atlanta", "lng": -96.83152, "zip_code": "67008"}
+{"locality": "Atlanta", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Atlanta"], "postal_code": "67008", "lat": 37.454925, "lng": -96.83152, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cowley"}, {"fips": "015", "name": "Butler"}]}

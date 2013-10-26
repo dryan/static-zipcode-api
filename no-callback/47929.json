@@ -1,1 +1,1 @@
-{"lat": 40.671905, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Chalmers", "lng": -86.89189, "zip_code": "47929"}
+{"locality": "Chalmers", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Chalmers"], "postal_code": "47929", "lat": 40.671905, "lng": -86.89189, "type": "STANDARD", "counties": [{"fips": "181", "name": "White"}]}

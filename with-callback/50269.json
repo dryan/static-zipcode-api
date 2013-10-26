@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.261478, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Whitten", "lng": -93.00738, "zip_code": "50269"});
+zipapicallback({"locality": "Whitten", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Whitten"], "postal_code": "50269", "lat": 42.261478, "lng": -93.00738, "type": "POBOX", "counties": [{"fips": "083", "name": "Hardin"}]});

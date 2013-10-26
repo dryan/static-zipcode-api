@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.782104, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Delavan", "lng": -94.01341, "zip_code": "56023"});
+zipapicallback({"locality": "Delavan", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Delavan"], "postal_code": "56023", "lat": 43.782104, "lng": -94.01341, "type": "STANDARD", "counties": [{"fips": "043", "name": "Faribault"}]});

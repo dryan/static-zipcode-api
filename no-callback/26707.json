@@ -1,1 +1,1 @@
-{"lat": 39.264409, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bayard", "lng": -79.3654, "zip_code": "26707"}
+{"locality": "Bayard", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bayard", "Wilson"], "postal_code": "26707", "lat": 39.264409, "lng": -79.3654, "type": "POBOX", "counties": [{"fips": "023", "name": "Grant"}]}

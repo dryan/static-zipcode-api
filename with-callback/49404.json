@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.06507, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Coopersville", "lng": -85.94516, "zip_code": "49404"});
+zipapicallback({"locality": "Coopersville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Coopersville"], "postal_code": "49404", "lat": 43.06507, "lng": -85.94516, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}, {"fips": "121", "name": "Muskegon"}]});

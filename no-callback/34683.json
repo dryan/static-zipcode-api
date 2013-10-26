@@ -1,1 +1,1 @@
-{"lat": 28.076744, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Palm Harbor", "lng": -82.76116, "zip_code": "34683"}
+{"locality": "Palm Harbor", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Palm Harbor"], "postal_code": "34683", "lat": 28.076744, "lng": -82.76116, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

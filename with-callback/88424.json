@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.458919, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Grenville", "lng": -103.62143, "zip_code": "88424"});
+zipapicallback({"locality": "Grenville", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Grenville", "Mount Dora"], "postal_code": "88424", "lat": 36.458919, "lng": -103.62143, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]});

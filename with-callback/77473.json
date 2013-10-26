@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.799608, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Felipe", "lng": -96.10123, "zip_code": "77473"});
+zipapicallback({"locality": "San Felipe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Felipe"], "postal_code": "77473", "lat": 29.799608, "lng": -96.10123, "type": "POBOX", "counties": [{"fips": "015", "name": "Austin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.959148, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lewiston", "lng": -91.84932, "zip_code": "55952"});
+zipapicallback({"locality": "Lewiston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lewiston"], "postal_code": "55952", "lat": 43.959148, "lng": -91.84932, "type": "STANDARD", "counties": [{"fips": "169", "name": "Winona"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.542339, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Millersburg", "lng": -81.87856, "zip_code": "44654"}
+{"locality": "Millersburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Millersburg"], "postal_code": "44654", "lat": 40.542339, "lng": -81.87856, "type": "STANDARD", "counties": [{"fips": "075", "name": "Holmes"}, {"fips": "031", "name": "Coshocton"}]}

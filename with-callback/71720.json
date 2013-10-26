@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.733334, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bearden", "lng": -92.64664, "zip_code": "71720"});
+zipapicallback({"locality": "Bearden", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bearden"], "postal_code": "71720", "lat": 33.733334, "lng": -92.64664, "type": "STANDARD", "counties": [{"fips": "103", "name": "Ouachita"}, {"fips": "039", "name": "Dallas"}, {"fips": "013", "name": "Calhoun"}]});

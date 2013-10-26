@@ -1,1 +1,1 @@
-{"lat": 42.214277, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Amelia", "lng": -98.98515, "zip_code": "68711"}
+{"locality": "Amelia", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Amelia"], "postal_code": "68711", "lat": 42.214277, "lng": -98.98515, "type": "STANDARD", "counties": [{"fips": "089", "name": "Holt"}]}

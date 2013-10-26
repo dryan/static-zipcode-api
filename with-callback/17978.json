@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.632279, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Spring Glen", "lng": -76.64059, "zip_code": "17978"});
+zipapicallback({"locality": "Spring Glen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Spring Glen"], "postal_code": "17978", "lat": 40.632279, "lng": -76.64059, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}, {"fips": "107", "name": "Schuylkill"}]});

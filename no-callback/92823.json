@@ -1,1 +1,1 @@
-{"lat": 33.918965, "region": {"abbr": "CA", "name": "California"}, "locality": "Brea", "lng": -117.83252, "zip_code": "92823"}
+{"locality": "Brea", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Brea"], "postal_code": "92823", "lat": 33.918965, "lng": -117.83252, "type": "STANDARD", "counties": []}

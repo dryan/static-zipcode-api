@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.31215, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Klondike", "lng": -95.81737, "zip_code": "75448"});
+zipapicallback({"locality": "Klondike", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Klondike"], "postal_code": "75448", "lat": 33.31215, "lng": -95.81737, "type": "STANDARD", "counties": [{"fips": "119", "name": "Delta"}]});

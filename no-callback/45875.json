@@ -1,1 +1,1 @@
-{"lat": 41.020852, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gilboa", "lng": -84.04649, "zip_code": "45875"}
+{"locality": "Ottawa", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Gilboa", "Ottawa"], "postal_code": "45875", "lat": 41.020852, "lng": -84.04649, "type": "STANDARD", "counties": [{"fips": "137", "name": "Putnam"}]}

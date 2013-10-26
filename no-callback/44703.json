@@ -1,1 +1,1 @@
-{"lat": 40.809108, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Canton", "lng": -81.3809, "zip_code": "44703"}
+{"locality": "Canton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canton"], "postal_code": "44703", "lat": 40.809108, "lng": -81.3809, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]}

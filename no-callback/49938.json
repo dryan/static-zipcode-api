@@ -1,1 +1,1 @@
-{"lat": 46.47351, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ironwood", "lng": -90.15732, "zip_code": "49938"}
+{"locality": "Ironwood", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ironwood"], "postal_code": "49938", "lat": 46.47351, "lng": -90.15732, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gogebic"}]}

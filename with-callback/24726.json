@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.520914, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Herndon", "lng": -81.33026, "zip_code": "24726"});
+zipapicallback({"locality": "Herndon", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Herndon"], "postal_code": "24726", "lat": 37.520914, "lng": -81.33026, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]});

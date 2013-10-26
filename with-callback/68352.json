@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.151358, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Fairbury", "lng": -97.20374, "zip_code": "68352"});
+zipapicallback({"locality": "Fairbury", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Fairbury", "Gladstone"], "postal_code": "68352", "lat": 40.151358, "lng": -97.20374, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jefferson"}]});

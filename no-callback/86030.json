@@ -1,1 +1,1 @@
-{"lat": 36.115339, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Hotevilla", "lng": -110.61562, "zip_code": "86030"}
+{"locality": "Hotevilla", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Hotevilla"], "postal_code": "86030", "lat": 36.115339, "lng": -110.61562, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

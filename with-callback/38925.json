@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.645396, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Duck Hill", "lng": -89.65893, "zip_code": "38925"});
+zipapicallback({"locality": "Duck Hill", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Duck Hill"], "postal_code": "38925", "lat": 33.645396, "lng": -89.65893, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}, {"fips": "043", "name": "Grenada"}, {"fips": "155", "name": "Webster"}, {"fips": "015", "name": "Carroll"}]});

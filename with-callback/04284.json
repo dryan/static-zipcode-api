@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.349542, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Wayne", "lng": -70.05698, "zip_code": "04284"});
+zipapicallback({"locality": "Wayne", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Wayne"], "postal_code": "04284", "lat": 44.349542, "lng": -70.05698, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

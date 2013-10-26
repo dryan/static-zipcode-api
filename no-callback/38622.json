@@ -1,1 +1,1 @@
-{"lat": 34.172051, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Crowder", "lng": -90.13765, "zip_code": "38622"}
+{"locality": "Crowder", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Crowder"], "postal_code": "38622", "lat": 34.172051, "lng": -90.13765, "type": "POBOX", "counties": [{"fips": "107", "name": "Panola"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.072738, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Newmarket", "lng": -70.94336, "zip_code": "03857"}
+{"locality": "Newmarket", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Newmarket"], "postal_code": "03857", "lat": 43.072738, "lng": -70.94336, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

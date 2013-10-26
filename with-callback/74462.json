@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.272967, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Stigler", "lng": -95.16328, "zip_code": "74462"});
+zipapicallback({"locality": "Stigler", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Stigler"], "postal_code": "74462", "lat": 35.272967, "lng": -95.16328, "type": "STANDARD", "counties": [{"fips": "061", "name": "Haskell"}, {"fips": "121", "name": "Pittsburg"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.754039, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Sabin", "lng": -96.63715, "zip_code": "56580"});
+zipapicallback({"locality": "Sabin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Baker", "Sabin"], "postal_code": "56580", "lat": 46.754039, "lng": -96.63715, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]});

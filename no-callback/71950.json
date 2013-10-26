@@ -1,1 +1,1 @@
-{"lat": 34.251107, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Kirby", "lng": -93.76005, "zip_code": "71950"}
+{"locality": "Kirby", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Kirby"], "postal_code": "71950", "lat": 34.251107, "lng": -93.76005, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}]}

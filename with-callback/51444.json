@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.005206, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Halbur", "lng": -94.97547, "zip_code": "51444"});
+zipapicallback({"locality": "Halbur", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Halbur"], "postal_code": "51444", "lat": 42.005206, "lng": -94.97547, "type": "POBOX", "counties": [{"fips": "027", "name": "Carroll"}]});

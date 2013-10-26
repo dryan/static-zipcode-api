@@ -1,1 +1,1 @@
-{"lat": 41.144085, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Papillion", "lng": -96.00547, "zip_code": "68133"}
+{"locality": "Papillion", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bellevue", "Papillion"], "postal_code": "68133", "lat": 41.144085, "lng": -96.00547, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sarpy"}]}

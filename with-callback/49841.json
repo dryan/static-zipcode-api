@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.299186, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Princeton", "lng": -87.43312, "zip_code": "49841"});
+zipapicallback({"locality": "Gwinn", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Gwinn", "Princeton"], "postal_code": "49841", "lat": 46.299186, "lng": -87.43312, "type": "STANDARD", "counties": [{"fips": "103", "name": "Marquette"}]});

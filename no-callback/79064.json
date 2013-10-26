@@ -1,1 +1,1 @@
-{"lat": 34.18788, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Olton", "lng": -102.13325, "zip_code": "79064"}
+{"locality": "Olton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Olton"], "postal_code": "79064", "lat": 34.18788, "lng": -102.13325, "type": "STANDARD", "counties": [{"fips": "279", "name": "Lamb"}, {"fips": "189", "name": "Hale"}]}

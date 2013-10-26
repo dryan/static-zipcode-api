@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.996454, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Dandridge", "lng": -83.39791, "zip_code": "37725"});
+zipapicallback({"locality": "Dandridge", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Dandridge"], "postal_code": "37725", "lat": 35.996454, "lng": -83.39791, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jefferson"}]});

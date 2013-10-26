@@ -1,1 +1,1 @@
-{"lat": 36.276739, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Osage", "lng": -96.36831, "zip_code": "74054"}
+{"locality": "Osage", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Osage"], "postal_code": "74054", "lat": 36.276739, "lng": -96.36831, "type": "STANDARD", "counties": [{"fips": "113", "name": "Osage"}]}

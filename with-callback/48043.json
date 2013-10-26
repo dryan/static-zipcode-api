@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.596784, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mount Clemens", "lng": -82.88031, "zip_code": "48043"});
+zipapicallback({"locality": "Mount Clemens", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mount Clemens"], "postal_code": "48043", "lat": 42.596784, "lng": -82.88031, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}, {"fips": "125", "name": "Oakland"}]});

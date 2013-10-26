@@ -1,1 +1,1 @@
-{"lat": 18.08643, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Cabo Rojo", "lng": -67.15222, "zip_code": "00623"}
+{"locality": "Cabo Rojo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Cabo Rojo"], "postal_code": "00623", "lat": 18.08643, "lng": -67.15222, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cabo Rojo"}]}

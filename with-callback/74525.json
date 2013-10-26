@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.347553, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Atoka", "lng": -96.11276, "zip_code": "74525"});
+zipapicallback({"locality": "Atoka", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Atoka", "Farris"], "postal_code": "74525", "lat": 34.347553, "lng": -96.11276, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atoka"}, {"fips": "029", "name": "Coal"}]});

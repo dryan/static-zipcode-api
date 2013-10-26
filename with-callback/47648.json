@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.240456, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fort Branch", "lng": -87.56035, "zip_code": "47648"});
+zipapicallback({"locality": "Fort Branch", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fort Branch"], "postal_code": "47648", "lat": 38.240456, "lng": -87.56035, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]});

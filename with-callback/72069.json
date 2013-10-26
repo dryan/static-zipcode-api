@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.584347, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Holly Grove", "lng": -91.14873, "zip_code": "72069"});
+zipapicallback({"locality": "Holly Grove", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Holly Grove"], "postal_code": "72069", "lat": 34.584347, "lng": -91.14873, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]});

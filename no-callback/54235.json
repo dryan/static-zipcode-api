@@ -1,1 +1,1 @@
-{"lat": 44.844133, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sturgeon Bay", "lng": -87.38044, "zip_code": "54235"}
+{"locality": "Sturgeon Bay", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sturgeon Bay"], "postal_code": "54235", "lat": 44.844133, "lng": -87.38044, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.177223, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Concord", "lng": -84.651, "zip_code": "49237"});
+zipapicallback({"locality": "Concord", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Concord"], "postal_code": "49237", "lat": 42.177223, "lng": -84.651, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]});

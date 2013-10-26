@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.396876, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Foley", "lng": -87.69616, "zip_code": "36535"});
+zipapicallback({"locality": "Foley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Foley"], "postal_code": "36535", "lat": 30.396876, "lng": -87.69616, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}]});

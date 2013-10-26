@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.327156, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Quantico", "lng": -75.79598, "zip_code": "21856"});
+zipapicallback({"locality": "Quantico", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Quantico"], "postal_code": "21856", "lat": 38.327156, "lng": -75.79598, "type": "STANDARD", "counties": [{"fips": "045", "name": "Wicomico"}]});

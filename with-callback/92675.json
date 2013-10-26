@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.500843, "region": {"abbr": "CA", "name": "California"}, "locality": "Mission Viejo", "lng": -117.65866, "zip_code": "92675"});
+zipapicallback({"locality": "San Juan Capistrano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mission Viejo", "San Juan Capistrano", "San Juan Capo"], "postal_code": "92675", "lat": 33.500843, "lng": -117.65866, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

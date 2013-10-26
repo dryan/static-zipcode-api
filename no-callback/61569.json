@@ -1,1 +1,1 @@
-{"lat": 40.691022, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Trivoli", "lng": -89.89138, "zip_code": "61569"}
+{"locality": "Trivoli", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Trivoli"], "postal_code": "61569", "lat": 40.691022, "lng": -89.89138, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}, {"fips": "057", "name": "Fulton"}]}

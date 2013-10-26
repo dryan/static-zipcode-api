@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.290454, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hendersonville", "lng": -82.50652, "zip_code": "28739"});
+zipapicallback({"locality": "Hendersonville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hendersonville", "Hendersonvlle", "Laurel Park"], "postal_code": "28739", "lat": 35.290454, "lng": -82.50652, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henderson"}]});

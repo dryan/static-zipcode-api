@@ -1,1 +1,1 @@
-{"lat": 36.678073, "region": {"abbr": "CA", "name": "California"}, "locality": "Badger", "lng": -118.9601, "zip_code": "93603"}
+{"locality": "Badger", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Badger", "Miramonte"], "postal_code": "93603", "lat": 36.678073, "lng": -118.9601, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

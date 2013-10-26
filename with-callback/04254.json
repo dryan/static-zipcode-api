@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.470961, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Livermore Falls", "lng": -70.17486, "zip_code": "04254"});
+zipapicallback({"locality": "Livermore Falls", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Livermore Falls", "Livermore Fls"], "postal_code": "04254", "lat": 44.470961, "lng": -70.17486, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]});

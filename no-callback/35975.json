@@ -1,1 +1,1 @@
-{"lat": 34.431683, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Groveoak", "lng": -86.06169, "zip_code": "35975"}
+{"locality": "Groveoak", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Groveoak"], "postal_code": "35975", "lat": 34.431683, "lng": -86.06169, "type": "STANDARD", "counties": [{"fips": "049", "name": "De Kalb"}, {"fips": "095", "name": "Marshall"}]}

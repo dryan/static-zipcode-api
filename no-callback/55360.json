@@ -1,1 +1,1 @@
-{"lat": 44.909362, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mayer", "lng": -93.89981, "zip_code": "55360"}
+{"locality": "Mayer", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mayer"], "postal_code": "55360", "lat": 44.909362, "lng": -93.89981, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}]}

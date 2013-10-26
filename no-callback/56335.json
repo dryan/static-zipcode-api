@@ -1,1 +1,1 @@
-{"lat": 45.601429, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Greenwald", "lng": -94.85864, "zip_code": "56335"}
+{"locality": "Greenwald", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Greenwald"], "postal_code": "56335", "lat": 45.601429, "lng": -94.85864, "type": "POBOX", "counties": [{"fips": "145", "name": "Stearns"}]}

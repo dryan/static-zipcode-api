@@ -1,1 +1,1 @@
-{"lat": 30.374501, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Navasota", "lng": -96.07999, "zip_code": "77868"}
+{"locality": "Navasota", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Navasota"], "postal_code": "77868", "lat": 30.374501, "lng": -96.07999, "type": "STANDARD", "counties": [{"fips": "041", "name": "Brazos"}, {"fips": "185", "name": "Grimes"}, {"fips": "477", "name": "Washington"}]}

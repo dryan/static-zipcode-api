@@ -1,1 +1,1 @@
-{"lat": 36.70996, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Allensville", "lng": -87.07105, "zip_code": "42204"}
+{"locality": "Allensville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Allensville"], "postal_code": "42204", "lat": 36.70996, "lng": -87.07105, "type": "STANDARD", "counties": [{"fips": "219", "name": "Todd"}, {"fips": "141", "name": "Logan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.951586, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glen Dale", "lng": -80.74994, "zip_code": "26038"});
+zipapicallback({"locality": "Glen Dale", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glen Dale"], "postal_code": "26038", "lat": 39.951586, "lng": -80.74994, "type": "STANDARD", "counties": [{"fips": "051", "name": "Marshall"}]});

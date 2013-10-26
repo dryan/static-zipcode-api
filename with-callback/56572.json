@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.608461, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Pelican Rapids", "lng": -96.0663, "zip_code": "56572"});
+zipapicallback({"locality": "Pelican Rapids", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Pel Rapids", "Pelican Rapids"], "postal_code": "56572", "lat": 46.608461, "lng": -96.0663, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}, {"fips": "027", "name": "Clay"}, {"fips": "005", "name": "Becker"}, {"fips": "167", "name": "Wilkin"}]});

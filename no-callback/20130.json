@@ -1,1 +1,1 @@
-{"lat": 39.008532, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Paris", "lng": -77.94907, "zip_code": "20130"}
+{"locality": "Paris", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Paris"], "postal_code": "20130", "lat": 39.008532, "lng": -77.94907, "type": "STANDARD", "counties": []}

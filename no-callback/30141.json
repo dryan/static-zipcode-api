@@ -1,1 +1,1 @@
-{"lat": 33.867574, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hiram", "lng": -84.77103, "zip_code": "30141"}
+{"locality": "Hiram", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hiram"], "postal_code": "30141", "lat": 33.867574, "lng": -84.77103, "type": "STANDARD", "counties": [{"fips": "223", "name": "Paulding"}, {"fips": "067", "name": "Cobb"}]}

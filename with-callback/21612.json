@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.747964, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bozman", "lng": -76.27279, "zip_code": "21612"});
+zipapicallback({"locality": "Bozman", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bozman"], "postal_code": "21612", "lat": 38.747964, "lng": -76.27279, "type": "STANDARD", "counties": [{"fips": "041", "name": "Talbot"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.891595, "region": {"abbr": "NY", "name": "New York"}, "locality": "Marietta", "lng": -76.28318, "zip_code": "13110"});
+zipapicallback({"locality": "Marietta", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Marietta"], "postal_code": "13110", "lat": 42.891595, "lng": -76.28318, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]});

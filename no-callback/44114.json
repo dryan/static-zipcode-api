@@ -1,1 +1,1 @@
-{"lat": 41.50988, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cleveland", "lng": -81.6753, "zip_code": "44114"}
+{"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland"], "postal_code": "44114", "lat": 41.50988, "lng": -81.6753, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.878578, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Harvey", "lng": -90.06903, "zip_code": "70058"});
+zipapicallback({"locality": "Harvey", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Harvey"], "postal_code": "70058", "lat": 29.878578, "lng": -90.06903, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]});

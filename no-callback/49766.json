@@ -1,1 +1,1 @@
-{"lat": 44.920907, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ossineke", "lng": -83.45125, "zip_code": "49766"}
+{"locality": "Ossineke", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ossineke"], "postal_code": "49766", "lat": 44.920907, "lng": -83.45125, "type": "STANDARD", "counties": [{"fips": "007", "name": "Alpena"}]}

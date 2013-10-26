@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.25312, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mackey", "lng": -87.39205, "zip_code": "47654"});
+zipapicallback({"locality": "Mackey", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mackey"], "postal_code": "47654", "lat": 38.25312, "lng": -87.39205, "type": "POBOX", "counties": [{"fips": "051", "name": "Gibson"}]});

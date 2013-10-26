@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.599217, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Syringa", "lng": -76.45876, "zip_code": "23169"});
+zipapicallback({"locality": "Topping", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Syringa", "Topping"], "postal_code": "23169", "lat": 37.599217, "lng": -76.45876, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.338989, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Montgomery", "lng": -86.27316, "zip_code": "36111"});
+zipapicallback({"locality": "Montgomery", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Montgomery"], "postal_code": "36111", "lat": 32.338989, "lng": -86.27316, "type": "STANDARD", "counties": [{"fips": "101", "name": "Montgomery"}]});

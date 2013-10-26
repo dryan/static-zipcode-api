@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.805615, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Henderson", "lng": -82.11034, "zip_code": "25106"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Henderson"], "postal_code": "25106", "lat": 38.805615, "lng": -82.11034, "type": "STANDARD", "counties": [{"fips": "053", "name": "Mason"}]});

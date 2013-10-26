@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.057496, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Ashley Falls", "lng": -73.32177, "zip_code": "01222"});
+zipapicallback({"locality": "Ashley Falls", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Ashley Falls"], "postal_code": "01222", "lat": 42.057496, "lng": -73.32177, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]});

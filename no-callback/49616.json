@@ -1,1 +1,1 @@
-{"lat": 44.592766, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Benzonia", "lng": -86.08323, "zip_code": "49616"}
+{"locality": "Benzonia", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Benzonia"], "postal_code": "49616", "lat": 44.592766, "lng": -86.08323, "type": "STANDARD", "counties": [{"fips": "019", "name": "Benzie"}]}

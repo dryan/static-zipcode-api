@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.430693, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Perry", "lng": -91.68647, "zip_code": "63462"});
+zipapicallback({"locality": "Perry", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Perry"], "postal_code": "63462", "lat": 39.430693, "lng": -91.68647, "type": "STANDARD", "counties": [{"fips": "173", "name": "Ralls"}, {"fips": "137", "name": "Monroe"}]});

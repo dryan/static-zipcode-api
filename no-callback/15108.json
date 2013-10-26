@@ -1,1 +1,1 @@
-{"lat": 40.500665, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Moon Twp", "lng": -80.18464, "zip_code": "15108"}
+{"locality": "Coraopolis", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coraopolis", "Moon Township", "Moon Twp"], "postal_code": "15108", "lat": 40.500665, "lng": -80.18464, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

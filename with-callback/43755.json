@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.041068, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lore City", "lng": -81.44635, "zip_code": "43755"});
+zipapicallback({"locality": "Lore City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lore City"], "postal_code": "43755", "lat": 40.041068, "lng": -81.44635, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}]});

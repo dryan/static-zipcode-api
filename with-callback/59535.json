@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.031253, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lloyd", "lng": -109.28416, "zip_code": "59535"});
+zipapicallback({"locality": "Lloyd", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lloyd"], "postal_code": "59535", "lat": 48.031253, "lng": -109.28416, "type": "STANDARD", "counties": [{"fips": "005", "name": "Blaine"}]});

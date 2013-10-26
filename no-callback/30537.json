@@ -1,1 +1,1 @@
-{"lat": 34.977198, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Sky Valley", "lng": -83.35161, "zip_code": "30537"}
+{"locality": "Dillard", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dillard", "Sky Valley"], "postal_code": "30537", "lat": 34.977198, "lng": -83.35161, "type": "STANDARD", "counties": [{"fips": "241", "name": "Rabun"}]}

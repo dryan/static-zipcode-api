@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.344368, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Inverness", "lng": -90.58537, "zip_code": "38753"});
+zipapicallback({"locality": "Inverness", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Inverness"], "postal_code": "38753", "lat": 33.344368, "lng": -90.58537, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sunflower"}, {"fips": "053", "name": "Humphreys"}]});

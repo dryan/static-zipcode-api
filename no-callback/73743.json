@@ -1,1 +1,1 @@
-{"lat": 36.563732, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hillsdale", "lng": -97.99385, "zip_code": "73743"}
+{"locality": "Hillsdale", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hillsdale"], "postal_code": "73743", "lat": 36.563732, "lng": -97.99385, "type": "POBOX", "counties": [{"fips": "047", "name": "Garfield"}]}

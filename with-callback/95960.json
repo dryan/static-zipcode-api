@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.396152, "region": {"abbr": "CA", "name": "California"}, "locality": "North San Juan", "lng": -121.08227, "zip_code": "95960"});
+zipapicallback({"locality": "North San Juan", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N San Juan", "North San Juan"], "postal_code": "95960", "lat": 39.396152, "lng": -121.08227, "type": "STANDARD", "counties": [{"fips": "057", "name": "Nevada"}, {"fips": "091", "name": "Sierra"}, {"fips": "115", "name": "Yuba"}]});

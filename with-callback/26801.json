@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.084895, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Baker", "lng": -78.779, "zip_code": "26801"});
+zipapicallback({"locality": "Baker", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Baker"], "postal_code": "26801", "lat": 39.084895, "lng": -78.779, "type": "STANDARD", "counties": [{"fips": "031", "name": "Hardy"}]});

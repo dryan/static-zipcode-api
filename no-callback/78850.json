@@ -1,1 +1,1 @@
-{"lat": 29.334701, "region": {"abbr": "TX", "name": "Texas"}, "locality": "D Hanis", "lng": -99.33534, "zip_code": "78850"}
+{"locality": "D Hanis", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["D Hanis"], "postal_code": "78850", "lat": 29.334701, "lng": -99.33534, "type": "STANDARD", "counties": [{"fips": "325", "name": "Medina"}]}

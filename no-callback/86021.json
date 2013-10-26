@@ -1,1 +1,1 @@
-{"lat": 36.985868, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Colorado City", "lng": -112.9791, "zip_code": "86021"}
+{"locality": "Colorado City", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Colorado City"], "postal_code": "86021", "lat": 36.985868, "lng": -112.9791, "type": "POBOX", "counties": [{"fips": "015", "name": "Mohave"}]}

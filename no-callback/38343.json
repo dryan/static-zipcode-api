@@ -1,1 +1,1 @@
-{"lat": 35.825299, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Humboldt", "lng": -88.90218, "zip_code": "38343"}
+{"locality": "Humboldt", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Humboldt", "Three Way"], "postal_code": "38343", "lat": 35.825299, "lng": -88.90218, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gibson"}]}

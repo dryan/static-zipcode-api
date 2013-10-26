@@ -1,1 +1,1 @@
-{"lat": 29.450353, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Mc Intosh", "lng": -82.22069, "zip_code": "32664"}
+{"locality": "Mc Intosh", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mc Intosh"], "postal_code": "32664", "lat": 29.450353, "lng": -82.22069, "type": "POBOX", "counties": [{"fips": "083", "name": "Marion"}]}

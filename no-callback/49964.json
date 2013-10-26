@@ -1,1 +1,1 @@
-{"lat": 46.081472, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Stambaugh", "lng": -88.62806, "zip_code": "49964"}
+{"locality": "Stambaugh", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Stambaugh"], "postal_code": "49964", "lat": 46.081472, "lng": -88.62806, "type": "POBOX", "counties": [{"fips": "071", "name": "Iron"}]}

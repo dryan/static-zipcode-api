@@ -1,1 +1,1 @@
-{"lat": 40.950873, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Star City", "lng": -86.57394, "zip_code": "46985"}
+{"locality": "Star City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Star City"], "postal_code": "46985", "lat": 40.950873, "lng": -86.57394, "type": "STANDARD", "counties": [{"fips": "131", "name": "Pulaski"}, {"fips": "181", "name": "White"}, {"fips": "049", "name": "Fulton"}]}

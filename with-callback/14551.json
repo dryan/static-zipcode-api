@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.226024, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sodus", "lng": -77.03599, "zip_code": "14551"});
+zipapicallback({"locality": "Sodus", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sodus", "Sodus Center"], "postal_code": "14551", "lat": 43.226024, "lng": -77.03599, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.659798, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bay", "lng": -91.47293, "zip_code": "65041"}
+{"locality": "Hermann", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hermann", "Mckittrick"], "postal_code": "65041", "lat": 38.659798, "lng": -91.47293, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gasconade"}, {"fips": "219", "name": "Warren"}, {"fips": "139", "name": "Montgomery"}, {"fips": "071", "name": "Franklin"}]}

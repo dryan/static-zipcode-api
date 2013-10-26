@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.278584, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Volga", "lng": -96.93911, "zip_code": "57071"});
+zipapicallback({"locality": "Volga", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Volga"], "postal_code": "57071", "lat": 44.278584, "lng": -96.93911, "type": "STANDARD", "counties": [{"fips": "011", "name": "Brookings"}, {"fips": "101", "name": "Moody"}, {"fips": "079", "name": "Lake"}]});

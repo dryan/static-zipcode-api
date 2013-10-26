@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.005242, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Woollum", "lng": -83.80508, "zip_code": "40999"});
+zipapicallback({"locality": "Woollum", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Woollum"], "postal_code": "40999", "lat": 37.005242, "lng": -83.80508, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]});

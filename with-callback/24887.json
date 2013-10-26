@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.371122, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Switchback", "lng": -81.384, "zip_code": "24887"});
+zipapicallback({"locality": "Switchback", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Switchback"], "postal_code": "24887", "lat": 37.371122, "lng": -81.384, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]});

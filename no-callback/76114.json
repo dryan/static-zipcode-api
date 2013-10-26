@@ -1,1 +1,1 @@
-{"lat": 32.781329, "region": {"abbr": "TX", "name": "Texas"}, "locality": "River Oaks", "lng": -97.40099, "zip_code": "76114"}
+{"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth", "River Oaks", "Westworth Village", "Westworth Vlg"], "postal_code": "76114", "lat": 32.781329, "lng": -97.40099, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]}

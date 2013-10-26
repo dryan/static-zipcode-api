@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.047966, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lebanon", "lng": -86.46592, "zip_code": "46052"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lebanon", "Ulen"], "postal_code": "46052", "lat": 40.047966, "lng": -86.46592, "type": "STANDARD", "counties": [{"fips": "011", "name": "Boone"}]});

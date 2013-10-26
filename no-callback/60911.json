@@ -1,1 +1,1 @@
-{"lat": 40.883641, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ashkum", "lng": -87.9667, "zip_code": "60911"}
+{"locality": "Ashkum", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ashkum"], "postal_code": "60911", "lat": 40.883641, "lng": -87.9667, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}, {"fips": "053", "name": "Ford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.226957, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Warren", "lng": -80.76475, "zip_code": "44484"});
+zipapicallback({"locality": "Warren", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Warren"], "postal_code": "44484", "lat": 41.226957, "lng": -80.76475, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]});

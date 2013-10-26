@@ -1,1 +1,1 @@
-{"lat": 40.038477, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Villanova", "lng": -75.3473, "zip_code": "19085"}
+{"locality": "Villanova", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Villanova"], "postal_code": "19085", "lat": 40.038477, "lng": -75.3473, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

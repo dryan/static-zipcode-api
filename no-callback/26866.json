@@ -1,1 +1,1 @@
-{"lat": 38.814289, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Upper Tract", "lng": -79.23861, "zip_code": "26866"}
+{"locality": "Upper Tract", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Upper Tract"], "postal_code": "26866", "lat": 38.814289, "lng": -79.23861, "type": "STANDARD", "counties": [{"fips": "071", "name": "Pendleton"}]}

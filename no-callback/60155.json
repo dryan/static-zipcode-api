@@ -1,1 +1,1 @@
-{"lat": 41.857931, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Broadview", "lng": -87.85477, "zip_code": "60155"}
+{"locality": "Broadview", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Broadview", "Maywood"], "postal_code": "60155", "lat": 41.857931, "lng": -87.85477, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

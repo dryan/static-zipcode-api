@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.868882, "region": {"abbr": "NY", "name": "New York"}, "locality": "Oyster Bay", "lng": -73.52292, "zip_code": "11771"});
+zipapicallback({"locality": "Oyster Bay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Oyster Bay"], "postal_code": "11771", "lat": 40.868882, "lng": -73.52292, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

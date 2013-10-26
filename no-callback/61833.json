@@ -1,1 +1,1 @@
-{"lat": 40.096186, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Tilton", "lng": -87.64569, "zip_code": "61833"}
+{"locality": "Tilton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Danville", "Tilton"], "postal_code": "61833", "lat": 40.096186, "lng": -87.64569, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

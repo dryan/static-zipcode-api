@@ -1,1 +1,1 @@
-{"lat": 29.072689, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Leming", "lng": -98.48916, "zip_code": "78050"}
+{"locality": "Leming", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Leming"], "postal_code": "78050", "lat": 29.072689, "lng": -98.48916, "type": "POBOX", "counties": [{"fips": "013", "name": "Atascosa"}]}

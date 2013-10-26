@@ -1,1 +1,1 @@
-{"lat": 36.563797, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Winfield", "lng": -84.41935, "zip_code": "37892"}
+{"locality": "Winfield", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Winfield"], "postal_code": "37892", "lat": 36.563797, "lng": -84.41935, "type": "STANDARD", "counties": [{"fips": "151", "name": "Scott"}]}

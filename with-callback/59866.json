@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.3245, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Saint Regis", "lng": -115.13788, "zip_code": "59866"});
+zipapicallback({"locality": "Saint Regis", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Saint Regis"], "postal_code": "59866", "lat": 47.3245, "lng": -115.13788, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mineral"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.975267, "region": {"abbr": "CA", "name": "California"}, "locality": "Chino Hills", "lng": -117.72305, "zip_code": "91709"}
+{"locality": "Chino Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chino Hills"], "postal_code": "91709", "lat": 33.975267, "lng": -117.72305, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

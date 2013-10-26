@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.632905, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Anvik", "lng": -160.21336, "zip_code": "99558"});
+zipapicallback({"locality": "Anvik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Anvik"], "postal_code": "99558", "lat": 62.632905, "lng": -160.21336, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

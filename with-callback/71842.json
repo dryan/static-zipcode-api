@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.927425, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Horatio", "lng": -94.30834, "zip_code": "71842"});
+zipapicallback({"locality": "Horatio", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Horatio"], "postal_code": "71842", "lat": 33.927425, "lng": -94.30834, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sevier"}]});

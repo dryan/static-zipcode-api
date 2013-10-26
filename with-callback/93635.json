@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.048385, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Banos", "lng": -120.86983, "zip_code": "93635"});
+zipapicallback({"locality": "Los Banos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Banos"], "postal_code": "93635", "lat": 37.048385, "lng": -120.86983, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}, {"fips": "019", "name": "Fresno"}]});

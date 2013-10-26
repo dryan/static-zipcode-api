@@ -1,1 +1,1 @@
-{"lat": 42.080758, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clutier", "lng": -92.40188, "zip_code": "52217"}
+{"locality": "Clutier", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clutier"], "postal_code": "52217", "lat": 42.080758, "lng": -92.40188, "type": "STANDARD", "counties": [{"fips": "171", "name": "Tama"}]}

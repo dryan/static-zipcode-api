@@ -1,1 +1,1 @@
-{"lat": 45.891952, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Columbia City", "lng": -122.8132, "zip_code": "97018"}
+{"locality": "Columbia City", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Columbia City"], "postal_code": "97018", "lat": 45.891952, "lng": -122.8132, "type": "STANDARD", "counties": [{"fips": "009", "name": "Columbia"}]}

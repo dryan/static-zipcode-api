@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.177732, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mabton", "lng": -120.02966, "zip_code": "98935"});
+zipapicallback({"locality": "Mabton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Mabton"], "postal_code": "98935", "lat": 46.177732, "lng": -120.02966, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]});

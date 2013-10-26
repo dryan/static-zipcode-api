@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.386933, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Genoa", "lng": -103.48219, "zip_code": "80818"});
+zipapicallback({"locality": "Genoa", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Genoa"], "postal_code": "80818", "lat": 39.386933, "lng": -103.48219, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lincoln"}, {"fips": "121", "name": "Washington"}]});

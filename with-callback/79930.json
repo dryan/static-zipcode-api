@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.803457, "region": {"abbr": "TX", "name": "Texas"}, "locality": "El Paso", "lng": -106.45758, "zip_code": "79930"});
+zipapicallback({"locality": "El Paso", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["El Paso"], "postal_code": "79930", "lat": 31.803457, "lng": -106.45758, "type": "STANDARD", "counties": [{"fips": "141", "name": "El Paso"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.391737, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Pine Valley", "lng": -113.51806, "zip_code": "84781"}
+{"locality": "Pine Valley", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Pine Valley"], "postal_code": "84781", "lat": 37.391737, "lng": -113.51806, "type": "STANDARD", "counties": []}

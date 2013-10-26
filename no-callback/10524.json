@@ -1,1 +1,1 @@
-{"lat": 41.363063, "region": {"abbr": "NY", "name": "New York"}, "locality": "Garrison", "lng": -73.92154, "zip_code": "10524"}
+{"locality": "Garrison", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Garrison"], "postal_code": "10524", "lat": 41.363063, "lng": -73.92154, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}]}

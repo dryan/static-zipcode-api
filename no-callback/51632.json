@@ -1,1 +1,1 @@
-{"lat": 40.738639, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clarinda", "lng": -95.03595, "zip_code": "51632"}
+{"locality": "Clarinda", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clarinda"], "postal_code": "51632", "lat": 40.738639, "lng": -95.03595, "type": "STANDARD", "counties": [{"fips": "145", "name": "Page"}]}

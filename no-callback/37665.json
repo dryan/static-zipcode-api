@@ -1,1 +1,1 @@
-{"lat": 36.583233, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lynn Garden", "lng": -82.57249, "zip_code": "37665"}
+{"locality": "Kingsport", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Kingsport"], "postal_code": "37665", "lat": 36.583233, "lng": -82.57249, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sullivan"}]}

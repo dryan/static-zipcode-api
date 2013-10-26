@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.97514, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Emerson", "lng": -74.02725, "zip_code": "07630"});
+zipapicallback({"locality": "Emerson", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Emerson"], "postal_code": "07630", "lat": 40.97514, "lng": -74.02725, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

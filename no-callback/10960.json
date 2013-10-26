@@ -1,1 +1,1 @@
-{"lat": 41.089746, "region": {"abbr": "NY", "name": "New York"}, "locality": "Nyack", "lng": -73.9258, "zip_code": "10960"}
+{"locality": "Nyack", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Grand View-on-hudson", "Grnd Vw Hudsn", "Nyack"], "postal_code": "10960", "lat": 41.089746, "lng": -73.9258, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

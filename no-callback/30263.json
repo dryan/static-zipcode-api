@@ -1,1 +1,1 @@
-{"lat": 33.38779, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Raymond", "lng": -84.82536, "zip_code": "30263"}
+{"locality": "Newnan", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Newnan", "Raymond"], "postal_code": "30263", "lat": 33.38779, "lng": -84.82536, "type": "STANDARD", "counties": [{"fips": "077", "name": "Coweta"}, {"fips": "099", "name": "Early"}, {"fips": "149", "name": "Heard"}]}

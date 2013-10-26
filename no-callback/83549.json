@@ -1,1 +1,1 @@
-{"lat": 45.405792, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Riggins", "lng": -116.36431, "zip_code": "83549"}
+{"locality": "Riggins", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Riggins"], "postal_code": "83549", "lat": 45.405792, "lng": -116.36431, "type": "STANDARD", "counties": [{"fips": "049", "name": "Idaho"}]}

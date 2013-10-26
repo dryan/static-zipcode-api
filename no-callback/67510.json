@@ -1,1 +1,1 @@
-{"lat": 37.992099, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Abbyville", "lng": -98.22479, "zip_code": "67510"}
+{"locality": "Abbyville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Abbyville"], "postal_code": "67510", "lat": 37.992099, "lng": -98.22479, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}]}

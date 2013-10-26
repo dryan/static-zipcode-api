@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.163976, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Clearwater", "lng": -98.21846, "zip_code": "68726"});
+zipapicallback({"locality": "Clearwater", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Clearwater"], "postal_code": "68726", "lat": 42.163976, "lng": -98.21846, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}, {"fips": "089", "name": "Holt"}]});

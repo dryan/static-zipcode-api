@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.170846, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Oxford", "lng": -71.88989, "zip_code": "01537"});
+zipapicallback({"locality": "North Oxford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["North Oxford"], "postal_code": "01537", "lat": 42.170846, "lng": -71.88989, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.286655, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Johnson City", "lng": -98.39837, "zip_code": "78636"});
+zipapicallback({"locality": "Johnson City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Johnson City"], "postal_code": "78636", "lat": 30.286655, "lng": -98.39837, "type": "STANDARD", "counties": [{"fips": "031", "name": "Blanco"}]});

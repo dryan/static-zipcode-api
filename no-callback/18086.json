@@ -1,1 +1,1 @@
-{"lat": 40.734807, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Treichlers", "lng": -75.54488, "zip_code": "18086"}
+{"locality": "Treichlers", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Treichlers"], "postal_code": "18086", "lat": 40.734807, "lng": -75.54488, "type": "POBOX", "counties": [{"fips": "095", "name": "Northampton"}]}

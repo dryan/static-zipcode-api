@@ -1,1 +1,1 @@
-{"lat": 36.111907, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Youngsville", "lng": -106.54779, "zip_code": "87064"}
+{"locality": "Youngsville", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Youngsville"], "postal_code": "87064", "lat": 36.111907, "lng": -106.54779, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

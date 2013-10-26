@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.599177, "region": {"abbr": "CA", "name": "California"}, "locality": "China Lake Nwc", "lng": -117.68065, "zip_code": "93555"});
+zipapicallback({"locality": "Ridgecrest", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ridgecrest"], "postal_code": "93555", "lat": 35.599177, "lng": -117.68065, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}, {"fips": "071", "name": "San Bernardino"}, {"fips": "027", "name": "Inyo"}]});

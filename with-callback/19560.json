@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.407243, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Temple", "lng": -75.91163, "zip_code": "19560"});
+zipapicallback({"locality": "Temple", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Temple"], "postal_code": "19560", "lat": 40.407243, "lng": -75.91163, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.754308, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Weaver", "lng": -85.81991, "zip_code": "36277"}
+{"locality": "Weaver", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Weaver"], "postal_code": "36277", "lat": 33.754308, "lng": -85.81991, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calhoun"}]}

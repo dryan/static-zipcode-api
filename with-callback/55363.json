@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.046143, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Montrose", "lng": -93.92085, "zip_code": "55363"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Montrose"], "postal_code": "55363", "lat": 45.046143, "lng": -93.92085, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}, {"fips": "019", "name": "Carver"}]});

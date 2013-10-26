@@ -1,1 +1,1 @@
-{"lat": 43.678258, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mears", "lng": -86.46576, "zip_code": "49436"}
+{"locality": "Mears", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mears", "Silver Lake"], "postal_code": "49436", "lat": 43.678258, "lng": -86.46576, "type": "STANDARD", "counties": [{"fips": "127", "name": "Oceana"}]}

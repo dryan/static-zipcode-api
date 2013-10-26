@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.557052, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kitts Hill", "lng": -82.53744, "zip_code": "45645"});
+zipapicallback({"locality": "Kitts Hill", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kitts Hill"], "postal_code": "45645", "lat": 38.557052, "lng": -82.53744, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lawrence"}, {"fips": "073", "name": "Hocking"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.070204, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "La Salle", "lng": -94.57143, "zip_code": "56056"});
+zipapicallback({"locality": "La Salle", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["La Salle"], "postal_code": "56056", "lat": 44.070204, "lng": -94.57143, "type": "POBOX", "counties": [{"fips": "165", "name": "Watonwan"}]});

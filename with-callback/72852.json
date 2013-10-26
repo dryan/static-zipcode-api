@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.689689, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Oark", "lng": -93.55764, "zip_code": "72852"});
+zipapicallback({"locality": "Oark", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Oark"], "postal_code": "72852", "lat": 35.689689, "lng": -93.55764, "type": "STANDARD", "counties": [{"fips": "071", "name": "Johnson"}, {"fips": "101", "name": "Newton"}]});

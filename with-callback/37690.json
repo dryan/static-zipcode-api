@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.254547, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Telford", "lng": -82.55708, "zip_code": "37690"});
+zipapicallback({"locality": "Telford", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Telford"], "postal_code": "37690", "lat": 36.254547, "lng": -82.55708, "type": "STANDARD", "counties": [{"fips": "179", "name": "Washington"}]});

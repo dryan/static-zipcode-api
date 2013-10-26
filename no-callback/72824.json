@@ -1,1 +1,1 @@
-{"lat": 35.108311, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Belleville", "lng": -93.42594, "zip_code": "72824"}
+{"locality": "Belleville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Belleville"], "postal_code": "72824", "lat": 35.108311, "lng": -93.42594, "type": "STANDARD", "counties": [{"fips": "149", "name": "Yell"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.459158, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Glenvil", "lng": -98.28892, "zip_code": "68941"});
+zipapicallback({"locality": "Glenvil", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Glenvil"], "postal_code": "68941", "lat": 40.459158, "lng": -98.28892, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clay"}, {"fips": "001", "name": "Adams"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.88821, "region": {"abbr": "NY", "name": "New York"}, "locality": "Chazy", "lng": -73.43225, "zip_code": "12921"});
+zipapicallback({"locality": "Chazy", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Chazy"], "postal_code": "12921", "lat": 44.88821, "lng": -73.43225, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

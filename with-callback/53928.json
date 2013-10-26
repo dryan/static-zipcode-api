@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.426936, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Doylestown", "lng": -89.14912, "zip_code": "53928"});
+zipapicallback({"locality": "Doylestown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Doylestown"], "postal_code": "53928", "lat": 43.426936, "lng": -89.14912, "type": "POBOX", "counties": [{"fips": "021", "name": "Columbia"}]});

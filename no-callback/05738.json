@@ -1,1 +1,1 @@
-{"lat": 43.507854, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Cuttingsville", "lng": -72.8642, "zip_code": "05738"}
+{"locality": "Cuttingsville", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Cuttingsville", "Shrewsbury"], "postal_code": "05738", "lat": 43.507854, "lng": -72.8642, "type": "STANDARD", "counties": [{"fips": "021", "name": "Rutland"}]}

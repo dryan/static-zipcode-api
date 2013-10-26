@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.088117, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Baldwin", "lng": -90.83793, "zip_code": "52207"});
+zipapicallback({"locality": "Baldwin", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Baldwin"], "postal_code": "52207", "lat": 42.088117, "lng": -90.83793, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}]});

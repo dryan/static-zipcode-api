@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.828682, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Weissport", "lng": -75.70596, "zip_code": "18235"});
+zipapicallback({"locality": "Lehighton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lehightn Bor0", "Lehighton", "Lehighton Borough", "Weissport"], "postal_code": "18235", "lat": 40.828682, "lng": -75.70596, "type": "STANDARD", "counties": [{"fips": "025", "name": "Carbon"}]});

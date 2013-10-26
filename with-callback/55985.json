@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.157166, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "West Concord", "lng": -92.89357, "zip_code": "55985"});
+zipapicallback({"locality": "West Concord", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["West Concord"], "postal_code": "55985", "lat": 44.157166, "lng": -92.89357, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dodge"}, {"fips": "147", "name": "Steele"}, {"fips": "049", "name": "Goodhue"}]});

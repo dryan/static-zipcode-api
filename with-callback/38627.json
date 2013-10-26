@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.425389, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Etta", "lng": -89.20431, "zip_code": "38627"});
+zipapicallback({"locality": "Etta", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Etta"], "postal_code": "38627", "lat": 34.425389, "lng": -89.20431, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lafayette"}, {"fips": "145", "name": "Union"}]});

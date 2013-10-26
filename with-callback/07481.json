@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.998583, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wyckoff", "lng": -74.1671, "zip_code": "07481"});
+zipapicallback({"locality": "Wyckoff", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wyckoff"], "postal_code": "07481", "lat": 40.998583, "lng": -74.1671, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

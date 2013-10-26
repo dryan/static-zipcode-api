@@ -1,1 +1,1 @@
-zipapicallback({"lat": 63.511893, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Stebbins", "lng": -162.27463, "zip_code": "99671"});
+zipapicallback({"locality": "Stebbins", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Stebbins"], "postal_code": "99671", "lat": 63.511893, "lng": -162.27463, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]});

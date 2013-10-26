@@ -1,1 +1,1 @@
-{"lat": 32.251957, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fort Davis", "lng": -85.73589, "zip_code": "36031"}
+{"locality": "Fort Davis", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fort Davis"], "postal_code": "36031", "lat": 32.251957, "lng": -85.73589, "type": "POBOX", "counties": [{"fips": "087", "name": "MacOn"}]}

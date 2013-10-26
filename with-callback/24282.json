@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.805965, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Saint Charles", "lng": -83.05467, "zip_code": "24282"});
+zipapicallback({"locality": "Saint Charles", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Saint Charles"], "postal_code": "24282", "lat": 36.805965, "lng": -83.05467, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.401461, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Needville", "lng": -95.82334, "zip_code": "77461"});
+zipapicallback({"locality": "Needville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Needville"], "postal_code": "77461", "lat": 29.401461, "lng": -95.82334, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}]});

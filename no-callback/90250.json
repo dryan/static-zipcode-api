@@ -1,1 +1,1 @@
-{"lat": 33.914614, "region": {"abbr": "CA", "name": "California"}, "locality": "Holly Park", "lng": -118.35092, "zip_code": "90250"}
+{"locality": "Hawthorne", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hawthorne", "Holly Park", "Hollyglen"], "postal_code": "90250", "lat": 33.914614, "lng": -118.35092, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

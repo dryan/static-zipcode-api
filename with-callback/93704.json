@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.794748, "region": {"abbr": "CA", "name": "California"}, "locality": "Fig Garden Villa", "lng": -119.80097, "zip_code": "93704"});
+zipapicallback({"locality": "Fresno", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fresno"], "postal_code": "93704", "lat": 36.794748, "lng": -119.80097, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

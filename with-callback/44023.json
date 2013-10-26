@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.392171, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chagrin Falls", "lng": -81.32748, "zip_code": "44023"});
+zipapicallback({"locality": "Chagrin Falls", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Auburn Township", "Auburn Twp", "Chagrin Falls"], "postal_code": "44023", "lat": 41.392171, "lng": -81.32748, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 41.615036, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wallkill", "lng": -74.15461, "zip_code": "12589"}
+{"locality": "Wallkill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wallkill"], "postal_code": "12589", "lat": 41.615036, "lng": -74.15461, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}, {"fips": "071", "name": "Orange"}]}

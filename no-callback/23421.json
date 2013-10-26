@@ -1,1 +1,1 @@
-{"lat": 37.780966, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Parksley", "lng": -75.64895, "zip_code": "23421"}
+{"locality": "Parksley", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lee Mont", "Parksley"], "postal_code": "23421", "lat": 37.780966, "lng": -75.64895, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.476882, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "West Mountain", "lng": -115.9729, "zip_code": "83611"}
+{"locality": "Cascade", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Cascade"], "postal_code": "83611", "lat": 44.476882, "lng": -115.9729, "type": "STANDARD", "counties": [{"fips": "085", "name": "Valley"}, {"fips": "049", "name": "Idaho"}]}

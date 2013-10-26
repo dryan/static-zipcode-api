@@ -1,1 +1,1 @@
-{"lat": 60.214239, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Eek", "lng": -162.03799, "zip_code": "99578"}
+{"locality": "Eek", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Eek"], "postal_code": "99578", "lat": 60.214239, "lng": -162.03799, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]}

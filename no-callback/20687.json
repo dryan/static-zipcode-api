@@ -1,1 +1,1 @@
-{"lat": 38.064947, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Scotland", "lng": -76.3444, "zip_code": "20687"}
+{"locality": "Scotland", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Scotland"], "postal_code": "20687", "lat": 38.064947, "lng": -76.3444, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.638186, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Reserve", "lng": -108.66387, "zip_code": "87830"});
+zipapicallback({"locality": "Reserve", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Reserve"], "postal_code": "87830", "lat": 33.638186, "lng": -108.66387, "type": "STANDARD", "counties": [{"fips": "003", "name": "Catron"}]});

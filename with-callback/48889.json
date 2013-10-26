@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.293977, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sumner", "lng": -84.79415, "zip_code": "48889"});
+zipapicallback({"locality": "Sumner", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sumner"], "postal_code": "48889", "lat": 43.293977, "lng": -84.79415, "type": "STANDARD", "counties": [{"fips": "057", "name": "Gratiot"}, {"fips": "117", "name": "Montcalm"}]});

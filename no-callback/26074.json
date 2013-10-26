@@ -1,1 +1,1 @@
-{"lat": 40.167471, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "West Liberty", "lng": -80.59377, "zip_code": "26074"}
+{"locality": "West Liberty", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["West Liberty"], "postal_code": "26074", "lat": 40.167471, "lng": -80.59377, "type": "POBOX", "counties": [{"fips": "069", "name": "Ohio"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.41176, "region": {"abbr": "CA", "name": "California"}, "locality": "Soledad", "lng": -121.32617, "zip_code": "93960"});
+zipapicallback({"locality": "Soledad", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Soledad"], "postal_code": "93960", "lat": 36.41176, "lng": -121.32617, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]});

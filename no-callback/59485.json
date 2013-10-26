@@ -1,1 +1,1 @@
-{"lat": 47.429273, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ulm", "lng": -111.59357, "zip_code": "59485"}
+{"locality": "Ulm", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ulm"], "postal_code": "59485", "lat": 47.429273, "lng": -111.59357, "type": "POBOX", "counties": [{"fips": "013", "name": "Cascade"}]}

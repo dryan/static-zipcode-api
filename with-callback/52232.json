@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.809975, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hartwick", "lng": -92.32815, "zip_code": "52232"});
+zipapicallback({"locality": "Hartwick", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hartwick"], "postal_code": "52232", "lat": 41.809975, "lng": -92.32815, "type": "STANDARD", "counties": [{"fips": "157", "name": "Poweshiek"}]});

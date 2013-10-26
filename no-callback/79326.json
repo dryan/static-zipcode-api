@@ -1,1 +1,1 @@
-{"lat": 34.04877, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fieldton", "lng": -102.20958, "zip_code": "79326"}
+{"locality": "Fieldton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fieldton"], "postal_code": "79326", "lat": 34.04877, "lng": -102.20958, "type": "STANDARD", "counties": [{"fips": "279", "name": "Lamb"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.479754, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Grethel", "lng": -82.64922, "zip_code": "41631"}
+{"locality": "Grethel", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Grethel"], "postal_code": "41631", "lat": 37.479754, "lng": -82.64922, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

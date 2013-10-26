@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.576054, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dunkerton", "lng": -92.16575, "zip_code": "50626"});
+zipapicallback({"locality": "Dunkerton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dunkerton"], "postal_code": "50626", "lat": 42.576054, "lng": -92.16575, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}]});

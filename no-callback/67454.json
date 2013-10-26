@@ -1,1 +1,1 @@
-{"lat": 38.703443, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kanopolis", "lng": -98.13731, "zip_code": "67454"}
+{"locality": "Kanopolis", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kanopolis"], "postal_code": "67454", "lat": 38.703443, "lng": -98.13731, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ellsworth"}]}

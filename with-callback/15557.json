@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.935728, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rockwood", "lng": -79.22093, "zip_code": "15557"});
+zipapicallback({"locality": "Rockwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Rockwood"], "postal_code": "15557", "lat": 39.935728, "lng": -79.22093, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}, {"fips": "051", "name": "Fayette"}]});

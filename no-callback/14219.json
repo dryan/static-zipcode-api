@@ -1,1 +1,1 @@
-{"lat": 42.790708, "region": {"abbr": "NY", "name": "New York"}, "locality": "Blasdell", "lng": -78.82717, "zip_code": "14219"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Blasdell", "Buffalo"], "postal_code": "14219", "lat": 42.790708, "lng": -78.82717, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

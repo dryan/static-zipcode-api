@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.942616, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Island Heights", "lng": -74.14689, "zip_code": "08732"});
+zipapicallback({"locality": "Island Heights", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Island Heights", "Island Hgts"], "postal_code": "08732", "lat": 39.942616, "lng": -74.14689, "type": "POBOX", "counties": [{"fips": "029", "name": "Ocean"}]});

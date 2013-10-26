@@ -1,1 +1,1 @@
-{"lat": 37.85245, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pittsburg", "lng": -93.31817, "zip_code": "65724"}
+{"locality": "Pittsburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pittsburg"], "postal_code": "65724", "lat": 37.85245, "lng": -93.31817, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hickory"}]}

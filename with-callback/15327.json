@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.754889, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dilliner", "lng": -79.95226, "zip_code": "15327"});
+zipapicallback({"locality": "Dilliner", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dilliner"], "postal_code": "15327", "lat": 39.754889, "lng": -79.95226, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

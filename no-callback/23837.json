@@ -1,1 +1,1 @@
-{"lat": 36.740306, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Courtland", "lng": -77.07132, "zip_code": "23837"}
+{"locality": "Courtland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Courtland"], "postal_code": "23837", "lat": 36.740306, "lng": -77.07132, "type": "STANDARD", "counties": [{"fips": "175", "name": "Southampton"}, {"fips": "183", "name": "Sussex"}]}

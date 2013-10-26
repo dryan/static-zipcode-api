@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.64181, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nicholson", "lng": -75.74693, "zip_code": "18446"});
+zipapicallback({"locality": "Nicholson", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clifford Township", "Clifford Twp", "Nicholson"], "postal_code": "18446", "lat": 41.64181, "lng": -75.74693, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wyoming"}, {"fips": "115", "name": "Susquehanna"}, {"fips": "069", "name": "Lackawanna"}, {"fips": "089", "name": "Monroe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.292977, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Andover", "lng": -90.29334, "zip_code": "61233"});
+zipapicallback({"locality": "Andover", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Andover"], "postal_code": "61233", "lat": 41.292977, "lng": -90.29334, "type": "POBOX", "counties": [{"fips": "073", "name": "Henry"}]});

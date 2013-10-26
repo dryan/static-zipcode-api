@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.237155, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Middletown", "lng": -85.53657, "zip_code": "40243"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Douglass Hills", "Douglass Hls", "Louisville", "Middletown", "Woodland Hills", "Woodland Hls"], "postal_code": "40243", "lat": 38.237155, "lng": -85.53657, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]});

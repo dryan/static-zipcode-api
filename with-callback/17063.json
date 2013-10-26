@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.735551, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Milroy", "lng": -77.54813, "zip_code": "17063"});
+zipapicallback({"locality": "Milroy", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Milroy"], "postal_code": "17063", "lat": 40.735551, "lng": -77.54813, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mifflin"}]});

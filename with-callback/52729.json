@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.823151, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Calamus", "lng": -90.75572, "zip_code": "52729"});
+zipapicallback({"locality": "Calamus", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Calamus"], "postal_code": "52729", "lat": 41.823151, "lng": -90.75572, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clinton"}]});

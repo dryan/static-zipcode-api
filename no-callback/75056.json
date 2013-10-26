@@ -1,1 +1,1 @@
-{"lat": 33.081421, "region": {"abbr": "TX", "name": "Texas"}, "locality": "The Colony", "lng": -96.88957, "zip_code": "75056"}
+{"locality": "The Colony", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lewisville", "The Colony"], "postal_code": "75056", "lat": 33.081421, "lng": -96.88957, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]}

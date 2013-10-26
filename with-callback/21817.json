@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.985297, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Crisfield", "lng": -75.84597, "zip_code": "21817"});
+zipapicallback({"locality": "Crisfield", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Crisfield"], "postal_code": "21817", "lat": 37.985297, "lng": -75.84597, "type": "STANDARD", "counties": [{"fips": "039", "name": "Somerset"}]});

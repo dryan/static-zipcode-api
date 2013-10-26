@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.892577, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Dexter", "lng": -122.81992, "zip_code": "97431"});
+zipapicallback({"locality": "Dexter", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Dexter"], "postal_code": "97431", "lat": 43.892577, "lng": -122.81992, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

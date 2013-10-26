@@ -1,1 +1,1 @@
-{"lat": 39.974584, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Toms River", "lng": -74.15141, "zip_code": "08753"}
+{"locality": "Toms River", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Toms River"], "postal_code": "08753", "lat": 39.974584, "lng": -74.15141, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]}

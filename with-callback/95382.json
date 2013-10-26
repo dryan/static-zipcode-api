@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.523901, "region": {"abbr": "CA", "name": "California"}, "locality": "Turlock", "lng": -120.8516, "zip_code": "95382"});
+zipapicallback({"locality": "Turlock", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Turlock"], "postal_code": "95382", "lat": 37.523901, "lng": -120.8516, "type": "STANDARD", "counties": []});

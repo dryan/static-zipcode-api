@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.901802, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Putney", "lng": -83.24129, "zip_code": "40865"});
+zipapicallback({"locality": "Putney", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Putney"], "postal_code": "40865", "lat": 36.901802, "lng": -83.24129, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]});

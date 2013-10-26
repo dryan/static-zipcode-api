@@ -1,1 +1,1 @@
-{"lat": 43.914168, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cleveland", "lng": -87.76689, "zip_code": "53015"}
+{"locality": "Cleveland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cleveland"], "postal_code": "53015", "lat": 43.914168, "lng": -87.76689, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}, {"fips": "117", "name": "Sheboygan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.655708, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Armstrong Creek", "lng": -88.48292, "zip_code": "54103"});
+zipapicallback({"locality": "Armstrong Creek", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Armstrong Creek", "Armstrong Crk"], "postal_code": "54103", "lat": 45.655708, "lng": -88.48292, "type": "STANDARD", "counties": [{"fips": "041", "name": "Forest"}, {"fips": "037", "name": "Florence"}, {"fips": "075", "name": "Marinette"}]});

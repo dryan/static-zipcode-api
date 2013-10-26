@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.926318, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Daniel", "lng": -110.18889, "zip_code": "83115"});
+zipapicallback({"locality": "Daniel", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Daniel"], "postal_code": "83115", "lat": 42.926318, "lng": -110.18889, "type": "STANDARD", "counties": [{"fips": "035", "name": "Sublette"}]});

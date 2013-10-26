@@ -1,1 +1,1 @@
-{"lat": 47.028423, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Graham", "lng": -122.291, "zip_code": "98338"}
+{"locality": "Graham", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Graham"], "postal_code": "98338", "lat": 47.028423, "lng": -122.291, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

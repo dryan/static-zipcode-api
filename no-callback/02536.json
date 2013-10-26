@@ -1,1 +1,1 @@
-{"lat": 41.578992, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Teaticket", "lng": -70.5614, "zip_code": "02536"}
+{"locality": "East Falmouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Falmouth", "Ea Falmouth", "East Falmouth", "Hatchville", "Teaticket", "Waquoit"], "postal_code": "02536", "lat": 41.578992, "lng": -70.5614, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

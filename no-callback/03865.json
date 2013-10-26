@@ -1,1 +1,1 @@
-{"lat": 42.837189, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Plaistow", "lng": -71.09445, "zip_code": "03865"}
+{"locality": "Plaistow", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Plaistow"], "postal_code": "03865", "lat": 42.837189, "lng": -71.09445, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

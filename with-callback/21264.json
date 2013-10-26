@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Baltimore", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore"], "postal_code": "21264", "type": "UNIQUE", "counties": [{"fips": "510", "name": "Baltimore (City)"}]});

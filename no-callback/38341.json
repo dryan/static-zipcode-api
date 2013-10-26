@@ -1,1 +1,1 @@
-{"lat": 35.866499, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Holladay", "lng": -88.09896, "zip_code": "38341"}
+{"locality": "Holladay", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Holladay"], "postal_code": "38341", "lat": 35.866499, "lng": -88.09896, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benton"}]}

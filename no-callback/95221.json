@@ -1,1 +1,1 @@
-{"lat": 38.077, "region": {"abbr": "CA", "name": "California"}, "locality": "Altaville", "lng": -120.55401, "zip_code": "95221"}
+{"locality": "Altaville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Altaville", "Angels Camp"], "postal_code": "95221", "lat": 38.077, "lng": -120.55401, "type": "POBOX", "counties": [{"fips": "009", "name": "Calaveras"}]}

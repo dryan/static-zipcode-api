@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.293805, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Jonesborough", "lng": -82.49704, "zip_code": "37659"});
+zipapicallback({"locality": "Jonesborough", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Jonesborough"], "postal_code": "37659", "lat": 36.293805, "lng": -82.49704, "type": "STANDARD", "counties": [{"fips": "179", "name": "Washington"}, {"fips": "163", "name": "Sullivan"}]});

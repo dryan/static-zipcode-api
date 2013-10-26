@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.246525, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Yukon", "lng": -91.82976, "zip_code": "65589"});
+zipapicallback({"locality": "Yukon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Yukon"], "postal_code": "65589", "lat": 37.246525, "lng": -91.82976, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}]});

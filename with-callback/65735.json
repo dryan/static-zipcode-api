@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.059763, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Quincy", "lng": -93.48502, "zip_code": "65735"});
+zipapicallback({"locality": "Quincy", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Quincy"], "postal_code": "65735", "lat": 38.059763, "lng": -93.48502, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hickory"}, {"fips": "185", "name": "St. Clair"}, {"fips": "015", "name": "Benton"}]});

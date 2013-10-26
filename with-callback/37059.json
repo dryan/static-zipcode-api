@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.993983, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Dowelltown", "lng": -85.92851, "zip_code": "37059"});
+zipapicallback({"locality": "Dowelltown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Dowelltown"], "postal_code": "37059", "lat": 35.993983, "lng": -85.92851, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dekalb"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.849372, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Little Switzerland", "lng": -82.07899, "zip_code": "28749"});
+zipapicallback({"locality": "Little Switzerland", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Little Switzerland", "Ltl Switzrlnd"], "postal_code": "28749", "lat": 35.849372, "lng": -82.07899, "type": "POBOX", "counties": [{"fips": "111", "name": "McDowell"}]});

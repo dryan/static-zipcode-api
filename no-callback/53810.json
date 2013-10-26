@@ -1,1 +1,1 @@
-{"lat": 42.818053, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Glen Haven", "lng": -90.9931, "zip_code": "53810"}
+{"locality": "Glen Haven", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Glen Haven"], "postal_code": "53810", "lat": 42.818053, "lng": -90.9931, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.265643, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Crystal Lake", "lng": -88.31664, "zip_code": "60012"}
+{"locality": "Crystal Lake", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bull Valley", "Crystal Lake"], "postal_code": "60012", "lat": 42.265643, "lng": -88.31664, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}]}

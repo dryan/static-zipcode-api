@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.207594, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Haverstraw", "lng": -73.97772, "zip_code": "10993"});
+zipapicallback({"locality": "West Haverstraw", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["W Haverstraw", "West Haverstraw"], "postal_code": "10993", "lat": 41.207594, "lng": -73.97772, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]});

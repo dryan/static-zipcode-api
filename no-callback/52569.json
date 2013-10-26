@@ -1,1 +1,1 @@
-{"lat": 40.948022, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Melrose", "lng": -93.02537, "zip_code": "52569"}
+{"locality": "Melrose", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Melrose"], "postal_code": "52569", "lat": 40.948022, "lng": -93.02537, "type": "STANDARD", "counties": [{"fips": "135", "name": "Monroe"}]}

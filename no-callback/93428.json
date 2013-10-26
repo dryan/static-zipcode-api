@@ -1,1 +1,1 @@
-{"lat": 35.563246, "region": {"abbr": "CA", "name": "California"}, "locality": "Cambria", "lng": -121.07736, "zip_code": "93428"}
+{"locality": "Cambria", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cambria"], "postal_code": "93428", "lat": 35.563246, "lng": -121.07736, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

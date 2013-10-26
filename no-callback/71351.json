@@ -1,1 +1,1 @@
-{"lat": 31.140727, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Marksville", "lng": -92.08056, "zip_code": "71351"}
+{"locality": "Marksville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Marksville"], "postal_code": "71351", "lat": 31.140727, "lng": -92.08056, "type": "STANDARD", "counties": [{"fips": "009", "name": "Avoyelles"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.761052, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fruithurst", "lng": -85.45227, "zip_code": "36262"}
+{"locality": "Fruithurst", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fruithurst"], "postal_code": "36262", "lat": 33.761052, "lng": -85.45227, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cleburne"}]}

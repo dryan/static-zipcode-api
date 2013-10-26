@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.364246, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Mekoryuk", "lng": -166.28601, "zip_code": "99630"});
+zipapicallback({"locality": "Mekoryuk", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Mekoryuk"], "postal_code": "99630", "lat": 60.364246, "lng": -166.28601, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

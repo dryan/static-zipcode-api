@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.673236, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Revelo", "lng": -84.47095, "zip_code": "42638"});
+zipapicallback({"locality": "Revelo", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Revelo"], "postal_code": "42638", "lat": 36.673236, "lng": -84.47095, "type": "STANDARD", "counties": [{"fips": "147", "name": "McCreary"}]});

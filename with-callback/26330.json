@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.296499, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bridgeport", "lng": -80.24199, "zip_code": "26330"});
+zipapicallback({"locality": "Bridgeport", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bridgeport", "Brushy Fork", "Lake Ridge", "Maple Lake"], "postal_code": "26330", "lat": 39.296499, "lng": -80.24199, "type": "STANDARD", "counties": [{"fips": "033", "name": "Harrison"}, {"fips": "091", "name": "Taylor"}, {"fips": "001", "name": "Barbour"}]});

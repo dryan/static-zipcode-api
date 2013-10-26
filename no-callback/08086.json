@@ -1,1 +1,1 @@
-{"lat": 39.849156, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Thorofare", "lng": -75.18159, "zip_code": "08086"}
+{"locality": "Thorofare", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Thorofare", "West Deptford"], "postal_code": "08086", "lat": 39.849156, "lng": -75.18159, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

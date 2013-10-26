@@ -1,1 +1,1 @@
-{"lat": 36.761698, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chesapeake", "lng": -76.24511, "zip_code": "23320"}
+{"locality": "Chesapeake", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chesapeake"], "postal_code": "23320", "lat": 36.761698, "lng": -76.24511, "type": "STANDARD", "counties": [{"fips": "550", "name": "Chesapeake (City)"}]}

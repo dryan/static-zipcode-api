@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.918948, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Paterson", "lng": -74.1939, "zip_code": "07502"});
+zipapicallback({"locality": "Paterson", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Paterson", "Totowa"], "postal_code": "07502", "lat": 40.918948, "lng": -74.1939, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}]});

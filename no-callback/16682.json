@@ -1,1 +1,1 @@
-{"lat": 40.271645, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sproul", "lng": -78.45919, "zip_code": "16682"}
+{"locality": "Sproul", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sproul"], "postal_code": "16682", "lat": 40.271645, "lng": -78.45919, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}]}

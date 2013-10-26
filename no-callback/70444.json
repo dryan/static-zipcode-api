@@ -1,1 +1,1 @@
-{"lat": 30.923938, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Kentwood", "lng": -90.50206, "zip_code": "70444"}
+{"locality": "Kentwood", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Kentwood", "New Zion"], "postal_code": "70444", "lat": 30.923938, "lng": -90.50206, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}, {"fips": "117", "name": "Washington"}, {"fips": "091", "name": "St. Helena"}]}

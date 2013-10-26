@@ -1,1 +1,1 @@
-{"lat": 35.785607, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Sulphur Rock", "lng": -91.47502, "zip_code": "72579"}
+{"locality": "Sulphur Rock", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Sulphur Rock"], "postal_code": "72579", "lat": 35.785607, "lng": -91.47502, "type": "STANDARD", "counties": [{"fips": "063", "name": "Independence"}]}

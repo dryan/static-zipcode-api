@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.758378, "region": {"abbr": "NY", "name": "New York"}, "locality": "Madrid", "lng": -75.14571, "zip_code": "13660"});
+zipapicallback({"locality": "Madrid", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Madrid"], "postal_code": "13660", "lat": 44.758378, "lng": -75.14571, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.08677, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Placerville", "lng": -108.00332, "zip_code": "81430"}
+{"locality": "Placerville", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Placerville"], "postal_code": "81430", "lat": 38.08677, "lng": -108.00332, "type": "POBOX", "counties": [{"fips": "113", "name": "San Miguel"}]}

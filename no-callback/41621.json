@@ -1,1 +1,1 @@
-{"lat": 37.623492, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dwale", "lng": -82.72417, "zip_code": "41621"}
+{"locality": "Dwale", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dwale"], "postal_code": "41621", "lat": 37.623492, "lng": -82.72417, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

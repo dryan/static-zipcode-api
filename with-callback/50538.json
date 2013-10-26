@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.279123, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Farnhamville", "lng": -94.41373, "zip_code": "50538"});
+zipapicallback({"locality": "Farnhamville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Farnhamville", "Rinard"], "postal_code": "50538", "lat": 42.279123, "lng": -94.41373, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]});

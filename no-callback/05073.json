@@ -1,1 +1,1 @@
-{"lat": 43.625216, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Taftsville", "lng": -72.47756, "zip_code": "05073"}
+{"locality": "Taftsville", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Taftsville"], "postal_code": "05073", "lat": 43.625216, "lng": -72.47756, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]}

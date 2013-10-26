@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.202461, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Aledo", "lng": -90.73137, "zip_code": "61231"});
+zipapicallback({"locality": "Aledo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Aledo"], "postal_code": "61231", "lat": 41.202461, "lng": -90.73137, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}, {"fips": "161", "name": "Rock Island"}]});

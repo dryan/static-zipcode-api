@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.846345, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Medora", "lng": -86.18327, "zip_code": "47260"});
+zipapicallback({"locality": "Medora", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Medora"], "postal_code": "47260", "lat": 38.846345, "lng": -86.18327, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}, {"fips": "093", "name": "Lawrence"}]});

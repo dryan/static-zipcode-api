@@ -1,1 +1,1 @@
-{"lat": 42.682176, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Galt", "lng": -93.61472, "zip_code": "50101"}
+{"locality": "Galt", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Galt"], "postal_code": "50101", "lat": 42.682176, "lng": -93.61472, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wright"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.52235, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lawsonville", "lng": -80.22195, "zip_code": "27022"});
+zipapicallback({"locality": "Lawsonville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lawsonville"], "postal_code": "27022", "lat": 36.52235, "lng": -80.22195, "type": "STANDARD", "counties": [{"fips": "169", "name": "Stokes"}]});

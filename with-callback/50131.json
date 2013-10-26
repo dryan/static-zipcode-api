@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.674757, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Johnston", "lng": -93.71865, "zip_code": "50131"});
+zipapicallback({"locality": "Johnston", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Johnston"], "postal_code": "50131", "lat": 41.674757, "lng": -93.71865, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

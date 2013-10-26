@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.061174, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lawtey", "lng": -82.0943, "zip_code": "32058"});
+zipapicallback({"locality": "Lawtey", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lawtey"], "postal_code": "32058", "lat": 30.061174, "lng": -82.0943, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clay"}, {"fips": "007", "name": "Bradford"}, {"fips": "125", "name": "Union"}]});

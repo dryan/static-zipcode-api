@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.250987, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Norwich", "lng": -101.00165, "zip_code": "58768"});
+zipapicallback({"locality": "Norwich", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Norwich"], "postal_code": "58768", "lat": 48.250987, "lng": -101.00165, "type": "STANDARD", "counties": [{"fips": "049", "name": "McHenry"}, {"fips": "101", "name": "Ward"}]});

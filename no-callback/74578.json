@@ -1,1 +1,1 @@
-{"lat": 34.886021, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wilburton", "lng": -95.29859, "zip_code": "74578"}
+{"locality": "Wilburton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wilburton"], "postal_code": "74578", "lat": 34.886021, "lng": -95.29859, "type": "STANDARD", "counties": [{"fips": "077", "name": "Latimer"}, {"fips": "121", "name": "Pittsburg"}]}

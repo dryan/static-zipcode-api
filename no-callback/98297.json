@@ -1,1 +1,1 @@
-{"lat": 48.701835, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Waldron", "lng": -123.02636, "zip_code": "98297"}
+{"locality": "Waldron", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Waldron"], "postal_code": "98297", "lat": 48.701835, "lng": -123.02636, "type": "POBOX", "counties": [{"fips": "055", "name": "San Juan"}]}

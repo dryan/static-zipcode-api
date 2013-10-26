@@ -1,1 +1,1 @@
-{"lat": 35.129805, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Maud", "lng": -96.77625, "zip_code": "74854"}
+{"locality": "Maud", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Maud"], "postal_code": "74854", "lat": 35.129805, "lng": -96.77625, "type": "STANDARD", "counties": [{"fips": "125", "name": "Pottawatomie"}, {"fips": "133", "name": "Seminole"}]}

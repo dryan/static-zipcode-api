@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.082188, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "White Haven", "lng": -75.75965, "zip_code": "18661"});
+zipapicallback({"locality": "White Haven", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["White Haven"], "postal_code": "18661", "lat": 41.082188, "lng": -75.75965, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}, {"fips": "025", "name": "Carbon"}]});

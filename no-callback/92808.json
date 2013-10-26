@@ -1,1 +1,1 @@
-{"lat": 33.858151, "region": {"abbr": "CA", "name": "California"}, "locality": "Anaheim", "lng": -117.73864, "zip_code": "92808"}
+{"locality": "Anaheim", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Anaheim"], "postal_code": "92808", "lat": 33.858151, "lng": -117.73864, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]}

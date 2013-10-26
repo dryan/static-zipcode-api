@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.491523, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Martinsdale", "lng": -110.50499, "zip_code": "59053"});
+zipapicallback({"locality": "Martinsdale", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Martinsdale"], "postal_code": "59053", "lat": 46.491523, "lng": -110.50499, "type": "STANDARD", "counties": [{"fips": "059", "name": "Meagher"}]});

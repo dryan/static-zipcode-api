@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.281993, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Monmouth", "lng": -70.04027, "zip_code": "04265"});
+zipapicallback({"locality": "North Monmouth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["N Monmouth", "North Monmouth"], "postal_code": "04265", "lat": 44.281993, "lng": -70.04027, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

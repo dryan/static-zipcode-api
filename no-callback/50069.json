@@ -1,1 +1,1 @@
-{"lat": 41.53106, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "De Soto", "lng": -94.00842, "zip_code": "50069"}
+{"locality": "De Soto", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["De Soto"], "postal_code": "50069", "lat": 41.53106, "lng": -94.00842, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.359739, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Walters", "lng": -98.3455, "zip_code": "73572"});
+zipapicallback({"locality": "Walters", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Walters"], "postal_code": "73572", "lat": 34.359739, "lng": -98.3455, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cotton"}]});

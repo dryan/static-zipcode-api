@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.701801, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Springfield", "lng": -74.32216, "zip_code": "07081"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Springfield"], "postal_code": "07081", "lat": 40.701801, "lng": -74.32216, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]});

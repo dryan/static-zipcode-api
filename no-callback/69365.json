@@ -1,1 +1,1 @@
-{"lat": 42.963117, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Whiteclay", "lng": -102.51068, "zip_code": "69365"}
+{"locality": "Whiteclay", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Whiteclay"], "postal_code": "69365", "lat": 42.963117, "lng": -102.51068, "type": "POBOX", "counties": [{"fips": "161", "name": "Sheridan"}]}

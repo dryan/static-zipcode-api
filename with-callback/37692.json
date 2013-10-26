@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.20493, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Unicoi", "lng": -82.31214, "zip_code": "37692"});
+zipapicallback({"locality": "Unicoi", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Unicoi"], "postal_code": "37692", "lat": 36.20493, "lng": -82.31214, "type": "STANDARD", "counties": [{"fips": "171", "name": "Unicoi"}]});

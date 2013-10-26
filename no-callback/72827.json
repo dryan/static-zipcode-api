@@ -1,1 +1,1 @@
-{"lat": 34.832089, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bluffton", "lng": -93.71111, "zip_code": "72827"}
+{"locality": "Bluffton", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bluffton"], "postal_code": "72827", "lat": 34.832089, "lng": -93.71111, "type": "STANDARD", "counties": [{"fips": "149", "name": "Yell"}]}

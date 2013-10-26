@@ -1,1 +1,1 @@
-{"lat": 38.940813, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Green Mountain Fall", "lng": -105.01363, "zip_code": "80819"}
+{"locality": "Green Mountain Falls", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Green Mountain Falls", "Green Mtn Fls"], "postal_code": "80819", "lat": 38.940813, "lng": -105.01363, "type": "POBOX", "counties": [{"fips": "041", "name": "El Paso"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.514383, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Middlefield", "lng": -72.7183, "zip_code": "06455"});
+zipapicallback({"locality": "Middlefield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Middlefield"], "postal_code": "06455", "lat": 41.514383, "lng": -72.7183, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]});

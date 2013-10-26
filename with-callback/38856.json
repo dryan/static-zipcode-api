@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.481995, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Marietta", "lng": -88.45205, "zip_code": "38856"});
+zipapicallback({"locality": "Marietta", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Marietta"], "postal_code": "38856", "lat": 34.481995, "lng": -88.45205, "type": "STANDARD", "counties": [{"fips": "117", "name": "Prentiss"}, {"fips": "057", "name": "Itawamba"}]});

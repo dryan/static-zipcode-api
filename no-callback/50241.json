@@ -1,1 +1,1 @@
-{"lat": 41.308451, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Saint Marys", "lng": -93.73157, "zip_code": "50241"}
+{"locality": "Saint Marys", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Saint Marys"], "postal_code": "50241", "lat": 41.308451, "lng": -93.73157, "type": "POBOX", "counties": [{"fips": "181", "name": "Warren"}]}

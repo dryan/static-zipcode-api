@@ -1,1 +1,1 @@
-{"lat": 48.000075, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Niagara", "lng": -97.85041, "zip_code": "58266"}
+{"locality": "Niagara", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Niagara"], "postal_code": "58266", "lat": 48.000075, "lng": -97.85041, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}, {"fips": "063", "name": "Nelson"}]}

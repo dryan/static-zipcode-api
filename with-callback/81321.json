@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.344985, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cortez", "lng": -108.60355, "zip_code": "81321"});
+zipapicallback({"locality": "Cortez", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cortez"], "postal_code": "81321", "lat": 37.344985, "lng": -108.60355, "type": "STANDARD", "counties": [{"fips": "083", "name": "Montezuma"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.010461, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Rancocas", "lng": -74.86762, "zip_code": "08073"});
+zipapicallback({"locality": "Rancocas", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Rancocas"], "postal_code": "08073", "lat": 40.010461, "lng": -74.86762, "type": "POBOX", "counties": [{"fips": "005", "name": "Burlington"}]});

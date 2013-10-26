@@ -1,1 +1,1 @@
-{"lat": 36.374317, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Many Farms", "lng": -109.6007, "zip_code": "86538"}
+{"locality": "Many Farms", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chinle", "Many Farms"], "postal_code": "86538", "lat": 36.374317, "lng": -109.6007, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]}

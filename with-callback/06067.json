@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.660949, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Rocky Hill", "lng": -72.66098, "zip_code": "06067"});
+zipapicallback({"locality": "Rocky Hill", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Rocky Hill"], "postal_code": "06067", "lat": 41.660949, "lng": -72.66098, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

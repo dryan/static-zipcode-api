@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.352996, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Newtonville", "lng": -71.20907, "zip_code": "02460"});
+zipapicallback({"locality": "Newtonville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Newton", "Newtonville"], "postal_code": "02460", "lat": 42.352996, "lng": -71.20907, "type": "STANDARD", "counties": []});

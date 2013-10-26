@@ -1,1 +1,1 @@
-{"lat": 37.199631, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Patterson", "lng": -90.52353, "zip_code": "63956"}
+{"locality": "Patterson", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Patterson"], "postal_code": "63956", "lat": 37.199631, "lng": -90.52353, "type": "STANDARD", "counties": [{"fips": "223", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.503522, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Sandhill", "lng": -89.87039, "zip_code": "39161"});
+zipapicallback({"locality": "Sandhill", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Sandhill"], "postal_code": "39161", "lat": 32.503522, "lng": -89.87039, "type": "POBOX", "counties": [{"fips": "121", "name": "Rankin"}]});

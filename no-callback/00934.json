@@ -1,1 +1,1 @@
-{"lat": 18.413511, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Fort Buchanan", "lng": -66.12198, "zip_code": "00934"}
+{"locality": "Fort Buchanan", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Fort Buchanan", "Ft Buchanan"], "postal_code": "00934", "lat": 18.413511, "lng": -66.12198, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bayamon"}]}

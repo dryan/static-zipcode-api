@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.284524, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Grantsburg", "lng": -86.46103, "zip_code": "47123"});
+zipapicallback({"locality": "Grantsburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Grantsburg"], "postal_code": "47123", "lat": 38.284524, "lng": -86.46103, "type": "STANDARD", "counties": [{"fips": "025", "name": "Crawford"}]});

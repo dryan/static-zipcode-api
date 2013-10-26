@@ -1,1 +1,1 @@
-{"lat": 36.297049, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Germanton", "lng": -80.23777, "zip_code": "27019"}
+{"locality": "Germanton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Germanton"], "postal_code": "27019", "lat": 36.297049, "lng": -80.23777, "type": "STANDARD", "counties": [{"fips": "169", "name": "Stokes"}, {"fips": "067", "name": "Forsyth"}]}

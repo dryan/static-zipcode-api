@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.954282, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Roy", "lng": -122.48754, "zip_code": "98580"});
+zipapicallback({"locality": "Roy", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Roy"], "postal_code": "98580", "lat": 46.954282, "lng": -122.48754, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]});

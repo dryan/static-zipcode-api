@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.953913, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fonda", "lng": -74.37883, "zip_code": "12068"});
+zipapicallback({"locality": "Fonda", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fonda"], "postal_code": "12068", "lat": 42.953913, "lng": -74.37883, "type": "STANDARD", "counties": [{"fips": "057", "name": "Montgomery"}, {"fips": "035", "name": "Fulton"}]});

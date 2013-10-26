@@ -1,1 +1,1 @@
-{"lat": 32.542343, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Edisto Island", "lng": -80.31682, "zip_code": "29438"}
+{"locality": "Edisto Island", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Edisto", "Edisto Island"], "postal_code": "29438", "lat": 32.542343, "lng": -80.31682, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}, {"fips": "029", "name": "Colleton"}]}

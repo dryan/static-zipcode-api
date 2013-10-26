@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.093759, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Napoleon", "lng": -94.0858, "zip_code": "64074"});
+zipapicallback({"locality": "Napoleon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Napoleon"], "postal_code": "64074", "lat": 39.093759, "lng": -94.0858, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lafayette"}, {"fips": "095", "name": "Jackson"}]});

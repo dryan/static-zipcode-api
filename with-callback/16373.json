@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.195768, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Emlenton", "lng": -79.70044, "zip_code": "16373"});
+zipapicallback({"locality": "Emlenton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Emlenton"], "postal_code": "16373", "lat": 41.195768, "lng": -79.70044, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}, {"fips": "031", "name": "Clarion"}, {"fips": "019", "name": "Butler"}]});

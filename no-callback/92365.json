@@ -1,1 +1,1 @@
-{"lat": 34.896333, "region": {"abbr": "CA", "name": "California"}, "locality": "Newberry Springs", "lng": -116.63644, "zip_code": "92365"}
+{"locality": "Newberry Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Newberry Spgs", "Newberry Springs"], "postal_code": "92365", "lat": 34.896333, "lng": -116.63644, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

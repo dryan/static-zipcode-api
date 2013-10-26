@@ -1,1 +1,1 @@
-{"lat": 42.587708, "region": {"abbr": "NY", "name": "New York"}, "locality": "Schenevus", "lng": -74.83536, "zip_code": "12155"}
+{"locality": "Schenevus", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Schenevus"], "postal_code": "12155", "lat": 42.587708, "lng": -74.83536, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}, {"fips": "025", "name": "Delaware"}]}

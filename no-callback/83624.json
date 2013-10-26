@@ -1,1 +1,1 @@
-{"lat": 43.004691, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Grand View", "lng": -116.07225, "zip_code": "83624"}
+{"locality": "Grand View", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Grand View"], "postal_code": "83624", "lat": 43.004691, "lng": -116.07225, "type": "STANDARD", "counties": [{"fips": "073", "name": "Owyhee"}, {"fips": "039", "name": "Elmore"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.506063, "region": {"abbr": "CA", "name": "California"}, "locality": "Kingsburg", "lng": -119.54587, "zip_code": "93631"}
+{"locality": "Kingsburg", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kingsburg"], "postal_code": "93631", "lat": 36.506063, "lng": -119.54587, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}, {"fips": "031", "name": "Kings"}, {"fips": "107", "name": "Tulare"}]}

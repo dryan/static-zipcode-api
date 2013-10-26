@@ -1,1 +1,1 @@
-{"lat": 30.5403, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Altha", "lng": -85.18229, "zip_code": "32421"}
+{"locality": "Altha", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Altha"], "postal_code": "32421", "lat": 30.5403, "lng": -85.18229, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.970599, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Olin", "lng": -80.86439, "zip_code": "28660"}
+{"locality": "Olin", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Olin"], "postal_code": "28660", "lat": 35.970599, "lng": -80.86439, "type": "STANDARD", "counties": [{"fips": "097", "name": "Iredell"}]}

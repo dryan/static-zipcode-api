@@ -1,1 +1,1 @@
-{"lat": 35.232817, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Crawfordsville", "lng": -90.33123, "zip_code": "72327"}
+{"locality": "Crawfordsville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Crawfordsville", "Crawfordsvlle"], "postal_code": "72327", "lat": 35.232817, "lng": -90.33123, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crittenden"}]}

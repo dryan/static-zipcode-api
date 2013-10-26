@@ -1,1 +1,1 @@
-{"lat": 44.617592, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Elberta", "lng": -86.22663, "zip_code": "49628"}
+{"locality": "Elberta", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Elberta"], "postal_code": "49628", "lat": 44.617592, "lng": -86.22663, "type": "POBOX", "counties": [{"fips": "019", "name": "Benzie"}]}

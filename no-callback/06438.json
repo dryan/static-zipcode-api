@@ -1,1 +1,1 @@
-{"lat": 41.45307, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Haddam", "lng": -72.50345, "zip_code": "06438"}
+{"locality": "Haddam", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Haddam"], "postal_code": "06438", "lat": 41.45307, "lng": -72.50345, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]}

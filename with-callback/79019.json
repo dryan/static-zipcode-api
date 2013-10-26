@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.062127, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Claude", "lng": -101.41617, "zip_code": "79019"});
+zipapicallback({"locality": "Claude", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Claude"], "postal_code": "79019", "lat": 35.062127, "lng": -101.41617, "type": "STANDARD", "counties": [{"fips": "011", "name": "Armstrong"}, {"fips": "381", "name": "Randall"}]});

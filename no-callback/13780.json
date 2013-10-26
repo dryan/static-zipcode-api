@@ -1,1 +1,1 @@
-{"lat": 42.426583, "region": {"abbr": "NY", "name": "New York"}, "locality": "Guilford", "lng": -75.48119, "zip_code": "13780"}
+{"locality": "Guilford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Guilford"], "postal_code": "13780", "lat": 42.426583, "lng": -75.48119, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.720836, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Manzanita", "lng": -123.93471, "zip_code": "97130"}
+{"locality": "Manzanita", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Manzanita"], "postal_code": "97130", "lat": 45.720836, "lng": -123.93471, "type": "POBOX", "counties": [{"fips": "057", "name": "Tillamook"}]}

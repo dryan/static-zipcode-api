@@ -1,1 +1,1 @@
-{"lat": 37.330791, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Madisonville", "lng": -87.50378, "zip_code": "42431"}
+{"locality": "Madisonville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Madisonville"], "postal_code": "42431", "lat": 37.330791, "lng": -87.50378, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}]}

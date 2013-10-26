@@ -1,1 +1,1 @@
-{"lat": 39.377883, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Cory", "lng": -87.20462, "zip_code": "47846"}
+{"locality": "Cory", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Cory"], "postal_code": "47846", "lat": 39.377883, "lng": -87.20462, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]}

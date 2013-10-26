@@ -1,1 +1,1 @@
-{"lat": 33.862349, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Wellington", "lng": -85.89512, "zip_code": "36279"}
+{"locality": "Wellington", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Wellington"], "postal_code": "36279", "lat": 33.862349, "lng": -85.89512, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calhoun"}]}

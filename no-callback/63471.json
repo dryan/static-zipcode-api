@@ -1,1 +1,1 @@
-{"lat": 39.925941, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Taylor", "lng": -91.49636, "zip_code": "63471"}
+{"locality": "Taylor", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Taylor"], "postal_code": "63471", "lat": 39.925941, "lng": -91.49636, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marion"}, {"fips": "111", "name": "Lewis"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.803565, "region": {"abbr": "CA", "name": "California"}, "locality": "Stanton", "lng": -117.99596, "zip_code": "90680"}
+{"locality": "Stanton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stanton"], "postal_code": "90680", "lat": 33.803565, "lng": -117.99596, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]}

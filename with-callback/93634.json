@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.237216, "region": {"abbr": "CA", "name": "California"}, "locality": "Lakeshore", "lng": -119.23304, "zip_code": "93634"});
+zipapicallback({"locality": "Lakeshore", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lakeshore", "Shaver Lake"], "postal_code": "93634", "lat": 37.237216, "lng": -119.23304, "type": "POBOX", "counties": [{"fips": "019", "name": "Fresno"}]});

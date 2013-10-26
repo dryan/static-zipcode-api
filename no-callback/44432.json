@@ -1,1 +1,1 @@
-{"lat": 40.757793, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lisbon", "lng": -80.7642, "zip_code": "44432"}
+{"locality": "Lisbon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lisbon"], "postal_code": "44432", "lat": 40.757793, "lng": -80.7642, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}]}

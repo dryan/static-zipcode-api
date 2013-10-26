@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.195632, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Purlear", "lng": -81.37303, "zip_code": "28665"});
+zipapicallback({"locality": "Purlear", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Purlear"], "postal_code": "28665", "lat": 36.195632, "lng": -81.37303, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}]});

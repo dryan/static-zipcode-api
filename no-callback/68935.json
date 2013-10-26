@@ -1,1 +1,1 @@
-{"lat": 40.365387, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Edgar", "lng": -97.96363, "zip_code": "68935"}
+{"locality": "Edgar", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Edgar"], "postal_code": "68935", "lat": 40.365387, "lng": -97.96363, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clay"}, {"fips": "129", "name": "Nuckolls"}]}

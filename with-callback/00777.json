@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.224088, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Juncos", "lng": -65.91316, "zip_code": "00777"});
+zipapicallback({"locality": "Juncos", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Juncos"], "postal_code": "00777", "lat": 18.224088, "lng": -65.91316, "type": "STANDARD", "counties": []});

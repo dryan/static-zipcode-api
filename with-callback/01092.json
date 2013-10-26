@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.210777, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Warren", "lng": -72.23904, "zip_code": "01092"});
+zipapicallback({"locality": "West Warren", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["West Warren"], "postal_code": "01092", "lat": 42.210777, "lng": -72.23904, "type": "POBOX", "counties": [{"fips": "027", "name": "Worcester"}]});

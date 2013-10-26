@@ -1,1 +1,1 @@
-{"lat": 35.587497, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Calumet", "lng": -98.14506, "zip_code": "73014"}
+{"locality": "Calumet", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Calumet"], "postal_code": "73014", "lat": 35.587497, "lng": -98.14506, "type": "STANDARD", "counties": [{"fips": "017", "name": "Canadian"}]}

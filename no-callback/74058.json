@@ -1,1 +1,1 @@
-{"lat": 36.358645, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Pawnee", "lng": -96.77143, "zip_code": "74058"}
+{"locality": "Pawnee", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Blackburn", "Pawnee", "Skedee"], "postal_code": "74058", "lat": 36.358645, "lng": -96.77143, "type": "STANDARD", "counties": [{"fips": "117", "name": "Pawnee"}, {"fips": "103", "name": "Noble"}]}

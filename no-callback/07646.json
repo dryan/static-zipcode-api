@@ -1,1 +1,1 @@
-{"lat": 40.936211, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "New Milford", "lng": -74.0188, "zip_code": "07646"}
+{"locality": "New Milford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["New Milford"], "postal_code": "07646", "lat": 40.936211, "lng": -74.0188, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

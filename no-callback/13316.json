@@ -1,1 +1,1 @@
-{"lat": 43.377083, "region": {"abbr": "NY", "name": "New York"}, "locality": "Camden", "lng": -75.74261, "zip_code": "13316"}
+{"locality": "Camden", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Camden"], "postal_code": "13316", "lat": 43.377083, "lng": -75.74261, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}, {"fips": "075", "name": "Oswego"}, {"fips": "049", "name": "Lewis"}]}

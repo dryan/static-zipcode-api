@@ -1,1 +1,1 @@
-{"lat": 35.882639, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Wrigley", "lng": -87.31395, "zip_code": "37098"}
+{"locality": "Lyles", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lyles", "Wrigley"], "postal_code": "37098", "lat": 35.882639, "lng": -87.31395, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hickman"}]}

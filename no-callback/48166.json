@@ -1,1 +1,1 @@
-{"lat": 41.988228, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Newport", "lng": -83.29818, "zip_code": "48166"}
+{"locality": "Newport", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Newport"], "postal_code": "48166", "lat": 41.988228, "lng": -83.29818, "type": "STANDARD", "counties": [{"fips": "115", "name": "Monroe"}]}

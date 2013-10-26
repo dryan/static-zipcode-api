@@ -1,1 +1,1 @@
-{"lat": 35.119674, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "New Bern", "lng": -77.01509, "zip_code": "28560"}
+{"locality": "New Bern", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["New Bern"], "postal_code": "28560", "lat": 35.119674, "lng": -77.01509, "type": "STANDARD", "counties": [{"fips": "049", "name": "Craven"}]}

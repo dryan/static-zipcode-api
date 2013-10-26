@@ -1,1 +1,1 @@
-{"lat": 41.604341, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Jewett City", "lng": -71.97599, "zip_code": "06351"}
+{"locality": "Jewett City", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Griswold", "Jewett City", "Lisbon"], "postal_code": "06351", "lat": 41.604341, "lng": -71.97599, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.240473, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lumberton", "lng": -94.20172, "zip_code": "77657"});
+zipapicallback({"locality": "Lumberton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lumberton", "Rose Hill Acres", "Rose Hl Acres"], "postal_code": "77657", "lat": 30.240473, "lng": -94.20172, "type": "STANDARD", "counties": []});

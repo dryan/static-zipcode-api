@@ -1,1 +1,1 @@
-{"lat": 36.254423, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Big Sandy", "lng": -88.04885, "zip_code": "38221"}
+{"locality": "Big Sandy", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Big Sandy"], "postal_code": "38221", "lat": 36.254423, "lng": -88.04885, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benton"}]}

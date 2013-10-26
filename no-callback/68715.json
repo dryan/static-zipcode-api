@@ -1,1 +1,1 @@
-{"lat": 41.993408, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Battle Creek", "lng": -97.60196, "zip_code": "68715"}
+{"locality": "Battle Creek", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Battle Creek"], "postal_code": "68715", "lat": 41.993408, "lng": -97.60196, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]}

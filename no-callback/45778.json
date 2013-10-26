@@ -1,1 +1,1 @@
-{"lat": 39.341224, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Stewart", "lng": -81.88561, "zip_code": "45778"}
+{"locality": "Stewart", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Stewart"], "postal_code": "45778", "lat": 39.341224, "lng": -81.88561, "type": "STANDARD", "counties": [{"fips": "009", "name": "Athens"}, {"fips": "167", "name": "Washington"}]}

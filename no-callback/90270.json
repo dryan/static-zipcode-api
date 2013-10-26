@@ -1,1 +1,1 @@
-{"lat": 33.988813, "region": {"abbr": "CA", "name": "California"}, "locality": "Maywood", "lng": -118.18642, "zip_code": "90270"}
+{"locality": "Maywood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bell Gardens", "Maywood"], "postal_code": "90270", "lat": 33.988813, "lng": -118.18642, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

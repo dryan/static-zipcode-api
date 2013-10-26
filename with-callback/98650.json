@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.981582, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Trout Lake", "lng": -121.5395, "zip_code": "98650"});
+zipapicallback({"locality": "Trout Lake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Trout Lake"], "postal_code": "98650", "lat": 45.981582, "lng": -121.5395, "type": "STANDARD", "counties": [{"fips": "039", "name": "Klickitat"}]});

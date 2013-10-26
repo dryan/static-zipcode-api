@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.756972, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Forrest", "lng": -88.40479, "zip_code": "61741"});
+zipapicallback({"locality": "Forrest", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Forrest"], "postal_code": "61741", "lat": 40.756972, "lng": -88.40479, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.525845, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Le Roy", "lng": -92.51616, "zip_code": "55951"}
+{"locality": "Le Roy", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Le Roy"], "postal_code": "55951", "lat": 43.525845, "lng": -92.51616, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}, {"fips": "131", "name": "Rice"}, {"fips": "089", "name": "Marshall"}, {"fips": "045", "name": "Fillmore"}]}

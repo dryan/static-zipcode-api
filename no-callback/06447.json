@@ -1,1 +1,1 @@
-{"lat": 41.637066, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Marlborough", "lng": -72.46252, "zip_code": "06447"}
+{"locality": "Marlborough", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Marlborough"], "postal_code": "06447", "lat": 41.637066, "lng": -72.46252, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

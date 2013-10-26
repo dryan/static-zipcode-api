@@ -1,1 +1,1 @@
-{"lat": 28.325715, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Buena Ventura La", "lng": -81.35408, "zip_code": "34743"}
+{"locality": "Kissimmee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Buena Ventura Lakes", "Bvl", "Kissimmee"], "postal_code": "34743", "lat": 28.325715, "lng": -81.35408, "type": "STANDARD", "counties": []}

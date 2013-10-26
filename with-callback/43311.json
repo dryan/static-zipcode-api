@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.365923, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bellefontaine", "lng": -83.75816, "zip_code": "43311"});
+zipapicallback({"locality": "Bellefontaine", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bellefontaine"], "postal_code": "43311", "lat": 40.365923, "lng": -83.75816, "type": "STANDARD", "counties": [{"fips": "091", "name": "Logan"}]});

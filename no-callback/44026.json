@@ -1,1 +1,1 @@
-{"lat": 41.526301, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chesterland", "lng": -81.33683, "zip_code": "44026"}
+{"locality": "Chesterland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Chesterland"], "postal_code": "44026", "lat": 41.526301, "lng": -81.33683, "type": "STANDARD", "counties": [{"fips": "055", "name": "Geauga"}, {"fips": "085", "name": "Lake"}]}

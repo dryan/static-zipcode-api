@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.759814, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mary D", "lng": -76.05513, "zip_code": "17952"});
+zipapicallback({"locality": "Mary D", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mary D"], "postal_code": "17952", "lat": 40.759814, "lng": -76.05513, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

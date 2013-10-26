@@ -1,1 +1,1 @@
-{"lat": 44.258201, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Islesford", "lng": -68.2277, "zip_code": "04646"}
+{"locality": "Islesford", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Islesford"], "postal_code": "04646", "lat": 44.258201, "lng": -68.2277, "type": "POBOX", "counties": [{"fips": "009", "name": "Hancock"}]}

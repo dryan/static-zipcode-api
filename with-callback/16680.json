@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.75212, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Smithmill", "lng": -78.41085, "zip_code": "16680"});
+zipapicallback({"locality": "Smithmill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Smithmill"], "postal_code": "16680", "lat": 40.75212, "lng": -78.41085, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

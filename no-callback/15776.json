@@ -1,1 +1,1 @@
-{"lat": 41.013546, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sprankle Mills", "lng": -79.11389, "zip_code": "15776"}
+{"locality": "Sprankle Mills", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sprankle Mills", "Sprankle Mls"], "postal_code": "15776", "lat": 41.013546, "lng": -79.11389, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]}

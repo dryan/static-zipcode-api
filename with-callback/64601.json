@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.790132, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Chillicothe", "lng": -93.54803, "zip_code": "64601"});
+zipapicallback({"locality": "Chillicothe", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Avalon", "Chillicothe"], "postal_code": "64601", "lat": 39.790132, "lng": -93.54803, "type": "STANDARD", "counties": [{"fips": "117", "name": "Livingston"}, {"fips": "061", "name": "Daviess"}]});

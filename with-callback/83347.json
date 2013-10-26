@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.71554, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Paul", "lng": -113.86281, "zip_code": "83347"});
+zipapicallback({"locality": "Paul", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Paul"], "postal_code": "83347", "lat": 42.71554, "lng": -113.86281, "type": "STANDARD", "counties": [{"fips": "067", "name": "Minidoka"}]});

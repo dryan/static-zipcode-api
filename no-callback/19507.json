@@ -1,1 +1,1 @@
-{"lat": 40.488558, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bethel", "lng": -76.27269, "zip_code": "19507"}
+{"locality": "Bethel", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bethel"], "postal_code": "19507", "lat": 40.488558, "lng": -76.27269, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

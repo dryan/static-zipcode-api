@@ -1,1 +1,1 @@
-{"lat": 39.905689, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Castleton", "lng": -86.06733, "zip_code": "46250"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Castleton", "Indianapolis"], "postal_code": "46250", "lat": 39.905689, "lng": -86.06733, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamilton"}, {"fips": "097", "name": "Marion"}]}

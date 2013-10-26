@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.765259, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Beavercreek", "lng": -84.10262, "zip_code": "45431"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Beavercreek", "Beavercreek Township", "Beavercrk Twp", "Dayton"], "postal_code": "45431", "lat": 39.765259, "lng": -84.10262, "type": "STANDARD", "counties": [{"fips": "057", "name": "Greene"}, {"fips": "113", "name": "Montgomery"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.562546, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sierra Vista", "lng": -110.24288, "zip_code": "85635"}
+{"locality": "Sierra Vista", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sierra Vista"], "postal_code": "85635", "lat": 31.562546, "lng": -110.24288, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}, {"fips": "019", "name": "Pima"}]}

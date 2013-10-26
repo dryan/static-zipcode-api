@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.00059, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Kykotsmovi Villa", "lng": -110.5201, "zip_code": "86039"});
+zipapicallback({"locality": "Kykotsmovi Village", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Kykotsmovi", "Kykotsmovi Village"], "postal_code": "86039", "lat": 36.00059, "lng": -110.5201, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]});

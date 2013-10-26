@@ -1,1 +1,1 @@
-{"lat": 44.899458, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Rockham", "lng": -98.86967, "zip_code": "57470"}
+{"locality": "Rockham", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Rockham"], "postal_code": "57470", "lat": 44.899458, "lng": -98.86967, "type": "STANDARD", "counties": [{"fips": "049", "name": "Faulk"}, {"fips": "059", "name": "Hand"}]}

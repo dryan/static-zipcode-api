@@ -1,1 +1,1 @@
-{"lat": 34.061266, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Detroit", "lng": -88.15462, "zip_code": "35552"}
+{"locality": "Detroit", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Detroit"], "postal_code": "35552", "lat": 34.061266, "lng": -88.15462, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lamar"}, {"fips": "093", "name": "Marion"}]}

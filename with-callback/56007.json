@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.652042, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Albert Lea", "lng": -93.36916, "zip_code": "56007"});
+zipapicallback({"locality": "Albert Lea", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Albert Lea", "Manchester", "Oakland"], "postal_code": "56007", "lat": 43.652042, "lng": -93.36916, "type": "STANDARD", "counties": [{"fips": "047", "name": "Freeborn"}]});

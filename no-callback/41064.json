@@ -1,1 +1,1 @@
-{"lat": 38.508638, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mount Olivet", "lng": -84.05145, "zip_code": "41064"}
+{"locality": "Mount Olivet", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mount Olivet"], "postal_code": "41064", "lat": 38.508638, "lng": -84.05145, "type": "STANDARD", "counties": [{"fips": "201", "name": "Robertson"}]}

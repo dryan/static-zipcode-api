@@ -1,1 +1,1 @@
-{"lat": 43.11941, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milwaukee", "lng": -87.94727, "zip_code": "53209"}
+{"locality": "Milwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brown Deer", "Glendale", "Milwaukee", "River Hills"], "postal_code": "53209", "lat": 43.11941, "lng": -87.94727, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

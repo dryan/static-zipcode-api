@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.549525, "region": {"abbr": "NY", "name": "New York"}, "locality": "Stormville", "lng": -73.72745, "zip_code": "12582"});
+zipapicallback({"locality": "Stormville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Stormville"], "postal_code": "12582", "lat": 41.549525, "lng": -73.72745, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}, {"fips": "079", "name": "Putnam"}]});

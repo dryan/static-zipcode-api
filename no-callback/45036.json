@@ -1,1 +1,1 @@
-{"lat": 39.440152, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Otterbien Home", "lng": -84.22175, "zip_code": "45036"}
+{"locality": "Lebanon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lebanon"], "postal_code": "45036", "lat": 39.440152, "lng": -84.22175, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]}

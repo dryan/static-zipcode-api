@@ -1,1 +1,1 @@
-{"lat": 30.101542, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lulu", "lng": -82.50337, "zip_code": "32061"}
+{"locality": "Lulu", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lulu"], "postal_code": "32061", "lat": 30.101542, "lng": -82.50337, "type": "STANDARD", "counties": [{"fips": "023", "name": "Columbia"}]}

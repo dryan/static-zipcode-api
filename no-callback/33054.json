@@ -1,1 +1,1 @@
-{"lat": 25.909039, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Opa Locka", "lng": -80.24945, "zip_code": "33054"}
+{"locality": "Opa Locka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami Gardens", "Opa Locka"], "postal_code": "33054", "lat": 25.909039, "lng": -80.24945, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}, {"fips": "011", "name": "Broward"}]}

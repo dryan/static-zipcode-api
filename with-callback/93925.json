@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.581329, "region": {"abbr": "CA", "name": "California"}, "locality": "Chualar", "lng": -121.46597, "zip_code": "93925"});
+zipapicallback({"locality": "Chualar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chualar"], "postal_code": "93925", "lat": 36.581329, "lng": -121.46597, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]});

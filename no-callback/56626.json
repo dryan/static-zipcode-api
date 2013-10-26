@@ -1,1 +1,1 @@
-{"lat": 47.340327, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bena", "lng": -94.245, "zip_code": "56626"}
+{"locality": "Bena", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bena"], "postal_code": "56626", "lat": 47.340327, "lng": -94.245, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}]}

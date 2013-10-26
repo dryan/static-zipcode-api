@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.660497, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Opelika", "lng": -85.39917, "zip_code": "36801"});
+zipapicallback({"locality": "Opelika", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Opelika"], "postal_code": "36801", "lat": 32.660497, "lng": -85.39917, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lee"}, {"fips": "017", "name": "Chambers"}, {"fips": "087", "name": "MacOn"}, {"fips": "113", "name": "Russell"}]});

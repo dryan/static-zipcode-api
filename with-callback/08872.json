@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.461605, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Sayreville", "lng": -74.3474, "zip_code": "08872"});
+zipapicallback({"locality": "Sayreville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Sayreville"], "postal_code": "08872", "lat": 40.461605, "lng": -74.3474, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]});

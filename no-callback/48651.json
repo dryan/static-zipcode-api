@@ -1,1 +1,1 @@
-{"lat": 44.258616, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Prudenville", "lng": -84.646, "zip_code": "48651"}
+{"locality": "Prudenville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Prudenville"], "postal_code": "48651", "lat": 44.258616, "lng": -84.646, "type": "STANDARD", "counties": [{"fips": "143", "name": "Roscommon"}]}

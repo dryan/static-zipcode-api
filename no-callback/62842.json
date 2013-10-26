@@ -1,1 +1,1 @@
-{"lat": 38.460323, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Geff", "lng": -88.37124, "zip_code": "62842"}
+{"locality": "Geff", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Geff"], "postal_code": "62842", "lat": 38.460323, "lng": -88.37124, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]}

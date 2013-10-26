@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.117214, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rockford", "lng": -85.5189, "zip_code": "49341"});
+zipapicallback({"locality": "Rockford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rockford"], "postal_code": "49341", "lat": 43.117214, "lng": -85.5189, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]});

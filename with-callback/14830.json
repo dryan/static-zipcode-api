@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.140881, "region": {"abbr": "NY", "name": "New York"}, "locality": "Corning", "lng": -77.04793, "zip_code": "14830"});
+zipapicallback({"locality": "Corning", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Corning", "South Corning"], "postal_code": "14830", "lat": 42.140881, "lng": -77.04793, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "015", "name": "Chemung"}]});

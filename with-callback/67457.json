@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.40198, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Little River", "lng": -98.00626, "zip_code": "67457"});
+zipapicallback({"locality": "Little River", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Little River"], "postal_code": "67457", "lat": 38.40198, "lng": -98.00626, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}]});

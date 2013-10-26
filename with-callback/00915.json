@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.436995, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "San Juan", "lng": -66.04888, "zip_code": "00915"});
+zipapicallback({"locality": "San Juan", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Barrio Obrero", "Bo Obrero", "San Juan", "Santurce"], "postal_code": "00915", "lat": 18.436995, "lng": -66.04888, "type": "STANDARD", "counties": [{"fips": "127", "name": "San Juan"}]});

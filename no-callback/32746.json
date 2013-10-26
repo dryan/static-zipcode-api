@@ -1,1 +1,1 @@
-{"lat": 28.758133, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Heathrow", "lng": -81.33992, "zip_code": "32746"}
+{"locality": "Lake Mary", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Heathrow", "Lake Mary"], "postal_code": "32746", "lat": 28.758133, "lng": -81.33992, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

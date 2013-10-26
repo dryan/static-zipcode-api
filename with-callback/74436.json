@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.815497, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Haskell", "lng": -95.68608, "zip_code": "74436"});
+zipapicallback({"locality": "Haskell", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Haskell"], "postal_code": "74436", "lat": 35.815497, "lng": -95.68608, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "145", "name": "Wagoner"}, {"fips": "111", "name": "Okmulgee"}]});

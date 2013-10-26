@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.024344, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Watson", "lng": -95.82794, "zip_code": "56295"});
+zipapicallback({"locality": "Watson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Watson"], "postal_code": "56295", "lat": 45.024344, "lng": -95.82794, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chippewa"}]});

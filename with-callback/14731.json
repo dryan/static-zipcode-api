@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.286037, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ellicottville", "lng": -78.65425, "zip_code": "14731"});
+zipapicallback({"locality": "Ellicottville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ellicottville"], "postal_code": "14731", "lat": 42.286037, "lng": -78.65425, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]});

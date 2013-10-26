@@ -1,1 +1,1 @@
-{"lat": 34.708098, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kiowa", "lng": -95.90485, "zip_code": "74553"}
+{"locality": "Kiowa", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Kiowa"], "postal_code": "74553", "lat": 34.708098, "lng": -95.90485, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pittsburg"}, {"fips": "005", "name": "Atoka"}]}

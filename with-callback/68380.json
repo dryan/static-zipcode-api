@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.242528, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lewiston", "lng": -96.40309, "zip_code": "68380"});
+zipapicallback({"locality": "Lewiston", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lewiston"], "postal_code": "68380", "lat": 40.242528, "lng": -96.40309, "type": "STANDARD", "counties": [{"fips": "133", "name": "Pawnee"}]});

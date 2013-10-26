@@ -1,1 +1,1 @@
-{"lat": 37.201022, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bishop", "lng": -81.53963, "zip_code": "24604"}
+{"locality": "Bishop", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bishop"], "postal_code": "24604", "lat": 37.201022, "lng": -81.53963, "type": "POBOX", "counties": [{"fips": "185", "name": "Tazewell"}]}

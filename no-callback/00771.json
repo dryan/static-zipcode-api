@@ -1,1 +1,1 @@
-{"lat": 18.18744, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Las Piedras", "lng": -65.87088, "zip_code": "00771"}
+{"locality": "Las Piedras", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Las Piedras"], "postal_code": "00771", "lat": 18.18744, "lng": -65.87088, "type": "STANDARD", "counties": []}

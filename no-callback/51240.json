@@ -1,1 +1,1 @@
-{"lat": 43.30957, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Inwood", "lng": -96.45816, "zip_code": "51240"}
+{"locality": "Inwood", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Inwood"], "postal_code": "51240", "lat": 43.30957, "lng": -96.45816, "type": "STANDARD", "counties": [{"fips": "119", "name": "Lyon"}]}

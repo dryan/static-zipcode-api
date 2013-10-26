@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.852687, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Kenvir", "lng": -83.15917, "zip_code": "40847"});
+zipapicallback({"locality": "Kenvir", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Kenvir"], "postal_code": "40847", "lat": 36.852687, "lng": -83.15917, "type": "POBOX", "counties": [{"fips": "095", "name": "Harlan"}]});

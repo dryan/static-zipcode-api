@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.307288, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ann Arbor", "lng": -83.70443, "zip_code": "48105"});
+zipapicallback({"locality": "Ann Arbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ann Arbor"], "postal_code": "48105", "lat": 42.307288, "lng": -83.70443, "type": "STANDARD", "counties": [{"fips": "161", "name": "Washtenaw"}]});

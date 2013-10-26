@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.414842, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Wolsey", "lng": -98.47279, "zip_code": "57384"});
+zipapicallback({"locality": "Wolsey", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Wolsey"], "postal_code": "57384", "lat": 44.414842, "lng": -98.47279, "type": "STANDARD", "counties": [{"fips": "005", "name": "Beadle"}]});

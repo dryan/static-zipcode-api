@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.779196, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cottondale", "lng": -85.39371, "zip_code": "32431"});
+zipapicallback({"locality": "Cottondale", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cottondale", "Jacob"], "postal_code": "32431", "lat": 30.779196, "lng": -85.39371, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.718279, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fairview", "lng": -83.98795, "zip_code": "48621"});
+zipapicallback({"locality": "Fairview", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fairview"], "postal_code": "48621", "lat": 44.718279, "lng": -83.98795, "type": "STANDARD", "counties": [{"fips": "135", "name": "Oscoda"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.210957, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kennewick", "lng": -119.16369, "zip_code": "99336"}
+{"locality": "Kennewick", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kennewick"], "postal_code": "99336", "lat": 46.210957, "lng": -119.16369, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benton"}]}

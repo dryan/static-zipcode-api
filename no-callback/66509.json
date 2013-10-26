@@ -1,1 +1,1 @@
-{"lat": 39.337531, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mayetta", "lng": -95.75535, "zip_code": "66509"}
+{"locality": "Mayetta", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mayetta"], "postal_code": "66509", "lat": 39.337531, "lng": -95.75535, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jackson"}]}

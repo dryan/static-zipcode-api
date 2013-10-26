@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.72738, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mallory", "lng": -81.84577, "zip_code": "25634"});
+zipapicallback({"locality": "Mallory", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mallory"], "postal_code": "25634", "lat": 37.72738, "lng": -81.84577, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]});

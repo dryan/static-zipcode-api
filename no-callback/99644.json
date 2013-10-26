@@ -1,1 +1,1 @@
-{"lat": 57.929664, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Ouzinkie", "lng": -152.46085, "zip_code": "99644"}
+{"locality": "Ouzinkie", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ouzinkie"], "postal_code": "99644", "lat": 57.929664, "lng": -152.46085, "type": "POBOX", "counties": [{"fips": "150", "name": "Kodiak Island"}]}

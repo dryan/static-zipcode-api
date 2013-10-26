@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.301254, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Henderson", "lng": -91.86169, "zip_code": "70517"});
+zipapicallback({"locality": "Breaux Bridge", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Breaux Bridge", "Butte Larose", "Henderson"], "postal_code": "70517", "lat": 30.301254, "lng": -91.86169, "type": "STANDARD", "counties": [{"fips": "099", "name": "St. Martin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.489466, "region": {"abbr": "CA", "name": "California"}, "locality": "Spring Valley La", "lng": -117.35321, "zip_code": "92392"});
+zipapicallback({"locality": "Victorville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Victorville"], "postal_code": "92392", "lat": 34.489466, "lng": -117.35321, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

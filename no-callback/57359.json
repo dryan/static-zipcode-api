@@ -1,1 +1,1 @@
-{"lat": 43.896226, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Letcher", "lng": -98.14931, "zip_code": "57359"}
+{"locality": "Letcher", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Letcher"], "postal_code": "57359", "lat": 43.896226, "lng": -98.14931, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sanborn"}, {"fips": "035", "name": "Davison"}, {"fips": "003", "name": "Aurora"}]}

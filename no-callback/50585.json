@@ -1,1 +1,1 @@
-{"lat": 42.907223, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sioux Rapids", "lng": -95.14315, "zip_code": "50585"}
+{"locality": "Sioux Rapids", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sioux Rapids"], "postal_code": "50585", "lat": 42.907223, "lng": -95.14315, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buena Vista"}]}

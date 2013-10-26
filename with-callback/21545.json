@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.699489, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Mount Savage", "lng": -78.86961, "zip_code": "21545"});
+zipapicallback({"locality": "Mount Savage", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Mount Savage"], "postal_code": "21545", "lat": 39.699489, "lng": -78.86961, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allegany"}]});

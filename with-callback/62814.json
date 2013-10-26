@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.362934, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bluford", "lng": -88.72896, "zip_code": "62814"});
+zipapicallback({"locality": "Bluford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bluford"], "postal_code": "62814", "lat": 38.362934, "lng": -88.72896, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}, {"fips": "191", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.499489, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gray Summit", "lng": -90.83398, "zip_code": "63039"}
+{"locality": "Gray Summit", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gray Summit"], "postal_code": "63039", "lat": 38.499489, "lng": -90.83398, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]}

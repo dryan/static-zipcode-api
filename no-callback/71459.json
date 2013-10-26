@@ -1,1 +1,1 @@
-{"lat": 31.072209, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fort Polk", "lng": -93.21762, "zip_code": "71459"}
+{"locality": "Fort Polk", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fort Polk", "Leesville"], "postal_code": "71459", "lat": 31.072209, "lng": -93.21762, "type": "STANDARD", "counties": [{"fips": "115", "name": "Vernon"}]}

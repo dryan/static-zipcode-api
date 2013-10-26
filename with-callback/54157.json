@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.057605, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Peshtigo", "lng": -87.77449, "zip_code": "54157"});
+zipapicallback({"locality": "Peshtigo", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Peshtigo"], "postal_code": "54157", "lat": 45.057605, "lng": -87.77449, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}, {"fips": "083", "name": "Oconto"}]});

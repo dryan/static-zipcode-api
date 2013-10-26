@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.135059, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kimberly", "lng": -81.30312, "zip_code": "25118"});
+zipapicallback({"locality": "Kimberly", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kimberly"], "postal_code": "25118", "lat": 38.135059, "lng": -81.30312, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]});

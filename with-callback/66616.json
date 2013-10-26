@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.065249, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Topeka", "lng": -95.63808, "zip_code": "66616"});
+zipapicallback({"locality": "Topeka", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Topeka"], "postal_code": "66616", "lat": 39.065249, "lng": -95.63808, "type": "STANDARD", "counties": [{"fips": "177", "name": "Shawnee"}]});

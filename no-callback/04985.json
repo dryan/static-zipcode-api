@@ -1,1 +1,1 @@
-{"lat": 45.380034, "region": {"abbr": "ME", "name": "Maine"}, "locality": "West Forks", "lng": -69.90892, "zip_code": "04985"}
+{"locality": "West Forks", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["E Moxie Twp", "East Moxie Twp", "Indian Stream", "Indian Stream Twp", "Moxie Gore", "Moxie Gore Twp", "The Forks Plt", "West Forks"], "postal_code": "04985", "lat": 45.380034, "lng": -69.90892, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]}

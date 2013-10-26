@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.371779, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Meno", "lng": -98.16808, "zip_code": "73760"});
+zipapicallback({"locality": "Meno", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Meno"], "postal_code": "73760", "lat": 36.371779, "lng": -98.16808, "type": "STANDARD", "counties": [{"fips": "093", "name": "Major"}, {"fips": "003", "name": "Alfalfa"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.00384, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Blodgett", "lng": -89.52535, "zip_code": "63824"}
+{"locality": "Blodgett", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blodgett"], "postal_code": "63824", "lat": 37.00384, "lng": -89.52535, "type": "POBOX", "counties": [{"fips": "201", "name": "Scott"}]}

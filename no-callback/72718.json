@@ -1,1 +1,1 @@
-{"lat": 36.267484, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cave Springs", "lng": -94.22806, "zip_code": "72718"}
+{"locality": "Cave Springs", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cave Springs"], "postal_code": "72718", "lat": 36.267484, "lng": -94.22806, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

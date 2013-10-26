@@ -1,1 +1,1 @@
-{"lat": 45.655523, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bonneville", "lng": -121.89435, "zip_code": "97014"}
+{"locality": "Cascade Locks", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Cascade Locks"], "postal_code": "97014", "lat": 45.655523, "lng": -121.89435, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hood River"}]}

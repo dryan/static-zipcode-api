@@ -1,1 +1,1 @@
-{"lat": 37.478169, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Broad Bottom", "lng": -82.5189, "zip_code": "41501"}
+{"locality": "Pikeville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Broad Bottom", "Gulnare", "Mccombs", "Meta", "Nelse", "Pikeville", "Piso"], "postal_code": "41501", "lat": 37.478169, "lng": -82.5189, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

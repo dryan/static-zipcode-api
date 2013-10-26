@@ -1,1 +1,1 @@
-{"lat": 34.887912, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Morganton", "lng": -84.2098, "zip_code": "30560"}
+{"locality": "Morganton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Morganton"], "postal_code": "30560", "lat": 34.887912, "lng": -84.2098, "type": "STANDARD", "counties": [{"fips": "111", "name": "Fannin"}, {"fips": "291", "name": "Union"}]}

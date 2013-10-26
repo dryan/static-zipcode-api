@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.781504, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Berwick", "lng": -90.52901, "zip_code": "61417"});
+zipapicallback({"locality": "Berwick", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Berwick"], "postal_code": "61417", "lat": 40.781504, "lng": -90.52901, "type": "STANDARD", "counties": [{"fips": "187", "name": "Warren"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.473536, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Waterloo", "lng": -92.36382, "zip_code": "50701"}
+{"locality": "Waterloo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Waterloo"], "postal_code": "50701", "lat": 42.473536, "lng": -92.36382, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}, {"fips": "015", "name": "Boone"}]}

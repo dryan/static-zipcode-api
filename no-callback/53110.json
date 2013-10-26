@@ -1,1 +1,1 @@
-{"lat": 42.948416, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cudahy", "lng": -87.86101, "zip_code": "53110"}
+{"locality": "Cudahy", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cudahy"], "postal_code": "53110", "lat": 42.948416, "lng": -87.86101, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

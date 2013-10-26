@@ -1,1 +1,1 @@
-{"lat": 45.319095, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Clayton", "lng": -92.13016, "zip_code": "54004"}
+{"locality": "Clayton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Clayton"], "postal_code": "54004", "lat": 45.319095, "lng": -92.13016, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}, {"fips": "005", "name": "Barron"}]}

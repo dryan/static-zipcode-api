@@ -1,1 +1,1 @@
-{"lat": 34.991767, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Monroe", "lng": -94.51763, "zip_code": "74947"}
+{"locality": "Monroe", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Monroe"], "postal_code": "74947", "lat": 34.991767, "lng": -94.51763, "type": "POBOX", "counties": [{"fips": "079", "name": "Le Flore"}]}

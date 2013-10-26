@@ -1,1 +1,1 @@
-{"lat": 36.29017, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Wilder", "lng": -85.08484, "zip_code": "38589"}
+{"locality": "Wilder", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Wilder"], "postal_code": "38589", "lat": 36.29017, "lng": -85.08484, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}]}

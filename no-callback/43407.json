@@ -1,1 +1,1 @@
-{"lat": 41.277969, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Burgoon", "lng": -83.24578, "zip_code": "43407"}
+{"locality": "Burgoon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Burgoon"], "postal_code": "43407", "lat": 41.277969, "lng": -83.24578, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sandusky"}]}

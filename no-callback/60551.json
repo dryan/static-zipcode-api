@@ -1,1 +1,1 @@
-{"lat": 41.527585, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sheridan", "lng": -88.68292, "zip_code": "60551"}
+{"locality": "Sheridan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sheridan"], "postal_code": "60551", "lat": 41.527585, "lng": -88.68292, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.818414, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Conetoe", "lng": -77.45335, "zip_code": "27819"});
+zipapicallback({"locality": "Conetoe", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Conetoe"], "postal_code": "27819", "lat": 35.818414, "lng": -77.45335, "type": "POBOX", "counties": [{"fips": "065", "name": "Edgecombe"}]});

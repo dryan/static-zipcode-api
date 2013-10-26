@@ -1,1 +1,1 @@
-{"lat": 43.345528, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hustisford", "lng": -88.60135, "zip_code": "53034"}
+{"locality": "Hustisford", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hustisford"], "postal_code": "53034", "lat": 43.345528, "lng": -88.60135, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

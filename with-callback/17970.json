@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.718586, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saint Clair", "lng": -76.19111, "zip_code": "17970"});
+zipapicallback({"locality": "Saint Clair", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saint Clair"], "postal_code": "17970", "lat": 40.718586, "lng": -76.19111, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

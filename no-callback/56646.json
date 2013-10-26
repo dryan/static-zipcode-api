@@ -1,1 +1,1 @@
-{"lat": 47.771933, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Gully", "lng": -95.64403, "zip_code": "56646"}
+{"locality": "Gully", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Gully"], "postal_code": "56646", "lat": 47.771933, "lng": -95.64403, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}, {"fips": "029", "name": "Clearwater"}]}

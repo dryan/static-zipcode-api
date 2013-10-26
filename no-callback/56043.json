@@ -1,1 +1,1 @@
-{"lat": 43.65048, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hayward", "lng": -93.224, "zip_code": "56043"}
+{"locality": "Hayward", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hayward"], "postal_code": "56043", "lat": 43.65048, "lng": -93.224, "type": "STANDARD", "counties": [{"fips": "047", "name": "Freeborn"}]}

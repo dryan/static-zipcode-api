@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.387718, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Williamstown", "lng": -81.44585, "zip_code": "26187"});
+zipapicallback({"locality": "Williamstown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Williamstown"], "postal_code": "26187", "lat": 39.387718, "lng": -81.44585, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wood"}]});

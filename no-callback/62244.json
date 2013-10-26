@@ -1,1 +1,1 @@
-{"lat": 38.200113, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fults", "lng": -90.2272, "zip_code": "62244"}
+{"locality": "Fults", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fults"], "postal_code": "62244", "lat": 38.200113, "lng": -90.2272, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monroe"}]}

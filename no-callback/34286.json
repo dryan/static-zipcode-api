@@ -1,1 +1,1 @@
-{"lat": 27.072445, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Port", "lng": -82.1606, "zip_code": "34286"}
+{"locality": "North Port", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["North Port", "Venice"], "postal_code": "34286", "lat": 27.072445, "lng": -82.1606, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 41.390878, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gibsonburg", "lng": -83.32313, "zip_code": "43431"}
+{"locality": "Gibsonburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Gibsonburg"], "postal_code": "43431", "lat": 41.390878, "lng": -83.32313, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sandusky"}, {"fips": "173", "name": "Wood"}]}

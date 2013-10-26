@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.083133, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Riverton", "lng": -98.78853, "zip_code": "68972"});
+zipapicallback({"locality": "Riverton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Riverton"], "postal_code": "68972", "lat": 40.083133, "lng": -98.78853, "type": "STANDARD", "counties": [{"fips": "061", "name": "Franklin"}]});

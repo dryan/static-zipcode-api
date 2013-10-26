@@ -1,1 +1,1 @@
-{"lat": 37.647611, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cheney", "lng": -97.78765, "zip_code": "67025"}
+{"locality": "Cheney", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cheney"], "postal_code": "67025", "lat": 37.647611, "lng": -97.78765, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "155", "name": "Reno"}, {"fips": "095", "name": "Kingman"}, {"fips": "035", "name": "Cowley"}]}

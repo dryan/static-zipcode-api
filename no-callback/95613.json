@@ -1,1 +1,1 @@
-{"lat": 38.79829, "region": {"abbr": "CA", "name": "California"}, "locality": "Coloma", "lng": -120.88578, "zip_code": "95613"}
+{"locality": "Coloma", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Coloma"], "postal_code": "95613", "lat": 38.79829, "lng": -120.88578, "type": "POBOX", "counties": [{"fips": "017", "name": "El Dorado"}]}

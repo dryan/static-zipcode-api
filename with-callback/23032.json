@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.674655, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Church View", "lng": -76.68104, "zip_code": "23032"});
+zipapicallback({"locality": "Church View", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Church View"], "postal_code": "23032", "lat": 37.674655, "lng": -76.68104, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

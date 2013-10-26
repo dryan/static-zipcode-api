@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.65183, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Arco", "lng": -113.31639, "zip_code": "83213"});
+zipapicallback({"locality": "Arco", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Arco", "Butte City"], "postal_code": "83213", "lat": 43.65183, "lng": -113.31639, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butte"}]});

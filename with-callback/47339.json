@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.97566, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Economy", "lng": -85.10107, "zip_code": "47339"});
+zipapicallback({"locality": "Economy", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Economy"], "postal_code": "47339", "lat": 39.97566, "lng": -85.10107, "type": "STANDARD", "counties": [{"fips": "177", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.777391, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Eccles", "lng": -81.26443, "zip_code": "25836"});
+zipapicallback({"locality": "Eccles", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Eccles"], "postal_code": "25836", "lat": 37.777391, "lng": -81.26443, "type": "POBOX", "counties": [{"fips": "081", "name": "Raleigh"}]});

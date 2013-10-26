@@ -1,1 +1,1 @@
-{"lat": 47.651374, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Schroeder", "lng": -90.95917, "zip_code": "55613"}
+{"locality": "Schroeder", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Schroeder"], "postal_code": "55613", "lat": 47.651374, "lng": -90.95917, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

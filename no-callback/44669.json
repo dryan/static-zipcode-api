@@ -1,1 +1,1 @@
-{"lat": 40.798758, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Paris", "lng": -81.16037, "zip_code": "44669"}
+{"locality": "Paris", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Paris"], "postal_code": "44669", "lat": 40.798758, "lng": -81.16037, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]}

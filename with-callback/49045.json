@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.105719, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Decatur", "lng": -85.99417, "zip_code": "49045"});
+zipapicallback({"locality": "Decatur", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Decatur"], "postal_code": "49045", "lat": 42.105719, "lng": -85.99417, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}, {"fips": "027", "name": "Cass"}, {"fips": "077", "name": "Kalamazoo"}]});

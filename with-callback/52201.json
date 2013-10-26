@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.320371, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ainsworth", "lng": -91.54755, "zip_code": "52201"});
+zipapicallback({"locality": "Ainsworth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ainsworth"], "postal_code": "52201", "lat": 41.320371, "lng": -91.54755, "type": "STANDARD", "counties": [{"fips": "183", "name": "Washington"}, {"fips": "163", "name": "Scott"}]});

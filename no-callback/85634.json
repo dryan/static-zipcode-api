@@ -1,1 +1,1 @@
-{"lat": 31.998543, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Pisinemo", "lng": -111.93712, "zip_code": "85634"}
+{"locality": "Sells", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Pisinemo", "Sells"], "postal_code": "85634", "lat": 31.998543, "lng": -111.93712, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}]}

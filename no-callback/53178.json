@@ -1,1 +1,1 @@
-{"lat": 43.015999, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sullivan", "lng": -88.59572, "zip_code": "53178"}
+{"locality": "Sullivan", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sullivan"], "postal_code": "53178", "lat": 43.015999, "lng": -88.59572, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}]}

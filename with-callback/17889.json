@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.884501, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Winfield", "lng": -76.91202, "zip_code": "17889"});
+zipapicallback({"locality": "Winfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Winfield"], "postal_code": "17889", "lat": 40.884501, "lng": -76.91202, "type": "STANDARD", "counties": [{"fips": "119", "name": "Union"}, {"fips": "109", "name": "Snyder"}]});

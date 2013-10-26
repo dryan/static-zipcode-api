@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.000953, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gassaway", "lng": -85.97669, "zip_code": "37095"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gassaway", "Liberty"], "postal_code": "37095", "lat": 36.000953, "lng": -85.97669, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dekalb"}, {"fips": "189", "name": "Wilson"}, {"fips": "015", "name": "Cannon"}]});

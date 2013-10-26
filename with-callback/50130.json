@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.302683, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Jewell", "lng": -93.65232, "zip_code": "50130"});
+zipapicallback({"locality": "Jewell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Jewell"], "postal_code": "50130", "lat": 42.302683, "lng": -93.65232, "type": "STANDARD", "counties": [{"fips": "079", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.017404, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Apison", "lng": -85.01322, "zip_code": "37302"}
+{"locality": "Apison", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Apison"], "postal_code": "37302", "lat": 35.017404, "lng": -85.01322, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]}

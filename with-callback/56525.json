@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.659932, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Comstock", "lng": -96.74693, "zip_code": "56525"});
+zipapicallback({"locality": "Comstock", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Comstock"], "postal_code": "56525", "lat": 46.659932, "lng": -96.74693, "type": "POBOX", "counties": [{"fips": "027", "name": "Clay"}]});

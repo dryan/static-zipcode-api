@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.262811, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Grubville", "lng": -90.77513, "zip_code": "63041"});
+zipapicallback({"locality": "Grubville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Grubville"], "postal_code": "63041", "lat": 38.262811, "lng": -90.77513, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]});

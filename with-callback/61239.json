@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.497667, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carbon Cliff", "lng": -90.39047, "zip_code": "61239"});
+zipapicallback({"locality": "Carbon Cliff", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carbon Cliff"], "postal_code": "61239", "lat": 41.497667, "lng": -90.39047, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rock Island"}]});

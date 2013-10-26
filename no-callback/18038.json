@@ -1,1 +1,1 @@
-{"lat": 40.786431, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Danielsville", "lng": -75.49158, "zip_code": "18038"}
+{"locality": "Danielsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Danielsville"], "postal_code": "18038", "lat": 40.786431, "lng": -75.49158, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}]}

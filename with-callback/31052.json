@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.788484, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lizella", "lng": -83.80726, "zip_code": "31052"});
+zipapicallback({"locality": "Lizella", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lizella"], "postal_code": "31052", "lat": 32.788484, "lng": -83.80726, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bibb"}, {"fips": "079", "name": "Crawford"}]});

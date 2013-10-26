@@ -1,1 +1,1 @@
-{"lat": 43.501755, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "West Springfield", "lng": -72.01296, "zip_code": "03284"}
+{"locality": "Springfield", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Springfield"], "postal_code": "03284", "lat": 43.501755, "lng": -72.01296, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]}

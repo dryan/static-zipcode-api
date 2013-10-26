@@ -1,1 +1,1 @@
-{"lat": 32.199721, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Byromville", "lng": -83.91327, "zip_code": "31007"}
+{"locality": "Byromville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Byromville"], "postal_code": "31007", "lat": 32.199721, "lng": -83.91327, "type": "STANDARD", "counties": [{"fips": "093", "name": "Dooly"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.930122, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Haines", "lng": -117.98289, "zip_code": "97833"});
+zipapicallback({"locality": "Haines", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Haines"], "postal_code": "97833", "lat": 44.930122, "lng": -117.98289, "type": "STANDARD", "counties": [{"fips": "001", "name": "Baker"}]});

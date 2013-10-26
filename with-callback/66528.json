@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.60969, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Quenemo", "lng": -95.54333, "zip_code": "66528"});
+zipapicallback({"locality": "Quenemo", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Quenemo"], "postal_code": "66528", "lat": 38.60969, "lng": -95.54333, "type": "STANDARD", "counties": [{"fips": "139", "name": "Osage"}, {"fips": "059", "name": "Franklin"}]});

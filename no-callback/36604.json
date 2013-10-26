@@ -1,1 +1,1 @@
-{"lat": 30.68164, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Mobile", "lng": -88.06676, "zip_code": "36604"}
+{"locality": "Mobile", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Mobile"], "postal_code": "36604", "lat": 30.68164, "lng": -88.06676, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

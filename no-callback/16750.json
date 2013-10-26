@@ -1,1 +1,1 @@
-{"lat": 41.876559, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Turtlepoint", "lng": -78.32445, "zip_code": "16750"}
+{"locality": "Turtlepoint", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Turtlepoint"], "postal_code": "16750", "lat": 41.876559, "lng": -78.32445, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]}

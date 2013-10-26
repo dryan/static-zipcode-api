@@ -1,1 +1,1 @@
-{"lat": 34.766305, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cateechee", "lng": -82.75838, "zip_code": "29667"}
+{"locality": "Norris", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cateechee", "Norris"], "postal_code": "29667", "lat": 34.766305, "lng": -82.75838, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pickens"}]}

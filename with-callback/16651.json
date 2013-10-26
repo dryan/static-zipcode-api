@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.827635, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Houtzdale", "lng": -78.36046, "zip_code": "16651"});
+zipapicallback({"locality": "Houtzdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ginter", "Houtzdale"], "postal_code": "16651", "lat": 40.827635, "lng": -78.36046, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

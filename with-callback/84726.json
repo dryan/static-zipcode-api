@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.76737, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Escalante", "lng": -111.6841, "zip_code": "84726"});
+zipapicallback({"locality": "Escalante", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Escalante"], "postal_code": "84726", "lat": 37.76737, "lng": -111.6841, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]});

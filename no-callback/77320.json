@@ -1,1 +1,1 @@
-{"lat": 30.805099, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Huntsville", "lng": -95.50719, "zip_code": "77320"}
+{"locality": "Huntsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Huntsville"], "postal_code": "77320", "lat": 30.805099, "lng": -95.50719, "type": "STANDARD", "counties": []}

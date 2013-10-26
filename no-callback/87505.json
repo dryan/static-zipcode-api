@@ -1,1 +1,1 @@
-{"lat": 35.616662, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Santa Fe", "lng": -105.97926, "zip_code": "87505"}
+{"locality": "Santa Fe", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Santa Fe"], "postal_code": "87505", "lat": 35.616662, "lng": -105.97926, "type": "STANDARD", "counties": [{"fips": "049", "name": "Santa Fe"}]}

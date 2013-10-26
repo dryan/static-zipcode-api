@@ -1,1 +1,1 @@
-{"lat": 40.90764, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Templeton", "lng": -79.45161, "zip_code": "16259"}
+{"locality": "Templeton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Templeton"], "postal_code": "16259", "lat": 40.90764, "lng": -79.45161, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]}

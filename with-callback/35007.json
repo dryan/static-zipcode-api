@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.232422, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Alabaster", "lng": -86.80871, "zip_code": "35007"});
+zipapicallback({"locality": "Alabaster", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Alabaster"], "postal_code": "35007", "lat": 33.232422, "lng": -86.80871, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]});

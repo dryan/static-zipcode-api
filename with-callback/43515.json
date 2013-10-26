@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.585627, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Delta", "lng": -84.00778, "zip_code": "43515"});
+zipapicallback({"locality": "Delta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Delta"], "postal_code": "43515", "lat": 41.585627, "lng": -84.00778, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fulton"}, {"fips": "069", "name": "Henry"}]});

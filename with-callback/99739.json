@@ -1,1 +1,1 @@
-zipapicallback({"lat": 64.620513, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Elim", "lng": -162.27718, "zip_code": "99739"});
+zipapicallback({"locality": "Elim", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Elim"], "postal_code": "99739", "lat": 64.620513, "lng": -162.27718, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]});

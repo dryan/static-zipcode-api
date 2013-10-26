@@ -1,1 +1,1 @@
-{"lat": 34.261752, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Chillicothe", "lng": -99.5202, "zip_code": "79225"}
+{"locality": "Chillicothe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Chillicothe"], "postal_code": "79225", "lat": 34.261752, "lng": -99.5202, "type": "STANDARD", "counties": [{"fips": "197", "name": "Hardeman"}, {"fips": "487", "name": "Wilbarger"}]}

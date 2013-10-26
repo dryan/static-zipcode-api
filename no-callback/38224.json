@@ -1,1 +1,1 @@
-{"lat": 36.395616, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cottage Grove", "lng": -88.49515, "zip_code": "38224"}
+{"locality": "Cottage Grove", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cottage Grove"], "postal_code": "38224", "lat": 36.395616, "lng": -88.49515, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

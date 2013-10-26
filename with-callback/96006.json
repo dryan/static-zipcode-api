@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.190742, "region": {"abbr": "CA", "name": "California"}, "locality": "Adin", "lng": -120.90294, "zip_code": "96006"});
+zipapicallback({"locality": "Adin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Adin"], "postal_code": "96006", "lat": 41.190742, "lng": -120.90294, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.528515, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Danvers", "lng": -89.19057, "zip_code": "61732"}
+{"locality": "Danvers", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Danvers"], "postal_code": "61732", "lat": 40.528515, "lng": -89.19057, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

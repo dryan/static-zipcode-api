@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.40765, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lake Oswego", "lng": -122.6811, "zip_code": "97034"});
+zipapicallback({"locality": "Lake Oswego", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lake Oswego", "Rivergrove"], "postal_code": "97034", "lat": 45.40765, "lng": -122.6811, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}, {"fips": "051", "name": "Multnomah"}, {"fips": "067", "name": "Washington"}]});

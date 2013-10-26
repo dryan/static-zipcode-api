@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.631604, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Holy Cross", "lng": -90.96492, "zip_code": "52053"});
+zipapicallback({"locality": "Holy Cross", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Holy Cross"], "postal_code": "52053", "lat": 42.631604, "lng": -90.96492, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}, {"fips": "043", "name": "Clayton"}]});

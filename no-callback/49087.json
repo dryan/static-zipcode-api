@@ -1,1 +1,1 @@
-{"lat": 42.117421, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Schoolcraft", "lng": -85.67594, "zip_code": "49087"}
+{"locality": "Schoolcraft", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Schoolcraft"], "postal_code": "49087", "lat": 42.117421, "lng": -85.67594, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}, {"fips": "159", "name": "Van Buren"}, {"fips": "149", "name": "St. Joseph"}]}

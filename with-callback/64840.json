@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.002574, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Diamond", "lng": -94.32419, "zip_code": "64840"});
+zipapicallback({"locality": "Diamond", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Diamond"], "postal_code": "64840", "lat": 37.002574, "lng": -94.32419, "type": "STANDARD", "counties": [{"fips": "145", "name": "Newton"}, {"fips": "097", "name": "Jasper"}]});

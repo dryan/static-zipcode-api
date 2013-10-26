@@ -1,1 +1,1 @@
-{"lat": 41.200936, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Windsor", "lng": -90.45631, "zip_code": "61465"}
+{"locality": "New Windsor", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Windsor"], "postal_code": "61465", "lat": 41.200936, "lng": -90.45631, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}, {"fips": "073", "name": "Henry"}]}

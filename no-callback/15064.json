@@ -1,1 +1,1 @@
-{"lat": 40.352897, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Morgan", "lng": -80.14529, "zip_code": "15064"}
+{"locality": "Morgan", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morgan"], "postal_code": "15064", "lat": 40.352897, "lng": -80.14529, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

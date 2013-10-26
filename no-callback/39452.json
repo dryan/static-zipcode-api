@@ -1,1 +1,1 @@
-{"lat": 30.873353, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Agricola", "lng": -88.58869, "zip_code": "39452"}
+{"locality": "Lucedale", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Agricola", "Lucedale"], "postal_code": "39452", "lat": 30.873353, "lng": -88.58869, "type": "STANDARD", "counties": [{"fips": "039", "name": "George"}, {"fips": "059", "name": "Jackson"}, {"fips": "041", "name": "Greene"}]}

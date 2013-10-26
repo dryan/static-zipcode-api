@@ -1,1 +1,1 @@
-{"lat": 33.075138, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lewisville", "lng": -97.0529, "zip_code": "75077"}
+{"locality": "Lewisville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Copper Canyon", "Double Oak", "Highland Vill", "Highland Village", "Lewisville"], "postal_code": "75077", "lat": 33.075138, "lng": -97.0529, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.33383, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Murchison", "lng": -95.7102, "zip_code": "75778"});
+zipapicallback({"locality": "Murchison", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Murchison"], "postal_code": "75778", "lat": 32.33383, "lng": -95.7102, "type": "STANDARD", "counties": [{"fips": "213", "name": "Henderson"}, {"fips": "467", "name": "Van Zandt"}]});

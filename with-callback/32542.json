@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.457156, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Eglin A F B", "lng": -86.55081, "zip_code": "32542"});
+zipapicallback({"locality": "Eglin Afb", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dfafs", "Duke Field Afs", "Eglin", "Eglin Afb"], "postal_code": "32542", "lat": 30.457156, "lng": -86.55081, "type": "STANDARD", "counties": [{"fips": "091", "name": "Okaloosa"}]});

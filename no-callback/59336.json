@@ -1,1 +1,1 @@
-{"lat": 46.429205, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ismay", "lng": -104.94036, "zip_code": "59336"}
+{"locality": "Ismay", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ismay"], "postal_code": "59336", "lat": 46.429205, "lng": -104.94036, "type": "STANDARD", "counties": [{"fips": "017", "name": "Custer"}]}

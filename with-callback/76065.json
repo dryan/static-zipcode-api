@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.484094, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Midlothian", "lng": -96.98672, "zip_code": "76065"});
+zipapicallback({"locality": "Midlothian", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Midlothian"], "postal_code": "76065", "lat": 32.484094, "lng": -96.98672, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ellis"}, {"fips": "113", "name": "Dallas"}]});

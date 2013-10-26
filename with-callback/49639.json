@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.84716, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hersey", "lng": -85.40908, "zip_code": "49639"});
+zipapicallback({"locality": "Hersey", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hersey"], "postal_code": "49639", "lat": 43.84716, "lng": -85.40908, "type": "STANDARD", "counties": [{"fips": "133", "name": "Osceola"}, {"fips": "107", "name": "Mecosta"}]});

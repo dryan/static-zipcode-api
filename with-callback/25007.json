@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.832443, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Arnett", "lng": -81.42991, "zip_code": "25007"});
+zipapicallback({"locality": "Arnett", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Arnett"], "postal_code": "25007", "lat": 37.832443, "lng": -81.42991, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.939663, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Melbourne", "lng": -93.07114, "zip_code": "50162"});
+zipapicallback({"locality": "Melbourne", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Melbourne"], "postal_code": "50162", "lat": 41.939663, "lng": -93.07114, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]});

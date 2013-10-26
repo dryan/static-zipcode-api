@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.340124, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dahlgren", "lng": -77.03273, "zip_code": "22448"});
+zipapicallback({"locality": "Dahlgren", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dahlgren"], "postal_code": "22448", "lat": 38.340124, "lng": -77.03273, "type": "STANDARD", "counties": [{"fips": "099", "name": "King George"}]});

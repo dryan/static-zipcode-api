@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.339084, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hornbeak", "lng": -89.33228, "zip_code": "38232"});
+zipapicallback({"locality": "Hornbeak", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hornbeak"], "postal_code": "38232", "lat": 36.339084, "lng": -89.33228, "type": "STANDARD", "counties": [{"fips": "131", "name": "Obion"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.067379, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mansura", "lng": -92.05447, "zip_code": "71350"}
+{"locality": "Mansura", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mansura"], "postal_code": "71350", "lat": 31.067379, "lng": -92.05447, "type": "STANDARD", "counties": [{"fips": "009", "name": "Avoyelles"}]}

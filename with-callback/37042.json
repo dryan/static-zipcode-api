@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.58068, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Clarksville", "lng": -87.4056, "zip_code": "37042"});
+zipapicallback({"locality": "Clarksville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Clarksville"], "postal_code": "37042", "lat": 36.58068, "lng": -87.4056, "type": "STANDARD", "counties": [{"fips": "125", "name": "Montgomery"}]});

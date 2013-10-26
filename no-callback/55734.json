@@ -1,1 +1,1 @@
-{"lat": 47.4211, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Eveleth", "lng": -92.51331, "zip_code": "55734"}
+{"locality": "Eveleth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eveleth"], "postal_code": "55734", "lat": 47.4211, "lng": -92.51331, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

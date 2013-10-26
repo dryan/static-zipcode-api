@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.926713, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Sandyville", "lng": -81.6196, "zip_code": "25275"});
+zipapicallback({"locality": "Sandyville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Sandyville"], "postal_code": "25275", "lat": 38.926713, "lng": -81.6196, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}]});

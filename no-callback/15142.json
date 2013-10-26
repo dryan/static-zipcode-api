@@ -1,1 +1,1 @@
-{"lat": 40.379549, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Presto", "lng": -80.12451, "zip_code": "15142"}
+{"locality": "Presto", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Presto"], "postal_code": "15142", "lat": 40.379549, "lng": -80.12451, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

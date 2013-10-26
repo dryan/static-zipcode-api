@@ -1,1 +1,1 @@
-{"lat": 46.076891, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Cayuga", "lng": -97.35562, "zip_code": "58013"}
+{"locality": "Cayuga", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Cayuga"], "postal_code": "58013", "lat": 46.076891, "lng": -97.35562, "type": "STANDARD", "counties": [{"fips": "081", "name": "Sargent"}]}

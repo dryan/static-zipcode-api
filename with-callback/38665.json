@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.578092, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Savage", "lng": -90.1805, "zip_code": "38665"});
+zipapicallback({"locality": "Sarah", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Sarah", "Savage"], "postal_code": "38665", "lat": 34.578092, "lng": -90.1805, "type": "STANDARD", "counties": [{"fips": "107", "name": "Panola"}, {"fips": "137", "name": "Tate"}]});

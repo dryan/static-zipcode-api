@@ -1,1 +1,1 @@
-{"lat": 42.700145, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Newport", "lng": -99.31812, "zip_code": "68759"}
+{"locality": "Newport", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Newport"], "postal_code": "68759", "lat": 42.700145, "lng": -99.31812, "type": "STANDARD", "counties": [{"fips": "103", "name": "Keya Paha"}, {"fips": "149", "name": "Rock"}]}

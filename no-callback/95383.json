@@ -1,1 +1,1 @@
-{"lat": 38.055888, "region": {"abbr": "CA", "name": "California"}, "locality": "Twain Harte", "lng": -120.23002, "zip_code": "95383"}
+{"locality": "Twain Harte", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Twain Harte"], "postal_code": "95383", "lat": 38.055888, "lng": -120.23002, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.641066, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Baden", "lng": -80.20599, "zip_code": "15005"}
+{"locality": "Baden", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Baden"], "postal_code": "15005", "lat": 40.641066, "lng": -80.20599, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]}

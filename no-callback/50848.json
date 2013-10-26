@@ -1,1 +1,1 @@
-{"lat": 40.780854, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gravity", "lng": -94.7643, "zip_code": "50848"}
+{"locality": "Gravity", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gravity"], "postal_code": "50848", "lat": 40.780854, "lng": -94.7643, "type": "STANDARD", "counties": [{"fips": "173", "name": "Taylor"}]}

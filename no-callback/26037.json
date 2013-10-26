@@ -1,1 +1,1 @@
-{"lat": 40.330969, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Follansbee", "lng": -80.58889, "zip_code": "26037"}
+{"locality": "Follansbee", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Follansbee"], "postal_code": "26037", "lat": 40.330969, "lng": -80.58889, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brooke"}]}

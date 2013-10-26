@@ -1,1 +1,1 @@
-{"lat": 34.842944, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Princeton", "lng": -86.23149, "zip_code": "35766"}
+{"locality": "Princeton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Princeton"], "postal_code": "35766", "lat": 34.842944, "lng": -86.23149, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}]}

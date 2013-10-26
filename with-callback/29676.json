@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.888111, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Salem", "lng": -82.95878, "zip_code": "29676"});
+zipapicallback({"locality": "Salem", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Salem"], "postal_code": "29676", "lat": 34.888111, "lng": -82.95878, "type": "STANDARD", "counties": [{"fips": "073", "name": "Oconee"}]});

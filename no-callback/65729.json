@@ -1,1 +1,1 @@
-{"lat": 36.525433, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pontiac", "lng": -92.59234, "zip_code": "65729"}
+{"locality": "Pontiac", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pontiac"], "postal_code": "65729", "lat": 36.525433, "lng": -92.59234, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

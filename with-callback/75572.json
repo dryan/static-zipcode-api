@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.210952, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Queen City", "lng": -94.13364, "zip_code": "75572"});
+zipapicallback({"locality": "Queen City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Queen City"], "postal_code": "75572", "lat": 33.210952, "lng": -94.13364, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cass"}]});

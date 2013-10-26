@@ -1,1 +1,1 @@
-{"lat": 40.688451, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Allerton", "lng": -93.37907, "zip_code": "50008"}
+{"locality": "Allerton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Allerton"], "postal_code": "50008", "lat": 40.688451, "lng": -93.37907, "type": "STANDARD", "counties": [{"fips": "185", "name": "Wayne"}]}

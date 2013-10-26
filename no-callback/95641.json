@@ -1,1 +1,1 @@
-{"lat": 38.161756, "region": {"abbr": "CA", "name": "California"}, "locality": "Isleton", "lng": -121.60428, "zip_code": "95641"}
+{"locality": "Isleton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Isleton"], "postal_code": "95641", "lat": 38.161756, "lng": -121.60428, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

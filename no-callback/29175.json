@@ -1,1 +1,1 @@
-{"lat": 34.443733, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Westville", "lng": -80.60138, "zip_code": "29175"}
+{"locality": "Westville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Westville"], "postal_code": "29175", "lat": 34.443733, "lng": -80.60138, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kershaw"}]}

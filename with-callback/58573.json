@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.094998, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Strasburg", "lng": -100.24342, "zip_code": "58573"});
+zipapicallback({"locality": "Strasburg", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Strasburg"], "postal_code": "58573", "lat": 46.094998, "lng": -100.24342, "type": "STANDARD", "counties": [{"fips": "029", "name": "Emmons"}]});

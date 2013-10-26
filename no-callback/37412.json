@@ -1,1 +1,1 @@
-{"lat": 34.996674, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "East Ridge", "lng": -85.23748, "zip_code": "37412"}
+{"locality": "Chattanooga", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Chattanooga", "East Ridge"], "postal_code": "37412", "lat": 34.996674, "lng": -85.23748, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]}

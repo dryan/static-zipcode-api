@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.453355, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Jamestown", "lng": -108.45374, "zip_code": "87347"});
+zipapicallback({"locality": "Jamestown", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Continental Divide", "Contnental Dv", "Jamestown"], "postal_code": "87347", "lat": 35.453355, "lng": -108.45374, "type": "POBOX", "counties": []});

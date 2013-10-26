@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.286755, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mantua", "lng": -81.22911, "zip_code": "44255"});
+zipapicallback({"locality": "Mantua", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mantua"], "postal_code": "44255", "lat": 41.286755, "lng": -81.22911, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}, {"fips": "055", "name": "Geauga"}]});

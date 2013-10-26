@@ -1,1 +1,1 @@
-{"lat": 35.755312, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Pojoaque Valley", "lng": -105.99936, "zip_code": "87501"}
+{"locality": "Santa Fe", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Pojoaque", "Santa Fe"], "postal_code": "87501", "lat": 35.755312, "lng": -105.99936, "type": "STANDARD", "counties": [{"fips": "049", "name": "Santa Fe"}]}

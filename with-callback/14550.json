@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.669499, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rock Glen", "lng": -78.09375, "zip_code": "14550"});
+zipapicallback({"locality": "Silver Springs", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rock Glen", "Silver Spgs", "Silver Springs"], "postal_code": "14550", "lat": 42.669499, "lng": -78.09375, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.609078, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Markham", "lng": -87.66264, "zip_code": "60426"}
+{"locality": "Harvey", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dixmoor", "Harvey", "Markham", "Phoenix"], "postal_code": "60426", "lat": 41.609078, "lng": -87.66264, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

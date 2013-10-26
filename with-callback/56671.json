@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.871135, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Redlake", "lng": -95.14362, "zip_code": "56671"});
+zipapicallback({"locality": "Redlake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Redlake"], "postal_code": "56671", "lat": 47.871135, "lng": -95.14362, "type": "POBOX", "counties": [{"fips": "007", "name": "Beltrami"}]});

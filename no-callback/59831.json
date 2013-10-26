@@ -1,1 +1,1 @@
-{"lat": 47.291275, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Dixon", "lng": -114.37296, "zip_code": "59831"}
+{"locality": "Dixon", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Dixon"], "postal_code": "59831", "lat": 47.291275, "lng": -114.37296, "type": "STANDARD", "counties": [{"fips": "089", "name": "Sanders"}]}

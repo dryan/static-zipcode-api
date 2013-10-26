@@ -1,1 +1,1 @@
-{"lat": 44.545046, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Strum", "lng": -91.38753, "zip_code": "54770"}
+{"locality": "Strum", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Strum"], "postal_code": "54770", "lat": 44.545046, "lng": -91.38753, "type": "STANDARD", "counties": [{"fips": "121", "name": "Trempealeau"}, {"fips": "035", "name": "Eau Claire"}]}

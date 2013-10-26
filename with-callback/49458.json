@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.945299, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Walhalla", "lng": -86.11684, "zip_code": "49458"});
+zipapicallback({"locality": "Walhalla", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Walhalla"], "postal_code": "49458", "lat": 43.945299, "lng": -86.11684, "type": "POBOX", "counties": [{"fips": "105", "name": "Mason"}]});

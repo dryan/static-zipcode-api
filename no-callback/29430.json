@@ -1,1 +1,1 @@
-{"lat": 33.174292, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bethera", "lng": -79.78991, "zip_code": "29430"}
+{"locality": "Bethera", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bethera", "Moncks Corner"], "postal_code": "29430", "lat": 33.174292, "lng": -79.78991, "type": "POBOX", "counties": [{"fips": "015", "name": "Berkeley"}]}

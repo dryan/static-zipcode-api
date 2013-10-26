@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.816055, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Thatcher", "lng": -109.76487, "zip_code": "85552"});
+zipapicallback({"locality": "Thatcher", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Thatcher"], "postal_code": "85552", "lat": 32.816055, "lng": -109.76487, "type": "STANDARD", "counties": [{"fips": "009", "name": "Graham"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.837204, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elmwood", "lng": -96.29537, "zip_code": "68349"});
+zipapicallback({"locality": "Elmwood", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Elmwood"], "postal_code": "68349", "lat": 40.837204, "lng": -96.29537, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}]});

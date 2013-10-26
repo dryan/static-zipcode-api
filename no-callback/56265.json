@@ -1,1 +1,1 @@
-{"lat": 44.985313, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Montevideo", "lng": -95.7066, "zip_code": "56265"}
+{"locality": "Montevideo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Montevideo"], "postal_code": "56265", "lat": 44.985313, "lng": -95.7066, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chippewa"}, {"fips": "073", "name": "Lac Qui Parle"}, {"fips": "173", "name": "Yellow Medicine"}]}

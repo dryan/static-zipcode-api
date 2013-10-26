@@ -1,1 +1,1 @@
-{"lat": 46.075387, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wilsall", "lng": -110.57954, "zip_code": "59086"}
+{"locality": "Wilsall", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Wilsall"], "postal_code": "59086", "lat": 46.075387, "lng": -110.57954, "type": "STANDARD", "counties": [{"fips": "067", "name": "Park"}]}

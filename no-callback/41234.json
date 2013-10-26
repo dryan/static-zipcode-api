@@ -1,1 +1,1 @@
-{"lat": 37.795418, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Meally", "lng": -82.7337, "zip_code": "41234"}
+{"locality": "Meally", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Meally"], "postal_code": "41234", "lat": 37.795418, "lng": -82.7337, "type": "STANDARD", "counties": [{"fips": "115", "name": "Johnson"}]}

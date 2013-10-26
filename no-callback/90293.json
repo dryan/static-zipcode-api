@@ -1,1 +1,1 @@
-{"lat": 33.957012, "region": {"abbr": "CA", "name": "California"}, "locality": "Playa Del Rey", "lng": -118.44167, "zip_code": "90293"}
+{"locality": "Playa Del Rey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Playa Del Rey", "Venice"], "postal_code": "90293", "lat": 33.957012, "lng": -118.44167, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

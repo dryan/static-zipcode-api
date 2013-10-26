@@ -1,1 +1,1 @@
-{"lat": 40.405788, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Scio", "lng": -81.10432, "zip_code": "43988"}
+{"locality": "Scio", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Scio"], "postal_code": "43988", "lat": 40.405788, "lng": -81.10432, "type": "STANDARD", "counties": [{"fips": "067", "name": "Harrison"}, {"fips": "019", "name": "Carroll"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.766134, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cranks", "lng": -83.16117, "zip_code": "40820"}
+{"locality": "Cranks", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cranks"], "postal_code": "40820", "lat": 36.766134, "lng": -83.16117, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]}

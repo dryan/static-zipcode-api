@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.675775, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gasconade", "lng": -91.58968, "zip_code": "65036"});
+zipapicallback({"locality": "Gasconade", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gasconade", "Morrison"], "postal_code": "65036", "lat": 38.675775, "lng": -91.58968, "type": "POBOX", "counties": [{"fips": "073", "name": "Gasconade"}]});

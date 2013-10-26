@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.534274, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Polaris", "lng": -113.17025, "zip_code": "59746"});
+zipapicallback({"locality": "Polaris", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Polaris"], "postal_code": "59746", "lat": 45.534274, "lng": -113.17025, "type": "STANDARD", "counties": [{"fips": "001", "name": "Beaverhead"}]});

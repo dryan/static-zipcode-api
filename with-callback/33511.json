@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.911201, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Brandon", "lng": -82.2948, "zip_code": "33511"});
+zipapicallback({"locality": "Brandon", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brandon"], "postal_code": "33511", "lat": 27.911201, "lng": -82.2948, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]});

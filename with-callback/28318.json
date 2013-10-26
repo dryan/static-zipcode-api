@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.020272, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Autryville", "lng": -78.614, "zip_code": "28318"});
+zipapicallback({"locality": "Autryville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Autryville"], "postal_code": "28318", "lat": 35.020272, "lng": -78.614, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sampson"}]});

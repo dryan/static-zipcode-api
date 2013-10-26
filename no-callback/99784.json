@@ -1,1 +1,1 @@
-{"lat": 64.684323, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "White Mountain", "lng": -163.44257, "zip_code": "99784"}
+{"locality": "White Mountain", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["White Mountain", "White Mtn"], "postal_code": "99784", "lat": 64.684323, "lng": -163.44257, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]}

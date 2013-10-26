@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.865272, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Medford Lakes", "lng": -74.8185, "zip_code": "08055"});
+zipapicallback({"locality": "Medford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Medford", "Medford Lakes"], "postal_code": "08055", "lat": 39.865272, "lng": -74.8185, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}, {"fips": "007", "name": "Camden"}]});

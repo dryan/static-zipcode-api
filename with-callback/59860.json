@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.696131, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Polson", "lng": -114.16094, "zip_code": "59860"});
+zipapicallback({"locality": "Polson", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Polson"], "postal_code": "59860", "lat": 47.696131, "lng": -114.16094, "type": "STANDARD", "counties": [{"fips": "047", "name": "Lake"}]});

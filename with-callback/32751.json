@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.628359, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Eatonville", "lng": -81.35942, "zip_code": "32751"});
+zipapicallback({"locality": "Maitland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Eatonville", "Maitland"], "postal_code": "32751", "lat": 28.628359, "lng": -81.35942, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}, {"fips": "117", "name": "Seminole"}]});

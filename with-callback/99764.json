@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.980725, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Northway", "lng": -141.82852, "zip_code": "99764"});
+zipapicallback({"locality": "Northway", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Northway"], "postal_code": "99764", "lat": 62.980725, "lng": -141.82852, "type": "POBOX", "counties": [{"fips": "240", "name": "Southeast Fairbanks"}]});

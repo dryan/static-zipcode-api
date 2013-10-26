@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.695401, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Union", "lng": -74.26933, "zip_code": "07083"});
+zipapicallback({"locality": "Union", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Union"], "postal_code": "07083", "lat": 40.695401, "lng": -74.26933, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.852728, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Verdunville", "lng": -82.06678, "zip_code": "25649"});
+zipapicallback({"locality": "Verdunville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Verdunville"], "postal_code": "25649", "lat": 37.852728, "lng": -82.06678, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]});

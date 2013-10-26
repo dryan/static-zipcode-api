@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.322703, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Allouez", "lng": -88.40806, "zip_code": "49805"});
+zipapicallback({"locality": "Allouez", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Allouez"], "postal_code": "49805", "lat": 47.322703, "lng": -88.40806, "type": "STANDARD", "counties": [{"fips": "083", "name": "Keweenaw"}]});

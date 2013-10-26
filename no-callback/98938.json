@@ -1,1 +1,1 @@
-{"lat": 46.364164, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Outlook", "lng": -120.09871, "zip_code": "98938"}
+{"locality": "Outlook", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Outlook"], "postal_code": "98938", "lat": 46.364164, "lng": -120.09871, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

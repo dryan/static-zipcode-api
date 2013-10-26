@@ -1,1 +1,1 @@
-{"lat": 48.593133, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Bowesmont", "lng": -97.22272, "zip_code": "58225"}
+{"locality": "Drayton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bowesmont", "Drayton"], "postal_code": "58225", "lat": 48.593133, "lng": -97.22272, "type": "STANDARD", "counties": [{"fips": "067", "name": "Pembina"}, {"fips": "099", "name": "Walsh"}]}

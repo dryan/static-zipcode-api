@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.478887, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gerton", "lng": -82.34855, "zip_code": "28735"});
+zipapicallback({"locality": "Gerton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gerton"], "postal_code": "28735", "lat": 35.478887, "lng": -82.34855, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henderson"}]});

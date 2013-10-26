@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.08434, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Knox Dale", "lng": -79.0308, "zip_code": "15847"});
+zipapicallback({"locality": "Knox Dale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Knox Dale"], "postal_code": "15847", "lat": 41.08434, "lng": -79.0308, "type": "POBOX", "counties": [{"fips": "065", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.043359, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Perrysville", "lng": -87.4655, "zip_code": "47974"}
+{"locality": "Perrysville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Perrysville"], "postal_code": "47974", "lat": 40.043359, "lng": -87.4655, "type": "STANDARD", "counties": [{"fips": "165", "name": "Vermillion"}]}

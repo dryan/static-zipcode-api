@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.454934, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jasper", "lng": -84.41583, "zip_code": "30143"});
+zipapicallback({"locality": "Jasper", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Big Canoe", "Jasper"], "postal_code": "30143", "lat": 34.454934, "lng": -84.41583, "type": "STANDARD", "counties": [{"fips": "227", "name": "Pickens"}, {"fips": "085", "name": "Dawson"}, {"fips": "057", "name": "Cherokee"}]});

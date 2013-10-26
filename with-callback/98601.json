@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.935656, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Amboy", "lng": -122.43726, "zip_code": "98601"});
+zipapicallback({"locality": "Amboy", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Amboy"], "postal_code": "98601", "lat": 45.935656, "lng": -122.43726, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}, {"fips": "015", "name": "Cowlitz"}]});

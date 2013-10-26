@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.53599, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Rumford", "lng": -70.56609, "zip_code": "04276"});
+zipapicallback({"locality": "Rumford", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Rumford", "Rumford Center", "Rumford Ctr", "Rumford Point"], "postal_code": "04276", "lat": 44.53599, "lng": -70.56609, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

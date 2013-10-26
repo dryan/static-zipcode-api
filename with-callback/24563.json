@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.071568, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hurt", "lng": -79.2923, "zip_code": "24563"});
+zipapicallback({"locality": "Hurt", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hurt"], "postal_code": "24563", "lat": 37.071568, "lng": -79.2923, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]});

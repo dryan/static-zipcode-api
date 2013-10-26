@@ -1,1 +1,1 @@
-{"lat": 41.989386, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Polo", "lng": -89.59084, "zip_code": "61064"}
+{"locality": "Polo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Polo"], "postal_code": "61064", "lat": 41.989386, "lng": -89.59084, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}, {"fips": "103", "name": "Lee"}, {"fips": "195", "name": "Whiteside"}, {"fips": "015", "name": "Carroll"}]}

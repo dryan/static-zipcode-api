@@ -1,1 +1,1 @@
-{"lat": 47.618371, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Beaux Arts", "lng": -122.20308, "zip_code": "98004"}
+{"locality": "Bellevue", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Beaux Arts", "Bellevue", "Clyde Hill", "Hunts Point", "Yarrow Point"], "postal_code": "98004", "lat": 47.618371, "lng": -122.20308, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

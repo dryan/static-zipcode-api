@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.485593, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Jacksonburg", "lng": -80.64053, "zip_code": "26377"});
+zipapicallback({"locality": "Jacksonburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Alvy", "Jacksonburg", "Lima"], "postal_code": "26377", "lat": 39.485593, "lng": -80.64053, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}, {"fips": "095", "name": "Tyler"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.494559, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Riverdale", "lng": -101.37668, "zip_code": "58565"}
+{"locality": "Riverdale", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Riverdale"], "postal_code": "58565", "lat": 47.494559, "lng": -101.37668, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}]}

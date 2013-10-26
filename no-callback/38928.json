@@ -1,1 +1,1 @@
-{"lat": 33.857538, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Glendora", "lng": -90.30001, "zip_code": "38928"}
+{"locality": "Glendora", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Glendora"], "postal_code": "38928", "lat": 33.857538, "lng": -90.30001, "type": "STANDARD", "counties": [{"fips": "135", "name": "Tallahatchie"}]}

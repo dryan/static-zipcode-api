@@ -1,1 +1,1 @@
-{"lat": 34.238486, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Healdton", "lng": -97.48895, "zip_code": "73438"}
+{"locality": "Healdton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Healdton"], "postal_code": "73438", "lat": 34.238486, "lng": -97.48895, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carter"}, {"fips": "137", "name": "Stephens"}]}

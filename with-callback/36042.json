@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.860078, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Honoraville", "lng": -86.44607, "zip_code": "36042"});
+zipapicallback({"locality": "Honoraville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Honoraville"], "postal_code": "36042", "lat": 31.860078, "lng": -86.44607, "type": "STANDARD", "counties": [{"fips": "041", "name": "Crenshaw"}, {"fips": "013", "name": "Butler"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.208136, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Barrington", "lng": -71.04356, "zip_code": "03825"}
+{"locality": "Barrington", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Barrington"], "postal_code": "03825", "lat": 43.208136, "lng": -71.04356, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}]}

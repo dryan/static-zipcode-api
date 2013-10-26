@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.954911, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Breeding", "lng": -85.39553, "zip_code": "42715"});
+zipapicallback({"locality": "Breeding", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Breeding"], "postal_code": "42715", "lat": 36.954911, "lng": -85.39553, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}, {"fips": "059", "name": "Daviess"}, {"fips": "169", "name": "Metcalfe"}, {"fips": "099", "name": "Hart"}]});

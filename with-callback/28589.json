@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.7994, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Williston", "lng": -76.49457, "zip_code": "28589"});
+zipapicallback({"locality": "Williston", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Williston"], "postal_code": "28589", "lat": 34.7994, "lng": -76.49457, "type": "POBOX", "counties": [{"fips": "031", "name": "Carteret"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.7232, "region": {"abbr": "NY", "name": "New York"}, "locality": "Floral Park", "lng": -73.70475, "zip_code": "11001"}
+{"locality": "Floral Park", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bellerose Vil", "Bellerose Village", "Floral Park", "S Floral Park", "South Floral Park"], "postal_code": "11001", "lat": 40.7232, "lng": -73.70475, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

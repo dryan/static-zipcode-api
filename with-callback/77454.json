@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.553544, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lissie", "lng": -96.22224, "zip_code": "77454"});
+zipapicallback({"locality": "Lissie", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lissie"], "postal_code": "77454", "lat": 29.553544, "lng": -96.22224, "type": "POBOX", "counties": [{"fips": "481", "name": "Wharton"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.875136, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Colfax", "lng": -117.4092, "zip_code": "99111"}
+{"locality": "Colfax", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Colfax", "Diamond"], "postal_code": "99111", "lat": 46.875136, "lng": -117.4092, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]}

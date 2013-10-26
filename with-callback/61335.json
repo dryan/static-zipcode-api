@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.168946, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mc Nabb", "lng": -89.2205, "zip_code": "61335"});
+zipapicallback({"locality": "Mc Nabb", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mc Nabb"], "postal_code": "61335", "lat": 41.168946, "lng": -89.2205, "type": "STANDARD", "counties": [{"fips": "155", "name": "Putnam"}]});

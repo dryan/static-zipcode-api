@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.142148, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mineola", "lng": -95.69205, "zip_code": "51554"});
+zipapicallback({"locality": "Mineola", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mineola"], "postal_code": "51554", "lat": 41.142148, "lng": -95.69205, "type": "POBOX", "counties": [{"fips": "129", "name": "Mills"}]});

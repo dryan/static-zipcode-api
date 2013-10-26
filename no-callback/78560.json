@@ -1,1 +1,1 @@
-{"lat": 26.244317, "region": {"abbr": "TX", "name": "Texas"}, "locality": "La Joya", "lng": -98.49574, "zip_code": "78560"}
+{"locality": "La Joya", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["La Joya"], "postal_code": "78560", "lat": 26.244317, "lng": -98.49574, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]}

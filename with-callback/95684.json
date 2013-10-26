@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.60766, "region": {"abbr": "CA", "name": "California"}, "locality": "Somerset", "lng": -120.5937, "zip_code": "95684"});
+zipapicallback({"locality": "Somerset", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fair Play", "Somerset"], "postal_code": "95684", "lat": 38.60766, "lng": -120.5937, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]});

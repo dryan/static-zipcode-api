@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.697118, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Gorham", "lng": -70.46301, "zip_code": "04038"});
+zipapicallback({"locality": "Gorham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Gorham"], "postal_code": "04038", "lat": 43.697118, "lng": -70.46301, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.78144, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cades", "lng": -79.88688, "zip_code": "29518"});
+zipapicallback({"locality": "Cades", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cades"], "postal_code": "29518", "lat": 33.78144, "lng": -79.88688, "type": "STANDARD", "counties": [{"fips": "089", "name": "Williamsburg"}, {"fips": "027", "name": "Clarendon"}]});

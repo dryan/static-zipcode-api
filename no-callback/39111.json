@@ -1,1 +1,1 @@
-{"lat": 31.880229, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Magee", "lng": -89.72086, "zip_code": "39111"}
+{"locality": "Magee", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Magee", "Sanatorium"], "postal_code": "39111", "lat": 31.880229, "lng": -89.72086, "type": "STANDARD", "counties": [{"fips": "127", "name": "Simpson"}, {"fips": "129", "name": "Smith"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.447642, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Shannock", "lng": -71.63877, "zip_code": "02875"}
+{"locality": "Shannock", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Richmond", "Shannock"], "postal_code": "02875", "lat": 41.447642, "lng": -71.63877, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]}

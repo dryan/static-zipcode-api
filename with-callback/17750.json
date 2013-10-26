@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.051654, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mackeyville", "lng": -77.4631, "zip_code": "17750"});
+zipapicallback({"locality": "Mackeyville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mackeyville"], "postal_code": "17750", "lat": 41.051654, "lng": -77.4631, "type": "POBOX", "counties": [{"fips": "035", "name": "Clinton"}]});

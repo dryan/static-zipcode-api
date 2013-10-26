@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.294672, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Canton", "lng": -96.60442, "zip_code": "57013"});
+zipapicallback({"locality": "Canton", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Canton"], "postal_code": "57013", "lat": 43.294672, "lng": -96.60442, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lincoln"}]});

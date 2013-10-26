@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.601189, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Windsor Heights", "lng": -93.68076, "zip_code": "50311"});
+zipapicallback({"locality": "Des Moines", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Des Moines"], "postal_code": "50311", "lat": 41.601189, "lng": -93.68076, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

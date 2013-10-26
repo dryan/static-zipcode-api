@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.521614, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lilliwaup", "lng": -123.06888, "zip_code": "98555"});
+zipapicallback({"locality": "Lilliwaup", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lilliwaup"], "postal_code": "98555", "lat": 47.521614, "lng": -123.06888, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mason"}]});

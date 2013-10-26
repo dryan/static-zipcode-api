@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.230508, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Asotin", "lng": -117.12916, "zip_code": "99402"});
+zipapicallback({"locality": "Asotin", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Asotin"], "postal_code": "99402", "lat": 46.230508, "lng": -117.12916, "type": "STANDARD", "counties": [{"fips": "003", "name": "Asotin"}]});

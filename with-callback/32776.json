@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.804039, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sorrento", "lng": -81.53689, "zip_code": "32776"});
+zipapicallback({"locality": "Sorrento", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mount Plymouth", "Mt Plymouth", "Sorrento"], "postal_code": "32776", "lat": 28.804039, "lng": -81.53689, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.900651, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bath", "lng": -69.83405, "zip_code": "04530"});
+zipapicallback({"locality": "Bath", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Arrowsic", "Bath", "West Bath"], "postal_code": "04530", "lat": 43.900651, "lng": -69.83405, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]});

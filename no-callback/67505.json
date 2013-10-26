@@ -1,1 +1,1 @@
-{"lat": 38.027185, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "South Hutchinson", "lng": -97.93976, "zip_code": "67505"}
+{"locality": "South Hutchinson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hutchinson", "S Hutchinson", "South Hutchinson"], "postal_code": "67505", "lat": 38.027185, "lng": -97.93976, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}, {"fips": "105", "name": "Lincoln"}]}

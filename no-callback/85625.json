@@ -1,1 +1,1 @@
-{"lat": 31.911838, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Pearce", "lng": -109.7723, "zip_code": "85625"}
+{"locality": "Pearce", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Pearce", "Sunsites"], "postal_code": "85625", "lat": 31.911838, "lng": -109.7723, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]}

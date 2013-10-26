@@ -1,1 +1,1 @@
-{"lat": 43.492259, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Deford", "lng": -83.17874, "zip_code": "48729"}
+{"locality": "Deford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Deford"], "postal_code": "48729", "lat": 43.492259, "lng": -83.17874, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}, {"fips": "151", "name": "Sanilac"}]}

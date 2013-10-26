@@ -1,1 +1,1 @@
-{"lat": 42.482585, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Huntington Woods", "lng": -83.16812, "zip_code": "48070"}
+{"locality": "Huntington Woods", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Huntingtn Wds", "Huntington Woods"], "postal_code": "48070", "lat": 42.482585, "lng": -83.16812, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

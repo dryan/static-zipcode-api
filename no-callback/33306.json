@@ -1,1 +1,1 @@
-{"lat": 26.165212, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Oakland Park", "lng": -80.11379, "zip_code": "33306"}
+{"locality": "Fort Lauderdale", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Lauderdale", "Ft Lauderdale", "Oakland Park", "Wilton Manors"], "postal_code": "33306", "lat": 26.165212, "lng": -80.11379, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

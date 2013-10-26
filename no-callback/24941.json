@@ -1,1 +1,1 @@
-{"lat": 37.602172, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gap Mills", "lng": -80.3464, "zip_code": "24941"}
+{"locality": "Gap Mills", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Gap Mills", "Sweet Springs"], "postal_code": "24941", "lat": 37.602172, "lng": -80.3464, "type": "STANDARD", "counties": [{"fips": "063", "name": "Monroe"}]}

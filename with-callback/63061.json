@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.257711, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Luebbering", "lng": -90.80694, "zip_code": "63061"});
+zipapicallback({"locality": "Luebbering", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Luebbering"], "postal_code": "63061", "lat": 38.257711, "lng": -90.80694, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]});

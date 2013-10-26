@@ -1,1 +1,1 @@
-{"lat": 33.047132, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Sycamore", "lng": -81.22185, "zip_code": "29846"}
+{"locality": "Sycamore", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Sycamore"], "postal_code": "29846", "lat": 33.047132, "lng": -81.22185, "type": "POBOX", "counties": [{"fips": "005", "name": "Allendale"}]}

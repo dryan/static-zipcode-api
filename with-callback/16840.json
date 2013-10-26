@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.924438, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hawk Run", "lng": -78.20652, "zip_code": "16840"});
+zipapicallback({"locality": "Hawk Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hawk Run"], "postal_code": "16840", "lat": 40.924438, "lng": -78.20652, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

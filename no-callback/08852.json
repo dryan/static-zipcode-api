@@ -1,1 +1,1 @@
-{"lat": 40.389428, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Monmouth Junctio", "lng": -74.54329, "zip_code": "08852"}
+{"locality": "Monmouth Junction", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Monmouth Jct", "Monmouth Junction"], "postal_code": "08852", "lat": 40.389428, "lng": -74.54329, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

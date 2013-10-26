@@ -1,1 +1,1 @@
-{"lat": 37.957978, "region": {"abbr": "CA", "name": "California"}, "locality": "Tuolumne", "lng": -120.2297, "zip_code": "95379"}
+{"locality": "Tuolumne", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tuolumne"], "postal_code": "95379", "lat": 37.957978, "lng": -120.2297, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]}

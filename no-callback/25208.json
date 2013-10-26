@@ -1,1 +1,1 @@
-{"lat": 37.887883, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wharton", "lng": -81.67191, "zip_code": "25208"}
+{"locality": "Wharton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bald Knob", "Barrett", "Wharton"], "postal_code": "25208", "lat": 37.887883, "lng": -81.67191, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]}

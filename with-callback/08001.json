@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.559426, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Alloway", "lng": -75.3631, "zip_code": "08001"});
+zipapicallback({"locality": "Alloway", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Alloway"], "postal_code": "08001", "lat": 39.559426, "lng": -75.3631, "type": "POBOX", "counties": [{"fips": "033", "name": "Salem"}]});

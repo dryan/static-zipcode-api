@@ -1,1 +1,1 @@
-{"lat": 29.592212, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ottine", "lng": -97.58922, "zip_code": "78658"}
+{"locality": "Ottine", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ottine"], "postal_code": "78658", "lat": 29.592212, "lng": -97.58922, "type": "POBOX", "counties": [{"fips": "177", "name": "Gonzales"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.291089, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sand Lake", "lng": -85.50812, "zip_code": "49343"}
+{"locality": "Sand Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sand Lake"], "postal_code": "49343", "lat": 43.291089, "lng": -85.50812, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}, {"fips": "117", "name": "Montcalm"}, {"fips": "123", "name": "Newaygo"}]}

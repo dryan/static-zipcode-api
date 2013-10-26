@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.932052, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Marietta", "lng": -84.54746, "zip_code": "30060"});
+zipapicallback({"locality": "Marietta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Marietta"], "postal_code": "30060", "lat": 33.932052, "lng": -84.54746, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cobb"}, {"fips": "135", "name": "Gwinnett"}]});

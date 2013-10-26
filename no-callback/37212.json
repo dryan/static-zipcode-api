@@ -1,1 +1,1 @@
-{"lat": 36.133251, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Nashville", "lng": -86.80057, "zip_code": "37212"}
+{"locality": "Nashville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Nashville"], "postal_code": "37212", "lat": 36.133251, "lng": -86.80057, "type": "STANDARD", "counties": [{"fips": "037", "name": "Davidson"}]}

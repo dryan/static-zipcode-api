@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.850549, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Spokane", "lng": -93.30942, "zip_code": "65754"});
+zipapicallback({"locality": "Spokane", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Spokane"], "postal_code": "65754", "lat": 36.850549, "lng": -93.30942, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "209", "name": "Stone"}]});

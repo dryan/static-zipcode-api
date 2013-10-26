@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.893439, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gallatin", "lng": -95.15272, "zip_code": "75764"});
+zipapicallback({"locality": "Gallatin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gallatin"], "postal_code": "75764", "lat": 31.893439, "lng": -95.15272, "type": "POBOX", "counties": [{"fips": "073", "name": "Cherokee"}]});

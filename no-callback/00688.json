@@ -1,1 +1,1 @@
-{"lat": 18.40415, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Sabana Hoyos", "lng": -66.61348, "zip_code": "00688"}
+{"locality": "Sabana Hoyos", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Sabana Hoyos"], "postal_code": "00688", "lat": 18.40415, "lng": -66.61348, "type": "STANDARD", "counties": []}

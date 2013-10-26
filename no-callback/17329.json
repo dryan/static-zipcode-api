@@ -1,1 +1,1 @@
-{"lat": 39.759126, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brodbecks", "lng": -76.85248, "zip_code": "17329"}
+{"locality": "Glenville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brodbecks", "Glenville"], "postal_code": "17329", "lat": 39.759126, "lng": -76.85248, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

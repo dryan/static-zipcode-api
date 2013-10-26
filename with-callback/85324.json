@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.10865, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Rock Springs", "lng": -112.10088, "zip_code": "85324"});
+zipapicallback({"locality": "Black Canyon City", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Black Canyon City", "Black Cyn Cty", "Rock Springs"], "postal_code": "85324", "lat": 34.10865, "lng": -112.10088, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

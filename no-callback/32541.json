@@ -1,1 +1,1 @@
-{"lat": 30.391795, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sandestin", "lng": -86.4338, "zip_code": "32541"}
+{"locality": "Destin", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Destin"], "postal_code": "32541", "lat": 30.391795, "lng": -86.4338, "type": "STANDARD", "counties": [{"fips": "091", "name": "Okaloosa"}, {"fips": "131", "name": "Walton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.232525, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Naf", "lng": -113.35296, "zip_code": "83342"});
+zipapicallback({"locality": "Malta", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Elba", "Malta"], "postal_code": "83342", "lat": 42.232525, "lng": -113.35296, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cassia"}]});

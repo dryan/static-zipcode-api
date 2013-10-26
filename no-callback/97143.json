@@ -1,1 +1,1 @@
-{"lat": 45.438112, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Netarts", "lng": -123.9483, "zip_code": "97143"}
+{"locality": "Netarts", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Netarts", "Netarts Bay"], "postal_code": "97143", "lat": 45.438112, "lng": -123.9483, "type": "POBOX", "counties": [{"fips": "057", "name": "Tillamook"}]}

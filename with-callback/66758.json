@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.005429, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Neosho Falls", "lng": -95.56976, "zip_code": "66758"});
+zipapicallback({"locality": "Neosho Falls", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Neosho Falls"], "postal_code": "66758", "lat": 38.005429, "lng": -95.56976, "type": "STANDARD", "counties": [{"fips": "207", "name": "Woodson"}, {"fips": "031", "name": "Coffey"}, {"fips": "003", "name": "Anderson"}, {"fips": "001", "name": "Allen"}]});

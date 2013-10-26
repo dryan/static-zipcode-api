@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.072675, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rhome", "lng": -97.473, "zip_code": "76078"});
+zipapicallback({"locality": "Rhome", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Aurora", "Rhome"], "postal_code": "76078", "lat": 33.072675, "lng": -97.473, "type": "STANDARD", "counties": [{"fips": "497", "name": "Wise"}]});

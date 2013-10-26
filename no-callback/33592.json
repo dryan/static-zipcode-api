@@ -1,1 +1,1 @@
-{"lat": 28.077843, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Thonotosassa", "lng": -82.29837, "zip_code": "33592"}
+{"locality": "Thonotosassa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Thonotosassa"], "postal_code": "33592", "lat": 28.077843, "lng": -82.29837, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

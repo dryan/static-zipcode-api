@@ -1,1 +1,1 @@
-{"lat": 39.011909, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sterling", "lng": -77.39295, "zip_code": "20164"}
+{"locality": "Sterling", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sterling"], "postal_code": "20164", "lat": 39.011909, "lng": -77.39295, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 39.39905, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Newburg", "lng": -79.82996, "zip_code": "26410"}
+{"locality": "Newburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Newburg"], "postal_code": "26410", "lat": 39.39905, "lng": -79.82996, "type": "STANDARD", "counties": [{"fips": "077", "name": "Preston"}]}

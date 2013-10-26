@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.822234, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Coaldale", "lng": -75.91011, "zip_code": "18218"});
+zipapicallback({"locality": "Coaldale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coaldale"], "postal_code": "18218", "lat": 40.822234, "lng": -75.91011, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

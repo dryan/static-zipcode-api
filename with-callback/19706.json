@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.573744, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Delaware City", "lng": -75.59204, "zip_code": "19706"});
+zipapicallback({"locality": "Delaware City", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Delaware City"], "postal_code": "19706", "lat": 39.573744, "lng": -75.59204, "type": "POBOX", "counties": [{"fips": "003", "name": "New Castle"}]});

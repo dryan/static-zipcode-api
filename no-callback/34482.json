@@ -1,1 +1,1 @@
-{"lat": 29.232873, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ocala", "lng": -82.2522, "zip_code": "34482"}
+{"locality": "Ocala", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ocala"], "postal_code": "34482", "lat": 29.232873, "lng": -82.2522, "type": "STANDARD", "counties": []}

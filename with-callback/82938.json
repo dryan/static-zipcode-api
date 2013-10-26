@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.181959, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Mc Kinnon", "lng": -109.48709, "zip_code": "82938"});
+zipapicallback({"locality": "Mc Kinnon", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Green River", "Mc Kinnon"], "postal_code": "82938", "lat": 41.181959, "lng": -109.48709, "type": "POBOX", "counties": [{"fips": "037", "name": "Sweetwater"}]});

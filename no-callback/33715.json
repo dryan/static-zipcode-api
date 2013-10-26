@@ -1,1 +1,1 @@
-{"lat": 27.68301, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tierra Verde", "lng": -82.72096, "zip_code": "33715"}
+{"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Petersburg", "St Petersburg", "Tierra Verde"], "postal_code": "33715", "lat": 27.68301, "lng": -82.72096, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.492811, "region": {"abbr": "CA", "name": "California"}, "locality": "Rancho Murieta", "lng": -121.10036, "zip_code": "95683"}
+{"locality": "Sloughhouse", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rancho Murieta", "Rncho Murieta", "Sloughhouse"], "postal_code": "95683", "lat": 38.492811, "lng": -121.10036, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

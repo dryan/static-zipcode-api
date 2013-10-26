@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.575173, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bonnots Mill", "lng": -91.90722, "zip_code": "65016"});
+zipapicallback({"locality": "Bonnots Mill", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bonnots Mill"], "postal_code": "65016", "lat": 38.575173, "lng": -91.90722, "type": "STANDARD", "counties": [{"fips": "151", "name": "Osage"}]});

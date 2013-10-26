@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.432156, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Superior", "lng": -94.94569, "zip_code": "51363"});
+zipapicallback({"locality": "Superior", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Superior"], "postal_code": "51363", "lat": 43.432156, "lng": -94.94569, "type": "POBOX", "counties": [{"fips": "059", "name": "Dickinson"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.163467, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Avera", "lng": -82.52017, "zip_code": "30803"}
+{"locality": "Avera", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Avera"], "postal_code": "30803", "lat": 33.163467, "lng": -82.52017, "type": "STANDARD", "counties": [{"fips": "163", "name": "Jefferson"}, {"fips": "125", "name": "Glascock"}]}

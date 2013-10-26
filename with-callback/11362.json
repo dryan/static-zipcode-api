@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.759686, "region": {"abbr": "NY", "name": "New York"}, "locality": "Little Neck", "lng": -73.73322, "zip_code": "11362"});
+zipapicallback({"locality": "Little Neck", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Douglaston", "Flushing", "Little Neck"], "postal_code": "11362", "lat": 40.759686, "lng": -73.73322, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]});

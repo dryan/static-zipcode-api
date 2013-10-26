@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.950979, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lascassas", "lng": -86.29596, "zip_code": "37085"});
+zipapicallback({"locality": "Lascassas", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lascassas"], "postal_code": "37085", "lat": 35.950979, "lng": -86.29596, "type": "STANDARD", "counties": [{"fips": "189", "name": "Wilson"}, {"fips": "149", "name": "Rutherford"}]});

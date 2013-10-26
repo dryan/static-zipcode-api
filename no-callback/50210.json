@@ -1,1 +1,1 @@
-{"lat": 41.193148, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "New Virginia", "lng": -93.71388, "zip_code": "50210"}
+{"locality": "New Virginia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["New Virginia"], "postal_code": "50210", "lat": 41.193148, "lng": -93.71388, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}, {"fips": "039", "name": "Clarke"}, {"fips": "121", "name": "Madison"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.611798, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Trenton", "lng": -89.67691, "zip_code": "62293"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Trenton"], "postal_code": "62293", "lat": 38.611798, "lng": -89.67691, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}, {"fips": "163", "name": "St Clair"}, {"fips": "119", "name": "Madison"}]});

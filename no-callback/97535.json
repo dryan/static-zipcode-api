@@ -1,1 +1,1 @@
-{"lat": 42.270808, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Phoenix", "lng": -122.81805, "zip_code": "97535"}
+{"locality": "Phoenix", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Phoenix"], "postal_code": "97535", "lat": 42.270808, "lng": -122.81805, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.011387, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Felton", "lng": -75.58978, "zip_code": "19943"});
+zipapicallback({"locality": "Felton", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Felton"], "postal_code": "19943", "lat": 39.011387, "lng": -75.58978, "type": "STANDARD", "counties": [{"fips": "001", "name": "Kent"}, {"fips": "005", "name": "Sussex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.699797, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Glidden", "lng": -96.59314, "zip_code": "78943"});
+zipapicallback({"locality": "Glidden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Glidden"], "postal_code": "78943", "lat": 29.699797, "lng": -96.59314, "type": "STANDARD", "counties": [{"fips": "089", "name": "Colorado"}]});

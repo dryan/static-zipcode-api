@@ -1,1 +1,1 @@
-{"lat": 35.409108, "region": {"abbr": "CA", "name": "California"}, "locality": "Randsburg", "lng": -117.69966, "zip_code": "93554"}
+{"locality": "Randsburg", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Johannesburg", "Randsburg"], "postal_code": "93554", "lat": 35.409108, "lng": -117.69966, "type": "POBOX", "counties": [{"fips": "029", "name": "Kern"}]}

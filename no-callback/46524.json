@@ -1,1 +1,1 @@
-{"lat": 41.291767, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Etna Green", "lng": -86.03216, "zip_code": "46524"}
+{"locality": "Etna Green", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Etna Green"], "postal_code": "46524", "lat": 41.291767, "lng": -86.03216, "type": "STANDARD", "counties": [{"fips": "085", "name": "Kosciusko"}]}

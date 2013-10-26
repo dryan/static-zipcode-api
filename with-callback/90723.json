@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.899915, "region": {"abbr": "CA", "name": "California"}, "locality": "Paramount", "lng": -118.16231, "zip_code": "90723"});
+zipapicallback({"locality": "Paramount", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Paramount"], "postal_code": "90723", "lat": 33.899915, "lng": -118.16231, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

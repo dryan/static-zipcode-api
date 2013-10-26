@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.641551, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lakehills", "lng": -98.93407, "zip_code": "78063"});
+zipapicallback({"locality": "Pipe Creek", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lakehills", "Pipe Creek"], "postal_code": "78063", "lat": 29.641551, "lng": -98.93407, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bandera"}]});

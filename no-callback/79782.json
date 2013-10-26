@@ -1,1 +1,1 @@
-{"lat": 32.09023, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Stanton", "lng": -101.81691, "zip_code": "79782"}
+{"locality": "Stanton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Stanton"], "postal_code": "79782", "lat": 32.09023, "lng": -101.81691, "type": "STANDARD", "counties": [{"fips": "317", "name": "Martin"}]}

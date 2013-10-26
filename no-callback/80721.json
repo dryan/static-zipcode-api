@@ -1,1 +1,1 @@
-{"lat": 40.681557, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Amherst", "lng": -102.16663, "zip_code": "80721"}
+{"locality": "Amherst", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Amherst"], "postal_code": "80721", "lat": 40.681557, "lng": -102.16663, "type": "STANDARD", "counties": [{"fips": "095", "name": "Phillips"}]}

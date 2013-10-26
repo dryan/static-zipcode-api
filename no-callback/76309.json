@@ -1,1 +1,1 @@
-{"lat": 33.892447, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wichita Falls", "lng": -98.53215, "zip_code": "76309"}
+{"locality": "Wichita Falls", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wichita Falls"], "postal_code": "76309", "lat": 33.892447, "lng": -98.53215, "type": "STANDARD", "counties": [{"fips": "485", "name": "Wichita"}]}

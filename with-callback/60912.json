@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.968579, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Beaverville", "lng": -87.61611, "zip_code": "60912"});
+zipapicallback({"locality": "Beaverville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Beaverville"], "postal_code": "60912", "lat": 40.968579, "lng": -87.61611, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}]});

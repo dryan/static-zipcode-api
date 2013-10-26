@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.087366, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Galesville", "lng": -91.35965, "zip_code": "54630"});
+zipapicallback({"locality": "Galesville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Galesville"], "postal_code": "54630", "lat": 44.087366, "lng": -91.35965, "type": "STANDARD", "counties": [{"fips": "121", "name": "Trempealeau"}]});

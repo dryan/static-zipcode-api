@@ -1,1 +1,1 @@
-{"lat": 36.534729, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Blountville", "lng": -82.37229, "zip_code": "37617"}
+{"locality": "Blountville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Blountville"], "postal_code": "37617", "lat": 36.534729, "lng": -82.37229, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sullivan"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.52489, "region": {"abbr": "CA", "name": "California"}, "locality": "Moss Beach", "lng": -122.50991, "zip_code": "94038"}
+{"locality": "Moss Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Moss Beach"], "postal_code": "94038", "lat": 37.52489, "lng": -122.50991, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.310206, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Emigrant", "lng": -110.8895, "zip_code": "59027"});
+zipapicallback({"locality": "Emigrant", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Emigrant"], "postal_code": "59027", "lat": 45.310206, "lng": -110.8895, "type": "STANDARD", "counties": [{"fips": "067", "name": "Park"}]});

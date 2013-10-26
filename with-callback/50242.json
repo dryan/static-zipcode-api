@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.56512, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Searsboro", "lng": -92.69484, "zip_code": "50242"});
+zipapicallback({"locality": "Searsboro", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Searsboro"], "postal_code": "50242", "lat": 41.56512, "lng": -92.69484, "type": "STANDARD", "counties": [{"fips": "157", "name": "Poweshiek"}]});

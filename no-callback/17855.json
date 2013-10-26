@@ -1,1 +1,1 @@
-{"lat": 40.880509, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Berlin", "lng": -76.985, "zip_code": "17855"}
+{"locality": "New Berlin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Berlin"], "postal_code": "17855", "lat": 40.880509, "lng": -76.985, "type": "STANDARD", "counties": [{"fips": "119", "name": "Union"}]}

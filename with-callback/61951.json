@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.582494, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sullivan", "lng": -88.6021, "zip_code": "61951"});
+zipapicallback({"locality": "Sullivan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Allenville", "Kirksville", "Sullivan"], "postal_code": "61951", "lat": 39.582494, "lng": -88.6021, "type": "STANDARD", "counties": [{"fips": "139", "name": "Moultrie"}, {"fips": "019", "name": "Champaign"}]});

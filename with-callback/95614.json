@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.880294, "region": {"abbr": "CA", "name": "California"}, "locality": "Cool", "lng": -120.97426, "zip_code": "95614"});
+zipapicallback({"locality": "Cool", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cool"], "postal_code": "95614", "lat": 38.880294, "lng": -120.97426, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]});

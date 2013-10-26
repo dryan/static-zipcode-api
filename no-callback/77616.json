@@ -1,1 +1,1 @@
-{"lat": 30.564151, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fred", "lng": -94.2076, "zip_code": "77616"}
+{"locality": "Fred", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fred"], "postal_code": "77616", "lat": 30.564151, "lng": -94.2076, "type": "STANDARD", "counties": [{"fips": "457", "name": "Tyler"}]}

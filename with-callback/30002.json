@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.772122, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Avondale Estates", "lng": -84.26491, "zip_code": "30002"});
+zipapicallback({"locality": "Avondale Estates", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Avondale Est", "Avondale Estates"], "postal_code": "30002", "lat": 33.772122, "lng": -84.26491, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}]});

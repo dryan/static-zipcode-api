@@ -1,1 +1,1 @@
-{"lat": 33.909952, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Norcross", "lng": -84.1794, "zip_code": "30093"}
+{"locality": "Norcross", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Norcross"], "postal_code": "30093", "lat": 33.909952, "lng": -84.1794, "type": "STANDARD", "counties": [{"fips": "135", "name": "Gwinnett"}]}

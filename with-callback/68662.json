@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.184669, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Shelby", "lng": -97.41634, "zip_code": "68662"});
+zipapicallback({"locality": "Shelby", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Shelby"], "postal_code": "68662", "lat": 41.184669, "lng": -97.41634, "type": "STANDARD", "counties": [{"fips": "143", "name": "Polk"}, {"fips": "023", "name": "Butler"}]});

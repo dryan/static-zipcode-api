@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.329768, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "South Charleston", "lng": -81.73418, "zip_code": "25309"});
+zipapicallback({"locality": "Charleston", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Charleston", "S Charleston", "South Charleston"], "postal_code": "25309", "lat": 38.329768, "lng": -81.73418, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]});

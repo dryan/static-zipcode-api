@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.077791, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "New Meadows", "lng": -116.34335, "zip_code": "83654"});
+zipapicallback({"locality": "New Meadows", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["New Meadows"], "postal_code": "83654", "lat": 45.077791, "lng": -116.34335, "type": "STANDARD", "counties": [{"fips": "003", "name": "Adams"}, {"fips": "049", "name": "Idaho"}]});

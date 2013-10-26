@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.59483, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Paint Lick", "lng": -84.40789, "zip_code": "40461"});
+zipapicallback({"locality": "Paint Lick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Paint Lick"], "postal_code": "40461", "lat": 37.59483, "lng": -84.40789, "type": "STANDARD", "counties": [{"fips": "079", "name": "Garrard"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.639682, "region": {"abbr": "CA", "name": "California"}, "locality": "Lompoc", "lng": -120.4471, "zip_code": "93436"}
+{"locality": "Lompoc", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lompoc"], "postal_code": "93436", "lat": 34.639682, "lng": -120.4471, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.610463, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Caulfield", "lng": -92.14245, "zip_code": "65626"});
+zipapicallback({"locality": "Caulfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Caulfield"], "postal_code": "65626", "lat": 36.610463, "lng": -92.14245, "type": "STANDARD", "counties": [{"fips": "091", "name": "Howell"}, {"fips": "153", "name": "Ozark"}]});

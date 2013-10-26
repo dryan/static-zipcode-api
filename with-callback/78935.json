@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.698797, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alleyton", "lng": -96.45594, "zip_code": "78935"});
+zipapicallback({"locality": "Alleyton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alleyton"], "postal_code": "78935", "lat": 29.698797, "lng": -96.45594, "type": "STANDARD", "counties": [{"fips": "089", "name": "Colorado"}]});

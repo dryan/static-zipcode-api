@@ -1,1 +1,1 @@
-{"lat": 37.459433, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Peck", "lng": -97.3804, "zip_code": "67120"}
+{"locality": "Peck", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Peck"], "postal_code": "67120", "lat": 37.459433, "lng": -97.3804, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "191", "name": "Sumner"}]}

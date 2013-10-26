@@ -1,1 +1,1 @@
-{"lat": 39.148692, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Elbert", "lng": -104.5635, "zip_code": "80106"}
+{"locality": "Elbert", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Elbert"], "postal_code": "80106", "lat": 39.148692, "lng": -104.5635, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elbert"}, {"fips": "035", "name": "Douglas"}, {"fips": "041", "name": "El Paso"}]}

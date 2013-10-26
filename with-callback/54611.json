@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.44202, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Alma Center", "lng": -90.93859, "zip_code": "54611"});
+zipapicallback({"locality": "Alma Center", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Alma Center"], "postal_code": "54611", "lat": 44.44202, "lng": -90.93859, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jackson"}]});

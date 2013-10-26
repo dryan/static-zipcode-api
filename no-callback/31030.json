@@ -1,1 +1,1 @@
-{"lat": 32.55568, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Fort Valley", "lng": -83.88641, "zip_code": "31030"}
+{"locality": "Fort Valley", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Fort Valley"], "postal_code": "31030", "lat": 32.55568, "lng": -83.88641, "type": "STANDARD", "counties": [{"fips": "225", "name": "Peach"}, {"fips": "193", "name": "MacOn"}, {"fips": "079", "name": "Crawford"}, {"fips": "025", "name": "Brantley"}, {"fips": "153", "name": "Houston"}]}

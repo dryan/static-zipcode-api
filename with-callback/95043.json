@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.504586, "region": {"abbr": "CA", "name": "California"}, "locality": "Paicines", "lng": -121.01515, "zip_code": "95043"});
+zipapicallback({"locality": "Paicines", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Paicines"], "postal_code": "95043", "lat": 36.504586, "lng": -121.01515, "type": "STANDARD", "counties": [{"fips": "069", "name": "San Benito"}]});

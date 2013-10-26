@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.497298, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ranger", "lng": -98.67402, "zip_code": "76470"});
+zipapicallback({"locality": "Ranger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ranger"], "postal_code": "76470", "lat": 32.497298, "lng": -98.67402, "type": "STANDARD", "counties": [{"fips": "133", "name": "Eastland"}, {"fips": "429", "name": "Stephens"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.411923, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Patoka", "lng": -87.58462, "zip_code": "47666"});
+zipapicallback({"locality": "Patoka", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Patoka"], "postal_code": "47666", "lat": 38.411923, "lng": -87.58462, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]});

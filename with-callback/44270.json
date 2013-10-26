@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.971727, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rittman", "lng": -81.77938, "zip_code": "44270"});
+zipapicallback({"locality": "Rittman", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rittman"], "postal_code": "44270", "lat": 40.971727, "lng": -81.77938, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}, {"fips": "103", "name": "Medina"}]});

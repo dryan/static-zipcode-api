@@ -1,1 +1,1 @@
-{"lat": 48.525132, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Rudyard", "lng": -110.54993, "zip_code": "59540"}
+{"locality": "Rudyard", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Rudyard"], "postal_code": "59540", "lat": 48.525132, "lng": -110.54993, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hill"}]}

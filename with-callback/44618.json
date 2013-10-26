@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.787827, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dalton", "lng": -81.68623, "zip_code": "44618"});
+zipapicallback({"locality": "Dalton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dalton"], "postal_code": "44618", "lat": 40.787827, "lng": -81.68623, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}, {"fips": "151", "name": "Stark"}]});

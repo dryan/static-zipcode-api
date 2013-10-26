@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.072189, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Shook", "lng": -90.30884, "zip_code": "63963"});
+zipapicallback({"locality": "Shook", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Shook"], "postal_code": "63963", "lat": 37.072189, "lng": -90.30884, "type": "STANDARD", "counties": [{"fips": "223", "name": "Wayne"}]});

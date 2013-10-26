@@ -1,1 +1,1 @@
-{"lat": 34.598551, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Shannon Hills", "lng": -92.38169, "zip_code": "72103"}
+{"locality": "Mabelvale", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mabelvale", "Shannon Hills"], "postal_code": "72103", "lat": 34.598551, "lng": -92.38169, "type": "STANDARD", "counties": [{"fips": "119", "name": "Pulaski"}, {"fips": "125", "name": "Saline"}]}

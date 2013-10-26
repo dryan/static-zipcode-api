@@ -1,1 +1,1 @@
-{"lat": 29.356455, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Castroville", "lng": -98.88062, "zip_code": "78009"}
+{"locality": "Castroville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Castroville"], "postal_code": "78009", "lat": 29.356455, "lng": -98.88062, "type": "STANDARD", "counties": [{"fips": "325", "name": "Medina"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.616309, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Dawn", "lng": -93.62076, "zip_code": "64638"});
+zipapicallback({"locality": "Dawn", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dawn"], "postal_code": "64638", "lat": 39.616309, "lng": -93.62076, "type": "STANDARD", "counties": [{"fips": "117", "name": "Livingston"}, {"fips": "033", "name": "Carroll"}]});

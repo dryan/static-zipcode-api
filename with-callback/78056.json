@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.54825, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mico", "lng": -98.90353, "zip_code": "78056"});
+zipapicallback({"locality": "Mico", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Castroville", "Mico"], "postal_code": "78056", "lat": 29.54825, "lng": -98.90353, "type": "STANDARD", "counties": [{"fips": "325", "name": "Medina"}]});

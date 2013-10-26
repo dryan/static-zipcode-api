@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.683274, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grayling", "lng": -84.6253, "zip_code": "49738"});
+zipapicallback({"locality": "Grayling", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grayling"], "postal_code": "49738", "lat": 44.683274, "lng": -84.6253, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}, {"fips": "079", "name": "Kalkaska"}, {"fips": "137", "name": "Otsego"}]});

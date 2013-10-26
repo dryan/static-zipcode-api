@@ -1,1 +1,1 @@
-{"lat": 40.941585, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Weston", "lng": -76.13916, "zip_code": "18256"}
+{"locality": "Weston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Weston"], "postal_code": "18256", "lat": 40.941585, "lng": -76.13916, "type": "POBOX", "counties": [{"fips": "079", "name": "Luzerne"}]}

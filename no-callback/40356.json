@@ -1,1 +1,1 @@
-{"lat": 37.883886, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Nicholasville", "lng": -84.571, "zip_code": "40356"}
+{"locality": "Nicholasville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Nicholasville"], "postal_code": "40356", "lat": 37.883886, "lng": -84.571, "type": "STANDARD", "counties": [{"fips": "113", "name": "Jessamine"}]}

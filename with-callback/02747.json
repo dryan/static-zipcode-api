@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.637916, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Dartmouth", "lng": -70.99076, "zip_code": "02747"});
+zipapicallback({"locality": "North Dartmouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Dartmouth", "N Dartmouth", "North Dartmouth"], "postal_code": "02747", "lat": 41.637916, "lng": -70.99076, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}, {"fips": "001", "name": "Barnstable"}]});

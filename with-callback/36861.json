@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.862333, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jacksons Gap", "lng": -85.84588, "zip_code": "36861"});
+zipapicallback({"locality": "Jacksons Gap", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jacksons Gap"], "postal_code": "36861", "lat": 32.862333, "lng": -85.84588, "type": "STANDARD", "counties": [{"fips": "123", "name": "Tallapoosa"}, {"fips": "087", "name": "MacOn"}]});

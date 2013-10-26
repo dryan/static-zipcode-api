@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.149003, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bandana", "lng": -88.94252, "zip_code": "42022"});
+zipapicallback({"locality": "Bandana", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bandana"], "postal_code": "42022", "lat": 37.149003, "lng": -88.94252, "type": "POBOX", "counties": [{"fips": "007", "name": "Ballard"}]});

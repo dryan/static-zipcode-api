@@ -1,1 +1,1 @@
-{"lat": 42.836636, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Havelock", "lng": -94.70587, "zip_code": "50546"}
+{"locality": "Havelock", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Havelock"], "postal_code": "50546", "lat": 42.836636, "lng": -94.70587, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pocahontas"}]}

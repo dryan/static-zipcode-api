@@ -1,1 +1,1 @@
-{"lat": 35.176466, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bayboro", "lng": -76.71853, "zip_code": "28515"}
+{"locality": "Bayboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bayboro", "Mesic"], "postal_code": "28515", "lat": 35.176466, "lng": -76.71853, "type": "STANDARD", "counties": [{"fips": "137", "name": "Pamlico"}]}

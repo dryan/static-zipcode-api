@@ -1,1 +1,1 @@
-{"lat": 40.630894, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bairdford", "lng": -79.88057, "zip_code": "15006"}
+{"locality": "Bairdford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bairdford"], "postal_code": "15006", "lat": 40.630894, "lng": -79.88057, "type": "POBOX", "counties": [{"fips": "003", "name": "Allegheny"}]}

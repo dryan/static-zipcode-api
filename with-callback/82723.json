@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.992349, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Osage", "lng": -104.45121, "zip_code": "82723"});
+zipapicallback({"locality": "Osage", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Osage"], "postal_code": "82723", "lat": 43.992349, "lng": -104.45121, "type": "STANDARD", "counties": [{"fips": "045", "name": "Weston"}]});

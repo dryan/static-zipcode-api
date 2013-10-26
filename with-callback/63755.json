@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.413716, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jackson", "lng": -89.65428, "zip_code": "63755"});
+zipapicallback({"locality": "Jackson", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Jackson"], "postal_code": "63755", "lat": 37.413716, "lng": -89.65428, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cape Girardeau"}]});

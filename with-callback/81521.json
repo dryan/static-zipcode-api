@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.159971, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fruita", "lng": -108.72071, "zip_code": "81521"});
+zipapicallback({"locality": "Fruita", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fruita"], "postal_code": "81521", "lat": 39.159971, "lng": -108.72071, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]});

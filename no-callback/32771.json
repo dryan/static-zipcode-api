@@ -1,1 +1,1 @@
-{"lat": 28.803979, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sanford", "lng": -81.28761, "zip_code": "32771"}
+{"locality": "Sanford", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sanford"], "postal_code": "32771", "lat": 28.803979, "lng": -81.28761, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

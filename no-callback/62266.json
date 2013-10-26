@@ -1,1 +1,1 @@
-{"lat": 38.478, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Memphis", "lng": -89.67869, "zip_code": "62266"}
+{"locality": "New Memphis", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Memphis"], "postal_code": "62266", "lat": 38.478, "lng": -89.67869, "type": "POBOX", "counties": [{"fips": "027", "name": "Clinton"}]}

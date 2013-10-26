@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.286915, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Hodges", "lng": -82.23672, "zip_code": "29653"});
+zipapicallback({"locality": "Hodges", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Hodges"], "postal_code": "29653", "lat": 34.286915, "lng": -82.23672, "type": "STANDARD", "counties": [{"fips": "047", "name": "Greenwood"}, {"fips": "001", "name": "Abbeville"}]});

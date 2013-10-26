@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.441629, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Bloomfield", "lng": -104.86652, "zip_code": "59315"});
+zipapicallback({"locality": "Bloomfield", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Bloomfield"], "postal_code": "59315", "lat": 47.441629, "lng": -104.86652, "type": "STANDARD", "counties": [{"fips": "021", "name": "Dawson"}]});

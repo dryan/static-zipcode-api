@@ -1,1 +1,1 @@
-{"lat": 39.621481, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Malta", "lng": -81.91737, "zip_code": "43758"}
+{"locality": "Malta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Malta"], "postal_code": "43758", "lat": 39.621481, "lng": -81.91737, "type": "STANDARD", "counties": [{"fips": "115", "name": "Morgan"}, {"fips": "127", "name": "Perry"}]}

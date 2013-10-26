@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.298254, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Talkeetna", "lng": -149.87542, "zip_code": "99676"});
+zipapicallback({"locality": "Talkeetna", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Talkeetna"], "postal_code": "99676", "lat": 62.298254, "lng": -149.87542, "type": "STANDARD", "counties": [{"fips": "170", "name": "Matanuska-Susitna"}]});

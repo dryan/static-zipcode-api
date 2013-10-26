@@ -1,1 +1,1 @@
-{"lat": 39.434856, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Scherr", "lng": -78.95987, "zip_code": "26726"}
+{"locality": "Keyser", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Keyser", "Scherr", "Short Gap"], "postal_code": "26726", "lat": 39.434856, "lng": -78.95987, "type": "STANDARD", "counties": [{"fips": "057", "name": "Mineral"}, {"fips": "001", "name": "Barbour"}, {"fips": "023", "name": "Grant"}]}

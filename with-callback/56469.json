@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.702947, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Palisade", "lng": -93.5203, "zip_code": "56469"});
+zipapicallback({"locality": "Palisade", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Palisade"], "postal_code": "56469", "lat": 46.702947, "lng": -93.5203, "type": "STANDARD", "counties": [{"fips": "001", "name": "Aitkin"}]});

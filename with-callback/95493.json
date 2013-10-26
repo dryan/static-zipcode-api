@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.19607, "region": {"abbr": "CA", "name": "California"}, "locality": "Witter Springs", "lng": -122.96649, "zip_code": "95493"});
+zipapicallback({"locality": "Witter Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Upper Lake", "Witter Spgs", "Witter Springs"], "postal_code": "95493", "lat": 39.19607, "lng": -122.96649, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

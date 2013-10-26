@@ -1,1 +1,1 @@
-{"lat": 30.431283, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tallahassee", "lng": -84.26903, "zip_code": "32301"}
+{"locality": "Tallahassee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Tallahassee"], "postal_code": "32301", "lat": 30.431283, "lng": -84.26903, "type": "STANDARD", "counties": [{"fips": "073", "name": "Leon"}, {"fips": "129", "name": "Wakulla"}, {"fips": "065", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.417871, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Las Cruces", "lng": -106.6977, "zip_code": "88012"}
+{"locality": "Las Cruces", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Las Cruces"], "postal_code": "88012", "lat": 32.417871, "lng": -106.6977, "type": "STANDARD", "counties": []}

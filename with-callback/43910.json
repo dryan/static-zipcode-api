@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.361891, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bloomingdale", "lng": -80.81953, "zip_code": "43910"});
+zipapicallback({"locality": "Bloomingdale", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bloomingdale", "Unionport"], "postal_code": "43910", "lat": 40.361891, "lng": -80.81953, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.881628, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "New Florence", "lng": -91.44852, "zip_code": "63363"});
+zipapicallback({"locality": "New Florence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Florence"], "postal_code": "63363", "lat": 38.881628, "lng": -91.44852, "type": "STANDARD", "counties": [{"fips": "139", "name": "Montgomery"}]});

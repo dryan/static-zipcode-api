@@ -1,1 +1,1 @@
-{"lat": 33.963228, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Electra", "lng": -98.97235, "zip_code": "76360"}
+{"locality": "Electra", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Electra"], "postal_code": "76360", "lat": 33.963228, "lng": -98.97235, "type": "STANDARD", "counties": [{"fips": "485", "name": "Wichita"}, {"fips": "009", "name": "Archer"}, {"fips": "487", "name": "Wilbarger"}]}

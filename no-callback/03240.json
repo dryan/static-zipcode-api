@@ -1,1 +1,1 @@
-{"lat": 43.568328, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Grafton", "lng": -71.96422, "zip_code": "03240"}
+{"locality": "Grafton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Grafton"], "postal_code": "03240", "lat": 43.568328, "lng": -71.96422, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]}

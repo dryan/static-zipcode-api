@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.301561, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carrollton", "lng": -90.41674, "zip_code": "62016"});
+zipapicallback({"locality": "Carrollton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carrollton"], "postal_code": "62016", "lat": 39.301561, "lng": -90.41674, "type": "STANDARD", "counties": [{"fips": "061", "name": "Greene"}]});

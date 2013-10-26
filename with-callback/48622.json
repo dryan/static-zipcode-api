@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.840787, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Farwell", "lng": -84.86734, "zip_code": "48622"});
+zipapicallback({"locality": "Farwell", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Farwell"], "postal_code": "48622", "lat": 43.840787, "lng": -84.86734, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clare"}, {"fips": "073", "name": "Isabella"}]});

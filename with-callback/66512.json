@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.201628, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Meriden", "lng": -95.55387, "zip_code": "66512"});
+zipapicallback({"locality": "Meriden", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Meriden"], "postal_code": "66512", "lat": 39.201628, "lng": -95.55387, "type": "STANDARD", "counties": [{"fips": "087", "name": "Jefferson"}, {"fips": "085", "name": "Jackson"}]});

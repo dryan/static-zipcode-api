@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.539036, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Red Wing", "lng": -92.53637, "zip_code": "55066"});
+zipapicallback({"locality": "Red Wing", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Red Wing"], "postal_code": "55066", "lat": 44.539036, "lng": -92.53637, "type": "STANDARD", "counties": [{"fips": "049", "name": "Goodhue"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.848603, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Riverside", "lng": -95.39644, "zip_code": "77367"});
+zipapicallback({"locality": "Riverside", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Riverside"], "postal_code": "77367", "lat": 30.848603, "lng": -95.39644, "type": "POBOX", "counties": [{"fips": "471", "name": "Walker"}]});

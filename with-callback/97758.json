@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.547855, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Riley", "lng": -119.54235, "zip_code": "97758"});
+zipapicallback({"locality": "Riley", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Riley"], "postal_code": "97758", "lat": 43.547855, "lng": -119.54235, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harney"}]});

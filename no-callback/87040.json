@@ -1,1 +1,1 @@
-{"lat": 35.132004, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Paguate", "lng": -107.36564, "zip_code": "87040"}
+{"locality": "Paguate", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Paguate"], "postal_code": "87040", "lat": 35.132004, "lng": -107.36564, "type": "POBOX", "counties": [{"fips": "006", "name": "Cibola"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.864757, "region": {"abbr": "NY", "name": "New York"}, "locality": "Glen Cove", "lng": -73.62609, "zip_code": "11542"}
+{"locality": "Glen Cove", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glen Cove"], "postal_code": "11542", "lat": 40.864757, "lng": -73.62609, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}, {"fips": "103", "name": "Suffolk"}]}

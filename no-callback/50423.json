@@ -1,1 +1,1 @@
-{"lat": 43.104076, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Britt", "lng": -93.8041, "zip_code": "50423"}
+{"locality": "Britt", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Britt"], "postal_code": "50423", "lat": 43.104076, "lng": -93.8041, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]}

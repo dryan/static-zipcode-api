@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.321917, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Northborough", "lng": -71.64692, "zip_code": "01532"});
+zipapicallback({"locality": "Northborough", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Northborough"], "postal_code": "01532", "lat": 42.321917, "lng": -71.64692, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

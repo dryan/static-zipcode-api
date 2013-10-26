@@ -1,1 +1,1 @@
-{"lat": 33.821318, "region": {"abbr": "CA", "name": "California"}, "locality": "Thousand Palms", "lng": -116.38023, "zip_code": "92276"}
+{"locality": "Thousand Palms", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Thousand Palms", "Thousand Plms"], "postal_code": "92276", "lat": 33.821318, "lng": -116.38023, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

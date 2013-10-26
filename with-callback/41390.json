@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.424083, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Whick", "lng": -83.37595, "zip_code": "41390"});
+zipapicallback({"locality": "Whick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Whick"], "postal_code": "41390", "lat": 37.424083, "lng": -83.37595, "type": "STANDARD", "counties": [{"fips": "025", "name": "Breathitt"}]});

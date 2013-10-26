@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.472881, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Beachwood", "lng": -81.52209, "zip_code": "44122"});
+zipapicallback({"locality": "Beachwood", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Beachwood", "Cleveland", "Highland Hills", "Highland Hls", "Shaker Heights", "Shaker Hts", "University Heights", "University Ht", "Warrensville Heights", "Warrensvl Hts", "Woodmere"], "postal_code": "44122", "lat": 41.472881, "lng": -81.52209, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

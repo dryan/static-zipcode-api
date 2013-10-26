@@ -1,1 +1,1 @@
-{"lat": 39.301647, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Doubs", "lng": -77.46667, "zip_code": "21710"}
+{"locality": "Adamstown", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Adamstown", "Doubs"], "postal_code": "21710", "lat": 39.301647, "lng": -77.46667, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]}

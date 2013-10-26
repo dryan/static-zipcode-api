@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.166845, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Waldo", "lng": -98.79762, "zip_code": "67673"});
+zipapicallback({"locality": "Waldo", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Waldo"], "postal_code": "67673", "lat": 39.166845, "lng": -98.79762, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}, {"fips": "141", "name": "Osborne"}]});

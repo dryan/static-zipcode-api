@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.753414, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Proctor", "lng": -92.24355, "zip_code": "55810"});
+zipapicallback({"locality": "Duluth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Duluth", "Hermantown", "Proctor"], "postal_code": "55810", "lat": 46.753414, "lng": -92.24355, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "017", "name": "Carlton"}]});

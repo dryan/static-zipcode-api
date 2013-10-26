@@ -1,1 +1,1 @@
-{"lat": 31.73003, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Early", "lng": -99.00605, "zip_code": "76801"}
+{"locality": "Brownwood", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brownwood"], "postal_code": "76801", "lat": 31.73003, "lng": -99.00605, "type": "STANDARD", "counties": [{"fips": "049", "name": "Brown"}, {"fips": "083", "name": "Coleman"}, {"fips": "333", "name": "Mills"}]}

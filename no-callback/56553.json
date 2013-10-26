@@ -1,1 +1,1 @@
-{"lat": 46.434718, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kent", "lng": -96.62429, "zip_code": "56553"}
+{"locality": "Kent", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kent"], "postal_code": "56553", "lat": 46.434718, "lng": -96.62429, "type": "STANDARD", "counties": [{"fips": "167", "name": "Wilkin"}]}

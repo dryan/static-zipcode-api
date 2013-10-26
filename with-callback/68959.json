@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.491484, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Minden", "lng": -98.92412, "zip_code": "68959"});
+zipapicallback({"locality": "Minden", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Minden", "Norman"], "postal_code": "68959", "lat": 40.491484, "lng": -98.92412, "type": "STANDARD", "counties": [{"fips": "099", "name": "Kearney"}]});

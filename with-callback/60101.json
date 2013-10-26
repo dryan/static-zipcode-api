@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.931573, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Addison", "lng": -88.00222, "zip_code": "60101"});
+zipapicallback({"locality": "Addison", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Addison"], "postal_code": "60101", "lat": 41.931573, "lng": -88.00222, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}]});

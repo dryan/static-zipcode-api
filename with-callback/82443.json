@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.694009, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Grass Creek", "lng": -108.31942, "zip_code": "82443"});
+zipapicallback({"locality": "Thermopolis", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Hamilton Dome", "Thermopolis"], "postal_code": "82443", "lat": 43.694009, "lng": -108.31942, "type": "STANDARD", "counties": [{"fips": "017", "name": "Hot Springs"}, {"fips": "029", "name": "Park"}]});

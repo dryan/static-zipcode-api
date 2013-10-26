@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.238825, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Churubusco", "lng": -85.32693, "zip_code": "46723"});
+zipapicallback({"locality": "Churubusco", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Churubusco"], "postal_code": "46723", "lat": 41.238825, "lng": -85.32693, "type": "STANDARD", "counties": [{"fips": "183", "name": "Whitley"}, {"fips": "003", "name": "Allen"}, {"fips": "113", "name": "Noble"}]});

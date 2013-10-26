@@ -1,1 +1,1 @@
-{"lat": 42.479471, "region": {"abbr": "NY", "name": "New York"}, "locality": "Van Buren Bay", "lng": -79.32805, "zip_code": "14048"}
+{"locality": "Dunkirk", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dunkirk", "Van Buren Bay"], "postal_code": "14048", "lat": 42.479471, "lng": -79.32805, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]}

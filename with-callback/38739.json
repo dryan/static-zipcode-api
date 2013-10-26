@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.060111, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Dublin", "lng": -90.50275, "zip_code": "38739"});
+zipapicallback({"locality": "Dublin", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Dublin"], "postal_code": "38739", "lat": 34.060111, "lng": -90.50275, "type": "POBOX", "counties": [{"fips": "027", "name": "Coahoma"}]});

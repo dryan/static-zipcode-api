@@ -1,1 +1,1 @@
-{"lat": 57.867089, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Port Lions", "lng": -152.88568, "zip_code": "99550"}
+{"locality": "Port Lions", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Port Lions"], "postal_code": "99550", "lat": 57.867089, "lng": -152.88568, "type": "POBOX", "counties": [{"fips": "150", "name": "Kodiak Island"}]}

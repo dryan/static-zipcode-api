@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.883548, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Grandview", "lng": -94.52503, "zip_code": "64030"});
+zipapicallback({"locality": "Grandview", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Grandview"], "postal_code": "64030", "lat": 38.883548, "lng": -94.52503, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]});

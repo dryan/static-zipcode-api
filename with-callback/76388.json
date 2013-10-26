@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.336436, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Weinert", "lng": -99.64257, "zip_code": "76388"});
+zipapicallback({"locality": "Weinert", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Weinert"], "postal_code": "76388", "lat": 33.336436, "lng": -99.64257, "type": "STANDARD", "counties": [{"fips": "207", "name": "Haskell"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.669219, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Manor", "lng": -75.59003, "zip_code": "19720"}
+{"locality": "New Castle", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Manor", "New Castle"], "postal_code": "19720", "lat": 39.669219, "lng": -75.59003, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]}

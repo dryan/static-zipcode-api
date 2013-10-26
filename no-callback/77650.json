@@ -1,1 +1,1 @@
-{"lat": 29.43186, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Crystal Beach", "lng": -94.68252, "zip_code": "77650"}
+{"locality": "Port Bolivar", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Crystal Beach", "Port Bolivar"], "postal_code": "77650", "lat": 29.43186, "lng": -94.68252, "type": "POBOX", "counties": [{"fips": "167", "name": "Galveston"}]}

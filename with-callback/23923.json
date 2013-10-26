@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.074876, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Charlotte Court", "lng": -78.63263, "zip_code": "23923"});
+zipapicallback({"locality": "Charlotte Court House", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Charlotte C H", "Charlotte Court House"], "postal_code": "23923", "lat": 37.074876, "lng": -78.63263, "type": "STANDARD", "counties": [{"fips": "037", "name": "Charlotte"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.205367, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Farmingdale", "lng": -74.15767, "zip_code": "07727"}
+{"locality": "Farmingdale", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Farmingdale", "Tinton Falls", "Wall Township"], "postal_code": "07727", "lat": 40.205367, "lng": -74.15767, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

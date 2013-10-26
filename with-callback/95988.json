@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.499754, "region": {"abbr": "CA", "name": "California"}, "locality": "Willows", "lng": -122.20773, "zip_code": "95988"});
+zipapicallback({"locality": "Willows", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Willows"], "postal_code": "95988", "lat": 39.499754, "lng": -122.20773, "type": "STANDARD", "counties": [{"fips": "021", "name": "Glenn"}, {"fips": "011", "name": "Colusa"}]});

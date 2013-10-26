@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.083284, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Glenbrook", "lng": -119.93964, "zip_code": "89413"});
+zipapicallback({"locality": "Glenbrook", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Glenbrook"], "postal_code": "89413", "lat": 39.083284, "lng": -119.93964, "type": "STANDARD", "counties": [{"fips": "005", "name": "Douglas"}]});

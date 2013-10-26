@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.014472, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Forbes", "lng": -98.83181, "zip_code": "58439"});
+zipapicallback({"locality": "Forbes", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Forbes"], "postal_code": "58439", "lat": 46.014472, "lng": -98.83181, "type": "STANDARD", "counties": [{"fips": "021", "name": "Dickey"}, {"fips": "051", "name": "McIntosh"}]});

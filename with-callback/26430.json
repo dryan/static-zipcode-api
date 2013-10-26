@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.891042, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Sand Fork", "lng": -80.74656, "zip_code": "26430"});
+zipapicallback({"locality": "Sand Fork", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Sand Fork", "Stouts Mills"], "postal_code": "26430", "lat": 38.891042, "lng": -80.74656, "type": "STANDARD", "counties": [{"fips": "021", "name": "Gilmer"}]});

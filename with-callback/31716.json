@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.3709, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Baconton", "lng": -84.12921, "zip_code": "31716"});
+zipapicallback({"locality": "Baconton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Baconton"], "postal_code": "31716", "lat": 31.3709, "lng": -84.12921, "type": "STANDARD", "counties": [{"fips": "205", "name": "Mitchell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.774356, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wathena", "lng": -94.95873, "zip_code": "66090"});
+zipapicallback({"locality": "Wathena", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wathena"], "postal_code": "66090", "lat": 39.774356, "lng": -94.95873, "type": "STANDARD", "counties": [{"fips": "043", "name": "Doniphan"}]});

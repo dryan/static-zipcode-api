@@ -1,1 +1,1 @@
-{"lat": 36.881682, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Parkers Lake", "lng": -84.42143, "zip_code": "42634"}
+{"locality": "Parkers Lake", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Greenwood", "Honeybee", "Parkers Lake", "Sawyer"], "postal_code": "42634", "lat": 36.881682, "lng": -84.42143, "type": "STANDARD", "counties": [{"fips": "147", "name": "McCreary"}]}

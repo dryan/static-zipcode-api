@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.310853, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Miami", "lng": -93.22589, "zip_code": "65344"});
+zipapicallback({"locality": "Miami", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Miami"], "postal_code": "65344", "lat": 39.310853, "lng": -93.22589, "type": "STANDARD", "counties": [{"fips": "195", "name": "Saline"}]});

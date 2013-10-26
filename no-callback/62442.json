@@ -1,1 +1,1 @@
-{"lat": 39.32463, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Martinsville", "lng": -87.86922, "zip_code": "62442"}
+{"locality": "Martinsville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Martinsville"], "postal_code": "62442", "lat": 39.32463, "lng": -87.86922, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "033", "name": "Crawford"}]}

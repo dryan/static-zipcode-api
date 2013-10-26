@@ -1,1 +1,1 @@
-{"lat": 41.105401, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rio", "lng": -90.38717, "zip_code": "61472"}
+{"locality": "Rio", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rio"], "postal_code": "61472", "lat": 41.105401, "lng": -90.38717, "type": "STANDARD", "counties": [{"fips": "095", "name": "Knox"}, {"fips": "131", "name": "Mercer"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.347965, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Millington", "lng": -89.90668, "zip_code": "38053"});
+zipapicallback({"locality": "Millington", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Millington"], "postal_code": "38053", "lat": 35.347965, "lng": -89.90668, "type": "STANDARD", "counties": [{"fips": "157", "name": "Shelby"}, {"fips": "037", "name": "Davidson"}]});

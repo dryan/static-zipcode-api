@@ -1,1 +1,1 @@
-{"lat": 39.990909, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Castine", "lng": -84.53709, "zip_code": "45304"}
+{"locality": "Arcanum", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Arcanum", "Castine", "Gordon", "Ithaca"], "postal_code": "45304", "lat": 39.990909, "lng": -84.53709, "type": "STANDARD", "counties": [{"fips": "037", "name": "Darke"}, {"fips": "135", "name": "Preble"}, {"fips": "109", "name": "Miami"}]}

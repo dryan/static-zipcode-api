@@ -1,1 +1,1 @@
-{"lat": 40.865859, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Danville", "lng": -91.33459, "zip_code": "52623"}
+{"locality": "Danville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Danville"], "postal_code": "52623", "lat": 40.865859, "lng": -91.33459, "type": "STANDARD", "counties": [{"fips": "057", "name": "Des Moines"}]}

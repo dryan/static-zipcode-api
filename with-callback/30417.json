@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.162077, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Claxton", "lng": -81.90984, "zip_code": "30417"});
+zipapicallback({"locality": "Claxton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Claxton"], "postal_code": "30417", "lat": 32.162077, "lng": -81.90984, "type": "STANDARD", "counties": [{"fips": "109", "name": "Evans"}, {"fips": "267", "name": "Tattnall"}, {"fips": "031", "name": "Bulloch"}]});

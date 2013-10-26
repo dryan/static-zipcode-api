@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.734651, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Stanleytown", "lng": -79.94572, "zip_code": "24168"});
+zipapicallback({"locality": "Stanleytown", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Stanleytown"], "postal_code": "24168", "lat": 36.734651, "lng": -79.94572, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henry"}]});

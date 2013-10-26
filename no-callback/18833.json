@@ -1,1 +1,1 @@
-{"lat": 41.5932, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Albany", "lng": -76.46516, "zip_code": "18833"}
+{"locality": "New Albany", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Albany"], "postal_code": "18833", "lat": 41.5932, "lng": -76.46516, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}, {"fips": "113", "name": "Sullivan"}]}

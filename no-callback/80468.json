@@ -1,1 +1,1 @@
-{"lat": 39.967717, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Parshall", "lng": -106.16205, "zip_code": "80468"}
+{"locality": "Parshall", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Parshall"], "postal_code": "80468", "lat": 39.967717, "lng": -106.16205, "type": "STANDARD", "counties": [{"fips": "049", "name": "Grand"}]}

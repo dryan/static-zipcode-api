@@ -1,1 +1,1 @@
-{"lat": 27.136731, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Nokomis", "lng": -82.45241, "zip_code": "34275"}
+{"locality": "Nokomis", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Nokomis", "North Venice"], "postal_code": "34275", "lat": 27.136731, "lng": -82.45241, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}]}

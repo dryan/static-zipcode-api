@@ -1,1 +1,1 @@
-{"lat": 62.655998, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Shageluk", "lng": -159.53113, "zip_code": "99665"}
+{"locality": "Shageluk", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Shageluk"], "postal_code": "99665", "lat": 62.655998, "lng": -159.53113, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]}

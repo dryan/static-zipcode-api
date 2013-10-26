@@ -1,1 +1,1 @@
-{"lat": 36.246547, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Washington Colle", "lng": -82.62095, "zip_code": "37681"}
+{"locality": "Limestone", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Limestone"], "postal_code": "37681", "lat": 36.246547, "lng": -82.62095, "type": "STANDARD", "counties": [{"fips": "179", "name": "Washington"}, {"fips": "059", "name": "Greene"}]}

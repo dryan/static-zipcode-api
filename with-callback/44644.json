@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.68357, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Malvern", "lng": -81.17453, "zip_code": "44644"});
+zipapicallback({"locality": "Malvern", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Malvern"], "postal_code": "44644", "lat": 40.68357, "lng": -81.17453, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carroll"}]});

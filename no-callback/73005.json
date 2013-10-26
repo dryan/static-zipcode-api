@@ -1,1 +1,1 @@
-{"lat": 35.050671, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Anadarko", "lng": -98.23984, "zip_code": "73005"}
+{"locality": "Anadarko", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Anadarko", "Washita"], "postal_code": "73005", "lat": 35.050671, "lng": -98.23984, "type": "STANDARD", "counties": [{"fips": "015", "name": "Caddo"}]}

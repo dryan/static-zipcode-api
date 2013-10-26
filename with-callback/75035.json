@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.130086, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Frisco", "lng": -96.78177, "zip_code": "75035"});
+zipapicallback({"locality": "Frisco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Frisco"], "postal_code": "75035", "lat": 33.130086, "lng": -96.78177, "type": "STANDARD", "counties": []});

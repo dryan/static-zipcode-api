@@ -1,1 +1,1 @@
-{"lat": 29.07664, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Inglis", "lng": -82.68022, "zip_code": "34449"}
+{"locality": "Inglis", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Inglis"], "postal_code": "34449", "lat": 29.07664, "lng": -82.68022, "type": "STANDARD", "counties": []}

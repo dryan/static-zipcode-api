@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.79844, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Deary", "lng": -116.54841, "zip_code": "83823"});
+zipapicallback({"locality": "Deary", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Deary"], "postal_code": "83823", "lat": 46.79844, "lng": -116.54841, "type": "STANDARD", "counties": [{"fips": "057", "name": "Latah"}]});

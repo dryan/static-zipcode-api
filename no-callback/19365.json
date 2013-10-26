@@ -1,1 +1,1 @@
-{"lat": 39.961094, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Parkesburg", "lng": -75.92047, "zip_code": "19365"}
+{"locality": "Parkesburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Parkesburg"], "postal_code": "19365", "lat": 39.961094, "lng": -75.92047, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]}

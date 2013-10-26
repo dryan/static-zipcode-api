@@ -1,1 +1,1 @@
-{"lat": 42.764167, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lansing", "lng": -84.56153, "zip_code": "48906"}
+{"locality": "Lansing", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lansing"], "postal_code": "48906", "lat": 42.764167, "lng": -84.56153, "type": "STANDARD", "counties": [{"fips": "037", "name": "Clinton"}, {"fips": "065", "name": "Ingham"}, {"fips": "045", "name": "Eaton"}]}

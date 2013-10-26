@@ -1,1 +1,1 @@
-{"lat": 29.401714, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hungerford", "lng": -96.07526, "zip_code": "77448"}
+{"locality": "Hungerford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hungerford"], "postal_code": "77448", "lat": 29.401714, "lng": -96.07526, "type": "STANDARD", "counties": [{"fips": "481", "name": "Wharton"}]}

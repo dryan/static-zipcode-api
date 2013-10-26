@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.39667, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Carrolltowne", "lng": -76.965, "zip_code": "21784"});
+zipapicallback({"locality": "Sykesville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Eldersburg", "Gaither", "Sykesville"], "postal_code": "21784", "lat": 39.39667, "lng": -76.965, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}, {"fips": "027", "name": "Howard"}, {"fips": "043", "name": "Washington"}]});

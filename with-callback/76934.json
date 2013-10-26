@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.603027, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Carlsbad", "lng": -100.65431, "zip_code": "76934"});
+zipapicallback({"locality": "Carlsbad", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Carlsbad"], "postal_code": "76934", "lat": 31.603027, "lng": -100.65431, "type": "STANDARD", "counties": [{"fips": "451", "name": "Tom Green"}]});

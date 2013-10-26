@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.209529, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Linthicum Height", "lng": -76.66177, "zip_code": "21090"});
+zipapicallback({"locality": "Linthicum Heights", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Linthicum", "Linthicum Heights", "Linthicum Hts"], "postal_code": "21090", "lat": 39.209529, "lng": -76.66177, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

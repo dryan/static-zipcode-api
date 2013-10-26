@@ -1,1 +1,1 @@
-{"lat": 38.772648, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Milton", "lng": -75.28665, "zip_code": "19968"}
+{"locality": "Milton", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Milton"], "postal_code": "19968", "lat": 38.772648, "lng": -75.28665, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

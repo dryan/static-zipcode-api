@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.764498, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Surveyor", "lng": -81.3169, "zip_code": "25932"});
+zipapicallback({"locality": "Surveyor", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Surveyor"], "postal_code": "25932", "lat": 37.764498, "lng": -81.3169, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

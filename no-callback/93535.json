@@ -1,1 +1,1 @@
-{"lat": 34.691946, "region": {"abbr": "CA", "name": "California"}, "locality": "Hi Vista", "lng": -117.97756, "zip_code": "93535"}
+{"locality": "Lancaster", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hi Vista", "Lake La", "Lake Los Angeles", "Lancaster"], "postal_code": "93535", "lat": 34.691946, "lng": -117.97756, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

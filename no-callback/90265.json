@@ -1,1 +1,1 @@
-{"lat": 34.051056, "region": {"abbr": "CA", "name": "California"}, "locality": "Malibu", "lng": -118.80768, "zip_code": "90265"}
+{"locality": "Malibu", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Malibu"], "postal_code": "90265", "lat": 34.051056, "lng": -118.80768, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.416785, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Clackamas", "lng": -122.52859, "zip_code": "97015"}
+{"locality": "Clackamas", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Clackamas", "Damascus", "Happy Valley"], "postal_code": "97015", "lat": 45.416785, "lng": -122.52859, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]}

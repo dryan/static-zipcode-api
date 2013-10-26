@@ -1,1 +1,1 @@
-{"lat": 35.201105, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alanreed", "lng": -100.74939, "zip_code": "79002"}
+{"locality": "Alanreed", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alanreed"], "postal_code": "79002", "lat": 35.201105, "lng": -100.74939, "type": "POBOX", "counties": [{"fips": "179", "name": "Gray"}]}

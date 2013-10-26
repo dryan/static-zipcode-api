@@ -1,1 +1,1 @@
-{"lat": 42.786134, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Remsen", "lng": -95.9482, "zip_code": "51050"}
+{"locality": "Remsen", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Remsen"], "postal_code": "51050", "lat": 42.786134, "lng": -95.9482, "type": "STANDARD", "counties": [{"fips": "149", "name": "Plymouth"}]}

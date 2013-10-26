@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.17329, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Saltillo", "lng": -95.36663, "zip_code": "75478"});
+zipapicallback({"locality": "Saltillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Saltillo"], "postal_code": "75478", "lat": 33.17329, "lng": -95.36663, "type": "STANDARD", "counties": [{"fips": "223", "name": "Hopkins"}]});

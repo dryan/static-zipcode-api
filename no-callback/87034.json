@@ -1,1 +1,1 @@
-{"lat": 34.900203, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Pueblo Of Acoma", "lng": -107.65365, "zip_code": "87034"}
+{"locality": "Pueblo Of Acoma", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Acoma", "Pblo Of Acoma", "Pueblo Of Acoma"], "postal_code": "87034", "lat": 34.900203, "lng": -107.65365, "type": "POBOX", "counties": [{"fips": "061", "name": "Valencia"}]}

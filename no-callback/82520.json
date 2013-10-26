@@ -1,1 +1,1 @@
-{"lat": 42.729832, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Ethete", "lng": -108.63154, "zip_code": "82520"}
+{"locality": "Lander", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Atlantic City", "Ethete", "Lander", "S Pass City", "South Pass City", "Sweetwater Station", "Sweetwatr Sta"], "postal_code": "82520", "lat": 42.729832, "lng": -108.63154, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]}

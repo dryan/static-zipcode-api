@@ -1,1 +1,1 @@
-{"lat": 37.847704, "region": {"abbr": "CA", "name": "California"}, "locality": "Byron", "lng": -121.60812, "zip_code": "94514"}
+{"locality": "Byron", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Byron", "Discovery Bay"], "postal_code": "94514", "lat": 37.847704, "lng": -121.60812, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.232047, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Griswold", "lng": -95.13871, "zip_code": "51535"}
+{"locality": "Griswold", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Griswold"], "postal_code": "51535", "lat": 41.232047, "lng": -95.13871, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cass"}, {"fips": "155", "name": "Pottawattamie"}]}

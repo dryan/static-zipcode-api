@@ -1,1 +1,1 @@
-{"lat": 42.664904, "region": {"abbr": "NY", "name": "New York"}, "locality": "Scottsburg", "lng": -77.71275, "zip_code": "14545"}
+{"locality": "Scottsburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Groveland", "Scottsburg"], "postal_code": "14545", "lat": 42.664904, "lng": -77.71275, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.176516, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Saint Simons Isl", "lng": -81.3802, "zip_code": "31522"});
+zipapicallback({"locality": "Saint Simons Island", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Brunswick", "Saint Simons Is", "Saint Simons Island", "St Simons Is", "St Simons Island"], "postal_code": "31522", "lat": 31.176516, "lng": -81.3802, "type": "STANDARD", "counties": [{"fips": "127", "name": "Glynn"}]});

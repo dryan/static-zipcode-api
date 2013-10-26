@@ -1,1 +1,1 @@
-{"lat": 47.073601, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Buchanan", "lng": -98.85843, "zip_code": "58420"}
+{"locality": "Buchanan", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Buchanan"], "postal_code": "58420", "lat": 47.073601, "lng": -98.85843, "type": "STANDARD", "counties": [{"fips": "093", "name": "Stutsman"}]}

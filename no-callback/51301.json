@@ -1,1 +1,1 @@
-{"lat": 43.150381, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Spencer", "lng": -95.14466, "zip_code": "51301"}
+{"locality": "Spencer", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Spencer"], "postal_code": "51301", "lat": 43.150381, "lng": -95.14466, "type": "STANDARD", "counties": [{"fips": "041", "name": "Clay"}]}

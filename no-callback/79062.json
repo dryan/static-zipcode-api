@@ -1,1 +1,1 @@
-{"lat": 36.004239, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Morse", "lng": -101.54672, "zip_code": "79062"}
+{"locality": "Morse", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Morse"], "postal_code": "79062", "lat": 36.004239, "lng": -101.54672, "type": "STANDARD", "counties": [{"fips": "195", "name": "Hansford"}, {"fips": "233", "name": "Hutchinson"}, {"fips": "025", "name": "Bee"}]}

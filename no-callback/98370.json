@@ -1,1 +1,1 @@
-{"lat": 47.743302, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Poulsbo", "lng": -122.63041, "zip_code": "98370"}
+{"locality": "Poulsbo", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Poulsbo"], "postal_code": "98370", "lat": 47.743302, "lng": -122.63041, "type": "STANDARD", "counties": [{"fips": "035", "name": "Kitsap"}, {"fips": "053", "name": "Pierce"}]}

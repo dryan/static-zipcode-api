@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.937825, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Muldraugh", "lng": -85.99137, "zip_code": "40155"});
+zipapicallback({"locality": "Muldraugh", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Muldraugh"], "postal_code": "40155", "lat": 37.937825, "lng": -85.99137, "type": "STANDARD", "counties": [{"fips": "163", "name": "Meade"}, {"fips": "093", "name": "Hardin"}]});

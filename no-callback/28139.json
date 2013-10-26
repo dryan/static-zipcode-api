@@ -1,1 +1,1 @@
-{"lat": 35.361333, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Rutherfordton", "lng": -81.98377, "zip_code": "28139"}
+{"locality": "Rutherfordton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Rutherfordton"], "postal_code": "28139", "lat": 35.361333, "lng": -81.98377, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rutherford"}, {"fips": "149", "name": "Polk"}]}

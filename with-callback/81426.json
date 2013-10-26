@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.860092, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Ophir", "lng": -107.86975, "zip_code": "81426"});
+zipapicallback({"locality": "Ophir", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Ophir"], "postal_code": "81426", "lat": 37.860092, "lng": -107.86975, "type": "POBOX", "counties": [{"fips": "113", "name": "San Miguel"}]});

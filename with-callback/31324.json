@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.906365, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Richmond Hill", "lng": -81.3108, "zip_code": "31324"});
+zipapicallback({"locality": "Richmond Hill", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Richmond Hill"], "postal_code": "31324", "lat": 31.906365, "lng": -81.3108, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bryan"}, {"fips": "179", "name": "Liberty"}]});

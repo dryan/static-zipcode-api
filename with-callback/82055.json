@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.33144, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Centennial", "lng": -106.17649, "zip_code": "82055"});
+zipapicallback({"locality": "Centennial", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Centennial"], "postal_code": "82055", "lat": 41.33144, "lng": -106.17649, "type": "POBOX", "counties": [{"fips": "001", "name": "Albany"}]});

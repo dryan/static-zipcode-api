@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.735571, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Alma", "lng": -88.91864, "zip_code": "62807"});
+zipapicallback({"locality": "Alma", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Alma"], "postal_code": "62807", "lat": 38.735571, "lng": -88.91864, "type": "STANDARD", "counties": [{"fips": "121", "name": "Marion"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.73727, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Charleston", "lng": -79.95409, "zip_code": "29412"}
+{"locality": "Charleston", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Charleston"], "postal_code": "29412", "lat": 32.73727, "lng": -79.95409, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}]}

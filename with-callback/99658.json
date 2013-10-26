@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.048263, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Saint", "lng": -163.1937, "zip_code": "99658"});
+zipapicallback({"locality": "Saint Marys", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Saint Marys"], "postal_code": "99658", "lat": 62.048263, "lng": -163.1937, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]});

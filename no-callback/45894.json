@@ -1,1 +1,1 @@
-{"lat": 40.755619, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Venedocia", "lng": -84.48041, "zip_code": "45894"}
+{"locality": "Venedocia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Venedocia"], "postal_code": "45894", "lat": 40.755619, "lng": -84.48041, "type": "STANDARD", "counties": [{"fips": "161", "name": "Van Wert"}, {"fips": "107", "name": "Mercer"}, {"fips": "003", "name": "Allen"}]}

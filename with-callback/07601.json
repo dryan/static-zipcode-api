@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.888678, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hackensack", "lng": -74.0488, "zip_code": "07601"});
+zipapicallback({"locality": "Hackensack", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hackensack"], "postal_code": "07601", "lat": 40.888678, "lng": -74.0488, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

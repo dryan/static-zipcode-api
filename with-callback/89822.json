@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.715963, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Carlin", "lng": -116.11426, "zip_code": "89822"});
+zipapicallback({"locality": "Carlin", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Carlin"], "postal_code": "89822", "lat": 40.715963, "lng": -116.11426, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]});

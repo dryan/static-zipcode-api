@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.635615, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Spurger", "lng": -94.1705, "zip_code": "77660"});
+zipapicallback({"locality": "Spurger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Spurger"], "postal_code": "77660", "lat": 30.635615, "lng": -94.1705, "type": "STANDARD", "counties": [{"fips": "457", "name": "Tyler"}, {"fips": "199", "name": "Hardin"}]});

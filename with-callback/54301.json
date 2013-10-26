@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.489059, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Allouez", "lng": -88.01674, "zip_code": "54301"});
+zipapicallback({"locality": "Green Bay", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Allouez", "Green Bay"], "postal_code": "54301", "lat": 44.489059, "lng": -88.01674, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}]});

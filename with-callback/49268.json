@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.869086, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Palmyra", "lng": -83.93858, "zip_code": "49268"});
+zipapicallback({"locality": "Palmyra", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Palmyra"], "postal_code": "49268", "lat": 41.869086, "lng": -83.93858, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]});

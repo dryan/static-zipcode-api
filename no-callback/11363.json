@@ -1,1 +1,1 @@
-{"lat": 40.772636, "region": {"abbr": "NY", "name": "New York"}, "locality": "Little Neck", "lng": -73.74644, "zip_code": "11363"}
+{"locality": "Little Neck", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Douglaston", "Flushing", "Little Neck"], "postal_code": "11363", "lat": 40.772636, "lng": -73.74644, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

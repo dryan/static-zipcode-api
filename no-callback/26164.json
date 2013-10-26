@@ -1,1 +1,1 @@
-{"lat": 38.977445, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ravenswood", "lng": -81.72789, "zip_code": "26164"}
+{"locality": "Ravenswood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Murraysville", "Ravenswood", "Sherman"], "postal_code": "26164", "lat": 38.977445, "lng": -81.72789, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.027491, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Neffs", "lng": -80.81606, "zip_code": "43940"});
+zipapicallback({"locality": "Neffs", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Neffs"], "postal_code": "43940", "lat": 40.027491, "lng": -80.81606, "type": "POBOX", "counties": [{"fips": "013", "name": "Belmont"}]});

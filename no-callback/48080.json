@@ -1,1 +1,1 @@
-{"lat": 42.462036, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Clair Shor", "lng": -82.90232, "zip_code": "48080"}
+{"locality": "Saint Clair Shores", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Clair Shores", "St Clair Shrs", "St Clr Shores"], "postal_code": "48080", "lat": 42.462036, "lng": -82.90232, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]}

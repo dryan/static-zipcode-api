@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.215959, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Filer City", "lng": -86.29048, "zip_code": "49634"});
+zipapicallback({"locality": "Filer City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Filer City"], "postal_code": "49634", "lat": 44.215959, "lng": -86.29048, "type": "POBOX", "counties": [{"fips": "101", "name": "Manistee"}]});

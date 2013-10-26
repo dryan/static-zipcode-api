@@ -1,1 +1,1 @@
-{"lat": 41.375701, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Pawcatuck", "lng": -71.84876, "zip_code": "06379"}
+{"locality": "Pawcatuck", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Pawcatuck"], "postal_code": "06379", "lat": 41.375701, "lng": -71.84876, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}, {"fips": "007", "name": "Middlesex"}]}

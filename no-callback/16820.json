@@ -1,1 +1,1 @@
-{"lat": 40.908997, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Aaronsburg", "lng": -77.42424, "zip_code": "16820"}
+{"locality": "Aaronsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aaronsburg"], "postal_code": "16820", "lat": 40.908997, "lng": -77.42424, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]}

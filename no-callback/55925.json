@@ -1,1 +1,1 @@
-{"lat": 43.910929, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dakota", "lng": -91.39015, "zip_code": "55925"}
+{"locality": "Dakota", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dakota"], "postal_code": "55925", "lat": 43.910929, "lng": -91.39015, "type": "STANDARD", "counties": [{"fips": "169", "name": "Winona"}]}

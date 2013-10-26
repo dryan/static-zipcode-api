@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.362104, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fryburg", "lng": -79.43125, "zip_code": "16326"});
+zipapicallback({"locality": "Fryburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fryburg"], "postal_code": "16326", "lat": 41.362104, "lng": -79.43125, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]});

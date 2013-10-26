@@ -1,1 +1,1 @@
-{"lat": 40.667985, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Yeoman", "lng": -86.7225, "zip_code": "47997"}
+{"locality": "Yeoman", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Yeoman"], "postal_code": "47997", "lat": 40.667985, "lng": -86.7225, "type": "POBOX", "counties": [{"fips": "015", "name": "Carroll"}]}

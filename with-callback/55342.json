@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.74323, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hector", "lng": -94.72447, "zip_code": "55342"});
+zipapicallback({"locality": "Hector", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hector"], "postal_code": "55342", "lat": 44.74323, "lng": -94.72447, "type": "STANDARD", "counties": [{"fips": "129", "name": "Renville"}, {"fips": "093", "name": "Meeker"}, {"fips": "143", "name": "Sibley"}]});

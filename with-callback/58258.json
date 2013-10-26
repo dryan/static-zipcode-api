@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.008825, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Mekinock", "lng": -97.35424, "zip_code": "58258"});
+zipapicallback({"locality": "Mekinock", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Mekinock"], "postal_code": "58258", "lat": 48.008825, "lng": -97.35424, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}]});

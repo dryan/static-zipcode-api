@@ -1,1 +1,1 @@
-{"lat": 38.511469, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Frankford", "lng": -75.18364, "zip_code": "19945"}
+{"locality": "Frankford", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Frankford"], "postal_code": "19945", "lat": 38.511469, "lng": -75.18364, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

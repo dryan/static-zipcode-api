@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.997469, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Thorndale", "lng": -75.75964, "zip_code": "19372"});
+zipapicallback({"locality": "Thorndale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Downingtown", "Thorndale"], "postal_code": "19372", "lat": 39.997469, "lng": -75.75964, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

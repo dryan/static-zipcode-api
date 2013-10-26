@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.512003, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Milbridge", "lng": -67.87827, "zip_code": "04658"});
+zipapicallback({"locality": "Milbridge", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Milbridge"], "postal_code": "04658", "lat": 44.512003, "lng": -67.87827, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

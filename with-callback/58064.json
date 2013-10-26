@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.151891, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Page", "lng": -97.60401, "zip_code": "58064"});
+zipapicallback({"locality": "Page", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Page"], "postal_code": "58064", "lat": 47.151891, "lng": -97.60401, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "091", "name": "Steele"}, {"fips": "003", "name": "Barnes"}]});

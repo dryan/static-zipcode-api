@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.684567, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Trout Dale", "lng": -81.43411, "zip_code": "24378"});
+zipapicallback({"locality": "Troutdale", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Troutdale"], "postal_code": "24378", "lat": 36.684567, "lng": -81.43411, "type": "STANDARD", "counties": [{"fips": "077", "name": "Grayson"}, {"fips": "173", "name": "Smyth"}]});

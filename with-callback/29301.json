@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.940921, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Spartanburg", "lng": -81.98682, "zip_code": "29301"});
+zipapicallback({"locality": "Spartanburg", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Spartanburg"], "postal_code": "29301", "lat": 34.940921, "lng": -81.98682, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}, {"fips": "045", "name": "Greenville"}]});

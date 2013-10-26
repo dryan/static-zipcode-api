@@ -1,1 +1,1 @@
-{"lat": 30.806617, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Oakdale", "lng": -92.65224, "zip_code": "71463"}
+{"locality": "Oakdale", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Oakdale"], "postal_code": "71463", "lat": 30.806617, "lng": -92.65224, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}, {"fips": "039", "name": "Evangeline"}, {"fips": "079", "name": "Rapides"}]}

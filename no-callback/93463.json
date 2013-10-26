@@ -1,1 +1,1 @@
-{"lat": 34.608938, "region": {"abbr": "CA", "name": "California"}, "locality": "Ballard", "lng": -120.13838, "zip_code": "93463"}
+{"locality": "Solvang", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ballard", "Solvang"], "postal_code": "93463", "lat": 34.608938, "lng": -120.13838, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]}

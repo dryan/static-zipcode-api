@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.450592, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Tea", "lng": -96.84498, "zip_code": "57064"});
+zipapicallback({"locality": "Tea", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Tea"], "postal_code": "57064", "lat": 43.450592, "lng": -96.84498, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lincoln"}, {"fips": "099", "name": "Minnehaha"}]});

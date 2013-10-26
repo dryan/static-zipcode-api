@@ -1,1 +1,1 @@
-{"lat": 40.983997, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ridgewood", "lng": -74.11438, "zip_code": "07450"}
+{"locality": "Ridgewood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ridgewood"], "postal_code": "07450", "lat": 40.983997, "lng": -74.11438, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

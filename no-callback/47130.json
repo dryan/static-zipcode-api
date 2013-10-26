@@ -1,1 +1,1 @@
-{"lat": 38.309105, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Jeffersonville", "lng": -85.72035, "zip_code": "47130"}
+{"locality": "Jeffersonville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Jeff", "Jeffersonville", "Jeffersonvlle", "Utica", "Watson"], "postal_code": "47130", "lat": 38.309105, "lng": -85.72035, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]}

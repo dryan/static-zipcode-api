@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.585687, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Greenwell Spring", "lng": -90.98014, "zip_code": "70739"});
+zipapicallback({"locality": "Greenwell Springs", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Greenwel Spgs", "Greenwell Springs"], "postal_code": "70739", "lat": 30.585687, "lng": -90.98014, "type": "STANDARD", "counties": [{"fips": "033", "name": "East Baton Rouge"}]});

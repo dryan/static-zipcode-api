@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.725227, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Reading", "lng": -95.7032, "zip_code": "56165"});
+zipapicallback({"locality": "Reading", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Reading"], "postal_code": "56165", "lat": 43.725227, "lng": -95.7032, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}]});

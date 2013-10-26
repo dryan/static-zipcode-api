@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.624108, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hartington", "lng": -97.25267, "zip_code": "68739"});
+zipapicallback({"locality": "Hartington", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hartington"], "postal_code": "68739", "lat": 42.624108, "lng": -97.25267, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cedar"}, {"fips": "051", "name": "Dixon"}]});

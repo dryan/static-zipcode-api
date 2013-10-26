@@ -1,1 +1,1 @@
-{"lat": 28.639275, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Chuluota", "lng": -81.11906, "zip_code": "32766"}
+{"locality": "Oviedo", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Chuluota", "Oviedo"], "postal_code": "32766", "lat": 28.639275, "lng": -81.11906, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

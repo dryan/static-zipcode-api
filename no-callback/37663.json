@@ -1,1 +1,1 @@
-{"lat": 36.468953, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Colonial Heights", "lng": -82.49765, "zip_code": "37663"}
+{"locality": "Kingsport", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Colonial Heights", "Colonial Hgts", "Kingsport"], "postal_code": "37663", "lat": 36.468953, "lng": -82.49765, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sullivan"}, {"fips": "093", "name": "Knox"}]}

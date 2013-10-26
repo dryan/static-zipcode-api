@@ -1,1 +1,1 @@
-{"lat": 34.857544, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Broadview", "lng": -103.15193, "zip_code": "88112"}
+{"locality": "Broadview", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bellview", "Broadview"], "postal_code": "88112", "lat": 34.857544, "lng": -103.15193, "type": "STANDARD", "counties": [{"fips": "009", "name": "Curry"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.161966, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Calvert", "lng": -87.99588, "zip_code": "36513"});
+zipapicallback({"locality": "Calvert", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Calvert"], "postal_code": "36513", "lat": 31.161966, "lng": -87.99588, "type": "POBOX", "counties": [{"fips": "129", "name": "Washington"}]});

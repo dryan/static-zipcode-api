@@ -1,1 +1,1 @@
-{"lat": 34.962714, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mount Pleasant", "lng": -89.54023, "zip_code": "38649"}
+{"locality": "Mount Pleasant", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Holly Springs", "Mount Pleasant", "Mt Pleasant"], "postal_code": "38649", "lat": 34.962714, "lng": -89.54023, "type": "POBOX", "counties": []}

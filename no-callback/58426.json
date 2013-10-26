@@ -1,1 +1,1 @@
-{"lat": 47.227781, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Courtenay", "lng": -98.58545, "zip_code": "58426"}
+{"locality": "Courtenay", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Courtenay"], "postal_code": "58426", "lat": 47.227781, "lng": -98.58545, "type": "STANDARD", "counties": [{"fips": "093", "name": "Stutsman"}]}

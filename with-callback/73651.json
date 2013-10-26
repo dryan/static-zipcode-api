@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.018385, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hobart", "lng": -99.09374, "zip_code": "73651"});
+zipapicallback({"locality": "Hobart", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hobart"], "postal_code": "73651", "lat": 35.018385, "lng": -99.09374, "type": "STANDARD", "counties": [{"fips": "075", "name": "Kiowa"}]});

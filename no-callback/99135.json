@@ -1,1 +1,1 @@
-{"lat": 47.641983, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Hartline", "lng": -119.08897, "zip_code": "99135"}
+{"locality": "Hartline", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Hartline"], "postal_code": "99135", "lat": 47.641983, "lng": -119.08897, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]}

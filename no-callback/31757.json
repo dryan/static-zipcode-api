@@ -1,1 +1,1 @@
-{"lat": 30.883208, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Thomasville", "lng": -83.91237, "zip_code": "31757"}
+{"locality": "Thomasville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Thomasville"], "postal_code": "31757", "lat": 30.883208, "lng": -83.91237, "type": "STANDARD", "counties": []}

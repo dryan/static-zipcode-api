@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.155392, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Williams", "lng": -123.2978, "zip_code": "97544"});
+zipapicallback({"locality": "Williams", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Williams"], "postal_code": "97544", "lat": 42.155392, "lng": -123.2978, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}, {"fips": "037", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.103191, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Indialantic", "lng": -80.57414, "zip_code": "32903"});
+zipapicallback({"locality": "Indialantic", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Indialantic", "Melbourne"], "postal_code": "32903", "lat": 28.103191, "lng": -80.57414, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]});

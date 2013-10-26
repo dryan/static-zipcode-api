@@ -1,1 +1,1 @@
-{"lat": 44.510306, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Steuben", "lng": -67.94879, "zip_code": "04680"}
+{"locality": "Steuben", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Steuben"], "postal_code": "04680", "lat": 44.510306, "lng": -67.94879, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]}

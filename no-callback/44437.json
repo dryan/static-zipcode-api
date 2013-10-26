@@ -1,1 +1,1 @@
-{"lat": 41.159574, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mc Donald", "lng": -80.73083, "zip_code": "44437"}
+{"locality": "Mc Donald", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mc Donald"], "postal_code": "44437", "lat": 41.159574, "lng": -80.73083, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.870672, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brookston", "lng": -92.65082, "zip_code": "55711"}
+{"locality": "Brookston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brookston"], "postal_code": "55711", "lat": 46.870672, "lng": -92.65082, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

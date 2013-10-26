@@ -1,1 +1,1 @@
-{"lat": 32.950857, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mc Leod", "lng": -94.07429, "zip_code": "75565"}
+{"locality": "Mc Leod", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mc Leod"], "postal_code": "75565", "lat": 32.950857, "lng": -94.07429, "type": "POBOX", "counties": [{"fips": "067", "name": "Cass"}]}

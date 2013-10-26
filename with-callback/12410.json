@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.114646, "region": {"abbr": "NY", "name": "New York"}, "locality": "Oliverea", "lng": -74.4557, "zip_code": "12410"});
+zipapicallback({"locality": "Big Indian", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Big Indian", "Oliverea"], "postal_code": "12410", "lat": 42.114646, "lng": -74.4557, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

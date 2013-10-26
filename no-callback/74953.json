@@ -1,1 +1,1 @@
-{"lat": 35.052793, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Poteau", "lng": -94.61829, "zip_code": "74953"}
+{"locality": "Poteau", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Poteau"], "postal_code": "74953", "lat": 35.052793, "lng": -94.61829, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Flore"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.75875, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Madison", "lng": -74.41609, "zip_code": "07940"}
+{"locality": "Madison", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Madison"], "postal_code": "07940", "lat": 40.75875, "lng": -74.41609, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

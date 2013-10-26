@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.169325, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Deerfield", "lng": -87.86556, "zip_code": "60015"});
+zipapicallback({"locality": "Deerfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bannockburn", "Deerfield", "Riverwoods"], "postal_code": "60015", "lat": 42.169325, "lng": -87.86556, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "097", "name": "Lake"}]});

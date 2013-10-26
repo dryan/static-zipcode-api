@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.507565, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Adair", "lng": -94.64805, "zip_code": "50002"});
+zipapicallback({"locality": "Adair", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Adair"], "postal_code": "50002", "lat": 41.507565, "lng": -94.64805, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}]});

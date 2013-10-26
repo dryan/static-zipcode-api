@@ -1,1 +1,1 @@
-{"lat": 40.343261, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harrisburg", "lng": -76.7808, "zip_code": "17112"}
+{"locality": "Harrisburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harrisburg", "Linglestown", "Lower Paxton", "Paxtonia", "West Hanover"], "postal_code": "17112", "lat": 40.343261, "lng": -76.7808, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.439329, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Scranton", "lng": -75.66187, "zip_code": "18508"});
+zipapicallback({"locality": "Scranton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["N Scranton", "North Scranton", "Scranton"], "postal_code": "18508", "lat": 41.439329, "lng": -75.66187, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]});

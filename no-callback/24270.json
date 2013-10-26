@@ -1,1 +1,1 @@
-{"lat": 36.720381, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mendota", "lng": -82.26093, "zip_code": "24270"}
+{"locality": "Mendota", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mendota"], "postal_code": "24270", "lat": 36.720381, "lng": -82.26093, "type": "STANDARD", "counties": [{"fips": "191", "name": "Washington"}]}

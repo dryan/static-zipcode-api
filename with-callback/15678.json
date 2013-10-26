@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.287869, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rillton", "lng": -79.72904, "zip_code": "15678"});
+zipapicallback({"locality": "Rillton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Rillton"], "postal_code": "15678", "lat": 40.287869, "lng": -79.72904, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

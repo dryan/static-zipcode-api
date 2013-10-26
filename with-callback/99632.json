@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.090075, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Mountain", "lng": -163.72393, "zip_code": "99632"});
+zipapicallback({"locality": "Mountain Village", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Mountain Village", "Mountain Vlg"], "postal_code": "99632", "lat": 62.090075, "lng": -163.72393, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]});

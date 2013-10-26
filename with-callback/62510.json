@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.530502, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Assumption", "lng": -89.03829, "zip_code": "62510"});
+zipapicallback({"locality": "Assumption", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Assumption"], "postal_code": "62510", "lat": 39.530502, "lng": -89.03829, "type": "STANDARD", "counties": [{"fips": "021", "name": "Christian"}, {"fips": "173", "name": "Shelby"}]});

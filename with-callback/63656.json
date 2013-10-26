@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.611019, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Middle Brook", "lng": -90.77656, "zip_code": "63656"});
+zipapicallback({"locality": "Middle Brook", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Middle Brook"], "postal_code": "63656", "lat": 37.611019, "lng": -90.77656, "type": "STANDARD", "counties": [{"fips": "093", "name": "Iron"}, {"fips": "179", "name": "Reynolds"}]});

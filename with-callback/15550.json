@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.003724, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Manns Choice", "lng": -78.63685, "zip_code": "15550"});
+zipapicallback({"locality": "Manns Choice", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Manns Choice"], "postal_code": "15550", "lat": 40.003724, "lng": -78.63685, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.248689, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Columbus", "lng": -82.18161, "zip_code": "28722"}
+{"locality": "Columbus", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Columbus"], "postal_code": "28722", "lat": 35.248689, "lng": -82.18161, "type": "STANDARD", "counties": [{"fips": "149", "name": "Polk"}]}

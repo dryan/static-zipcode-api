@@ -1,1 +1,1 @@
-{"lat": 43.506153, "region": {"abbr": "NY", "name": "New York"}, "locality": "Forestport", "lng": -75.07355, "zip_code": "13338"}
+{"locality": "Forestport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Forestport"], "postal_code": "13338", "lat": 43.506153, "lng": -75.07355, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}, {"fips": "043", "name": "Herkimer"}]}

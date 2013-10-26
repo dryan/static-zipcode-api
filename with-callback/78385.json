@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.17914, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sarita", "lng": -97.82511, "zip_code": "78385"});
+zipapicallback({"locality": "Sarita", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sarita"], "postal_code": "78385", "lat": 27.17914, "lng": -97.82511, "type": "POBOX", "counties": [{"fips": "261", "name": "Kenedy"}]});

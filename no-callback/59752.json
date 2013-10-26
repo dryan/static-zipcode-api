@@ -1,1 +1,1 @@
-{"lat": 45.899881, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Three Forks", "lng": -111.53143, "zip_code": "59752"}
+{"locality": "Three Forks", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Three Forks"], "postal_code": "59752", "lat": 45.899881, "lng": -111.53143, "type": "STANDARD", "counties": [{"fips": "031", "name": "Gallatin"}, {"fips": "007", "name": "Broadwater"}]}

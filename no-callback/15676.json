@@ -1,1 +1,1 @@
-{"lat": 40.243195, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pleasant Unity", "lng": -79.45737, "zip_code": "15676"}
+{"locality": "Pleasant Unity", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pleasant Unity", "Pleasant Unty"], "postal_code": "15676", "lat": 40.243195, "lng": -79.45737, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]}

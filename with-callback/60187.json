@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.858279, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wheaton", "lng": -88.10904, "zip_code": "60187"});
+zipapicallback({"locality": "Wheaton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wheaton"], "postal_code": "60187", "lat": 41.858279, "lng": -88.10904, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}]});

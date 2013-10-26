@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.012181, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Colfax", "lng": -91.73021, "zip_code": "54730"});
+zipapicallback({"locality": "Colfax", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Colfax"], "postal_code": "54730", "lat": 45.012181, "lng": -91.73021, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chippewa"}, {"fips": "033", "name": "Dunn"}]});

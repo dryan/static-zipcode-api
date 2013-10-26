@@ -1,1 +1,1 @@
-{"lat": 38.495454, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Pendleton", "lng": -85.33839, "zip_code": "40055"}
+{"locality": "Pendleton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Pendleton", "Sulphur"], "postal_code": "40055", "lat": 38.495454, "lng": -85.33839, "type": "STANDARD", "counties": [{"fips": "103", "name": "Henry"}, {"fips": "223", "name": "Trimble"}, {"fips": "185", "name": "Oldham"}]}

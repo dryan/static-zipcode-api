@@ -1,1 +1,1 @@
-{"lat": 37.581777, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mullinville", "lng": -99.47608, "zip_code": "67109"}
+{"locality": "Mullinville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mullinville"], "postal_code": "67109", "lat": 37.581777, "lng": -99.47608, "type": "STANDARD", "counties": [{"fips": "097", "name": "Kiowa"}]}

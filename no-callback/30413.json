@@ -1,1 +1,1 @@
-{"lat": 32.884137, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bartow", "lng": -82.50969, "zip_code": "30413"}
+{"locality": "Bartow", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bartow"], "postal_code": "30413", "lat": 32.884137, "lng": -82.50969, "type": "STANDARD", "counties": [{"fips": "163", "name": "Jefferson"}, {"fips": "303", "name": "Washington"}, {"fips": "167", "name": "Johnson"}]}

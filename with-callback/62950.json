@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.75858, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Jacob", "lng": -89.56055, "zip_code": "62950"});
+zipapicallback({"locality": "Jacob", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Jacob"], "postal_code": "62950", "lat": 37.75858, "lng": -89.56055, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]});

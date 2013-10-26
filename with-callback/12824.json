@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.50964, "region": {"abbr": "NY", "name": "New York"}, "locality": "Diamond Point", "lng": -73.69776, "zip_code": "12824"});
+zipapicallback({"locality": "Diamond Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Diamond Point"], "postal_code": "12824", "lat": 43.50964, "lng": -73.69776, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}]});

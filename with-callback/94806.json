@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.972623, "region": {"abbr": "CA", "name": "California"}, "locality": "San Pablo", "lng": -122.33873, "zip_code": "94806"});
+zipapicallback({"locality": "San Pablo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hilltop Mall", "Richmond", "San Pablo"], "postal_code": "94806", "lat": 37.972623, "lng": -122.33873, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.317959, "region": {"abbr": "NY", "name": "New York"}, "locality": "Spencertown", "lng": -73.51802, "zip_code": "12165"}
+{"locality": "Spencertown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Spencertown"], "postal_code": "12165", "lat": 42.317959, "lng": -73.51802, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

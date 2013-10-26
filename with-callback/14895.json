@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.094855, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wellsville", "lng": -77.94686, "zip_code": "14895"});
+zipapicallback({"locality": "Wellsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wellsville"], "postal_code": "14895", "lat": 42.094855, "lng": -77.94686, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]});

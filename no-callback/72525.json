@@ -1,1 +1,1 @@
-{"lat": 36.302469, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cherokee Village", "lng": -91.59744, "zip_code": "72525"}
+{"locality": "Cherokee Village", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cherokee Village", "Cherokee Vlg"], "postal_code": "72525", "lat": 36.302469, "lng": -91.59744, "type": "POBOX", "counties": [{"fips": "135", "name": "Sharp"}]}

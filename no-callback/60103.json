@@ -1,1 +1,1 @@
-{"lat": 41.977477, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hanover Park", "lng": -88.17257, "zip_code": "60103"}
+{"locality": "Bartlett", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bartlett", "Ontarioville"], "postal_code": "60103", "lat": 41.977477, "lng": -88.17257, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "043", "name": "Du Page"}]}

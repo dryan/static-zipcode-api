@@ -1,1 +1,1 @@
-{"lat": 43.863028, "region": {"abbr": "ME", "name": "Maine"}, "locality": "New Harbor", "lng": -69.51314, "zip_code": "04554"}
+{"locality": "New Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["New Harbor"], "postal_code": "04554", "lat": 43.863028, "lng": -69.51314, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]}

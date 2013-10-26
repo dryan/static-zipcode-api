@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.737883, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Beatrice", "lng": -87.17442, "zip_code": "36425"});
+zipapicallback({"locality": "Beatrice", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Beatrice"], "postal_code": "36425", "lat": 31.737883, "lng": -87.17442, "type": "STANDARD", "counties": [{"fips": "099", "name": "Monroe"}]});

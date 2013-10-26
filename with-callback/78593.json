@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.27109, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Santa Rosa", "lng": -97.82904, "zip_code": "78593"});
+zipapicallback({"locality": "Santa Rosa", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Santa Rosa"], "postal_code": "78593", "lat": 26.27109, "lng": -97.82904, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.183995, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Darlington", "lng": -94.40163, "zip_code": "64438"}
+{"locality": "Darlington", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Darlington"], "postal_code": "64438", "lat": 40.183995, "lng": -94.40163, "type": "STANDARD", "counties": [{"fips": "075", "name": "Gentry"}]}

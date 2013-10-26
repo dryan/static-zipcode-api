@@ -1,1 +1,1 @@
-{"lat": 41.820274, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Torrington", "lng": -73.11787, "zip_code": "06790"}
+{"locality": "Torrington", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Torrington"], "postal_code": "06790", "lat": 41.820274, "lng": -73.11787, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

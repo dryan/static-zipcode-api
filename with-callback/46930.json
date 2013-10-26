@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.409668, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fowlerton", "lng": -85.57179, "zip_code": "46930"});
+zipapicallback({"locality": "Fowlerton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fowlerton"], "postal_code": "46930", "lat": 40.409668, "lng": -85.57179, "type": "POBOX", "counties": [{"fips": "053", "name": "Grant"}]});

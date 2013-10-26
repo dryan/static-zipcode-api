@@ -1,1 +1,1 @@
-{"lat": 30.437704, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Votaw", "lng": -94.68614, "zip_code": "77376"}
+{"locality": "Votaw", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Votaw"], "postal_code": "77376", "lat": 30.437704, "lng": -94.68614, "type": "POBOX", "counties": [{"fips": "199", "name": "Hardin"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.55464, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hills", "lng": -91.53532, "zip_code": "52235"}
+{"locality": "Hills", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hills"], "postal_code": "52235", "lat": 41.55464, "lng": -91.53532, "type": "POBOX", "counties": [{"fips": "103", "name": "Johnson"}]}

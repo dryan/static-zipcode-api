@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.542783, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Kellogg", "lng": -116.11848, "zip_code": "83837"});
+zipapicallback({"locality": "Kellogg", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Kellogg", "Wardner"], "postal_code": "83837", "lat": 47.542783, "lng": -116.11848, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]});

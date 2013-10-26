@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.822024, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sedley", "lng": -77.02404, "zip_code": "23878"});
+zipapicallback({"locality": "Sedley", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sedley"], "postal_code": "23878", "lat": 36.822024, "lng": -77.02404, "type": "STANDARD", "counties": [{"fips": "175", "name": "Southampton"}]});

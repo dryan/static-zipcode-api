@@ -1,1 +1,1 @@
-{"lat": 44.635395, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Albany", "lng": -123.0896, "zip_code": "97321"}
+{"locality": "Albany", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Albany"], "postal_code": "97321", "lat": 44.635395, "lng": -123.0896, "type": "STANDARD", "counties": [{"fips": "043", "name": "Linn"}, {"fips": "003", "name": "Benton"}]}

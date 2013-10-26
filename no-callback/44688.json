@@ -1,1 +1,1 @@
-{"lat": 40.67926, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Waynesburg", "lng": -81.26003, "zip_code": "44688"}
+{"locality": "Waynesburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Waynesburg"], "postal_code": "44688", "lat": 40.67926, "lng": -81.26003, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "019", "name": "Carroll"}]}

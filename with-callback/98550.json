@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.026913, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Hoquiam", "lng": -123.91732, "zip_code": "98550"});
+zipapicallback({"locality": "Hoquiam", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Hoquiam"], "postal_code": "98550", "lat": 47.026913, "lng": -123.91732, "type": "STANDARD", "counties": [{"fips": "027", "name": "Grays Harbor"}]});

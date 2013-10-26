@@ -1,1 +1,1 @@
-{"lat": 39.802646, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lewisville", "lng": -85.35541, "zip_code": "47352"}
+{"locality": "Lewisville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lewisville"], "postal_code": "47352", "lat": 39.802646, "lng": -85.35541, "type": "STANDARD", "counties": [{"fips": "065", "name": "Henry"}, {"fips": "041", "name": "Fayette"}, {"fips": "139", "name": "Rush"}]}

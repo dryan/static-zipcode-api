@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.615841, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Drasco", "lng": -91.9451, "zip_code": "72530"});
+zipapicallback({"locality": "Drasco", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Drasco"], "postal_code": "72530", "lat": 35.615841, "lng": -91.9451, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cleburne"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.45236, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Nye", "lng": -109.83681, "zip_code": "59061"});
+zipapicallback({"locality": "Nye", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Nye"], "postal_code": "59061", "lat": 45.45236, "lng": -109.83681, "type": "STANDARD", "counties": [{"fips": "095", "name": "Stillwater"}]});

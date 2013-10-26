@@ -1,1 +1,1 @@
-{"lat": 41.218744, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cedar", "lng": -92.51977, "zip_code": "52543"}
+{"locality": "Cedar", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cedar"], "postal_code": "52543", "lat": 41.218744, "lng": -92.51977, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mahaska"}]}

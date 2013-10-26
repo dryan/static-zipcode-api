@@ -1,1 +1,1 @@
-{"lat": 35.503723, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Decatur", "lng": -84.80741, "zip_code": "37322"}
+{"locality": "Decatur", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Decatur"], "postal_code": "37322", "lat": 35.503723, "lng": -84.80741, "type": "STANDARD", "counties": [{"fips": "121", "name": "Meigs"}, {"fips": "107", "name": "McMinn"}]}

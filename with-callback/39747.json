@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.413657, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Kilmichael", "lng": -89.56261, "zip_code": "39747"});
+zipapicallback({"locality": "Kilmichael", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Kilmichael"], "postal_code": "39747", "lat": 33.413657, "lng": -89.56261, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}]});

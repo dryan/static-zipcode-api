@@ -1,1 +1,1 @@
-{"lat": 39.344303, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Meadowbrook", "lng": -80.31744, "zip_code": "26404"}
+{"locality": "Meadowbrook", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Meadowbrook"], "postal_code": "26404", "lat": 39.344303, "lng": -80.31744, "type": "STANDARD", "counties": [{"fips": "033", "name": "Harrison"}]}

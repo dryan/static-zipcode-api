@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.874192, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Alvo", "lng": -96.38842, "zip_code": "68304"});
+zipapicallback({"locality": "Alvo", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Alvo"], "postal_code": "68304", "lat": 40.874192, "lng": -96.38842, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}]});

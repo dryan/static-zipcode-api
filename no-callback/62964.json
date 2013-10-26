@@ -1,1 +1,1 @@
-{"lat": 37.119739, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mounds", "lng": -89.20174, "zip_code": "62964"}
+{"locality": "Mounds", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mounds"], "postal_code": "62964", "lat": 37.119739, "lng": -89.20174, "type": "STANDARD", "counties": [{"fips": "153", "name": "Pulaski"}]}

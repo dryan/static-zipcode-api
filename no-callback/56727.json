@@ -1,1 +1,1 @@
-{"lat": 48.32162, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Grygla", "lng": -95.47515, "zip_code": "56727"}
+{"locality": "Grygla", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Grygla"], "postal_code": "56727", "lat": 48.32162, "lng": -95.47515, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}, {"fips": "007", "name": "Beltrami"}]}

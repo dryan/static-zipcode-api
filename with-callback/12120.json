@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.456127, "region": {"abbr": "NY", "name": "New York"}, "locality": "Medusa", "lng": -74.14059, "zip_code": "12120"});
+zipapicallback({"locality": "Medusa", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Medusa"], "postal_code": "12120", "lat": 42.456127, "lng": -74.14059, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}, {"fips": "039", "name": "Greene"}]});

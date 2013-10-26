@@ -1,1 +1,1 @@
-zipapicallback({"lat": 24.841814, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Long Key", "lng": -80.79405, "zip_code": "33001"});
+zipapicallback({"locality": "Long Key", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Long Key"], "postal_code": "33001", "lat": 24.841814, "lng": -80.79405, "type": "POBOX", "counties": [{"fips": "087", "name": "Monroe"}]});

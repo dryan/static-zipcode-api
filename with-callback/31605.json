@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.92205, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Valdosta", "lng": -83.25332, "zip_code": "31605"});
+zipapicallback({"locality": "Valdosta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Valdosta"], "postal_code": "31605", "lat": 30.92205, "lng": -83.25332, "type": "STANDARD", "counties": []});

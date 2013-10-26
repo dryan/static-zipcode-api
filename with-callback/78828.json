@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.782887, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Barksdale", "lng": -100.08547, "zip_code": "78828"});
+zipapicallback({"locality": "Barksdale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Barksdale"], "postal_code": "78828", "lat": 29.782887, "lng": -100.08547, "type": "STANDARD", "counties": [{"fips": "137", "name": "Edwards"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.04337, "region": {"abbr": "CA", "name": "California"}, "locality": "Port Costa", "lng": -122.18994, "zip_code": "94569"});
+zipapicallback({"locality": "Port Costa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Port Costa"], "postal_code": "94569", "lat": 38.04337, "lng": -122.18994, "type": "POBOX", "counties": [{"fips": "013", "name": "Contra Costa"}]});

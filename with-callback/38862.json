@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.179513, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Plantersville", "lng": -88.63454, "zip_code": "38862"});
+zipapicallback({"locality": "Plantersville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Plantersville"], "postal_code": "38862", "lat": 34.179513, "lng": -88.63454, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lee"}]});

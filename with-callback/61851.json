@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.950391, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ivesdale", "lng": -88.43939, "zip_code": "61851"});
+zipapicallback({"locality": "Ivesdale", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ivesdale"], "postal_code": "61851", "lat": 39.950391, "lng": -88.43939, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]});

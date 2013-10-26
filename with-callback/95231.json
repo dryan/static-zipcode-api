@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.882742, "region": {"abbr": "CA", "name": "California"}, "locality": "French Camp", "lng": -121.27978, "zip_code": "95231"});
+zipapicallback({"locality": "French Camp", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["French Camp"], "postal_code": "95231", "lat": 37.882742, "lng": -121.27978, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}, {"fips": "099", "name": "Stanislaus"}]});

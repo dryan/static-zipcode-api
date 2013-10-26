@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.697894, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Maugansville", "lng": -77.74514, "zip_code": "21767"});
+zipapicallback({"locality": "Maugansville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Maugansville"], "postal_code": "21767", "lat": 39.697894, "lng": -77.74514, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}]});

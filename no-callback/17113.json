@@ -1,1 +1,1 @@
-{"lat": 40.23299, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Steelton", "lng": -76.82579, "zip_code": "17113"}
+{"locality": "Harrisburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bressler", "Harrisburg", "Oberlin", "Steelton"], "postal_code": "17113", "lat": 40.23299, "lng": -76.82579, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]}

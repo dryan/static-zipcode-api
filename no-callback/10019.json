@@ -1,1 +1,1 @@
-{"lat": 40.765714, "region": {"abbr": "NY", "name": "New York"}, "locality": "New York", "lng": -73.9856, "zip_code": "10019"}
+{"locality": "New York", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New York"], "postal_code": "10019", "lat": 40.765714, "lng": -73.9856, "type": "STANDARD", "counties": [{"fips": "061", "name": "New York"}]}

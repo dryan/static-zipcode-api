@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.533977, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Barnum", "lng": -92.62697, "zip_code": "55707"});
+zipapicallback({"locality": "Barnum", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Barnum", "Mahtowa"], "postal_code": "55707", "lat": 46.533977, "lng": -92.62697, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carlton"}]});

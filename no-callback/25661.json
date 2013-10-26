@@ -1,1 +1,1 @@
-{"lat": 37.705144, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Williamson", "lng": -82.26827, "zip_code": "25661"}
+{"locality": "Williamson", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Nolan", "Sprigg", "Williamson"], "postal_code": "25661", "lat": 37.705144, "lng": -82.26827, "type": "STANDARD", "counties": [{"fips": "059", "name": "Mingo"}, {"fips": "195", "name": "Pike"}]}

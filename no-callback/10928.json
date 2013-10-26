@@ -1,1 +1,1 @@
-{"lat": 41.360336, "region": {"abbr": "NY", "name": "New York"}, "locality": "Highland Falls", "lng": -73.97293, "zip_code": "10928"}
+{"locality": "Highland Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Highland Falls", "Highland Fls"], "postal_code": "10928", "lat": 41.360336, "lng": -73.97293, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.65072, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Social Circle", "lng": -83.70779, "zip_code": "30025"});
+zipapicallback({"locality": "Social Circle", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Social Circle"], "postal_code": "30025", "lat": 33.65072, "lng": -83.70779, "type": "STANDARD", "counties": []});

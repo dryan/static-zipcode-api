@@ -1,1 +1,1 @@
-{"lat": 40.357439, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Princeton", "lng": -74.64922, "zip_code": "08540"}
+{"locality": "Princeton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Princeton"], "postal_code": "08540", "lat": 40.357439, "lng": -74.64922, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}, {"fips": "035", "name": "Somerset"}, {"fips": "023", "name": "Middlesex"}]}

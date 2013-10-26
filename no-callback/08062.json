@@ -1,1 +1,1 @@
-{"lat": 39.716939, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mullica Hill", "lng": -75.21987, "zip_code": "08062"}
+{"locality": "Mullica Hill", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mullica Hill", "S Harrisn Twp", "South Harrison Township"], "postal_code": "08062", "lat": 39.716939, "lng": -75.21987, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

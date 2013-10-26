@@ -1,1 +1,1 @@
-{"lat": 30.715207, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Granger", "lng": -97.43449, "zip_code": "76530"}
+{"locality": "Granger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Granger"], "postal_code": "76530", "lat": 30.715207, "lng": -97.43449, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.832842, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Collinsville", "lng": -72.92526, "zip_code": "06022"});
+zipapicallback({"locality": "Collinsville", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Collinsville"], "postal_code": "06022", "lat": 41.832842, "lng": -72.92526, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}, {"fips": "005", "name": "Litchfield"}]});

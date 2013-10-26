@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.229581, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Branchville", "lng": -80.80248, "zip_code": "29432"});
+zipapicallback({"locality": "Branchville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Branchville"], "postal_code": "29432", "lat": 33.229581, "lng": -80.80248, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}, {"fips": "009", "name": "Bamberg"}, {"fips": "035", "name": "Dorchester"}]});

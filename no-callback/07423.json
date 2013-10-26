@@ -1,1 +1,1 @@
-{"lat": 41.001695, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ho Ho Kus", "lng": -74.10239, "zip_code": "07423"}
+{"locality": "Ho Ho Kus", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ho Ho Kus"], "postal_code": "07423", "lat": 41.001695, "lng": -74.10239, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

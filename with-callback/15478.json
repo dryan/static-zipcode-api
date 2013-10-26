@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.791113, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Smithfield", "lng": -79.81247, "zip_code": "15478"});
+zipapicallback({"locality": "Smithfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Smithfield"], "postal_code": "15478", "lat": 39.791113, "lng": -79.81247, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]});

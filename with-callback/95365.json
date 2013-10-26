@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.297403, "region": {"abbr": "CA", "name": "California"}, "locality": "Planada", "lng": -120.32285, "zip_code": "95365"});
+zipapicallback({"locality": "Planada", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Planada"], "postal_code": "95365", "lat": 37.297403, "lng": -120.32285, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]});

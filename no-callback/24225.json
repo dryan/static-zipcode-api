@@ -1,1 +1,1 @@
-{"lat": 36.968491, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cleveland", "lng": -82.1623, "zip_code": "24225"}
+{"locality": "Cleveland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cleveland"], "postal_code": "24225", "lat": 36.968491, "lng": -82.1623, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}, {"fips": "051", "name": "Dickenson"}]}

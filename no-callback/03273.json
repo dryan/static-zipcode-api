@@ -1,1 +1,1 @@
-{"lat": 43.317257, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "South Sutton", "lng": -71.92709, "zip_code": "03273"}
+{"locality": "South Sutton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["South Sutton"], "postal_code": "03273", "lat": 43.317257, "lng": -71.92709, "type": "POBOX", "counties": [{"fips": "013", "name": "Merrimack"}]}

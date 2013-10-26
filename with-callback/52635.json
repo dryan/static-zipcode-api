@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.991682, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lockridge", "lng": -91.75175, "zip_code": "52635"});
+zipapicallback({"locality": "Lockridge", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lockridge"], "postal_code": "52635", "lat": 40.991682, "lng": -91.75175, "type": "STANDARD", "counties": [{"fips": "101", "name": "Jefferson"}]});

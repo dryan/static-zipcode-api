@@ -1,1 +1,1 @@
-{"lat": 35.618487, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Concho", "lng": -97.99188, "zip_code": "73022"}
+{"locality": "Concho", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Concho"], "postal_code": "73022", "lat": 35.618487, "lng": -97.99188, "type": "POBOX", "counties": [{"fips": "017", "name": "Canadian"}]}

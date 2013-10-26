@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.740353, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Pedricktown", "lng": -75.41262, "zip_code": "08067"});
+zipapicallback({"locality": "Pedricktown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Pedricktown"], "postal_code": "08067", "lat": 39.740353, "lng": -75.41262, "type": "STANDARD", "counties": [{"fips": "033", "name": "Salem"}]});

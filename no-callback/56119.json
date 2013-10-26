@@ -1,1 +1,1 @@
-{"lat": 43.702735, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brewster", "lng": -95.46946, "zip_code": "56119"}
+{"locality": "Brewster", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brewster"], "postal_code": "56119", "lat": 43.702735, "lng": -95.46946, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}, {"fips": "063", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.0794, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Brockton", "lng": -71.03441, "zip_code": "02301"}
+{"locality": "Brockton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Brockton"], "postal_code": "02301", "lat": 42.0794, "lng": -71.03441, "type": "STANDARD", "counties": []}

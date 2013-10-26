@@ -1,1 +1,1 @@
-{"lat": 33.647275, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Conley", "lng": -84.32753, "zip_code": "30288"}
+{"locality": "Conley", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Conley"], "postal_code": "30288", "lat": 33.647275, "lng": -84.32753, "type": "STANDARD", "counties": []}

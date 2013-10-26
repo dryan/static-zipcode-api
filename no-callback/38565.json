@@ -1,1 +1,1 @@
-{"lat": 36.260904, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Grimsley", "lng": -84.99517, "zip_code": "38565"}
+{"locality": "Grimsley", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Grimsley"], "postal_code": "38565", "lat": 36.260904, "lng": -84.99517, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fentress"}]}

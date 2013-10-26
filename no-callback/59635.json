@@ -1,1 +1,1 @@
-{"lat": 46.578943, "region": {"abbr": "MT", "name": "Montana"}, "locality": "East Helena", "lng": -111.8821, "zip_code": "59635"}
+{"locality": "East Helena", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["East Helena"], "postal_code": "59635", "lat": 46.578943, "lng": -111.8821, "type": "STANDARD", "counties": [{"fips": "049", "name": "Lewis and Clark"}, {"fips": "043", "name": "Jefferson"}]}

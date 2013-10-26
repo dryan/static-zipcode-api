@@ -1,1 +1,1 @@
-{"lat": 41.832776, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Cache Junction", "lng": -111.99738, "zip_code": "84304"}
+{"locality": "Cache Junction", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Cache Jct", "Cache Junction"], "postal_code": "84304", "lat": 41.832776, "lng": -111.99738, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cache"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.793136, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Phippsburg", "lng": -69.81778, "zip_code": "04562"});
+zipapicallback({"locality": "Phippsburg", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Phippsburg"], "postal_code": "04562", "lat": 43.793136, "lng": -69.81778, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]});

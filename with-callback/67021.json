@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.784193, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Byers", "lng": -98.89486, "zip_code": "67021"});
+zipapicallback({"locality": "Byers", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Byers"], "postal_code": "67021", "lat": 37.784193, "lng": -98.89486, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pratt"}, {"fips": "185", "name": "Stafford"}]});

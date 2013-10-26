@@ -1,1 +1,1 @@
-{"lat": 32.662563, "region": {"abbr": "CA", "name": "California"}, "locality": "Chula Vista", "lng": -116.95413, "zip_code": "91914"}
+{"locality": "Chula Vista", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chula Vista"], "postal_code": "91914", "lat": 32.662563, "lng": -116.95413, "type": "STANDARD", "counties": []}

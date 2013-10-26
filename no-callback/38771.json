@@ -1,1 +1,1 @@
-{"lat": 33.732774, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ruleville", "lng": -90.53427, "zip_code": "38771"}
+{"locality": "Ruleville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ruleville"], "postal_code": "38771", "lat": 33.732774, "lng": -90.53427, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sunflower"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.452478, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dennison", "lng": -87.57092, "zip_code": "62423"}
+{"locality": "Dennison", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dennison"], "postal_code": "62423", "lat": 39.452478, "lng": -87.57092, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edgar"}, {"fips": "023", "name": "Clark"}]}

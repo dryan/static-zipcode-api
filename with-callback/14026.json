@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.941025, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bowmansville", "lng": -78.68548, "zip_code": "14026"});
+zipapicallback({"locality": "Bowmansville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bowmansville"], "postal_code": "14026", "lat": 42.941025, "lng": -78.68548, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

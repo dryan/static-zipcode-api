@@ -1,1 +1,1 @@
-{"lat": 26.242559, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pompano Beach", "lng": -80.26564, "zip_code": "33071"}
+{"locality": "Pompano Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Coral Springs", "Pompano Beach"], "postal_code": "33071", "lat": 26.242559, "lng": -80.26564, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

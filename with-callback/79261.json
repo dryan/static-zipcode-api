@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.408268, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Turkey", "lng": -100.87132, "zip_code": "79261"});
+zipapicallback({"locality": "Turkey", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Turkey"], "postal_code": "79261", "lat": 34.408268, "lng": -100.87132, "type": "STANDARD", "counties": [{"fips": "191", "name": "Hall"}, {"fips": "045", "name": "Briscoe"}]});

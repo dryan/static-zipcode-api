@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.909551, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ninnekah", "lng": -97.9436, "zip_code": "73067"});
+zipapicallback({"locality": "Ninnekah", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ninnekah"], "postal_code": "73067", "lat": 34.909551, "lng": -97.9436, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grady"}]});

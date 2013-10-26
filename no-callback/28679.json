@@ -1,1 +1,1 @@
-{"lat": 36.255467, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Sugar Grove", "lng": -81.83002, "zip_code": "28679"}
+{"locality": "Sugar Grove", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Sugar Grove"], "postal_code": "28679", "lat": 36.255467, "lng": -81.83002, "type": "STANDARD", "counties": [{"fips": "189", "name": "Watauga"}]}

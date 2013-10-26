@@ -1,1 +1,1 @@
-{"lat": 47.170691, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hubbell", "lng": -88.43396, "zip_code": "49934"}
+{"locality": "Hubbell", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hubbell"], "postal_code": "49934", "lat": 47.170691, "lng": -88.43396, "type": "POBOX", "counties": [{"fips": "061", "name": "Houghton"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.39708, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Lapwai", "lng": -116.78649, "zip_code": "83540"}
+{"locality": "Lapwai", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Lapwai", "Spalding"], "postal_code": "83540", "lat": 46.39708, "lng": -116.78649, "type": "STANDARD", "counties": [{"fips": "069", "name": "Nez Perce"}, {"fips": "009", "name": "Benewah"}]}

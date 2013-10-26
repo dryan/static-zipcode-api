@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.817511, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Allen", "lng": -96.4108, "zip_code": "74825"});
+zipapicallback({"locality": "Allen", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Allen"], "postal_code": "74825", "lat": 34.817511, "lng": -96.4108, "type": "STANDARD", "counties": [{"fips": "123", "name": "Pontotoc"}, {"fips": "063", "name": "Hughes"}, {"fips": "029", "name": "Coal"}]});

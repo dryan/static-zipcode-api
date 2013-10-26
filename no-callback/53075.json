@@ -1,1 +1,1 @@
-{"lat": 43.564477, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Random Lake", "lng": -87.99094, "zip_code": "53075"}
+{"locality": "Random Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Random Lake"], "postal_code": "53075", "lat": 43.564477, "lng": -87.99094, "type": "STANDARD", "counties": [{"fips": "117", "name": "Sheboygan"}, {"fips": "131", "name": "Washington"}, {"fips": "089", "name": "Ozaukee"}]}

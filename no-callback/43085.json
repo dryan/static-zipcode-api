@@ -1,1 +1,1 @@
-{"lat": 40.097796, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Worthington", "lng": -83.02076, "zip_code": "43085"}
+{"locality": "Columbus", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Columbus", "Worthington"], "postal_code": "43085", "lat": 40.097796, "lng": -83.02076, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}, {"fips": "045", "name": "Fairfield"}]}

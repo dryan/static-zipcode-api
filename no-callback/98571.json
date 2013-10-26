@@ -1,1 +1,1 @@
-{"lat": 47.216861, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Pacific Beach", "lng": -124.1974, "zip_code": "98571"}
+{"locality": "Pacific Beach", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Pacific Beach"], "postal_code": "98571", "lat": 47.216861, "lng": -124.1974, "type": "POBOX", "counties": [{"fips": "027", "name": "Grays Harbor"}]}

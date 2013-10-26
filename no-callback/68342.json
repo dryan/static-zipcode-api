@@ -1,1 +1,1 @@
-{"lat": 40.105725, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Diller", "lng": -96.93428, "zip_code": "68342"}
+{"locality": "Diller", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Diller"], "postal_code": "68342", "lat": 40.105725, "lng": -96.93428, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jefferson"}, {"fips": "067", "name": "Gage"}]}

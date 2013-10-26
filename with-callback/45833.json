@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.841409, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Delphos", "lng": -84.34178, "zip_code": "45833"});
+zipapicallback({"locality": "Delphos", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Delphos"], "postal_code": "45833", "lat": 40.841409, "lng": -84.34178, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}, {"fips": "161", "name": "Van Wert"}, {"fips": "137", "name": "Putnam"}]});

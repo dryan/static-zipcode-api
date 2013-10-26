@@ -1,1 +1,1 @@
-{"lat": 38.125214, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cashs Corner", "lng": -78.197, "zip_code": "22942"}
+{"locality": "Gordonsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Gordonsville", "Zion Crossrds", "Zion Crossroads"], "postal_code": "22942", "lat": 38.125214, "lng": -78.197, "type": "STANDARD", "counties": [{"fips": "109", "name": "Louisa"}, {"fips": "137", "name": "Orange"}, {"fips": "065", "name": "Fluvanna"}, {"fips": "003", "name": "Albemarle"}]}

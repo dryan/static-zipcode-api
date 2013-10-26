@@ -1,1 +1,1 @@
-{"lat": 39.604303, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Graceham", "lng": -77.41092, "zip_code": "21788"}
+{"locality": "Thurmont", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Graceham", "Thurmont"], "postal_code": "21788", "lat": 39.604303, "lng": -77.41092, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]}

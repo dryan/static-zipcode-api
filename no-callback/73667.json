@@ -1,1 +1,1 @@
-{"lat": 36.033979, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Taloga", "lng": -98.99491, "zip_code": "73667"}
+{"locality": "Taloga", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Taloga"], "postal_code": "73667", "lat": 36.033979, "lng": -98.99491, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dewey"}]}

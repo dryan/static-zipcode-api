@@ -1,1 +1,1 @@
-{"lat": 40.394268, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wall", "lng": -79.80286, "zip_code": "15148"}
+{"locality": "Wilmerding", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wall", "Wilmerding"], "postal_code": "15148", "lat": 40.394268, "lng": -79.80286, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

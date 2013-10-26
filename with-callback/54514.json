@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.024995, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Butternut", "lng": -90.44778, "zip_code": "54514"});
+zipapicallback({"locality": "Butternut", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Butternut"], "postal_code": "54514", "lat": 46.024995, "lng": -90.44778, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashland"}, {"fips": "099", "name": "Price"}, {"fips": "051", "name": "Iron"}]});

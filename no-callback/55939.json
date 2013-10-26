@@ -1,1 +1,1 @@
-{"lat": 43.55123, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Harmony", "lng": -92.04994, "zip_code": "55939"}
+{"locality": "Harmony", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Granger", "Harmony"], "postal_code": "55939", "lat": 43.55123, "lng": -92.04994, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}]}

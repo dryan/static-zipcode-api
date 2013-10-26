@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.887081, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bimble", "lng": -83.81552, "zip_code": "40915"});
+zipapicallback({"locality": "Bimble", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bimble"], "postal_code": "40915", "lat": 36.887081, "lng": -83.81552, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.237852, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lanesville", "lng": -85.96834, "zip_code": "47136"}
+{"locality": "Lanesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lanesville"], "postal_code": "47136", "lat": 38.237852, "lng": -85.96834, "type": "STANDARD", "counties": [{"fips": "061", "name": "Harrison"}, {"fips": "043", "name": "Floyd"}]}

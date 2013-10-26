@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.851944, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Drury", "lng": -92.33081, "zip_code": "65638"});
+zipapicallback({"locality": "Drury", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Drury"], "postal_code": "65638", "lat": 36.851944, "lng": -92.33081, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}, {"fips": "067", "name": "Douglas"}]});

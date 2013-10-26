@@ -1,1 +1,1 @@
-{"lat": 44.901543, "region": {"abbr": "NY", "name": "New York"}, "locality": "Chateaugay", "lng": -74.06054, "zip_code": "12920"}
+{"locality": "Chateaugay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Chateaugay"], "postal_code": "12920", "lat": 44.901543, "lng": -74.06054, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}]}

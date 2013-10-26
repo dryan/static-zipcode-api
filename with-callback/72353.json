@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.297754, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lambrook", "lng": -91.00403, "zip_code": "72353"});
+zipapicallback({"locality": "Lambrook", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Lambrook"], "postal_code": "72353", "lat": 34.297754, "lng": -91.00403, "type": "POBOX", "counties": [{"fips": "107", "name": "Phillips"}]});

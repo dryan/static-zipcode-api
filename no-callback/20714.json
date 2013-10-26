@@ -1,1 +1,1 @@
-{"lat": 38.711264, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "North Beach", "lng": -76.53637, "zip_code": "20714"}
+{"locality": "North Beach", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Holland Point", "North Beach", "Rose Haven"], "postal_code": "20714", "lat": 38.711264, "lng": -76.53637, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}, {"fips": "003", "name": "Anne Arundel"}]}

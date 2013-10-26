@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.524003, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Atkinson", "lng": -78.18584, "zip_code": "28421"});
+zipapicallback({"locality": "Atkinson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Atkinson"], "postal_code": "28421", "lat": 34.524003, "lng": -78.18584, "type": "STANDARD", "counties": [{"fips": "141", "name": "Pender"}]});

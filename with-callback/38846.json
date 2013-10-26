@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.851034, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Glen", "lng": -88.39868, "zip_code": "38846"});
+zipapicallback({"locality": "Glen", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Glen"], "postal_code": "38846", "lat": 34.851034, "lng": -88.39868, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alcorn"}, {"fips": "141", "name": "Tishomingo"}]});

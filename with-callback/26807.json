@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.65585, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Franklin", "lng": -79.33975, "zip_code": "26807"});
+zipapicallback({"locality": "Franklin", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Franklin"], "postal_code": "26807", "lat": 38.65585, "lng": -79.33975, "type": "STANDARD", "counties": [{"fips": "071", "name": "Pendleton"}]});

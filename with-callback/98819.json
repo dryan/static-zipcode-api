@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.559477, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Conconully", "lng": -119.75474, "zip_code": "98819"});
+zipapicallback({"locality": "Conconully", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Conconully"], "postal_code": "98819", "lat": 48.559477, "lng": -119.75474, "type": "POBOX", "counties": [{"fips": "047", "name": "Okanogan"}]});

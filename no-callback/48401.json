@@ -1,1 +1,1 @@
-{"lat": 43.357999, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Applegate", "lng": -82.65433, "zip_code": "48401"}
+{"locality": "Applegate", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Applegate"], "postal_code": "48401", "lat": 43.357999, "lng": -82.65433, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}]}

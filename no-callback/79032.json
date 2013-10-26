@@ -1,1 +1,1 @@
-{"lat": 34.281443, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Edmonson", "lng": -101.898, "zip_code": "79032"}
+{"locality": "Edmonson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Edmonson"], "postal_code": "79032", "lat": 34.281443, "lng": -101.898, "type": "POBOX", "counties": [{"fips": "189", "name": "Hale"}]}

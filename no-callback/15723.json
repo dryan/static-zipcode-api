@@ -1,1 +1,1 @@
-{"lat": 40.70673, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Chambersville", "lng": -79.16106, "zip_code": "15723"}
+{"locality": "Chambersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chambersville"], "postal_code": "15723", "lat": 40.70673, "lng": -79.16106, "type": "POBOX", "counties": [{"fips": "063", "name": "Indiana"}]}

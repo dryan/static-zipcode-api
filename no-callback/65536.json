@@ -1,1 +1,1 @@
-{"lat": 37.678528, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lebanon", "lng": -92.64733, "zip_code": "65536"}
+{"locality": "Lebanon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lebanon"], "postal_code": "65536", "lat": 37.678528, "lng": -92.64733, "type": "STANDARD", "counties": [{"fips": "105", "name": "Laclede"}, {"fips": "029", "name": "Camden"}, {"fips": "059", "name": "Dallas"}]}

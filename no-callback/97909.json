@@ -1,1 +1,1 @@
-{"lat": 44.207973, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Jamieson", "lng": -117.45677, "zip_code": "97909"}
+{"locality": "Jamieson", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Jamieson"], "postal_code": "97909", "lat": 44.207973, "lng": -117.45677, "type": "STANDARD", "counties": [{"fips": "045", "name": "Malheur"}]}

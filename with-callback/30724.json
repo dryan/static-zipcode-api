@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.822176, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Eton", "lng": -84.75967, "zip_code": "30724"});
+zipapicallback({"locality": "Eton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Eton"], "postal_code": "30724", "lat": 34.822176, "lng": -84.75967, "type": "POBOX", "counties": [{"fips": "213", "name": "Murray"}]});

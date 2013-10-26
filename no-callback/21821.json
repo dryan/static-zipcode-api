@@ -1,1 +1,1 @@
-{"lat": 38.158615, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Deal Island", "lng": -75.93147, "zip_code": "21821"}
+{"locality": "Deal Island", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Chance", "Dames Quarter", "Deal Island", "Wenona"], "postal_code": "21821", "lat": 38.158615, "lng": -75.93147, "type": "STANDARD", "counties": [{"fips": "039", "name": "Somerset"}]}

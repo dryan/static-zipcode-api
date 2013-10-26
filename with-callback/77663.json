@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.520625, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Village Mills", "lng": -94.43631, "zip_code": "77663"});
+zipapicallback({"locality": "Village Mills", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Village Mills"], "postal_code": "77663", "lat": 30.520625, "lng": -94.43631, "type": "POBOX", "counties": [{"fips": "199", "name": "Hardin"}]});

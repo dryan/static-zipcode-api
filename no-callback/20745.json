@@ -1,1 +1,1 @@
-{"lat": 38.80758, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Oxon Hill", "lng": -76.99193, "zip_code": "20745"}
+{"locality": "Oxon Hill", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Forest Heights", "Forest Hts", "Oxon Hill"], "postal_code": "20745", "lat": 38.80758, "lng": -76.99193, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]}

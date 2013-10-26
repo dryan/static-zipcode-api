@@ -1,1 +1,1 @@
-{"lat": 40.613942, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stockland", "lng": -87.59259, "zip_code": "60967"}
+{"locality": "Stockland", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stockland"], "postal_code": "60967", "lat": 40.613942, "lng": -87.59259, "type": "POBOX", "counties": [{"fips": "075", "name": "Iroquois"}]}

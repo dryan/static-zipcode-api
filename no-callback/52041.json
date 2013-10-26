@@ -1,1 +1,1 @@
-{"lat": 42.491416, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Earlville", "lng": -91.26333, "zip_code": "52041"}
+{"locality": "Earlville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Earlville"], "postal_code": "52041", "lat": 42.491416, "lng": -91.26333, "type": "STANDARD", "counties": [{"fips": "055", "name": "Delaware"}]}

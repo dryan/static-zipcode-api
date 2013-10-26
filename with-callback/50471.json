@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.148134, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rudd", "lng": -92.88759, "zip_code": "50471"});
+zipapicallback({"locality": "Rudd", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rudd"], "postal_code": "50471", "lat": 43.148134, "lng": -92.88759, "type": "STANDARD", "counties": [{"fips": "067", "name": "Floyd"}]});

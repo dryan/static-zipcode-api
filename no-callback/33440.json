@@ -1,1 +1,1 @@
-{"lat": 26.714088, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Clewiston", "lng": -80.9973, "zip_code": "33440"}
+{"locality": "Clewiston", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Clewiston"], "postal_code": "33440", "lat": 26.714088, "lng": -80.9973, "type": "STANDARD", "counties": [{"fips": "051", "name": "Hendry"}, {"fips": "099", "name": "Palm Beach"}]}

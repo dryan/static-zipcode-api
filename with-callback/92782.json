@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.739571, "region": {"abbr": "CA", "name": "California"}, "locality": "Tustin", "lng": -117.78618, "zip_code": "92782"});
+zipapicallback({"locality": "Tustin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tustin"], "postal_code": "92782", "lat": 33.739571, "lng": -117.78618, "type": "STANDARD", "counties": []});

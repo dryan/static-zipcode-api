@@ -1,1 +1,1 @@
-{"lat": 38.915013, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Thurman", "lng": -82.45326, "zip_code": "45685"}
+{"locality": "Thurman", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Thurman"], "postal_code": "45685", "lat": 38.915013, "lng": -82.45326, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gallia"}, {"fips": "079", "name": "Jackson"}]}

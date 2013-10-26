@@ -1,1 +1,1 @@
-{"lat": 35.190896, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Golden Valley", "lng": -114.24036, "zip_code": "86413"}
+{"locality": "Golden Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Golden Valley", "Kingman"], "postal_code": "86413", "lat": 35.190896, "lng": -114.24036, "type": "STANDARD", "counties": []}

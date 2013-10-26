@@ -1,1 +1,1 @@
-{"lat": 40.593036, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Galveston", "lng": -86.23191, "zip_code": "46932"}
+{"locality": "Galveston", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Galveston"], "postal_code": "46932", "lat": 40.593036, "lng": -86.23191, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "103", "name": "Miami"}]}

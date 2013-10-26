@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.961187, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bumpass", "lng": -77.76824, "zip_code": "23024"});
+zipapicallback({"locality": "Bumpass", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bumpass"], "postal_code": "23024", "lat": 37.961187, "lng": -77.76824, "type": "STANDARD", "counties": [{"fips": "109", "name": "Louisa"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.199626, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wahoo", "lng": -96.6226, "zip_code": "68066"}
+{"locality": "Wahoo", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wahoo"], "postal_code": "68066", "lat": 41.199626, "lng": -96.6226, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]}

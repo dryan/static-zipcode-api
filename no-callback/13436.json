@@ -1,1 +1,1 @@
-{"lat": 43.807314, "region": {"abbr": "NY", "name": "New York"}, "locality": "Raquette Lake", "lng": -74.66771, "zip_code": "13436"}
+{"locality": "Raquette Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Raquette Lake"], "postal_code": "13436", "lat": 43.807314, "lng": -74.66771, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hamilton"}]}

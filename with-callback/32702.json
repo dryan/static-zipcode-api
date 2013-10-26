@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.046215, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Altoona", "lng": -81.64043, "zip_code": "32702"});
+zipapicallback({"locality": "Altoona", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Altoona"], "postal_code": "32702", "lat": 29.046215, "lng": -81.64043, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lake"}, {"fips": "083", "name": "Marion"}]});

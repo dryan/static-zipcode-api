@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.905004, "region": {"abbr": "NY", "name": "New York"}, "locality": "Port Ewen", "lng": -73.97957, "zip_code": "12466"});
+zipapicallback({"locality": "Port Ewen", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Port Ewen"], "postal_code": "12466", "lat": 41.905004, "lng": -73.97957, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.742432, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bridgeview", "lng": -87.80678, "zip_code": "60455"});
+zipapicallback({"locality": "Bridgeview", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bedford Park", "Bridgeview", "Oak Lawn"], "postal_code": "60455", "lat": 41.742432, "lng": -87.80678, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

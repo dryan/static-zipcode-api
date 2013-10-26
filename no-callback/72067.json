@@ -1,1 +1,1 @@
-{"lat": 35.564065, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Greers Ferry", "lng": -92.1649, "zip_code": "72067"}
+{"locality": "Higden", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Greers Ferry", "Higden"], "postal_code": "72067", "lat": 35.564065, "lng": -92.1649, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cleburne"}, {"fips": "141", "name": "Van Buren"}]}

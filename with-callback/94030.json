@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.600735, "region": {"abbr": "CA", "name": "California"}, "locality": "Millbrae", "lng": -122.40135, "zip_code": "94030"});
+zipapicallback({"locality": "Millbrae", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Millbrae"], "postal_code": "94030", "lat": 37.600735, "lng": -122.40135, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]});

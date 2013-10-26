@@ -1,1 +1,1 @@
-{"lat": 40.637244, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Pierce", "lng": -104.75847, "zip_code": "80650"}
+{"locality": "Pierce", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Pierce"], "postal_code": "80650", "lat": 40.637244, "lng": -104.75847, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

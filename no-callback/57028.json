@@ -1,1 +1,1 @@
-{"lat": 44.047857, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Flandreau", "lng": -96.58896, "zip_code": "57028"}
+{"locality": "Flandreau", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Flandreau"], "postal_code": "57028", "lat": 44.047857, "lng": -96.58896, "type": "STANDARD", "counties": [{"fips": "101", "name": "Moody"}]}

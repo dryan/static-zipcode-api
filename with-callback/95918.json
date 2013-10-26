@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.282171, "region": {"abbr": "CA", "name": "California"}, "locality": "Browns Valley", "lng": -121.34733, "zip_code": "95918"});
+zipapicallback({"locality": "Browns Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Browns Valley"], "postal_code": "95918", "lat": 39.282171, "lng": -121.34733, "type": "STANDARD", "counties": [{"fips": "115", "name": "Yuba"}]});

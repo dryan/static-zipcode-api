@@ -1,1 +1,1 @@
-{"lat": 38.217129, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tuscumbia", "lng": -92.43221, "zip_code": "65082"}
+{"locality": "Tuscumbia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tuscumbia"], "postal_code": "65082", "lat": 38.217129, "lng": -92.43221, "type": "STANDARD", "counties": [{"fips": "131", "name": "Miller"}]}

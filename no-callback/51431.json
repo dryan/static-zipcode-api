@@ -1,1 +1,1 @@
-{"lat": 42.345965, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Arthur", "lng": -95.35615, "zip_code": "51431"}
+{"locality": "Arthur", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Arthur"], "postal_code": "51431", "lat": 42.345965, "lng": -95.35615, "type": "STANDARD", "counties": [{"fips": "093", "name": "Ida"}]}

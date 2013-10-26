@@ -1,1 +1,1 @@
-zipapicallback({"lat": 59.781241, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Pedro", "lng": -154.10833, "zip_code": "99647"});
+zipapicallback({"locality": "Pedro Bay", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Iliamna", "Pedro Bay"], "postal_code": "99647", "lat": 59.781241, "lng": -154.10833, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]});

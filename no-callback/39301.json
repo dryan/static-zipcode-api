@@ -1,1 +1,1 @@
-{"lat": 32.339004, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Meridian", "lng": -88.6596, "zip_code": "39301"}
+{"locality": "Meridian", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Meridian"], "postal_code": "39301", "lat": 32.339004, "lng": -88.6596, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lauderdale"}, {"fips": "023", "name": "Clarke"}]}

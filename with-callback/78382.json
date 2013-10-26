@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.047744, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rockport", "lng": -97.04818, "zip_code": "78382"});
+zipapicallback({"locality": "Rockport", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rockport"], "postal_code": "78382", "lat": 28.047744, "lng": -97.04818, "type": "STANDARD", "counties": [{"fips": "007", "name": "Aransas"}, {"fips": "009", "name": "Archer"}]});

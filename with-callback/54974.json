@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.797693, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Rosendale", "lng": -88.66261, "zip_code": "54974"});
+zipapicallback({"locality": "Rosendale", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Rosendale"], "postal_code": "54974", "lat": 43.797693, "lng": -88.66261, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}]});

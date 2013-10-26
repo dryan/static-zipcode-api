@@ -1,1 +1,1 @@
-{"lat": 42.986119, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Fremont", "lng": -71.12524, "zip_code": "03044"}
+{"locality": "Fremont", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Fremont"], "postal_code": "03044", "lat": 42.986119, "lng": -71.12524, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

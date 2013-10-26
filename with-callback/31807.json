@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.634965, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ellerslie", "lng": -84.80137, "zip_code": "31807"});
+zipapicallback({"locality": "Ellerslie", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ellerslie"], "postal_code": "31807", "lat": 32.634965, "lng": -84.80137, "type": "STANDARD", "counties": [{"fips": "145", "name": "Harris"}]});

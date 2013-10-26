@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.378439, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Warrenton", "lng": -78.13903, "zip_code": "27589"});
+zipapicallback({"locality": "Warrenton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Warrenton"], "postal_code": "27589", "lat": 36.378439, "lng": -78.13903, "type": "STANDARD", "counties": [{"fips": "185", "name": "Warren"}]});

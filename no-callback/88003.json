@@ -1,1 +1,1 @@
-{"lat": 32.279944, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Las Cruces", "lng": -106.7541, "zip_code": "88003"}
+{"locality": "Las Cruces", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Las Cruces"], "postal_code": "88003", "lat": 32.279944, "lng": -106.7541, "type": "POBOX", "counties": [{"fips": "013", "name": "Dona Ana"}]}

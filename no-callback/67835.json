@@ -1,1 +1,1 @@
-{"lat": 37.84899, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cimarron", "lng": -100.32811, "zip_code": "67835"}
+{"locality": "Cimarron", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cimarron", "Kalvesta"], "postal_code": "67835", "lat": 37.84899, "lng": -100.32811, "type": "STANDARD", "counties": [{"fips": "069", "name": "Gray"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.750107, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Shenandoah", "lng": -95.36514, "zip_code": "51601"});
+zipapicallback({"locality": "Shenandoah", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Shenandoah"], "postal_code": "51601", "lat": 40.750107, "lng": -95.36514, "type": "STANDARD", "counties": [{"fips": "145", "name": "Page"}, {"fips": "071", "name": "Fremont"}]});

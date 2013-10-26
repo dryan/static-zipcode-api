@@ -1,1 +1,1 @@
-{"lat": 41.160944, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saint Petersburg", "lng": -79.65393, "zip_code": "16054"}
+{"locality": "Saint Petersburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saint Petersburg", "St Petersburg"], "postal_code": "16054", "lat": 41.160944, "lng": -79.65393, "type": "POBOX", "counties": [{"fips": "031", "name": "Clarion"}]}

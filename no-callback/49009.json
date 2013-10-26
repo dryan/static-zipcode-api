@@ -1,1 +1,1 @@
-{"lat": 42.272538, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kalamazoo", "lng": -85.69255, "zip_code": "49009"}
+{"locality": "Kalamazoo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kalamazoo"], "postal_code": "49009", "lat": 42.272538, "lng": -85.69255, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}, {"fips": "159", "name": "Van Buren"}]}

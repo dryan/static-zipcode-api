@@ -1,1 +1,1 @@
-{"lat": 42.836858, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Seneca", "lng": -78.75557, "zip_code": "14224"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buffalo", "West Seneca"], "postal_code": "14224", "lat": 42.836858, "lng": -78.75557, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

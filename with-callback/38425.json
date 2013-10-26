@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.401188, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Clifton", "lng": -87.97188, "zip_code": "38425"});
+zipapicallback({"locality": "Clifton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Clifton"], "postal_code": "38425", "lat": 35.401188, "lng": -87.97188, "type": "STANDARD", "counties": [{"fips": "181", "name": "Wayne"}, {"fips": "135", "name": "Perry"}, {"fips": "071", "name": "Hardin"}]});

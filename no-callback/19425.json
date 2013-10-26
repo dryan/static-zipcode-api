@@ -1,1 +1,1 @@
-{"lat": 40.089905, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Chester Springs", "lng": -75.64124, "zip_code": "19425"}
+{"locality": "Chester Springs", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chester Sprgs", "Chester Springs"], "postal_code": "19425", "lat": 40.089905, "lng": -75.64124, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]}

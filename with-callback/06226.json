@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.714867, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Willimantic", "lng": -72.20934, "zip_code": "06226"});
+zipapicallback({"locality": "Willimantic", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Willimantic"], "postal_code": "06226", "lat": 41.714867, "lng": -72.20934, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}, {"fips": "013", "name": "Tolland"}]});

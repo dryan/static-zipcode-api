@@ -1,1 +1,1 @@
-{"lat": 35.303843, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Placitas", "lng": -106.44361, "zip_code": "87043"}
+{"locality": "Placitas", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Placitas"], "postal_code": "87043", "lat": 35.303843, "lng": -106.44361, "type": "STANDARD", "counties": [{"fips": "043", "name": "Sandoval"}]}

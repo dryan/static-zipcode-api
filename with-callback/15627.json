@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.339547, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Derry", "lng": -79.30172, "zip_code": "15627"});
+zipapicallback({"locality": "Derry", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Derry"], "postal_code": "15627", "lat": 40.339547, "lng": -79.30172, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.433661, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Peru", "lng": -73.09278, "zip_code": "01235"});
+zipapicallback({"locality": "Hinsdale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hinsdale", "Peru"], "postal_code": "01235", "lat": 42.433661, "lng": -73.09278, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]});

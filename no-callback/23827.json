@@ -1,1 +1,1 @@
-{"lat": 36.602472, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Boykins", "lng": -77.20851, "zip_code": "23827"}
+{"locality": "Boykins", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Boykins"], "postal_code": "23827", "lat": 36.602472, "lng": -77.20851, "type": "STANDARD", "counties": [{"fips": "175", "name": "Southampton"}]}

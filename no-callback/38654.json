@@ -1,1 +1,1 @@
-{"lat": 34.954106, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Olive Branch", "lng": -89.83743, "zip_code": "38654"}
+{"locality": "Olive Branch", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mineral Wells", "Olive Branch"], "postal_code": "38654", "lat": 34.954106, "lng": -89.83743, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Soto"}]}

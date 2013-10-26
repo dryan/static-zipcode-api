@@ -1,1 +1,1 @@
-{"lat": 40.140472, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Trinway", "lng": -82.01079, "zip_code": "43842"}
+{"locality": "Trinway", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Trinway"], "postal_code": "43842", "lat": 40.140472, "lng": -82.01079, "type": "POBOX", "counties": [{"fips": "119", "name": "Muskingum"}]}

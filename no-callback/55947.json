@@ -1,1 +1,1 @@
-{"lat": 43.829382, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "La Crescent", "lng": -91.33919, "zip_code": "55947"}
+{"locality": "La Crescent", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["La Crescent"], "postal_code": "55947", "lat": 43.829382, "lng": -91.33919, "type": "STANDARD", "counties": [{"fips": "055", "name": "Houston"}, {"fips": "169", "name": "Winona"}]}

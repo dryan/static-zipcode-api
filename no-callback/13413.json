@@ -1,1 +1,1 @@
-{"lat": 43.067169, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Hartford", "lng": -75.28767, "zip_code": "13413"}
+{"locality": "New Hartford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Hartford"], "postal_code": "13413", "lat": 43.067169, "lng": -75.28767, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}, {"fips": "043", "name": "Herkimer"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.332945, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Reubens", "lng": -116.52939, "zip_code": "83548"}
+{"locality": "Reubens", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Culdesac", "Reubens"], "postal_code": "83548", "lat": 46.332945, "lng": -116.52939, "type": "STANDARD", "counties": [{"fips": "069", "name": "Nez Perce"}, {"fips": "061", "name": "Lewis"}]}

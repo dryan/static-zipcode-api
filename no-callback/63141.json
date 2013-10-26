@@ -1,1 +1,1 @@
-{"lat": 38.662302, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Creve Coeur", "lng": -90.45363, "zip_code": "63141"}
+{"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Creve Coeur", "Saint Louis"], "postal_code": "63141", "lat": 38.662302, "lng": -90.45363, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

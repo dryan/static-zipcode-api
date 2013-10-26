@@ -1,1 +1,1 @@
-{"lat": 44.227802, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Balaton", "lng": -95.9021, "zip_code": "56115"}
+{"locality": "Balaton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Balaton"], "postal_code": "56115", "lat": 44.227802, "lng": -95.9021, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}, {"fips": "101", "name": "Murray"}]}

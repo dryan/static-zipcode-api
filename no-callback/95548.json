@@ -1,1 +1,1 @@
-{"lat": 41.51823, "region": {"abbr": "CA", "name": "California"}, "locality": "Klamath", "lng": -124.03075, "zip_code": "95548"}
+{"locality": "Klamath", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Klamath"], "postal_code": "95548", "lat": 41.51823, "lng": -124.03075, "type": "STANDARD", "counties": [{"fips": "015", "name": "Del Norte"}]}

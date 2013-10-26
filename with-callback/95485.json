@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.172397, "region": {"abbr": "CA", "name": "California"}, "locality": "Upper Lake", "lng": -122.90474, "zip_code": "95485"});
+zipapicallback({"locality": "Upper Lake", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Upper Lake"], "postal_code": "95485", "lat": 39.172397, "lng": -122.90474, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

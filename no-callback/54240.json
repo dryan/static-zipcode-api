@@ -1,1 +1,1 @@
-{"lat": 44.326784, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Tisch Mills", "lng": -87.62239, "zip_code": "54240"}
+{"locality": "Tisch Mills", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tisch Mills"], "postal_code": "54240", "lat": 44.326784, "lng": -87.62239, "type": "POBOX", "counties": [{"fips": "071", "name": "Manitowoc"}]}

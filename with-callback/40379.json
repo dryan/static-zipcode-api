@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.29617, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Stamping Ground", "lng": -84.69614, "zip_code": "40379"});
+zipapicallback({"locality": "Stamping Ground", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Stamping Grd", "Stamping Ground"], "postal_code": "40379", "lat": 38.29617, "lng": -84.69614, "type": "STANDARD", "counties": [{"fips": "209", "name": "Scott"}, {"fips": "187", "name": "Owen"}, {"fips": "073", "name": "Franklin"}]});

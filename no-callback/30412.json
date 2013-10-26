@@ -1,1 +1,1 @@
-{"lat": 32.083879, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Alston", "lng": -82.47988, "zip_code": "30412"}
+{"locality": "Alston", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Alston"], "postal_code": "30412", "lat": 32.083879, "lng": -82.47988, "type": "POBOX", "counties": [{"fips": "209", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.424381, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hookerton", "lng": -77.58452, "zip_code": "28538"}
+{"locality": "Hookerton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hookerton"], "postal_code": "28538", "lat": 35.424381, "lng": -77.58452, "type": "STANDARD", "counties": [{"fips": "079", "name": "Greene"}]}

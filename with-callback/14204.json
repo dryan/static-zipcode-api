@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.884008, "region": {"abbr": "NY", "name": "New York"}, "locality": "Buffalo", "lng": -78.86152, "zip_code": "14204"});
+zipapicallback({"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buffalo"], "postal_code": "14204", "lat": 42.884008, "lng": -78.86152, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

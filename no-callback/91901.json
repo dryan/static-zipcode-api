@@ -1,1 +1,1 @@
-{"lat": 32.823102, "region": {"abbr": "CA", "name": "California"}, "locality": "Alpine", "lng": -116.73864, "zip_code": "91901"}
+{"locality": "Alpine", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alpine"], "postal_code": "91901", "lat": 32.823102, "lng": -116.73864, "type": "STANDARD", "counties": []}

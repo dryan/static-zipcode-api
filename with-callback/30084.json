@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.853853, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Tucker", "lng": -84.22036, "zip_code": "30084"});
+zipapicallback({"locality": "Tucker", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Tucker"], "postal_code": "30084", "lat": 33.853853, "lng": -84.22036, "type": "STANDARD", "counties": [{"fips": "135", "name": "Gwinnett"}, {"fips": "089", "name": "De Kalb"}]});

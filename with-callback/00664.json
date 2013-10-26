@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.212565, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Jayuya", "lng": -66.59243, "zip_code": "00664"});
+zipapicallback({"locality": "Jayuya", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Jayuya"], "postal_code": "00664", "lat": 18.212565, "lng": -66.59243, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jayuya"}]});

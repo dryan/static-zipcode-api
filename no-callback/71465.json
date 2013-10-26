@@ -1,1 +1,1 @@
-{"lat": 31.861406, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Olla", "lng": -92.19259, "zip_code": "71465"}
+{"locality": "Olla", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Olla"], "postal_code": "71465", "lat": 31.861406, "lng": -92.19259, "type": "STANDARD", "counties": [{"fips": "059", "name": "La Salle"}, {"fips": "025", "name": "Catahoula"}, {"fips": "127", "name": "Winn"}, {"fips": "021", "name": "Caldwell"}]}

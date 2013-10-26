@@ -1,1 +1,1 @@
-{"lat": 32.872349, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Pinos Altos", "lng": -108.21816, "zip_code": "88053"}
+{"locality": "Pinos Altos", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Pinos Altos", "Silver City"], "postal_code": "88053", "lat": 32.872349, "lng": -108.21816, "type": "POBOX", "counties": [{"fips": "017", "name": "Grant"}]}

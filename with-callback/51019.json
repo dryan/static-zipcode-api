@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.276668, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Danbury", "lng": -95.71998, "zip_code": "51019"});
+zipapicallback({"locality": "Danbury", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Danbury"], "postal_code": "51019", "lat": 42.276668, "lng": -95.71998, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]});

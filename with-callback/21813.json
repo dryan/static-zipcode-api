@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.431954, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bishopville", "lng": -75.18061, "zip_code": "21813"});
+zipapicallback({"locality": "Bishopville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bishopville"], "postal_code": "21813", "lat": 38.431954, "lng": -75.18061, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]});

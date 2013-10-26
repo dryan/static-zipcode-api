@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.611528, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Marion", "lng": -98.36911, "zip_code": "58466"});
+zipapicallback({"locality": "Marion", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Marion"], "postal_code": "58466", "lat": 46.611528, "lng": -98.36911, "type": "STANDARD", "counties": [{"fips": "045", "name": "Lamoure"}, {"fips": "093", "name": "Stutsman"}, {"fips": "003", "name": "Barnes"}]});

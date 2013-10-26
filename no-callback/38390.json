@@ -1,1 +1,1 @@
-{"lat": 35.843868, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Yuma", "lng": -88.36661, "zip_code": "38390"}
+{"locality": "Yuma", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Yuma"], "postal_code": "38390", "lat": 35.843868, "lng": -88.36661, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]}

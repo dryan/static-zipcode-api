@@ -1,1 +1,1 @@
-{"lat": 39.128854, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Poolesville", "lng": -77.40763, "zip_code": "20837"}
+{"locality": "Poolesville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Poolesville"], "postal_code": "20837", "lat": 39.128854, "lng": -77.40763, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

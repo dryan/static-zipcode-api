@@ -1,1 +1,1 @@
-{"lat": 45.651767, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Stanchfield", "lng": -93.21439, "zip_code": "55080"}
+{"locality": "Stanchfield", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Stanchfield"], "postal_code": "55080", "lat": 45.651767, "lng": -93.21439, "type": "STANDARD", "counties": [{"fips": "059", "name": "Isanti"}, {"fips": "025", "name": "Chisago"}]}

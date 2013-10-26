@@ -1,1 +1,1 @@
-{"lat": 44.278808, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Harrisburg", "lng": -123.12026, "zip_code": "97446"}
+{"locality": "Harrisburg", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Harrisburg"], "postal_code": "97446", "lat": 44.278808, "lng": -123.12026, "type": "STANDARD", "counties": [{"fips": "043", "name": "Linn"}, {"fips": "039", "name": "Lane"}]}

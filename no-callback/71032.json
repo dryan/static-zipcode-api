@@ -1,1 +1,1 @@
-{"lat": 32.110359, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Grand Cane", "lng": -93.78584, "zip_code": "71032"}
+{"locality": "Grand Cane", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Grand Cane"], "postal_code": "71032", "lat": 32.110359, "lng": -93.78584, "type": "STANDARD", "counties": [{"fips": "031", "name": "De Soto"}]}

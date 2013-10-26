@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.435789, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Lutherville", "lng": -76.63614, "zip_code": "21093"});
+zipapicallback({"locality": "Lutherville Timonium", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Lutherville", "Lutherville Timonium", "Luthvle Timon", "Timonium"], "postal_code": "21093", "lat": 39.435789, "lng": -76.63614, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]});

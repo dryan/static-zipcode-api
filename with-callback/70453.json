@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.702471, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pine Grove", "lng": -90.77604, "zip_code": "70453"});
+zipapicallback({"locality": "Pine Grove", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pine Grove"], "postal_code": "70453", "lat": 30.702471, "lng": -90.77604, "type": "STANDARD", "counties": [{"fips": "091", "name": "St. Helena"}]});

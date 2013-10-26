@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.909197, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Seward", "lng": -97.11206, "zip_code": "68434"});
+zipapicallback({"locality": "Seward", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Seward"], "postal_code": "68434", "lat": 40.909197, "lng": -97.11206, "type": "STANDARD", "counties": [{"fips": "159", "name": "Seward"}]});

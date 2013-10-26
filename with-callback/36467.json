@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.280048, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Opp", "lng": -86.25484, "zip_code": "36467"});
+zipapicallback({"locality": "Opp", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Horn Hill", "Onycha", "Opp"], "postal_code": "36467", "lat": 31.280048, "lng": -86.25484, "type": "STANDARD", "counties": [{"fips": "039", "name": "Covington"}, {"fips": "031", "name": "Coffee"}, {"fips": "041", "name": "Crenshaw"}]});

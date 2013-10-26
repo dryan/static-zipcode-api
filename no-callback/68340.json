@@ -1,1 +1,1 @@
-{"lat": 40.135651, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Deshler", "lng": -97.73636, "zip_code": "68340"}
+{"locality": "Deshler", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Deshler"], "postal_code": "68340", "lat": 40.135651, "lng": -97.73636, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}]}

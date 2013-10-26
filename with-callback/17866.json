@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.791328, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ranshaw", "lng": -76.56393, "zip_code": "17866"});
+zipapicallback({"locality": "Coal Township", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coal Township", "Excelsior", "Ranshaw"], "postal_code": "17866", "lat": 40.791328, "lng": -76.56393, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]});

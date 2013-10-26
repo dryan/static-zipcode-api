@@ -1,1 +1,1 @@
-{"lat": 43.319027, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hamlin", "lng": -77.91991, "zip_code": "14464"}
+{"locality": "Hamlin", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hamlin"], "postal_code": "14464", "lat": 43.319027, "lng": -77.91991, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}, {"fips": "073", "name": "Orleans"}]}

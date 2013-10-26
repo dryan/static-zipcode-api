@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.4776, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Vandiver", "lng": -86.5126, "zip_code": "35176"});
+zipapicallback({"locality": "Vandiver", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Vandiver"], "postal_code": "35176", "lat": 33.4776, "lng": -86.5126, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]});

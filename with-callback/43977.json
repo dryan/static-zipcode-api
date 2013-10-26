@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.147388, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Flushing", "lng": -81.11291, "zip_code": "43977"});
+zipapicallback({"locality": "Flushing", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Flushing"], "postal_code": "43977", "lat": 40.147388, "lng": -81.11291, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}, {"fips": "067", "name": "Harrison"}]});

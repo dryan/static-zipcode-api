@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.583517, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Simpson", "lng": -75.51015, "zip_code": "18407"});
+zipapicallback({"locality": "Carbondale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Carbondale", "Childs", "Clifford Township", "Clifford Twp", "Greenfield Township", "Greenfild Twp", "Simpson"], "postal_code": "18407", "lat": 41.583517, "lng": -75.51015, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}, {"fips": "115", "name": "Susquehanna"}]});

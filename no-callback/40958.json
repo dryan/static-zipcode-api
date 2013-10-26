@@ -1,1 +1,1 @@
-{"lat": 36.793291, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Kettle Island", "lng": -83.58725, "zip_code": "40958"}
+{"locality": "Kettle Island", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Kettle Island"], "postal_code": "40958", "lat": 36.793291, "lng": -83.58725, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bell"}]}

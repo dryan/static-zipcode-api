@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.302783, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Livingston", "lng": -84.21527, "zip_code": "40445"});
+zipapicallback({"locality": "Livingston", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Livingston"], "postal_code": "40445", "lat": 37.302783, "lng": -84.21527, "type": "STANDARD", "counties": [{"fips": "203", "name": "Rockcastle"}, {"fips": "125", "name": "Laurel"}]});

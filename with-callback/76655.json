@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.393062, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lorena", "lng": -97.16178, "zip_code": "76655"});
+zipapicallback({"locality": "Lorena", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lorena"], "postal_code": "76655", "lat": 31.393062, "lng": -97.16178, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}, {"fips": "145", "name": "Falls"}]});

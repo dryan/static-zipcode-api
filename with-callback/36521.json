@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.965694, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Chunchula", "lng": -88.18697, "zip_code": "36521"});
+zipapicallback({"locality": "Chunchula", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Chunchula"], "postal_code": "36521", "lat": 30.965694, "lng": -88.18697, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]});

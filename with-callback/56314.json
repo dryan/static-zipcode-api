@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.814436, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bowlus", "lng": -94.42539, "zip_code": "56314"});
+zipapicallback({"locality": "Bowlus", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bowlus", "Elmdale"], "postal_code": "56314", "lat": 45.814436, "lng": -94.42539, "type": "STANDARD", "counties": [{"fips": "097", "name": "Morrison"}, {"fips": "145", "name": "Stearns"}]});

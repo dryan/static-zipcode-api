@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.382453, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Port Royal", "lng": -80.69009, "zip_code": "29935"});
+zipapicallback({"locality": "Port Royal", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Port Royal"], "postal_code": "29935", "lat": 32.382453, "lng": -80.69009, "type": "STANDARD", "counties": [{"fips": "013", "name": "Beaufort"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.422585, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Zenda", "lng": -98.30304, "zip_code": "67159"});
+zipapicallback({"locality": "Zenda", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Zenda"], "postal_code": "67159", "lat": 37.422585, "lng": -98.30304, "type": "STANDARD", "counties": [{"fips": "095", "name": "Kingman"}, {"fips": "077", "name": "Harper"}]});

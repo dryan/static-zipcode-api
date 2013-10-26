@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.006349, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tavernier", "lng": -80.53139, "zip_code": "33070"});
+zipapicallback({"locality": "Tavernier", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Tavernier"], "postal_code": "33070", "lat": 25.006349, "lng": -80.53139, "type": "STANDARD", "counties": [{"fips": "087", "name": "Monroe"}]});

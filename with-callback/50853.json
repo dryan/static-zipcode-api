@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.247145, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Massena", "lng": -94.77195, "zip_code": "50853"});
+zipapicallback({"locality": "Massena", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Massena"], "postal_code": "50853", "lat": 41.247145, "lng": -94.77195, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cass"}, {"fips": "001", "name": "Adair"}, {"fips": "003", "name": "Adams"}]});

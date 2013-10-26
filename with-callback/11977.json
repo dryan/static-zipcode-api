@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.81819, "region": {"abbr": "NY", "name": "New York"}, "locality": "Westhampton", "lng": -72.67835, "zip_code": "11977"});
+zipapicallback({"locality": "Westhampton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Westhampton"], "postal_code": "11977", "lat": 40.81819, "lng": -72.67835, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

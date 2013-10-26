@@ -1,1 +1,1 @@
-{"lat": 41.69971, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "South Kent", "lng": -73.44024, "zip_code": "06785"}
+{"locality": "South Kent", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["South Kent"], "postal_code": "06785", "lat": 41.69971, "lng": -73.44024, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.248787, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gastonia", "lng": -81.2142, "zip_code": "28052"});
+zipapicallback({"locality": "Gastonia", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gastonia"], "postal_code": "28052", "lat": 35.248787, "lng": -81.2142, "type": "STANDARD", "counties": [{"fips": "071", "name": "Gaston"}]});

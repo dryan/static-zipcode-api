@@ -1,1 +1,1 @@
-{"lat": 34.241416, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Flomot", "lng": -100.93789, "zip_code": "79234"}
+{"locality": "Flomot", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Flomot"], "postal_code": "79234", "lat": 34.241416, "lng": -100.93789, "type": "STANDARD", "counties": [{"fips": "345", "name": "Motley"}, {"fips": "153", "name": "Floyd"}]}

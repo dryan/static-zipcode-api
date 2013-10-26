@@ -1,1 +1,1 @@
-{"lat": 40.6789, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Basking Ridge", "lng": -74.57039, "zip_code": "07920"}
+{"locality": "Basking Ridge", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Basking Ridge"], "postal_code": "07920", "lat": 40.6789, "lng": -74.57039, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}, {"fips": "039", "name": "Union"}]}

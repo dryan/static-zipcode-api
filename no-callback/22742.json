@@ -1,1 +1,1 @@
-{"lat": 38.456916, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sumerduck", "lng": -77.7009, "zip_code": "22742"}
+{"locality": "Sumerduck", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sumerduck"], "postal_code": "22742", "lat": 38.456916, "lng": -77.7009, "type": "STANDARD", "counties": [{"fips": "061", "name": "Fauquier"}]}

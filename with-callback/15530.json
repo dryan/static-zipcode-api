@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.937504, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Berlin", "lng": -78.94183, "zip_code": "15530"});
+zipapicallback({"locality": "Berlin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Berlin"], "postal_code": "15530", "lat": 39.937504, "lng": -78.94183, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}]});

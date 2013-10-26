@@ -1,1 +1,1 @@
-{"lat": 33.676358, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lithonia", "lng": -84.15381, "zip_code": "30038"}
+{"locality": "Lithonia", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lithonia"], "postal_code": "30038", "lat": 33.676358, "lng": -84.15381, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}]}

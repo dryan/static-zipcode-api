@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.0805, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hebron", "lng": -84.68754, "zip_code": "41048"});
+zipapicallback({"locality": "Hebron", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hebron"], "postal_code": "41048", "lat": 39.0805, "lng": -84.68754, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}]});

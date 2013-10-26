@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.087794, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Brick", "lng": -74.10981, "zip_code": "08724"});
+zipapicallback({"locality": "Brick", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Brick", "Wall Township"], "postal_code": "08724", "lat": 40.087794, "lng": -74.10981, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

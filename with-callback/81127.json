@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.218131, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Chimney Rock", "lng": -107.34452, "zip_code": "81127"});
+zipapicallback({"locality": "Chimney Rock", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Chimney Rock", "Piedra"], "postal_code": "81127", "lat": 37.218131, "lng": -107.34452, "type": "STANDARD", "counties": [{"fips": "007", "name": "Archuleta"}]});

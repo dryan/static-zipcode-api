@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.782158, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Entiat", "lng": -120.35944, "zip_code": "98822"});
+zipapicallback({"locality": "Entiat", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Entiat"], "postal_code": "98822", "lat": 47.782158, "lng": -120.35944, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}]});

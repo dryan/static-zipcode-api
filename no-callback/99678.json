@@ -1,1 +1,1 @@
-{"lat": 59.101934, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Togiak", "lng": -160.50353, "zip_code": "99678"}
+{"locality": "Togiak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Togiak"], "postal_code": "99678", "lat": 59.101934, "lng": -160.50353, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]}

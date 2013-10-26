@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.801264, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Galien", "lng": -86.50367, "zip_code": "49113"});
+zipapicallback({"locality": "Galien", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Galien"], "postal_code": "49113", "lat": 41.801264, "lng": -86.50367, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}]});

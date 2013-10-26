@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.790834, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Coffeeville", "lng": -88.06933, "zip_code": "36524"});
+zipapicallback({"locality": "Coffeeville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Coffeeville"], "postal_code": "36524", "lat": 31.790834, "lng": -88.06933, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clarke"}]});

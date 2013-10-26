@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.167303, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "O Kean", "lng": -90.81515, "zip_code": "72449"});
+zipapicallback({"locality": "O Kean", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["O Kean"], "postal_code": "72449", "lat": 36.167303, "lng": -90.81515, "type": "POBOX", "counties": [{"fips": "121", "name": "Randolph"}]});

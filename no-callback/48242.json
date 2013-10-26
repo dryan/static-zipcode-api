@@ -1,1 +1,1 @@
-{"lat": 42.20649, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Detroit", "lng": -83.35297, "zip_code": "48242"}
+{"locality": "Detroit", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit"], "postal_code": "48242", "lat": 42.20649, "lng": -83.35297, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

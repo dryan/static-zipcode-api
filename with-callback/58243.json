@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.515762, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Hoople", "lng": -97.66385, "zip_code": "58243"});
+zipapicallback({"locality": "Hoople", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hoople"], "postal_code": "58243", "lat": 48.515762, "lng": -97.66385, "type": "STANDARD", "counties": [{"fips": "099", "name": "Walsh"}, {"fips": "067", "name": "Pembina"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.631549, "region": {"abbr": "ME", "name": "Maine"}, "locality": "South Portland", "lng": -70.27272, "zip_code": "04106"}
+{"locality": "South Portland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Portland", "S Portland", "South Portland"], "postal_code": "04106", "lat": 43.631549, "lng": -70.27272, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

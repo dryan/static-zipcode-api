@@ -1,1 +1,1 @@
-{"lat": 38.182772, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Fisherville", "lng": -85.43238, "zip_code": "40023"}
+{"locality": "Fisherville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Fisherville", "Wilsonville"], "postal_code": "40023", "lat": 38.182772, "lng": -85.43238, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}, {"fips": "215", "name": "Spencer"}, {"fips": "211", "name": "Shelby"}]}

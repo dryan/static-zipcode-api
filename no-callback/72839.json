@@ -1,1 +1,1 @@
-{"lat": 35.651525, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hagarville", "lng": -93.29708, "zip_code": "72839"}
+{"locality": "Hagarville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hagarville"], "postal_code": "72839", "lat": 35.651525, "lng": -93.29708, "type": "STANDARD", "counties": [{"fips": "071", "name": "Johnson"}]}

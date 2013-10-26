@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.865998, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elwood", "lng": -73.31796, "zip_code": "11731"});
+zipapicallback({"locality": "East Northport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["E Northport", "East Northport", "Elwood"], "postal_code": "11731", "lat": 40.865998, "lng": -73.31796, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

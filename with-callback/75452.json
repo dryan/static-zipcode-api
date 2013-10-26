@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.385224, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Leonard", "lng": -96.24782, "zip_code": "75452"});
+zipapicallback({"locality": "Leonard", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Leonard"], "postal_code": "75452", "lat": 33.385224, "lng": -96.24782, "type": "STANDARD", "counties": [{"fips": "147", "name": "Fannin"}]});

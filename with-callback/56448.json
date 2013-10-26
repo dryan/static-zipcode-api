@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.747211, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Fifty Lakes", "lng": -94.07246, "zip_code": "56448"});
+zipapicallback({"locality": "Fifty Lakes", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Fifty Lakes"], "postal_code": "56448", "lat": 46.747211, "lng": -94.07246, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crow Wing"}]});

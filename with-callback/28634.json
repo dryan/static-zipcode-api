@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.97991, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Harmony", "lng": -80.77085, "zip_code": "28634"});
+zipapicallback({"locality": "Harmony", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Harmony"], "postal_code": "28634", "lat": 35.97991, "lng": -80.77085, "type": "STANDARD", "counties": [{"fips": "097", "name": "Iredell"}, {"fips": "197", "name": "Yadkin"}, {"fips": "059", "name": "Davie"}]});

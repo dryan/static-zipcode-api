@@ -1,1 +1,1 @@
-{"lat": 34.808165, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Athens", "lng": -86.89623, "zip_code": "35613"}
+{"locality": "Athens", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Athens"], "postal_code": "35613", "lat": 34.808165, "lng": -86.89623, "type": "STANDARD", "counties": []}

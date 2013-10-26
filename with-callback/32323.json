@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.879559, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lanark Village", "lng": -84.60134, "zip_code": "32323"});
+zipapicallback({"locality": "Lanark Village", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lanark Village", "Lanark Vlg"], "postal_code": "32323", "lat": 29.879559, "lng": -84.60134, "type": "POBOX", "counties": [{"fips": "037", "name": "Franklin"}]});

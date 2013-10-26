@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.783203, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Tekamah", "lng": -96.21577, "zip_code": "68061"});
+zipapicallback({"locality": "Tekamah", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Tekamah"], "postal_code": "68061", "lat": 41.783203, "lng": -96.21577, "type": "STANDARD", "counties": [{"fips": "021", "name": "Burt"}]});

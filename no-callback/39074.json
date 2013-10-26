@@ -1,1 +1,1 @@
-{"lat": 32.379693, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Forest", "lng": -89.46552, "zip_code": "39074"}
+{"locality": "Forest", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Forest"], "postal_code": "39074", "lat": 32.379693, "lng": -89.46552, "type": "STANDARD", "counties": [{"fips": "123", "name": "Scott"}, {"fips": "129", "name": "Smith"}]}

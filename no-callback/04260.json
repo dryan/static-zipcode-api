@@ -1,1 +1,1 @@
-{"lat": 43.957375, "region": {"abbr": "ME", "name": "Maine"}, "locality": "New Gloucester", "lng": -70.29488, "zip_code": "04260"}
+{"locality": "New Gloucester", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["New Gloucester", "New Gloucestr"], "postal_code": "04260", "lat": 43.957375, "lng": -70.29488, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

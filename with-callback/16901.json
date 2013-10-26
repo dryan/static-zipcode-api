@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.736343, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wellsboro", "lng": -77.31915, "zip_code": "16901"});
+zipapicallback({"locality": "Wellsboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wellsboro"], "postal_code": "16901", "lat": 41.736343, "lng": -77.31915, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}]});

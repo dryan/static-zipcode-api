@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.750175, "region": {"abbr": "NY", "name": "New York"}, "locality": "Varysburg", "lng": -78.32283, "zip_code": "14167"});
+zipapicallback({"locality": "Varysburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Varysburg"], "postal_code": "14167", "lat": 42.750175, "lng": -78.32283, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]});

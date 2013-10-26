@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.862479, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rhodes", "lng": -84.19641, "zip_code": "48652"});
+zipapicallback({"locality": "Rhodes", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rhodes"], "postal_code": "48652", "lat": 43.862479, "lng": -84.19641, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gladwin"}, {"fips": "017", "name": "Bay"}, {"fips": "111", "name": "Midland"}]});

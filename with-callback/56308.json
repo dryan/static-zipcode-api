@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.88645, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Alexandria", "lng": -95.38287, "zip_code": "56308"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Alexandria"], "postal_code": "56308", "lat": 45.88645, "lng": -95.38287, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "121", "name": "Pope"}, {"fips": "051", "name": "Grant"}]});

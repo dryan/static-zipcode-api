@@ -1,1 +1,1 @@
-{"lat": 34.898897, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Florence", "lng": -87.77379, "zip_code": "35633"}
+{"locality": "Florence", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Florence"], "postal_code": "35633", "lat": 34.898897, "lng": -87.77379, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lauderdale"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.782433, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lake Spring", "lng": -91.67142, "zip_code": "65532"}
+{"locality": "Lake Spring", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lake Spring"], "postal_code": "65532", "lat": 37.782433, "lng": -91.67142, "type": "POBOX", "counties": [{"fips": "065", "name": "Dent"}]}

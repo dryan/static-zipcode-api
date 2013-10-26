@@ -1,1 +1,1 @@
-{"lat": 31.304669, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Best", "lng": -101.50841, "zip_code": "76932"}
+{"locality": "Big Lake", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Best", "Big Lake", "Texon"], "postal_code": "76932", "lat": 31.304669, "lng": -101.50841, "type": "STANDARD", "counties": [{"fips": "383", "name": "Reagan"}, {"fips": "105", "name": "Crockett"}]}

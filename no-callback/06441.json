@@ -1,1 +1,1 @@
-{"lat": 41.468654, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Higganum", "lng": -72.57956, "zip_code": "06441"}
+{"locality": "Higganum", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Higganum"], "postal_code": "06441", "lat": 41.468654, "lng": -72.57956, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]}

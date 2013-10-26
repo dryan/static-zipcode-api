@@ -1,1 +1,1 @@
-{"lat": 47.899217, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Grand Forks", "lng": -97.05896, "zip_code": "58201"}
+{"locality": "Grand Forks", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Grand Forks"], "postal_code": "58201", "lat": 47.899217, "lng": -97.05896, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}]}

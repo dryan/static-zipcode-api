@@ -1,1 +1,1 @@
-{"lat": 40.322683, "region": {"abbr": "CA", "name": "California"}, "locality": "Weott", "lng": -123.92367, "zip_code": "95571"}
+{"locality": "Weott", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Weott"], "postal_code": "95571", "lat": 40.322683, "lng": -123.92367, "type": "POBOX", "counties": [{"fips": "023", "name": "Humboldt"}]}

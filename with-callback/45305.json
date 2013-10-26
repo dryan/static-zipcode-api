@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.640059, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bellbrook", "lng": -84.0855, "zip_code": "45305"});
+zipapicallback({"locality": "Bellbrook", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Beavercreek", "Beavercreek Township", "Beavercrk Twp", "Bellbrook"], "postal_code": "45305", "lat": 39.640059, "lng": -84.0855, "type": "STANDARD", "counties": [{"fips": "057", "name": "Greene"}, {"fips": "053", "name": "Gallia"}]});

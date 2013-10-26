@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.387053, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cherry Valley", "lng": -90.76307, "zip_code": "72324"});
+zipapicallback({"locality": "Cherry Valley", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Birdeye", "Cherry Valley"], "postal_code": "72324", "lat": 35.387053, "lng": -90.76307, "type": "STANDARD", "counties": [{"fips": "037", "name": "Cross"}]});

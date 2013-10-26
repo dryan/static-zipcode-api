@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.737971, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sebewaing", "lng": -83.43007, "zip_code": "48759"});
+zipapicallback({"locality": "Sebewaing", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sebewaing"], "postal_code": "48759", "lat": 43.737971, "lng": -83.43007, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}, {"fips": "157", "name": "Tuscola"}]});

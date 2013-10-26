@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.116277, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Springfield", "lng": -72.55031, "zip_code": "01109"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Springfield"], "postal_code": "01109", "lat": 42.116277, "lng": -72.55031, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]});

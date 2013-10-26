@@ -1,1 +1,1 @@
-{"lat": 36.316042, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Stewart", "lng": -87.89028, "zip_code": "37175"}
+{"locality": "Stewart", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Stewart"], "postal_code": "37175", "lat": 36.316042, "lng": -87.89028, "type": "STANDARD", "counties": [{"fips": "083", "name": "Houston"}, {"fips": "161", "name": "Stewart"}]}

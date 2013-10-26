@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.394143, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "New London", "lng": -88.75521, "zip_code": "54961"});
+zipapicallback({"locality": "New London", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["New London", "Royalton"], "postal_code": "54961", "lat": 44.394143, "lng": -88.75521, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}, {"fips": "135", "name": "Waupaca"}]});

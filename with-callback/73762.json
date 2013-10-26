@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.713606, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Okarche", "lng": -97.97217, "zip_code": "73762"});
+zipapicallback({"locality": "Okarche", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Okarche"], "postal_code": "73762", "lat": 35.713606, "lng": -97.97217, "type": "STANDARD", "counties": [{"fips": "073", "name": "Kingfisher"}, {"fips": "017", "name": "Canadian"}]});

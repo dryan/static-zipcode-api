@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.246498, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Mountain View", "lng": -110.33778, "zip_code": "82939"});
+zipapicallback({"locality": "Mountain View", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Mountain View"], "postal_code": "82939", "lat": 41.246498, "lng": -110.33778, "type": "POBOX", "counties": [{"fips": "041", "name": "Uinta"}]});

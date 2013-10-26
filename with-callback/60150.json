@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.933061, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Malta", "lng": -88.88293, "zip_code": "60150"});
+zipapicallback({"locality": "Malta", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Malta"], "postal_code": "60150", "lat": 41.933061, "lng": -88.88293, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}]});

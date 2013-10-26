@@ -1,1 +1,1 @@
-{"lat": 33.000177, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Trophy Club", "lng": -97.21871, "zip_code": "76262"}
+{"locality": "Roanoke", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Keller", "Northlake", "Roanoke", "Trophy Club", "Westlake"], "postal_code": "76262", "lat": 33.000177, "lng": -97.21871, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}, {"fips": "439", "name": "Tarrant"}]}

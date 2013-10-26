@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.437401, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Colfax", "lng": -96.89354, "zip_code": "58018"});
+zipapicallback({"locality": "Colfax", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Colfax"], "postal_code": "58018", "lat": 46.437401, "lng": -96.89354, "type": "STANDARD", "counties": [{"fips": "077", "name": "Richland"}]});

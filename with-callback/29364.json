@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.788053, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Lockhart", "lng": -81.46124, "zip_code": "29364"});
+zipapicallback({"locality": "Lockhart", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Lockhart"], "postal_code": "29364", "lat": 34.788053, "lng": -81.46124, "type": "POBOX", "counties": [{"fips": "087", "name": "Union"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.530992, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Seligman", "lng": -93.95233, "zip_code": "65745"}
+{"locality": "Seligman", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Seligman"], "postal_code": "65745", "lat": 36.530992, "lng": -93.95233, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barry"}]}

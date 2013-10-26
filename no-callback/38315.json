@@ -1,1 +1,1 @@
-{"lat": 35.260888, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bethel Springs", "lng": -88.64275, "zip_code": "38315"}
+{"locality": "Bethel Springs", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bethel Spgs", "Bethel Springs"], "postal_code": "38315", "lat": 35.260888, "lng": -88.64275, "type": "STANDARD", "counties": [{"fips": "109", "name": "McNairy"}]}

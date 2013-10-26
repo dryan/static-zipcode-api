@@ -1,1 +1,1 @@
-{"lat": 45.369468, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Zigzag", "lng": -121.92558, "zip_code": "97049"}
+{"locality": "Rhododendron", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Rhododendron", "Zigzag"], "postal_code": "97049", "lat": 45.369468, "lng": -121.92558, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]}

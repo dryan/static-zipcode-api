@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.952892, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mamaroneck", "lng": -73.7346, "zip_code": "10543"});
+zipapicallback({"locality": "Mamaroneck", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mamaroneck"], "postal_code": "10543", "lat": 40.952892, "lng": -73.7346, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.1013, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Palisade", "lng": -108.367, "zip_code": "81526"});
+zipapicallback({"locality": "Palisade", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Palisade"], "postal_code": "81526", "lat": 39.1013, "lng": -108.367, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.960596, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Browns Mills", "lng": -74.5606, "zip_code": "08015"}
+{"locality": "Browns Mills", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Browns Mills"], "postal_code": "08015", "lat": 39.960596, "lng": -74.5606, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}, {"fips": "015", "name": "Gloucester"}]}

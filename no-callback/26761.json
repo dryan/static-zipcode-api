@@ -1,1 +1,1 @@
-{"lat": 39.291196, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Shanks", "lng": -78.69317, "zip_code": "26761"}
+{"locality": "Shanks", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Shanks"], "postal_code": "26761", "lat": 39.291196, "lng": -78.69317, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hampshire"}]}

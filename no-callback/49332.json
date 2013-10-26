@@ -1,1 +1,1 @@
-{"lat": 43.623053, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mecosta", "lng": -85.25883, "zip_code": "49332"}
+{"locality": "Mecosta", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mecosta"], "postal_code": "49332", "lat": 43.623053, "lng": -85.25883, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}]}

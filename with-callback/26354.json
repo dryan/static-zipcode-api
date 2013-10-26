@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.343418, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Grafton", "lng": -80.02665, "zip_code": "26354"});
+zipapicallback({"locality": "Grafton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Belgium", "Grafton", "Harmony Grove", "Haymond", "White Day"], "postal_code": "26354", "lat": 39.343418, "lng": -80.02665, "type": "STANDARD", "counties": [{"fips": "091", "name": "Taylor"}]});

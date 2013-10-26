@@ -1,1 +1,1 @@
-{"lat": 40.186603, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Yorktown", "lng": -85.5056, "zip_code": "47396"}
+{"locality": "Yorktown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Yorktown"], "postal_code": "47396", "lat": 40.186603, "lng": -85.5056, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]}

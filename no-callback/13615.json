@@ -1,1 +1,1 @@
-{"lat": 44.005613, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brownville", "lng": -75.98315, "zip_code": "13615"}
+{"locality": "Brownville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brownville"], "postal_code": "13615", "lat": 44.005613, "lng": -75.98315, "type": "POBOX", "counties": [{"fips": "045", "name": "Jefferson"}]}

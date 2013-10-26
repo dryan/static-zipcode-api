@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.6477, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elyria", "lng": -99.05046, "zip_code": "68837"});
+zipapicallback({"locality": "Elyria", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Elyria"], "postal_code": "68837", "lat": 41.6477, "lng": -99.05046, "type": "STANDARD", "counties": [{"fips": "175", "name": "Valley"}]});

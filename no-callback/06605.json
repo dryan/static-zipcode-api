@@ -1,1 +1,1 @@
-{"lat": 41.163596, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Bridgeport", "lng": -73.21633, "zip_code": "06605"}
+{"locality": "Bridgeport", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Bridgeport"], "postal_code": "06605", "lat": 41.163596, "lng": -73.21633, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

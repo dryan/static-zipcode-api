@@ -1,1 +1,1 @@
-{"lat": 33.879513, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Luna", "lng": -108.91977, "zip_code": "87824"}
+{"locality": "Luna", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Luna"], "postal_code": "87824", "lat": 33.879513, "lng": -108.91977, "type": "POBOX", "counties": [{"fips": "003", "name": "Catron"}]}

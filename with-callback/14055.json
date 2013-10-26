@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.554206, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Concord", "lng": -78.61829, "zip_code": "14055"});
+zipapicallback({"locality": "East Concord", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Concord", "East Concord"], "postal_code": "14055", "lat": 42.554206, "lng": -78.61829, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

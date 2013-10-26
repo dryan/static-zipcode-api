@@ -1,1 +1,1 @@
-{"lat": 38.557527, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Triangle", "lng": -77.35726, "zip_code": "22172"}
+{"locality": "Triangle", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Triangle"], "postal_code": "22172", "lat": 38.557527, "lng": -77.35726, "type": "STANDARD", "counties": [{"fips": "153", "name": "Prince William"}]}

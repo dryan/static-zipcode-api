@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.571669, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Pall Mall", "lng": -84.99647, "zip_code": "38577"});
+zipapicallback({"locality": "Pall Mall", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Pall Mall"], "postal_code": "38577", "lat": 36.571669, "lng": -84.99647, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fentress"}, {"fips": "137", "name": "Pickett"}]});

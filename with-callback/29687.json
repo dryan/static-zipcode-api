@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.935636, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Taylors", "lng": -82.32238, "zip_code": "29687"});
+zipapicallback({"locality": "Taylors", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Taylors"], "postal_code": "29687", "lat": 34.935636, "lng": -82.32238, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}, {"fips": "083", "name": "Spartanburg"}]});

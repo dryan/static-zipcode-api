@@ -1,1 +1,1 @@
-{"lat": 41.478722, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rock Tavern", "lng": -74.15626, "zip_code": "12575"}
+{"locality": "Rock Tavern", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rock Tavern"], "postal_code": "12575", "lat": 41.478722, "lng": -74.15626, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

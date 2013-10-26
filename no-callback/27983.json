@@ -1,1 +1,1 @@
-{"lat": 36.015391, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Windsor", "lng": -76.9349, "zip_code": "27983"}
+{"locality": "Windsor", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Askewville", "Windsor"], "postal_code": "27983", "lat": 36.015391, "lng": -76.9349, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bertie"}]}

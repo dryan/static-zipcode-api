@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.612763, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Deer Harbor", "lng": -123.02057, "zip_code": "98243"});
+zipapicallback({"locality": "Deer Harbor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Deer Harbor"], "postal_code": "98243", "lat": 48.612763, "lng": -123.02057, "type": "POBOX", "counties": [{"fips": "055", "name": "San Juan"}]});

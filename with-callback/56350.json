@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.274325, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mc Grath", "lng": -93.26096, "zip_code": "56350"});
+zipapicallback({"locality": "Mc Grath", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mc Grath"], "postal_code": "56350", "lat": 46.274325, "lng": -93.26096, "type": "STANDARD", "counties": [{"fips": "001", "name": "Aitkin"}]});

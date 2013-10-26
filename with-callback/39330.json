@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.170432, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Enterprise", "lng": -88.83866, "zip_code": "39330"});
+zipapicallback({"locality": "Enterprise", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Enterprise"], "postal_code": "39330", "lat": 32.170432, "lng": -88.83866, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clarke"}]});

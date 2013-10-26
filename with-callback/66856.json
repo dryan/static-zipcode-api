@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.427161, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lebo", "lng": -95.82627, "zip_code": "66856"});
+zipapicallback({"locality": "Lebo", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lebo", "Olivet"], "postal_code": "66856", "lat": 38.427161, "lng": -95.82627, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffey"}, {"fips": "139", "name": "Osage"}]});

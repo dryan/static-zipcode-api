@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.559995, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "New Franken", "lng": -87.81553, "zip_code": "54229"});
+zipapicallback({"locality": "New Franken", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Green Bay", "New Franken"], "postal_code": "54229", "lat": 44.559995, "lng": -87.81553, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}]});

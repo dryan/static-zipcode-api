@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.014009, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Silver Spring", "lng": -76.98199, "zip_code": "20903"});
+zipapicallback({"locality": "Silver Spring", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Silver Spring"], "postal_code": "20903", "lat": 39.014009, "lng": -76.98199, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}, {"fips": "033", "name": "Prince George's"}]});

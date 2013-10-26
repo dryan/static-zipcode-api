@@ -1,1 +1,1 @@
-{"lat": 34.753129, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Chatsworth", "lng": -84.77502, "zip_code": "30705"}
+{"locality": "Chatsworth", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Chatsworth"], "postal_code": "30705", "lat": 34.753129, "lng": -84.77502, "type": "STANDARD", "counties": [{"fips": "213", "name": "Murray"}]}

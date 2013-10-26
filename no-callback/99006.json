@@ -1,1 +1,1 @@
-{"lat": 47.966471, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Deer Park", "lng": -117.48145, "zip_code": "99006"}
+{"locality": "Deer Park", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Deer Park"], "postal_code": "99006", "lat": 47.966471, "lng": -117.48145, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]}

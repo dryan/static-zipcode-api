@@ -1,1 +1,1 @@
-{"lat": 32.628858, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Seagoville", "lng": -96.53811, "zip_code": "75159"}
+{"locality": "Seagoville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Combine", "Seagoville"], "postal_code": "75159", "lat": 32.628858, "lng": -96.53811, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

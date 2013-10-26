@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.953261, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wading River", "lng": -72.8368, "zip_code": "11792"});
+zipapicallback({"locality": "Wading River", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wading River"], "postal_code": "11792", "lat": 40.953261, "lng": -72.8368, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

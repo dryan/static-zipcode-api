@@ -1,1 +1,1 @@
-{"lat": 39.496243, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Reno", "lng": -119.83072, "zip_code": "89509"}
+{"locality": "Reno", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Reno"], "postal_code": "89509", "lat": 39.496243, "lng": -119.83072, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]}

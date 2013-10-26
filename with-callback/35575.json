@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.049426, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Lynn", "lng": -87.57065, "zip_code": "35575"});
+zipapicallback({"locality": "Lynn", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Lynn"], "postal_code": "35575", "lat": 34.049426, "lng": -87.57065, "type": "STANDARD", "counties": [{"fips": "133", "name": "Winston"}, {"fips": "113", "name": "Russell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.816528, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Roosevelt", "lng": -120.28372, "zip_code": "99356"});
+zipapicallback({"locality": "Roosevelt", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Roosevelt"], "postal_code": "99356", "lat": 45.816528, "lng": -120.28372, "type": "STANDARD", "counties": [{"fips": "039", "name": "Klickitat"}]});

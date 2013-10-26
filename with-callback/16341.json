@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.560056, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pleasantville", "lng": -79.53852, "zip_code": "16341"});
+zipapicallback({"locality": "Pleasantville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pleasantville"], "postal_code": "16341", "lat": 41.560056, "lng": -79.53852, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}, {"fips": "053", "name": "Forest"}]});

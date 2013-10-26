@@ -1,1 +1,1 @@
-{"lat": 45.870441, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Webster", "lng": -92.29416, "zip_code": "54893"}
+{"locality": "Webster", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Webster"], "postal_code": "54893", "lat": 45.870441, "lng": -92.29416, "type": "STANDARD", "counties": [{"fips": "013", "name": "Burnett"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.94267, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Miami", "lng": -80.21276, "zip_code": "33169"});
+zipapicallback({"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami", "Miami Gardens", "N Miami Beach", "North Miami Beach"], "postal_code": "33169", "lat": 25.94267, "lng": -80.21276, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]});

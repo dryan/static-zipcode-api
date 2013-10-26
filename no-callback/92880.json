@@ -1,1 +1,1 @@
-{"lat": 33.903803, "region": {"abbr": "CA", "name": "California"}, "locality": "Corona", "lng": -117.60221, "zip_code": "92880"}
+{"locality": "Corona", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Corona", "Eastvale"], "postal_code": "92880", "lat": 33.903803, "lng": -117.60221, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 42.227477, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Adel", "lng": -119.88141, "zip_code": "97620"}
+{"locality": "Adel", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Adel"], "postal_code": "97620", "lat": 42.227477, "lng": -119.88141, "type": "POBOX", "counties": [{"fips": "037", "name": "Lake"}]}

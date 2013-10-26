@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.672216, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Accokeek", "lng": -77.01807, "zip_code": "20607"});
+zipapicallback({"locality": "Accokeek", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Accokeek"], "postal_code": "20607", "lat": 38.672216, "lng": -77.01807, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

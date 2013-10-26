@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.223589, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gale", "lng": -89.42243, "zip_code": "62990"});
+zipapicallback({"locality": "Thebes", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gale", "Thebes"], "postal_code": "62990", "lat": 37.223589, "lng": -89.42243, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alexander"}]});

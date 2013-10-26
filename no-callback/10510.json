@@ -1,1 +1,1 @@
-{"lat": 41.146297, "region": {"abbr": "NY", "name": "New York"}, "locality": "Briarcliff Manor", "lng": -73.83311, "zip_code": "10510"}
+{"locality": "Briarcliff Manor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Briarcliff", "Briarcliff Manor", "Scarborough"], "postal_code": "10510", "lat": 41.146297, "lng": -73.83311, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

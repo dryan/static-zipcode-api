@@ -1,1 +1,1 @@
-{"lat": 41.017736, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fairfield", "lng": -91.95, "zip_code": "52556"}
+{"locality": "Fairfield", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fairfield", "Maharishi Vedic City", "Vedic City"], "postal_code": "52556", "lat": 41.017736, "lng": -91.95, "type": "STANDARD", "counties": [{"fips": "101", "name": "Jefferson"}]}

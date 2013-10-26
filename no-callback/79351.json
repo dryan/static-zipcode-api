@@ -1,1 +1,1 @@
-{"lat": 32.951473, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Odonnell", "lng": -101.83895, "zip_code": "79351"}
+{"locality": "Odonnell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Odonnell"], "postal_code": "79351", "lat": 32.951473, "lng": -101.83895, "type": "STANDARD", "counties": [{"fips": "305", "name": "Lynn"}, {"fips": "445", "name": "Terry"}, {"fips": "115", "name": "Dawson"}, {"fips": "033", "name": "Borden"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.805531, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Western Springs", "lng": -87.90103, "zip_code": "60558"});
+zipapicallback({"locality": "Western Springs", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Western Sprgs", "Western Springs"], "postal_code": "60558", "lat": 41.805531, "lng": -87.90103, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

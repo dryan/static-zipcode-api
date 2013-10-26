@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.217493, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Carrsville", "lng": -88.40884, "zip_code": "42081"});
+zipapicallback({"locality": "Smithland", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Carrsville", "Smithland"], "postal_code": "42081", "lat": 37.217493, "lng": -88.40884, "type": "STANDARD", "counties": [{"fips": "139", "name": "Livingston"}]});

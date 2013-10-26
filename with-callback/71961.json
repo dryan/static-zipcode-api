@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.606137, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Oden", "lng": -93.82391, "zip_code": "71961"});
+zipapicallback({"locality": "Oden", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Oden", "Pine Ridge"], "postal_code": "71961", "lat": 34.606137, "lng": -93.82391, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}]});

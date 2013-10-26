@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.990962, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Dixon", "lng": -92.09833, "zip_code": "65459"});
+zipapicallback({"locality": "Dixon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dixon"], "postal_code": "65459", "lat": 37.990962, "lng": -92.09833, "type": "STANDARD", "counties": [{"fips": "169", "name": "Pulaski"}, {"fips": "161", "name": "Phelps"}, {"fips": "125", "name": "Maries"}, {"fips": "131", "name": "Miller"}]});

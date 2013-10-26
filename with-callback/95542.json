@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.0985, "region": {"abbr": "CA", "name": "California"}, "locality": "Garberville", "lng": -123.80654, "zip_code": "95542"});
+zipapicallback({"locality": "Garberville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Garberville"], "postal_code": "95542", "lat": 40.0985, "lng": -123.80654, "type": "STANDARD", "counties": []});

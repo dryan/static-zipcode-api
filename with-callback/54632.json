@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.559832, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Genoa", "lng": -91.16957, "zip_code": "54632"});
+zipapicallback({"locality": "Genoa", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Genoa"], "postal_code": "54632", "lat": 43.559832, "lng": -91.16957, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}]});

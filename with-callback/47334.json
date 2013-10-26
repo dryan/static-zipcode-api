@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.117139, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Daleville", "lng": -85.54205, "zip_code": "47334"});
+zipapicallback({"locality": "Daleville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Daleville"], "postal_code": "47334", "lat": 40.117139, "lng": -85.54205, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]});

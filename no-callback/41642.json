@@ -1,1 +1,1 @@
-{"lat": 37.587011, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ivel", "lng": -82.66028, "zip_code": "41642"}
+{"locality": "Ivel", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ivel"], "postal_code": "41642", "lat": 37.587011, "lng": -82.66028, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

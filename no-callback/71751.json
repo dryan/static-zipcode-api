@@ -1,1 +1,1 @@
-{"lat": 33.397936, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Louann", "lng": -92.77116, "zip_code": "71751"}
+{"locality": "Louann", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Louann"], "postal_code": "71751", "lat": 33.397936, "lng": -92.77116, "type": "STANDARD", "counties": [{"fips": "103", "name": "Ouachita"}, {"fips": "139", "name": "Union"}]}

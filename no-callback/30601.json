@@ -1,1 +1,1 @@
-{"lat": 33.979016, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Athens", "lng": -83.36423, "zip_code": "30601"}
+{"locality": "Athens", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Athens"], "postal_code": "30601", "lat": 33.979016, "lng": -83.36423, "type": "STANDARD", "counties": [{"fips": "059", "name": "Clarke"}, {"fips": "157", "name": "Jackson"}, {"fips": "195", "name": "Madison"}]}

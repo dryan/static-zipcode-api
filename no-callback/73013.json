@@ -1,1 +1,1 @@
-{"lat": 35.623805, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Edmond", "lng": -97.47909, "zip_code": "73013"}
+{"locality": "Edmond", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Edmond"], "postal_code": "73013", "lat": 35.623805, "lng": -97.47909, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}, {"fips": "015", "name": "Caddo"}]}

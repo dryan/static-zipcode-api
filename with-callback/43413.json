@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.240054, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cygnet", "lng": -83.64985, "zip_code": "43413"});
+zipapicallback({"locality": "Cygnet", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cygnet"], "postal_code": "43413", "lat": 41.240054, "lng": -83.64985, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}]});

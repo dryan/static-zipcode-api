@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.896166, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Warm Springs", "lng": -84.71191, "zip_code": "31830"});
+zipapicallback({"locality": "Warm Springs", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Warm Springs"], "postal_code": "31830", "lat": 32.896166, "lng": -84.71191, "type": "STANDARD", "counties": [{"fips": "199", "name": "Meriwether"}, {"fips": "145", "name": "Harris"}]});

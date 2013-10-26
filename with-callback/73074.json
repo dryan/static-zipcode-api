@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.831083, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Paoli", "lng": -97.2718, "zip_code": "73074"});
+zipapicallback({"locality": "Paoli", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Paoli"], "postal_code": "73074", "lat": 34.831083, "lng": -97.2718, "type": "STANDARD", "counties": [{"fips": "049", "name": "Garvin"}]});

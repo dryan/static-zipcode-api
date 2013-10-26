@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.405948, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Williston", "lng": -81.42936, "zip_code": "29853"});
+zipapicallback({"locality": "Williston", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Williston"], "postal_code": "29853", "lat": 33.405948, "lng": -81.42936, "type": "STANDARD", "counties": [{"fips": "011", "name": "Barnwell"}, {"fips": "003", "name": "Aiken"}]});

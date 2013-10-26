@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.897618, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Heidrick", "lng": -83.87252, "zip_code": "40949"});
+zipapicallback({"locality": "Heidrick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Heidrick"], "postal_code": "40949", "lat": 36.897618, "lng": -83.87252, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]});

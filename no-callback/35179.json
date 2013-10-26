@@ -1,1 +1,1 @@
-{"lat": 34.256106, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Vinemont", "lng": -86.92158, "zip_code": "35179"}
+{"locality": "Vinemont", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["S Vinemont", "South Vinemont", "Vinemont", "West Point"], "postal_code": "35179", "lat": 34.256106, "lng": -86.92158, "type": "STANDARD", "counties": [{"fips": "043", "name": "Cullman"}, {"fips": "133", "name": "Winston"}, {"fips": "103", "name": "Morgan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.928038, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Hachita", "lng": -108.3645, "zip_code": "88040"});
+zipapicallback({"locality": "Hachita", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Hachita"], "postal_code": "88040", "lat": 31.928038, "lng": -108.3645, "type": "POBOX", "counties": [{"fips": "017", "name": "Grant"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.242533, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Jennings", "lng": -92.66375, "zip_code": "70546"});
+zipapicallback({"locality": "Jennings", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Jennings"], "postal_code": "70546", "lat": 30.242533, "lng": -92.66375, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jefferson Davis"}, {"fips": "001", "name": "Acadia"}]});

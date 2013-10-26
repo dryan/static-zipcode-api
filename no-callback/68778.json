@@ -1,1 +1,1 @@
-{"lat": 42.880251, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Springview", "lng": -99.8661, "zip_code": "68778"}
+{"locality": "Springview", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Springview"], "postal_code": "68778", "lat": 42.880251, "lng": -99.8661, "type": "STANDARD", "counties": [{"fips": "103", "name": "Keya Paha"}]}

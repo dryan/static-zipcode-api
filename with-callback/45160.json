@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.121637, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Owensville", "lng": -84.13927, "zip_code": "45160"});
+zipapicallback({"locality": "Owensville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Owensville"], "postal_code": "45160", "lat": 39.121637, "lng": -84.13927, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}]});

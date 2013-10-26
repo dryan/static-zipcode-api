@@ -1,1 +1,1 @@
-{"lat": 34.607602, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Senatobia", "lng": -89.94635, "zip_code": "38668"}
+{"locality": "Senatobia", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Senatobia"], "postal_code": "38668", "lat": 34.607602, "lng": -89.94635, "type": "STANDARD", "counties": [{"fips": "137", "name": "Tate"}, {"fips": "033", "name": "De Soto"}]}

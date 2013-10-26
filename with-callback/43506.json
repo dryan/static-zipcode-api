@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.471569, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bryan", "lng": -84.55459, "zip_code": "43506"});
+zipapicallback({"locality": "Bryan", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bryan"], "postal_code": "43506", "lat": 41.471569, "lng": -84.55459, "type": "STANDARD", "counties": [{"fips": "171", "name": "Williams"}, {"fips": "039", "name": "Defiance"}]});

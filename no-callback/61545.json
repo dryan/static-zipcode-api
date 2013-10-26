@@ -1,1 +1,1 @@
-{"lat": 40.873236, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cazenovia", "lng": -89.37082, "zip_code": "61545"}
+{"locality": "Lowpoint", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cazenovia", "Lowpoint"], "postal_code": "61545", "lat": 40.873236, "lng": -89.37082, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}]}

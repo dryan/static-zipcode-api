@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.002997, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hampton", "lng": -76.32039, "zip_code": "23651"});
+zipapicallback({"locality": "Fort Monroe", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Monroe", "Hampton"], "postal_code": "23651", "lat": 37.002997, "lng": -76.32039, "type": "STANDARD", "counties": [{"fips": "650", "name": "Hampton (City)"}]});

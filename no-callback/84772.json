@@ -1,1 +1,1 @@
-{"lat": 37.800295, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Summit", "lng": -112.93517, "zip_code": "84772"}
+{"locality": "Summit", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Summit"], "postal_code": "84772", "lat": 37.800295, "lng": -112.93517, "type": "POBOX", "counties": [{"fips": "021", "name": "Iron"}]}

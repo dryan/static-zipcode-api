@@ -1,1 +1,1 @@
-{"lat": 44.195319, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Alpena", "lng": -98.3734, "zip_code": "57312"}
+{"locality": "Alpena", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Alpena"], "postal_code": "57312", "lat": 44.195319, "lng": -98.3734, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jerauld"}, {"fips": "005", "name": "Beadle"}]}

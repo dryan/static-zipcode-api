@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.756505, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Petersburg", "lng": -82.71764, "zip_code": "33707"});
+zipapicallback({"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Gulfport", "S Pasadena", "Saint Petersburg", "South Pasadena", "St Pete Beach", "St Petersburg"], "postal_code": "33707", "lat": 27.756505, "lng": -82.71764, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]});

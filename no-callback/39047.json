@@ -1,1 +1,1 @@
-{"lat": 32.39705, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Brandon", "lng": -89.98466, "zip_code": "39047"}
+{"locality": "Brandon", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Brandon"], "postal_code": "39047", "lat": 32.39705, "lng": -89.98466, "type": "STANDARD", "counties": []}

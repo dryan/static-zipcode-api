@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.663328, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Carrollton", "lng": -85.16803, "zip_code": "41008"});
+zipapicallback({"locality": "Carrollton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Carrollton"], "postal_code": "41008", "lat": 38.663328, "lng": -85.16803, "type": "STANDARD", "counties": [{"fips": "041", "name": "Carroll"}]});

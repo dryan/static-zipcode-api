@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.484782, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "North Bend", "lng": -96.77567, "zip_code": "68649"});
+zipapicallback({"locality": "North Bend", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["North Bend"], "postal_code": "68649", "lat": 41.484782, "lng": -96.77567, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dodge"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.855873, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Rolla", "lng": -99.58558, "zip_code": "58367"}
+{"locality": "Rolla", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Rolla"], "postal_code": "58367", "lat": 48.855873, "lng": -99.58558, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rolette"}, {"fips": "095", "name": "Towner"}]}

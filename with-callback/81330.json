@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.237814, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mesa Verde National", "lng": -108.50424, "zip_code": "81330"});
+zipapicallback({"locality": "Mesa Verde National Park", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mesa Verde", "Mesa Verde National Park"], "postal_code": "81330", "lat": 37.237814, "lng": -108.50424, "type": "POBOX", "counties": [{"fips": "083", "name": "Montezuma"}]});

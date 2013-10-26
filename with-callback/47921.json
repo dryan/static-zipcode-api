@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.506071, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Boswell", "lng": -87.36849, "zip_code": "47921"});
+zipapicallback({"locality": "Boswell", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Boswell"], "postal_code": "47921", "lat": 40.506071, "lng": -87.36849, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}, {"fips": "171", "name": "Warren"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.109395, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Monmouth", "lng": -90.8869, "zip_code": "52309"}
+{"locality": "Monmouth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Monmouth"], "postal_code": "52309", "lat": 42.109395, "lng": -90.8869, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}]}

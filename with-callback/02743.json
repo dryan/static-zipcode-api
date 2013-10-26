@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.697015, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Acushnet", "lng": -70.91019, "zip_code": "02743"});
+zipapicallback({"locality": "Acushnet", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Acushnet", "New Bedford"], "postal_code": "02743", "lat": 41.697015, "lng": -70.91019, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

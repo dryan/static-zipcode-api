@@ -1,1 +1,1 @@
-{"lat": 28.396301, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Merritt Island", "lng": -80.70198, "zip_code": "32953"}
+{"locality": "Merritt Island", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Merritt Is", "Merritt Island"], "postal_code": "32953", "lat": 28.396301, "lng": -80.70198, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]}

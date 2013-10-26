@@ -1,1 +1,1 @@
-{"lat": 45.594465, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Washougal", "lng": -122.28112, "zip_code": "98671"}
+{"locality": "Washougal", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Washougal"], "postal_code": "98671", "lat": 45.594465, "lng": -122.28112, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}, {"fips": "059", "name": "Skamania"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.245509, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Eastlake", "lng": -86.29477, "zip_code": "49626"}
+{"locality": "Eastlake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Eastlake"], "postal_code": "49626", "lat": 44.245509, "lng": -86.29477, "type": "POBOX", "counties": [{"fips": "101", "name": "Manistee"}]}

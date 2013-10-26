@@ -1,1 +1,1 @@
-{"lat": 43.06997, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Mountain Home A", "lng": -115.85201, "zip_code": "83648"}
+{"locality": "Mountain Home A F B", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Mountain Home A F B", "Mountain Home Afb", "Mtn Home Afb"], "postal_code": "83648", "lat": 43.06997, "lng": -115.85201, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elmore"}]}

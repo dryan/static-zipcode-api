@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.113813, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stromsburg", "lng": -97.60295, "zip_code": "68666"});
+zipapicallback({"locality": "Stromsburg", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stromsburg"], "postal_code": "68666", "lat": 41.113813, "lng": -97.60295, "type": "STANDARD", "counties": [{"fips": "143", "name": "Polk"}, {"fips": "185", "name": "York"}]});

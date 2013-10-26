@@ -1,1 +1,1 @@
-{"lat": 18.258628, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Gurabo", "lng": -65.97791, "zip_code": "00778"}
+{"locality": "Gurabo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Gurabo"], "postal_code": "00778", "lat": 18.258628, "lng": -65.97791, "type": "STANDARD", "counties": []}

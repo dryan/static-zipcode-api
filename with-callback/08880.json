@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.553803, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "South Bound Broo", "lng": -74.52976, "zip_code": "08880"});
+zipapicallback({"locality": "South Bound Brook", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["S Bound Brook", "South Bound Brook"], "postal_code": "08880", "lat": 40.553803, "lng": -74.52976, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]});

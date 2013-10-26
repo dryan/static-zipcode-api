@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.552531, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Meriden", "lng": -104.39118, "zip_code": "82081"});
+zipapicallback({"locality": "Meriden", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Meriden"], "postal_code": "82081", "lat": 41.552531, "lng": -104.39118, "type": "STANDARD", "counties": [{"fips": "021", "name": "Laramie"}]});

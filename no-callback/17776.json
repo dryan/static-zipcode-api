@@ -1,1 +1,1 @@
-{"lat": 41.36958, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Waterville", "lng": -77.38615, "zip_code": "17776"}
+{"locality": "Waterville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Waterville"], "postal_code": "17776", "lat": 41.36958, "lng": -77.38615, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}]}

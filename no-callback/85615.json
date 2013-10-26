@@ -1,1 +1,1 @@
-{"lat": 31.429017, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Hereford", "lng": -110.23013, "zip_code": "85615"}
+{"locality": "Hereford", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Hereford"], "postal_code": "85615", "lat": 31.429017, "lng": -110.23013, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]}

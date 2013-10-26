@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.036802, "region": {"abbr": "NY", "name": "New York"}, "locality": "Franklin Springs", "lng": -75.39115, "zip_code": "13341"});
+zipapicallback({"locality": "Franklin Springs", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Franklin Spgs", "Franklin Springs"], "postal_code": "13341", "lat": 43.036802, "lng": -75.39115, "type": "POBOX", "counties": [{"fips": "065", "name": "Oneida"}]});

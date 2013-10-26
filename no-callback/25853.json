@@ -1,1 +1,1 @@
-{"lat": 37.63215, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Helen", "lng": -81.31644, "zip_code": "25853"}
+{"locality": "Helen", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Helen"], "postal_code": "25853", "lat": 37.63215, "lng": -81.31644, "type": "POBOX", "counties": [{"fips": "081", "name": "Raleigh"}]}

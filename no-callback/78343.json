@@ -1,1 +1,1 @@
-{"lat": 27.60549, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bishop", "lng": -97.78572, "zip_code": "78343"}
+{"locality": "Bishop", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bishop"], "postal_code": "78343", "lat": 27.60549, "lng": -97.78572, "type": "STANDARD", "counties": [{"fips": "355", "name": "Nueces"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.344103, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Crapo", "lng": -76.10098, "zip_code": "21626"});
+zipapicallback({"locality": "Crapo", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Crapo"], "postal_code": "21626", "lat": 38.344103, "lng": -76.10098, "type": "STANDARD", "counties": [{"fips": "019", "name": "Dorchester"}]});

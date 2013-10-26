@@ -1,1 +1,1 @@
-{"lat": 40.301444, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Orem", "lng": -111.67485, "zip_code": "84097"}
+{"locality": "Orem", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Orem"], "postal_code": "84097", "lat": 40.301444, "lng": -111.67485, "type": "STANDARD", "counties": []}

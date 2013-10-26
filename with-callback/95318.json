@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.673629, "region": {"abbr": "CA", "name": "California"}, "locality": "El Portal", "lng": -119.81305, "zip_code": "95318"});
+zipapicallback({"locality": "El Portal", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Portal"], "postal_code": "95318", "lat": 37.673629, "lng": -119.81305, "type": "POBOX", "counties": [{"fips": "043", "name": "Mariposa"}]});

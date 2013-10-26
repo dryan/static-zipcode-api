@@ -1,1 +1,1 @@
-{"lat": 29.694806, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Morgan City", "lng": -91.18252, "zip_code": "70380"}
+{"locality": "Morgan City", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Morgan City"], "postal_code": "70380", "lat": 29.694806, "lng": -91.18252, "type": "STANDARD", "counties": [{"fips": "101", "name": "St. Mary"}, {"fips": "099", "name": "St. Martin"}, {"fips": "007", "name": "Assumption"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.754635, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hiltonia", "lng": -81.63543, "zip_code": "30467"});
+zipapicallback({"locality": "Sylvania", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hiltonia", "Sylvania"], "postal_code": "30467", "lat": 32.754635, "lng": -81.63543, "type": "STANDARD", "counties": [{"fips": "011", "name": "Banks"}]});

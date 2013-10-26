@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.587809, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Poplar", "lng": -91.8074, "zip_code": "54864"});
+zipapicallback({"locality": "Poplar", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Poplar"], "postal_code": "54864", "lat": 46.587809, "lng": -91.8074, "type": "STANDARD", "counties": [{"fips": "031", "name": "Douglas"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.170546, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wingate", "lng": -87.06795, "zip_code": "47994"}
+{"locality": "Wingate", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wingate"], "postal_code": "47994", "lat": 40.170546, "lng": -87.06795, "type": "STANDARD", "counties": [{"fips": "107", "name": "Montgomery"}, {"fips": "045", "name": "Fountain"}, {"fips": "157", "name": "Tippecanoe"}]}

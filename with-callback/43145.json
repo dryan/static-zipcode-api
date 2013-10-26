@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.555409, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Holland", "lng": -83.26409, "zip_code": "43145"});
+zipapicallback({"locality": "New Holland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Holland"], "postal_code": "43145", "lat": 39.555409, "lng": -83.26409, "type": "STANDARD", "counties": [{"fips": "129", "name": "Pickaway"}, {"fips": "047", "name": "Fayette"}]});

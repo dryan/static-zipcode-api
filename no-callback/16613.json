@@ -1,1 +1,1 @@
-{"lat": 40.554187, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ashville", "lng": -78.5406, "zip_code": "16613"}
+{"locality": "Ashville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ashville"], "postal_code": "16613", "lat": 40.554187, "lng": -78.5406, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}, {"fips": "013", "name": "Blair"}]}

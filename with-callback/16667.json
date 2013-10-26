@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.173012, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "St Clairsville", "lng": -78.52762, "zip_code": "16667"});
+zipapicallback({"locality": "Osterburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Osterburg", "Saint Clairsv", "Saint Clairsville", "St Clairsville", "St Clrsville"], "postal_code": "16667", "lat": 40.173012, "lng": -78.52762, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.461079, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Isabel", "lng": -98.54262, "zip_code": "67065"});
+zipapicallback({"locality": "Isabel", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Isabel"], "postal_code": "67065", "lat": 37.461079, "lng": -98.54262, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pratt"}, {"fips": "095", "name": "Kingman"}, {"fips": "007", "name": "Barber"}]});

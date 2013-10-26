@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.802424, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Low Moor", "lng": -79.86351, "zip_code": "24457"});
+zipapicallback({"locality": "Low Moor", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Low Moor"], "postal_code": "24457", "lat": 37.802424, "lng": -79.86351, "type": "POBOX", "counties": [{"fips": "005", "name": "Alleghany"}]});

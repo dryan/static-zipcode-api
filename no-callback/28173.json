@@ -1,1 +1,1 @@
-{"lat": 34.929433, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Weddington", "lng": -80.73061, "zip_code": "28173"}
+{"locality": "Waxhaw", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Marvin", "Waxhaw"], "postal_code": "28173", "lat": 34.929433, "lng": -80.73061, "type": "STANDARD", "counties": [{"fips": "179", "name": "Union"}]}

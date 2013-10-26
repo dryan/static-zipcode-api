@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.863543, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Garrett", "lng": -79.06935, "zip_code": "15542"});
+zipapicallback({"locality": "Garrett", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Garrett"], "postal_code": "15542", "lat": 39.863543, "lng": -79.06935, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}]});

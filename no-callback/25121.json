@@ -1,1 +1,1 @@
-{"lat": 37.929438, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lake", "lng": -81.90109, "zip_code": "25121"}
+{"locality": "Lake", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lake"], "postal_code": "25121", "lat": 37.929438, "lng": -81.90109, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}]}

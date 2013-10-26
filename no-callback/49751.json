@@ -1,1 +1,1 @@
-{"lat": 44.963659, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Johannesburg", "lng": -84.43175, "zip_code": "49751"}
+{"locality": "Johannesburg", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Johannesburg"], "postal_code": "49751", "lat": 44.963659, "lng": -84.43175, "type": "STANDARD", "counties": [{"fips": "137", "name": "Otsego"}, {"fips": "119", "name": "Montmorency"}]}

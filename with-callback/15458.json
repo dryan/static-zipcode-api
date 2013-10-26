@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.879185, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lamberton", "lng": -79.8618, "zip_code": "15458"});
+zipapicallback({"locality": "Mc Clellandtown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lamberton", "Mc Clellandtown", "Mcclellandtwn"], "postal_code": "15458", "lat": 39.879185, "lng": -79.8618, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]});

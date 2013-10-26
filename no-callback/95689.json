@@ -1,1 +1,1 @@
-{"lat": 38.473857, "region": {"abbr": "CA", "name": "California"}, "locality": "Volcano", "lng": -120.59421, "zip_code": "95689"}
+{"locality": "Volcano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Volcano"], "postal_code": "95689", "lat": 38.473857, "lng": -120.59421, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}]}

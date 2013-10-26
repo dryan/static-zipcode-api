@@ -1,1 +1,1 @@
-{"lat": 43.115708, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Pingree", "lng": -112.59511, "zip_code": "83262"}
+{"locality": "Pingree", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Pingree"], "postal_code": "83262", "lat": 43.115708, "lng": -112.59511, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bingham"}]}

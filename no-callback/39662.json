@@ -1,1 +1,1 @@
-{"lat": 31.40227, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ruth", "lng": -90.26002, "zip_code": "39662"}
+{"locality": "Ruth", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ruth"], "postal_code": "39662", "lat": 31.40227, "lng": -90.26002, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lincoln"}, {"fips": "113", "name": "Pike"}, {"fips": "077", "name": "Lawrence"}]}

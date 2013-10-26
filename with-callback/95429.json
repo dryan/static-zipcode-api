@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.761199, "region": {"abbr": "CA", "name": "California"}, "locality": "Dos Rios", "lng": -123.33547, "zip_code": "95429"});
+zipapicallback({"locality": "Dos Rios", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dos Rios"], "postal_code": "95429", "lat": 39.761199, "lng": -123.33547, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]});

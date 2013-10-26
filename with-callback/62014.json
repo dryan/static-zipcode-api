@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.039382, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bunker Hill", "lng": -89.94935, "zip_code": "62014"});
+zipapicallback({"locality": "Bunker Hill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bunker Hill"], "postal_code": "62014", "lat": 39.039382, "lng": -89.94935, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}]});

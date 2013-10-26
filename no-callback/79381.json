@@ -1,1 +1,1 @@
-{"lat": 33.327782, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wilson", "lng": -101.76906, "zip_code": "79381"}
+{"locality": "Wilson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["New Home", "Wilson"], "postal_code": "79381", "lat": 33.327782, "lng": -101.76906, "type": "STANDARD", "counties": [{"fips": "305", "name": "Lynn"}]}

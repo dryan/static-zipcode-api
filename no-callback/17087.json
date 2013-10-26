@@ -1,1 +1,1 @@
-{"lat": 40.375621, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Richland", "lng": -76.26401, "zip_code": "17087"}
+{"locality": "Richland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Richland"], "postal_code": "17087", "lat": 40.375621, "lng": -76.26401, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lebanon"}, {"fips": "011", "name": "Berks"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.320211, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Wells", "lng": -70.61178, "zip_code": "04090"});
+zipapicallback({"locality": "Wells", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Wells"], "postal_code": "04090", "lat": 43.320211, "lng": -70.61178, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]});

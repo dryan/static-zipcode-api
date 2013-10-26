@@ -1,1 +1,1 @@
-{"lat": 42.842111, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rolfe", "lng": -94.53114, "zip_code": "50581"}
+{"locality": "Rolfe", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rolfe"], "postal_code": "50581", "lat": 42.842111, "lng": -94.53114, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pocahontas"}]}

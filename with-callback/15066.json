@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.73998, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Brighton", "lng": -80.29472, "zip_code": "15066"});
+zipapicallback({"locality": "New Brighton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Brighton"], "postal_code": "15066", "lat": 40.73998, "lng": -80.29472, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]});

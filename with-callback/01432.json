@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.549821, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Ayer", "lng": -71.59136, "zip_code": "01432"});
+zipapicallback({"locality": "Ayer", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Ayer"], "postal_code": "01432", "lat": 42.549821, "lng": -71.59136, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.777227, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Second Mesa", "lng": -110.50131, "zip_code": "86043"});
+zipapicallback({"locality": "Second Mesa", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Second Mesa"], "postal_code": "86043", "lat": 35.777227, "lng": -110.50131, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]});

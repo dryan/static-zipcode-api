@@ -1,1 +1,1 @@
-{"lat": 40.497304, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Arbela", "lng": -91.9947, "zip_code": "63432"}
+{"locality": "Arbela", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Arbela"], "postal_code": "63432", "lat": 40.497304, "lng": -91.9947, "type": "STANDARD", "counties": [{"fips": "199", "name": "Scotland"}, {"fips": "045", "name": "Clark"}]}

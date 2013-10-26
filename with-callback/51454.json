@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.885538, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Manilla", "lng": -95.22158, "zip_code": "51454"});
+zipapicallback({"locality": "Manilla", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Manilla"], "postal_code": "51454", "lat": 41.885538, "lng": -95.22158, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]});

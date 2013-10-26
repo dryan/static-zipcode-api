@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.361344, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Luquillo", "lng": -65.72133, "zip_code": "00773"});
+zipapicallback({"locality": "Luquillo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Luquillo"], "postal_code": "00773", "lat": 18.361344, "lng": -65.72133, "type": "STANDARD", "counties": []});

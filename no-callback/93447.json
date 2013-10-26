@@ -1,1 +1,1 @@
-{"lat": 35.664837, "region": {"abbr": "CA", "name": "California"}, "locality": "Paso Robles", "lng": -120.64542, "zip_code": "93447"}
+{"locality": "Paso Robles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Paso Robles"], "postal_code": "93447", "lat": 35.664837, "lng": -120.64542, "type": "POBOX", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

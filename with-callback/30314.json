@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.758056, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Atlanta", "lng": -84.42268, "zip_code": "30314"});
+zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta"], "postal_code": "30314", "lat": 33.758056, "lng": -84.42268, "type": "STANDARD", "counties": [{"fips": "121", "name": "Fulton"}]});

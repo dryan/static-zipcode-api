@@ -1,1 +1,1 @@
-{"lat": 36.132502, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mills", "lng": -104.23902, "zip_code": "87730"}
+{"locality": "Mills", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Mills"], "postal_code": "87730", "lat": 36.132502, "lng": -104.23902, "type": "STANDARD", "counties": [{"fips": "021", "name": "Harding"}]}

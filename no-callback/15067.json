@@ -1,1 +1,1 @@
-{"lat": 40.207526, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Eagle", "lng": -79.95304, "zip_code": "15067"}
+{"locality": "New Eagle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Eagle"], "postal_code": "15067", "lat": 40.207526, "lng": -79.95304, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

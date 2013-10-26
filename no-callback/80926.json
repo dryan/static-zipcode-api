@@ -1,1 +1,1 @@
-{"lat": 38.652352, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Colorado Springs", "lng": -104.87298, "zip_code": "80926"}
+{"locality": "Colorado Springs", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Colo Spgs", "Colorado Spgs", "Colorado Springs"], "postal_code": "80926", "lat": 38.652352, "lng": -104.87298, "type": "STANDARD", "counties": [{"fips": "043", "name": "Fremont"}, {"fips": "041", "name": "El Paso"}]}

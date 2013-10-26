@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.896361, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Vienna", "lng": -77.29102, "zip_code": "22181"});
+zipapicallback({"locality": "Vienna", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Vienna"], "postal_code": "22181", "lat": 38.896361, "lng": -77.29102, "type": "STANDARD", "counties": []});

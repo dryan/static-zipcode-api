@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.813094, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Payson", "lng": -91.25561, "zip_code": "62360"});
+zipapicallback({"locality": "Payson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Payson"], "postal_code": "62360", "lat": 39.813094, "lng": -91.25561, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "149", "name": "Pike"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.768275, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Tunnelton", "lng": -86.34441, "zip_code": "47467"});
+zipapicallback({"locality": "Tunnelton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Tunnelton"], "postal_code": "47467", "lat": 38.768275, "lng": -86.34441, "type": "POBOX", "counties": [{"fips": "093", "name": "Lawrence"}]});

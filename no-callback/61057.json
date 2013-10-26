@@ -1,1 +1,1 @@
-{"lat": 41.830896, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Nachusa", "lng": -89.39613, "zip_code": "61057"}
+{"locality": "Nachusa", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Nachusa"], "postal_code": "61057", "lat": 41.830896, "lng": -89.39613, "type": "POBOX", "counties": [{"fips": "103", "name": "Lee"}]}

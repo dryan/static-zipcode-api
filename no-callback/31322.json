@@ -1,1 +1,1 @@
-{"lat": 32.110421, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pooler", "lng": -81.24568, "zip_code": "31322"}
+{"locality": "Pooler", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pooler"], "postal_code": "31322", "lat": 32.110421, "lng": -81.24568, "type": "STANDARD", "counties": [{"fips": "051", "name": "Chatham"}]}

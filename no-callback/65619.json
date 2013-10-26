@@ -1,1 +1,1 @@
-{"lat": 37.134829, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Brookline Statio", "lng": -93.38497, "zip_code": "65619"}
+{"locality": "Brookline", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Battlefield", "Brookline", "Brookline Sta"], "postal_code": "65619", "lat": 37.134829, "lng": -93.38497, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "043", "name": "Christian"}]}

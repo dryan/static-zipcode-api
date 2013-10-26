@@ -1,1 +1,1 @@
-{"lat": 30.304327, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Diamondhead", "lng": -89.40705, "zip_code": "39520"}
+{"locality": "Bay Saint Louis", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bay Saint Louis", "Bay St Louis", "Stennis Ctr", "Stennis Space Center"], "postal_code": "39520", "lat": 30.304327, "lng": -89.40705, "type": "STANDARD", "counties": [{"fips": "045", "name": "Hancock"}]}

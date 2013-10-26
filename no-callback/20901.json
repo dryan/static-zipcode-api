@@ -1,1 +1,1 @@
-{"lat": 39.020359, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Silver Spring", "lng": -77.0115, "zip_code": "20901"}
+{"locality": "Silver Spring", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Silver Spring", "Takoma Park"], "postal_code": "20901", "lat": 39.020359, "lng": -77.0115, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}, {"fips": "037", "name": "St. Mary's"}]}

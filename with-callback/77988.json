@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.846861, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Telferner", "lng": -96.88966, "zip_code": "77988"});
+zipapicallback({"locality": "Telferner", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Telferner"], "postal_code": "77988", "lat": 28.846861, "lng": -96.88966, "type": "POBOX", "counties": [{"fips": "469", "name": "Victoria"}]});

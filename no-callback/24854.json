@@ -1,1 +1,1 @@
-{"lat": 37.741813, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kopperston", "lng": -81.53722, "zip_code": "24854"}
+{"locality": "Kopperston", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kopperston"], "postal_code": "24854", "lat": 37.741813, "lng": -81.53722, "type": "POBOX", "counties": [{"fips": "109", "name": "Wyoming"}]}

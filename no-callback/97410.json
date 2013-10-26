@@ -1,1 +1,1 @@
-{"lat": 42.790958, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Azalea", "lng": -123.14894, "zip_code": "97410"}
+{"locality": "Azalea", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Azalea"], "postal_code": "97410", "lat": 42.790958, "lng": -123.14894, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]}

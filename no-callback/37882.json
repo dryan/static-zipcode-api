@@ -1,1 +1,1 @@
-{"lat": 35.680116, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Townsend", "lng": -83.75801, "zip_code": "37882"}
+{"locality": "Townsend", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Townsend"], "postal_code": "37882", "lat": 35.680116, "lng": -83.75801, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}]}

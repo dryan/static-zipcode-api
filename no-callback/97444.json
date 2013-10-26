@@ -1,1 +1,1 @@
-{"lat": 42.451203, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Pistol River", "lng": -124.39036, "zip_code": "97444"}
+{"locality": "Gold Beach", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Gold Beach"], "postal_code": "97444", "lat": 42.451203, "lng": -124.39036, "type": "STANDARD", "counties": [{"fips": "015", "name": "Curry"}]}

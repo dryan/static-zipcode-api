@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.958106, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mooers", "lng": -73.58022, "zip_code": "12958"});
+zipapicallback({"locality": "Mooers", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mooers"], "postal_code": "12958", "lat": 44.958106, "lng": -73.58022, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

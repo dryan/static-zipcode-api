@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.683506, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Diego", "lng": -98.38142, "zip_code": "78384"});
+zipapicallback({"locality": "San Diego", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Diego"], "postal_code": "78384", "lat": 27.683506, "lng": -98.38142, "type": "STANDARD", "counties": [{"fips": "131", "name": "Duval"}, {"fips": "249", "name": "Jim Wells"}]});

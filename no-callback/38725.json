@@ -1,1 +1,1 @@
-{"lat": 33.628285, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Benoit", "lng": -91.0273, "zip_code": "38725"}
+{"locality": "Benoit", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Benoit"], "postal_code": "38725", "lat": 33.628285, "lng": -91.0273, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bolivar"}]}

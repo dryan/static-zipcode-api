@@ -1,1 +1,1 @@
-{"lat": 38.467809, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Owenton", "lng": -84.81023, "zip_code": "40359"}
+{"locality": "Owenton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gratz", "Owenton", "Wheatley"], "postal_code": "40359", "lat": 38.467809, "lng": -84.81023, "type": "STANDARD", "counties": [{"fips": "187", "name": "Owen"}]}

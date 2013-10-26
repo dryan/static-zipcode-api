@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.706903, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kew Gardens", "lng": -73.82973, "zip_code": "11415"});
+zipapicallback({"locality": "Kew Gardens", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jamaica", "Kew Gardens"], "postal_code": "11415", "lat": 40.706903, "lng": -73.82973, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]});

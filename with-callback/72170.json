@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.576099, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ulm", "lng": -91.46138, "zip_code": "72170"});
+zipapicallback({"locality": "Ulm", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ulm"], "postal_code": "72170", "lat": 34.576099, "lng": -91.46138, "type": "POBOX", "counties": [{"fips": "117", "name": "Prairie"}]});

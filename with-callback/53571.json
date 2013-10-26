@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.277409, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Morrisonville", "lng": -89.35853, "zip_code": "53571"});
+zipapicallback({"locality": "Morrisonville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Morrisonville"], "postal_code": "53571", "lat": 43.277409, "lng": -89.35853, "type": "POBOX", "counties": [{"fips": "025", "name": "Dane"}]});

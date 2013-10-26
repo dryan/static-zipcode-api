@@ -1,1 +1,1 @@
-zipapicallback({"lat": 20.241109, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Hawi", "lng": -155.84459, "zip_code": "96719"});
+zipapicallback({"locality": "Hawi", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Hawi"], "postal_code": "96719", "lat": 20.241109, "lng": -155.84459, "type": "POBOX", "counties": [{"fips": "001", "name": "Hawaii"}]});

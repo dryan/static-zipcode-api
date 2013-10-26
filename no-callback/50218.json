@@ -1,1 +1,1 @@
-{"lat": 41.348815, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Patterson", "lng": -93.88068, "zip_code": "50218"}
+{"locality": "Patterson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Patterson"], "postal_code": "50218", "lat": 41.348815, "lng": -93.88068, "type": "POBOX", "counties": [{"fips": "121", "name": "Madison"}]}

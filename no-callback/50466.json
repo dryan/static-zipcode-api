@@ -1,1 +1,1 @@
-{"lat": 43.376582, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Riceville", "lng": -92.54755, "zip_code": "50466"}
+{"locality": "Riceville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Riceville"], "postal_code": "50466", "lat": 43.376582, "lng": -92.54755, "type": "STANDARD", "counties": [{"fips": "089", "name": "Howard"}]}

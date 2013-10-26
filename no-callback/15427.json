@@ -1,1 +1,1 @@
-{"lat": 40.061044, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Daisytown", "lng": -79.97336, "zip_code": "15427"}
+{"locality": "Daisytown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Daisytown"], "postal_code": "15427", "lat": 40.061044, "lng": -79.97336, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

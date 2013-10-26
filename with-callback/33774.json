@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.885283, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Largo", "lng": -82.82607, "zip_code": "33774"});
+zipapicallback({"locality": "Largo", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Largo"], "postal_code": "33774", "lat": 27.885283, "lng": -82.82607, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.664226, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "West Carrollton", "lng": -84.24201, "zip_code": "45449"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dayton", "W Carrollton", "West Carrollton", "West Carrollton City"], "postal_code": "45449", "lat": 39.664226, "lng": -84.24201, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}, {"fips": "011", "name": "Auglaize"}]});

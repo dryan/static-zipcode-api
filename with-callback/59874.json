@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.844268, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Trout Creek", "lng": -115.60569, "zip_code": "59874"});
+zipapicallback({"locality": "Trout Creek", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Trout Creek"], "postal_code": "59874", "lat": 47.844268, "lng": -115.60569, "type": "STANDARD", "counties": [{"fips": "089", "name": "Sanders"}]});

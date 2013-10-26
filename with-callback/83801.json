@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.943718, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Athol", "lng": -116.66605, "zip_code": "83801"});
+zipapicallback({"locality": "Athol", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Athol"], "postal_code": "83801", "lat": 47.943718, "lng": -116.66605, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kootenai"}, {"fips": "017", "name": "Bonner"}]});

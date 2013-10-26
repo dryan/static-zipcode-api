@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.806417, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Victoria", "lng": -96.99356, "zip_code": "77901"});
+zipapicallback({"locality": "Victoria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Victoria"], "postal_code": "77901", "lat": 28.806417, "lng": -96.99356, "type": "STANDARD", "counties": [{"fips": "469", "name": "Victoria"}, {"fips": "175", "name": "Goliad"}, {"fips": "123", "name": "De Witt"}]});

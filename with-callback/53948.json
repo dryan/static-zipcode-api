@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.783534, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mauston", "lng": -90.0566, "zip_code": "53948"});
+zipapicallback({"locality": "Mauston", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mauston"], "postal_code": "53948", "lat": 43.783534, "lng": -90.0566, "type": "STANDARD", "counties": [{"fips": "057", "name": "Juneau"}]});

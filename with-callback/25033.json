@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.61324, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Buffalo", "lng": -81.95406, "zip_code": "25033"});
+zipapicallback({"locality": "Buffalo", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Buffalo"], "postal_code": "25033", "lat": 38.61324, "lng": -81.95406, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}]});

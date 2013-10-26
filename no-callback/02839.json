@@ -1,1 +1,1 @@
-{"lat": 41.948108, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Mapleville", "lng": -71.64003, "zip_code": "02839"}
+{"locality": "Mapleville", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Mapleville"], "postal_code": "02839", "lat": 41.948108, "lng": -71.64003, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]}

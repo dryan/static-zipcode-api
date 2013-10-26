@@ -1,1 +1,1 @@
-{"lat": 39.098475, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Laurel", "lng": -76.86571, "zip_code": "20707"}
+{"locality": "Laurel", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Laurel"], "postal_code": "20707", "lat": 39.098475, "lng": -76.86571, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}, {"fips": "027", "name": "Howard"}, {"fips": "003", "name": "Anne Arundel"}, {"fips": "031", "name": "Montgomery"}]}

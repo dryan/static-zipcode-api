@@ -1,1 +1,1 @@
-{"lat": 36.91707, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lewis Creek", "lng": -83.32399, "zip_code": "40810"}
+{"locality": "Bledsoe", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bledsoe", "Pine Mountain"], "postal_code": "40810", "lat": 36.91707, "lng": -83.32399, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}, {"fips": "131", "name": "Leslie"}]}

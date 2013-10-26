@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.269478, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gentry", "lng": -94.46137, "zip_code": "72734"});
+zipapicallback({"locality": "Gentry", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gentry", "Springtown"], "postal_code": "72734", "lat": 36.269478, "lng": -94.46137, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]});

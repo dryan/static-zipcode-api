@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.922655, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Wild Horse", "lng": -103.02115, "zip_code": "80862"});
+zipapicallback({"locality": "Wild Horse", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Wild Horse"], "postal_code": "80862", "lat": 38.922655, "lng": -103.02115, "type": "POBOX", "counties": [{"fips": "017", "name": "Cheyenne"}]});

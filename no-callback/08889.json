@@ -1,1 +1,1 @@
-{"lat": 40.612851, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Whitehouse Stati", "lng": -74.76682, "zip_code": "08889"}
+{"locality": "Whitehouse Station", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["White Hse Sta", "Whitehouse Station"], "postal_code": "08889", "lat": 40.612851, "lng": -74.76682, "type": "STANDARD", "counties": [{"fips": "019", "name": "Hunterdon"}, {"fips": "035", "name": "Somerset"}]}

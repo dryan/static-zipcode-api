@@ -1,1 +1,1 @@
-{"lat": 42.525335, "region": {"abbr": "NY", "name": "New York"}, "locality": "Prattsburg", "lng": -77.29673, "zip_code": "14873"}
+{"locality": "Prattsburgh", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Prattsburgh"], "postal_code": "14873", "lat": 42.525335, "lng": -77.29673, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]}

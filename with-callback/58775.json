@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.710089, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Roseglen", "lng": -101.84406, "zip_code": "58775"});
+zipapicallback({"locality": "Roseglen", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Roseglen"], "postal_code": "58775", "lat": 47.710089, "lng": -101.84406, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}]});

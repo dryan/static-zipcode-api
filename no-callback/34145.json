@@ -1,1 +1,1 @@
-{"lat": 25.940112, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Marco Island", "lng": -81.71329, "zip_code": "34145"}
+{"locality": "Marco Island", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Marco Island"], "postal_code": "34145", "lat": 25.940112, "lng": -81.71329, "type": "STANDARD", "counties": []}

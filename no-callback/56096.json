@@ -1,1 +1,1 @@
-{"lat": 44.234274, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Waterville", "lng": -93.5884, "zip_code": "56096"}
+{"locality": "Waterville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Waterville"], "postal_code": "56096", "lat": 44.234274, "lng": -93.5884, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}, {"fips": "161", "name": "Waseca"}, {"fips": "131", "name": "Rice"}]}

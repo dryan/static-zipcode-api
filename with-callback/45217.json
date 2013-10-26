@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.166948, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Saint Bernard", "lng": -84.49514, "zip_code": "45217"});
+zipapicallback({"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Saint Bernard"], "postal_code": "45217", "lat": 39.166948, "lng": -84.49514, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]});

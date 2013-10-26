@@ -1,1 +1,1 @@
-{"lat": 38.980527, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bates City", "lng": -94.07705, "zip_code": "64011"}
+{"locality": "Bates City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bates City"], "postal_code": "64011", "lat": 38.980527, "lng": -94.07705, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lafayette"}, {"fips": "101", "name": "Johnson"}]}

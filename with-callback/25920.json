@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.683749, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Slab Fork", "lng": -81.34359, "zip_code": "25920"});
+zipapicallback({"locality": "Slab Fork", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Slab Fork"], "postal_code": "25920", "lat": 37.683749, "lng": -81.34359, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}, {"fips": "109", "name": "Wyoming"}]});

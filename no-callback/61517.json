@@ -1,1 +1,1 @@
-{"lat": 40.816162, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Brimfield", "lng": -89.84131, "zip_code": "61517"}
+{"locality": "Brimfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Brimfield"], "postal_code": "61517", "lat": 40.816162, "lng": -89.84131, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}]}

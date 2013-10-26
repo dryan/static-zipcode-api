@@ -1,1 +1,1 @@
-{"lat": 41.058352, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lake Harmony", "lng": -75.60137, "zip_code": "18624"}
+{"locality": "Lake Harmony", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lake Harmony"], "postal_code": "18624", "lat": 41.058352, "lng": -75.60137, "type": "POBOX", "counties": [{"fips": "025", "name": "Carbon"}]}

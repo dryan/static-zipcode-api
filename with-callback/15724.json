@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.734783, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cherry Tree", "lng": -78.81275, "zip_code": "15724"});
+zipapicallback({"locality": "Cherry Tree", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cherry Tree"], "postal_code": "15724", "lat": 40.734783, "lng": -78.81275, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}, {"fips": "033", "name": "Clearfield"}, {"fips": "021", "name": "Cambria"}]});

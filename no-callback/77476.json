@@ -1,1 +1,1 @@
-{"lat": 29.686804, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Simonton", "lng": -95.99738, "zip_code": "77476"}
+{"locality": "Simonton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Simonton"], "postal_code": "77476", "lat": 29.686804, "lng": -95.99738, "type": "POBOX", "counties": [{"fips": "157", "name": "Fort Bend"}]}

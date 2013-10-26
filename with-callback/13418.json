@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.852808, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Brookfield", "lng": -75.39938, "zip_code": "13418"});
+zipapicallback({"locality": "North Brookfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["N Brookfield", "North Brookfield"], "postal_code": "13418", "lat": 42.852808, "lng": -75.39938, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]});

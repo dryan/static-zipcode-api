@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.968985, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Byesville", "lng": -81.54108, "zip_code": "43723"});
+zipapicallback({"locality": "Byesville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Byesville"], "postal_code": "43723", "lat": 39.968985, "lng": -81.54108, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}]});

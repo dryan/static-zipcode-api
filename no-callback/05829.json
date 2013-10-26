@@ -1,1 +1,1 @@
-{"lat": 44.945925, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Derby", "lng": -72.09864, "zip_code": "05829"}
+{"locality": "Derby", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Derby"], "postal_code": "05829", "lat": 44.945925, "lng": -72.09864, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]}

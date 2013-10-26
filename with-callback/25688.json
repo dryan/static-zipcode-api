@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.627833, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "North Matewan", "lng": -82.14774, "zip_code": "25688"});
+zipapicallback({"locality": "North Matewan", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["North Matewan"], "postal_code": "25688", "lat": 37.627833, "lng": -82.14774, "type": "POBOX", "counties": [{"fips": "059", "name": "Mingo"}]});

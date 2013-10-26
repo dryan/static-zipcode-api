@@ -1,1 +1,1 @@
-{"lat": 32.74154, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Caddo", "lng": -98.67089, "zip_code": "76429"}
+{"locality": "Caddo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Caddo"], "postal_code": "76429", "lat": 32.74154, "lng": -98.67089, "type": "STANDARD", "counties": []}

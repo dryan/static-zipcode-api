@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.229856, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Vernon Hills", "lng": -87.96779, "zip_code": "60061"});
+zipapicallback({"locality": "Vernon Hills", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Indian Creek", "Vernon Hills"], "postal_code": "60061", "lat": 42.229856, "lng": -87.96779, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.511618, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Eastanollee", "lng": -83.25811, "zip_code": "30538"});
+zipapicallback({"locality": "Eastanollee", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Eastanollee"], "postal_code": "30538", "lat": 34.511618, "lng": -83.25811, "type": "STANDARD", "counties": [{"fips": "257", "name": "Stephens"}, {"fips": "119", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.462927, "region": {"abbr": "CA", "name": "California"}, "locality": "San Clemente", "lng": -117.62414, "zip_code": "92673"});
+zipapicallback({"locality": "San Clemente", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Clemente"], "postal_code": "92673", "lat": 33.462927, "lng": -117.62414, "type": "STANDARD", "counties": []});

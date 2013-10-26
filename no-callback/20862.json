@@ -1,1 +1,1 @@
-{"lat": 39.184019, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Brinklow", "lng": -77.01708, "zip_code": "20862"}
+{"locality": "Brinklow", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Brinklow"], "postal_code": "20862", "lat": 39.184019, "lng": -77.01708, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

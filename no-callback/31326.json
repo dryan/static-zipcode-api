@@ -1,1 +1,1 @@
-{"lat": 32.293147, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rincon", "lng": -81.23006, "zip_code": "31326"}
+{"locality": "Rincon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Rincon"], "postal_code": "31326", "lat": 32.293147, "lng": -81.23006, "type": "STANDARD", "counties": [{"fips": "103", "name": "Effingham"}]}

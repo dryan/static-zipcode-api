@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.409544, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Bloomfield", "lng": -77.17959, "zip_code": "17068"});
+zipapicallback({"locality": "New Bloomfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Bloomfield", "New Bloomfld"], "postal_code": "17068", "lat": 40.409544, "lng": -77.17959, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}]});

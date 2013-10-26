@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.507726, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "French Lick", "lng": -86.62922, "zip_code": "47432"});
+zipapicallback({"locality": "French Lick", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["French Lick"], "postal_code": "47432", "lat": 38.507726, "lng": -86.62922, "type": "STANDARD", "counties": [{"fips": "117", "name": "Orange"}, {"fips": "101", "name": "Martin"}, {"fips": "037", "name": "Dubois"}]});

@@ -1,1 +1,1 @@
-{"lat": 26.232009, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pompano Beach", "lng": -80.12211, "zip_code": "33060"}
+{"locality": "Pompano Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pompano Beach"], "postal_code": "33060", "lat": 26.232009, "lng": -80.12211, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.89615, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Uledi", "lng": -79.78956, "zip_code": "15484"}
+{"locality": "Uledi", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Uledi"], "postal_code": "15484", "lat": 39.89615, "lng": -79.78956, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.396661, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Otto", "lng": -108.28605, "zip_code": "82434"});
+zipapicallback({"locality": "Otto", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Otto"], "postal_code": "82434", "lat": 44.396661, "lng": -108.28605, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]});

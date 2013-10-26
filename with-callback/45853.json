@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.983471, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kalida", "lng": -84.20027, "zip_code": "45853"});
+zipapicallback({"locality": "Kalida", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kalida"], "postal_code": "45853", "lat": 40.983471, "lng": -84.20027, "type": "POBOX", "counties": [{"fips": "137", "name": "Putnam"}]});

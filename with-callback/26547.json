@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.509001, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Reedsville", "lng": -79.80521, "zip_code": "26547"});
+zipapicallback({"locality": "Reedsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Reedsville"], "postal_code": "26547", "lat": 39.509001, "lng": -79.80521, "type": "STANDARD", "counties": [{"fips": "077", "name": "Preston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.830612, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Johnsonville", "lng": -79.45494, "zip_code": "29555"});
+zipapicallback({"locality": "Johnsonville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Johnsonville", "Poston"], "postal_code": "29555", "lat": 33.830612, "lng": -79.45494, "type": "STANDARD", "counties": [{"fips": "041", "name": "Florence"}, {"fips": "089", "name": "Williamsburg"}]});

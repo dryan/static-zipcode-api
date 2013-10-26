@@ -1,1 +1,1 @@
-{"lat": 35.264739, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Kinston", "lng": -77.62481, "zip_code": "28504"}
+{"locality": "Kinston", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Kinston"], "postal_code": "28504", "lat": 35.264739, "lng": -77.62481, "type": "STANDARD", "counties": []}

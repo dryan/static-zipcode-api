@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.446894, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Delmar", "lng": -75.56365, "zip_code": "21875"});
+zipapicallback({"locality": "Delmar", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Delmar"], "postal_code": "21875", "lat": 38.446894, "lng": -75.56365, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]});

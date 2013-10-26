@@ -1,1 +1,1 @@
-{"lat": 40.873876, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bogota", "lng": -74.02769, "zip_code": "07603"}
+{"locality": "Bogota", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bogota"], "postal_code": "07603", "lat": 40.873876, "lng": -74.02769, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

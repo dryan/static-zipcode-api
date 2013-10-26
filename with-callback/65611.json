@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.54602, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Blue Eye", "lng": -93.34364, "zip_code": "65611"});
+zipapicallback({"locality": "Blue Eye", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blue Eye"], "postal_code": "65611", "lat": 36.54602, "lng": -93.34364, "type": "STANDARD", "counties": [{"fips": "209", "name": "Stone"}, {"fips": "213", "name": "Taney"}]});

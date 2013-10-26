@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.118561, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Veedersburg", "lng": -87.23646, "zip_code": "47987"});
+zipapicallback({"locality": "Veedersburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Veedersburg"], "postal_code": "47987", "lat": 40.118561, "lng": -87.23646, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fountain"}]});

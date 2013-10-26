@@ -1,1 +1,1 @@
-{"lat": 38.746506, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lynx", "lng": -83.40878, "zip_code": "45650"}
+{"locality": "Lynx", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lynx"], "postal_code": "45650", "lat": 38.746506, "lng": -83.40878, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

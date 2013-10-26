@@ -1,1 +1,1 @@
-{"lat": 39.802798, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Newman", "lng": -87.99744, "zip_code": "61942"}
+{"locality": "Newman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Newman"], "postal_code": "61942", "lat": 39.802798, "lng": -87.99744, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}]}

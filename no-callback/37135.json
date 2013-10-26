@@ -1,1 +1,1 @@
-{"lat": 35.940383, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Nolensville", "lng": -86.6686, "zip_code": "37135"}
+{"locality": "Nolensville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Nolensville"], "postal_code": "37135", "lat": 35.940383, "lng": -86.6686, "type": "STANDARD", "counties": [{"fips": "187", "name": "Williamson"}, {"fips": "149", "name": "Rutherford"}, {"fips": "037", "name": "Davidson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.212954, "region": {"abbr": "NY", "name": "New York"}, "locality": "Pound Ridge", "lng": -73.58409, "zip_code": "10576"});
+zipapicallback({"locality": "Pound Ridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Pound Ridge"], "postal_code": "10576", "lat": 41.212954, "lng": -73.58409, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

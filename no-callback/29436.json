@@ -1,1 +1,1 @@
-{"lat": 33.345833, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cross", "lng": -80.19009, "zip_code": "29436"}
+{"locality": "Cross", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cross"], "postal_code": "29436", "lat": 33.345833, "lng": -80.19009, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}, {"fips": "075", "name": "Orangeburg"}]}

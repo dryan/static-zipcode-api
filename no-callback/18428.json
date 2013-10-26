@@ -1,1 +1,1 @@
-{"lat": 41.427945, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hawley", "lng": -75.13473, "zip_code": "18428"}
+{"locality": "Hawley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Blooming Grove", "Blooming Grv", "Hawley", "Lords Valley"], "postal_code": "18428", "lat": 41.427945, "lng": -75.13473, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}, {"fips": "103", "name": "Pike"}]}

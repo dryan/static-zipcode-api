@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.619695, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Worth", "lng": -80.05676, "zip_code": "33460"});
+zipapicallback({"locality": "Lake Worth", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Worth", "Lantana"], "postal_code": "33460", "lat": 26.619695, "lng": -80.05676, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.422868, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Moseley", "lng": -77.7813, "zip_code": "23120"}
+{"locality": "Moseley", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Moseley"], "postal_code": "23120", "lat": 37.422868, "lng": -77.7813, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chesterfield"}, {"fips": "145", "name": "Powhatan"}]}

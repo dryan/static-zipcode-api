@@ -1,1 +1,1 @@
-{"lat": 26.148613, "region": {"abbr": "FL", "name": "Florida"}, "locality": "City Of Sunrise", "lng": -80.22446, "zip_code": "33313"}
+{"locality": "Fort Lauderdale", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["City Of Sunrise", "Fort Lauderdale", "Ft Lauderdale", "Laud Lakes", "Lauderdale Lakes", "Lauderhill", "Plantation", "Sunrise"], "postal_code": "33313", "lat": 26.148613, "lng": -80.22446, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

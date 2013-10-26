@@ -1,1 +1,1 @@
-{"lat": 31.568459, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Monahans", "lng": -102.89658, "zip_code": "79756"}
+{"locality": "Monahans", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Monahans", "Thorntonville"], "postal_code": "79756", "lat": 31.568459, "lng": -102.89658, "type": "STANDARD", "counties": [{"fips": "475", "name": "Ward"}]}

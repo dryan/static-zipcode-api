@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.28117, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Peach Orchard", "lng": -90.66941, "zip_code": "72453"});
+zipapicallback({"locality": "Peach Orchard", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Peach Orchard"], "postal_code": "72453", "lat": 36.28117, "lng": -90.66941, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]});

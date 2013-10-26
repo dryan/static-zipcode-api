@@ -1,1 +1,1 @@
-{"lat": 44.428537, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Concord", "lng": -71.87212, "zip_code": "05824"}
+{"locality": "Concord", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Concord"], "postal_code": "05824", "lat": 44.428537, "lng": -71.87212, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

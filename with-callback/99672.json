@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.532394, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Sterling", "lng": -150.74033, "zip_code": "99672"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Sterling"], "postal_code": "99672", "lat": 60.532394, "lng": -150.74033, "type": "STANDARD", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]});

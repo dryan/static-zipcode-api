@@ -1,1 +1,1 @@
-{"lat": 42.061841, "region": {"abbr": "NY", "name": "New York"}, "locality": "Shady", "lng": -74.16063, "zip_code": "12409"}
+{"locality": "Bearsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bearsville", "Shady"], "postal_code": "12409", "lat": 42.061841, "lng": -74.16063, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.127564, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Alligator", "lng": -90.73281, "zip_code": "38720"});
+zipapicallback({"locality": "Alligator", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Alligator"], "postal_code": "38720", "lat": 34.127564, "lng": -90.73281, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bolivar"}, {"fips": "027", "name": "Coahoma"}]});

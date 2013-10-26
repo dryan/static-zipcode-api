@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.699568, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ravencliff", "lng": -81.48138, "zip_code": "25913"});
+zipapicallback({"locality": "Ravencliff", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ravencliff"], "postal_code": "25913", "lat": 37.699568, "lng": -81.48138, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]});

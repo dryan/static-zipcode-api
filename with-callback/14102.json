@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.838643, "region": {"abbr": "NY", "name": "New York"}, "locality": "Marilla", "lng": -78.55601, "zip_code": "14102"});
+zipapicallback({"locality": "Marilla", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Marilla"], "postal_code": "14102", "lat": 42.838643, "lng": -78.55601, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

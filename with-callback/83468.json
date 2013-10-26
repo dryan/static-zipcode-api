@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.926709, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Tendoy", "lng": -113.68966, "zip_code": "83468"});
+zipapicallback({"locality": "Tendoy", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Tendoy"], "postal_code": "83468", "lat": 44.926709, "lng": -113.68966, "type": "POBOX", "counties": [{"fips": "059", "name": "Lemhi"}]});

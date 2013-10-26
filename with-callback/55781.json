@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.672765, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Side Lake", "lng": -93.05481, "zip_code": "55781"});
+zipapicallback({"locality": "Side Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Side Lake"], "postal_code": "55781", "lat": 47.672765, "lng": -93.05481, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]});

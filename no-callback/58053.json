@@ -1,1 +1,1 @@
-{"lat": 46.067238, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Geneseo", "lng": -97.18736, "zip_code": "58053"}
+{"locality": "Lidgerwood", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Geneseo", "Lidgerwood"], "postal_code": "58053", "lat": 46.067238, "lng": -97.18736, "type": "STANDARD", "counties": [{"fips": "077", "name": "Richland"}, {"fips": "081", "name": "Sargent"}]}

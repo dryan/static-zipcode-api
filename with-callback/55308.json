@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.426203, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Becker", "lng": -93.85017, "zip_code": "55308"});
+zipapicallback({"locality": "Becker", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Becker"], "postal_code": "55308", "lat": 45.426203, "lng": -93.85017, "type": "STANDARD", "counties": [{"fips": "141", "name": "Sherburne"}]});

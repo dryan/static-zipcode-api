@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.201159, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sibley", "lng": -98.13662, "zip_code": "58429"});
+zipapicallback({"locality": "Dazey", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Dazey", "Sibley"], "postal_code": "58429", "lat": 47.201159, "lng": -98.13662, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}, {"fips": "039", "name": "Griggs"}]});

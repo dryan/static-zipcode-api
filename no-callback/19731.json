@@ -1,1 +1,1 @@
-{"lat": 39.518164, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Port Penn", "lng": -75.57656, "zip_code": "19731"}
+{"locality": "Port Penn", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Port Penn"], "postal_code": "19731", "lat": 39.518164, "lng": -75.57656, "type": "POBOX", "counties": [{"fips": "003", "name": "New Castle"}]}

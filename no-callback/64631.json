@@ -1,1 +1,1 @@
-{"lat": 39.79373, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bucklin", "lng": -92.88165, "zip_code": "64631"}
+{"locality": "Bucklin", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bucklin"], "postal_code": "64631", "lat": 39.79373, "lng": -92.88165, "type": "STANDARD", "counties": [{"fips": "115", "name": "Linn"}, {"fips": "121", "name": "MacOn"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.465869, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hoopeston", "lng": -87.66766, "zip_code": "60942"});
+zipapicallback({"locality": "Hoopeston", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hoopeston"], "postal_code": "60942", "lat": 40.465869, "lng": -87.66766, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}, {"fips": "075", "name": "Iroquois"}]});

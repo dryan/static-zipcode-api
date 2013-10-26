@@ -1,1 +1,1 @@
-{"lat": 47.224876, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Roslyn", "lng": -120.99286, "zip_code": "98941"}
+{"locality": "Roslyn", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Roslyn"], "postal_code": "98941", "lat": 47.224876, "lng": -120.99286, "type": "POBOX", "counties": [{"fips": "037", "name": "Kittitas"}]}

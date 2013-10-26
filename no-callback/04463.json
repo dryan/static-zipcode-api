@@ -1,1 +1,1 @@
-{"lat": 45.241618, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Derby", "lng": -68.95101, "zip_code": "04463"}
+{"locality": "Milo", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Derby", "Lake View Plt", "Medford", "Milo", "Orneville Twp"], "postal_code": "04463", "lat": 45.241618, "lng": -68.95101, "type": "STANDARD", "counties": [{"fips": "021", "name": "Piscataquis"}, {"fips": "019", "name": "Penobscot"}]}

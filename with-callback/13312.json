@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.689564, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brantingham", "lng": -75.27252, "zip_code": "13312"});
+zipapicallback({"locality": "Brantingham", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brantingham", "Glenfield"], "postal_code": "13312", "lat": 43.689564, "lng": -75.27252, "type": "POBOX", "counties": [{"fips": "049", "name": "Lewis"}]});

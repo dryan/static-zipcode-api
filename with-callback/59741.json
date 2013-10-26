@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.810687, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Manhattan", "lng": -111.33138, "zip_code": "59741"});
+zipapicallback({"locality": "Manhattan", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Manhattan"], "postal_code": "59741", "lat": 45.810687, "lng": -111.33138, "type": "STANDARD", "counties": [{"fips": "031", "name": "Gallatin"}]});

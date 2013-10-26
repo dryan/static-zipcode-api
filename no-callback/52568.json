@@ -1,1 +1,1 @@
-{"lat": 41.178396, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Martinsburg", "lng": -92.25004, "zip_code": "52568"}
+{"locality": "Martinsburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Martinsburg"], "postal_code": "52568", "lat": 41.178396, "lng": -92.25004, "type": "POBOX", "counties": [{"fips": "107", "name": "Keokuk"}]}

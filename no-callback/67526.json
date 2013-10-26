@@ -1,1 +1,1 @@
-{"lat": 38.347872, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ellinwood", "lng": -98.56205, "zip_code": "67526"}
+{"locality": "Ellinwood", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ellinwood"], "postal_code": "67526", "lat": 38.347872, "lng": -98.56205, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barton"}, {"fips": "185", "name": "Stafford"}, {"fips": "159", "name": "Rice"}]}

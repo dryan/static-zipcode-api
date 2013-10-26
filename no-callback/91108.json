@@ -1,1 +1,1 @@
-{"lat": 34.122658, "region": {"abbr": "CA", "name": "California"}, "locality": "San Marino", "lng": -118.11296, "zip_code": "91108"}
+{"locality": "San Marino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pasadena", "San Marino"], "postal_code": "91108", "lat": 34.122658, "lng": -118.11296, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

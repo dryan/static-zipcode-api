@@ -1,1 +1,1 @@
-{"lat": 30.896204, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wheelock", "lng": -96.40959, "zip_code": "77882"}
+{"locality": "Wheelock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wheelock"], "postal_code": "77882", "lat": 30.896204, "lng": -96.40959, "type": "POBOX", "counties": [{"fips": "041", "name": "Brazos"}]}

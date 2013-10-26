@@ -1,1 +1,1 @@
-{"lat": 44.158979, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Websterville", "lng": -72.46942, "zip_code": "05678"}
+{"locality": "Websterville", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Websterville"], "postal_code": "05678", "lat": 44.158979, "lng": -72.46942, "type": "POBOX", "counties": [{"fips": "023", "name": "Washington"}]}

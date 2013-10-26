@@ -1,1 +1,1 @@
-{"lat": 44.004968, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Walton", "lng": -123.63206, "zip_code": "97490"}
+{"locality": "Walton", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Walton"], "postal_code": "97490", "lat": 44.004968, "lng": -123.63206, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

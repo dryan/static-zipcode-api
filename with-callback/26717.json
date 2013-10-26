@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.351231, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Elk Garden", "lng": -79.17606, "zip_code": "26717"});
+zipapicallback({"locality": "Elk Garden", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Elk Garden"], "postal_code": "26717", "lat": 39.351231, "lng": -79.17606, "type": "STANDARD", "counties": [{"fips": "057", "name": "Mineral"}, {"fips": "023", "name": "Grant"}]});

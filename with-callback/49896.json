@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.685664, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Wilson", "lng": -87.37748, "zip_code": "49896"});
+zipapicallback({"locality": "Wilson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Wilson"], "postal_code": "49896", "lat": 45.685664, "lng": -87.37748, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]});

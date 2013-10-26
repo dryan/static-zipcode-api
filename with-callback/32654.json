@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.459973, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Island Grove", "lng": -82.10819, "zip_code": "32654"});
+zipapicallback({"locality": "Island Grove", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Island Grove"], "postal_code": "32654", "lat": 29.459973, "lng": -82.10819, "type": "POBOX", "counties": [{"fips": "001", "name": "Alachua"}]});

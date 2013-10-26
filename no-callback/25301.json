@@ -1,1 +1,1 @@
-{"lat": 38.350647, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Charleston", "lng": -81.63028, "zip_code": "25301"}
+{"locality": "Charleston", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Charleston"], "postal_code": "25301", "lat": 38.350647, "lng": -81.63028, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]}

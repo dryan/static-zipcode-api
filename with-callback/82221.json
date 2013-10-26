@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.646277, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Lagrange", "lng": -104.2877, "zip_code": "82221"});
+zipapicallback({"locality": "Lagrange", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Lagrange"], "postal_code": "82221", "lat": 41.646277, "lng": -104.2877, "type": "STANDARD", "counties": [{"fips": "015", "name": "Goshen"}]});

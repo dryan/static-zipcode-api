@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.844538, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Brookville", "lng": -84.41774, "zip_code": "45309"});
+zipapicallback({"locality": "Brookville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Brookville"], "postal_code": "45309", "lat": 39.844538, "lng": -84.41774, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}, {"fips": "037", "name": "Darke"}]});

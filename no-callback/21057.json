@@ -1,1 +1,1 @@
-{"lat": 39.454943, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Glen Arm", "lng": -76.49718, "zip_code": "21057"}
+{"locality": "Glen Arm", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glen Arm"], "postal_code": "21057", "lat": 39.454943, "lng": -76.49718, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.886476, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Carr", "lng": -104.87448, "zip_code": "80612"}
+{"locality": "Carr", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Carr"], "postal_code": "80612", "lat": 40.886476, "lng": -104.87448, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

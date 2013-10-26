@@ -1,1 +1,1 @@
-{"lat": 40.624025, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Milford", "lng": -87.69618, "zip_code": "60953"}
+{"locality": "Milford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Milford"], "postal_code": "60953", "lat": 40.624025, "lng": -87.69618, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}]}

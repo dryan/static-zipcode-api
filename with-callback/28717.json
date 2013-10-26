@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.103251, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cashiers", "lng": -83.09538, "zip_code": "28717"});
+zipapicallback({"locality": "Cashiers", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cashiers"], "postal_code": "28717", "lat": 35.103251, "lng": -83.09538, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.757318, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bridgeton", "lng": -90.42335, "zip_code": "63044"}
+{"locality": "Bridgeton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bridgeton", "Hazelwood"], "postal_code": "63044", "lat": 38.757318, "lng": -90.42335, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

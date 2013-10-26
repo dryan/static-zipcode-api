@@ -1,1 +1,1 @@
-{"lat": 41.439518, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Channahon", "lng": -88.20898, "zip_code": "60410"}
+{"locality": "Channahon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Channahon"], "postal_code": "60410", "lat": 41.439518, "lng": -88.20898, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}, {"fips": "199", "name": "Williamson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.126271, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Phoenixville", "lng": -75.52341, "zip_code": "19460"});
+zipapicallback({"locality": "Phoenixville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Phoenixville"], "postal_code": "19460", "lat": 40.126271, "lng": -75.52341, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

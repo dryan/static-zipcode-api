@@ -1,1 +1,1 @@
-{"lat": 37.641788, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Glasgow", "lng": -79.45652, "zip_code": "24555"}
+{"locality": "Glasgow", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Glasgow"], "postal_code": "24555", "lat": 37.641788, "lng": -79.45652, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rockbridge"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.226093, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Stevens", "lng": -76.16682, "zip_code": "17578"});
+zipapicallback({"locality": "Stevens", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Stevens"], "postal_code": "17578", "lat": 40.226093, "lng": -76.16682, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

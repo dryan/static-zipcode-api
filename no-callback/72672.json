@@ -1,1 +1,1 @@
-{"lat": 36.264469, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pyatt", "lng": -92.84044, "zip_code": "72672"}
+{"locality": "Pyatt", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pyatt"], "postal_code": "72672", "lat": 36.264469, "lng": -92.84044, "type": "POBOX", "counties": [{"fips": "089", "name": "Marion"}]}

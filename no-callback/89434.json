@@ -1,1 +1,1 @@
-{"lat": 39.544183, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Sparks", "lng": -119.70003, "zip_code": "89434"}
+{"locality": "Sparks", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Lockwood", "Mccarran", "Sparks"], "postal_code": "89434", "lat": 39.544183, "lng": -119.70003, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]}

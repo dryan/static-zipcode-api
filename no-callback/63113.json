@@ -1,1 +1,1 @@
-{"lat": 38.656701, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Louis", "lng": -90.24397, "zip_code": "63113"}
+{"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Louis"], "postal_code": "63113", "lat": 38.656701, "lng": -90.24397, "type": "STANDARD", "counties": [{"fips": "510", "name": "St Louis (City)"}]}

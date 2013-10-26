@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.270036, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Krum", "lng": -97.24859, "zip_code": "76249"});
+zipapicallback({"locality": "Krum", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Krum"], "postal_code": "76249", "lat": 33.270036, "lng": -97.24859, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]});

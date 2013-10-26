@@ -1,1 +1,1 @@
-{"lat": 39.974547, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Dallas", "lng": -80.53003, "zip_code": "26036"}
+{"locality": "Dallas", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Dallas"], "postal_code": "26036", "lat": 39.974547, "lng": -80.53003, "type": "STANDARD", "counties": [{"fips": "051", "name": "Marshall"}]}

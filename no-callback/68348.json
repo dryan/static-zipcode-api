@@ -1,1 +1,1 @@
-{"lat": 40.289859, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elk Creek", "lng": -96.13044, "zip_code": "68348"}
+{"locality": "Elk Creek", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Elk Creek"], "postal_code": "68348", "lat": 40.289859, "lng": -96.13044, "type": "STANDARD", "counties": [{"fips": "097", "name": "Johnson"}, {"fips": "133", "name": "Pawnee"}, {"fips": "127", "name": "Nemaha"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.256839, "region": {"abbr": "CA", "name": "California"}, "locality": "Sheep Ranch", "lng": -120.38102, "zip_code": "95250"});
+zipapicallback({"locality": "San Andreas", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Andreas", "Sheep Ranch"], "postal_code": "95250", "lat": 38.256839, "lng": -120.38102, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.286462, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Little Deer Isle", "lng": -68.71098, "zip_code": "04650"}
+{"locality": "Little Deer Isle", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Little Deer Isle", "Ltl Deer Is"], "postal_code": "04650", "lat": 44.286462, "lng": -68.71098, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.305798, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Swanlake", "lng": -111.96206, "zip_code": "83281"});
+zipapicallback({"locality": "Swanlake", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Swanlake"], "postal_code": "83281", "lat": 42.305798, "lng": -111.96206, "type": "POBOX", "counties": [{"fips": "005", "name": "Bannock"}]});

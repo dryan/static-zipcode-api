@@ -1,1 +1,1 @@
-{"lat": 34.117047, "region": {"abbr": "CA", "name": "California"}, "locality": "La Verne", "lng": -117.77097, "zip_code": "91750"}
+{"locality": "La Verne", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["La Verne"], "postal_code": "91750", "lat": 34.117047, "lng": -117.77097, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

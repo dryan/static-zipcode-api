@@ -1,1 +1,1 @@
-{"lat": 38.704457, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gassaway", "lng": -80.79366, "zip_code": "26624"}
+{"locality": "Gassaway", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Chapel", "Gassaway"], "postal_code": "26624", "lat": 38.704457, "lng": -80.79366, "type": "STANDARD", "counties": [{"fips": "007", "name": "Braxton"}, {"fips": "021", "name": "Gilmer"}]}

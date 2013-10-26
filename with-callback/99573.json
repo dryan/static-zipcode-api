@@ -1,1 +1,1 @@
-zipapicallback({"lat": 61.832347, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Copper", "lng": -145.2308, "zip_code": "99573"});
+zipapicallback({"locality": "Copper Center", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Copper Center"], "postal_code": "99573", "lat": 61.832347, "lng": -145.2308, "type": "STANDARD", "counties": [{"fips": "261", "name": "Valdez-Cordova"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.208375, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Hysham", "lng": -107.22415, "zip_code": "59038"}
+{"locality": "Hysham", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Hysham", "Sanders"], "postal_code": "59038", "lat": 46.208375, "lng": -107.22415, "type": "STANDARD", "counties": [{"fips": "103", "name": "Treasure"}]}

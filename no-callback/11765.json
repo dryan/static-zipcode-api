@@ -1,1 +1,1 @@
-{"lat": 40.88889, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mill Neck", "lng": -73.55608, "zip_code": "11765"}
+{"locality": "Mill Neck", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mill Neck"], "postal_code": "11765", "lat": 40.88889, "lng": -73.55608, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.565296, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Karlstad", "lng": -96.47578, "zip_code": "56732"});
+zipapicallback({"locality": "Karlstad", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Karlstad"], "postal_code": "56732", "lat": 48.565296, "lng": -96.47578, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kittson"}, {"fips": "135", "name": "Roseau"}, {"fips": "089", "name": "Marshall"}]});

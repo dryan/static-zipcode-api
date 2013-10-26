@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.036669, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Chamberino", "lng": -106.68516, "zip_code": "88027"});
+zipapicallback({"locality": "Chamberino", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Chamberino"], "postal_code": "88027", "lat": 32.036669, "lng": -106.68516, "type": "POBOX", "counties": [{"fips": "013", "name": "Dona Ana"}]});

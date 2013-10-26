@@ -1,1 +1,1 @@
-{"lat": 41.129363, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "North Platte", "lng": -100.77502, "zip_code": "69101"}
+{"locality": "North Platte", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["North Platte"], "postal_code": "69101", "lat": 41.129363, "lng": -100.77502, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}]}

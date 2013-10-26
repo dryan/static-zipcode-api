@@ -1,1 +1,1 @@
-{"lat": 33.785091, "region": {"abbr": "CA", "name": "California"}, "locality": "Orange", "lng": -117.84569, "zip_code": "92866"}
+{"locality": "Orange", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orange"], "postal_code": "92866", "lat": 33.785091, "lng": -117.84569, "type": "STANDARD", "counties": []}

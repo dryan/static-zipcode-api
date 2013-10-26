@@ -1,1 +1,1 @@
-{"lat": 40.283378, "region": {"abbr": "CA", "name": "California"}, "locality": "Wendel", "lng": -120.12859, "zip_code": "96136"}
+{"locality": "Wendel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Wendel"], "postal_code": "96136", "lat": 40.283378, "lng": -120.12859, "type": "STANDARD", "counties": [{"fips": "035", "name": "Lassen"}]}

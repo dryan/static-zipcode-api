@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.151449, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kelly Corners", "lng": -74.64261, "zip_code": "12455"});
+zipapicallback({"locality": "Margaretville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Margaretville"], "postal_code": "12455", "lat": 42.151449, "lng": -74.64261, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]});

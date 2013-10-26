@@ -1,1 +1,1 @@
-{"lat": 39.07348, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dexter", "lng": -82.244, "zip_code": "45741"}
+{"locality": "Langsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dexter", "Langsville"], "postal_code": "45741", "lat": 39.07348, "lng": -82.244, "type": "STANDARD", "counties": [{"fips": "105", "name": "Meigs"}, {"fips": "163", "name": "Vinton"}]}

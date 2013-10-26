@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.505916, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Grapeland", "lng": -95.46315, "zip_code": "75844"});
+zipapicallback({"locality": "Grapeland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Grapeland"], "postal_code": "75844", "lat": 31.505916, "lng": -95.46315, "type": "STANDARD", "counties": [{"fips": "225", "name": "Houston"}, {"fips": "001", "name": "Anderson"}]});

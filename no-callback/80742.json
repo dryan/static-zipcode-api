@@ -1,1 +1,1 @@
-{"lat": 40.603869, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "New Raymer", "lng": -103.87807, "zip_code": "80742"}
+{"locality": "New Raymer", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["New Raymer"], "postal_code": "80742", "lat": 40.603869, "lng": -103.87807, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.36469, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Conrath", "lng": -91.04968, "zip_code": "54731"}
+{"locality": "Conrath", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Conrath"], "postal_code": "54731", "lat": 45.36469, "lng": -91.04968, "type": "STANDARD", "counties": [{"fips": "107", "name": "Rusk"}]}

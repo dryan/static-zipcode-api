@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.204949, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Castor", "lng": -93.10383, "zip_code": "71016"});
+zipapicallback({"locality": "Castor", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Castor"], "postal_code": "71016", "lat": 32.204949, "lng": -93.10383, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bienville"}]});

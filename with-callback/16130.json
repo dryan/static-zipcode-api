@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.443741, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hadley", "lng": -80.22367, "zip_code": "16130"});
+zipapicallback({"locality": "Hadley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hadley"], "postal_code": "16130", "lat": 41.443741, "lng": -80.22367, "type": "STANDARD", "counties": [{"fips": "085", "name": "Mercer"}]});

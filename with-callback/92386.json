@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.244448, "region": {"abbr": "CA", "name": "California"}, "locality": "Sugarloaf", "lng": -116.82962, "zip_code": "92386"});
+zipapicallback({"locality": "Sugarloaf", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Bear City", "Sugarloaf"], "postal_code": "92386", "lat": 34.244448, "lng": -116.82962, "type": "POBOX", "counties": [{"fips": "071", "name": "San Bernardino"}]});

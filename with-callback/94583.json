@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.75735, "region": {"abbr": "CA", "name": "California"}, "locality": "San Ramon", "lng": -121.95213, "zip_code": "94583"});
+zipapicallback({"locality": "San Ramon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Ramon"], "postal_code": "94583", "lat": 37.75735, "lng": -121.95213, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

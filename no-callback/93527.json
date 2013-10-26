@@ -1,1 +1,1 @@
-{"lat": 35.734418, "region": {"abbr": "CA", "name": "California"}, "locality": "Pearsonville", "lng": -117.89313, "zip_code": "93527"}
+{"locality": "Inyokern", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Inyokern", "Pearsonville"], "postal_code": "93527", "lat": 35.734418, "lng": -117.89313, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

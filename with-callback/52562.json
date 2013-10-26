@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.26457, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hayesville", "lng": -92.24888, "zip_code": "52562"});
+zipapicallback({"locality": "Hayesville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hayesville"], "postal_code": "52562", "lat": 41.26457, "lng": -92.24888, "type": "POBOX", "counties": [{"fips": "107", "name": "Keokuk"}]});

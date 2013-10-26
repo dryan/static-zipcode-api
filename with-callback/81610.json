@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.334542, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Dinosaur", "lng": -108.76266, "zip_code": "81610"});
+zipapicallback({"locality": "Dinosaur", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Dinosaur"], "postal_code": "81610", "lat": 40.334542, "lng": -108.76266, "type": "STANDARD", "counties": [{"fips": "081", "name": "Moffat"}]});

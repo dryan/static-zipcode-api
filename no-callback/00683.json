@@ -1,1 +1,1 @@
-{"lat": 18.092807, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "San German", "lng": -67.04524, "zip_code": "00683"}
+{"locality": "San German", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["San German"], "postal_code": "00683", "lat": 18.092807, "lng": -67.04524, "type": "STANDARD", "counties": []}

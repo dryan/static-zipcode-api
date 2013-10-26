@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.620038, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mosca", "lng": -105.73101, "zip_code": "81146"});
+zipapicallback({"locality": "Mosca", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mosca"], "postal_code": "81146", "lat": 37.620038, "lng": -105.73101, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alamosa"}]});

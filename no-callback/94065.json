@@ -1,1 +1,1 @@
-{"lat": 37.533538, "region": {"abbr": "CA", "name": "California"}, "locality": "Redwood City", "lng": -122.24602, "zip_code": "94065"}
+{"locality": "Redwood City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Redwood City"], "postal_code": "94065", "lat": 37.533538, "lng": -122.24602, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.053308, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shippensburg", "lng": -77.50622, "zip_code": "17257"}
+{"locality": "Shippensburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shippensburg"], "postal_code": "17257", "lat": 40.053308, "lng": -77.50622, "type": "STANDARD", "counties": [{"fips": "041", "name": "Cumberland"}, {"fips": "055", "name": "Franklin"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.164163, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Smyrna Mills", "lng": -68.23232, "zip_code": "04780"}
+{"locality": "Smyrna Mills", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Hersey", "Merrill", "Moro Plt", "Smyrna Mills"], "postal_code": "04780", "lat": 46.164163, "lng": -68.23232, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

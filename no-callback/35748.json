@@ -1,1 +1,1 @@
-{"lat": 34.710942, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gurley", "lng": -86.38995, "zip_code": "35748"}
+{"locality": "Gurley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gurley"], "postal_code": "35748", "lat": 34.710942, "lng": -86.38995, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "071", "name": "Jackson"}]}

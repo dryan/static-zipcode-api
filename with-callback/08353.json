@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.458114, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Shiloh", "lng": -75.29761, "zip_code": "08353"});
+zipapicallback({"locality": "Shiloh", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Shiloh"], "postal_code": "08353", "lat": 39.458114, "lng": -75.29761, "type": "POBOX", "counties": [{"fips": "011", "name": "Cumberland"}]});

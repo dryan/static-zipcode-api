@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.79637, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cambridge Spring", "lng": -80.02524, "zip_code": "16403"});
+zipapicallback({"locality": "Cambridge Springs", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cambridg Spgs", "Cambridge Springs"], "postal_code": "16403", "lat": 41.79637, "lng": -80.02524, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}, {"fips": "049", "name": "Erie"}]});

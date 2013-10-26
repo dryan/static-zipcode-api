@@ -1,1 +1,1 @@
-{"lat": 43.713575, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Coon Valley", "lng": -91.02348, "zip_code": "54623"}
+{"locality": "Coon Valley", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Coon Valley"], "postal_code": "54623", "lat": 43.713575, "lng": -91.02348, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}]}

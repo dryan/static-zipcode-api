@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.00847, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Charlottesville", "lng": -78.47803, "zip_code": "22902"});
+zipapicallback({"locality": "Charlottesville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Charlottesville", "Charlottesvle", "Monticello"], "postal_code": "22902", "lat": 38.00847, "lng": -78.47803, "type": "STANDARD", "counties": [{"fips": "540", "name": "Charlottesville (City)"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.455817, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rand", "lng": -106.20137, "zip_code": "80473"}
+{"locality": "Rand", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rand"], "postal_code": "80473", "lat": 40.455817, "lng": -106.20137, "type": "POBOX", "counties": [{"fips": "057", "name": "Jackson"}]}

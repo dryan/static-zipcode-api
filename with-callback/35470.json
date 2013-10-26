@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.558949, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Livingston", "lng": -88.12485, "zip_code": "35470"});
+zipapicallback({"locality": "Livingston", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Coatopa", "Livingston"], "postal_code": "35470", "lat": 32.558949, "lng": -88.12485, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}]});

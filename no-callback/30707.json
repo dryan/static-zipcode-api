@@ -1,1 +1,1 @@
-{"lat": 34.827019, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Chickamauga", "lng": -85.32883, "zip_code": "30707"}
+{"locality": "Chickamauga", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Chickamauga"], "postal_code": "30707", "lat": 34.827019, "lng": -85.32883, "type": "STANDARD", "counties": [{"fips": "295", "name": "Walker"}]}

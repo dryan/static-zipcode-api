@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.914079, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Kingsland", "lng": -92.33251, "zip_code": "71652"});
+zipapicallback({"locality": "Kingsland", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Kingsland"], "postal_code": "71652", "lat": 33.914079, "lng": -92.33251, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cleveland"}]});

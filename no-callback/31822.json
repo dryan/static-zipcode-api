@@ -1,1 +1,1 @@
-{"lat": 32.867211, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pine Mountain", "lng": -84.88437, "zip_code": "31822"}
+{"locality": "Pine Mountain", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pine Mountain"], "postal_code": "31822", "lat": 32.867211, "lng": -84.88437, "type": "STANDARD", "counties": [{"fips": "145", "name": "Harris"}, {"fips": "285", "name": "Troup"}, {"fips": "199", "name": "Meriwether"}]}

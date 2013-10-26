@@ -1,1 +1,1 @@
-{"lat": 34.237759, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lyon", "lng": -90.48669, "zip_code": "38645"}
+{"locality": "Lyon", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lyon"], "postal_code": "38645", "lat": 34.237759, "lng": -90.48669, "type": "STANDARD", "counties": [{"fips": "027", "name": "Coahoma"}, {"fips": "119", "name": "Quitman"}]}

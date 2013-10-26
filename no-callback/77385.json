@@ -1,1 +1,1 @@
-{"lat": 30.18771, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Conroe", "lng": -95.43893, "zip_code": "77385"}
+{"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe", "Oak Ridge N", "Oak Ridge North", "Shenandoah", "The Woodlands"], "postal_code": "77385", "lat": 30.18771, "lng": -95.43893, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]}

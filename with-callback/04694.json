@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.116525, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Woodland", "lng": -67.42484, "zip_code": "04694"});
+zipapicallback({"locality": "Baileyville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Alexander", "Baileyville", "Baring Plt", "Crawford", "Woodland Washington County"], "postal_code": "04694", "lat": 45.116525, "lng": -67.42484, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

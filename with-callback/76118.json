@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.80533, "region": {"abbr": "TX", "name": "Texas"}, "locality": "North Richland H", "lng": -97.22264, "zip_code": "76118"});
+zipapicallback({"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth", "N Richland Hills", "N Richlnd Hls", "North Richland Hills", "Richland Hills", "Richland Hls"], "postal_code": "76118", "lat": 32.80533, "lng": -97.22264, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}, {"fips": "435", "name": "Sutton"}]});

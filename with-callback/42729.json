@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.304661, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cub Run", "lng": -86.12987, "zip_code": "42729"});
+zipapicallback({"locality": "Cub Run", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cub Run"], "postal_code": "42729", "lat": 37.304661, "lng": -86.12987, "type": "STANDARD", "counties": [{"fips": "099", "name": "Hart"}, {"fips": "061", "name": "Edmonson"}]});

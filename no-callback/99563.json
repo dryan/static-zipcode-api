@@ -1,1 +1,1 @@
-{"lat": 61.527953, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chevak", "lng": -165.57029, "zip_code": "99563"}
+{"locality": "Chevak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chevak"], "postal_code": "99563", "lat": 61.527953, "lng": -165.57029, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]}

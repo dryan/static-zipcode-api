@@ -1,1 +1,1 @@
-{"lat": 41.849619, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lyman", "lng": -103.99465, "zip_code": "69352"}
+{"locality": "Lyman", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lyman"], "postal_code": "69352", "lat": 41.849619, "lng": -103.99465, "type": "STANDARD", "counties": [{"fips": "157", "name": "Scotts Bluff"}]}

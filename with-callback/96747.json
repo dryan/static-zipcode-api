@@ -1,1 +1,1 @@
-zipapicallback({"lat": 21.920292, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Kaumakani", "lng": -159.62428, "zip_code": "96747"});
+zipapicallback({"locality": "Kaumakani", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Kaumakani"], "postal_code": "96747", "lat": 21.920292, "lng": -159.62428, "type": "POBOX", "counties": [{"fips": "007", "name": "Kauai"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.908558, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hassell", "lng": -77.27835, "zip_code": "27841"}
+{"locality": "Hassell", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hassell"], "postal_code": "27841", "lat": 35.908558, "lng": -77.27835, "type": "POBOX", "counties": [{"fips": "117", "name": "Martin"}]}

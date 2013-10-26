@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.800911, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Linden", "lng": -83.81366, "zip_code": "48451"});
+zipapicallback({"locality": "Linden", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Linden"], "postal_code": "48451", "lat": 42.800911, "lng": -83.81366, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}, {"fips": "093", "name": "Livingston"}]});

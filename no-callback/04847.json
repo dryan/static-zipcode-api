@@ -1,1 +1,1 @@
-{"lat": 44.232721, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Hope", "lng": -69.19254, "zip_code": "04847"}
+{"locality": "Hope", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Camden", "Hope"], "postal_code": "04847", "lat": 44.232721, "lng": -69.19254, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]}

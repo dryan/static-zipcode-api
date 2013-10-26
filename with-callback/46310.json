@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.179017, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Demotte", "lng": -87.24265, "zip_code": "46310"});
+zipapicallback({"locality": "Demotte", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Demotte"], "postal_code": "46310", "lat": 41.179017, "lng": -87.24265, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jasper"}, {"fips": "111", "name": "Newton"}]});

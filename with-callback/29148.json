@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.570595, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Summerton", "lng": -80.33969, "zip_code": "29148"});
+zipapicallback({"locality": "Summerton", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Summerton"], "postal_code": "29148", "lat": 33.570595, "lng": -80.33969, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clarendon"}]});

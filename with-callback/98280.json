@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.594255, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Orcas", "lng": -122.91828, "zip_code": "98280"});
+zipapicallback({"locality": "Orcas", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Orcas"], "postal_code": "98280", "lat": 48.594255, "lng": -122.91828, "type": "POBOX", "counties": [{"fips": "055", "name": "San Juan"}]});

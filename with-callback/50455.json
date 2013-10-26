@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.450496, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mc Intire", "lng": -92.64331, "zip_code": "50455"});
+zipapicallback({"locality": "Mc Intire", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mc Intire"], "postal_code": "50455", "lat": 43.450496, "lng": -92.64331, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mitchell"}]});

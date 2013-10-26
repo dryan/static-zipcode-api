@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Los Gatos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Gatos"], "postal_code": "95031", "type": "POBOX", "counties": [{"fips": "085", "name": "Santa Clara"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.201274, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mc Louth", "lng": -95.19892, "zip_code": "66054"}
+{"locality": "Mc Louth", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mc Louth"], "postal_code": "66054", "lat": 39.201274, "lng": -95.19892, "type": "STANDARD", "counties": [{"fips": "087", "name": "Jefferson"}, {"fips": "103", "name": "Leavenworth"}]}

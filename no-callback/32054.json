@@ -1,1 +1,1 @@
-{"lat": 30.005135, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Butler", "lng": -82.38103, "zip_code": "32054"}
+{"locality": "Lake Butler", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Butler"], "postal_code": "32054", "lat": 30.005135, "lng": -82.38103, "type": "STANDARD", "counties": [{"fips": "125", "name": "Union"}]}

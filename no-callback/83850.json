@@ -1,1 +1,1 @@
-{"lat": 47.512203, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Pinehurst", "lng": -116.24128, "zip_code": "83850"}
+{"locality": "Pinehurst", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Pinehurst"], "postal_code": "83850", "lat": 47.512203, "lng": -116.24128, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.090643, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Adamsville", "lng": -81.86556, "zip_code": "43802"});
+zipapicallback({"locality": "Adamsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Adamsville"], "postal_code": "43802", "lat": 40.090643, "lng": -81.86556, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.73915, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Short Hills", "lng": -74.32749, "zip_code": "07078"});
+zipapicallback({"locality": "Short Hills", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Short Hills"], "postal_code": "07078", "lat": 40.73915, "lng": -74.32749, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]});

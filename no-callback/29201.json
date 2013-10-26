@@ -1,1 +1,1 @@
-{"lat": 33.998454, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Columbia", "lng": -81.03519, "zip_code": "29201"}
+{"locality": "Columbia", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Columbia"], "postal_code": "29201", "lat": 33.998454, "lng": -81.03519, "type": "STANDARD", "counties": [{"fips": "079", "name": "Richland"}]}

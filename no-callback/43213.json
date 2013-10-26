@@ -1,1 +1,1 @@
-{"lat": 39.966814, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Whitehall", "lng": -82.87413, "zip_code": "43213"}
+{"locality": "Columbus", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Columbus", "Whitehall"], "postal_code": "43213", "lat": 39.966814, "lng": -82.87413, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}]}

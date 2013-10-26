@@ -1,1 +1,1 @@
-{"lat": 33.119898, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cordesville", "lng": -79.85797, "zip_code": "29434"}
+{"locality": "Cordesville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cordesville"], "postal_code": "29434", "lat": 33.119898, "lng": -79.85797, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]}

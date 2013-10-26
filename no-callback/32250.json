@@ -1,1 +1,1 @@
-{"lat": 30.284641, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Jacksonville Bea", "lng": -81.39844, "zip_code": "32250"}
+{"locality": "Jacksonville Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jacksonville", "Jacksonville Beach", "Jax Bch"], "postal_code": "32250", "lat": 30.284641, "lng": -81.39844, "type": "STANDARD", "counties": [{"fips": "031", "name": "Duval"}]}

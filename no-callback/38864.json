@@ -1,1 +1,1 @@
-{"lat": 34.134456, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Sarepta", "lng": -89.20879, "zip_code": "38864"}
+{"locality": "Randolph", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Randolph", "Sarepta"], "postal_code": "38864", "lat": 34.134456, "lng": -89.20879, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pontotoc"}, {"fips": "013", "name": "Calhoun"}, {"fips": "071", "name": "Lafayette"}]}

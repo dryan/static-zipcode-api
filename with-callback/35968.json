@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.460537, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fort Payne", "lng": -85.76744, "zip_code": "35968"});
+zipapicallback({"locality": "Fort Payne", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fort Payne", "Pine Ridge"], "postal_code": "35968", "lat": 34.460537, "lng": -85.76744, "type": "STANDARD", "counties": []});

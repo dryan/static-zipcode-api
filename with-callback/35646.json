@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.660322, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Leighton", "lng": -87.53577, "zip_code": "35646"});
+zipapicallback({"locality": "Leighton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Leighton"], "postal_code": "35646", "lat": 34.660322, "lng": -87.53577, "type": "STANDARD", "counties": [{"fips": "033", "name": "Colbert"}, {"fips": "089", "name": "Madison"}]});

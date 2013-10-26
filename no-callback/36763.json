@@ -1,1 +1,1 @@
-{"lat": 32.249718, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Myrtlewood", "lng": -87.96332, "zip_code": "36763"}
+{"locality": "Myrtlewood", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Myrtlewood"], "postal_code": "36763", "lat": 32.249718, "lng": -87.96332, "type": "POBOX", "counties": [{"fips": "091", "name": "Marengo"}]}

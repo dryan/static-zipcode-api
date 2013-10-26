@@ -1,1 +1,1 @@
-{"lat": 42.080964, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elizaville", "lng": -73.77856, "zip_code": "12523"}
+{"locality": "Elizaville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elizaville", "Taghkanic"], "postal_code": "12523", "lat": 42.080964, "lng": -73.77856, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

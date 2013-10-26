@@ -1,1 +1,1 @@
-{"lat": 40.236212, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Indianola", "lng": -100.42375, "zip_code": "69034"}
+{"locality": "Indianola", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Indianola"], "postal_code": "69034", "lat": 40.236212, "lng": -100.42375, "type": "STANDARD", "counties": [{"fips": "145", "name": "Red Willow"}, {"fips": "063", "name": "Frontier"}]}

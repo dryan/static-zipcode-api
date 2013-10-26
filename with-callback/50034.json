@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.490439, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Blairsburg", "lng": -93.64187, "zip_code": "50034"});
+zipapicallback({"locality": "Blairsburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Blairsburg"], "postal_code": "50034", "lat": 42.490439, "lng": -93.64187, "type": "STANDARD", "counties": [{"fips": "079", "name": "Hamilton"}, {"fips": "197", "name": "Wright"}]});

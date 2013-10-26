@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.700311, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Clarkesville", "lng": -83.51879, "zip_code": "30523"});
+zipapicallback({"locality": "Clarkesville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Clarkesville"], "postal_code": "30523", "lat": 34.700311, "lng": -83.51879, "type": "STANDARD", "counties": [{"fips": "137", "name": "Habersham"}, {"fips": "241", "name": "Rabun"}]});

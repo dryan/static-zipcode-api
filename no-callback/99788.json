@@ -1,1 +1,1 @@
-{"lat": 66.653222, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chalkyitsik", "lng": -143.72717, "zip_code": "99788"}
+{"locality": "Chalkyitsik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chalkyitsik", "Fort Yukon"], "postal_code": "99788", "lat": 66.653222, "lng": -143.72717, "type": "POBOX", "counties": []}

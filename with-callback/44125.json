@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.414403, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Garfield Heights", "lng": -81.60793, "zip_code": "44125"});
+zipapicallback({"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Garfield Heights", "Garfield Hts", "Valley View"], "postal_code": "44125", "lat": 41.414403, "lng": -81.60793, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

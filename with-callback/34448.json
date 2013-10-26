@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.797979, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Homosassa", "lng": -82.5912, "zip_code": "34448"});
+zipapicallback({"locality": "Homosassa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Homosassa", "Homosassa Spg", "Homosassa Springs"], "postal_code": "34448", "lat": 28.797979, "lng": -82.5912, "type": "STANDARD", "counties": []});

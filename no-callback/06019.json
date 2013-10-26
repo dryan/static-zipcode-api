@@ -1,1 +1,1 @@
-{"lat": 41.834247, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Canton", "lng": -72.89174, "zip_code": "06019"}
+{"locality": "Canton", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Canton", "Collinsville"], "postal_code": "06019", "lat": 41.834247, "lng": -72.89174, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.378166, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Conesville", "lng": -91.36693, "zip_code": "52739"});
+zipapicallback({"locality": "Conesville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Conesville"], "postal_code": "52739", "lat": 41.378166, "lng": -91.36693, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}]});

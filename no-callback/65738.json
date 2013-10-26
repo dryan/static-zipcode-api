@@ -1,1 +1,1 @@
-{"lat": 37.124302, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Republic", "lng": -93.47407, "zip_code": "65738"}
+{"locality": "Republic", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Republic"], "postal_code": "65738", "lat": 37.124302, "lng": -93.47407, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "043", "name": "Christian"}, {"fips": "109", "name": "Lawrence"}]}

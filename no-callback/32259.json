@@ -1,1 +1,1 @@
-{"lat": 30.092346, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Jacksonville", "lng": -81.60274, "zip_code": "32259"}
+{"locality": "Saint Johns", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fruit Cove", "Jacksonville", "Julington Creek", "Julington Crk", "Saint Johns", "Switzerland"], "postal_code": "32259", "lat": 30.092346, "lng": -81.60274, "type": "STANDARD", "counties": [{"fips": "109", "name": "Saint Johns"}, {"fips": "031", "name": "Duval"}]}

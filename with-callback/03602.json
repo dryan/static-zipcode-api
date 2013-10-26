@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.142384, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Alstead", "lng": -72.32575, "zip_code": "03602"});
+zipapicallback({"locality": "Alstead", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Alstead", "Langdon"], "postal_code": "03602", "lat": 43.142384, "lng": -72.32575, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]});

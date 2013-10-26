@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.194928, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "West", "lng": -89.76284, "zip_code": "39192"});
+zipapicallback({"locality": "West", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["West"], "postal_code": "39192", "lat": 33.194928, "lng": -89.76284, "type": "STANDARD", "counties": [{"fips": "051", "name": "Holmes"}, {"fips": "007", "name": "Attala"}, {"fips": "015", "name": "Carroll"}]});

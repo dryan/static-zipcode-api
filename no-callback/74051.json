@@ -1,1 +1,1 @@
-{"lat": 36.60234, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ochelata", "lng": -95.97544, "zip_code": "74051"}
+{"locality": "Ochelata", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ochelata"], "postal_code": "74051", "lat": 36.60234, "lng": -95.97544, "type": "STANDARD", "counties": [{"fips": "147", "name": "Washington"}, {"fips": "113", "name": "Osage"}]}

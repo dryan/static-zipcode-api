@@ -1,1 +1,1 @@
-{"lat": 65.612116, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Wales", "lng": -168.08928, "zip_code": "99783"}
+{"locality": "Wales", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Wales"], "postal_code": "99783", "lat": 65.612116, "lng": -168.08928, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]}

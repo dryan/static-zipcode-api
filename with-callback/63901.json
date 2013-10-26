@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.759357, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Poplar Bluff", "lng": -90.41689, "zip_code": "63901"});
+zipapicallback({"locality": "Poplar Bluff", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Poplar Bluff", "Rombauer"], "postal_code": "63901", "lat": 36.759357, "lng": -90.41689, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}, {"fips": "181", "name": "Ripley"}]});

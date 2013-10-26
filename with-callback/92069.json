@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.144908, "region": {"abbr": "CA", "name": "California"}, "locality": "San Marcos", "lng": -117.17128, "zip_code": "92069"});
+zipapicallback({"locality": "San Marcos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Marcos"], "postal_code": "92069", "lat": 33.144908, "lng": -117.17128, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

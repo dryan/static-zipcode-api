@@ -1,1 +1,1 @@
-{"lat": 38.254483, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Alum Creek", "lng": -81.79045, "zip_code": "25003"}
+{"locality": "Alum Creek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Alum Creek"], "postal_code": "25003", "lat": 38.254483, "lng": -81.79045, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}, {"fips": "043", "name": "Lincoln"}]}

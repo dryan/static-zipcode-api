@@ -1,1 +1,1 @@
-{"lat": 30.984335, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Midway", "lng": -95.71669, "zip_code": "75852"}
+{"locality": "Midway", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Midway"], "postal_code": "75852", "lat": 30.984335, "lng": -95.71669, "type": "STANDARD", "counties": [{"fips": "313", "name": "Madison"}, {"fips": "289", "name": "Leon"}, {"fips": "471", "name": "Walker"}]}

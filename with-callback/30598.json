@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.597674, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Toccoa Falls", "lng": -83.36207, "zip_code": "30598"});
+zipapicallback({"locality": "Toccoa Falls", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Toccoa Falls"], "postal_code": "30598", "lat": 34.597674, "lng": -83.36207, "type": "POBOX", "counties": [{"fips": "257", "name": "Stephens"}]});

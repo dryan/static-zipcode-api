@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.421068, "region": {"abbr": "CA", "name": "California"}, "locality": "Elk Grove", "lng": -121.36059, "zip_code": "95624"});
+zipapicallback({"locality": "Elk Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Elk Grove"], "postal_code": "95624", "lat": 38.421068, "lng": -121.36059, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

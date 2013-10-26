@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.343592, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Huntington", "lng": -110.9778, "zip_code": "84528"});
+zipapicallback({"locality": "Huntington", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Huntington"], "postal_code": "84528", "lat": 39.343592, "lng": -110.9778, "type": "STANDARD", "counties": [{"fips": "015", "name": "Emery"}]});

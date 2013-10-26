@@ -1,1 +1,1 @@
-{"lat": 44.127342, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Twining", "lng": -83.84369, "zip_code": "48766"}
+{"locality": "Twining", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Twining"], "postal_code": "48766", "lat": 44.127342, "lng": -83.84369, "type": "STANDARD", "counties": [{"fips": "011", "name": "Arenac"}, {"fips": "069", "name": "Iosco"}]}

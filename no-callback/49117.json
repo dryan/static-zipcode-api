@@ -1,1 +1,1 @@
-{"lat": 41.784691, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grand Beach", "lng": -86.75519, "zip_code": "49117"}
+{"locality": "New Buffalo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Beach", "Michiana", "New Buffalo"], "postal_code": "49117", "lat": 41.784691, "lng": -86.75519, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}]}

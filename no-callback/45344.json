@@ -1,1 +1,1 @@
-{"lat": 39.939925, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Carlisle", "lng": -84.01992, "zip_code": "45344"}
+{"locality": "New Carlisle", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Carlisle"], "postal_code": "45344", "lat": 39.939925, "lng": -84.01992, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "113", "name": "Montgomery"}, {"fips": "109", "name": "Miami"}, {"fips": "021", "name": "Champaign"}]}

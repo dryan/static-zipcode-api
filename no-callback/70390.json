@@ -1,1 +1,1 @@
-{"lat": 29.91599, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Napoleonville", "lng": -91.02187, "zip_code": "70390"}
+{"locality": "Napoleonville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Napoleonville"], "postal_code": "70390", "lat": 29.91599, "lng": -91.02187, "type": "STANDARD", "counties": [{"fips": "007", "name": "Assumption"}]}

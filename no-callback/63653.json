@@ -1,1 +1,1 @@
-{"lat": 37.863193, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Leadwood", "lng": -90.58935, "zip_code": "63653"}
+{"locality": "Leadwood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Flat River", "Leadwood", "Park Hills"], "postal_code": "63653", "lat": 37.863193, "lng": -90.58935, "type": "STANDARD", "counties": [{"fips": "187", "name": "St Francois"}]}

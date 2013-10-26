@@ -1,1 +1,1 @@
-{"lat": 43.108775, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Nashotah", "lng": -88.40276, "zip_code": "53058"}
+{"locality": "Nashotah", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Nashotah"], "postal_code": "53058", "lat": 43.108775, "lng": -88.40276, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}]}

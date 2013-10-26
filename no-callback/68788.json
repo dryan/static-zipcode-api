@@ -1,1 +1,1 @@
-{"lat": 41.841032, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "West Point", "lng": -96.72569, "zip_code": "68788"}
+{"locality": "West Point", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["West Point"], "postal_code": "68788", "lat": 41.841032, "lng": -96.72569, "type": "STANDARD", "counties": [{"fips": "039", "name": "Cuming"}, {"fips": "053", "name": "Dodge"}]}

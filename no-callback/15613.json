@@ -1,1 +1,1 @@
-{"lat": 40.560849, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Apollo", "lng": -79.57544, "zip_code": "15613"}
+{"locality": "Apollo", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Apollo"], "postal_code": "15613", "lat": 40.560849, "lng": -79.57544, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}, {"fips": "129", "name": "Westmoreland"}]}

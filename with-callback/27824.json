@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.514202, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Middletown", "lng": -76.00736, "zip_code": "27824"});
+zipapicallback({"locality": "Engelhard", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Engelhard"], "postal_code": "27824", "lat": 35.514202, "lng": -76.00736, "type": "STANDARD", "counties": [{"fips": "095", "name": "Hyde"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.210527, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rippon", "lng": -77.91403, "zip_code": "25441"}
+{"locality": "Rippon", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rippon"], "postal_code": "25441", "lat": 39.210527, "lng": -77.91403, "type": "POBOX", "counties": [{"fips": "037", "name": "Jefferson"}]}

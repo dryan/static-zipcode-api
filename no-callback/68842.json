@@ -1,1 +1,1 @@
-{"lat": 41.517347, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Greeley", "lng": -98.49117, "zip_code": "68842"}
+{"locality": "Greeley", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Greeley"], "postal_code": "68842", "lat": 41.517347, "lng": -98.49117, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greeley"}]}

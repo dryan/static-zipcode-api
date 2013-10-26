@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.947562, "region": {"abbr": "CA", "name": "California"}, "locality": "Shoshone", "lng": -116.27037, "zip_code": "92384"});
+zipapicallback({"locality": "Shoshone", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Shoshone"], "postal_code": "92384", "lat": 35.947562, "lng": -116.27037, "type": "POBOX", "counties": [{"fips": "027", "name": "Inyo"}]});

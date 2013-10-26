@@ -1,1 +1,1 @@
-{"lat": 41.6896, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kauneonga Lake", "lng": -74.8272, "zip_code": "12749"}
+{"locality": "Kauneonga Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kauneonga Lake", "Kauneonga Lk"], "postal_code": "12749", "lat": 41.6896, "lng": -74.8272, "type": "POBOX", "counties": [{"fips": "105", "name": "Sullivan"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.256952, "region": {"abbr": "CA", "name": "California"}, "locality": "Tujunga", "lng": -118.28453, "zip_code": "91042"}
+{"locality": "Tujunga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tujunga"], "postal_code": "91042", "lat": 34.256952, "lng": -118.28453, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

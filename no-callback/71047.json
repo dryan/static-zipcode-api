@@ -1,1 +1,1 @@
-{"lat": 32.309864, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Keithville", "lng": -93.87089, "zip_code": "71047"}
+{"locality": "Keithville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Keithville"], "postal_code": "71047", "lat": 32.309864, "lng": -93.87089, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]}

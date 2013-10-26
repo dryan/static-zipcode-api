@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.343295, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Francisco", "lng": -87.44275, "zip_code": "47649"});
+zipapicallback({"locality": "Francisco", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Francisco"], "postal_code": "47649", "lat": 38.343295, "lng": -87.44275, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]});

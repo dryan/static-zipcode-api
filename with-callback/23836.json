@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.343005, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chester", "lng": -77.34604, "zip_code": "23836"});
+zipapicallback({"locality": "Chester", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chester"], "postal_code": "23836", "lat": 37.343005, "lng": -77.34604, "type": "STANDARD", "counties": []});

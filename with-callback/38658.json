@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.181071, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pope", "lng": -89.90638, "zip_code": "38658"});
+zipapicallback({"locality": "Pope", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Pope"], "postal_code": "38658", "lat": 34.181071, "lng": -89.90638, "type": "STANDARD", "counties": [{"fips": "107", "name": "Panola"}, {"fips": "161", "name": "Yalobusha"}]});

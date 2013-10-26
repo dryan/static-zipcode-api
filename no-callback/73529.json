@@ -1,1 +1,1 @@
-{"lat": 34.372622, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Comanche", "lng": -97.97809, "zip_code": "73529"}
+{"locality": "Comanche", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Comanche"], "postal_code": "73529", "lat": 34.372622, "lng": -97.97809, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stephens"}]}

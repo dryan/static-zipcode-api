@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.139104, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mill River", "lng": -73.20312, "zip_code": "01244"});
+zipapicallback({"locality": "Mill River", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Mill River"], "postal_code": "01244", "lat": 42.139104, "lng": -73.20312, "type": "POBOX", "counties": [{"fips": "003", "name": "Berkshire"}]});

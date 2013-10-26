@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.98779, "region": {"abbr": "CA", "name": "California"}, "locality": "Fairfax", "lng": -122.59962, "zip_code": "94930"});
+zipapicallback({"locality": "Fairfax", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fairfax"], "postal_code": "94930", "lat": 37.98779, "lng": -122.59962, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}]});

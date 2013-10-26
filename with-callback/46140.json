@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.799143, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Greenfield", "lng": -85.78446, "zip_code": "46140"});
+zipapicallback({"locality": "Greenfield", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Greenfield", "Spring Lake"], "postal_code": "46140", "lat": 39.799143, "lng": -85.78446, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hancock"}, {"fips": "095", "name": "Madison"}, {"fips": "145", "name": "Shelby"}, {"fips": "139", "name": "Rush"}]});

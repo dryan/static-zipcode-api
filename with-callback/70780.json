@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.287104, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Sunshine", "lng": -91.15362, "zip_code": "70780"});
+zipapicallback({"locality": "Sunshine", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Sunshine"], "postal_code": "70780", "lat": 30.287104, "lng": -91.15362, "type": "STANDARD", "counties": [{"fips": "047", "name": "Iberville"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.037061, "region": {"abbr": "CA", "name": "California"}, "locality": "Westmorland", "lng": -115.6194, "zip_code": "92281"});
+zipapicallback({"locality": "Westmorland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Westmorland"], "postal_code": "92281", "lat": 33.037061, "lng": -115.6194, "type": "STANDARD", "counties": [{"fips": "025", "name": "Imperial"}]});

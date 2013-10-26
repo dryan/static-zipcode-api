@@ -1,1 +1,1 @@
-{"lat": 38.810629, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Broad Run", "lng": -77.7057, "zip_code": "20137"}
+{"locality": "Broad Run", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Broad Run"], "postal_code": "20137", "lat": 38.810629, "lng": -77.7057, "type": "STANDARD", "counties": []}

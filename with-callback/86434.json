@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.482227, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Peach Springs", "lng": -113.5121, "zip_code": "86434"});
+zipapicallback({"locality": "Peach Springs", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Peach Springs"], "postal_code": "86434", "lat": 35.482227, "lng": -113.5121, "type": "STANDARD", "counties": [{"fips": "015", "name": "Mohave"}]});

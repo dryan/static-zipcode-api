@@ -1,1 +1,1 @@
-{"lat": 37.609781, "region": {"abbr": "CA", "name": "California"}, "locality": "Vernalis", "lng": -121.26784, "zip_code": "95385"}
+{"locality": "Vernalis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tracy", "Vernalis"], "postal_code": "95385", "lat": 37.609781, "lng": -121.26784, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

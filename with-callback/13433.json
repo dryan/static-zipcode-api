@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.580184, "region": {"abbr": "NY", "name": "New York"}, "locality": "Port Leyden", "lng": -75.31757, "zip_code": "13433"});
+zipapicallback({"locality": "Port Leyden", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Port Leyden"], "postal_code": "13433", "lat": 43.580184, "lng": -75.31757, "type": "STANDARD", "counties": [{"fips": "049", "name": "Lewis"}]});

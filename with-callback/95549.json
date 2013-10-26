@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.691578, "region": {"abbr": "CA", "name": "California"}, "locality": "Kneeland", "lng": -123.87189, "zip_code": "95549"});
+zipapicallback({"locality": "Kneeland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kneeland"], "postal_code": "95549", "lat": 40.691578, "lng": -123.87189, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]});

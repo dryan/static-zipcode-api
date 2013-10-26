@@ -1,1 +1,1 @@
-{"lat": 37.35115, "region": {"abbr": "CA", "name": "California"}, "locality": "Atwater", "lng": -120.6056, "zip_code": "95301"}
+{"locality": "Atwater", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Atwater"], "postal_code": "95301", "lat": 37.35115, "lng": -120.6056, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]}

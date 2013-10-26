@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.020118, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Highland Village", "lng": -97.00771, "zip_code": "75067"});
+zipapicallback({"locality": "Lewisville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lewisville"], "postal_code": "75067", "lat": 33.020118, "lng": -97.00771, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}, {"fips": "113", "name": "Dallas"}]});

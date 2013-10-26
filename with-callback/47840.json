@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.406161, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Centerpoint", "lng": -87.06899, "zip_code": "47840"});
+zipapicallback({"locality": "Centerpoint", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Center Point", "Centerpoint"], "postal_code": "47840", "lat": 39.406161, "lng": -87.06899, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}, {"fips": "133", "name": "Putnam"}]});

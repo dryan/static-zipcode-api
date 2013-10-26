@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.740708, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tome", "lng": -106.73362, "zip_code": "87060"});
+zipapicallback({"locality": "Tome", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tome"], "postal_code": "87060", "lat": 34.740708, "lng": -106.73362, "type": "POBOX", "counties": [{"fips": "061", "name": "Valencia"}]});

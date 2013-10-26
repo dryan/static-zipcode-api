@@ -1,1 +1,1 @@
-{"lat": 43.406831, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sibley", "lng": -95.73876, "zip_code": "51249"}
+{"locality": "Sibley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sibley"], "postal_code": "51249", "lat": 43.406831, "lng": -95.73876, "type": "STANDARD", "counties": [{"fips": "143", "name": "Osceola"}]}

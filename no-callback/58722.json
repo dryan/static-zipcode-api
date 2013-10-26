@@ -1,1 +1,1 @@
-{"lat": 48.251187, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Burlington", "lng": -101.47331, "zip_code": "58722"}
+{"locality": "Burlington", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Burlington"], "postal_code": "58722", "lat": 48.251187, "lng": -101.47331, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}]}

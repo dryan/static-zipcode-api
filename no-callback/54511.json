@@ -1,1 +1,1 @@
-{"lat": 45.69606, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cavour", "lng": -88.81274, "zip_code": "54511"}
+{"locality": "Argonne", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Argonne", "Cavour", "Hiles", "Newald"], "postal_code": "54511", "lat": 45.69606, "lng": -88.81274, "type": "STANDARD", "counties": [{"fips": "041", "name": "Forest"}]}

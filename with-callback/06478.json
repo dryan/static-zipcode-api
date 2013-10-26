@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.428163, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Oxford", "lng": -73.12729, "zip_code": "06478"});
+zipapicallback({"locality": "Oxford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Oxford", "Seymour"], "postal_code": "06478", "lat": 41.428163, "lng": -73.12729, "type": "STANDARD", "counties": []});

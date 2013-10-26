@@ -1,1 +1,1 @@
-{"lat": 40.043267, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Losantville", "lng": -85.20909, "zip_code": "47354"}
+{"locality": "Losantville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Losantville"], "postal_code": "47354", "lat": 40.043267, "lng": -85.20909, "type": "STANDARD", "counties": [{"fips": "135", "name": "Randolph"}, {"fips": "177", "name": "Wayne"}, {"fips": "035", "name": "Delaware"}, {"fips": "065", "name": "Henry"}]}

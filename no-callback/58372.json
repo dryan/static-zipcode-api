@@ -1,1 +1,1 @@
-{"lat": 48.947387, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sarles", "lng": -99.02227, "zip_code": "58372"}
+{"locality": "Sarles", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sarles"], "postal_code": "58372", "lat": 48.947387, "lng": -99.02227, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cavalier"}, {"fips": "095", "name": "Towner"}]}

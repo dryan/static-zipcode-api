@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.786041, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Monroe", "lng": -83.69901, "zip_code": "30655"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Between", "Monroe"], "postal_code": "30655", "lat": 33.786041, "lng": -83.69901, "type": "STANDARD", "counties": [{"fips": "297", "name": "Walton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.365757, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Onekama", "lng": -86.21149, "zip_code": "49675"});
+zipapicallback({"locality": "Onekama", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Onekama"], "postal_code": "49675", "lat": 44.365757, "lng": -86.21149, "type": "STANDARD", "counties": [{"fips": "101", "name": "Manistee"}]});

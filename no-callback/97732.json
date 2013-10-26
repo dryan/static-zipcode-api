@@ -1,1 +1,1 @@
-{"lat": 43.40878, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Crane", "lng": -118.45927, "zip_code": "97732"}
+{"locality": "Crane", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Crane"], "postal_code": "97732", "lat": 43.40878, "lng": -118.45927, "type": "POBOX", "counties": [{"fips": "025", "name": "Harney"}]}

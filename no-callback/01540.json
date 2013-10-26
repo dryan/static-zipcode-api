@@ -1,1 +1,1 @@
-{"lat": 42.117527, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Oxford", "lng": -71.8657, "zip_code": "01540"}
+{"locality": "Oxford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Oxford"], "postal_code": "01540", "lat": 42.117527, "lng": -71.8657, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

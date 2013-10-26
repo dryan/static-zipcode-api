@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.415818, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Joanna", "lng": -81.8106, "zip_code": "29351"});
+zipapicallback({"locality": "Joanna", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Joanna"], "postal_code": "29351", "lat": 34.415818, "lng": -81.8106, "type": "STANDARD", "counties": [{"fips": "059", "name": "Laurens"}]});

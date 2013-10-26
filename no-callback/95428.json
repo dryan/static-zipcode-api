@@ -1,1 +1,1 @@
-{"lat": 39.825781, "region": {"abbr": "CA", "name": "California"}, "locality": "Covelo", "lng": -123.23026, "zip_code": "95428"}
+{"locality": "Covelo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Covelo"], "postal_code": "95428", "lat": 39.825781, "lng": -123.23026, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

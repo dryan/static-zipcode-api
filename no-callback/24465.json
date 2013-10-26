@@ -1,1 +1,1 @@
-{"lat": 38.374628, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Monterey", "lng": -79.63611, "zip_code": "24465"}
+{"locality": "Monterey", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hightown", "Monterey"], "postal_code": "24465", "lat": 38.374628, "lng": -79.63611, "type": "STANDARD", "counties": [{"fips": "091", "name": "Highland"}]}

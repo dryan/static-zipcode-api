@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.775105, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Greenwood", "lng": -90.62639, "zip_code": "54437"});
+zipapicallback({"locality": "Greenwood", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Greenwood"], "postal_code": "54437", "lat": 44.775105, "lng": -90.62639, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]});

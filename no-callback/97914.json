@@ -1,1 +1,1 @@
-{"lat": 44.057074, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Ontario", "lng": -116.99148, "zip_code": "97914"}
+{"locality": "Ontario", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Ontario"], "postal_code": "97914", "lat": 44.057074, "lng": -116.99148, "type": "STANDARD", "counties": [{"fips": "045", "name": "Malheur"}]}

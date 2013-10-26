@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.500958, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Blunt", "lng": -99.99188, "zip_code": "57522"});
+zipapicallback({"locality": "Blunt", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Blunt"], "postal_code": "57522", "lat": 44.500958, "lng": -99.99188, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hughes"}, {"fips": "119", "name": "Sully"}]});

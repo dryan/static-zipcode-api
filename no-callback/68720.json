@@ -1,1 +1,1 @@
-{"lat": 42.337964, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Brunswick", "lng": -98.01432, "zip_code": "68720"}
+{"locality": "Brunswick", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Brunswick"], "postal_code": "68720", "lat": 42.337964, "lng": -98.01432, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.838528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ellinger", "lng": -96.70389, "zip_code": "78938"});
+zipapicallback({"locality": "Ellinger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ellinger"], "postal_code": "78938", "lat": 29.838528, "lng": -96.70389, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}]});

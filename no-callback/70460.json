@@ -1,1 +1,1 @@
-{"lat": 30.298048, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Slidell", "lng": -89.81176, "zip_code": "70460"}
+{"locality": "Slidell", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Slidell"], "postal_code": "70460", "lat": 30.298048, "lng": -89.81176, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.804674, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Martin", "lng": -79.9102, "zip_code": "15460"});
+zipapicallback({"locality": "Martin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Martin"], "postal_code": "15460", "lat": 39.804674, "lng": -79.9102, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]});

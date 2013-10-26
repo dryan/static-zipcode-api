@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.319087, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Dayton", "lng": -117.96887, "zip_code": "99328"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Dayton"], "postal_code": "99328", "lat": 46.319087, "lng": -117.96887, "type": "STANDARD", "counties": [{"fips": "013", "name": "Columbia"}]});

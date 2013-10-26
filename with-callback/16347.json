@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.676904, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sheffield", "lng": -79.03116, "zip_code": "16347"});
+zipapicallback({"locality": "Sheffield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sheffield"], "postal_code": "16347", "lat": 41.676904, "lng": -79.03116, "type": "STANDARD", "counties": [{"fips": "123", "name": "Warren"}]});

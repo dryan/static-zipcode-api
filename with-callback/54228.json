@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.257289, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mishicot", "lng": -87.64866, "zip_code": "54228"});
+zipapicallback({"locality": "Mishicot", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mishicot"], "postal_code": "54228", "lat": 44.257289, "lng": -87.64866, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}]});

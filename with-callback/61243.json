@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.610151, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Deer Grove", "lng": -89.66298, "zip_code": "61243"});
+zipapicallback({"locality": "Deer Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Deer Grove"], "postal_code": "61243", "lat": 41.610151, "lng": -89.66298, "type": "STANDARD", "counties": [{"fips": "195", "name": "Whiteside"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.363615, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ackworth", "lng": -93.41494, "zip_code": "50001"});
+zipapicallback({"locality": "Ackworth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ackworth"], "postal_code": "50001", "lat": 41.363615, "lng": -93.41494, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}]});

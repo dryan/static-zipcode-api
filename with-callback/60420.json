@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.089453, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dwight", "lng": -88.42783, "zip_code": "60420"});
+zipapicallback({"locality": "Dwight", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dwight"], "postal_code": "60420", "lat": 41.089453, "lng": -88.42783, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

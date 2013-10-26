@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.949739, "region": {"abbr": "CA", "name": "California"}, "locality": "Smith River", "lng": -124.15098, "zip_code": "95567"});
+zipapicallback({"locality": "Smith River", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Smith River"], "postal_code": "95567", "lat": 41.949739, "lng": -124.15098, "type": "STANDARD", "counties": [{"fips": "015", "name": "Del Norte"}]});

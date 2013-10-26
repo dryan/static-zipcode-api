@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.963482, "region": {"abbr": "CA", "name": "California"}, "locality": "Mckinleyville", "lng": -124.07286, "zip_code": "95519"});
+zipapicallback({"locality": "Mckinleyville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mckinleyville"], "postal_code": "95519", "lat": 40.963482, "lng": -124.07286, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.619727, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Adams", "lng": -73.11842, "zip_code": "01220"});
+zipapicallback({"locality": "Adams", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Adams"], "postal_code": "01220", "lat": 42.619727, "lng": -73.11842, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]});

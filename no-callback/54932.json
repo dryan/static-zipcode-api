@@ -1,1 +1,1 @@
-{"lat": 43.830749, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Eldorado", "lng": -88.6258, "zip_code": "54932"}
+{"locality": "Eldorado", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Eldorado"], "postal_code": "54932", "lat": 43.830749, "lng": -88.6258, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.66655, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Coeur D Alene", "lng": -116.7757, "zip_code": "83814"}
+{"locality": "Coeur D Alene", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Coeur D Alene", "Fernan Lake Village", "Fernan Lk Vlg"], "postal_code": "83814", "lat": 47.66655, "lng": -116.7757, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kootenai"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.062285, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Greenwood", "lng": -82.69327, "zip_code": "48006"});
+zipapicallback({"locality": "Avoca", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Avoca", "Fargo", "Greenwood", "Kenockee"], "postal_code": "48006", "lat": 43.062285, "lng": -82.69327, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.320458, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gaston", "lng": -85.50656, "zip_code": "47342"}
+{"locality": "Gaston", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gaston"], "postal_code": "47342", "lat": 40.320458, "lng": -85.50656, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}, {"fips": "053", "name": "Grant"}]}

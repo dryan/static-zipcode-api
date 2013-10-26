@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.825643, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Avondale", "lng": -75.77244, "zip_code": "19311"});
+zipapicallback({"locality": "Avondale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Avondale"], "postal_code": "19311", "lat": 39.825643, "lng": -75.77244, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

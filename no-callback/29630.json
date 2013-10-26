@@ -1,1 +1,1 @@
-{"lat": 34.733515, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Central", "lng": -82.78407, "zip_code": "29630"}
+{"locality": "Central", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Central"], "postal_code": "29630", "lat": 34.733515, "lng": -82.78407, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pickens"}, {"fips": "007", "name": "Anderson"}]}

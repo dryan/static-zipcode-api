@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.536205, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Runnells", "lng": -93.38182, "zip_code": "50237"});
+zipapicallback({"locality": "Runnells", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Runnells"], "postal_code": "50237", "lat": 41.536205, "lng": -93.38182, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}, {"fips": "125", "name": "Marion"}, {"fips": "099", "name": "Jasper"}]});

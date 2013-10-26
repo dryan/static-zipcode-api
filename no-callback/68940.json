@@ -1,1 +1,1 @@
-{"lat": 40.532115, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Funk", "lng": -99.24602, "zip_code": "68940"}
+{"locality": "Funk", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Funk"], "postal_code": "68940", "lat": 40.532115, "lng": -99.24602, "type": "STANDARD", "counties": [{"fips": "137", "name": "Phelps"}]}

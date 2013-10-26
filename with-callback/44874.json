@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.963743, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Savannah", "lng": -82.36547, "zip_code": "44874"});
+zipapicallback({"locality": "Savannah", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Savannah"], "postal_code": "44874", "lat": 40.963743, "lng": -82.36547, "type": "POBOX", "counties": [{"fips": "005", "name": "Ashland"}]});

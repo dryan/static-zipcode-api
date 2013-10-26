@@ -1,1 +1,1 @@
-{"lat": 44.984128, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Curtiss", "lng": -90.44176, "zip_code": "54422"}
+{"locality": "Curtiss", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Curtiss"], "postal_code": "54422", "lat": 44.984128, "lng": -90.44176, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "119", "name": "Taylor"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.872122, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Central", "lng": -109.79267, "zip_code": "85531"}
+{"locality": "Central", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Central"], "postal_code": "85531", "lat": 32.872122, "lng": -109.79267, "type": "POBOX", "counties": [{"fips": "009", "name": "Graham"}]}

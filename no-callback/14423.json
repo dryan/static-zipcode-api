@@ -1,1 +1,1 @@
-{"lat": 42.937589, "region": {"abbr": "NY", "name": "New York"}, "locality": "Caledonia", "lng": -77.83528, "zip_code": "14423"}
+{"locality": "Caledonia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Caledonia"], "postal_code": "14423", "lat": 42.937589, "lng": -77.83528, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}, {"fips": "055", "name": "Monroe"}]}

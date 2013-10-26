@@ -1,1 +1,1 @@
-{"lat": 42.072073, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Westside", "lng": -95.10711, "zip_code": "51467"}
+{"locality": "Westside", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Westside"], "postal_code": "51467", "lat": 42.072073, "lng": -95.10711, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]}

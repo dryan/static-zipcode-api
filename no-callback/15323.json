@@ -1,1 +1,1 @@
-{"lat": 40.114204, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Claysville", "lng": -80.40715, "zip_code": "15323"}
+{"locality": "Claysville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Claysville"], "postal_code": "15323", "lat": 40.114204, "lng": -80.40715, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

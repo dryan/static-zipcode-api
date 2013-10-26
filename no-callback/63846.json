@@ -1,1 +1,1 @@
-{"lat": 36.818652, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Essex", "lng": -89.81622, "zip_code": "63846"}
+{"locality": "Essex", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Essex"], "postal_code": "63846", "lat": 36.818652, "lng": -89.81622, "type": "STANDARD", "counties": [{"fips": "207", "name": "Stoddard"}]}

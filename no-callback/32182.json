@@ -1,1 +1,1 @@
-{"lat": 29.493034, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Orange Springs", "lng": -81.96523, "zip_code": "32182"}
+{"locality": "Orange Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Orange Spgs", "Orange Springs"], "postal_code": "32182", "lat": 29.493034, "lng": -81.96523, "type": "POBOX", "counties": []}

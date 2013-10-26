@@ -1,1 +1,1 @@
-{"lat": 42.371296, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Watertown", "lng": -71.18196, "zip_code": "02472"}
+{"locality": "Watertown", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Watertown", "East Watertown", "Watertown"], "postal_code": "02472", "lat": 42.371296, "lng": -71.18196, "type": "STANDARD", "counties": []}

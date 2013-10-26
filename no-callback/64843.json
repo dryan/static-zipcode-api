@@ -1,1 +1,1 @@
-{"lat": 36.734769, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Goodman", "lng": -94.42691, "zip_code": "64843"}
+{"locality": "Goodman", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Goodman"], "postal_code": "64843", "lat": 36.734769, "lng": -94.42691, "type": "STANDARD", "counties": [{"fips": "119", "name": "McDonald"}, {"fips": "145", "name": "Newton"}]}

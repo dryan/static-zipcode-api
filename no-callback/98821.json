@@ -1,1 +1,1 @@
-{"lat": 47.541723, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Dryden", "lng": -120.5614, "zip_code": "98821"}
+{"locality": "Dryden", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Dryden"], "postal_code": "98821", "lat": 47.541723, "lng": -120.5614, "type": "POBOX", "counties": [{"fips": "007", "name": "Chelan"}]}

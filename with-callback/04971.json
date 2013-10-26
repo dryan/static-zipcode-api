@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.927382, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Saint Albans", "lng": -69.38752, "zip_code": "04971"});
+zipapicallback({"locality": "Saint Albans", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Saint Albans"], "postal_code": "04971", "lat": 44.927382, "lng": -69.38752, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}, {"fips": "019", "name": "Penobscot"}]});

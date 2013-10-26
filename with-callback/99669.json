@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.489536, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Soldotna", "lng": -151.02091, "zip_code": "99669"});
+zipapicallback({"locality": "Soldotna", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Soldotna"], "postal_code": "99669", "lat": 60.489536, "lng": -151.02091, "type": "STANDARD", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]});

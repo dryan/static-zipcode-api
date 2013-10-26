@@ -1,1 +1,1 @@
-{"lat": 26.558995, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Port Mansfield", "lng": -97.42738, "zip_code": "78598"}
+{"locality": "Port Mansfield", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Port Mansfield", "Prt Mansfield", "Raymondville"], "postal_code": "78598", "lat": 26.558995, "lng": -97.42738, "type": "POBOX", "counties": [{"fips": "489", "name": "Willacy"}]}

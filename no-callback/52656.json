@@ -1,1 +1,1 @@
-{"lat": 40.719775, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "West Point", "lng": -91.47271, "zip_code": "52656"}
+{"locality": "West Point", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["West Point"], "postal_code": "52656", "lat": 40.719775, "lng": -91.47271, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lee"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.49787, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Oneida", "lng": -84.51808, "zip_code": "37841"});
+zipapicallback({"locality": "Oneida", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Oneida"], "postal_code": "37841", "lat": 36.49787, "lng": -84.51808, "type": "STANDARD", "counties": [{"fips": "151", "name": "Scott"}, {"fips": "147", "name": "Robertson"}]});

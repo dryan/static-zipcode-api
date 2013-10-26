@@ -1,1 +1,1 @@
-{"lat": 42.939528, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Thornton", "lng": -93.39301, "zip_code": "50479"}
+{"locality": "Thornton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Thornton"], "postal_code": "50479", "lat": 42.939528, "lng": -93.39301, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cerro Gordo"}]}

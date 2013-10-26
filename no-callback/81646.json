@@ -1,1 +1,1 @@
-{"lat": 39.139927, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Molina", "lng": -108.00498, "zip_code": "81646"}
+{"locality": "Molina", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Molina"], "postal_code": "81646", "lat": 39.139927, "lng": -108.00498, "type": "POBOX", "counties": [{"fips": "077", "name": "Mesa"}]}

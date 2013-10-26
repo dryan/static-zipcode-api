@@ -1,1 +1,1 @@
-{"lat": 40.034355, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Vanderbilt", "lng": -79.6819, "zip_code": "15486"}
+{"locality": "Vanderbilt", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Vanderbilt"], "postal_code": "15486", "lat": 40.034355, "lng": -79.6819, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

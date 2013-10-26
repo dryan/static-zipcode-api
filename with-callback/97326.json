@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.637701, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Blodgett", "lng": -123.62496, "zip_code": "97326"});
+zipapicallback({"locality": "Blodgett", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Blodgett"], "postal_code": "97326", "lat": 44.637701, "lng": -123.62496, "type": "STANDARD", "counties": [{"fips": "003", "name": "Benton"}, {"fips": "041", "name": "Lincoln"}]});

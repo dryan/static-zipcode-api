@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.426202, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Beeville", "lng": -97.74806, "zip_code": "78102"});
+zipapicallback({"locality": "Beeville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Beeville"], "postal_code": "78102", "lat": 28.426202, "lng": -97.74806, "type": "STANDARD", "counties": [{"fips": "025", "name": "Bee"}, {"fips": "297", "name": "Live Oak"}]});

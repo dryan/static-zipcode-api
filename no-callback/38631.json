@@ -1,1 +1,1 @@
-{"lat": 34.365436, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Friars Point", "lng": -90.634, "zip_code": "38631"}
+{"locality": "Friars Point", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Friars Point"], "postal_code": "38631", "lat": 34.365436, "lng": -90.634, "type": "POBOX", "counties": [{"fips": "027", "name": "Coahoma"}]}

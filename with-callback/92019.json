@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.788736, "region": {"abbr": "CA", "name": "California"}, "locality": "El Cajon", "lng": -116.90487, "zip_code": "92019"});
+zipapicallback({"locality": "El Cajon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Cajon"], "postal_code": "92019", "lat": 32.788736, "lng": -116.90487, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

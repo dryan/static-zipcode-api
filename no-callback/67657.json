@@ -1,1 +1,1 @@
-{"lat": 39.22742, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Palco", "lng": -99.61488, "zip_code": "67657"}
+{"locality": "Palco", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Palco"], "postal_code": "67657", "lat": 39.22742, "lng": -99.61488, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rooks"}, {"fips": "065", "name": "Graham"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.871699, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Southampton", "lng": -74.70528, "zip_code": "08088"}
+{"locality": "Vincentown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Shamong", "Southampton", "Tabernacle", "Vincentown"], "postal_code": "08088", "lat": 39.871699, "lng": -74.70528, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]}

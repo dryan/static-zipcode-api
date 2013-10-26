@@ -1,1 +1,1 @@
-{"lat": 41.011324, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ardsley", "lng": -73.84152, "zip_code": "10502"}
+{"locality": "Ardsley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ardsley"], "postal_code": "10502", "lat": 41.011324, "lng": -73.84152, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.421689, "region": {"abbr": "CA", "name": "California"}, "locality": "West Point", "lng": -120.46947, "zip_code": "95255"});
+zipapicallback({"locality": "West Point", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["West Point"], "postal_code": "95255", "lat": 38.421689, "lng": -120.46947, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]});

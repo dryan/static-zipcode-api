@@ -1,1 +1,1 @@
-{"lat": 30.757479, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Crestview", "lng": -86.51088, "zip_code": "32539"}
+{"locality": "Crestview", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Crestview"], "postal_code": "32539", "lat": 30.757479, "lng": -86.51088, "type": "STANDARD", "counties": []}

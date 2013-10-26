@@ -1,1 +1,1 @@
-{"lat": 37.916701, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lowmansville", "lng": -82.73746, "zip_code": "41232"}
+{"locality": "Lowmansville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lowmansville"], "postal_code": "41232", "lat": 37.916701, "lng": -82.73746, "type": "STANDARD", "counties": [{"fips": "127", "name": "Lawrence"}, {"fips": "115", "name": "Johnson"}]}

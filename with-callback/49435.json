@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.032323, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Marne", "lng": -85.83015, "zip_code": "49435"});
+zipapicallback({"locality": "Marne", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Marne"], "postal_code": "49435", "lat": 43.032323, "lng": -85.83015, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}, {"fips": "081", "name": "Kent"}]});

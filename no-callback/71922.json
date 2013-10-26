@@ -1,1 +1,1 @@
-{"lat": 34.033062, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Antoine", "lng": -93.42614, "zip_code": "71922"}
+{"locality": "Antoine", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Antoine"], "postal_code": "71922", "lat": 34.033062, "lng": -93.42614, "type": "POBOX", "counties": [{"fips": "109", "name": "Pike"}]}

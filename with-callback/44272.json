@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.09464, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rootstown", "lng": -81.19784, "zip_code": "44272"});
+zipapicallback({"locality": "Rootstown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rootstown"], "postal_code": "44272", "lat": 41.09464, "lng": -81.19784, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}]});

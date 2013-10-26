@@ -1,1 +1,1 @@
-{"lat": 39.478771, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mays Landing", "lng": -74.7581, "zip_code": "08330"}
+{"locality": "Mays Landing", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mays Landing"], "postal_code": "08330", "lat": 39.478771, "lng": -74.7581, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.546463, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "New Prague", "lng": -93.57848, "zip_code": "56071"});
+zipapicallback({"locality": "New Prague", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Heidelberg", "New Prague"], "postal_code": "56071", "lat": 44.546463, "lng": -93.57848, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}, {"fips": "139", "name": "Scott"}, {"fips": "131", "name": "Rice"}]});

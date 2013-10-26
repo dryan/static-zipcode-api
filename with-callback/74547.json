@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.84294, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hartshorne", "lng": -95.57413, "zip_code": "74547"});
+zipapicallback({"locality": "Hartshorne", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hartshorne"], "postal_code": "74547", "lat": 34.84294, "lng": -95.57413, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pittsburg"}, {"fips": "077", "name": "Latimer"}]});

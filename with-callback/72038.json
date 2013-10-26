@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.438327, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Crocketts Bluff", "lng": -91.26907, "zip_code": "72038"});
+zipapicallback({"locality": "Crocketts Bluff", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Crocketts Blf", "Crocketts Bluff"], "postal_code": "72038", "lat": 34.438327, "lng": -91.26907, "type": "STANDARD", "counties": [{"fips": "001", "name": "Arkansas"}]});

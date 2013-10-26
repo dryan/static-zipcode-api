@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.680723, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Schulenburg", "lng": -96.91964, "zip_code": "78956"});
+zipapicallback({"locality": "Schulenburg", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Schulenburg"], "postal_code": "78956", "lat": 29.680723, "lng": -96.91964, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}, {"fips": "089", "name": "Colorado"}, {"fips": "285", "name": "Lavaca"}]});

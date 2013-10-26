@@ -1,1 +1,1 @@
-{"lat": 46.68619, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Mapleton", "lng": -68.147, "zip_code": "04757"}
+{"locality": "Mapleton", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Castle Hill", "Chapman", "Mapleton"], "postal_code": "04757", "lat": 46.68619, "lng": -68.147, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

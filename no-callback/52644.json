@@ -1,1 +1,1 @@
-{"lat": 41.038005, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mount Union", "lng": -91.39992, "zip_code": "52644"}
+{"locality": "Mount Union", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mount Union", "Mt Union"], "postal_code": "52644", "lat": 41.038005, "lng": -91.39992, "type": "STANDARD", "counties": [{"fips": "087", "name": "Henry"}]}

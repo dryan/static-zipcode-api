@@ -1,1 +1,1 @@
-{"lat": 46.301265, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mc Millan", "lng": -85.72321, "zip_code": "49853"}
+{"locality": "Mc Millan", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mc Millan"], "postal_code": "49853", "lat": 46.301265, "lng": -85.72321, "type": "STANDARD", "counties": [{"fips": "095", "name": "Luce"}, {"fips": "097", "name": "MacKinac"}]}

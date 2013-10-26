@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.905639, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Elmwood Park", "lng": -74.1199, "zip_code": "07407"});
+zipapicallback({"locality": "Elmwood Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Elmwood Park"], "postal_code": "07407", "lat": 40.905639, "lng": -74.1199, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.230524, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Braceville", "lng": -88.25503, "zip_code": "60407"});
+zipapicallback({"locality": "Braceville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Braceville", "Godley"], "postal_code": "60407", "lat": 41.230524, "lng": -88.25503, "type": "STANDARD", "counties": [{"fips": "063", "name": "Grundy"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.288319, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Anasco", "lng": -67.13604, "zip_code": "00610"});
+zipapicallback({"locality": "Anasco", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Anasco"], "postal_code": "00610", "lat": 18.288319, "lng": -67.13604, "type": "STANDARD", "counties": [{"fips": "011", "name": "Anasco"}]});

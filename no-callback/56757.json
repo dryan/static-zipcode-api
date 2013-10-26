@@ -1,1 +1,1 @@
-{"lat": 48.478075, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Stephen", "lng": -96.83465, "zip_code": "56757"}
+{"locality": "Stephen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Stephen"], "postal_code": "56757", "lat": 48.478075, "lng": -96.83465, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}, {"fips": "069", "name": "Kittson"}]}

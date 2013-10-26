@@ -1,1 +1,1 @@
-{"lat": 38.059415, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Cunard", "lng": -81.11208, "zip_code": "25840"}
+{"locality": "Fayetteville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Beckwith", "Cunard", "Fayetteville", "Wriston"], "postal_code": "25840", "lat": 38.059415, "lng": -81.11208, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]}

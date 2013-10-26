@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.174249, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Bellwood", "lng": -85.79562, "zip_code": "36313"});
+zipapicallback({"locality": "Bellwood", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bellwood"], "postal_code": "36313", "lat": 31.174249, "lng": -85.79562, "type": "POBOX", "counties": [{"fips": "061", "name": "Geneva"}]});

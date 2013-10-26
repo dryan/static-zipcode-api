@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.848743, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Putnam", "lng": -98.9029, "zip_code": "73659"});
+zipapicallback({"locality": "Putnam", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Putnam"], "postal_code": "73659", "lat": 35.848743, "lng": -98.9029, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dewey"}]});

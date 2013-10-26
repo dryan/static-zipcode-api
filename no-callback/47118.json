@@ -1,1 +1,1 @@
-{"lat": 38.311323, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "English", "lng": -86.47439, "zip_code": "47118"}
+{"locality": "English", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["English", "Sulphur"], "postal_code": "47118", "lat": 38.311323, "lng": -86.47439, "type": "STANDARD", "counties": [{"fips": "025", "name": "Crawford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.224851, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Kellnersville", "lng": -87.79943, "zip_code": "54215"});
+zipapicallback({"locality": "Kellnersville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kellnersville"], "postal_code": "54215", "lat": 44.224851, "lng": -87.79943, "type": "POBOX", "counties": [{"fips": "071", "name": "Manitowoc"}]});

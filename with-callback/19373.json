@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.899315, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Thornton", "lng": -75.5314, "zip_code": "19373"});
+zipapicallback({"locality": "Thornton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Thornton"], "postal_code": "19373", "lat": 39.899315, "lng": -75.5314, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

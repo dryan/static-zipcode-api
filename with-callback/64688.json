@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.808311, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wheeling", "lng": -93.37642, "zip_code": "64688"});
+zipapicallback({"locality": "Wheeling", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wheeling"], "postal_code": "64688", "lat": 39.808311, "lng": -93.37642, "type": "STANDARD", "counties": [{"fips": "117", "name": "Livingston"}, {"fips": "115", "name": "Linn"}]});

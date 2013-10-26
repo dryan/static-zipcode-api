@@ -1,1 +1,1 @@
-{"lat": 28.327234, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Refugio", "lng": -97.24787, "zip_code": "78377"}
+{"locality": "Refugio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Refugio"], "postal_code": "78377", "lat": 28.327234, "lng": -97.24787, "type": "STANDARD", "counties": [{"fips": "391", "name": "Refugio"}]}

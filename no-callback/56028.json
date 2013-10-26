@@ -1,1 +1,1 @@
-{"lat": 44.207288, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Elysian", "lng": -93.68716, "zip_code": "56028"}
+{"locality": "Elysian", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elysian"], "postal_code": "56028", "lat": 44.207288, "lng": -93.68716, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}, {"fips": "161", "name": "Waseca"}]}

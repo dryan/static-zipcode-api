@@ -1,1 +1,1 @@
-{"lat": 38.787175, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Madison", "lng": -85.38031, "zip_code": "47250"}
+{"locality": "Madison", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Brooksburg", "Madison"], "postal_code": "47250", "lat": 38.787175, "lng": -85.38031, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jefferson"}, {"fips": "155", "name": "Switzerland"}, {"fips": "137", "name": "Ripley"}]}

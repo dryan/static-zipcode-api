@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.810555, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Job", "lng": -79.54723, "zip_code": "26296"});
+zipapicallback({"locality": "Whitmer", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Job", "Whitmer"], "postal_code": "26296", "lat": 38.810555, "lng": -79.54723, "type": "POBOX", "counties": [{"fips": "083", "name": "Randolph"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.22653, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Oak Grove", "lng": -76.97442, "zip_code": "22443"}
+{"locality": "Colonial Beach", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Colonial Bch", "Colonial Beach", "Oak Grove", "Washgtns Brhp", "Washingtons Birthplace"], "postal_code": "22443", "lat": 38.22653, "lng": -76.97442, "type": "STANDARD", "counties": [{"fips": "193", "name": "Westmoreland"}]}

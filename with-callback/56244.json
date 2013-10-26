@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.488399, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hancock", "lng": -95.78157, "zip_code": "56244"});
+zipapicallback({"locality": "Hancock", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hancock"], "postal_code": "56244", "lat": 45.488399, "lng": -95.78157, "type": "STANDARD", "counties": [{"fips": "149", "name": "Stevens"}, {"fips": "121", "name": "Pope"}, {"fips": "151", "name": "Swift"}]});

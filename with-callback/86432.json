@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.903232, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Littlefield", "lng": -113.94024, "zip_code": "86432"});
+zipapicallback({"locality": "Littlefield", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Littlefield"], "postal_code": "86432", "lat": 36.903232, "lng": -113.94024, "type": "POBOX", "counties": [{"fips": "015", "name": "Mohave"}]});

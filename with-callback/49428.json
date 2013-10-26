@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.904275, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Jenison", "lng": -85.82314, "zip_code": "49428"});
+zipapicallback({"locality": "Jenison", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Georgetown Township", "Georgetown Tp", "Jenison"], "postal_code": "49428", "lat": 42.904275, "lng": -85.82314, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}]});

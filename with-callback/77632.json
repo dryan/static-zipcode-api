@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.182584, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Orange", "lng": -93.79964, "zip_code": "77632"});
+zipapicallback({"locality": "Orange", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Orange"], "postal_code": "77632", "lat": 30.182584, "lng": -93.79964, "type": "STANDARD", "counties": []});

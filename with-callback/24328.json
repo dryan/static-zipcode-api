@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.659171, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fancy Gap", "lng": -80.70387, "zip_code": "24328"});
+zipapicallback({"locality": "Fancy Gap", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fancy Gap"], "postal_code": "24328", "lat": 36.659171, "lng": -80.70387, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carroll"}]});

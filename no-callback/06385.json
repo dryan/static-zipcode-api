@@ -1,1 +1,1 @@
-{"lat": 41.347948, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Waterford", "lng": -72.14762, "zip_code": "06385"}
+{"locality": "Waterford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Waterford"], "postal_code": "06385", "lat": 41.347948, "lng": -72.14762, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}, {"fips": "001", "name": "Fairfield"}]}

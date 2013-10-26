@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.208402, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Mayaguez", "lng": -67.15428, "zip_code": "00682"});
+zipapicallback({"locality": "Mayaguez", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Mayaguez"], "postal_code": "00682", "lat": 18.208402, "lng": -67.15428, "type": "STANDARD", "counties": []});

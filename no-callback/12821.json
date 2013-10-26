@@ -1,1 +1,1 @@
-{"lat": 43.461692, "region": {"abbr": "NY", "name": "New York"}, "locality": "Comstock", "lng": -73.40197, "zip_code": "12821"}
+{"locality": "Comstock", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Comstock"], "postal_code": "12821", "lat": 43.461692, "lng": -73.40197, "type": "STANDARD", "counties": [{"fips": "115", "name": "Washington"}]}

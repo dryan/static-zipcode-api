@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.920121, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Barrett", "lng": -95.07327, "zip_code": "77532"});
+zipapicallback({"locality": "Crosby", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Crosby"], "postal_code": "77532", "lat": 29.920121, "lng": -95.07327, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]});

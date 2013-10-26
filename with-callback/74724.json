@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.402346, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bethel", "lng": -94.79763, "zip_code": "74724"});
+zipapicallback({"locality": "Bethel", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bethel"], "postal_code": "74724", "lat": 34.402346, "lng": -94.79763, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]});

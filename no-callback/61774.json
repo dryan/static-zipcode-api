@@ -1,1 +1,1 @@
-{"lat": 40.426186, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stanford", "lng": -89.2107, "zip_code": "61774"}
+{"locality": "Stanford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stanford"], "postal_code": "61774", "lat": 40.426186, "lng": -89.2107, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}, {"fips": "179", "name": "Tazewell"}]}

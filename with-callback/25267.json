@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.849663, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Normantown", "lng": -80.96569, "zip_code": "25267"});
+zipapicallback({"locality": "Normantown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Letter Gap", "Lockney", "Normantown", "Stumptown"], "postal_code": "25267", "lat": 38.849663, "lng": -80.96569, "type": "STANDARD", "counties": [{"fips": "021", "name": "Gilmer"}, {"fips": "007", "name": "Braxton"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.563994, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Heber", "lng": -110.55929, "zip_code": "85928"}
+{"locality": "Heber", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Heber"], "postal_code": "85928", "lat": 34.563994, "lng": -110.55929, "type": "STANDARD", "counties": [{"fips": "017", "name": "Navajo"}]}

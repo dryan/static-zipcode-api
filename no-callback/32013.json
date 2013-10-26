@@ -1,1 +1,1 @@
-{"lat": 30.193758, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Day", "lng": -83.29266, "zip_code": "32013"}
+{"locality": "Day", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Day"], "postal_code": "32013", "lat": 30.193758, "lng": -83.29266, "type": "POBOX", "counties": [{"fips": "067", "name": "Lafayette"}]}

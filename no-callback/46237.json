@@ -1,1 +1,1 @@
-{"lat": 39.67859, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Southport", "lng": -86.08634, "zip_code": "46237"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "Southport"], "postal_code": "46237", "lat": 39.67859, "lng": -86.08634, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}, {"fips": "081", "name": "Johnson"}]}

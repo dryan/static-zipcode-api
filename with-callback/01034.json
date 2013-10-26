@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.086224, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Tolland", "lng": -72.94464, "zip_code": "01034"});
+zipapicallback({"locality": "Granville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Granville", "Tolland"], "postal_code": "01034", "lat": 42.086224, "lng": -72.94464, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.842984, "region": {"abbr": "CA", "name": "California"}, "locality": "Palm Springs", "lng": -116.54344, "zip_code": "92262"});
+zipapicallback({"locality": "Palm Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palm Springs"], "postal_code": "92262", "lat": 33.842984, "lng": -116.54344, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]});

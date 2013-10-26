@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.87578, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Smyrna", "lng": -84.50382, "zip_code": "30080"});
+zipapicallback({"locality": "Smyrna", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Smyrna"], "postal_code": "30080", "lat": 33.87578, "lng": -84.50382, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cobb"}]});

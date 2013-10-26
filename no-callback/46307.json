@@ -1,1 +1,1 @@
-{"lat": 41.418873, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Crown Point", "lng": -87.34298, "zip_code": "46307"}
+{"locality": "Crown Point", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Crown Point"], "postal_code": "46307", "lat": 41.418873, "lng": -87.34298, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}, {"fips": "127", "name": "Porter"}]}

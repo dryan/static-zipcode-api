@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.392122, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Eureka Springs", "lng": -93.7476, "zip_code": "72632"});
+zipapicallback({"locality": "Eureka Springs", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Eureka Spgs", "Eureka Springs"], "postal_code": "72632", "lat": 36.392122, "lng": -93.7476, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "007", "name": "Benton"}, {"fips": "087", "name": "Madison"}]});

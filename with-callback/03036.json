@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.967823, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Chester", "lng": -71.23453, "zip_code": "03036"});
+zipapicallback({"locality": "Chester", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Chester"], "postal_code": "03036", "lat": 42.967823, "lng": -71.23453, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]});

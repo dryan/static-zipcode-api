@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.232542, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Oakboro", "lng": -80.33123, "zip_code": "28129"});
+zipapicallback({"locality": "Oakboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Oakboro"], "postal_code": "28129", "lat": 35.232542, "lng": -80.33123, "type": "STANDARD", "counties": [{"fips": "167", "name": "Stanly"}]});

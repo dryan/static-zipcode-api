@@ -1,1 +1,1 @@
-{"lat": 40.706246, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Salt Lake City", "lng": -111.85657, "zip_code": "84106"}
+{"locality": "Salt Lake City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Millcreek", "S Salt Lake", "Salt Lake City", "Salt Lake Cty", "Slc", "South Salt Lake"], "postal_code": "84106", "lat": 40.706246, "lng": -111.85657, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.976579, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rye", "lng": -73.69002, "zip_code": "10580"}
+{"locality": "Rye", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rye"], "postal_code": "10580", "lat": 40.976579, "lng": -73.69002, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

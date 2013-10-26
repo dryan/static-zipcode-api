@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.717627, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Eureka", "lng": -116.02944, "zip_code": "89316"});
+zipapicallback({"locality": "Eureka", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Eureka"], "postal_code": "89316", "lat": 39.717627, "lng": -116.02944, "type": "STANDARD", "counties": [{"fips": "011", "name": "Eureka"}]});

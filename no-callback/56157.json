@@ -1,1 +1,1 @@
-{"lat": 44.396043, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lynd", "lng": -95.92771, "zip_code": "56157"}
+{"locality": "Lynd", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lynd"], "postal_code": "56157", "lat": 44.396043, "lng": -95.92771, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}]}

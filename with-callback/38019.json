@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.560622, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Covington", "lng": -89.64201, "zip_code": "38019"});
+zipapicallback({"locality": "Covington", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Covington", "Garland"], "postal_code": "38019", "lat": 35.560622, "lng": -89.64201, "type": "STANDARD", "counties": [{"fips": "167", "name": "Tipton"}]});

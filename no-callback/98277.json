@@ -1,1 +1,1 @@
-{"lat": 48.303774, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Oak Harbor", "lng": -122.65093, "zip_code": "98277"}
+{"locality": "Oak Harbor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Oak Harbor"], "postal_code": "98277", "lat": 48.303774, "lng": -122.65093, "type": "STANDARD", "counties": [{"fips": "029", "name": "Island"}]}

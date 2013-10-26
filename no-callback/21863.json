@@ -1,1 +1,1 @@
-{"lat": 38.193683, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Snow Hill", "lng": -75.41162, "zip_code": "21863"}
+{"locality": "Snow Hill", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Snow Hill"], "postal_code": "21863", "lat": 38.193683, "lng": -75.41162, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]}

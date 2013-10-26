@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.427282, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Malden", "lng": -89.36622, "zip_code": "61337"});
+zipapicallback({"locality": "Malden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Malden"], "postal_code": "61337", "lat": 41.427282, "lng": -89.36622, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}]});

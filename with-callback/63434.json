@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.906312, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bethel", "lng": -91.96806, "zip_code": "63434"});
+zipapicallback({"locality": "Bethel", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bethel"], "postal_code": "63434", "lat": 39.906312, "lng": -91.96806, "type": "STANDARD", "counties": [{"fips": "205", "name": "Shelby"}, {"fips": "111", "name": "Lewis"}]});

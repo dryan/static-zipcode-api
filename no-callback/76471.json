@@ -1,1 +1,1 @@
-{"lat": 32.105459, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rising Star", "lng": -98.96537, "zip_code": "76471"}
+{"locality": "Rising Star", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rising Star"], "postal_code": "76471", "lat": 32.105459, "lng": -98.96537, "type": "STANDARD", "counties": [{"fips": "133", "name": "Eastland"}, {"fips": "093", "name": "Comanche"}, {"fips": "049", "name": "Brown"}]}

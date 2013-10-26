@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.948894, "region": {"abbr": "NY", "name": "New York"}, "locality": "Churubusco", "lng": -73.96545, "zip_code": "12923"});
+zipapicallback({"locality": "Churubusco", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Churubusco"], "postal_code": "12923", "lat": 44.948894, "lng": -73.96545, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.947245, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Chicora", "lng": -79.75428, "zip_code": "16025"}
+{"locality": "Chicora", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chicora"], "postal_code": "16025", "lat": 40.947245, "lng": -79.75428, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "005", "name": "Armstrong"}]}

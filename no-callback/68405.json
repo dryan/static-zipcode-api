@@ -1,1 +1,1 @@
-{"lat": 40.772835, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Milford", "lng": -97.05841, "zip_code": "68405"}
+{"locality": "Milford", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Milford"], "postal_code": "68405", "lat": 40.772835, "lng": -97.05841, "type": "STANDARD", "counties": [{"fips": "159", "name": "Seward"}, {"fips": "151", "name": "Saline"}]}

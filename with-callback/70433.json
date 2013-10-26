@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.470793, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Covington", "lng": -90.10491, "zip_code": "70433"});
+zipapicallback({"locality": "Covington", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Covington"], "postal_code": "70433", "lat": 30.470793, "lng": -90.10491, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]});

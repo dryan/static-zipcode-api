@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.451159, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Munford", "lng": -89.80845, "zip_code": "38058"});
+zipapicallback({"locality": "Munford", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Munford"], "postal_code": "38058", "lat": 35.451159, "lng": -89.80845, "type": "STANDARD", "counties": [{"fips": "167", "name": "Tipton"}]});

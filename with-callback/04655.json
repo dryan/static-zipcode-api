@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.632707, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Machiasport", "lng": -67.39416, "zip_code": "04655"});
+zipapicallback({"locality": "Machiasport", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bucks Harbor", "Machiasport"], "postal_code": "04655", "lat": 44.632707, "lng": -67.39416, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

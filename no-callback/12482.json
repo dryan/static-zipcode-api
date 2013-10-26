@@ -1,1 +1,1 @@
-{"lat": 42.270559, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Cairo", "lng": -73.95729, "zip_code": "12482"}
+{"locality": "South Cairo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["South Cairo"], "postal_code": "12482", "lat": 42.270559, "lng": -73.95729, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]}

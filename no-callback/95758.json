@@ -1,1 +1,1 @@
-{"lat": 38.406432, "region": {"abbr": "CA", "name": "California"}, "locality": "Elk Grove", "lng": -121.43673, "zip_code": "95758"}
+{"locality": "Elk Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Elk Grove"], "postal_code": "95758", "lat": 38.406432, "lng": -121.43673, "type": "STANDARD", "counties": []}

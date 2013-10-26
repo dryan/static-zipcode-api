@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.423658, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Canton", "lng": -70.31378, "zip_code": "04221"});
+zipapicallback({"locality": "Canton", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Canton"], "postal_code": "04221", "lat": 44.423658, "lng": -70.31378, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

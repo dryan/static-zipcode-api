@@ -1,1 +1,1 @@
-{"lat": 42.884919, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Peterborough", "lng": -71.95133, "zip_code": "03458"}
+{"locality": "Peterborough", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Peterborough", "Sharon"], "postal_code": "03458", "lat": 42.884919, "lng": -71.95133, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}, {"fips": "005", "name": "Cheshire"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.07027, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Woodside", "lng": -75.57057, "zip_code": "19980"}
+{"locality": "Woodside", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Woodside"], "postal_code": "19980", "lat": 39.07027, "lng": -75.57057, "type": "POBOX", "counties": [{"fips": "001", "name": "Kent"}]}

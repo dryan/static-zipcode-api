@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.189843, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kelso", "lng": -89.549, "zip_code": "63758"});
+zipapicallback({"locality": "Kelso", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kelso"], "postal_code": "63758", "lat": 37.189843, "lng": -89.549, "type": "POBOX", "counties": [{"fips": "201", "name": "Scott"}]});

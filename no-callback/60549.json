@@ -1,1 +1,1 @@
-{"lat": 41.490329, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Serena", "lng": -88.74998, "zip_code": "60549"}
+{"locality": "Serena", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Serena"], "postal_code": "60549", "lat": 41.490329, "lng": -88.74998, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.886982, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Big Bend", "lng": -88.20955, "zip_code": "53103"}
+{"locality": "Big Bend", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Big Bend"], "postal_code": "53103", "lat": 42.886982, "lng": -88.20955, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}]}

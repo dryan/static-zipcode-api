@@ -1,1 +1,1 @@
-{"lat": 39.45658, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Pine", "lng": -105.36876, "zip_code": "80470"}
+{"locality": "Pine", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Pine"], "postal_code": "80470", "lat": 39.45658, "lng": -105.36876, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}, {"fips": "093", "name": "Park"}]}

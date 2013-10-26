@@ -1,1 +1,1 @@
-{"lat": 37.284559, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "West Mineral", "lng": -94.92613, "zip_code": "66782"}
+{"locality": "West Mineral", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["West Mineral"], "postal_code": "66782", "lat": 37.284559, "lng": -94.92613, "type": "POBOX", "counties": [{"fips": "021", "name": "Cherokee"}]}

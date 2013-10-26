@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.476152, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Great Falls", "lng": -111.26909, "zip_code": "59405"});
+zipapicallback({"locality": "Great Falls", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Great Falls"], "postal_code": "59405", "lat": 47.476152, "lng": -111.26909, "type": "STANDARD", "counties": [{"fips": "013", "name": "Cascade"}]});

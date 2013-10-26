@@ -1,1 +1,1 @@
-{"lat": 29.50198, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Converse", "lng": -98.30582, "zip_code": "78109"}
+{"locality": "Converse", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Converse"], "postal_code": "78109", "lat": 29.50198, "lng": -98.30582, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

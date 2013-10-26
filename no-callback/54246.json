@@ -1,1 +1,1 @@
-{"lat": 45.365984, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Washington Islan", "lng": -86.89946, "zip_code": "54246"}
+{"locality": "Washington Island", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Washington Is", "Washington Island"], "postal_code": "54246", "lat": 45.365984, "lng": -86.89946, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]}

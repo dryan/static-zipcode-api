@@ -1,1 +1,1 @@
-{"lat": 41.608298, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Noble", "lng": -81.50041, "zip_code": "44132"}
+{"locality": "Euclid", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Euclid"], "postal_code": "44132", "lat": 41.608298, "lng": -81.50041, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}, {"fips": "053", "name": "Gallia"}]}

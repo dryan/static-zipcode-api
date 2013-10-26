@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.604717, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Port Lavaca", "lng": -96.63023, "zip_code": "77979"});
+zipapicallback({"locality": "Port Lavaca", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Long Mott", "Port Lavaca"], "postal_code": "77979", "lat": 28.604717, "lng": -96.63023, "type": "STANDARD", "counties": [{"fips": "057", "name": "Calhoun"}, {"fips": "239", "name": "Jackson"}, {"fips": "469", "name": "Victoria"}]});

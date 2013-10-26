@@ -1,1 +1,1 @@
-{"lat": 36.837421, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Aztec", "lng": -107.96667, "zip_code": "87410"}
+{"locality": "Aztec", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Aztec"], "postal_code": "87410", "lat": 36.837421, "lng": -107.96667, "type": "STANDARD", "counties": [{"fips": "045", "name": "San Juan"}, {"fips": "001", "name": "Bernalillo"}, {"fips": "031", "name": "McKinley"}]}

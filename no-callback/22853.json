@@ -1,1 +1,1 @@
-{"lat": 38.641556, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Timberville", "lng": -78.76258, "zip_code": "22853"}
+{"locality": "Timberville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Timberville"], "postal_code": "22853", "lat": 38.641556, "lng": -78.76258, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}, {"fips": "171", "name": "Shenandoah"}]}

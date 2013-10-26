@@ -1,1 +1,1 @@
-{"lat": 39.087593, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ludlow", "lng": -84.55057, "zip_code": "41016"}
+{"locality": "Covington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bromley", "Covington", "Ludlow"], "postal_code": "41016", "lat": 39.087593, "lng": -84.55057, "type": "STANDARD", "counties": [{"fips": "117", "name": "Kenton"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.880112, "region": {"abbr": "DC", "name": "District of Columbia"}, "locality": "Washington", "lng": -77.02362, "zip_code": "20024"}
+{"locality": "Washington", "region": {"fips": "11", "abbr": "DC", "name": "District of Columbia"}, "localities": ["Fort Lesley J Mcnair", "Fort Mcnair", "Ft L J Mcnair", "Washington"], "postal_code": "20024", "lat": 38.880112, "lng": -77.02362, "type": "STANDARD", "counties": [{"fips": "001", "name": "District of Columbia"}]}

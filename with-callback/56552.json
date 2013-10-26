@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.988379, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hitterdal", "lng": -96.23607, "zip_code": "56552"});
+zipapicallback({"locality": "Hitterdal", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hitterdal"], "postal_code": "56552", "lat": 46.988379, "lng": -96.23607, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "005", "name": "Becker"}]});

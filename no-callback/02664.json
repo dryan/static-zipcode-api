@@ -1,1 +1,1 @@
-{"lat": 41.670981, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Bass River", "lng": -70.19797, "zip_code": "02664"}
+{"locality": "South Yarmouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Bass River", "S Yarmouth", "South Yarmouth"], "postal_code": "02664", "lat": 41.670981, "lng": -70.19797, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

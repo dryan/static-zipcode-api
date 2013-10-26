@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.998998, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Johns", "lng": -84.57704, "zip_code": "48879"});
+zipapicallback({"locality": "Saint Johns", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Johns"], "postal_code": "48879", "lat": 42.998998, "lng": -84.57704, "type": "STANDARD", "counties": [{"fips": "037", "name": "Clinton"}, {"fips": "057", "name": "Gratiot"}]});

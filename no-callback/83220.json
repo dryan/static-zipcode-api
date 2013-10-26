@@ -1,1 +1,1 @@
-{"lat": 42.339083, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Bern", "lng": -111.37641, "zip_code": "83220"}
+{"locality": "Bern", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Bern"], "postal_code": "83220", "lat": 42.339083, "lng": -111.37641, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bear Lake"}]}

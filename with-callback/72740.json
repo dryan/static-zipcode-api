@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.1161, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Huntsville", "lng": -93.68605, "zip_code": "72740"});
+zipapicallback({"locality": "Huntsville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Huntsville"], "postal_code": "72740", "lat": 36.1161, "lng": -93.68605, "type": "STANDARD", "counties": [{"fips": "087", "name": "Madison"}, {"fips": "015", "name": "Carroll"}, {"fips": "101", "name": "Newton"}]});

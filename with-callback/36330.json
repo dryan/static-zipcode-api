@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.32579, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Enterprise", "lng": -85.84117, "zip_code": "36330"});
+zipapicallback({"locality": "Enterprise", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Enterprise"], "postal_code": "36330", "lat": 31.32579, "lng": -85.84117, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}, {"fips": "045", "name": "Dale"}, {"fips": "097", "name": "Mobile"}]});

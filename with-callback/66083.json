@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.736692, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Spring Hill", "lng": -94.83362, "zip_code": "66083"});
+zipapicallback({"locality": "Spring Hill", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Spring Hill"], "postal_code": "66083", "lat": 38.736692, "lng": -94.83362, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}, {"fips": "121", "name": "Miami"}]});

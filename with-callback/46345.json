@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.526628, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kingsbury", "lng": -86.70041, "zip_code": "46345"});
+zipapicallback({"locality": "Kingsbury", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kingsbury"], "postal_code": "46345", "lat": 41.526628, "lng": -86.70041, "type": "POBOX", "counties": [{"fips": "091", "name": "La Porte"}]});

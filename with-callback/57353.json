@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.391844, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Iroquois", "lng": -97.82982, "zip_code": "57353"});
+zipapicallback({"locality": "Iroquois", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bancroft", "Iroquois"], "postal_code": "57353", "lat": 44.391844, "lng": -97.82982, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kingsbury"}, {"fips": "005", "name": "Beadle"}]});

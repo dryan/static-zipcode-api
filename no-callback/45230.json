@@ -1,1 +1,1 @@
-{"lat": 39.078368, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Anderson", "lng": -84.38865, "zip_code": "45230"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Anderson Township", "Anderson Twp", "Cincinnati", "Mount Washing", "Mount Washington"], "postal_code": "45230", "lat": 39.078368, "lng": -84.38865, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}, {"fips": "025", "name": "Clermont"}]}

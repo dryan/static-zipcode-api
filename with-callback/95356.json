@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.704138, "region": {"abbr": "CA", "name": "California"}, "locality": "Modesto", "lng": -121.02187, "zip_code": "95356"});
+zipapicallback({"locality": "Modesto", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Modesto"], "postal_code": "95356", "lat": 37.704138, "lng": -121.02187, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}]});

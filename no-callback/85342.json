@@ -1,1 +1,1 @@
-{"lat": 33.939162, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Morristown", "lng": -112.49976, "zip_code": "85342"}
+{"locality": "Morristown", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Morristown"], "postal_code": "85342", "lat": 33.939162, "lng": -112.49976, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

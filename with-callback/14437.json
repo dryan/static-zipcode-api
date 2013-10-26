@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.576771, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dansville", "lng": -77.71925, "zip_code": "14437"});
+zipapicallback({"locality": "Dansville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dansville"], "postal_code": "14437", "lat": 42.576771, "lng": -77.71925, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]});

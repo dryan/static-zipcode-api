@@ -1,1 +1,1 @@
-{"lat": 37.37714, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Altos", "lng": -122.12412, "zip_code": "94022"}
+{"locality": "Los Altos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Altos", "Los Altos Hills"], "postal_code": "94022", "lat": 37.37714, "lng": -122.12412, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}]}

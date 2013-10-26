@@ -1,1 +1,1 @@
-{"lat": 35.084163, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bonnie Doone", "lng": -78.953, "zip_code": "28303"}
+{"locality": "Fayetteville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Fayetteville"], "postal_code": "28303", "lat": 35.084163, "lng": -78.953, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cumberland"}, {"fips": "057", "name": "Davidson"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.307347, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wharton", "lng": -96.09055, "zip_code": "77488"}
+{"locality": "Wharton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wharton"], "postal_code": "77488", "lat": 29.307347, "lng": -96.09055, "type": "STANDARD", "counties": [{"fips": "481", "name": "Wharton"}]}

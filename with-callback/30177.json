@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.418116, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Tate", "lng": -84.38462, "zip_code": "30177"});
+zipapicallback({"locality": "Tate", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Tate"], "postal_code": "30177", "lat": 34.418116, "lng": -84.38462, "type": "STANDARD", "counties": [{"fips": "227", "name": "Pickens"}]});

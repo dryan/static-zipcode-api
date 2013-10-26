@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.608799, "region": {"abbr": "CA", "name": "California"}, "locality": "Chula Vista", "lng": -117.0607, "zip_code": "91911"});
+zipapicallback({"locality": "Chula Vista", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chula Vista"], "postal_code": "91911", "lat": 32.608799, "lng": -117.0607, "type": "STANDARD", "counties": []});

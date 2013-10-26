@@ -1,1 +1,1 @@
-{"lat": 42.698173, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Argyle", "lng": -89.85736, "zip_code": "53504"}
+{"locality": "Argyle", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Argyle"], "postal_code": "53504", "lat": 42.698173, "lng": -89.85736, "type": "STANDARD", "counties": [{"fips": "065", "name": "Lafayette"}, {"fips": "045", "name": "Green"}]}

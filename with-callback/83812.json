@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.999999, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Clarkia", "lng": -116.26693, "zip_code": "83812"});
+zipapicallback({"locality": "Clarkia", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Clarkia"], "postal_code": "83812", "lat": 46.999999, "lng": -116.26693, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]});

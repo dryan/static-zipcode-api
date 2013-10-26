@@ -1,1 +1,1 @@
-{"lat": 35.684788, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ten Mile", "lng": -84.67782, "zip_code": "37880"}
+{"locality": "Ten Mile", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Ten Mile"], "postal_code": "37880", "lat": 35.684788, "lng": -84.67782, "type": "STANDARD", "counties": [{"fips": "121", "name": "Meigs"}, {"fips": "145", "name": "Roane"}, {"fips": "107", "name": "McMinn"}]}

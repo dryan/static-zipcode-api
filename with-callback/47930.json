@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.247657, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Clarks Hill", "lng": -86.72533, "zip_code": "47930"});
+zipapicallback({"locality": "Clarks Hill", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Clarks Hill"], "postal_code": "47930", "lat": 40.247657, "lng": -86.72533, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tippecanoe"}, {"fips": "107", "name": "Montgomery"}, {"fips": "023", "name": "Clinton"}]});

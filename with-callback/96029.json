@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.861821, "region": {"abbr": "CA", "name": "California"}, "locality": "Flournoy", "lng": -122.48014, "zip_code": "96029"});
+zipapicallback({"locality": "Flournoy", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Corning", "Flournoy"], "postal_code": "96029", "lat": 39.861821, "lng": -122.48014, "type": "STANDARD", "counties": [{"fips": "103", "name": "Tehama"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.097243, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Burtonsville", "lng": -76.93467, "zip_code": "20866"});
+zipapicallback({"locality": "Burtonsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Burtonsville"], "postal_code": "20866", "lat": 39.097243, "lng": -76.93467, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

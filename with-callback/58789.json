@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.567655, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Upham", "lng": -100.80621, "zip_code": "58789"});
+zipapicallback({"locality": "Upham", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Upham"], "postal_code": "58789", "lat": 48.567655, "lng": -100.80621, "type": "STANDARD", "counties": [{"fips": "049", "name": "McHenry"}, {"fips": "009", "name": "Bottineau"}]});

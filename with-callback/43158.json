@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.460218, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Union Furnace", "lng": -82.3572, "zip_code": "43158"});
+zipapicallback({"locality": "Union Furnace", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Union Furnace"], "postal_code": "43158", "lat": 39.460218, "lng": -82.3572, "type": "POBOX", "counties": [{"fips": "073", "name": "Hocking"}]});

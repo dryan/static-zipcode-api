@@ -1,1 +1,1 @@
-{"lat": 46.400365, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Clarkston", "lng": -117.08313, "zip_code": "99403"}
+{"locality": "Clarkston", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Clarkston"], "postal_code": "99403", "lat": 46.400365, "lng": -117.08313, "type": "STANDARD", "counties": [{"fips": "003", "name": "Asotin"}]}

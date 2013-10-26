@@ -1,1 +1,1 @@
-{"lat": 37.127935, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wilsons", "lng": -77.83918, "zip_code": "23894"}
+{"locality": "Wilsons", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Wilsons"], "postal_code": "23894", "lat": 37.127935, "lng": -77.83918, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dinwiddie"}]}

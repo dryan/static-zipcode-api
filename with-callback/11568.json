@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.787368, "region": {"abbr": "NY", "name": "New York"}, "locality": "Old Westbury", "lng": -73.60119, "zip_code": "11568"});
+zipapicallback({"locality": "Old Westbury", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Old Westbury", "Westbury"], "postal_code": "11568", "lat": 40.787368, "lng": -73.60119, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

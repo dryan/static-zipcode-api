@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.453498, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mill Creek", "lng": -77.91154, "zip_code": "17060"});
+zipapicallback({"locality": "Mill Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mill Creek"], "postal_code": "17060", "lat": 40.453498, "lng": -77.91154, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}, {"fips": "087", "name": "Mifflin"}]});

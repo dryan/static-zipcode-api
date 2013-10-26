@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.550378, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Waite Park", "lng": -94.22429, "zip_code": "56387"});
+zipapicallback({"locality": "Waite Park", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Waite Park"], "postal_code": "56387", "lat": 45.550378, "lng": -94.22429, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}]});

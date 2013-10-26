@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.885618, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Loomis", "lng": -119.68939, "zip_code": "98827"});
+zipapicallback({"locality": "Loomis", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Loomis"], "postal_code": "98827", "lat": 48.885618, "lng": -119.68939, "type": "STANDARD", "counties": [{"fips": "047", "name": "Okanogan"}]});

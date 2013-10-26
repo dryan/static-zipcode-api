@@ -1,1 +1,1 @@
-{"lat": 47.983034, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Charlson", "lng": -102.54126, "zip_code": "58763"}
+{"locality": "New Town", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Charlson", "New Town", "Sanish"], "postal_code": "58763", "lat": 47.983034, "lng": -102.54126, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mountrail"}, {"fips": "053", "name": "McKenzie"}]}

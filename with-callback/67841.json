@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.629346, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ensign", "lng": -100.22704, "zip_code": "67841"});
+zipapicallback({"locality": "Ensign", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ensign"], "postal_code": "67841", "lat": 37.629346, "lng": -100.22704, "type": "STANDARD", "counties": [{"fips": "069", "name": "Gray"}, {"fips": "057", "name": "Ford"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.057137, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Round Top", "lng": -96.67796, "zip_code": "78954"});
+zipapicallback({"locality": "Round Top", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Round Top"], "postal_code": "78954", "lat": 30.057137, "lng": -96.67796, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}, {"fips": "015", "name": "Austin"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.962979, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wood Dale", "lng": -87.97688, "zip_code": "60191"}
+{"locality": "Wood Dale", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wood Dale"], "postal_code": "60191", "lat": 41.962979, "lng": -87.97688, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}]}

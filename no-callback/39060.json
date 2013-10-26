@@ -1,1 +1,1 @@
-{"lat": 32.350688, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Clinton", "lng": -90.26954, "zip_code": "39060"}
+{"locality": "Clinton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Clinton"], "postal_code": "39060", "lat": 32.350688, "lng": -90.26954, "type": "POBOX", "counties": [{"fips": "049", "name": "Hinds"}]}

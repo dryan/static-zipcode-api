@@ -1,1 +1,1 @@
-{"lat": 38.460594, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Rosa", "lng": -122.6422, "zip_code": "95409"}
+{"locality": "Santa Rosa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kenwood", "Santa Rosa"], "postal_code": "95409", "lat": 38.460594, "lng": -122.6422, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

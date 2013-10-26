@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.717824, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Lexington", "lng": -82.19823, "zip_code": "43764"});
+zipapicallback({"locality": "New Lexington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Lexington"], "postal_code": "43764", "lat": 39.717824, "lng": -82.19823, "type": "STANDARD", "counties": [{"fips": "127", "name": "Perry"}]});

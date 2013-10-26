@@ -1,1 +1,1 @@
-{"lat": 38.918159, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wymer", "lng": -79.63227, "zip_code": "26254"}
+{"locality": "Bowden", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bowden", "Wymer"], "postal_code": "26254", "lat": 38.918159, "lng": -79.63227, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}, {"fips": "093", "name": "Tucker"}]}

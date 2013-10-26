@@ -1,1 +1,1 @@
-{"lat": 44.884265, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mendota", "lng": -93.16415, "zip_code": "55150"}
+{"locality": "Mendota", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mendota", "Saint Paul"], "postal_code": "55150", "lat": 44.884265, "lng": -93.16415, "type": "POBOX", "counties": [{"fips": "037", "name": "Dakota"}]}

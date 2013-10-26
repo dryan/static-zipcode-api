@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.893458, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Crane Naval Depo", "lng": -86.8507, "zip_code": "47522"});
+zipapicallback({"locality": "Crane", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Crane", "Crane Nav Dpt", "Crane Naval Depot"], "postal_code": "47522", "lat": 38.893458, "lng": -86.8507, "type": "STANDARD", "counties": [{"fips": "101", "name": "Martin"}]});

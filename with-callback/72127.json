@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.155206, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Plumerville", "lng": -92.61975, "zip_code": "72127"});
+zipapicallback({"locality": "Plumerville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Plumerville"], "postal_code": "72127", "lat": 35.155206, "lng": -92.61975, "type": "STANDARD", "counties": [{"fips": "029", "name": "Conway"}]});

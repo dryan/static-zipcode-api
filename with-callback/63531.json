@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.281881, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Baring", "lng": -92.23595, "zip_code": "63531"});
+zipapicallback({"locality": "Baring", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Baring"], "postal_code": "63531", "lat": 40.281881, "lng": -92.23595, "type": "STANDARD", "counties": [{"fips": "103", "name": "Knox"}, {"fips": "199", "name": "Scotland"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.017647, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "High Point", "lng": -80.00628, "zip_code": "27265"}
+{"locality": "High Point", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["High Point"], "postal_code": "27265", "lat": 36.017647, "lng": -80.00628, "type": "STANDARD", "counties": []}

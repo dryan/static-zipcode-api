@@ -1,1 +1,1 @@
-{"lat": 37.274689, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mammoth Cave Nat", "lng": -86.19818, "zip_code": "42259"}
+{"locality": "Mammoth Cave", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mammoth Cave", "Mammoth Cave National Park", "Ollie"], "postal_code": "42259", "lat": 37.274689, "lng": -86.19818, "type": "STANDARD", "counties": [{"fips": "061", "name": "Edmonson"}]}

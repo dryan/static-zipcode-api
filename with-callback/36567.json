@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.5822, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Robertsdale", "lng": -87.63936, "zip_code": "36567"});
+zipapicallback({"locality": "Robertsdale", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Robertsdale"], "postal_code": "36567", "lat": 30.5822, "lng": -87.63936, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}]});

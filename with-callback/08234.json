@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.398172, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Egg Harbor Township", "lng": -74.59667, "zip_code": "08234"});
+zipapicallback({"locality": "Egg Harbor Township", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Egg Harbor Township", "Egg Harbor Twp", "Egg Hbr Twp"], "postal_code": "08234", "lat": 39.398172, "lng": -74.59667, "type": "STANDARD", "counties": []});

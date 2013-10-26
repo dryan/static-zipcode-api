@@ -1,1 +1,1 @@
-{"lat": 33.711314, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Anniston", "lng": -85.78527, "zip_code": "36205"}
+{"locality": "Anniston", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Anniston", "Fort Mc Clellan", "Ft Mc Clellan", "Ft Mcclellan"], "postal_code": "36205", "lat": 33.711314, "lng": -85.78527, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calhoun"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.431776, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lafayette", "lng": -94.37742, "zip_code": "56054"});
+zipapicallback({"locality": "Lafayette", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lafayette"], "postal_code": "56054", "lat": 44.431776, "lng": -94.37742, "type": "STANDARD", "counties": [{"fips": "103", "name": "Nicollet"}, {"fips": "143", "name": "Sibley"}]});

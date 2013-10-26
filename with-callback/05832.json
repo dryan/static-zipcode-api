@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.588911, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "East Burke", "lng": -71.92705, "zip_code": "05832"});
+zipapicallback({"locality": "East Burke", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Burke"], "postal_code": "05832", "lat": 44.588911, "lng": -71.92705, "type": "STANDARD", "counties": [{"fips": "005", "name": "Caledonia"}]});

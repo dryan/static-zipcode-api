@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.983801, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sayre", "lng": -76.52578, "zip_code": "18840"});
+zipapicallback({"locality": "Sayre", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sayre", "South Waverly"], "postal_code": "18840", "lat": 41.983801, "lng": -76.52578, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]});

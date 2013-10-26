@@ -1,1 +1,1 @@
-{"lat": 31.358823, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Petal", "lng": -89.2279, "zip_code": "39465"}
+{"locality": "Petal", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Petal"], "postal_code": "39465", "lat": 31.358823, "lng": -89.2279, "type": "STANDARD", "counties": [{"fips": "035", "name": "Forrest"}, {"fips": "111", "name": "Perry"}]}

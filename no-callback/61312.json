@@ -1,1 +1,1 @@
-{"lat": 41.435197, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Arlington", "lng": -89.23432, "zip_code": "61312"}
+{"locality": "Arlington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Arlington"], "postal_code": "61312", "lat": 41.435197, "lng": -89.23432, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.50359, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cherokee", "lng": -83.29698, "zip_code": "28719"});
+zipapicallback({"locality": "Cherokee", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cherokee"], "postal_code": "28719", "lat": 35.50359, "lng": -83.29698, "type": "STANDARD", "counties": [{"fips": "173", "name": "Swain"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.753992, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Machias", "lng": -67.3786, "zip_code": "04630"});
+zipapicallback({"locality": "East Machias", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["East Machias"], "postal_code": "04630", "lat": 44.753992, "lng": -67.3786, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

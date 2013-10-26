@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.684324, "region": {"abbr": "CA", "name": "California"}, "locality": "El Dorado Hills", "lng": -121.06879, "zip_code": "95762"});
+zipapicallback({"locality": "El Dorado Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Dorado Hills", "El Dorado Hls", "Folsom"], "postal_code": "95762", "lat": 38.684324, "lng": -121.06879, "type": "STANDARD", "counties": []});

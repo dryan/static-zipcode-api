@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.998468, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Elmer City", "lng": -118.95248, "zip_code": "99124"});
+zipapicallback({"locality": "Elmer City", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Elmer City"], "postal_code": "99124", "lat": 47.998468, "lng": -118.95248, "type": "POBOX", "counties": [{"fips": "047", "name": "Okanogan"}]});

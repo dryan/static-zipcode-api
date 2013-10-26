@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.393267, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lerna", "lng": -88.28118, "zip_code": "62440"});
+zipapicallback({"locality": "Lerna", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Janesville", "Lerna"], "postal_code": "62440", "lat": 39.393267, "lng": -88.28118, "type": "STANDARD", "counties": [{"fips": "029", "name": "Coles"}, {"fips": "035", "name": "Cumberland"}]});

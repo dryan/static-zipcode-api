@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.92583, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "River Grove", "lng": -87.84013, "zip_code": "60171"});
+zipapicallback({"locality": "River Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["River Grove"], "postal_code": "60171", "lat": 41.92583, "lng": -87.84013, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

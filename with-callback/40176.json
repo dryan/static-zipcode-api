@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.934279, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Webster", "lng": -86.34869, "zip_code": "40176"});
+zipapicallback({"locality": "Webster", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Raymond", "Webster"], "postal_code": "40176", "lat": 37.934279, "lng": -86.34869, "type": "STANDARD", "counties": [{"fips": "027", "name": "Breckinridge"}, {"fips": "163", "name": "Meade"}]});

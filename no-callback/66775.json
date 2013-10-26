@@ -1,1 +1,1 @@
-{"lat": 37.691117, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Stark", "lng": -95.14826, "zip_code": "66775"}
+{"locality": "Stark", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Stark"], "postal_code": "66775", "lat": 37.691117, "lng": -95.14826, "type": "STANDARD", "counties": [{"fips": "133", "name": "Neosho"}, {"fips": "011", "name": "Bourbon"}]}

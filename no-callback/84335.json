@@ -1,1 +1,1 @@
-{"lat": 41.833371, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Smithfield", "lng": -111.85897, "zip_code": "84335"}
+{"locality": "Smithfield", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Amalga", "Benson", "Smithfield"], "postal_code": "84335", "lat": 41.833371, "lng": -111.85897, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cache"}]}

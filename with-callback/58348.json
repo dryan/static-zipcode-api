@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.955217, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Flora", "lng": -99.52317, "zip_code": "58348"});
+zipapicallback({"locality": "Maddock", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Flora", "Maddock"], "postal_code": "58348", "lat": 47.955217, "lng": -99.52317, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}]});

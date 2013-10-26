@@ -1,1 +1,1 @@
-{"lat": 39.433041, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "White Hall", "lng": -90.40655, "zip_code": "62092"}
+{"locality": "White Hall", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["White Hall"], "postal_code": "62092", "lat": 39.433041, "lng": -90.40655, "type": "STANDARD", "counties": [{"fips": "061", "name": "Greene"}]}

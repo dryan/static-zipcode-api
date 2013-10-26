@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.037173, "region": {"abbr": "CA", "name": "California"}, "locality": "Clearlake Oaks", "lng": -122.65445, "zip_code": "95423"});
+zipapicallback({"locality": "Clearlake Oaks", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clearlake Oaks", "Clearlake Oks"], "postal_code": "95423", "lat": 39.037173, "lng": -122.65445, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

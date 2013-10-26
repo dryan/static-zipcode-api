@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.209814, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Springlake", "lng": -102.29761, "zip_code": "79082"});
+zipapicallback({"locality": "Springlake", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Springlake"], "postal_code": "79082", "lat": 34.209814, "lng": -102.29761, "type": "STANDARD", "counties": [{"fips": "279", "name": "Lamb"}, {"fips": "069", "name": "Castro"}]});

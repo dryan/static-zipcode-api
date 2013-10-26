@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.883302, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Dietrich", "lng": -114.2441, "zip_code": "83324"});
+zipapicallback({"locality": "Dietrich", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Dietrich", "Shoshone"], "postal_code": "83324", "lat": 42.883302, "lng": -114.2441, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lincoln"}]});

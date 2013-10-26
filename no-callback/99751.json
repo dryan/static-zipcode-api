@@ -1,1 +1,1 @@
-{"lat": 66.908604, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kobuk", "lng": -156.88828, "zip_code": "99751"}
+{"locality": "Kobuk", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kobuk"], "postal_code": "99751", "lat": 66.908604, "lng": -156.88828, "type": "POBOX", "counties": [{"fips": "188", "name": "Northwest Arctic"}, {"fips": "140", "name": "Kobuk"}]}

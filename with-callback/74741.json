@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.77061, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hendrix", "lng": -96.29927, "zip_code": "74741"});
+zipapicallback({"locality": "Hendrix", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hendrix", "Yarnaby"], "postal_code": "74741", "lat": 33.77061, "lng": -96.29927, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bryan"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.409902, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Mary Esther", "lng": -86.71497, "zip_code": "32569"});
+zipapicallback({"locality": "Mary Esther", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mary Esther"], "postal_code": "32569", "lat": 30.409902, "lng": -86.71497, "type": "STANDARD", "counties": [{"fips": "091", "name": "Okaloosa"}, {"fips": "113", "name": "Santa Rosa"}, {"fips": "133", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.386906, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Valentine", "lng": -113.66065, "zip_code": "86437"}
+{"locality": "Valentine", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Kingman", "Valentine"], "postal_code": "86437", "lat": 35.386906, "lng": -113.66065, "type": "STANDARD", "counties": [{"fips": "015", "name": "Mohave"}]}

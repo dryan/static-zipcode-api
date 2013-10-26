@@ -1,1 +1,1 @@
-{"lat": 48.35306, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Neah Bay", "lng": -124.64076, "zip_code": "98357"}
+{"locality": "Neah Bay", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Neah Bay"], "postal_code": "98357", "lat": 48.35306, "lng": -124.64076, "type": "POBOX", "counties": [{"fips": "009", "name": "Clallam"}]}

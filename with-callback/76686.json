@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.752538, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tehuacana", "lng": -96.54327, "zip_code": "76686"});
+zipapicallback({"locality": "Tehuacana", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tehuacana"], "postal_code": "76686", "lat": 31.752538, "lng": -96.54327, "type": "POBOX", "counties": [{"fips": "293", "name": "Limestone"}]});

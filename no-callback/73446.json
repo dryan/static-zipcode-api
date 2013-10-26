@@ -1,1 +1,1 @@
-{"lat": 34.092658, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mc Millan", "lng": -96.74851, "zip_code": "73446"}
+{"locality": "Madill", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Madill", "Mc Millan", "Oakland"], "postal_code": "73446", "lat": 34.092658, "lng": -96.74851, "type": "STANDARD", "counties": [{"fips": "095", "name": "Marshall"}]}

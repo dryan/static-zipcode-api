@@ -1,1 +1,1 @@
-{"lat": 28.878902, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Runge", "lng": -97.71427, "zip_code": "78151"}
+{"locality": "Runge", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Runge"], "postal_code": "78151", "lat": 28.878902, "lng": -97.71427, "type": "STANDARD", "counties": [{"fips": "255", "name": "Karnes"}, {"fips": "123", "name": "De Witt"}, {"fips": "175", "name": "Goliad"}]}

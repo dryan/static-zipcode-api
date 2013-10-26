@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.86235, "region": {"abbr": "CA", "name": "California"}, "locality": "Seiad Valley", "lng": -123.24091, "zip_code": "96086"});
+zipapicallback({"locality": "Seiad Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Seiad Valley"], "postal_code": "96086", "lat": 41.86235, "lng": -123.24091, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

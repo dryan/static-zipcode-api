@@ -1,1 +1,1 @@
-{"lat": 37.549396, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Richmond", "lng": -77.45739, "zip_code": "23220"}
+{"locality": "Richmond", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Richmond"], "postal_code": "23220", "lat": 37.549396, "lng": -77.45739, "type": "STANDARD", "counties": [{"fips": "760", "name": "Richmond (City)"}]}

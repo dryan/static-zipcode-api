@@ -1,1 +1,1 @@
-{"lat": 32.930895, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bivins", "lng": -94.13542, "zip_code": "75555"}
+{"locality": "Bivins", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bivins"], "postal_code": "75555", "lat": 32.930895, "lng": -94.13542, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cass"}]}

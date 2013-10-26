@@ -1,1 +1,1 @@
-{"lat": 35.505158, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wilburn", "lng": -91.87084, "zip_code": "72179"}
+{"locality": "Wilburn", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wilburn"], "postal_code": "72179", "lat": 35.505158, "lng": -91.87084, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cleburne"}]}

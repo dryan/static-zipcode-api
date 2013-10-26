@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.960734, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Plymouth", "lng": -119.35637, "zip_code": "99346"});
+zipapicallback({"locality": "Plymouth", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Plymouth"], "postal_code": "99346", "lat": 45.960734, "lng": -119.35637, "type": "POBOX", "counties": [{"fips": "005", "name": "Benton"}]});

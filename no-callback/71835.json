@@ -1,1 +1,1 @@
-{"lat": 33.70485, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Emmet", "lng": -93.46779, "zip_code": "71835"}
+{"locality": "Emmet", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Emmet"], "postal_code": "71835", "lat": 33.70485, "lng": -93.46779, "type": "STANDARD", "counties": [{"fips": "099", "name": "Nevada"}]}

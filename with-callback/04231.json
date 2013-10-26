@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.261562, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Stoneham", "lng": -70.87044, "zip_code": "04231"});
+zipapicallback({"locality": "Stoneham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["E Stoneham", "Stoneham"], "postal_code": "04231", "lat": 44.261562, "lng": -70.87044, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

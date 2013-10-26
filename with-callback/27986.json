@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.386605, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Winton", "lng": -76.92641, "zip_code": "27986"});
+zipapicallback({"locality": "Winton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Winton"], "postal_code": "27986", "lat": 36.386605, "lng": -76.92641, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hertford"}]});

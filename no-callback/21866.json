@@ -1,1 +1,1 @@
-{"lat": 37.967803, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Tylerton", "lng": -76.02337, "zip_code": "21866"}
+{"locality": "Tylerton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Tylerton"], "postal_code": "21866", "lat": 37.967803, "lng": -76.02337, "type": "POBOX", "counties": [{"fips": "039", "name": "Somerset"}]}

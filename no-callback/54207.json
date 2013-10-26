@@ -1,1 +1,1 @@
-{"lat": 44.086144, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Collins", "lng": -87.98331, "zip_code": "54207"}
+{"locality": "Collins", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Collins"], "postal_code": "54207", "lat": 44.086144, "lng": -87.98331, "type": "POBOX", "counties": [{"fips": "071", "name": "Manitowoc"}]}

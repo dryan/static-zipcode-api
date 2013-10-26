@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.918663, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Brownlee", "lng": -100.52739, "zip_code": "69166"});
+zipapicallback({"locality": "Thedford", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Brownlee", "Thedford"], "postal_code": "69166", "lat": 41.918663, "lng": -100.52739, "type": "STANDARD", "counties": [{"fips": "171", "name": "Thomas"}]});

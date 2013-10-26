@@ -1,1 +1,1 @@
-{"lat": 42.170787, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bemus Point", "lng": -79.37689, "zip_code": "14712"}
+{"locality": "Bemus Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bemus Point"], "postal_code": "14712", "lat": 42.170787, "lng": -79.37689, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.453052, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Calliham", "lng": -98.37384, "zip_code": "78007"});
+zipapicallback({"locality": "Calliham", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Calliham"], "postal_code": "78007", "lat": 28.453052, "lng": -98.37384, "type": "STANDARD", "counties": [{"fips": "311", "name": "McMullen"}]});

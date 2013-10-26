@@ -1,1 +1,1 @@
-{"lat": 33.44504, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Moorhead", "lng": -90.49719, "zip_code": "38761"}
+{"locality": "Moorhead", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Moorhead"], "postal_code": "38761", "lat": 33.44504, "lng": -90.49719, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sunflower"}, {"fips": "083", "name": "Leflore"}]}

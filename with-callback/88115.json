@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.931311, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Dora", "lng": -103.35459, "zip_code": "88115"});
+zipapicallback({"locality": "Dora", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Dora"], "postal_code": "88115", "lat": 33.931311, "lng": -103.35459, "type": "POBOX", "counties": [{"fips": "041", "name": "Roosevelt"}]});

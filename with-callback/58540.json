@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.646187, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Emmet", "lng": -101.52739, "zip_code": "58540"});
+zipapicallback({"locality": "Garrison", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Emmet", "Garrison", "White Shield"], "postal_code": "58540", "lat": 47.646187, "lng": -101.52739, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}]});

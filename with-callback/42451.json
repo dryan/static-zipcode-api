@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.859415, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Reed", "lng": -87.37005, "zip_code": "42451"});
+zipapicallback({"locality": "Reed", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Reed"], "postal_code": "42451", "lat": 37.859415, "lng": -87.37005, "type": "STANDARD", "counties": [{"fips": "101", "name": "Henderson"}]});

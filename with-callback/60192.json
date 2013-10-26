@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.065827, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Schaumburg", "lng": -88.21399, "zip_code": "60192"});
+zipapicallback({"locality": "Hoffman Estates", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hoffman Est", "Hoffman Estates"], "postal_code": "60192", "lat": 42.065827, "lng": -88.21399, "type": "STANDARD", "counties": []});

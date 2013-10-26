@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.267478, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Delia", "lng": -95.94736, "zip_code": "66418"});
+zipapicallback({"locality": "Delia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Delia"], "postal_code": "66418", "lat": 39.267478, "lng": -95.94736, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jackson"}]});

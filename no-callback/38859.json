@@ -1,1 +1,1 @@
-{"lat": 34.530559, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "New Site", "lng": -88.36794, "zip_code": "38859"}
+{"locality": "New Site", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["New Site"], "postal_code": "38859", "lat": 34.530559, "lng": -88.36794, "type": "STANDARD", "counties": [{"fips": "117", "name": "Prentiss"}]}

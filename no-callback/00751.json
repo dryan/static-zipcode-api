@@ -1,1 +1,1 @@
-{"lat": 17.993803, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Salinas", "lng": -66.26534, "zip_code": "00751"}
+{"locality": "Salinas", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Salinas"], "postal_code": "00751", "lat": 17.993803, "lng": -66.26534, "type": "STANDARD", "counties": [{"fips": "123", "name": "Salinas"}]}

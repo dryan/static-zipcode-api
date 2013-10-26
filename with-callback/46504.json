@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.301049, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bourbon", "lng": -86.1114, "zip_code": "46504"});
+zipapicallback({"locality": "Bourbon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bourbon"], "postal_code": "46504", "lat": 41.301049, "lng": -86.1114, "type": "STANDARD", "counties": [{"fips": "099", "name": "Marshall"}, {"fips": "085", "name": "Kosciusko"}]});

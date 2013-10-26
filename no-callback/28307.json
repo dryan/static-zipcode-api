@@ -1,1 +1,1 @@
-{"lat": 35.142321, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Fort Bragg", "lng": -79.01225, "zip_code": "28307"}
+{"locality": "Fort Bragg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Fayetteville", "Fort Bragg"], "postal_code": "28307", "lat": 35.142321, "lng": -79.01225, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cumberland"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.744577, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cedarville", "lng": -83.79697, "zip_code": "45314"}
+{"locality": "Cedarville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cedarville"], "postal_code": "45314", "lat": 39.744577, "lng": -83.79697, "type": "STANDARD", "counties": [{"fips": "057", "name": "Greene"}, {"fips": "023", "name": "Clark"}]}

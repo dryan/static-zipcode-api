@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.903396, "region": {"abbr": "CA", "name": "California"}, "locality": "Stinson Beach", "lng": -122.65043, "zip_code": "94970"});
+zipapicallback({"locality": "Stinson Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stinson Beach"], "postal_code": "94970", "lat": 37.903396, "lng": -122.65043, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}]});

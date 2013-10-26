@@ -1,1 +1,1 @@
-{"lat": 33.022051, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lavon", "lng": -96.43601, "zip_code": "75166"}
+{"locality": "Lavon", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lavon"], "postal_code": "75166", "lat": 33.022051, "lng": -96.43601, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 40.672834, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Llewellyn", "lng": -76.27989, "zip_code": "17944"}
+{"locality": "Llewellyn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Llewellyn"], "postal_code": "17944", "lat": 40.672834, "lng": -76.27989, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]}

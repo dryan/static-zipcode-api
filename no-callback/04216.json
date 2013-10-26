@@ -1,1 +1,1 @@
-{"lat": 44.661894, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Andover", "lng": -70.79952, "zip_code": "04216"}
+{"locality": "Andover", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Andover"], "postal_code": "04216", "lat": 44.661894, "lng": -70.79952, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.725257, "region": {"abbr": "NY", "name": "New York"}, "locality": "Garden City", "lng": -73.64056, "zip_code": "11530"});
+zipapicallback({"locality": "Garden City", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Garden City", "Garden City S", "Garden City South", "Stewart Manor"], "postal_code": "11530", "lat": 40.725257, "lng": -73.64056, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

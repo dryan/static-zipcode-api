@@ -1,1 +1,1 @@
-{"lat": 35.184516, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mount Olive", "lng": -78.06056, "zip_code": "28365"}
+{"locality": "Mount Olive", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mount Olive"], "postal_code": "28365", "lat": 35.184516, "lng": -78.06056, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}, {"fips": "061", "name": "Duplin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.362879, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Elm Hall", "lng": -84.83662, "zip_code": "48830"});
+zipapicallback({"locality": "Elm Hall", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Elm Hall"], "postal_code": "48830", "lat": 43.362879, "lng": -84.83662, "type": "POBOX", "counties": [{"fips": "057", "name": "Gratiot"}]});

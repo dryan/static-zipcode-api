@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.67539, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Freeport", "lng": -94.67303, "zip_code": "56331"});
+zipapicallback({"locality": "Freeport", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Freeport", "Saint Rosa"], "postal_code": "56331", "lat": 45.67539, "lng": -94.67303, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "153", "name": "Todd"}, {"fips": "097", "name": "Morrison"}]});

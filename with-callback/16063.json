@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.783001, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Zelienople", "lng": -80.13343, "zip_code": "16063"});
+zipapicallback({"locality": "Zelienople", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Zelienople"], "postal_code": "16063", "lat": 40.783001, "lng": -80.13343, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "007", "name": "Beaver"}]});

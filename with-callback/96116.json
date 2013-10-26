@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.268746, "region": {"abbr": "CA", "name": "California"}, "locality": "Likely", "lng": -120.42843, "zip_code": "96116"});
+zipapicallback({"locality": "Likely", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Likely"], "postal_code": "96116", "lat": 41.268746, "lng": -120.42843, "type": "POBOX", "counties": [{"fips": "049", "name": "Modoc"}]});

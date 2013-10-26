@@ -1,1 +1,1 @@
-{"lat": 32.993571, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ladson", "lng": -80.12165, "zip_code": "29456"}
+{"locality": "Ladson", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ladson"], "postal_code": "29456", "lat": 32.993571, "lng": -80.12165, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}, {"fips": "015", "name": "Berkeley"}, {"fips": "035", "name": "Dorchester"}]}

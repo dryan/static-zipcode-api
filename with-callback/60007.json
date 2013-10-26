@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.005978, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elk Grove Villag", "lng": -87.99847, "zip_code": "60007"});
+zipapicallback({"locality": "Elk Grove Village", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elk Grove Village", "Elk Grove Vlg"], "postal_code": "60007", "lat": 42.005978, "lng": -87.99847, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "043", "name": "Du Page"}]});

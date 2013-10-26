@@ -1,1 +1,1 @@
-{"lat": 36.464979, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Warm Springs", "lng": -91.053, "zip_code": "72478"}
+{"locality": "Warm Springs", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Warm Springs"], "postal_code": "72478", "lat": 36.464979, "lng": -91.053, "type": "STANDARD", "counties": [{"fips": "121", "name": "Randolph"}]}

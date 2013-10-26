@@ -1,1 +1,1 @@
-{"lat": 36.525791, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bullock", "lng": -78.57014, "zip_code": "27507"}
+{"locality": "Bullock", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bullock"], "postal_code": "27507", "lat": 36.525791, "lng": -78.57014, "type": "STANDARD", "counties": [{"fips": "077", "name": "Granville"}, {"fips": "181", "name": "Vance"}]}

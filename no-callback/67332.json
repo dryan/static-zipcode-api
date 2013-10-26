@@ -1,1 +1,1 @@
-{"lat": 37.051587, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bartlett", "lng": -95.2227, "zip_code": "67332"}
+{"locality": "Bartlett", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bartlett"], "postal_code": "67332", "lat": 37.051587, "lng": -95.2227, "type": "STANDARD", "counties": [{"fips": "099", "name": "Labette"}]}

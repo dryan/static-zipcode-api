@@ -1,1 +1,1 @@
-{"lat": 38.477063, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Reva", "lng": -78.17517, "zip_code": "22735"}
+{"locality": "Reva", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Reva"], "postal_code": "22735", "lat": 38.477063, "lng": -78.17517, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}, {"fips": "047", "name": "Culpeper"}]}

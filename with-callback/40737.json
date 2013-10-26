@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.990797, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Keavy", "lng": -84.14124, "zip_code": "40737"});
+zipapicallback({"locality": "Keavy", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Keavy"], "postal_code": "40737", "lat": 36.990797, "lng": -84.14124, "type": "STANDARD", "counties": [{"fips": "125", "name": "Laurel"}]});

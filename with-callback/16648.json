@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.439272, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hollidaysburg", "lng": -78.37421, "zip_code": "16648"});
+zipapicallback({"locality": "Hollidaysburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hollidaysburg"], "postal_code": "16648", "lat": 40.439272, "lng": -78.37421, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}]});

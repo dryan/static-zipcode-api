@@ -1,1 +1,1 @@
-{"lat": 36.20619, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ravenden", "lng": -91.27997, "zip_code": "72459"}
+{"locality": "Ravenden", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ravenden"], "postal_code": "72459", "lat": 36.20619, "lng": -91.27997, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lawrence"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.463004, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Columbus", "lng": -88.35574, "zip_code": "39702"}
+{"locality": "Columbus", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Columbus"], "postal_code": "39702", "lat": 33.463004, "lng": -88.35574, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lowndes"}]}

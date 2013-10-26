@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.335958, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ortonville", "lng": -96.40032, "zip_code": "56278"});
+zipapicallback({"locality": "Ortonville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ortonville"], "postal_code": "56278", "lat": 45.335958, "lng": -96.40032, "type": "STANDARD", "counties": [{"fips": "011", "name": "Big Stone"}]});

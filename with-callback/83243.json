@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.217418, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Holbrook", "lng": -112.64211, "zip_code": "83243"});
+zipapicallback({"locality": "Holbrook", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Holbrook"], "postal_code": "83243", "lat": 42.217418, "lng": -112.64211, "type": "STANDARD", "counties": [{"fips": "071", "name": "Oneida"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.883578, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Idabel", "lng": -94.83154, "zip_code": "74745"}
+{"locality": "Idabel", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Idabel"], "postal_code": "74745", "lat": 33.883578, "lng": -94.83154, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]}

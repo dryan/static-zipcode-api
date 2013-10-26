@@ -1,1 +1,1 @@
-{"lat": 31.574589, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Buckatunna", "lng": -88.53326, "zip_code": "39322"}
+{"locality": "Buckatunna", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Buckatunna"], "postal_code": "39322", "lat": 31.574589, "lng": -88.53326, "type": "STANDARD", "counties": [{"fips": "153", "name": "Wayne"}]}

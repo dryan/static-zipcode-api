@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.518735, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Monterville", "lng": -80.14368, "zip_code": "26282"});
+zipapicallback({"locality": "Monterville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Monterville"], "postal_code": "26282", "lat": 38.518735, "lng": -80.14368, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.046589, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mount Orab", "lng": -83.92245, "zip_code": "45154"}
+{"locality": "Mount Orab", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mount Orab"], "postal_code": "45154", "lat": 39.046589, "lng": -83.92245, "type": "STANDARD", "counties": [{"fips": "015", "name": "Brown"}]}

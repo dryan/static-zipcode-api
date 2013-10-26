@@ -1,1 +1,1 @@
-{"lat": 30.082515, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lake Arthur", "lng": -92.72596, "zip_code": "70549"}
+{"locality": "Lake Arthur", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lake Arthur"], "postal_code": "70549", "lat": 30.082515, "lng": -92.72596, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jefferson Davis"}]}

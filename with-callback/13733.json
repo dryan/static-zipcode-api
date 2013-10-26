@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.292692, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bainbridge", "lng": -75.47528, "zip_code": "13733"});
+zipapicallback({"locality": "Bainbridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bainbridge"], "postal_code": "13733", "lat": 42.292692, "lng": -75.47528, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}, {"fips": "025", "name": "Delaware"}, {"fips": "077", "name": "Otsego"}]});

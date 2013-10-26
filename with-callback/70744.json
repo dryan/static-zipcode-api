@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.535477, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Holden", "lng": -90.67464, "zip_code": "70744"});
+zipapicallback({"locality": "Holden", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Holden"], "postal_code": "70744", "lat": 30.535477, "lng": -90.67464, "type": "STANDARD", "counties": [{"fips": "063", "name": "Livingston"}, {"fips": "033", "name": "East Baton Rouge"}]});

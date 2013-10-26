@@ -1,1 +1,1 @@
-{"lat": 25.733204, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Olympia Heights", "lng": -80.41197, "zip_code": "33175"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami", "Olympia Heights", "Olympia Hgts"], "postal_code": "33175", "lat": 25.733204, "lng": -80.41197, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}, {"fips": "075", "name": "Levy"}]}

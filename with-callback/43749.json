@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.157301, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Guernsey", "lng": -81.55736, "zip_code": "43749"});
+zipapicallback({"locality": "Kimbolton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Guernsey", "Kimbolton"], "postal_code": "43749", "lat": 40.157301, "lng": -81.55736, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "157", "name": "Tuscarawas"}, {"fips": "031", "name": "Coshocton"}]});

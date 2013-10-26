@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.44858, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Round Mountain", "lng": -98.38421, "zip_code": "78663"});
+zipapicallback({"locality": "Round Mountain", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cypress Mill", "Round Mountain", "Round Mtn"], "postal_code": "78663", "lat": 30.44858, "lng": -98.38421, "type": "STANDARD", "counties": [{"fips": "031", "name": "Blanco"}]});

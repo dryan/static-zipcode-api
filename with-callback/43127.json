@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.482096, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Haydenville", "lng": -82.32798, "zip_code": "43127"});
+zipapicallback({"locality": "Haydenville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Haydenville"], "postal_code": "43127", "lat": 39.482096, "lng": -82.32798, "type": "POBOX", "counties": [{"fips": "073", "name": "Hocking"}]});

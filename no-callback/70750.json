@@ -1,1 +1,1 @@
-{"lat": 30.514159, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Krotz Springs", "lng": -91.74246, "zip_code": "70750"}
+{"locality": "Krotz Springs", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Krotz Springs"], "postal_code": "70750", "lat": 30.514159, "lng": -91.74246, "type": "STANDARD", "counties": [{"fips": "097", "name": "St. Landry"}]}

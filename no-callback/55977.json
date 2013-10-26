@@ -1,1 +1,1 @@
-{"lat": 43.550714, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Taopi", "lng": -92.65902, "zip_code": "55977"}
+{"locality": "Taopi", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Taopi"], "postal_code": "55977", "lat": 43.550714, "lng": -92.65902, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}]}

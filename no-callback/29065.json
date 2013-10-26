@@ -1,1 +1,1 @@
-{"lat": 34.295632, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Jenkinsville", "lng": -81.30068, "zip_code": "29065"}
+{"locality": "Jenkinsville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Jenkinsville", "Monticello"], "postal_code": "29065", "lat": 34.295632, "lng": -81.30068, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fairfield"}]}

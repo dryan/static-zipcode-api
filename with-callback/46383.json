@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.47339, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Valparaiso", "lng": -87.03165, "zip_code": "46383"});
+zipapicallback({"locality": "Valparaiso", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Valparaiso"], "postal_code": "46383", "lat": 41.47339, "lng": -87.03165, "type": "STANDARD", "counties": [{"fips": "127", "name": "Porter"}]});

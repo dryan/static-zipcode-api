@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.334496, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Medford", "lng": -122.83547, "zip_code": "97504"});
+zipapicallback({"locality": "Medford", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Medford"], "postal_code": "97504", "lat": 42.334496, "lng": -122.83547, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]});

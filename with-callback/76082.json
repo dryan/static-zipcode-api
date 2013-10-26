@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.964932, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Springtown", "lng": -97.69803, "zip_code": "76082"});
+zipapicallback({"locality": "Springtown", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Springtown"], "postal_code": "76082", "lat": 32.964932, "lng": -97.69803, "type": "STANDARD", "counties": [{"fips": "367", "name": "Parker"}, {"fips": "497", "name": "Wise"}]});

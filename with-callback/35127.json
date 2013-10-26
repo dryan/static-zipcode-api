@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.487675, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Pleasant Grove", "lng": -86.97331, "zip_code": "35127"});
+zipapicallback({"locality": "Pleasant Grove", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Pleasant Grove", "Pleasant Grv"], "postal_code": "35127", "lat": 33.487675, "lng": -86.97331, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}]});

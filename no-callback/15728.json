@@ -1,1 +1,1 @@
-{"lat": 40.674994, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clymer", "lng": -78.98999, "zip_code": "15728"}
+{"locality": "Clymer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clymer"], "postal_code": "15728", "lat": 40.674994, "lng": -78.98999, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}]}

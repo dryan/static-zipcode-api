@@ -1,1 +1,1 @@
-{"lat": 32.801174, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pine Mountain Va", "lng": -84.82038, "zip_code": "31823"}
+{"locality": "Pine Mountain Valley", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pine Mountain Valley", "Pine Mtn Valy"], "postal_code": "31823", "lat": 32.801174, "lng": -84.82038, "type": "STANDARD", "counties": [{"fips": "145", "name": "Harris"}]}

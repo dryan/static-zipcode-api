@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.363183, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Amsterdam", "lng": -94.57551, "zip_code": "64723"});
+zipapicallback({"locality": "Amsterdam", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Amsterdam"], "postal_code": "64723", "lat": 38.363183, "lng": -94.57551, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bates"}]});

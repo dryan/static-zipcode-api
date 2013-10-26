@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.429099, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Taiban", "lng": -103.96633, "zip_code": "88134"});
+zipapicallback({"locality": "Taiban", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Taiban"], "postal_code": "88134", "lat": 34.429099, "lng": -103.96633, "type": "STANDARD", "counties": [{"fips": "011", "name": "De Baca"}]});

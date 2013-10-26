@@ -1,1 +1,1 @@
-{"lat": 34.70017, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Tuscumbia", "lng": -87.7142, "zip_code": "35674"}
+{"locality": "Tuscumbia", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Tuscumbia"], "postal_code": "35674", "lat": 34.70017, "lng": -87.7142, "type": "STANDARD", "counties": [{"fips": "033", "name": "Colbert"}]}

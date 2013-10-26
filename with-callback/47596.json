@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.862609, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Westphalia", "lng": -87.2247, "zip_code": "47596"});
+zipapicallback({"locality": "Westphalia", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Westphalia"], "postal_code": "47596", "lat": 38.862609, "lng": -87.2247, "type": "POBOX", "counties": [{"fips": "083", "name": "Knox"}]});

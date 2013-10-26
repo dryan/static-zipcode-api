@@ -1,1 +1,1 @@
-{"lat": 31.330255, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hornbeck", "lng": -93.38882, "zip_code": "71439"}
+{"locality": "Hornbeck", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hornbeck"], "postal_code": "71439", "lat": 31.330255, "lng": -93.38882, "type": "STANDARD", "counties": [{"fips": "115", "name": "Vernon"}, {"fips": "085", "name": "Sabine"}]}

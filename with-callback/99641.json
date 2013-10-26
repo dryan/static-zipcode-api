@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.898967, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Nunapitchuk", "lng": -162.43712, "zip_code": "99641"});
+zipapicallback({"locality": "Nunapitchuk", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Nunapitchuk"], "postal_code": "99641", "lat": 60.898967, "lng": -162.43712, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

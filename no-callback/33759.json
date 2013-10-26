@@ -1,1 +1,1 @@
-{"lat": 27.980297, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Clearwater", "lng": -82.71645, "zip_code": "33759"}
+{"locality": "Clearwater", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Clearwater"], "postal_code": "33759", "lat": 27.980297, "lng": -82.71645, "type": "STANDARD", "counties": []}

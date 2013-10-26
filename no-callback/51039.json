@@ -1,1 +1,1 @@
-{"lat": 42.474905, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Moville", "lng": -96.05563, "zip_code": "51039"}
+{"locality": "Moville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Moville"], "postal_code": "51039", "lat": 42.474905, "lng": -96.05563, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]}

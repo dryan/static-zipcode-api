@@ -1,1 +1,1 @@
-{"lat": 37.775543, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Dove Creek", "lng": -108.92455, "zip_code": "81324"}
+{"locality": "Dove Creek", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Dove Creek"], "postal_code": "81324", "lat": 37.775543, "lng": -108.92455, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dolores"}, {"fips": "113", "name": "San Miguel"}]}

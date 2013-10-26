@@ -1,1 +1,1 @@
-{"lat": 42.086268, "region": {"abbr": "NY", "name": "New York"}, "locality": "Downsville", "lng": -75.00691, "zip_code": "13755"}
+{"locality": "Downsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Downsville", "Shinhopple"], "postal_code": "13755", "lat": 42.086268, "lng": -75.00691, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]}

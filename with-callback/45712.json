@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.40032, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Barlow", "lng": -81.66209, "zip_code": "45712"});
+zipapicallback({"locality": "Barlow", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Barlow"], "postal_code": "45712", "lat": 39.40032, "lng": -81.66209, "type": "POBOX", "counties": [{"fips": "167", "name": "Washington"}]});

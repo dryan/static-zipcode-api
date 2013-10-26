@@ -1,1 +1,1 @@
-{"lat": 32.624424, "region": {"abbr": "CA", "name": "California"}, "locality": "Jacumba", "lng": -116.17025, "zip_code": "91934"}
+{"locality": "Jacumba", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Jacumba"], "postal_code": "91934", "lat": 32.624424, "lng": -116.17025, "type": "STANDARD", "counties": []}

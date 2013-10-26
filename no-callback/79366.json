@@ -1,1 +1,1 @@
-{"lat": 33.531908, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ransom Canyon", "lng": -101.69479, "zip_code": "79366"}
+{"locality": "Ransom Canyon", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ransom Canyon"], "postal_code": "79366", "lat": 33.531908, "lng": -101.69479, "type": "STANDARD", "counties": [{"fips": "303", "name": "Lubbock"}]}

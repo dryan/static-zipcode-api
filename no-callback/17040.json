@@ -1,1 +1,1 @@
-{"lat": 40.333508, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Landisburg", "lng": -77.29933, "zip_code": "17040"}
+{"locality": "Landisburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Landisburg"], "postal_code": "17040", "lat": 40.333508, "lng": -77.29933, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}]}

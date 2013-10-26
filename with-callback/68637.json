@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.76983, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ericson", "lng": -98.64132, "zip_code": "68637"});
+zipapicallback({"locality": "Ericson", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ericson"], "postal_code": "68637", "lat": 41.76983, "lng": -98.64132, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wheeler"}, {"fips": "175", "name": "Valley"}, {"fips": "077", "name": "Greeley"}]});

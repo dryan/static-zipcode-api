@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.469165, "region": {"abbr": "NY", "name": "New York"}, "locality": "Perrysburg", "lng": -79.01069, "zip_code": "14129"});
+zipapicallback({"locality": "Perrysburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Perrysburg"], "postal_code": "14129", "lat": 42.469165, "lng": -79.01069, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]});

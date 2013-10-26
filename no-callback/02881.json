@@ -1,1 +1,1 @@
-{"lat": 41.481001, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Kingston", "lng": -71.52689, "zip_code": "02881"}
+{"locality": "Kingston", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Kingston"], "postal_code": "02881", "lat": 41.481001, "lng": -71.52689, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]}

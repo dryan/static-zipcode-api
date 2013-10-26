@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.930285, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Union", "lng": -84.71603, "zip_code": "41091"});
+zipapicallback({"locality": "Union", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Union"], "postal_code": "41091", "lat": 38.930285, "lng": -84.71603, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}]});

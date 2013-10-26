@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.900927, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Adrian", "lng": -84.04585, "zip_code": "49221"});
+zipapicallback({"locality": "Adrian", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Adrian", "Cadmus"], "postal_code": "49221", "lat": 41.900927, "lng": -84.04585, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]});

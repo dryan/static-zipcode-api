@@ -1,1 +1,1 @@
-{"lat": 37.21313, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Meade", "lng": -100.34464, "zip_code": "67864"}
+{"locality": "Meade", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Meade"], "postal_code": "67864", "lat": 37.21313, "lng": -100.34464, "type": "STANDARD", "counties": [{"fips": "119", "name": "Meade"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.427973, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Blaine", "lng": -96.4027, "zip_code": "66549"});
+zipapicallback({"locality": "Westmoreland", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Blaine", "Westmoreland"], "postal_code": "66549", "lat": 39.427973, "lng": -96.4027, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pottawatomie"}]});

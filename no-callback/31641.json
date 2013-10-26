@@ -1,1 +1,1 @@
-{"lat": 30.934298, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Naylor", "lng": -83.08841, "zip_code": "31641"}
+{"locality": "Naylor", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Naylor"], "postal_code": "31641", "lat": 30.934298, "lng": -83.08841, "type": "STANDARD", "counties": [{"fips": "185", "name": "Lowndes"}, {"fips": "173", "name": "Lanier"}]}

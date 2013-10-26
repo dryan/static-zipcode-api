@@ -1,1 +1,1 @@
-{"lat": 40.964542, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Walston", "lng": -78.99646, "zip_code": "15781"}
+{"locality": "Walston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Walston"], "postal_code": "15781", "lat": 40.964542, "lng": -78.99646, "type": "POBOX", "counties": [{"fips": "065", "name": "Jefferson"}]}

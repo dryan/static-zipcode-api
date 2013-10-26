@@ -1,1 +1,1 @@
-{"lat": 36.209976, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Summerfield", "lng": -79.88921, "zip_code": "27358"}
+{"locality": "Summerfield", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Summerfield"], "postal_code": "27358", "lat": 36.209976, "lng": -79.88921, "type": "STANDARD", "counties": [{"fips": "081", "name": "Guilford"}, {"fips": "157", "name": "Rockingham"}]}

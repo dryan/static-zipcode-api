@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.840892, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Tyro", "lng": -79.02459, "zip_code": "22976"});
+zipapicallback({"locality": "Tyro", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Roseland", "Tyro"], "postal_code": "22976", "lat": 37.840892, "lng": -79.02459, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}]});

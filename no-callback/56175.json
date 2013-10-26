@@ -1,1 +1,1 @@
-{"lat": 44.260625, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Tracy", "lng": -95.62371, "zip_code": "56175"}
+{"locality": "Tracy", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Amiret", "Tracy"], "postal_code": "56175", "lat": 44.260625, "lng": -95.62371, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}, {"fips": "127", "name": "Redwood"}, {"fips": "101", "name": "Murray"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.700606, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Holden", "lng": -68.59682, "zip_code": "04429"});
+zipapicallback({"locality": "Holden", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Dedham", "East Holden", "Holden"], "postal_code": "04429", "lat": 44.700606, "lng": -68.59682, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "009", "name": "Hancock"}]});

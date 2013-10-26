@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.028147, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Blackstone", "lng": -71.52999, "zip_code": "01504"});
+zipapicallback({"locality": "Blackstone", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Blackstone"], "postal_code": "01504", "lat": 42.028147, "lng": -71.52999, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

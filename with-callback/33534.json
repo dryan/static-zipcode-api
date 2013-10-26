@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.837894, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Gibsonton", "lng": -82.37407, "zip_code": "33534"});
+zipapicallback({"locality": "Gibsonton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Gibsonton"], "postal_code": "33534", "lat": 27.837894, "lng": -82.37407, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.041663, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Elk", "lng": -117.24891, "zip_code": "99009"}
+{"locality": "Elk", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Elk"], "postal_code": "99009", "lat": 48.041663, "lng": -117.24891, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}, {"fips": "051", "name": "Pend Oreille"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.952534, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kinde", "lng": -83.02017, "zip_code": "48445"});
+zipapicallback({"locality": "Kinde", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kinde"], "postal_code": "48445", "lat": 43.952534, "lng": -83.02017, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]});

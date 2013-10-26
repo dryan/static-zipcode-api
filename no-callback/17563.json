@@ -1,1 +1,1 @@
-{"lat": 39.767658, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Peach Bottom", "lng": -76.1749, "zip_code": "17563"}
+{"locality": "Peach Bottom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Peach Bottom"], "postal_code": "17563", "lat": 39.767658, "lng": -76.1749, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]}

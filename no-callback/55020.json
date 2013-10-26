@@ -1,1 +1,1 @@
-{"lat": 44.571365, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Elko", "lng": -93.36011, "zip_code": "55020"}
+{"locality": "Elko New Market", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elko", "Elko New Market", "Elko New Mrkt"], "postal_code": "55020", "lat": 44.571365, "lng": -93.36011, "type": "STANDARD", "counties": [{"fips": "139", "name": "Scott"}, {"fips": "131", "name": "Rice"}]}

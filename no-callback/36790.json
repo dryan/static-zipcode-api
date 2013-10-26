@@ -1,1 +1,1 @@
-{"lat": 32.731866, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Stanton", "lng": -86.90004, "zip_code": "36790"}
+{"locality": "Stanton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Stanton"], "postal_code": "36790", "lat": 32.731866, "lng": -86.90004, "type": "STANDARD", "counties": [{"fips": "021", "name": "Chilton"}]}

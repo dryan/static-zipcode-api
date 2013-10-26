@@ -1,1 +1,1 @@
-{"lat": 39.43695, "region": {"abbr": "CA", "name": "California"}, "locality": "Fort Bragg", "lng": -123.76087, "zip_code": "95437"}
+{"locality": "Fort Bragg", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fort Bragg"], "postal_code": "95437", "lat": 39.43695, "lng": -123.76087, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

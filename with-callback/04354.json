@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.384901, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Palermo", "lng": -69.4136, "zip_code": "04354"});
+zipapicallback({"locality": "Palermo", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Palermo"], "postal_code": "04354", "lat": 44.384901, "lng": -69.4136, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

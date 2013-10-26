@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.915891, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Panola", "lng": -88.25764, "zip_code": "35477"});
+zipapicallback({"locality": "Panola", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Panola"], "postal_code": "35477", "lat": 32.915891, "lng": -88.25764, "type": "POBOX", "counties": [{"fips": "119", "name": "Sumter"}]});

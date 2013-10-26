@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.459705, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Trout Creek", "lng": -89.0028, "zip_code": "49967"});
+zipapicallback({"locality": "Trout Creek", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kenton", "Trout Creek"], "postal_code": "49967", "lat": 46.459705, "lng": -89.0028, "type": "STANDARD", "counties": [{"fips": "131", "name": "Ontonagon"}, {"fips": "061", "name": "Houghton"}]});

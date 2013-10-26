@@ -1,1 +1,1 @@
-{"lat": 35.60089, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Clyde", "lng": -82.93536, "zip_code": "28721"}
+{"locality": "Clyde", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Clyde"], "postal_code": "28721", "lat": 35.60089, "lng": -82.93536, "type": "STANDARD", "counties": [{"fips": "087", "name": "Haywood"}]}

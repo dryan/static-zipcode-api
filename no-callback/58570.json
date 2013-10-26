@@ -1,1 +1,1 @@
-{"lat": 46.421762, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Breien", "lng": -100.93017, "zip_code": "58570"}
+{"locality": "Solen", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Breien", "Solen"], "postal_code": "58570", "lat": 46.421762, "lng": -100.93017, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sioux"}, {"fips": "059", "name": "Morton"}]}

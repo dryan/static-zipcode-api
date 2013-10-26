@@ -1,1 +1,1 @@
-{"lat": 33.443039, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Bessemer", "lng": -87.0193, "zip_code": "35023"}
+{"locality": "Bessemer", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bessemer", "Hueytown"], "postal_code": "35023", "lat": 33.443039, "lng": -87.0193, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}, {"fips": "117", "name": "Shelby"}]}

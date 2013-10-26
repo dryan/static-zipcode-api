@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.817322, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Concord", "lng": -90.36618, "zip_code": "62631"});
+zipapicallback({"locality": "Concord", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Concord"], "postal_code": "62631", "lat": 39.817322, "lng": -90.36618, "type": "STANDARD", "counties": [{"fips": "137", "name": "Morgan"}]});

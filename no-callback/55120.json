@@ -1,1 +1,1 @@
-{"lat": 44.873398, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Eagan", "lng": -93.14538, "zip_code": "55120"}
+{"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eagan", "Mendota Heights", "Mendota Hts", "Saint Paul"], "postal_code": "55120", "lat": 44.873398, "lng": -93.14538, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}]}

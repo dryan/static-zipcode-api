@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.525725, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Windsor", "lng": -93.51705, "zip_code": "65360"});
+zipapicallback({"locality": "Windsor", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Windsor"], "postal_code": "65360", "lat": 38.525725, "lng": -93.51705, "type": "STANDARD", "counties": [{"fips": "083", "name": "Henry"}, {"fips": "159", "name": "Pettis"}, {"fips": "015", "name": "Benton"}, {"fips": "101", "name": "Johnson"}]});

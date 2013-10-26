@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.439708, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Stillmore", "lng": -82.22278, "zip_code": "30464"});
+zipapicallback({"locality": "Stillmore", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Stillmore"], "postal_code": "30464", "lat": 32.439708, "lng": -82.22278, "type": "POBOX", "counties": [{"fips": "107", "name": "Emanuel"}]});

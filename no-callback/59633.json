@@ -1,1 +1,1 @@
-{"lat": 46.818147, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Canyon Creek", "lng": -112.3409, "zip_code": "59633"}
+{"locality": "Canyon Creek", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Canyon Creek"], "postal_code": "59633", "lat": 46.818147, "lng": -112.3409, "type": "STANDARD", "counties": [{"fips": "049", "name": "Lewis and Clark"}]}

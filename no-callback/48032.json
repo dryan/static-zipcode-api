@@ -1,1 +1,1 @@
-{"lat": 43.125531, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grant Township", "lng": -82.59617, "zip_code": "48032"}
+{"locality": "Jeddo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grant Township", "Grant Twp", "Jeddo"], "postal_code": "48032", "lat": 43.125531, "lng": -82.59617, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}, {"fips": "151", "name": "Sanilac"}]}

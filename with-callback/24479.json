@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.151767, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Swoope", "lng": -79.21998, "zip_code": "24479"});
+zipapicallback({"locality": "Swoope", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Swoope"], "postal_code": "24479", "lat": 38.151767, "lng": -79.21998, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

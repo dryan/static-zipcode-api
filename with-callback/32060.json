@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.285127, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Boys Ranch", "lng": -83.04106, "zip_code": "32060"});
+zipapicallback({"locality": "Live Oak", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dowling Park", "Live Oak"], "postal_code": "32060", "lat": 30.285127, "lng": -83.04106, "type": "STANDARD", "counties": [{"fips": "121", "name": "Suwannee"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.857385, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hudson", "lng": -84.34907, "zip_code": "49247"}
+{"locality": "Hudson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hudson", "Rollin"], "postal_code": "49247", "lat": 41.857385, "lng": -84.34907, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}, {"fips": "059", "name": "Hillsdale"}]}

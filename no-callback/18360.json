@@ -1,1 +1,1 @@
-{"lat": 40.98314, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Stroudsburg", "lng": -75.26026, "zip_code": "18360"}
+{"locality": "Stroudsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Stroudsburg"], "postal_code": "18360", "lat": 40.98314, "lng": -75.26026, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]}

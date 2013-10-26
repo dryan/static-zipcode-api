@@ -1,1 +1,1 @@
-{"lat": 38.969806, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Raytown", "lng": -94.47256, "zip_code": "64138"}
+{"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City", "Raytown"], "postal_code": "64138", "lat": 38.969806, "lng": -94.47256, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]}

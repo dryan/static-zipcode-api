@@ -1,1 +1,1 @@
-{"lat": 43.082761, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lake Mills", "lng": -88.90838, "zip_code": "53551"}
+{"locality": "Lake Mills", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lake Mills"], "postal_code": "53551", "lat": 43.082761, "lng": -88.90838, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}]}

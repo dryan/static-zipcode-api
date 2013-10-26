@@ -1,1 +1,1 @@
-{"lat": 31.49616, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Carson", "lng": -89.83579, "zip_code": "39427"}
+{"locality": "Carson", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Carson"], "postal_code": "39427", "lat": 31.49616, "lng": -89.83579, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson Davis"}]}

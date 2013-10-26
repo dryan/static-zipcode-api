@@ -1,1 +1,1 @@
-{"lat": 31.381263, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Headland", "lng": -85.3149, "zip_code": "36345"}
+{"locality": "Headland", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Headland"], "postal_code": "36345", "lat": 31.381263, "lng": -85.3149, "type": "STANDARD", "counties": [{"fips": "067", "name": "Henry"}, {"fips": "069", "name": "Houston"}, {"fips": "045", "name": "Dale"}]}

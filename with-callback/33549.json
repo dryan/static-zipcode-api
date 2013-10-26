@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.142694, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lutz", "lng": -82.46629, "zip_code": "33549"});
+zipapicallback({"locality": "Lutz", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lutz"], "postal_code": "33549", "lat": 28.142694, "lng": -82.46629, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}, {"fips": "101", "name": "Pasco"}]});

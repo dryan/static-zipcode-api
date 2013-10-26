@@ -1,1 +1,1 @@
-{"lat": 41.141281, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Cheyenne", "lng": -104.80208, "zip_code": "82001"}
+{"locality": "Cheyenne", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Cheyenne", "Fe Warren Afb"], "postal_code": "82001", "lat": 41.141281, "lng": -104.80208, "type": "STANDARD", "counties": [{"fips": "021", "name": "Laramie"}]}

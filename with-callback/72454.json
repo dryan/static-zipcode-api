@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.393325, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Piggott", "lng": -90.20277, "zip_code": "72454"});
+zipapicallback({"locality": "Piggott", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Piggott"], "postal_code": "72454", "lat": 36.393325, "lng": -90.20277, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]});

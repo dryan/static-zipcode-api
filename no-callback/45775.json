@@ -1,1 +1,1 @@
-{"lat": 39.089885, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rutland", "lng": -82.16773, "zip_code": "45775"}
+{"locality": "Rutland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rutland"], "postal_code": "45775", "lat": 39.089885, "lng": -82.16773, "type": "STANDARD", "counties": [{"fips": "105", "name": "Meigs"}]}

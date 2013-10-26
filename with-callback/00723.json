@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.023196, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Patillas", "lng": -66.0131, "zip_code": "00723"});
+zipapicallback({"locality": "Patillas", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Patillas"], "postal_code": "00723", "lat": 18.023196, "lng": -66.0131, "type": "STANDARD", "counties": [{"fips": "109", "name": "Patillas"}]});

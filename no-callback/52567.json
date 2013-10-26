@@ -1,1 +1,1 @@
-{"lat": 40.946765, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Libertyville", "lng": -92.07173, "zip_code": "52567"}
+{"locality": "Libertyville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Libertyville"], "postal_code": "52567", "lat": 40.946765, "lng": -92.07173, "type": "STANDARD", "counties": [{"fips": "101", "name": "Jefferson"}]}

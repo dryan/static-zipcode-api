@@ -1,1 +1,1 @@
-{"lat": 32.317298, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Newton", "lng": -89.14483, "zip_code": "39345"}
+{"locality": "Newton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Newton"], "postal_code": "39345", "lat": 32.317298, "lng": -89.14483, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]}

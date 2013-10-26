@@ -1,1 +1,1 @@
-{"lat": 38.025346, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Boyd Tavern", "lng": -78.32925, "zip_code": "22947"}
+{"locality": "Keswick", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Boyd Tavern", "Campbell", "Cismont", "Cobham", "Keswick", "Shadwell"], "postal_code": "22947", "lat": 38.025346, "lng": -78.32925, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}, {"fips": "109", "name": "Louisa"}, {"fips": "065", "name": "Fluvanna"}]}

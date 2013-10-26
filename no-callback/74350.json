@@ -1,1 +1,1 @@
-{"lat": 36.46898, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Langley", "lng": -95.04967, "zip_code": "74350"}
+{"locality": "Langley", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Langley"], "postal_code": "74350", "lat": 36.46898, "lng": -95.04967, "type": "POBOX", "counties": [{"fips": "097", "name": "Mayes"}]}

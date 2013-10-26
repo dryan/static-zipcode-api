@@ -1,1 +1,1 @@
-{"lat": 41.137674, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lorimor", "lng": -94.08042, "zip_code": "50149"}
+{"locality": "Lorimor", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lorimor"], "postal_code": "50149", "lat": 41.137674, "lng": -94.08042, "type": "STANDARD", "counties": [{"fips": "175", "name": "Union"}, {"fips": "039", "name": "Clarke"}, {"fips": "001", "name": "Adair"}, {"fips": "121", "name": "Madison"}]}

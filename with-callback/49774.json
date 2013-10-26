@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.165132, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pickford", "lng": -84.33219, "zip_code": "49774"});
+zipapicallback({"locality": "Pickford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pickford"], "postal_code": "49774", "lat": 46.165132, "lng": -84.33219, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}, {"fips": "097", "name": "MacKinac"}]});

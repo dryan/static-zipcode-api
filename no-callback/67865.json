@@ -1,1 +1,1 @@
-{"lat": 37.394383, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bloom", "lng": -99.96723, "zip_code": "67865"}
+{"locality": "Minneola", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bloom", "Minneola"], "postal_code": "67865", "lat": 37.394383, "lng": -99.96723, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clark"}, {"fips": "057", "name": "Ford"}, {"fips": "119", "name": "Meade"}]}

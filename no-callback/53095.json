@@ -1,1 +1,1 @@
-{"lat": 43.40328, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "West Bend", "lng": -88.18026, "zip_code": "53095"}
+{"locality": "West Bend", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["West Bend"], "postal_code": "53095", "lat": 43.40328, "lng": -88.18026, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}, {"fips": "089", "name": "Ozaukee"}]}

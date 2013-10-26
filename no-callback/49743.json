@@ -1,1 +1,1 @@
-{"lat": 45.282088, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hawks", "lng": -83.93526, "zip_code": "49743"}
+{"locality": "Hawks", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hawks"], "postal_code": "49743", "lat": 45.282088, "lng": -83.93526, "type": "STANDARD", "counties": [{"fips": "141", "name": "Presque Isle"}]}

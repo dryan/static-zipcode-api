@@ -1,1 +1,1 @@
-{"lat": 38.674468, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Assaria", "lng": -97.59811, "zip_code": "67416"}
+{"locality": "Assaria", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Assaria", "Mentor"], "postal_code": "67416", "lat": 38.674468, "lng": -97.59811, "type": "STANDARD", "counties": [{"fips": "169", "name": "Saline"}, {"fips": "113", "name": "McPherson"}]}

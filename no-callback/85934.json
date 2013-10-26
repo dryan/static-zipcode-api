@@ -1,1 +1,1 @@
-{"lat": 34.270743, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Pinedale", "lng": -110.26032, "zip_code": "85934"}
+{"locality": "Pinedale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Pinedale"], "postal_code": "85934", "lat": 34.270743, "lng": -110.26032, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.899874, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Dublin", "lng": -72.06334, "zip_code": "03444"}
+{"locality": "Dublin", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Dublin"], "postal_code": "03444", "lat": 42.899874, "lng": -72.06334, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]}

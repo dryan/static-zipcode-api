@@ -1,1 +1,1 @@
-{"lat": 41.434476, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cornwall", "lng": -74.03584, "zip_code": "12518"}
+{"locality": "Cornwall", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cornwall"], "postal_code": "12518", "lat": 41.434476, "lng": -74.03584, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

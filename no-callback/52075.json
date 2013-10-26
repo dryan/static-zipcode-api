@@ -1,1 +1,1 @@
-{"lat": 42.161997, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Springbrook", "lng": -90.47987, "zip_code": "52075"}
+{"locality": "Springbrook", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Springbrook"], "postal_code": "52075", "lat": 42.161997, "lng": -90.47987, "type": "POBOX", "counties": [{"fips": "097", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.914909, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fort Jennings", "lng": -84.28717, "zip_code": "45844"});
+zipapicallback({"locality": "Fort Jennings", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fort Jennings"], "postal_code": "45844", "lat": 40.914909, "lng": -84.28717, "type": "STANDARD", "counties": [{"fips": "137", "name": "Putnam"}, {"fips": "161", "name": "Van Wert"}, {"fips": "003", "name": "Allen"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.192394, "region": {"abbr": "NY", "name": "New York"}, "locality": "Pomona", "lng": -74.04523, "zip_code": "10970"}
+{"locality": "Pomona", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Pomona"], "postal_code": "10970", "lat": 41.192394, "lng": -74.04523, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

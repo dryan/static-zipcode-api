@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.096166, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Watertown", "lng": -86.13715, "zip_code": "37184"});
+zipapicallback({"locality": "Watertown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Watertown"], "postal_code": "37184", "lat": 36.096166, "lng": -86.13715, "type": "STANDARD", "counties": [{"fips": "189", "name": "Wilson"}, {"fips": "159", "name": "Smith"}]});

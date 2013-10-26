@@ -1,1 +1,1 @@
-{"lat": 37.184223, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Summersville", "lng": -91.65064, "zip_code": "65571"}
+{"locality": "Summersville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Summersville"], "postal_code": "65571", "lat": 37.184223, "lng": -91.65064, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}, {"fips": "203", "name": "Shannon"}]}

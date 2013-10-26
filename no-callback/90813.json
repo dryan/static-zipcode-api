@@ -1,1 +1,1 @@
-{"lat": 33.781011, "region": {"abbr": "CA", "name": "California"}, "locality": "Long Beach", "lng": -118.19197, "zip_code": "90813"}
+{"locality": "Long Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Long Beach"], "postal_code": "90813", "lat": 33.781011, "lng": -118.19197, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

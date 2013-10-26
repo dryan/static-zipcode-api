@@ -1,1 +1,1 @@
-{"lat": 40.112531, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Urbana", "lng": -83.76633, "zip_code": "43078"}
+{"locality": "Urbana", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Urbana"], "postal_code": "43078", "lat": 40.112531, "lng": -83.76633, "type": "STANDARD", "counties": [{"fips": "021", "name": "Champaign"}, {"fips": "023", "name": "Clark"}]}

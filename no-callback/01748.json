@@ -1,1 +1,1 @@
-{"lat": 42.220447, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hopkinton", "lng": -71.53418, "zip_code": "01748"}
+{"locality": "Hopkinton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hopkinton"], "postal_code": "01748", "lat": 42.220447, "lng": -71.53418, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]}

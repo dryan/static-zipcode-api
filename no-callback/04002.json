@@ -1,1 +1,1 @@
-{"lat": 43.490939, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Alfred", "lng": -70.6884, "zip_code": "04002"}
+{"locality": "Alfred", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Alfred", "Lyman"], "postal_code": "04002", "lat": 43.490939, "lng": -70.6884, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

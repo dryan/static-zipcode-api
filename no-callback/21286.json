@@ -1,1 +1,1 @@
-{"lat": 39.399639, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Towson", "lng": -76.58418, "zip_code": "21286"}
+{"locality": "Towson", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Loch Raven", "Towson"], "postal_code": "21286", "lat": 39.399639, "lng": -76.58418, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.591653, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Colonia", "lng": -74.31341, "zip_code": "07067"}
+{"locality": "Colonia", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Colonia"], "postal_code": "07067", "lat": 40.591653, "lng": -74.31341, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

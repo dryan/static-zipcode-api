@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.241173, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fort Lee", "lng": -77.34845, "zip_code": "23801"});
+zipapicallback({"locality": "Fort Lee", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Lee", "Petersburg"], "postal_code": "23801", "lat": 37.241173, "lng": -77.34845, "type": "STANDARD", "counties": [{"fips": "149", "name": "Prince George"}, {"fips": "730", "name": "Petersburg (City)"}]});

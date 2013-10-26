@@ -1,1 +1,1 @@
-{"lat": 44.128666, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Topsham", "lng": -72.2345, "zip_code": "05076"}
+{"locality": "Topsham", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Corinth", "Topsham"], "postal_code": "05076", "lat": 44.128666, "lng": -72.2345, "type": "STANDARD", "counties": [{"fips": "017", "name": "Orange"}]}

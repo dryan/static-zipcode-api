@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.090582, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Everson", "lng": -79.58704, "zip_code": "15631"});
+zipapicallback({"locality": "Everson", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Everson"], "postal_code": "15631", "lat": 40.090582, "lng": -79.58704, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}, {"fips": "129", "name": "Westmoreland"}]});

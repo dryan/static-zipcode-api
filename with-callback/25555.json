@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.238942, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Prichard", "lng": -82.58178, "zip_code": "25555"});
+zipapicallback({"locality": "Prichard", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Prichard"], "postal_code": "25555", "lat": 38.238942, "lng": -82.58178, "type": "STANDARD", "counties": [{"fips": "099", "name": "Wayne"}]});

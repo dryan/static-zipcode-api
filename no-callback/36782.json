@@ -1,1 +1,1 @@
-{"lat": 32.114999, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Sweet Water", "lng": -87.90187, "zip_code": "36782"}
+{"locality": "Sweet Water", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Sweet Water"], "postal_code": "36782", "lat": 32.114999, "lng": -87.90187, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}, {"fips": "025", "name": "Clarke"}]}

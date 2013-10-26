@@ -1,1 +1,1 @@
-{"lat": 34.101659, "region": {"abbr": "CA", "name": "California"}, "locality": "Upland", "lng": -117.65776, "zip_code": "91786"}
+{"locality": "Upland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Upland"], "postal_code": "91786", "lat": 34.101659, "lng": -117.65776, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

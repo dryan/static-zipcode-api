@@ -1,1 +1,1 @@
-{"lat": 45.693128, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Powers", "lng": -87.50966, "zip_code": "49874"}
+{"locality": "Powers", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Powers"], "postal_code": "49874", "lat": 45.693128, "lng": -87.50966, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]}

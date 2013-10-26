@@ -1,1 +1,1 @@
-{"lat": 36.229928, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Greeneville", "lng": -82.81406, "zip_code": "37745"}
+{"locality": "Greeneville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Greeneville", "Tusculum"], "postal_code": "37745", "lat": 36.229928, "lng": -82.81406, "type": "STANDARD", "counties": []}

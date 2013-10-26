@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.771806, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Murphysboro", "lng": -89.33971, "zip_code": "62966"});
+zipapicallback({"locality": "Murphysboro", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Murphysboro"], "postal_code": "62966", "lat": 37.771806, "lng": -89.33971, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.067531, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rock City Falls", "lng": -73.93002, "zip_code": "12863"}
+{"locality": "Rock City Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rock City Falls", "Rock City Fls"], "postal_code": "12863", "lat": 43.067531, "lng": -73.93002, "type": "STANDARD", "counties": [{"fips": "091", "name": "Saratoga"}]}

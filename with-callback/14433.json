@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.07351, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clyde", "lng": -76.87557, "zip_code": "14433"});
+zipapicallback({"locality": "Clyde", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clyde"], "postal_code": "14433", "lat": 43.07351, "lng": -76.87557, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}, {"fips": "099", "name": "Seneca"}]});

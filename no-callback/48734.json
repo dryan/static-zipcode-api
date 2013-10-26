@@ -1,1 +1,1 @@
-{"lat": 43.340413, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Frankenmuth", "lng": -83.74123, "zip_code": "48734"}
+{"locality": "Frankenmuth", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Frankenmuth"], "postal_code": "48734", "lat": 43.340413, "lng": -83.74123, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "157", "name": "Tuscola"}]}

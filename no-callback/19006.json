@@ -1,1 +1,1 @@
-{"lat": 40.129509, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Huntingdon Valle", "lng": -75.06115, "zip_code": "19006"}
+{"locality": "Huntingdon Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Huntingdon Valley", "Huntingdon Vy"], "postal_code": "19006", "lat": 40.129509, "lng": -75.06115, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "017", "name": "Bucks"}]}

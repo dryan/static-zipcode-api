@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.098371, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wapwallopen", "lng": -76.06397, "zip_code": "18660"});
+zipapicallback({"locality": "Wapwallopen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wapwallopen"], "postal_code": "18660", "lat": 41.098371, "lng": -76.06397, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

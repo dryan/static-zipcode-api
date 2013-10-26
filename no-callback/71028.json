@@ -1,1 +1,1 @@
-{"lat": 32.518748, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Gibsland", "lng": -93.05705, "zip_code": "71028"}
+{"locality": "Gibsland", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Gibsland"], "postal_code": "71028", "lat": 32.518748, "lng": -93.05705, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bienville"}, {"fips": "031", "name": "De Soto"}]}

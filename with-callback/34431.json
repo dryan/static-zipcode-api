@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.131665, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dunnellon", "lng": -82.49726, "zip_code": "34431"});
+zipapicallback({"locality": "Dunnellon", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dunnellon"], "postal_code": "34431", "lat": 29.131665, "lng": -82.49726, "type": "STANDARD", "counties": []});

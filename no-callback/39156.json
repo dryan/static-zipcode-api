@@ -1,1 +1,1 @@
-{"lat": 32.524981, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Redwood", "lng": -90.779, "zip_code": "39156"}
+{"locality": "Redwood", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Redwood"], "postal_code": "39156", "lat": 32.524981, "lng": -90.779, "type": "STANDARD", "counties": [{"fips": "149", "name": "Warren"}, {"fips": "163", "name": "Yazoo"}]}

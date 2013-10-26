@@ -1,1 +1,1 @@
-{"lat": 42.469761, "region": {"abbr": "NY", "name": "New York"}, "locality": "Oneonta", "lng": -75.05192, "zip_code": "13820"}
+{"locality": "Oneonta", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Oneonta"], "postal_code": "13820", "lat": 42.469761, "lng": -75.05192, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}, {"fips": "025", "name": "Delaware"}]}

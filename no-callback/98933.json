@@ -1,1 +1,1 @@
-{"lat": 46.406875, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Harrah", "lng": -120.62421, "zip_code": "98933"}
+{"locality": "Harrah", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Harrah"], "postal_code": "98933", "lat": 46.406875, "lng": -120.62421, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

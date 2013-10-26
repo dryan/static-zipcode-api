@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.372441, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hudson", "lng": -82.66603, "zip_code": "34667"});
+zipapicallback({"locality": "Hudson", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bayonet Point", "Hudson", "Port Richey"], "postal_code": "34667", "lat": 28.372441, "lng": -82.66603, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pasco"}]});

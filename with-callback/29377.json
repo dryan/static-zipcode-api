@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.935828, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Startex", "lng": -82.09514, "zip_code": "29377"});
+zipapicallback({"locality": "Startex", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Startex"], "postal_code": "29377", "lat": 34.935828, "lng": -82.09514, "type": "POBOX", "counties": [{"fips": "083", "name": "Spartanburg"}]});

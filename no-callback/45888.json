@@ -1,1 +1,1 @@
-{"lat": 40.601985, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Uniopolis", "lng": -84.08653, "zip_code": "45888"}
+{"locality": "Uniopolis", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Uniopolis"], "postal_code": "45888", "lat": 40.601985, "lng": -84.08653, "type": "POBOX", "counties": [{"fips": "011", "name": "Auglaize"}]}

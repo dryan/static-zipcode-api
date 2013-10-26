@@ -1,1 +1,1 @@
-{"lat": 39.011612, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Staunton", "lng": -89.78855, "zip_code": "62088"}
+{"locality": "Staunton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Staunton"], "postal_code": "62088", "lat": 39.011612, "lng": -89.78855, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}, {"fips": "119", "name": "Madison"}]}

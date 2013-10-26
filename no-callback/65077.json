@@ -1,1 +1,1 @@
-{"lat": 38.78615, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Steedman", "lng": -91.80921, "zip_code": "65077"}
+{"locality": "Steedman", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Steedman"], "postal_code": "65077", "lat": 38.78615, "lng": -91.80921, "type": "STANDARD", "counties": [{"fips": "027", "name": "Callaway"}]}

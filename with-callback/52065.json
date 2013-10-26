@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.559621, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "New Vienna", "lng": -91.10572, "zip_code": "52065"});
+zipapicallback({"locality": "New Vienna", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["New Vienna"], "postal_code": "52065", "lat": 42.559621, "lng": -91.10572, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]});

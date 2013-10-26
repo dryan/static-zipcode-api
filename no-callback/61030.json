@@ -1,1 +1,1 @@
-{"lat": 42.119619, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Forreston", "lng": -89.58242, "zip_code": "61030"}
+{"locality": "Forreston", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Forreston"], "postal_code": "61030", "lat": 42.119619, "lng": -89.58242, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}]}

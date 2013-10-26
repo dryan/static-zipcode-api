@@ -1,1 +1,1 @@
-{"lat": 37.21695, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ettrick", "lng": -77.43063, "zip_code": "23803"}
+{"locality": "Petersburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Petersburg", "S Chesterfld", "South Chesterfield"], "postal_code": "23803", "lat": 37.21695, "lng": -77.43063, "type": "STANDARD", "counties": [{"fips": "730", "name": "Petersburg (City)"}, {"fips": "041", "name": "Chesterfield"}, {"fips": "149", "name": "Prince George"}, {"fips": "053", "name": "Dinwiddie"}]}

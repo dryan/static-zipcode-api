@@ -1,1 +1,1 @@
-{"lat": 31.574319, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Brookhaven", "lng": -90.45029, "zip_code": "39601"}
+{"locality": "Brookhaven", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Brookhaven"], "postal_code": "39601", "lat": 31.574319, "lng": -90.45029, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lincoln"}, {"fips": "077", "name": "Lawrence"}]}

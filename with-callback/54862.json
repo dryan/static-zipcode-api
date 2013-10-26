@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.766112, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ojibwa", "lng": -91.13603, "zip_code": "54862"});
+zipapicallback({"locality": "Ojibwa", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ojibwa"], "postal_code": "54862", "lat": 45.766112, "lng": -91.13603, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sawyer"}]});

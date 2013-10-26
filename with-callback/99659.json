@@ -1,1 +1,1 @@
-zipapicallback({"lat": 63.477448, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Saint", "lng": -162.03841, "zip_code": "99659"});
+zipapicallback({"locality": "Saint Michael", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Saint Michael"], "postal_code": "99659", "lat": 63.477448, "lng": -162.03841, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]});

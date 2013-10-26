@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.198748, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Whitehorse", "lng": -100.85342, "zip_code": "57661"});
+zipapicallback({"locality": "Whitehorse", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Whitehorse"], "postal_code": "57661", "lat": 45.198748, "lng": -100.85342, "type": "POBOX", "counties": [{"fips": "041", "name": "Dewey"}]});

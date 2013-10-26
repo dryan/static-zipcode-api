@@ -1,1 +1,1 @@
-{"lat": 34.793533, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Stratford", "lng": -96.97738, "zip_code": "74872"}
+{"locality": "Stratford", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Stratford"], "postal_code": "74872", "lat": 34.793533, "lng": -96.97738, "type": "STANDARD", "counties": [{"fips": "049", "name": "Garvin"}, {"fips": "123", "name": "Pontotoc"}, {"fips": "087", "name": "McClain"}]}

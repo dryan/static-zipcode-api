@@ -1,1 +1,1 @@
-{"lat": 33.521578, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tom Bean", "lng": -96.48373, "zip_code": "75489"}
+{"locality": "Tom Bean", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tom Bean"], "postal_code": "75489", "lat": 33.521578, "lng": -96.48373, "type": "POBOX", "counties": [{"fips": "181", "name": "Grayson"}]}

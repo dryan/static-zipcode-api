@@ -1,1 +1,1 @@
-{"lat": 47.468715, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Hilger", "lng": -109.35624, "zip_code": "59451"}
+{"locality": "Hilger", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Hilger"], "postal_code": "59451", "lat": 47.468715, "lng": -109.35624, "type": "STANDARD", "counties": [{"fips": "027", "name": "Fergus"}]}

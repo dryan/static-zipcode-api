@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.802568, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bradgate", "lng": -94.41955, "zip_code": "50520"});
+zipapicallback({"locality": "Bradgate", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bradgate"], "postal_code": "50520", "lat": 42.802568, "lng": -94.41955, "type": "STANDARD", "counties": [{"fips": "091", "name": "Humboldt"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.23753, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Marmet", "lng": -81.55661, "zip_code": "25315"}
+{"locality": "Charleston", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Charleston", "Chesapeake", "Marmet"], "postal_code": "25315", "lat": 38.23753, "lng": -81.55661, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]}

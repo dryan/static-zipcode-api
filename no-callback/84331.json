@@ -1,1 +1,1 @@
-{"lat": 41.909031, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Portage", "lng": -112.32322, "zip_code": "84331"}
+{"locality": "Portage", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Portage"], "postal_code": "84331", "lat": 41.909031, "lng": -112.32322, "type": "STANDARD", "counties": [{"fips": "003", "name": "Box Elder"}]}

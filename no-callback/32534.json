@@ -1,1 +1,1 @@
-{"lat": 30.526345, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pensacola", "lng": -87.27734, "zip_code": "32534"}
+{"locality": "Pensacola", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pensacola"], "postal_code": "32534", "lat": 30.526345, "lng": -87.27734, "type": "STANDARD", "counties": []}

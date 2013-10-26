@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.16127, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Waurika", "lng": -97.99784, "zip_code": "73573"});
+zipapicallback({"locality": "Waurika", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Sugden", "Waurika"], "postal_code": "73573", "lat": 34.16127, "lng": -97.99784, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jefferson"}, {"fips": "137", "name": "Stephens"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.489747, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saint David", "lng": -90.05501, "zip_code": "61563"}
+{"locality": "Saint David", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Saint David"], "postal_code": "61563", "lat": 40.489747, "lng": -90.05501, "type": "POBOX", "counties": [{"fips": "057", "name": "Fulton"}]}

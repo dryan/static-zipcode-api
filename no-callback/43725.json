@@ -1,1 +1,1 @@
-{"lat": 40.025859, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Claysville", "lng": -81.59243, "zip_code": "43725"}
+{"locality": "Cambridge", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cambridge", "Claysville"], "postal_code": "43725", "lat": 40.025859, "lng": -81.59243, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "159", "name": "Union"}]}

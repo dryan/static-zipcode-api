@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.190401, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hoytville", "lng": -83.78249, "zip_code": "43529"});
+zipapicallback({"locality": "Hoytville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hoytville"], "postal_code": "43529", "lat": 41.190401, "lng": -83.78249, "type": "POBOX", "counties": [{"fips": "173", "name": "Wood"}]});

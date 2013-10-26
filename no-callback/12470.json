@@ -1,1 +1,1 @@
-{"lat": 42.284773, "region": {"abbr": "NY", "name": "New York"}, "locality": "Purling", "lng": -74.02388, "zip_code": "12470"}
+{"locality": "Purling", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Purling"], "postal_code": "12470", "lat": 42.284773, "lng": -74.02388, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]}

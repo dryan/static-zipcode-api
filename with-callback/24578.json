@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.650711, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Natural Bridge", "lng": -79.55269, "zip_code": "24578"});
+zipapicallback({"locality": "Natural Bridge", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Natural Brg", "Natural Bridge"], "postal_code": "24578", "lat": 37.650711, "lng": -79.55269, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rockbridge"}]});

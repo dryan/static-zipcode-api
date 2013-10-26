@@ -1,1 +1,1 @@
-{"lat": 43.613686, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Conger", "lng": -93.53072, "zip_code": "56020"}
+{"locality": "Conger", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Conger"], "postal_code": "56020", "lat": 43.613686, "lng": -93.53072, "type": "POBOX", "counties": [{"fips": "047", "name": "Freeborn"}]}

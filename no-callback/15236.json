@@ -1,1 +1,1 @@
-{"lat": 40.342869, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Caste Village", "lng": -79.97929, "zip_code": "15236"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh", "Pleasant Hills", "Pleasant Hls", "West Mifflin"], "postal_code": "15236", "lat": 40.342869, "lng": -79.97929, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

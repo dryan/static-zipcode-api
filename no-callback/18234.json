@@ -1,1 +1,1 @@
-{"lat": 40.99303, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lattimer Mines", "lng": -75.96009, "zip_code": "18234"}
+{"locality": "Lattimer Mines", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lattimer Mines", "Lattimer Mnes"], "postal_code": "18234", "lat": 40.99303, "lng": -75.96009, "type": "POBOX", "counties": [{"fips": "079", "name": "Luzerne"}]}

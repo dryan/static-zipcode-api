@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.40476, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Anna", "lng": -84.19578, "zip_code": "45302"});
+zipapicallback({"locality": "Anna", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Anna"], "postal_code": "45302", "lat": 40.40476, "lng": -84.19578, "type": "STANDARD", "counties": [{"fips": "149", "name": "Shelby"}]});

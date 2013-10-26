@@ -1,1 +1,1 @@
-{"lat": 33.903164, "region": {"abbr": "CA", "name": "California"}, "locality": "Fullerton", "lng": -117.91224, "zip_code": "92835"}
+{"locality": "Fullerton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fullerton"], "postal_code": "92835", "lat": 33.903164, "lng": -117.91224, "type": "STANDARD", "counties": []}

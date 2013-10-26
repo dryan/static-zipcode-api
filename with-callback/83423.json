@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.164718, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Dubois", "lng": -112.34258, "zip_code": "83423"});
+zipapicallback({"locality": "Dubois", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Dubois"], "postal_code": "83423", "lat": 44.164718, "lng": -112.34258, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clark"}]});

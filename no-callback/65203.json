@@ -1,1 +1,1 @@
-{"lat": 38.925204, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Columbia", "lng": -92.36887, "zip_code": "65203"}
+{"locality": "Columbia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Columbia"], "postal_code": "65203", "lat": 38.925204, "lng": -92.36887, "type": "STANDARD", "counties": [{"fips": "019", "name": "Boone"}]}

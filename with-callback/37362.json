@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.043475, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Oldfort", "lng": -84.73957, "zip_code": "37362"});
+zipapicallback({"locality": "Old Fort", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Old Fort"], "postal_code": "37362", "lat": 35.043475, "lng": -84.73957, "type": "STANDARD", "counties": [{"fips": "139", "name": "Polk"}, {"fips": "011", "name": "Bradley"}]});

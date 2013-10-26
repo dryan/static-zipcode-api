@@ -1,1 +1,1 @@
-{"lat": 42.915904, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mechanicville", "lng": -73.70539, "zip_code": "12118"}
+{"locality": "Mechanicville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mechanicville"], "postal_code": "12118", "lat": 42.915904, "lng": -73.70539, "type": "STANDARD", "counties": [{"fips": "091", "name": "Saratoga"}]}

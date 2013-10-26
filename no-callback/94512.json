@@ -1,1 +1,1 @@
-{"lat": 38.159894, "region": {"abbr": "CA", "name": "California"}, "locality": "Birds Landing", "lng": -121.84195, "zip_code": "94512"}
+{"locality": "Birds Landing", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Birds Landing"], "postal_code": "94512", "lat": 38.159894, "lng": -121.84195, "type": "STANDARD", "counties": [{"fips": "095", "name": "Solano"}]}

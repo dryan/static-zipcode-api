@@ -1,1 +1,1 @@
-{"lat": 36.617181, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Middlesboro", "lng": -83.72186, "zip_code": "40965"}
+{"locality": "Middlesboro", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Middlesboro"], "postal_code": "40965", "lat": 36.617181, "lng": -83.72186, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bell"}]}

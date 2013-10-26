@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Concord", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Concord"], "postal_code": "03302", "type": "POBOX", "counties": [{"fips": "013", "name": "Merrimack"}, {"fips": "001", "name": "Belknap"}]});

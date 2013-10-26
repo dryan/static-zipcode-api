@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.844939, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Unity", "lng": -90.32891, "zip_code": "54488"});
+zipapicallback({"locality": "Unity", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Unity"], "postal_code": "54488", "lat": 44.844939, "lng": -90.32891, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}, {"fips": "019", "name": "Clark"}]});

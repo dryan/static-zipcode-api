@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.290615, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hillisburg", "lng": -86.5028, "zip_code": "46041"});
+zipapicallback({"locality": "Frankfort", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Frankfort", "Hillisburg"], "postal_code": "46041", "lat": 40.290615, "lng": -86.5028, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clinton"}, {"fips": "157", "name": "Tippecanoe"}, {"fips": "015", "name": "Carroll"}]});

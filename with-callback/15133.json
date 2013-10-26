@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.332502, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mc Keesport", "lng": -79.8646, "zip_code": "15133"});
+zipapicallback({"locality": "Mckeesport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mckeesport"], "postal_code": "15133", "lat": 40.332502, "lng": -79.8646, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

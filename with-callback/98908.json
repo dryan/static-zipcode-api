@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.605303, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Wide Hollow", "lng": -120.61762, "zip_code": "98908"});
+zipapicallback({"locality": "Yakima", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Yakima"], "postal_code": "98908", "lat": 46.605303, "lng": -120.61762, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]});

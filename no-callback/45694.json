@@ -1,1 +1,1 @@
-{"lat": 38.729816, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wheelersburg", "lng": -82.8004, "zip_code": "45694"}
+{"locality": "Wheelersburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wheelersburg"], "postal_code": "45694", "lat": 38.729816, "lng": -82.8004, "type": "STANDARD", "counties": [{"fips": "145", "name": "Scioto"}, {"fips": "087", "name": "Lawrence"}]}

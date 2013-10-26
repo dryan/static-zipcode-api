@@ -1,1 +1,1 @@
-{"lat": 39.04366, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Crownsville", "lng": -76.58805, "zip_code": "21032"}
+{"locality": "Crownsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Crownsville"], "postal_code": "21032", "lat": 39.04366, "lng": -76.58805, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

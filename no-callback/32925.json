@@ -1,1 +1,1 @@
-{"lat": 28.235092, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Patrick A F B", "lng": -80.60159, "zip_code": "32925"}
+{"locality": "Patrick Afb", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Canaveral Air Station", "Canaveral As", "Patrick Afb", "Patrick Air Force Base"], "postal_code": "32925", "lat": 28.235092, "lng": -80.60159, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]}

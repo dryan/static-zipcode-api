@@ -1,1 +1,1 @@
-{"lat": 41.22091, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mead", "lng": -96.47719, "zip_code": "68041"}
+{"locality": "Mead", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mead"], "postal_code": "68041", "lat": 41.22091, "lng": -96.47719, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.71345, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Griggsville", "lng": -90.72045, "zip_code": "62340"});
+zipapicallback({"locality": "Griggsville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Griggsville"], "postal_code": "62340", "lat": 39.71345, "lng": -90.72045, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pike"}]});

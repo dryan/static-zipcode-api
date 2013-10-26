@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.664307, "region": {"abbr": "CA", "name": "California"}, "locality": "Campo", "lng": -116.46513, "zip_code": "91906"});
+zipapicallback({"locality": "Campo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Campo"], "postal_code": "91906", "lat": 32.664307, "lng": -116.46513, "type": "STANDARD", "counties": []});

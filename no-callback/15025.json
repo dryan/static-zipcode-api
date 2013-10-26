@@ -1,1 +1,1 @@
-{"lat": 40.292974, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Large", "lng": -79.90179, "zip_code": "15025"}
+{"locality": "Clairton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clairton", "Floreffe", "Jefferson Hills", "Jefferson Hls", "Large"], "postal_code": "15025", "lat": 40.292974, "lng": -79.90179, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.923365, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Angeles", "lng": -118.27591, "zip_code": "90061"}
+{"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["August F. Haw", "Los Angeles"], "postal_code": "90061", "lat": 33.923365, "lng": -118.27591, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

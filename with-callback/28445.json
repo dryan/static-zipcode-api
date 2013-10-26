@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.47722, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Surf City", "lng": -77.55978, "zip_code": "28445"});
+zipapicallback({"locality": "Holly Ridge", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Holly Ridge", "Surf City", "Topsail Beach"], "postal_code": "28445", "lat": 34.47722, "lng": -77.55978, "type": "STANDARD", "counties": [{"fips": "133", "name": "Onslow"}]});

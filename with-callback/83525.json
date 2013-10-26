@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.920694, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Dixie", "lng": -115.25273, "zip_code": "83525"});
+zipapicallback({"locality": "Elk City", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Dixie", "Elk City"], "postal_code": "83525", "lat": 45.920694, "lng": -115.25273, "type": "STANDARD", "counties": [{"fips": "049", "name": "Idaho"}]});

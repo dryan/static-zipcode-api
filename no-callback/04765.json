@@ -1,1 +1,1 @@
-{"lat": 46.024219, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Patten", "lng": -68.49241, "zip_code": "04765"}
+{"locality": "Patten", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Mount Chase", "Patten"], "postal_code": "04765", "lat": 46.024219, "lng": -68.49241, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "003", "name": "Aroostook"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.232344, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Glenwood", "lng": -74.48688, "zip_code": "07418"}
+{"locality": "Glenwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Glenwood"], "postal_code": "07418", "lat": 41.232344, "lng": -74.48688, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}]}

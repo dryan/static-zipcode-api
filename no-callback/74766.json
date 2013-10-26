@@ -1,1 +1,1 @@
-{"lat": 34.148691, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wright City", "lng": -94.95546, "zip_code": "74766"}
+{"locality": "Wright City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wright City"], "postal_code": "74766", "lat": 34.148691, "lng": -94.95546, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.339304, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kendall", "lng": -78.02581, "zip_code": "14476"}
+{"locality": "Kendall", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kendall"], "postal_code": "14476", "lat": 43.339304, "lng": -78.02581, "type": "STANDARD", "counties": [{"fips": "073", "name": "Orleans"}, {"fips": "055", "name": "Monroe"}]}

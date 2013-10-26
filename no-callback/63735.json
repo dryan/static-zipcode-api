@@ -1,1 +1,1 @@
-{"lat": 36.992718, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bell City", "lng": -89.78369, "zip_code": "63735"}
+{"locality": "Bell City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bell City"], "postal_code": "63735", "lat": 36.992718, "lng": -89.78369, "type": "STANDARD", "counties": [{"fips": "207", "name": "Stoddard"}, {"fips": "201", "name": "Scott"}]}

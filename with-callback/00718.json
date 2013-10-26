@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.22048, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Naguabo", "lng": -65.74293, "zip_code": "00718"});
+zipapicallback({"locality": "Naguabo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Naguabo"], "postal_code": "00718", "lat": 18.22048, "lng": -65.74293, "type": "STANDARD", "counties": [{"fips": "103", "name": "Naguabo"}]});

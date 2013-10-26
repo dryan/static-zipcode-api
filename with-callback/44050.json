@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.259352, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lagrange", "lng": -82.13542, "zip_code": "44050"});
+zipapicallback({"locality": "Lagrange", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lagrange"], "postal_code": "44050", "lat": 41.259352, "lng": -82.13542, "type": "STANDARD", "counties": [{"fips": "093", "name": "Lorain"}]});

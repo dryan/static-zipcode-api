@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.707588, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Amboy", "lng": -89.34371, "zip_code": "61310"});
+zipapicallback({"locality": "Amboy", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Amboy"], "postal_code": "61310", "lat": 41.707588, "lng": -89.34371, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lee"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.484741, "region": {"abbr": "NY", "name": "New York"}, "locality": "Athol", "lng": -73.89151, "zip_code": "12810"}
+{"locality": "Athol", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Athol"], "postal_code": "12810", "lat": 43.484741, "lng": -73.89151, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.029613, "region": {"abbr": "CA", "name": "California"}, "locality": "Dos Palos", "lng": -120.64014, "zip_code": "93620"}
+{"locality": "Dos Palos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dos Palos"], "postal_code": "93620", "lat": 37.029613, "lng": -120.64014, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}, {"fips": "019", "name": "Fresno"}]}

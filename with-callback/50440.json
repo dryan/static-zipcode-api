@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.329416, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Grafton", "lng": -93.07297, "zip_code": "50440"});
+zipapicallback({"locality": "Grafton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Grafton"], "postal_code": "50440", "lat": 43.329416, "lng": -93.07297, "type": "STANDARD", "counties": [{"fips": "195", "name": "Worth"}]});

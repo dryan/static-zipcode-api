@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.626188, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Murray", "lng": -115.83204, "zip_code": "83874"});
+zipapicallback({"locality": "Murray", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Murray", "Wallace"], "postal_code": "83874", "lat": 47.626188, "lng": -115.83204, "type": "POBOX", "counties": [{"fips": "079", "name": "Shoshone"}]});

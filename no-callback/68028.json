@@ -1,1 +1,1 @@
-{"lat": 41.118694, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gretna", "lng": -96.25535, "zip_code": "68028"}
+{"locality": "Gretna", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gretna"], "postal_code": "68028", "lat": 41.118694, "lng": -96.25535, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sarpy"}]}

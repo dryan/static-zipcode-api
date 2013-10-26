@@ -1,1 +1,1 @@
-{"lat": 40.22004, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Cumberland", "lng": -76.86849, "zip_code": "17070"}
+{"locality": "New Cumberland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Cumberland", "New Cumberlnd"], "postal_code": "17070", "lat": 40.22004, "lng": -76.86849, "type": "STANDARD", "counties": [{"fips": "041", "name": "Cumberland"}, {"fips": "133", "name": "York"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.477639, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Buncombe", "lng": -89.02992, "zip_code": "62912"});
+zipapicallback({"locality": "Buncombe", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Buncombe"], "postal_code": "62912", "lat": 37.477639, "lng": -89.02992, "type": "STANDARD", "counties": [{"fips": "087", "name": "Johnson"}, {"fips": "181", "name": "Union"}]});

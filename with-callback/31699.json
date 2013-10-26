@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.965263, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Moody Afb", "lng": -83.19316, "zip_code": "31699"});
+zipapicallback({"locality": "Moody A F B", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Moody A F B", "Moody Afb"], "postal_code": "31699", "lat": 30.965263, "lng": -83.19316, "type": "UNIQUE", "counties": [{"fips": "185", "name": "Lowndes"}]});

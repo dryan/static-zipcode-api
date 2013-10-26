@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.113271, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Carnegie", "lng": -98.58643, "zip_code": "73015"});
+zipapicallback({"locality": "Carnegie", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Carnegie"], "postal_code": "73015", "lat": 35.113271, "lng": -98.58643, "type": "STANDARD", "counties": [{"fips": "015", "name": "Caddo"}, {"fips": "075", "name": "Kiowa"}, {"fips": "149", "name": "Washita"}]});

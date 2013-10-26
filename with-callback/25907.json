@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.855763, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Prince", "lng": -81.06673, "zip_code": "25907"});
+zipapicallback({"locality": "Prince", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Prince"], "postal_code": "25907", "lat": 37.855763, "lng": -81.06673, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]});

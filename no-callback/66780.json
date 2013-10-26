@@ -1,1 +1,1 @@
-{"lat": 37.603419, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Walnut", "lng": -95.06279, "zip_code": "66780"}
+{"locality": "Walnut", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Walnut"], "postal_code": "66780", "lat": 37.603419, "lng": -95.06279, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bourbon"}, {"fips": "133", "name": "Neosho"}, {"fips": "037", "name": "Crawford"}]}

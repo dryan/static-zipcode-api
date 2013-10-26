@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.808884, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wentzville", "lng": -90.85922, "zip_code": "63385"});
+zipapicallback({"locality": "Wentzville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wentzville"], "postal_code": "63385", "lat": 38.808884, "lng": -90.85922, "type": "STANDARD", "counties": [{"fips": "183", "name": "St Charles"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.029022, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Coalfield", "lng": -84.42541, "zip_code": "37719"}
+{"locality": "Coalfield", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Coalfield"], "postal_code": "37719", "lat": 36.029022, "lng": -84.42541, "type": "POBOX", "counties": [{"fips": "129", "name": "Morgan"}]}

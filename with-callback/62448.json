@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.974018, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Newton", "lng": -88.17881, "zip_code": "62448"});
+zipapicallback({"locality": "Newton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Newton"], "postal_code": "62448", "lat": 38.974018, "lng": -88.17881, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jasper"}, {"fips": "159", "name": "Richland"}, {"fips": "025", "name": "Clay"}]});

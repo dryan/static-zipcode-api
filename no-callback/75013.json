@@ -1,1 +1,1 @@
-{"lat": 33.106582, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Allen", "lng": -96.69402, "zip_code": "75013"}
+{"locality": "Allen", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Allen"], "postal_code": "75013", "lat": 33.106582, "lng": -96.69402, "type": "STANDARD", "counties": []}

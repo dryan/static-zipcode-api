@@ -1,1 +1,1 @@
-{"lat": 40.728614, "region": {"abbr": "NY", "name": "New York"}, "locality": "Flushing", "lng": -73.82145, "zip_code": "11367"}
+{"locality": "Flushing", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Flushing", "Kew Garden Hl", "Kew Gardens Hills"], "postal_code": "11367", "lat": 40.728614, "lng": -73.82145, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

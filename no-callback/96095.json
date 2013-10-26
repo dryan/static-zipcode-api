@@ -1,1 +1,1 @@
-{"lat": 40.607134, "region": {"abbr": "CA", "name": "California"}, "locality": "Whiskeytown", "lng": -122.54626, "zip_code": "96095"}
+{"locality": "Whiskeytown", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Whiskeytown"], "postal_code": "96095", "lat": 40.607134, "lng": -122.54626, "type": "POBOX", "counties": [{"fips": "089", "name": "Shasta"}]}

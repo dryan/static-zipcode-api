@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.157958, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Harmans", "lng": -76.69854, "zip_code": "21077"});
+zipapicallback({"locality": "Harmans", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Harmans"], "postal_code": "21077", "lat": 39.157958, "lng": -76.69854, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

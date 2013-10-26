@@ -1,1 +1,1 @@
-{"lat": 30.002501, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kendalia", "lng": -98.57124, "zip_code": "78027"}
+{"locality": "Kendalia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kendalia"], "postal_code": "78027", "lat": 30.002501, "lng": -98.57124, "type": "STANDARD", "counties": [{"fips": "259", "name": "Kendall"}]}

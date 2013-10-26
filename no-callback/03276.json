@@ -1,1 +1,1 @@
-{"lat": 43.446729, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Tilton", "lng": -71.5785, "zip_code": "03276"}
+{"locality": "Tilton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Northfield", "Tilton"], "postal_code": "03276", "lat": 43.446729, "lng": -71.5785, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}, {"fips": "013", "name": "Merrimack"}]}

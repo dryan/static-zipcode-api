@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.080971, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Shelby", "lng": -86.53875, "zip_code": "35143"});
+zipapicallback({"locality": "Shelby", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Shelby"], "postal_code": "35143", "lat": 33.080971, "lng": -86.53875, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.145475, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bannister", "lng": -84.41579, "zip_code": "48807"}
+{"locality": "Bannister", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bannister"], "postal_code": "48807", "lat": 43.145475, "lng": -84.41579, "type": "STANDARD", "counties": [{"fips": "057", "name": "Gratiot"}, {"fips": "145", "name": "Saginaw"}]}

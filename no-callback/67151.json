@@ -1,1 +1,1 @@
-{"lat": 38.13467, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Walton", "lng": -97.25509, "zip_code": "67151"}
+{"locality": "Walton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Walton"], "postal_code": "67151", "lat": 38.13467, "lng": -97.25509, "type": "STANDARD", "counties": [{"fips": "079", "name": "Harvey"}, {"fips": "115", "name": "Marion"}]}

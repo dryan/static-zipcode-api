@@ -1,1 +1,1 @@
-{"lat": 38.941953, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Independence", "lng": -84.54902, "zip_code": "41051"}
+{"locality": "Independence", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Independence"], "postal_code": "41051", "lat": 38.941953, "lng": -84.54902, "type": "STANDARD", "counties": [{"fips": "117", "name": "Kenton"}]}

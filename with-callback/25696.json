@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.669222, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Varney", "lng": -82.12599, "zip_code": "25696"});
+zipapicallback({"locality": "Varney", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Varney"], "postal_code": "25696", "lat": 37.669222, "lng": -82.12599, "type": "POBOX", "counties": [{"fips": "059", "name": "Mingo"}]});

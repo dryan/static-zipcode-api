@@ -1,1 +1,1 @@
-{"lat": 35.146004, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lake Toxaway", "lng": -82.92258, "zip_code": "28747"}
+{"locality": "Lake Toxaway", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lake Toxaway"], "postal_code": "28747", "lat": 35.146004, "lng": -82.92258, "type": "STANDARD", "counties": [{"fips": "175", "name": "Transylvania"}]}

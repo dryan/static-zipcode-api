@@ -1,1 +1,1 @@
-{"lat": 43.748816, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Linwood", "lng": -84.01217, "zip_code": "48634"}
+{"locality": "Linwood", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Linwood"], "postal_code": "48634", "lat": 43.748816, "lng": -84.01217, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}]}

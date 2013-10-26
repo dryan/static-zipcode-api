@@ -1,1 +1,1 @@
-{"lat": 37.863118, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Dingess", "lng": -82.21671, "zip_code": "25671"}
+{"locality": "Dingess", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Dingess"], "postal_code": "25671", "lat": 37.863118, "lng": -82.21671, "type": "STANDARD", "counties": [{"fips": "059", "name": "Mingo"}]}

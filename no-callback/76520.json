@@ -1,1 +1,1 @@
-{"lat": 30.851922, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cameron", "lng": -96.96323, "zip_code": "76520"}
+{"locality": "Cameron", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cameron", "Maysfield"], "postal_code": "76520", "lat": 30.851922, "lng": -96.96323, "type": "STANDARD", "counties": [{"fips": "331", "name": "Milam"}]}

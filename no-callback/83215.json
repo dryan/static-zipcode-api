@@ -1,1 +1,1 @@
-{"lat": 43.442618, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Atomic City", "lng": -112.81316, "zip_code": "83215"}
+{"locality": "Atomic City", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Atomic City"], "postal_code": "83215", "lat": 43.442618, "lng": -112.81316, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bingham"}]}

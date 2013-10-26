@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.667752, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Flora", "lng": -88.48855, "zip_code": "62839"});
+zipapicallback({"locality": "Flora", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Flora"], "postal_code": "62839", "lat": 38.667752, "lng": -88.48855, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clay"}, {"fips": "191", "name": "Wayne"}]});

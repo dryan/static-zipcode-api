@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.554559, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Poplar Grove", "lng": -90.84231, "zip_code": "72374"});
+zipapicallback({"locality": "Poplar Grove", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Poplar Grove"], "postal_code": "72374", "lat": 34.554559, "lng": -90.84231, "type": "STANDARD", "counties": [{"fips": "107", "name": "Phillips"}]});

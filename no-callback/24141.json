@@ -1,1 +1,1 @@
-{"lat": 37.11979, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fairlawn", "lng": -80.57325, "zip_code": "24141"}
+{"locality": "Radford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fairlawn", "Radford"], "postal_code": "24141", "lat": 37.11979, "lng": -80.57325, "type": "STANDARD", "counties": [{"fips": "063", "name": "Floyd"}, {"fips": "155", "name": "Pulaski"}, {"fips": "121", "name": "Montgomery"}]}

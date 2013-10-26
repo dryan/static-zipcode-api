@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.910198, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Marysville", "lng": -82.47973, "zip_code": "48040"});
+zipapicallback({"locality": "Marysville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Marysville"], "postal_code": "48040", "lat": 42.910198, "lng": -82.47973, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]});

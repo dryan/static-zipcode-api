@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.803646, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bridgeport", "lng": -75.34421, "zip_code": "08014"});
+zipapicallback({"locality": "Bridgeport", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bridgeport"], "postal_code": "08014", "lat": 39.803646, "lng": -75.34421, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]});

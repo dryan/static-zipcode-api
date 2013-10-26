@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.0739, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Algona", "lng": -94.22602, "zip_code": "50511"});
+zipapicallback({"locality": "Algona", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Algona"], "postal_code": "50511", "lat": 43.0739, "lng": -94.22602, "type": "STANDARD", "counties": [{"fips": "109", "name": "Kossuth"}]});

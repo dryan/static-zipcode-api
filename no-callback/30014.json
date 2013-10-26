@@ -1,1 +1,1 @@
-{"lat": 33.581406, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Covington", "lng": -83.851, "zip_code": "30014"}
+{"locality": "Covington", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Covington", "Porterdale"], "postal_code": "30014", "lat": 33.581406, "lng": -83.851, "type": "STANDARD", "counties": []}

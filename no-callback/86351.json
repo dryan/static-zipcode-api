@@ -1,1 +1,1 @@
-{"lat": 34.782453, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sedona", "lng": -111.76764, "zip_code": "86351"}
+{"locality": "Sedona", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sedona"], "postal_code": "86351", "lat": 34.782453, "lng": -111.76764, "type": "STANDARD", "counties": []}

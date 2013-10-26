@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.041882, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Lebanon", "lng": -99.76851, "zip_code": "57455"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Lebanon"], "postal_code": "57455", "lat": 45.041882, "lng": -99.76851, "type": "STANDARD", "counties": [{"fips": "107", "name": "Potter"}]});

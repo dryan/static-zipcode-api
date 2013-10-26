@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.626821, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Excello", "lng": -92.4927, "zip_code": "65247"});
+zipapicallback({"locality": "Excello", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Excello"], "postal_code": "65247", "lat": 39.626821, "lng": -92.4927, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}]});

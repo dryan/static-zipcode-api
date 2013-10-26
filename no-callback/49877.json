@@ -1,1 +1,1 @@
-{"lat": 46.108829, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ralph", "lng": -87.78294, "zip_code": "49877"}
+{"locality": "Ralph", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Felch", "Ralph"], "postal_code": "49877", "lat": 46.108829, "lng": -87.78294, "type": "POBOX", "counties": [{"fips": "043", "name": "Dickinson"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.429334, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Kiln", "lng": -89.43471, "zip_code": "39556"}
+{"locality": "Kiln", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Kiln"], "postal_code": "39556", "lat": 30.429334, "lng": -89.43471, "type": "STANDARD", "counties": [{"fips": "045", "name": "Hancock"}]}

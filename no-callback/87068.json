@@ -1,1 +1,1 @@
-{"lat": 34.864034, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Bosque Farms", "lng": -106.6895, "zip_code": "87068"}
+{"locality": "Bosque Farms", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bosque Farms", "Peralta"], "postal_code": "87068", "lat": 34.864034, "lng": -106.6895, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bernalillo"}, {"fips": "061", "name": "Valencia"}]}

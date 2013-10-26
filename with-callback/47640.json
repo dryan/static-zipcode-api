@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.484278, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hazleton", "lng": -87.5039, "zip_code": "47640"});
+zipapicallback({"locality": "Hazleton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hazleton"], "postal_code": "47640", "lat": 38.484278, "lng": -87.5039, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]});

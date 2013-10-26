@@ -1,1 +1,1 @@
-{"lat": 48.15381, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Glasgow", "lng": -106.69558, "zip_code": "59230"}
+{"locality": "Glasgow", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Glasgow", "Saint Marie"], "postal_code": "59230", "lat": 48.15381, "lng": -106.69558, "type": "STANDARD", "counties": [{"fips": "105", "name": "Valley"}]}

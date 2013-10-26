@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.771195, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Glendale", "lng": -123.38578, "zip_code": "97442"});
+zipapicallback({"locality": "Glendale", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Glendale"], "postal_code": "97442", "lat": 42.771195, "lng": -123.38578, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]});

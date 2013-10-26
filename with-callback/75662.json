@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.387151, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kilgore", "lng": -94.87439, "zip_code": "75662"});
+zipapicallback({"locality": "Kilgore", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kilgore"], "postal_code": "75662", "lat": 32.387151, "lng": -94.87439, "type": "STANDARD", "counties": [{"fips": "183", "name": "Gregg"}, {"fips": "401", "name": "Rusk"}]});

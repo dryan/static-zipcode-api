@@ -1,1 +1,1 @@
-{"lat": 35.157403, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Amarillo", "lng": -101.86114, "zip_code": "79110"}
+{"locality": "Amarillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Amarillo"], "postal_code": "79110", "lat": 35.157403, "lng": -101.86114, "type": "STANDARD", "counties": [{"fips": "381", "name": "Randall"}]}

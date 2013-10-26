@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.162873, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dysart", "lng": -92.30485, "zip_code": "52224"});
+zipapicallback({"locality": "Dysart", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dysart"], "postal_code": "52224", "lat": 42.162873, "lng": -92.30485, "type": "STANDARD", "counties": [{"fips": "171", "name": "Tama"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.844465, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Franklinton", "lng": -90.12066, "zip_code": "70438"}
+{"locality": "Franklinton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Franklinton", "Sheridan"], "postal_code": "70438", "lat": 30.844465, "lng": -90.12066, "type": "STANDARD", "counties": [{"fips": "117", "name": "Washington"}]}

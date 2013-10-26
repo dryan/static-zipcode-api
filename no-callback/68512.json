@@ -1,1 +1,1 @@
-{"lat": 40.7448, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lincoln", "lng": -96.69574, "zip_code": "68512"}
+{"locality": "Lincoln", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lincoln"], "postal_code": "68512", "lat": 40.7448, "lng": -96.69574, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}]}

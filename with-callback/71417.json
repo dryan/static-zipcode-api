@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.5254, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Colfax", "lng": -92.6815, "zip_code": "71417"});
+zipapicallback({"locality": "Colfax", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Colfax"], "postal_code": "71417", "lat": 31.5254, "lng": -92.6815, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}]});

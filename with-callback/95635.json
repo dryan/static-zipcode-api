@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.919588, "region": {"abbr": "CA", "name": "California"}, "locality": "Greenwood", "lng": -120.90406, "zip_code": "95635"});
+zipapicallback({"locality": "Greenwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Greenwood"], "postal_code": "95635", "lat": 38.919588, "lng": -120.90406, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]});

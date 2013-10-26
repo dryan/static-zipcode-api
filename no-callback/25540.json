@@ -1,1 +1,1 @@
-{"lat": 38.159971, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Midkiff", "lng": -82.12506, "zip_code": "25540"}
+{"locality": "Midkiff", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Midkiff"], "postal_code": "25540", "lat": 38.159971, "lng": -82.12506, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}]}

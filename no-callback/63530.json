@@ -1,1 +1,1 @@
-{"lat": 39.911723, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Atlanta", "lng": -92.46408, "zip_code": "63530"}
+{"locality": "Atlanta", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Atlanta"], "postal_code": "63530", "lat": 39.911723, "lng": -92.46408, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}, {"fips": "103", "name": "Knox"}]}

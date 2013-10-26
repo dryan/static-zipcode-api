@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.571329, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Olustee", "lng": -99.45164, "zip_code": "73560"});
+zipapicallback({"locality": "Olustee", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Olustee"], "postal_code": "73560", "lat": 34.571329, "lng": -99.45164, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jackson"}]});

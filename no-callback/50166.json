@@ -1,1 +1,1 @@
-{"lat": 41.283703, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Milo", "lng": -93.41399, "zip_code": "50166"}
+{"locality": "Milo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Milo"], "postal_code": "50166", "lat": 41.283703, "lng": -93.41399, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}]}

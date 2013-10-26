@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.932303, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lawrence", "lng": -95.22513, "zip_code": "66046"});
+zipapicallback({"locality": "Lawrence", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lawrence"], "postal_code": "66046", "lat": 38.932303, "lng": -95.22513, "type": "STANDARD", "counties": [{"fips": "045", "name": "Douglas"}]});

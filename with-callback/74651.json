@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.473704, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Red Rock", "lng": -97.20505, "zip_code": "74651"});
+zipapicallback({"locality": "Red Rock", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Red Rock"], "postal_code": "74651", "lat": 36.473704, "lng": -97.20505, "type": "STANDARD", "counties": [{"fips": "103", "name": "Noble"}, {"fips": "117", "name": "Pawnee"}]});

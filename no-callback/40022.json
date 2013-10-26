@@ -1,1 +1,1 @@
-{"lat": 38.147801, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Finchville", "lng": -85.33158, "zip_code": "40022"}
+{"locality": "Finchville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Finchville"], "postal_code": "40022", "lat": 38.147801, "lng": -85.33158, "type": "STANDARD", "counties": [{"fips": "211", "name": "Shelby"}]}

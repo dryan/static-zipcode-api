@@ -1,1 +1,1 @@
-{"lat": 31.963299, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Calvin", "lng": -92.77985, "zip_code": "71410"}
+{"locality": "Calvin", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Calvin"], "postal_code": "71410", "lat": 31.963299, "lng": -92.77985, "type": "POBOX", "counties": [{"fips": "127", "name": "Winn"}]}

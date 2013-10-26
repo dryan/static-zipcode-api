@@ -1,1 +1,1 @@
-{"lat": 40.526542, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Revere", "lng": -91.68075, "zip_code": "63465"}
+{"locality": "Revere", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Revere"], "postal_code": "63465", "lat": 40.526542, "lng": -91.68075, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.019883, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wesley", "lng": -93.8651, "zip_code": "72773"});
+zipapicallback({"locality": "Wesley", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wesley"], "postal_code": "72773", "lat": 36.019883, "lng": -93.8651, "type": "STANDARD", "counties": [{"fips": "087", "name": "Madison"}]});

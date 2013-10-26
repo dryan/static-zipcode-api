@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.662482, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Weidman", "lng": -84.98244, "zip_code": "48893"});
+zipapicallback({"locality": "Weidman", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lake Isabella", "Weidman"], "postal_code": "48893", "lat": 43.662482, "lng": -84.98244, "type": "STANDARD", "counties": [{"fips": "073", "name": "Isabella"}]});

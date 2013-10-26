@@ -1,1 +1,1 @@
-{"lat": 42.609887, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Groton", "lng": -71.55722, "zip_code": "01450"}
+{"locality": "Groton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Groton"], "postal_code": "01450", "lat": 42.609887, "lng": -71.55722, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]}

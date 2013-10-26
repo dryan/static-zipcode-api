@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.835376, "region": {"abbr": "NY", "name": "New York"}, "locality": "Schroon Lake", "lng": -73.75802, "zip_code": "12870"});
+zipapicallback({"locality": "Schroon Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Schroon Lake"], "postal_code": "12870", "lat": 43.835376, "lng": -73.75802, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}, {"fips": "113", "name": "Warren"}]});

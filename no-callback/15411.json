@@ -1,1 +1,1 @@
-{"lat": 39.751296, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Addison", "lng": -79.35113, "zip_code": "15411"}
+{"locality": "Addison", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Addison"], "postal_code": "15411", "lat": 39.751296, "lng": -79.35113, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}]}

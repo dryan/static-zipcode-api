@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.186824, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mount Vernon", "lng": -82.59171, "zip_code": "30445"});
+zipapicallback({"locality": "Mount Vernon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mount Vernon"], "postal_code": "30445", "lat": 32.186824, "lng": -82.59171, "type": "STANDARD", "counties": [{"fips": "209", "name": "Montgomery"}]});

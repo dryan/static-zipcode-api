@@ -1,1 +1,1 @@
-{"lat": 47.227436, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Malden", "lng": -117.47364, "zip_code": "99149"}
+{"locality": "Malden", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Malden"], "postal_code": "99149", "lat": 47.227436, "lng": -117.47364, "type": "POBOX", "counties": [{"fips": "075", "name": "Whitman"}]}

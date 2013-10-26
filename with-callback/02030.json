@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.23888, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Dover", "lng": -71.28241, "zip_code": "02030"});
+zipapicallback({"locality": "Dover", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Dover"], "postal_code": "02030", "lat": 42.23888, "lng": -71.28241, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.208144, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Corydon", "lng": -86.12978, "zip_code": "47112"});
+zipapicallback({"locality": "Corydon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Corydon"], "postal_code": "47112", "lat": 38.208144, "lng": -86.12978, "type": "STANDARD", "counties": [{"fips": "061", "name": "Harrison"}, {"fips": "025", "name": "Crawford"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.765031, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Guttenberg", "lng": -91.11376, "zip_code": "52052"}
+{"locality": "Guttenberg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Guttenberg"], "postal_code": "52052", "lat": 42.765031, "lng": -91.11376, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clayton"}, {"fips": "061", "name": "Dubuque"}]}

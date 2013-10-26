@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.577778, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Glasford", "lng": -89.8297, "zip_code": "61533"});
+zipapicallback({"locality": "Glasford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Glasford"], "postal_code": "61533", "lat": 40.577778, "lng": -89.8297, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}, {"fips": "057", "name": "Fulton"}]});

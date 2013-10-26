@@ -1,1 +1,1 @@
-{"lat": 37.645397, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Nimitz", "lng": -80.92422, "zip_code": "25978"}
+{"locality": "Nimitz", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Nimitz"], "postal_code": "25978", "lat": 37.645397, "lng": -80.92422, "type": "STANDARD", "counties": [{"fips": "089", "name": "Summers"}]}

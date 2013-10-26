@@ -1,1 +1,1 @@
-{"lat": 41.890872, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Jackpot", "lng": -114.44545, "zip_code": "89825"}
+{"locality": "Jackpot", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Jackpot"], "postal_code": "89825", "lat": 41.890872, "lng": -114.44545, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]}

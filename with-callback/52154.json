@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.1101, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lawler", "lng": -92.15576, "zip_code": "52154"});
+zipapicallback({"locality": "Lawler", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lawler"], "postal_code": "52154", "lat": 43.1101, "lng": -92.15576, "type": "STANDARD", "counties": [{"fips": "037", "name": "Chickasaw"}]});

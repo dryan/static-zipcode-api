@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.535139, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Larose", "lng": -90.44546, "zip_code": "70373"});
+zipapicallback({"locality": "Larose", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Larose"], "postal_code": "70373", "lat": 29.535139, "lng": -90.44546, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]});

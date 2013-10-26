@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.671046, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "South Fork", "lng": -106.63177, "zip_code": "81154"});
+zipapicallback({"locality": "South Fork", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["South Fork"], "postal_code": "81154", "lat": 37.671046, "lng": -106.63177, "type": "STANDARD", "counties": [{"fips": "105", "name": "Rio Grande"}]});

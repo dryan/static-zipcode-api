@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.44429, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Moose Lake", "lng": -92.7699, "zip_code": "55767"});
+zipapicallback({"locality": "Moose Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Moose Lake"], "postal_code": "55767", "lat": 46.44429, "lng": -92.7699, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carlton"}, {"fips": "115", "name": "Pine"}]});

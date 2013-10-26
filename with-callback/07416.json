@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.11736, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Franklin", "lng": -74.58784, "zip_code": "07416"});
+zipapicallback({"locality": "Franklin", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Franklin"], "postal_code": "07416", "lat": 41.11736, "lng": -74.58784, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}]});

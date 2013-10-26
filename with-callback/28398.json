@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.993016, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bowdens", "lng": -78.08407, "zip_code": "28398"});
+zipapicallback({"locality": "Warsaw", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bowdens", "Warsaw"], "postal_code": "28398", "lat": 34.993016, "lng": -78.08407, "type": "STANDARD", "counties": [{"fips": "061", "name": "Duplin"}]});

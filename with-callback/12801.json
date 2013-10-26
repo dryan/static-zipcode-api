@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.312104, "region": {"abbr": "NY", "name": "New York"}, "locality": "Queensbury", "lng": -73.64825, "zip_code": "12801"});
+zipapicallback({"locality": "Glens Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glens Falls", "Queensbury"], "postal_code": "12801", "lat": 43.312104, "lng": -73.64825, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}, {"fips": "115", "name": "Washington"}]});

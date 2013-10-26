@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.079169, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Roscoe", "lng": -79.86448, "zip_code": "15477"});
+zipapicallback({"locality": "Roscoe", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Roscoe"], "postal_code": "15477", "lat": 40.079169, "lng": -79.86448, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]});

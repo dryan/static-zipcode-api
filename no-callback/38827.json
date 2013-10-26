@@ -1,1 +1,1 @@
-{"lat": 34.513163, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Belmont", "lng": -88.2092, "zip_code": "38827"}
+{"locality": "Belmont", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Belmont"], "postal_code": "38827", "lat": 34.513163, "lng": -88.2092, "type": "STANDARD", "counties": [{"fips": "141", "name": "Tishomingo"}, {"fips": "059", "name": "Jackson"}, {"fips": "057", "name": "Itawamba"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.07814, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Stephens City", "lng": -78.20713, "zip_code": "22655"});
+zipapicallback({"locality": "Stephens City", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Stephens City"], "postal_code": "22655", "lat": 39.07814, "lng": -78.20713, "type": "STANDARD", "counties": [{"fips": "069", "name": "Frederick"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.662797, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Holladay", "lng": -111.83797, "zip_code": "84117"}
+{"locality": "Salt Lake City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Holladay", "Holladay Cottonwood", "Holladay Ctwd", "Millcreek", "Salt Lake City", "Salt Lake Cty", "Slc"], "postal_code": "84117", "lat": 40.662797, "lng": -111.83797, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

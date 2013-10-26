@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.97861, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "French Village", "lng": -90.34637, "zip_code": "63036"});
+zipapicallback({"locality": "French Village", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["French Village", "French Vlg"], "postal_code": "63036", "lat": 37.97861, "lng": -90.34637, "type": "STANDARD", "counties": [{"fips": "187", "name": "St Francois"}]});

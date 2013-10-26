@@ -1,1 +1,1 @@
-{"lat": 27.874324, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Petersburg", "lng": -82.64515, "zip_code": "33716"}
+{"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Petersburg", "St Petersburg"], "postal_code": "33716", "lat": 27.874324, "lng": -82.64515, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

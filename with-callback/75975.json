@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.903614, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Timpson", "lng": -94.40775, "zip_code": "75975"});
+zipapicallback({"locality": "Timpson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Timpson"], "postal_code": "75975", "lat": 31.903614, "lng": -94.40775, "type": "STANDARD", "counties": [{"fips": "419", "name": "Shelby"}]});

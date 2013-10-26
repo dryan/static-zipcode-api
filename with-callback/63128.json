@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.500734, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sappington", "lng": -90.37113, "zip_code": "63128"});
+zipapicallback({"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Louis", "Sappington"], "postal_code": "63128", "lat": 38.500734, "lng": -90.37113, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.961002, "region": {"abbr": "NY", "name": "New York"}, "locality": "Millerton", "lng": -73.52011, "zip_code": "12546"});
+zipapicallback({"locality": "Millerton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Millerton"], "postal_code": "12546", "lat": 41.961002, "lng": -73.52011, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}, {"fips": "021", "name": "Columbia"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.605605, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Stoutsville", "lng": -82.82656, "zip_code": "43154"}
+{"locality": "Stoutsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Stoutsville"], "postal_code": "43154", "lat": 39.605605, "lng": -82.82656, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fairfield"}, {"fips": "129", "name": "Pickaway"}]}

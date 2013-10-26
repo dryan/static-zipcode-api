@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.185698, "region": {"abbr": "CA", "name": "California"}, "locality": "North Hollywood", "lng": -118.38836, "zip_code": "91606"});
+zipapicallback({"locality": "North Hollywood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Hollywood", "North Hollywood", "Valley Glen"], "postal_code": "91606", "lat": 34.185698, "lng": -118.38836, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.057964, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Piney Woods", "lng": -89.99117, "zip_code": "39148"});
+zipapicallback({"locality": "Piney Woods", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Piney Woods"], "postal_code": "39148", "lat": 32.057964, "lng": -89.99117, "type": "POBOX", "counties": [{"fips": "121", "name": "Rankin"}]});

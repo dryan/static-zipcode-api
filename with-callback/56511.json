@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.863375, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Audubon", "lng": -95.99585, "zip_code": "56511"});
+zipapicallback({"locality": "Audubon", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Audubon"], "postal_code": "56511", "lat": 46.863375, "lng": -95.99585, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}]});

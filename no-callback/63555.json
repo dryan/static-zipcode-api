@@ -1,1 +1,1 @@
-{"lat": 40.469438, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Memphis", "lng": -92.18031, "zip_code": "63555"}
+{"locality": "Memphis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Memphis"], "postal_code": "63555", "lat": 40.469438, "lng": -92.18031, "type": "STANDARD", "counties": [{"fips": "199", "name": "Scotland"}]}

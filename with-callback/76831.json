@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.776619, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Castell", "lng": -98.95072, "zip_code": "76831"});
+zipapicallback({"locality": "Castell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Castell"], "postal_code": "76831", "lat": 30.776619, "lng": -98.95072, "type": "STANDARD", "counties": [{"fips": "299", "name": "Llano"}, {"fips": "319", "name": "Mason"}]});

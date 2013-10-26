@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.054969, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Silver Lake", "lng": -85.90441, "zip_code": "46982"});
+zipapicallback({"locality": "Silver Lake", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Silver Lake"], "postal_code": "46982", "lat": 41.054969, "lng": -85.90441, "type": "STANDARD", "counties": [{"fips": "085", "name": "Kosciusko"}, {"fips": "169", "name": "Wabash"}, {"fips": "103", "name": "Miami"}, {"fips": "049", "name": "Fulton"}]});

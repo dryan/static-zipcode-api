@@ -1,1 +1,1 @@
-{"lat": 39.958894, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cardale", "lng": -79.86798, "zip_code": "15420"}
+{"locality": "Cardale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cardale"], "postal_code": "15420", "lat": 39.958894, "lng": -79.86798, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]}

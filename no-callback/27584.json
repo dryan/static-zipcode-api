@@ -1,1 +1,1 @@
-{"lat": 36.528939, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Townsville", "lng": -78.44504, "zip_code": "27584"}
+{"locality": "Townsville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Townsville"], "postal_code": "27584", "lat": 36.528939, "lng": -78.44504, "type": "POBOX", "counties": [{"fips": "181", "name": "Vance"}]}

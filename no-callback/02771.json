@@ -1,1 +1,1 @@
-{"lat": 41.84345, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Seekonk", "lng": -71.32343, "zip_code": "02771"}
+{"locality": "Seekonk", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Seekonk"], "postal_code": "02771", "lat": 41.84345, "lng": -71.32343, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]}

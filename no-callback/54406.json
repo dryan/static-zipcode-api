@@ -1,1 +1,1 @@
-{"lat": 44.421111, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Amherst", "lng": -89.30618, "zip_code": "54406"}
+{"locality": "Amherst", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Amherst"], "postal_code": "54406", "lat": 44.421111, "lng": -89.30618, "type": "STANDARD", "counties": [{"fips": "097", "name": "Portage"}]}

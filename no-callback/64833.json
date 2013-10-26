@@ -1,1 +1,1 @@
-{"lat": 37.195692, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Avilla", "lng": -94.12946, "zip_code": "64833"}
+{"locality": "Avilla", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Avilla"], "postal_code": "64833", "lat": 37.195692, "lng": -94.12946, "type": "POBOX", "counties": [{"fips": "097", "name": "Jasper"}]}

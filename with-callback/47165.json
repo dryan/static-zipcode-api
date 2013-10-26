@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.49903, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Pekin", "lng": -86.01293, "zip_code": "47165"});
+zipapicallback({"locality": "Pekin", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Pekin"], "postal_code": "47165", "lat": 38.49903, "lng": -86.01293, "type": "STANDARD", "counties": [{"fips": "175", "name": "Washington"}, {"fips": "019", "name": "Clark"}, {"fips": "043", "name": "Floyd"}]});

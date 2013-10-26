@@ -1,1 +1,1 @@
-{"lat": 41.28953, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wayne", "lng": -83.50215, "zip_code": "43466"}
+{"locality": "Wayne", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wayne"], "postal_code": "43466", "lat": 41.28953, "lng": -83.50215, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}]}

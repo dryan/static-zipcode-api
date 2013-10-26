@@ -1,1 +1,1 @@
-{"lat": 40.876349, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ledgewood", "lng": -74.65769, "zip_code": "07852"}
+{"locality": "Ledgewood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ledgewood"], "postal_code": "07852", "lat": 40.876349, "lng": -74.65769, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.952452, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rabun Gap", "lng": -83.4073, "zip_code": "30568"});
+zipapicallback({"locality": "Rabun Gap", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Rabun Gap"], "postal_code": "30568", "lat": 34.952452, "lng": -83.4073, "type": "STANDARD", "counties": [{"fips": "241", "name": "Rabun"}]});

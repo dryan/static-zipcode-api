@@ -1,1 +1,1 @@
-{"lat": 44.829056, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rapid City", "lng": -85.27959, "zip_code": "49676"}
+{"locality": "Rapid City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rapid City"], "postal_code": "49676", "lat": 44.829056, "lng": -85.27959, "type": "STANDARD", "counties": [{"fips": "079", "name": "Kalkaska"}, {"fips": "009", "name": "Antrim"}]}

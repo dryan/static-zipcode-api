@@ -1,1 +1,1 @@
-{"lat": 38.618255, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Left Hand", "lng": -81.22913, "zip_code": "25251"}
+{"locality": "Left Hand", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Left Hand"], "postal_code": "25251", "lat": 38.618255, "lng": -81.22913, "type": "STANDARD", "counties": [{"fips": "087", "name": "Roane"}]}

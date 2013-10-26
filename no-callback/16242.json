@@ -1,1 +1,1 @@
-{"lat": 41.007757, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Bethlehem", "lng": -79.3461, "zip_code": "16242"}
+{"locality": "New Bethlehem", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Climax", "New Bethlehem"], "postal_code": "16242", "lat": 41.007757, "lng": -79.3461, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}, {"fips": "005", "name": "Armstrong"}]}

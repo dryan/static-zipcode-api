@@ -1,1 +1,1 @@
-{"lat": 43.158258, "region": {"abbr": "NY", "name": "New York"}, "locality": "Oriskany", "lng": -75.34281, "zip_code": "13424"}
+{"locality": "Oriskany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Oriskany"], "postal_code": "13424", "lat": 43.158258, "lng": -75.34281, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]}

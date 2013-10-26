@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.620018, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Breese", "lng": -89.5305, "zip_code": "62230"});
+zipapicallback({"locality": "Breese", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Breese"], "postal_code": "62230", "lat": 38.620018, "lng": -89.5305, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]});

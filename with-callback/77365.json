@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.102209, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Porter", "lng": -95.25748, "zip_code": "77365"});
+zipapicallback({"locality": "Porter", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Porter"], "postal_code": "77365", "lat": 30.102209, "lng": -95.25748, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]});

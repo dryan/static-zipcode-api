@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.01333, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "La Vergne", "lng": -86.56268, "zip_code": "37086"});
+zipapicallback({"locality": "La Vergne", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["La Vergne"], "postal_code": "37086", "lat": 36.01333, "lng": -86.56268, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rutherford"}, {"fips": "037", "name": "Davidson"}]});

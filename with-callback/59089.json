@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.076746, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wyola", "lng": -107.44633, "zip_code": "59089"});
+zipapicallback({"locality": "Wyola", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Wyola"], "postal_code": "59089", "lat": 45.076746, "lng": -107.44633, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]});

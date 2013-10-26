@@ -1,1 +1,1 @@
-{"lat": 34.540822, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Daisy", "lng": -95.71825, "zip_code": "74540"}
+{"locality": "Daisy", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Daisy"], "postal_code": "74540", "lat": 34.540822, "lng": -95.71825, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}, {"fips": "005", "name": "Atoka"}]}

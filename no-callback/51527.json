@@ -1,1 +1,1 @@
-{"lat": 41.828495, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Earling", "lng": -95.34363, "zip_code": "51527"}
+{"locality": "Defiance", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Defiance"], "postal_code": "51527", "lat": 41.828495, "lng": -95.34363, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}, {"fips": "047", "name": "Crawford"}]}

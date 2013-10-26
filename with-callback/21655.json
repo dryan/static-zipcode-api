@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.747216, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Preston", "lng": -75.91459, "zip_code": "21655"});
+zipapicallback({"locality": "Preston", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Preston"], "postal_code": "21655", "lat": 38.747216, "lng": -75.91459, "type": "STANDARD", "counties": [{"fips": "011", "name": "Caroline"}]});

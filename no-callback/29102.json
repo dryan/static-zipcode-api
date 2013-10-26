@@ -1,1 +1,1 @@
-{"lat": 33.647611, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Paxville", "lng": -80.21281, "zip_code": "29102"}
+{"locality": "Manning", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Manning", "Paxville"], "postal_code": "29102", "lat": 33.647611, "lng": -80.21281, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clarendon"}, {"fips": "085", "name": "Sumter"}]}

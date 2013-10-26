@@ -1,1 +1,1 @@
-{"lat": 44.784144, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Lawrence", "lng": -74.66213, "zip_code": "12967"}
+{"locality": "North Lawrence", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["N Lawrence", "North Lawrence"], "postal_code": "12967", "lat": 44.784144, "lng": -74.66213, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}, {"fips": "033", "name": "Franklin"}]}

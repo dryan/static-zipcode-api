@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.372103, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bolivar", "lng": -79.14574, "zip_code": "15923"});
+zipapicallback({"locality": "Bolivar", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bolivar"], "postal_code": "15923", "lat": 40.372103, "lng": -79.14574, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

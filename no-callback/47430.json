@@ -1,1 +1,1 @@
-{"lat": 38.773826, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fort Ritner", "lng": -86.28146, "zip_code": "47430"}
+{"locality": "Fort Ritner", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fort Ritner"], "postal_code": "47430", "lat": 38.773826, "lng": -86.28146, "type": "POBOX", "counties": [{"fips": "093", "name": "Lawrence"}]}

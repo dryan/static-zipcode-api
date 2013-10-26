@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.050128, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cookstown", "lng": -74.55611, "zip_code": "08511"});
+zipapicallback({"locality": "Cookstown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cookstown"], "postal_code": "08511", "lat": 40.050128, "lng": -74.55611, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

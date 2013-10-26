@@ -1,1 +1,1 @@
-{"lat": 42.769956, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "East China", "lng": -82.52595, "zip_code": "48054"}
+{"locality": "East China", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["China", "East China"], "postal_code": "48054", "lat": 42.769956, "lng": -82.52595, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

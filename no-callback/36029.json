@@ -1,1 +1,1 @@
-{"lat": 32.214818, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fitzpatrick", "lng": -85.93281, "zip_code": "36029"}
+{"locality": "Fitzpatrick", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fitzpatrick"], "postal_code": "36029", "lat": 32.214818, "lng": -85.93281, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bullock"}, {"fips": "101", "name": "Montgomery"}, {"fips": "087", "name": "MacOn"}]}

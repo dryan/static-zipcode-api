@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.760814, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Holliday", "lng": -98.72148, "zip_code": "76366"});
+zipapicallback({"locality": "Holliday", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Holliday"], "postal_code": "76366", "lat": 33.760814, "lng": -98.72148, "type": "STANDARD", "counties": [{"fips": "009", "name": "Archer"}]});

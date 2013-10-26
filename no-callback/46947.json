@@ -1,1 +1,1 @@
-{"lat": 40.754787, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Logansport", "lng": -86.36684, "zip_code": "46947"}
+{"locality": "Logansport", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Logansport"], "postal_code": "46947", "lat": 40.754787, "lng": -86.36684, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "015", "name": "Carroll"}]}

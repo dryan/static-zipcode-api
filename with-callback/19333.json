@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.044858, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Devon", "lng": -75.42174, "zip_code": "19333"});
+zipapicallback({"locality": "Devon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Devon"], "postal_code": "19333", "lat": 40.044858, "lng": -75.42174, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

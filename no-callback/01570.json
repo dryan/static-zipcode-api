@@ -1,1 +1,1 @@
-{"lat": 42.047728, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Dudley Hill", "lng": -71.86108, "zip_code": "01570"}
+{"locality": "Webster", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Dudley Hill", "Webster"], "postal_code": "01570", "lat": 42.047728, "lng": -71.86108, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

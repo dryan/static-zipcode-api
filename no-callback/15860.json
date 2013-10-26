@@ -1,1 +1,1 @@
-{"lat": 41.345663, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sigel", "lng": -79.04707, "zip_code": "15860"}
+{"locality": "Sigel", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hallton", "Sigel"], "postal_code": "15860", "lat": 41.345663, "lng": -79.04707, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}, {"fips": "047", "name": "Elk"}, {"fips": "031", "name": "Clarion"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.777948, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bayard", "lng": -103.31277, "zip_code": "69334"}
+{"locality": "Bayard", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bayard"], "postal_code": "69334", "lat": 41.777948, "lng": -103.31277, "type": "STANDARD", "counties": [{"fips": "123", "name": "Morrill"}, {"fips": "013", "name": "Box Butte"}, {"fips": "007", "name": "Banner"}, {"fips": "157", "name": "Scotts Bluff"}]}

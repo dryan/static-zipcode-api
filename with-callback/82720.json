@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.81103, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Hulett", "lng": -104.72952, "zip_code": "82720"});
+zipapicallback({"locality": "Hulett", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Hulett", "New Haven"], "postal_code": "82720", "lat": 44.81103, "lng": -104.72952, "type": "STANDARD", "counties": [{"fips": "011", "name": "Crook"}]});

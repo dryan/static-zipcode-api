@@ -1,1 +1,1 @@
-{"lat": 36.810451, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Deer Creek", "lng": -97.51795, "zip_code": "74636"}
+{"locality": "Deer Creek", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Deer Creek"], "postal_code": "74636", "lat": 36.810451, "lng": -97.51795, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]}

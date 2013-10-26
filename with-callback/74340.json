@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.48721, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Disney", "lng": -94.98452, "zip_code": "74340"});
+zipapicallback({"locality": "Disney", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Disney"], "postal_code": "74340", "lat": 36.48721, "lng": -94.98452, "type": "POBOX", "counties": [{"fips": "097", "name": "Mayes"}]});

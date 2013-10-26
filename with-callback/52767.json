@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.56823, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pleasant Valley", "lng": -90.4191, "zip_code": "52767"});
+zipapicallback({"locality": "Pleasant Valley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pleasant Valley", "Pleasant Vly"], "postal_code": "52767", "lat": 41.56823, "lng": -90.4191, "type": "POBOX", "counties": [{"fips": "163", "name": "Scott"}]});

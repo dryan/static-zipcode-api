@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.773886, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Glencoe", "lng": -94.17294, "zip_code": "55336"});
+zipapicallback({"locality": "Glencoe", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Biscay", "Glencoe"], "postal_code": "55336", "lat": 44.773886, "lng": -94.17294, "type": "STANDARD", "counties": [{"fips": "085", "name": "McLeod"}, {"fips": "143", "name": "Sibley"}]});

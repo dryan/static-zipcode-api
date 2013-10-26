@@ -1,1 +1,1 @@
-{"lat": 42.295544, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Southborough", "lng": -71.50468, "zip_code": "01745"}
+{"locality": "Fayville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Fayville", "Southborough"], "postal_code": "01745", "lat": 42.295544, "lng": -71.50468, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

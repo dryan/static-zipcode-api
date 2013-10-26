@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.297139, "region": {"abbr": "WA", "name": "Washington"}, "locality": "West Richland", "lng": -119.35457, "zip_code": "99353"});
+zipapicallback({"locality": "West Richland", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Richland", "West Richland"], "postal_code": "99353", "lat": 46.297139, "lng": -119.35457, "type": "STANDARD", "counties": []});

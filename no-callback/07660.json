@@ -1,1 +1,1 @@
-{"lat": 40.856749, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ridgefield Park", "lng": -74.02278, "zip_code": "07660"}
+{"locality": "Ridgefield Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ridgefield Park", "Ridgefield Pk"], "postal_code": "07660", "lat": 40.856749, "lng": -74.02278, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

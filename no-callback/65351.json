@@ -1,1 +1,1 @@
-{"lat": 38.982222, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sweet Springs", "lng": -93.40798, "zip_code": "65351"}
+{"locality": "Sweet Springs", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sweet Springs"], "postal_code": "65351", "lat": 38.982222, "lng": -93.40798, "type": "STANDARD", "counties": [{"fips": "195", "name": "Saline"}, {"fips": "159", "name": "Pettis"}, {"fips": "101", "name": "Johnson"}]}

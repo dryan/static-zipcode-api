@@ -1,1 +1,1 @@
-{"lat": 39.138761, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Annapolis", "lng": -87.83769, "zip_code": "62413"}
+{"locality": "Annapolis", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Annapolis"], "postal_code": "62413", "lat": 39.138761, "lng": -87.83769, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}, {"fips": "023", "name": "Clark"}]}

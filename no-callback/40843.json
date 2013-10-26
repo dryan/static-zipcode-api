@@ -1,1 +1,1 @@
-{"lat": 36.868363, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Holmes Mill", "lng": -82.96607, "zip_code": "40843"}
+{"locality": "Holmes Mill", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Holmes Mill"], "postal_code": "40843", "lat": 36.868363, "lng": -82.96607, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.173636, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lewis Center", "lng": -82.99675, "zip_code": "43035"});
+zipapicallback({"locality": "Lewis Center", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lewis Center"], "postal_code": "43035", "lat": 40.173636, "lng": -82.99675, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delaware"}]});

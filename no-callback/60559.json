@@ -1,1 +1,1 @@
-{"lat": 41.795358, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Westmont", "lng": -87.97778, "zip_code": "60559"}
+{"locality": "Westmont", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Westmont"], "postal_code": "60559", "lat": 41.795358, "lng": -87.97778, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}, {"fips": "031", "name": "Cook"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.821032, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Felicity", "lng": -84.09805, "zip_code": "45120"}
+{"locality": "Felicity", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Felicity"], "postal_code": "45120", "lat": 38.821032, "lng": -84.09805, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.425671, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Estero", "lng": -81.80196, "zip_code": "33928"}
+{"locality": "Estero", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Estero"], "postal_code": "33928", "lat": 26.425671, "lng": -81.80196, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}, {"fips": "099", "name": "Palm Beach"}]}

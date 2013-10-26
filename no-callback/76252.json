@@ -1,1 +1,1 @@
-{"lat": 33.661889, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Muenster", "lng": -97.38029, "zip_code": "76252"}
+{"locality": "Muenster", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Muenster"], "postal_code": "76252", "lat": 33.661889, "lng": -97.38029, "type": "STANDARD", "counties": [{"fips": "097", "name": "Cooke"}, {"fips": "337", "name": "Montague"}]}

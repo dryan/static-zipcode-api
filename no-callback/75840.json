@@ -1,1 +1,1 @@
-{"lat": 31.763713, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fairfield", "lng": -96.10808, "zip_code": "75840"}
+{"locality": "Fairfield", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fairfield"], "postal_code": "75840", "lat": 31.763713, "lng": -96.10808, "type": "STANDARD", "counties": [{"fips": "161", "name": "Freestone"}]}

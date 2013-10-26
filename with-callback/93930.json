@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.21106, "region": {"abbr": "CA", "name": "California"}, "locality": "King City", "lng": -121.05986, "zip_code": "93930"});
+zipapicallback({"locality": "King City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["King City"], "postal_code": "93930", "lat": 36.21106, "lng": -121.05986, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}, {"fips": "069", "name": "San Benito"}]});

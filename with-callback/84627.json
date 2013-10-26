@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.353561, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ephraim", "lng": -111.5783, "zip_code": "84627"});
+zipapicallback({"locality": "Ephraim", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Ephraim"], "postal_code": "84627", "lat": 39.353561, "lng": -111.5783, "type": "STANDARD", "counties": [{"fips": "039", "name": "Sanpete"}]});

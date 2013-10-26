@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.744082, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Burbank", "lng": -87.77022, "zip_code": "60459"});
+zipapicallback({"locality": "Burbank", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bedford Park", "Burbank", "Oak Lawn"], "postal_code": "60459", "lat": 41.744082, "lng": -87.77022, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

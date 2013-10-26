@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.144807, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Jessup", "lng": -76.78767, "zip_code": "20794"});
+zipapicallback({"locality": "Jessup", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Jessup"], "postal_code": "20794", "lat": 39.144807, "lng": -76.78767, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}, {"fips": "027", "name": "Howard"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.606023, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "New Liberty", "lng": -84.8279, "zip_code": "40355"});
+zipapicallback({"locality": "New Liberty", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["New Liberty"], "postal_code": "40355", "lat": 38.606023, "lng": -84.8279, "type": "STANDARD", "counties": [{"fips": "187", "name": "Owen"}]});

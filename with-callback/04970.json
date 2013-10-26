@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.966701, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Rangeley", "lng": -70.6576, "zip_code": "04970"});
+zipapicallback({"locality": "Rangeley", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Coplin Plt", "Dallas Plt", "Lang Twp", "Rangeley", "Sandy River Plt", "Sandy Rvr Plt"], "postal_code": "04970", "lat": 44.966701, "lng": -70.6576, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]});

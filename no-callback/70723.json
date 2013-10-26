@@ -1,1 +1,1 @@
-{"lat": 30.063433, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Convent", "lng": -90.84644, "zip_code": "70723"}
+{"locality": "Convent", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Convent"], "postal_code": "70723", "lat": 30.063433, "lng": -90.84644, "type": "STANDARD", "counties": [{"fips": "093", "name": "St. James"}]}

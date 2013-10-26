@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.685274, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fields", "lng": -93.55827, "zip_code": "70653"});
+zipapicallback({"locality": "Merryville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fields", "Merryville"], "postal_code": "70653", "lat": 30.685274, "lng": -93.55827, "type": "STANDARD", "counties": [{"fips": "011", "name": "Beauregard"}]});

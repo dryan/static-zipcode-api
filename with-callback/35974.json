@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.361787, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Geraldine", "lng": -86.0098, "zip_code": "35974"});
+zipapicallback({"locality": "Geraldine", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Geraldine"], "postal_code": "35974", "lat": 34.361787, "lng": -86.0098, "type": "STANDARD", "counties": [{"fips": "049", "name": "De Kalb"}]});

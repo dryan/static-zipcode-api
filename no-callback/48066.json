@@ -1,1 +1,1 @@
-{"lat": 42.503285, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Roseville", "lng": -82.93851, "zip_code": "48066"}
+{"locality": "Roseville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Roseville"], "postal_code": "48066", "lat": 42.503285, "lng": -82.93851, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]}

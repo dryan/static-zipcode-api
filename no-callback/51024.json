@@ -1,1 +1,1 @@
-{"lat": 42.609657, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hinton", "lng": -96.23855, "zip_code": "51024"}
+{"locality": "Hinton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hinton"], "postal_code": "51024", "lat": 42.609657, "lng": -96.23855, "type": "STANDARD", "counties": [{"fips": "149", "name": "Plymouth"}]}

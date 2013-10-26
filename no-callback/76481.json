@@ -1,1 +1,1 @@
-{"lat": 32.970869, "region": {"abbr": "TX", "name": "Texas"}, "locality": "South Bend", "lng": -98.71204, "zip_code": "76481"}
+{"locality": "South Bend", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Eliasville", "South Bend"], "postal_code": "76481", "lat": 32.970869, "lng": -98.71204, "type": "STANDARD", "counties": []}

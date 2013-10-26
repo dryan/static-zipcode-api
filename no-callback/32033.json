@@ -1,1 +1,1 @@
-{"lat": 29.787831, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Elkton", "lng": -81.44668, "zip_code": "32033"}
+{"locality": "Elkton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Elkton"], "postal_code": "32033", "lat": 29.787831, "lng": -81.44668, "type": "STANDARD", "counties": [{"fips": "109", "name": "Saint Johns"}]}

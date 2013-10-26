@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.977641, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Taft", "lng": -97.37032, "zip_code": "78390"});
+zipapicallback({"locality": "Taft", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Taft"], "postal_code": "78390", "lat": 27.977641, "lng": -97.37032, "type": "STANDARD", "counties": [{"fips": "409", "name": "San Patricio"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.926753, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Atlanta", "lng": -84.33877, "zip_code": "30346"});
+zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta", "Dunwoody"], "postal_code": "30346", "lat": 33.926753, "lng": -84.33877, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}]});

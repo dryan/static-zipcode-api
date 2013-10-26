@@ -1,1 +1,1 @@
-{"lat": 46.501623, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Shore", "lng": -94.28917, "zip_code": "56468"}
+{"locality": "Nisswa", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Hubert", "Lake Shore", "Nisswa"], "postal_code": "56468", "lat": 46.501623, "lng": -94.28917, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crow Wing"}]}

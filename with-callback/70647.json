@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.243213, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Iowa", "lng": -93.00386, "zip_code": "70647"});
+zipapicallback({"locality": "Iowa", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Iowa"], "postal_code": "70647", "lat": 30.243213, "lng": -93.00386, "type": "STANDARD", "counties": [{"fips": "019", "name": "Calcasieu"}, {"fips": "053", "name": "Jefferson Davis"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.186592, "region": {"abbr": "WA", "name": "Washington"}, "locality": "South Cle Elum", "lng": -120.95503, "zip_code": "98943"});
+zipapicallback({"locality": "South Cle Elum", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["S Cle Elum", "South Cle Elum"], "postal_code": "98943", "lat": 47.186592, "lng": -120.95503, "type": "POBOX", "counties": [{"fips": "037", "name": "Kittitas"}]});

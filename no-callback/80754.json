@@ -1,1 +1,1 @@
-{"lat": 40.686028, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Stoneham", "lng": -103.65736, "zip_code": "80754"}
+{"locality": "Stoneham", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Stoneham"], "postal_code": "80754", "lat": 40.686028, "lng": -103.65736, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

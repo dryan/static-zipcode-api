@@ -1,1 +1,1 @@
-{"lat": 37.182538, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Oswego", "lng": -95.13678, "zip_code": "67356"}
+{"locality": "Oswego", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Oswego"], "postal_code": "67356", "lat": 37.182538, "lng": -95.13678, "type": "STANDARD", "counties": [{"fips": "099", "name": "Labette"}, {"fips": "021", "name": "Cherokee"}]}

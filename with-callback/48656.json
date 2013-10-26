@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.360384, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Helen", "lng": -84.43815, "zip_code": "48656"});
+zipapicallback({"locality": "Saint Helen", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Helen"], "postal_code": "48656", "lat": 44.360384, "lng": -84.43815, "type": "STANDARD", "counties": [{"fips": "143", "name": "Roscommon"}]});

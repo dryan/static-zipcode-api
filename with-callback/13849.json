@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.343576, "region": {"abbr": "NY", "name": "New York"}, "locality": "Unadilla", "lng": -75.3146, "zip_code": "13849"});
+zipapicallback({"locality": "Unadilla", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Unadilla"], "postal_code": "13849", "lat": 42.343576, "lng": -75.3146, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}, {"fips": "025", "name": "Delaware"}]});

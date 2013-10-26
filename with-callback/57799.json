@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.492688, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Spearfish", "lng": -103.86974, "zip_code": "57799"});
+zipapicallback({"locality": "Spearfish", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Spearfish"], "postal_code": "57799", "lat": 44.492688, "lng": -103.86974, "type": "UNIQUE", "counties": []});

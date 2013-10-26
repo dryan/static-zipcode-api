@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.46059, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Beaverton", "lng": -122.80683, "zip_code": "97008"});
+zipapicallback({"locality": "Beaverton", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Beaverton"], "postal_code": "97008", "lat": 45.46059, "lng": -122.80683, "type": "STANDARD", "counties": []});

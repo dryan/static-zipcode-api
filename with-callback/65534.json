@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.689335, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Laquey", "lng": -92.28363, "zip_code": "65534"});
+zipapicallback({"locality": "Laquey", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Laquey"], "postal_code": "65534", "lat": 37.689335, "lng": -92.28363, "type": "STANDARD", "counties": [{"fips": "169", "name": "Pulaski"}, {"fips": "105", "name": "Laclede"}]});

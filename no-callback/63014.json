@@ -1,1 +1,1 @@
-{"lat": 38.654011, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Berger", "lng": -91.33928, "zip_code": "63014"}
+{"locality": "Berger", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Berger"], "postal_code": "63014", "lat": 38.654011, "lng": -91.33928, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}, {"fips": "073", "name": "Gasconade"}]}

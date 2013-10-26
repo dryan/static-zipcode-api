@@ -1,1 +1,1 @@
-{"lat": 44.446885, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Marshall", "lng": -95.77281, "zip_code": "56258"}
+{"locality": "Marshall", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Marshall"], "postal_code": "56258", "lat": 44.446885, "lng": -95.77281, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}, {"fips": "127", "name": "Redwood"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.246161, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lynxville", "lng": -91.05429, "zip_code": "54640"});
+zipapicallback({"locality": "Lynxville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lynxville"], "postal_code": "54640", "lat": 43.246161, "lng": -91.05429, "type": "POBOX", "counties": [{"fips": "023", "name": "Crawford"}]});

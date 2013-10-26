@@ -1,1 +1,1 @@
-{"lat": 33.068301, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Boyd", "lng": -97.59099, "zip_code": "76023"}
+{"locality": "Boyd", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Boyd"], "postal_code": "76023", "lat": 33.068301, "lng": -97.59099, "type": "STANDARD", "counties": [{"fips": "497", "name": "Wise"}, {"fips": "367", "name": "Parker"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.060154, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rexville", "lng": -77.68455, "zip_code": "14877"}
+{"locality": "Rexville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rexville"], "postal_code": "14877", "lat": 42.060154, "lng": -77.68455, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "003", "name": "Allegany"}]}

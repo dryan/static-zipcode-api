@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.57504, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lorraine", "lng": -98.33675, "zip_code": "67459"});
+zipapicallback({"locality": "Lorraine", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lorraine"], "postal_code": "67459", "lat": 38.57504, "lng": -98.33675, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ellsworth"}]});

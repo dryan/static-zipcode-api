@@ -1,1 +1,1 @@
-{"lat": 28.883474, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Batesville", "lng": -99.58416, "zip_code": "78829"}
+{"locality": "Batesville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Batesville"], "postal_code": "78829", "lat": 28.883474, "lng": -99.58416, "type": "STANDARD", "counties": [{"fips": "507", "name": "Zavala"}]}

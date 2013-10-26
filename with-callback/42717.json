@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.765985, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Burkesville", "lng": -85.39971, "zip_code": "42717"});
+zipapicallback({"locality": "Burkesville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bakerton", "Bow", "Burkesville", "Kettle", "Peytonsburg", "Waterview"], "postal_code": "42717", "lat": 36.765985, "lng": -85.39971, "type": "STANDARD", "counties": [{"fips": "057", "name": "Cumberland"}, {"fips": "053", "name": "Clinton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.601566, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bellwood", "lng": -78.33361, "zip_code": "16617"});
+zipapicallback({"locality": "Bellwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bellwood"], "postal_code": "16617", "lat": 40.601566, "lng": -78.33361, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}]});

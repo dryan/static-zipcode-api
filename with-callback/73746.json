@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.692876, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hopeton", "lng": -98.65816, "zip_code": "73746"});
+zipapicallback({"locality": "Hopeton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hopeton"], "postal_code": "73746", "lat": 36.692876, "lng": -98.65816, "type": "POBOX", "counties": [{"fips": "151", "name": "Woods"}]});

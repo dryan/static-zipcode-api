@@ -1,1 +1,1 @@
-{"lat": 38.902873, "region": {"abbr": "CA", "name": "California"}, "locality": "Lincoln", "lng": -121.29795, "zip_code": "95648"}
+{"locality": "Lincoln", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lincoln"], "postal_code": "95648", "lat": 38.902873, "lng": -121.29795, "type": "STANDARD", "counties": [{"fips": "061", "name": "Placer"}]}

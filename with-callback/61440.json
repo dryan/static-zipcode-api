@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.324365, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Industry", "lng": -90.60351, "zip_code": "61440"});
+zipapicallback({"locality": "Industry", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Industry"], "postal_code": "61440", "lat": 40.324365, "lng": -90.60351, "type": "STANDARD", "counties": [{"fips": "109", "name": "McDonough"}, {"fips": "169", "name": "Schuyler"}]});

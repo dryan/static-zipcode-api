@@ -1,1 +1,1 @@
-{"lat": 34.741677, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Pauls Valley", "lng": -97.22846, "zip_code": "73075"}
+{"locality": "Pauls Valley", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Pauls Valley"], "postal_code": "73075", "lat": 34.741677, "lng": -97.22846, "type": "STANDARD", "counties": [{"fips": "049", "name": "Garvin"}]}

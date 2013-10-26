@@ -1,1 +1,1 @@
-{"lat": 33.784099, "region": {"abbr": "CA", "name": "California"}, "locality": "Palos Verdes Est", "lng": -118.38752, "zip_code": "90274"}
+{"locality": "Palos Verdes Peninsula", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palos Verdes Estates", "Palos Verdes Peninsula", "Pls Vrds Est", "Pls Vrds Pnsl", "Rllng Hls Est", "Rolling Hills", "Rolling Hills Estates"], "postal_code": "90274", "lat": 33.784099, "lng": -118.38752, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

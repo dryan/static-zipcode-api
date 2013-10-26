@@ -1,1 +1,1 @@
-{"lat": 47.430704, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Hobart", "lng": -121.88496, "zip_code": "98025"}
+{"locality": "Hobart", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Hobart"], "postal_code": "98025", "lat": 47.430704, "lng": -121.88496, "type": "POBOX", "counties": [{"fips": "033", "name": "King"}]}

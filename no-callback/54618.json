@@ -1,1 +1,1 @@
-{"lat": 43.95685, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cutler", "lng": -90.29445, "zip_code": "54618"}
+{"locality": "Camp Douglas", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Camp Douglas", "Cutler"], "postal_code": "54618", "lat": 43.95685, "lng": -90.29445, "type": "STANDARD", "counties": [{"fips": "057", "name": "Juneau"}, {"fips": "081", "name": "Monroe"}]}

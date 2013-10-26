@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.656375, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Oviedo", "lng": -81.21026, "zip_code": "32765"});
+zipapicallback({"locality": "Oviedo", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Oviedo"], "postal_code": "32765", "lat": 28.656375, "lng": -81.21026, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]});

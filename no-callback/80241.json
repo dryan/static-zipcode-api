@@ -1,1 +1,1 @@
-{"lat": 39.929566, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Northglenn", "lng": -104.94931, "zip_code": "80241"}
+{"locality": "Thornton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Northglenn", "Thornton", "Westminster"], "postal_code": "80241", "lat": 39.929566, "lng": -104.94931, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.769493, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Roseland", "lng": -90.51064, "zip_code": "70456"});
+zipapicallback({"locality": "Roseland", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Roseland"], "postal_code": "70456", "lat": 30.769493, "lng": -90.51064, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}]});

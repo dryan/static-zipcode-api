@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.610752, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Rocky Ridge", "lng": -77.34166, "zip_code": "21778"});
+zipapicallback({"locality": "Rocky Ridge", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Rocky Ridge"], "postal_code": "21778", "lat": 39.610752, "lng": -77.34166, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]});

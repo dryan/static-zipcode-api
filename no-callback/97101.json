@@ -1,1 +1,1 @@
-{"lat": 45.100504, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Amity", "lng": -123.22834, "zip_code": "97101"}
+{"locality": "Amity", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Amity"], "postal_code": "97101", "lat": 45.100504, "lng": -123.22834, "type": "STANDARD", "counties": [{"fips": "071", "name": "Yamhill"}]}

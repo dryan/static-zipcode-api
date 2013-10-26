@@ -1,1 +1,1 @@
-{"lat": 32.954851, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Haynesville", "lng": -93.11344, "zip_code": "71038"}
+{"locality": "Haynesville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Haynesville"], "postal_code": "71038", "lat": 32.954851, "lng": -93.11344, "type": "STANDARD", "counties": [{"fips": "027", "name": "Claiborne"}, {"fips": "119", "name": "Webster"}]}

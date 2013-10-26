@@ -1,1 +1,1 @@
-{"lat": 37.704693, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Manquin", "lng": -77.20342, "zip_code": "23106"}
+{"locality": "Manquin", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Manquin"], "postal_code": "23106", "lat": 37.704693, "lng": -77.20342, "type": "STANDARD", "counties": [{"fips": "101", "name": "King William"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.03183, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Wing", "lng": -86.70207, "zip_code": "36483"});
+zipapicallback({"locality": "Wing", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Wing"], "postal_code": "36483", "lat": 31.03183, "lng": -86.70207, "type": "STANDARD", "counties": [{"fips": "039", "name": "Covington"}, {"fips": "053", "name": "Escambia"}]});

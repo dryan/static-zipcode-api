@@ -1,1 +1,1 @@
-{"lat": 38.8421, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Eskridge", "lng": -96.12775, "zip_code": "66423"}
+{"locality": "Eskridge", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Eskridge"], "postal_code": "66423", "lat": 38.8421, "lng": -96.12775, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wabaunsee"}]}

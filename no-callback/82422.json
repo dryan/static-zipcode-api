@@ -1,1 +1,1 @@
-{"lat": 44.498455, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Emblem", "lng": -108.3809, "zip_code": "82422"}
+{"locality": "Emblem", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Emblem"], "postal_code": "82422", "lat": 44.498455, "lng": -108.3809, "type": "POBOX", "counties": [{"fips": "003", "name": "Big Horn"}]}

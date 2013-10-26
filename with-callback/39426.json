@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.641521, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Carriere", "lng": -89.65929, "zip_code": "39426"});
+zipapicallback({"locality": "Carriere", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Carriere"], "postal_code": "39426", "lat": 30.641521, "lng": -89.65929, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pearl River"}, {"fips": "045", "name": "Hancock"}]});

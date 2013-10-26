@@ -1,1 +1,1 @@
-{"lat": 40.799706, "region": {"abbr": "NY", "name": "New York"}, "locality": "Holbrook", "lng": -73.07485, "zip_code": "11741"}
+{"locality": "Holbrook", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Holbrook"], "postal_code": "11741", "lat": 40.799706, "lng": -73.07485, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

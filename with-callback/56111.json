@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.645226, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Alpha", "lng": -94.8715, "zip_code": "56111"});
+zipapicallback({"locality": "Alpha", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Alpha"], "postal_code": "56111", "lat": 43.645226, "lng": -94.8715, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jackson"}]});

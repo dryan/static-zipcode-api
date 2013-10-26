@@ -1,1 +1,1 @@
-{"lat": 38.378706, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Browns", "lng": -87.97291, "zip_code": "62818"}
+{"locality": "Browns", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Browns"], "postal_code": "62818", "lat": 38.378706, "lng": -87.97291, "type": "STANDARD", "counties": [{"fips": "047", "name": "Edwards"}, {"fips": "185", "name": "Wabash"}]}

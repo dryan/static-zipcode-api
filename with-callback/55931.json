@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.511822, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Eitzen", "lng": -91.46635, "zip_code": "55931"});
+zipapicallback({"locality": "Eitzen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eitzen"], "postal_code": "55931", "lat": 43.511822, "lng": -91.46635, "type": "STANDARD", "counties": [{"fips": "055", "name": "Houston"}]});

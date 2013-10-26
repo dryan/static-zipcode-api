@@ -1,1 +1,1 @@
-{"lat": 40.449171, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ringoes", "lng": -74.84979, "zip_code": "08551"}
+{"locality": "Ringoes", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ringoes"], "postal_code": "08551", "lat": 40.449171, "lng": -74.84979, "type": "STANDARD", "counties": [{"fips": "019", "name": "Hunterdon"}]}

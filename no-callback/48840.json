@@ -1,1 +1,1 @@
-{"lat": 42.760217, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Haslett", "lng": -84.39027, "zip_code": "48840"}
+{"locality": "Haslett", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Haslett"], "postal_code": "48840", "lat": 42.760217, "lng": -84.39027, "type": "STANDARD", "counties": [{"fips": "065", "name": "Ingham"}]}

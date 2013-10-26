@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.916418, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Oswego", "lng": -80.35738, "zip_code": "29150"});
+zipapicallback({"locality": "Sumter", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Oswego", "Sumter"], "postal_code": "29150", "lat": 33.916418, "lng": -80.35738, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sumter"}, {"fips": "061", "name": "Lee"}]});

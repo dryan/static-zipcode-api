@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.974237, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Jacobson", "lng": -93.2632, "zip_code": "55752"});
+zipapicallback({"locality": "Jacobson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Jacobson"], "postal_code": "55752", "lat": 46.974237, "lng": -93.2632, "type": "STANDARD", "counties": [{"fips": "001", "name": "Aitkin"}, {"fips": "061", "name": "Itasca"}]});

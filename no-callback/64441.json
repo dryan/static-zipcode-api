@@ -1,1 +1,1 @@
-{"lat": 40.386181, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Denver", "lng": -94.28975, "zip_code": "64441"}
+{"locality": "Denver", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Denver"], "postal_code": "64441", "lat": 40.386181, "lng": -94.28975, "type": "STANDARD", "counties": [{"fips": "227", "name": "Worth"}, {"fips": "075", "name": "Gentry"}]}

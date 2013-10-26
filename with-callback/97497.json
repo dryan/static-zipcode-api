@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.676455, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Sunny Valley", "lng": -123.324, "zip_code": "97497"});
+zipapicallback({"locality": "Wolf Creek", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Wolf Creek"], "postal_code": "97497", "lat": 42.676455, "lng": -123.324, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}]});

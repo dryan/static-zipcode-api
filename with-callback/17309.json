@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.871433, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brogue", "lng": -76.44796, "zip_code": "17309"});
+zipapicallback({"locality": "Brogue", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brogue"], "postal_code": "17309", "lat": 39.871433, "lng": -76.44796, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.046889, "region": {"abbr": "CA", "name": "California"}, "locality": "Bassett", "lng": -117.98464, "zip_code": "91746"});
+zipapicallback({"locality": "La Puente", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bassett", "City Industry", "City Of Industry", "La Puente"], "postal_code": "91746", "lat": 34.046889, "lng": -117.98464, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

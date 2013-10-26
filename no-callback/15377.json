@@ -1,1 +1,1 @@
-{"lat": 39.976027, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Finley", "lng": -80.44474, "zip_code": "15377"}
+{"locality": "West Finley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["West Finley"], "postal_code": "15377", "lat": 39.976027, "lng": -80.44474, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}, {"fips": "059", "name": "Greene"}]}

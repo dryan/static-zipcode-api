@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.163814, "region": {"abbr": "NY", "name": "New York"}, "locality": "Nineveh", "lng": -75.55149, "zip_code": "13813"});
+zipapicallback({"locality": "Nineveh", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Nineveh"], "postal_code": "13813", "lat": 42.163814, "lng": -75.55149, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}, {"fips": "017", "name": "Chenango"}]});

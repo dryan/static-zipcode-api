@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.213801, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Malcolm", "lng": -87.96228, "zip_code": "36556"});
+zipapicallback({"locality": "Malcolm", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Malcolm"], "postal_code": "36556", "lat": 31.213801, "lng": -87.96228, "type": "POBOX", "counties": [{"fips": "129", "name": "Washington"}]});

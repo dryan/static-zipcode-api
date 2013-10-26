@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.495857, "region": {"abbr": "CA", "name": "California"}, "locality": "Forestville", "lng": -122.90636, "zip_code": "95436"});
+zipapicallback({"locality": "Forestville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Forestville"], "postal_code": "95436", "lat": 38.495857, "lng": -122.90636, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]});

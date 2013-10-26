@@ -1,1 +1,1 @@
-{"lat": 40.598916, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Keystone", "lng": -85.17871, "zip_code": "46759"}
+{"locality": "Keystone", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Keystone"], "postal_code": "46759", "lat": 40.598916, "lng": -85.17871, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wells"}]}

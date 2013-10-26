@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.435645, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Loveland", "lng": -105.08726, "zip_code": "80538"});
+zipapicallback({"locality": "Loveland", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Loveland"], "postal_code": "80538", "lat": 40.435645, "lng": -105.08726, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}, {"fips": "059", "name": "Jefferson"}]});

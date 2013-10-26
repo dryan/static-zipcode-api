@@ -1,1 +1,1 @@
-{"lat": 40.747742, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bath", "lng": -75.40078, "zip_code": "18014"}
+{"locality": "Bath", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bath"], "postal_code": "18014", "lat": 40.747742, "lng": -75.40078, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}, {"fips": "089", "name": "Monroe"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.643924, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Clarks Hill", "lng": -82.13638, "zip_code": "29821"});
+zipapicallback({"locality": "Clarks Hill", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Clarks Hill"], "postal_code": "29821", "lat": 33.643924, "lng": -82.13638, "type": "STANDARD", "counties": [{"fips": "065", "name": "McCormick"}, {"fips": "037", "name": "Edgefield"}]});

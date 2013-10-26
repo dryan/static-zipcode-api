@@ -1,1 +1,1 @@
-{"lat": 36.695557, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Zanoni", "lng": -92.32949, "zip_code": "65784"}
+{"locality": "Zanoni", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Zanoni"], "postal_code": "65784", "lat": 36.695557, "lng": -92.32949, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.041978, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ashburn", "lng": -77.49064, "zip_code": "20147"});
+zipapicallback({"locality": "Ashburn", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ashburn"], "postal_code": "20147", "lat": 39.041978, "lng": -77.49064, "type": "STANDARD", "counties": []});

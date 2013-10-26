@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.185677, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pinehurst", "lng": -83.76348, "zip_code": "31070"});
+zipapicallback({"locality": "Pinehurst", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pinehurst"], "postal_code": "31070", "lat": 32.185677, "lng": -83.76348, "type": "STANDARD", "counties": [{"fips": "093", "name": "Dooly"}]});

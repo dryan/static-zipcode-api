@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.227201, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Marcola", "lng": -122.8169, "zip_code": "97454"});
+zipapicallback({"locality": "Marcola", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Marcola"], "postal_code": "97454", "lat": 44.227201, "lng": -122.8169, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.404535, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ware Shoals", "lng": -82.23851, "zip_code": "29692"}
+{"locality": "Ware Shoals", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ware Shoals"], "postal_code": "29692", "lat": 34.404535, "lng": -82.23851, "type": "STANDARD", "counties": [{"fips": "047", "name": "Greenwood"}, {"fips": "001", "name": "Abbeville"}, {"fips": "059", "name": "Laurens"}]}

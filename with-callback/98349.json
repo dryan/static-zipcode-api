@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.268551, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Home", "lng": -122.76897, "zip_code": "98349"});
+zipapicallback({"locality": "Lakebay", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Home", "Lakebay"], "postal_code": "98349", "lat": 47.268551, "lng": -122.76897, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}, {"fips": "035", "name": "Kitsap"}]});

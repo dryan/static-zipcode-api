@@ -1,1 +1,1 @@
-{"lat": 39.777116, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hervey City", "lng": -88.87171, "zip_code": "62549"}
+{"locality": "Mt Zion", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hervey City", "Mount Zion", "Mt Zion"], "postal_code": "62549", "lat": 39.777116, "lng": -88.87171, "type": "STANDARD", "counties": [{"fips": "115", "name": "MacOn"}]}

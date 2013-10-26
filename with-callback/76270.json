@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.446897, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sunset", "lng": -97.77217, "zip_code": "76270"});
+zipapicallback({"locality": "Sunset", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sunset"], "postal_code": "76270", "lat": 33.446897, "lng": -97.77217, "type": "STANDARD", "counties": [{"fips": "497", "name": "Wise"}, {"fips": "337", "name": "Montague"}]});

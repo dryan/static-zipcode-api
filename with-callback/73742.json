@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.105884, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hennessey", "lng": -97.88304, "zip_code": "73742"});
+zipapicallback({"locality": "Hennessey", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hennessey"], "postal_code": "73742", "lat": 36.105884, "lng": -97.88304, "type": "STANDARD", "counties": [{"fips": "073", "name": "Kingfisher"}, {"fips": "047", "name": "Garfield"}]});

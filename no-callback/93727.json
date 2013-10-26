@@ -1,1 +1,1 @@
-{"lat": 36.753177, "region": {"abbr": "CA", "name": "California"}, "locality": "Fresno", "lng": -119.69703, "zip_code": "93727"}
+{"locality": "Fresno", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fresno"], "postal_code": "93727", "lat": 36.753177, "lng": -119.69703, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}, {"fips": "010", "name": "Guam"}]}

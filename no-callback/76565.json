@@ -1,1 +1,1 @@
-{"lat": 31.650023, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pottsville", "lng": -98.36186, "zip_code": "76565"}
+{"locality": "Pottsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pottsville"], "postal_code": "76565", "lat": 31.650023, "lng": -98.36186, "type": "STANDARD", "counties": [{"fips": "193", "name": "Hamilton"}]}

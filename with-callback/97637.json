@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.543512, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Plush", "lng": -119.86512, "zip_code": "97637"});
+zipapicallback({"locality": "Plush", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Plush"], "postal_code": "97637", "lat": 42.543512, "lng": -119.86512, "type": "STANDARD", "counties": [{"fips": "037", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.527637, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Nemaha", "lng": -95.10125, "zip_code": "50567"}
+{"locality": "Nemaha", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Nemaha"], "postal_code": "50567", "lat": 42.527637, "lng": -95.10125, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]}

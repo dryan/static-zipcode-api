@@ -1,1 +1,1 @@
-{"lat": 41.602498, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Shore", "lng": -81.52357, "zip_code": "44123"}
+{"locality": "Euclid", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Euclid"], "postal_code": "44123", "lat": 41.602498, "lng": -81.52357, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]}

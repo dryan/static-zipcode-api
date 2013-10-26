@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.370358, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ligon", "lng": -82.66944, "zip_code": "41604"});
+zipapicallback({"locality": "Beaver", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Beaver", "Ligon"], "postal_code": "41604", "lat": 37.370358, "lng": -82.66944, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

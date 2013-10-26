@@ -1,1 +1,1 @@
-{"lat": 48.008655, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Loma", "lng": -110.47512, "zip_code": "59460"}
+{"locality": "Loma", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Loma"], "postal_code": "59460", "lat": 48.008655, "lng": -110.47512, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chouteau"}]}

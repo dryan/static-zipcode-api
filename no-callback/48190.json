@@ -1,1 +1,1 @@
-{"lat": 42.134658, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Whittaker", "lng": -83.59684, "zip_code": "48190"}
+{"locality": "Whittaker", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Whittaker"], "postal_code": "48190", "lat": 42.134658, "lng": -83.59684, "type": "POBOX", "counties": [{"fips": "161", "name": "Washtenaw"}]}

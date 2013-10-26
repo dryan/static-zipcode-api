@@ -1,1 +1,1 @@
-{"lat": 21.33743, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Waimanalo", "lng": -157.70599, "zip_code": "96795"}
+{"locality": "Waimanalo", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Waimanalo"], "postal_code": "96795", "lat": 21.33743, "lng": -157.70599, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}]}

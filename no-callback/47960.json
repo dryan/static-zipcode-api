@@ -1,1 +1,1 @@
-{"lat": 40.777036, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Monticello", "lng": -86.75982, "zip_code": "47960"}
+{"locality": "Monticello", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Monticello"], "postal_code": "47960", "lat": 40.777036, "lng": -86.75982, "type": "STANDARD", "counties": [{"fips": "181", "name": "White"}, {"fips": "015", "name": "Carroll"}]}

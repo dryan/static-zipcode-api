@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.715082, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oak Lawn", "lng": -87.7546, "zip_code": "60453"});
+zipapicallback({"locality": "Oak Lawn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Oak Lawn"], "postal_code": "60453", "lat": 41.715082, "lng": -87.7546, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

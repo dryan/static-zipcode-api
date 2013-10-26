@@ -1,1 +1,1 @@
-{"lat": 33.519055, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Birmingham", "lng": -86.8097, "zip_code": "35203"}
+{"locality": "Birmingham", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Birmingham"], "postal_code": "35203", "lat": 33.519055, "lng": -86.8097, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}]}

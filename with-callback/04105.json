@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.736732, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Falmouth", "lng": -70.26027, "zip_code": "04105"});
+zipapicallback({"locality": "Falmouth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Falmouth", "Portland"], "postal_code": "04105", "lat": 43.736732, "lng": -70.26027, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

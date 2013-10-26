@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.915077, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ekron", "lng": -86.14434, "zip_code": "40117"});
+zipapicallback({"locality": "Ekron", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ekron"], "postal_code": "40117", "lat": 37.915077, "lng": -86.14434, "type": "STANDARD", "counties": [{"fips": "163", "name": "Meade"}]});

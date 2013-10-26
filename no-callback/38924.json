@@ -1,1 +1,1 @@
-{"lat": 33.309896, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Cruger", "lng": -90.21172, "zip_code": "38924"}
+{"locality": "Cruger", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Cruger"], "postal_code": "38924", "lat": 33.309896, "lng": -90.21172, "type": "STANDARD", "counties": [{"fips": "051", "name": "Holmes"}, {"fips": "015", "name": "Carroll"}, {"fips": "083", "name": "Leflore"}]}

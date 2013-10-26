@@ -1,1 +1,1 @@
-{"lat": 41.694945, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Northfield", "lng": -73.10942, "zip_code": "06778"}
+{"locality": "Northfield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Northfield", "Thomaston"], "postal_code": "06778", "lat": 41.694945, "lng": -73.10942, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

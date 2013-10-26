@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.292388, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Vermont", "lng": -90.42833, "zip_code": "61484"});
+zipapicallback({"locality": "Vermont", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Vermont"], "postal_code": "61484", "lat": 40.292388, "lng": -90.42833, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}, {"fips": "109", "name": "McDonough"}, {"fips": "169", "name": "Schuyler"}]});

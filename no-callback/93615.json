@@ -1,1 +1,1 @@
-{"lat": 36.506019, "region": {"abbr": "CA", "name": "California"}, "locality": "Cutler", "lng": -119.2866, "zip_code": "93615"}
+{"locality": "Cutler", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cutler"], "postal_code": "93615", "lat": 36.506019, "lng": -119.2866, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

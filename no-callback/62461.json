@@ -1,1 +1,1 @@
-{"lat": 39.194021, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Shumway", "lng": -88.6656, "zip_code": "62461"}
+{"locality": "Shumway", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Shumway"], "postal_code": "62461", "lat": 39.194021, "lng": -88.6656, "type": "STANDARD", "counties": [{"fips": "049", "name": "Effingham"}, {"fips": "173", "name": "Shelby"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.133215, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Woodsville", "lng": -71.96306, "zip_code": "03785"});
+zipapicallback({"locality": "Woodsville", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Benton", "Woodsville"], "postal_code": "03785", "lat": 44.133215, "lng": -71.96306, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]});

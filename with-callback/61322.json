@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.321814, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Depue", "lng": -89.3086, "zip_code": "61322"});
+zipapicallback({"locality": "Depue", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Depue"], "postal_code": "61322", "lat": 41.321814, "lng": -89.3086, "type": "POBOX", "counties": [{"fips": "011", "name": "Bureau"}]});

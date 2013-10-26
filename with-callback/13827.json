@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.120274, "region": {"abbr": "NY", "name": "New York"}, "locality": "Owego", "lng": -76.25874, "zip_code": "13827"});
+zipapicallback({"locality": "Owego", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Owego"], "postal_code": "13827", "lat": 42.120274, "lng": -76.25874, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}]});

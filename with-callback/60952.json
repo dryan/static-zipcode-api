@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.562833, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Melvin", "lng": -88.25053, "zip_code": "60952"});
+zipapicallback({"locality": "Melvin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Melvin"], "postal_code": "60952", "lat": 40.562833, "lng": -88.25053, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ford"}, {"fips": "105", "name": "Livingston"}]});

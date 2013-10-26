@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.522439, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Franklin", "lng": -94.70402, "zip_code": "66735"});
+zipapicallback({"locality": "Franklin", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Franklin"], "postal_code": "66735", "lat": 37.522439, "lng": -94.70402, "type": "STANDARD", "counties": [{"fips": "037", "name": "Crawford"}]});

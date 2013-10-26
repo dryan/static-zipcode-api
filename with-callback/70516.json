@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.365586, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Branch", "lng": -92.30363, "zip_code": "70516"});
+zipapicallback({"locality": "Branch", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Branch"], "postal_code": "70516", "lat": 30.365586, "lng": -92.30363, "type": "STANDARD", "counties": [{"fips": "001", "name": "Acadia"}]});

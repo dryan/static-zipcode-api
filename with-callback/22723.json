@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.331957, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hood", "lng": -78.3774, "zip_code": "22723"});
+zipapicallback({"locality": "Hood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hood"], "postal_code": "22723", "lat": 38.331957, "lng": -78.3774, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

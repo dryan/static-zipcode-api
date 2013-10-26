@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.935994, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Alberene", "lng": -78.64088, "zip_code": "22959"});
+zipapicallback({"locality": "North Garden", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["North Garden"], "postal_code": "22959", "lat": 37.935994, "lng": -78.64088, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}]});

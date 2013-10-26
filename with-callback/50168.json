@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.780089, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mingo", "lng": -93.26916, "zip_code": "50168"});
+zipapicallback({"locality": "Mingo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mingo"], "postal_code": "50168", "lat": 41.780089, "lng": -93.26916, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jasper"}]});

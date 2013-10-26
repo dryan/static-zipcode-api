@@ -1,1 +1,1 @@
-{"lat": 46.983877, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ocean City", "lng": -124.15607, "zip_code": "98569"}
+{"locality": "Ocean Shores", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ocean City", "Ocean Shores"], "postal_code": "98569", "lat": 46.983877, "lng": -124.15607, "type": "STANDARD", "counties": [{"fips": "027", "name": "Grays Harbor"}]}

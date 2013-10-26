@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.185637, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Collegeville", "lng": -75.44873, "zip_code": "19426"});
+zipapicallback({"locality": "Collegeville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Collegeville", "Trappe"], "postal_code": "19426", "lat": 40.185637, "lng": -75.44873, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

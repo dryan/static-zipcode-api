@@ -1,1 +1,1 @@
-{"lat": 40.635147, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bradfordwoods", "lng": -80.08369, "zip_code": "15015"}
+{"locality": "Bradfordwoods", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bradfordwoods"], "postal_code": "15015", "lat": 40.635147, "lng": -80.08369, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

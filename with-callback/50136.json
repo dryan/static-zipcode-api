@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.463624, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Keswick", "lng": -92.26841, "zip_code": "50136"});
+zipapicallback({"locality": "Keswick", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Keswick"], "postal_code": "50136", "lat": 41.463624, "lng": -92.26841, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}, {"fips": "157", "name": "Poweshiek"}, {"fips": "095", "name": "Iowa"}]});

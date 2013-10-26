@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.546306, "region": {"abbr": "CA", "name": "California"}, "locality": "El Macero", "lng": -121.68682, "zip_code": "95618"});
+zipapicallback({"locality": "Davis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Davis", "El Macero"], "postal_code": "95618", "lat": 38.546306, "lng": -121.68682, "type": "STANDARD", "counties": [{"fips": "113", "name": "Yolo"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.30368, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Pittsfield", "lng": -71.3215, "zip_code": "03263"});
+zipapicallback({"locality": "Pittsfield", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Pittsfield"], "postal_code": "03263", "lat": 43.30368, "lng": -71.3215, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]});

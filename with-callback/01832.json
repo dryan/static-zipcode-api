@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.781357, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Haverhill", "lng": -71.11023, "zip_code": "01832"});
+zipapicallback({"locality": "Haverhill", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Haverhill"], "postal_code": "01832", "lat": 42.781357, "lng": -71.11023, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]});

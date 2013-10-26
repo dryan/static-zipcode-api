@@ -1,1 +1,1 @@
-{"lat": 35.548316, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Niota", "lng": -84.58403, "zip_code": "37826"}
+{"locality": "Niota", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Niota"], "postal_code": "37826", "lat": 35.548316, "lng": -84.58403, "type": "STANDARD", "counties": [{"fips": "107", "name": "McMinn"}, {"fips": "121", "name": "Meigs"}]}

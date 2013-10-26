@@ -1,1 +1,1 @@
-{"lat": 48.093129, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Marysville", "lng": -122.21614, "zip_code": "98271"}
+{"locality": "Marysville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Marysville", "Tulalip"], "postal_code": "98271", "lat": 48.093129, "lng": -122.21614, "type": "STANDARD", "counties": []}

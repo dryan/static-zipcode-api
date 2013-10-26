@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.907675, "region": {"abbr": "CA", "name": "California"}, "locality": "Bolinas", "lng": -122.70201, "zip_code": "94924"});
+zipapicallback({"locality": "Bolinas", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bolinas"], "postal_code": "94924", "lat": 37.907675, "lng": -122.70201, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.414576, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mount Vernon", "lng": -122.35196, "zip_code": "98273"});
+zipapicallback({"locality": "Mount Vernon", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Mount Vernon"], "postal_code": "98273", "lat": 48.414576, "lng": -122.35196, "type": "STANDARD", "counties": [{"fips": "057", "name": "Skagit"}]});

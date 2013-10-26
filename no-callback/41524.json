@@ -1,1 +1,1 @@
-{"lat": 37.424071, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Biggs", "lng": -82.23762, "zip_code": "41524"}
+{"locality": "Fedscreek", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Biggs", "Fedscreek"], "postal_code": "41524", "lat": 37.424071, "lng": -82.23762, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

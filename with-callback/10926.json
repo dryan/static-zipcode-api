@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.299334, "region": {"abbr": "NY", "name": "New York"}, "locality": "Harriman", "lng": -74.14049, "zip_code": "10926"});
+zipapicallback({"locality": "Harriman", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Harriman"], "postal_code": "10926", "lat": 41.299334, "lng": -74.14049, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

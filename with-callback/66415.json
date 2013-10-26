@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.697296, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Centralia", "lng": -96.14204, "zip_code": "66415"});
+zipapicallback({"locality": "Centralia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Centralia"], "postal_code": "66415", "lat": 39.697296, "lng": -96.14204, "type": "STANDARD", "counties": [{"fips": "131", "name": "Nemaha"}]});

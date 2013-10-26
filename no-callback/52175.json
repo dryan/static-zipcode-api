@@ -1,1 +1,1 @@
-{"lat": 42.983744, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Eldorado", "lng": -91.81803, "zip_code": "52175"}
+{"locality": "West Union", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Eldorado", "West Union"], "postal_code": "52175", "lat": 42.983744, "lng": -91.81803, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]}

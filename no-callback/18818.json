@@ -1,1 +1,1 @@
-{"lat": 41.909808, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Friendsville", "lng": -76.04473, "zip_code": "18818"}
+{"locality": "Friendsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Friendsville"], "postal_code": "18818", "lat": 41.909808, "lng": -76.04473, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}, {"fips": "015", "name": "Bradford"}]}

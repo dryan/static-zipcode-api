@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.460137, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Belle Mead", "lng": -74.63592, "zip_code": "08502"});
+zipapicallback({"locality": "Belle Mead", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Belle Mead"], "postal_code": "08502", "lat": 40.460137, "lng": -74.63592, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]});

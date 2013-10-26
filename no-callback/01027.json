@@ -1,1 +1,1 @@
-{"lat": 42.27279, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mount Tom", "lng": -72.68677, "zip_code": "01027"}
+{"locality": "Easthampton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Hampton", "Easthampton", "Mount Tom", "Westhampton"], "postal_code": "01027", "lat": 42.27279, "lng": -72.68677, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]}

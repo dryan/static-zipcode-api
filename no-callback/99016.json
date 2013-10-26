@@ -1,1 +1,1 @@
-{"lat": 47.648693, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Greenacres", "lng": -117.15116, "zip_code": "99016"}
+{"locality": "Greenacres", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Greenacres", "Liberty Lake", "Spokane Valley", "Spokane Vly"], "postal_code": "99016", "lat": 47.648693, "lng": -117.15116, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]}

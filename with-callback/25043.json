@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.46791, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Clay", "lng": -81.0082, "zip_code": "25043"});
+zipapicallback({"locality": "Clay", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Clay"], "postal_code": "25043", "lat": 38.46791, "lng": -81.0082, "type": "STANDARD", "counties": [{"fips": "015", "name": "Clay"}, {"fips": "067", "name": "Nicholas"}]});

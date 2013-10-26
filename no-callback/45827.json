@@ -1,1 +1,1 @@
-{"lat": 41.009008, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cloverdale", "lng": -84.30617, "zip_code": "45827"}
+{"locality": "Cloverdale", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cloverdale"], "postal_code": "45827", "lat": 41.009008, "lng": -84.30617, "type": "STANDARD", "counties": [{"fips": "137", "name": "Putnam"}, {"fips": "125", "name": "Paulding"}]}

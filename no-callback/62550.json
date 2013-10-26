@@ -1,1 +1,1 @@
-{"lat": 39.617542, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Radford", "lng": -89.00559, "zip_code": "62550"}
+{"locality": "Moweaqua", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Moweaqua", "Radford"], "postal_code": "62550", "lat": 39.617542, "lng": -89.00559, "type": "STANDARD", "counties": [{"fips": "021", "name": "Christian"}]}

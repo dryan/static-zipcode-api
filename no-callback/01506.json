@@ -1,1 +1,1 @@
-{"lat": 42.200374, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Brookfield", "lng": -72.09787, "zip_code": "01506"}
+{"locality": "Brookfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Brookfield"], "postal_code": "01506", "lat": 42.200374, "lng": -72.09787, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

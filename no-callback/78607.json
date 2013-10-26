@@ -1,1 +1,1 @@
-{"lat": 30.833543, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bluffton", "lng": -98.47938, "zip_code": "78607"}
+{"locality": "Bluffton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bluffton"], "postal_code": "78607", "lat": 30.833543, "lng": -98.47938, "type": "STANDARD", "counties": [{"fips": "299", "name": "Llano"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.839921, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Alamogordo", "lng": -105.97561, "zip_code": "88310"}
+{"locality": "Alamogordo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Alamogordo"], "postal_code": "88310", "lat": 32.839921, "lng": -105.97561, "type": "STANDARD", "counties": [{"fips": "035", "name": "Otero"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.765405, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shrewsbury", "lng": -76.67748, "zip_code": "17361"});
+zipapicallback({"locality": "Shrewsbury", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shrewsbury"], "postal_code": "17361", "lat": 39.765405, "lng": -76.67748, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]});

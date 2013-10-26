@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.583488, "region": {"abbr": "CA", "name": "California"}, "locality": "Fortuna", "lng": -124.14367, "zip_code": "95540"});
+zipapicallback({"locality": "Fortuna", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fortuna"], "postal_code": "95540", "lat": 40.583488, "lng": -124.14367, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}, {"fips": "015", "name": "Del Norte"}]});

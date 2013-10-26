@@ -1,1 +1,1 @@
-{"lat": 43.885681, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Chamberlain", "lng": -69.4795, "zip_code": "04541"}
+{"locality": "Chamberlain", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Chamberlain"], "postal_code": "04541", "lat": 43.885681, "lng": -69.4795, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]}

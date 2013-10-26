@@ -1,1 +1,1 @@
-{"lat": 46.768617, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Lincoln", "lng": -100.75381, "zip_code": "58504"}
+{"locality": "Bismarck", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bismarck", "Lincoln"], "postal_code": "58504", "lat": 46.768617, "lng": -100.75381, "type": "STANDARD", "counties": [{"fips": "015", "name": "Burleigh"}, {"fips": "029", "name": "Emmons"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.515596, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Twin Lakes", "lng": -88.25761, "zip_code": "53181"}
+{"locality": "Twin Lakes", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Twin Lakes"], "postal_code": "53181", "lat": 42.515596, "lng": -88.25761, "type": "STANDARD", "counties": [{"fips": "059", "name": "Kenosha"}]}

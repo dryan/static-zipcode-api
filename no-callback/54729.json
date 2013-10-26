@@ -1,1 +1,1 @@
-{"lat": 44.932711, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Chippewa Falls", "lng": -91.38877, "zip_code": "54729"}
+{"locality": "Chippewa Falls", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Chippewa Falls", "Chippewa Fls", "Lake Hallie"], "postal_code": "54729", "lat": 44.932711, "lng": -91.38877, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chippewa"}, {"fips": "035", "name": "Eau Claire"}]}

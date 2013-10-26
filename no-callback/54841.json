@@ -1,1 +1,1 @@
-{"lat": 45.612444, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Haugen", "lng": -91.77624, "zip_code": "54841"}
+{"locality": "Haugen", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Haugen"], "postal_code": "54841", "lat": 45.612444, "lng": -91.77624, "type": "STANDARD", "counties": [{"fips": "005", "name": "Barron"}]}

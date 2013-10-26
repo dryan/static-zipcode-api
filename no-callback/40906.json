@@ -1,1 +1,1 @@
-{"lat": 36.853913, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bailey Switch", "lng": -83.88501, "zip_code": "40906"}
+{"locality": "Barbourville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bailey Switch", "Barbourville", "Baughman", "Crane Nest", "Gausdale", "Himyar", "Jarvis", "Kayjay", "Swanpond", "Tedders", "Woollum"], "postal_code": "40906", "lat": 36.853913, "lng": -83.88501, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

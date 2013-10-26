@@ -1,1 +1,1 @@
-{"lat": 41.455129, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Woodville", "lng": -83.36565, "zip_code": "43469"}
+{"locality": "Woodville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Woodville"], "postal_code": "43469", "lat": 41.455129, "lng": -83.36565, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sandusky"}, {"fips": "123", "name": "Ottawa"}, {"fips": "173", "name": "Wood"}]}

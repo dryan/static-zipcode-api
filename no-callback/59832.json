@@ -1,1 +1,1 @@
-{"lat": 46.695594, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Drummond", "lng": -113.22547, "zip_code": "59832"}
+{"locality": "Drummond", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Drummond"], "postal_code": "59832", "lat": 46.695594, "lng": -113.22547, "type": "STANDARD", "counties": [{"fips": "039", "name": "Granite"}]}

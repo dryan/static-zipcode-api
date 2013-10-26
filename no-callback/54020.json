@@ -1,1 +1,1 @@
-{"lat": 45.299735, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Osceola", "lng": -92.64222, "zip_code": "54020"}
+{"locality": "Osceola", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Osceola"], "postal_code": "54020", "lat": 45.299735, "lng": -92.64222, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}, {"fips": "109", "name": "St Croix"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.104389, "region": {"abbr": "NY", "name": "New York"}, "locality": "Addison", "lng": -77.28857, "zip_code": "14801"}
+{"locality": "Addison", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Addison"], "postal_code": "14801", "lat": 42.104389, "lng": -77.28857, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]}

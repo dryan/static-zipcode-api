@@ -1,1 +1,1 @@
-{"lat": 40.64686, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mc Alisterville", "lng": -77.24149, "zip_code": "17049"}
+{"locality": "Mc Alisterville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mc Alisterville", "Mc Alistervle"], "postal_code": "17049", "lat": 40.64686, "lng": -77.24149, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}]}

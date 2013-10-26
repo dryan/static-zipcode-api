@@ -1,1 +1,1 @@
-{"lat": 45.550177, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Mc Leod", "lng": -110.05667, "zip_code": "59052"}
+{"locality": "Mc Leod", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Mc Leod"], "postal_code": "59052", "lat": 45.550177, "lng": -110.05667, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sweet Grass"}]}

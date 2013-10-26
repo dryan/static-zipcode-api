@@ -1,1 +1,1 @@
-{"lat": 33.610717, "region": {"abbr": "CA", "name": "California"}, "locality": "Newport Beach", "lng": -117.8325, "zip_code": "92657"}
+{"locality": "Newport Coast", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Newport Beach", "Newport Coast"], "postal_code": "92657", "lat": 33.610717, "lng": -117.8325, "type": "STANDARD", "counties": []}

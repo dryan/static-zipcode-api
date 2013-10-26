@@ -1,1 +1,1 @@
-{"lat": 39.145755, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Townsends Inlet", "lng": -74.69865, "zip_code": "08243"}
+{"locality": "Sea Isle City", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Sea Isle City", "Townsend Inlt", "Townsends Inlet"], "postal_code": "08243", "lat": 39.145755, "lng": -74.69865, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cape May"}]}

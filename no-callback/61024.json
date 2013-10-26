@@ -1,1 +1,1 @@
-{"lat": 42.436585, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Durand", "lng": -89.30394, "zip_code": "61024"}
+{"locality": "Durand", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Durand"], "postal_code": "61024", "lat": 42.436585, "lng": -89.30394, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}]}

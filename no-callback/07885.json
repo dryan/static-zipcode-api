@@ -1,1 +1,1 @@
-{"lat": 40.913298, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wharton", "lng": -74.58246, "zip_code": "07885"}
+{"locality": "Wharton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wharton"], "postal_code": "07885", "lat": 40.913298, "lng": -74.58246, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

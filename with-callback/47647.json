@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.215226, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Buckskin", "lng": -87.42319, "zip_code": "47647"});
+zipapicallback({"locality": "Buckskin", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Buckskin"], "postal_code": "47647", "lat": 38.215226, "lng": -87.42319, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.323547, "region": {"abbr": "NY", "name": "New York"}, "locality": "Monroe", "lng": -74.19531, "zip_code": "10950"}
+{"locality": "Monroe", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kiryas Joel", "Monroe"], "postal_code": "10950", "lat": 41.323547, "lng": -74.19531, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.653899, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Kittredge", "lng": -105.30102, "zip_code": "80457"}
+{"locality": "Kittredge", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Kittredge"], "postal_code": "80457", "lat": 39.653899, "lng": -105.30102, "type": "POBOX", "counties": [{"fips": "059", "name": "Jefferson"}]}

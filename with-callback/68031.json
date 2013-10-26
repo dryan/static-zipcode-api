@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.62307, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hooper", "lng": -96.55172, "zip_code": "68031"});
+zipapicallback({"locality": "Hooper", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hooper"], "postal_code": "68031", "lat": 41.62307, "lng": -96.55172, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dodge"}]});

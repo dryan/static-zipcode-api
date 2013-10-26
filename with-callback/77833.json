@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.183651, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brenham", "lng": -96.40258, "zip_code": "77833"});
+zipapicallback({"locality": "Brenham", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brenham"], "postal_code": "77833", "lat": 30.183651, "lng": -96.40258, "type": "STANDARD", "counties": [{"fips": "477", "name": "Washington"}, {"fips": "471", "name": "Walker"}]});

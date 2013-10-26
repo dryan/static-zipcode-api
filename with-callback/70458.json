@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.269565, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Slidell", "lng": -89.77587, "zip_code": "70458"});
+zipapicallback({"locality": "Slidell", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Slidell"], "postal_code": "70458", "lat": 30.269565, "lng": -89.77587, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]});

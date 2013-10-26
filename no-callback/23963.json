@@ -1,1 +1,1 @@
-{"lat": 37.197072, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Red House", "lng": -78.81694, "zip_code": "23963"}
+{"locality": "Red House", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Red House"], "postal_code": "23963", "lat": 37.197072, "lng": -78.81694, "type": "STANDARD", "counties": [{"fips": "037", "name": "Charlotte"}]}

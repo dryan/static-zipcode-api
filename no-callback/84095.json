@@ -1,1 +1,1 @@
-{"lat": 40.561598, "region": {"abbr": "UT", "name": "Utah"}, "locality": "South Jordan", "lng": -111.96088, "zip_code": "84095"}
+{"locality": "South Jordan", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Riverton", "South Jordan"], "postal_code": "84095", "lat": 40.561598, "lng": -111.96088, "type": "STANDARD", "counties": []}

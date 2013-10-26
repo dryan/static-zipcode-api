@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.335504, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Marble", "lng": -107.1882, "zip_code": "81623"});
+zipapicallback({"locality": "Carbondale", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Carbondale", "El Jebel", "Marble", "Redstone"], "postal_code": "81623", "lat": 39.335504, "lng": -107.1882, "type": "STANDARD", "counties": [{"fips": "045", "name": "Garfield"}, {"fips": "037", "name": "Eagle"}, {"fips": "097", "name": "Pitkin"}, {"fips": "051", "name": "Gunnison"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.950442, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Meadview", "lng": -114.07783, "zip_code": "86444"}
+{"locality": "Meadview", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Meadview"], "postal_code": "86444", "lat": 35.950442, "lng": -114.07783, "type": "STANDARD", "counties": [{"fips": "015", "name": "Mohave"}]}

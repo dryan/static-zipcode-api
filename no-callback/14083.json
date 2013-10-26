@@ -1,1 +1,1 @@
-{"lat": 42.676913, "region": {"abbr": "NY", "name": "New York"}, "locality": "Java Village", "lng": -78.44075, "zip_code": "14083"}
+{"locality": "Java Village", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Java Village"], "postal_code": "14083", "lat": 42.676913, "lng": -78.44075, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.726517, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Welch", "lng": -92.86147, "zip_code": "55033"});
+zipapicallback({"locality": "Hastings", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hastings"], "postal_code": "55033", "lat": 44.726517, "lng": -92.86147, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "163", "name": "Washington"}, {"fips": "049", "name": "Goodhue"}]});

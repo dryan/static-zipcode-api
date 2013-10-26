@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.91583, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Wando", "lng": -79.8846, "zip_code": "29492"});
+zipapicallback({"locality": "Charleston", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cainhoy", "Charleston", "Daniel Island", "Wando"], "postal_code": "29492", "lat": 32.91583, "lng": -79.8846, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.964553, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Shadyside", "lng": -80.76013, "zip_code": "43947"}
+{"locality": "Shadyside", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Shadyside"], "postal_code": "43947", "lat": 39.964553, "lng": -80.76013, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}]}

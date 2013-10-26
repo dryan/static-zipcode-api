@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.154193, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cedar Mountain", "lng": -82.62466, "zip_code": "28718"});
+zipapicallback({"locality": "Cedar Mountain", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cedar Mountain", "Cedar Mtn"], "postal_code": "28718", "lat": 35.154193, "lng": -82.62466, "type": "STANDARD", "counties": [{"fips": "175", "name": "Transylvania"}]});

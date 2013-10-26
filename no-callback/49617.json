@@ -1,1 +1,1 @@
-{"lat": 44.643593, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Beulah", "lng": -86.04382, "zip_code": "49617"}
+{"locality": "Beulah", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Beulah"], "postal_code": "49617", "lat": 44.643593, "lng": -86.04382, "type": "STANDARD", "counties": [{"fips": "019", "name": "Benzie"}]}

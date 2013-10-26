@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.728152, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Walkerton", "lng": -76.99901, "zip_code": "23177"});
+zipapicallback({"locality": "Walkerton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Walkerton"], "postal_code": "23177", "lat": 37.728152, "lng": -76.99901, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]});

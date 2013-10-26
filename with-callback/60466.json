@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.472934, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "University Park", "lng": -87.68767, "zip_code": "60466"});
+zipapicallback({"locality": "Park Forest", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Park Forest", "University Park", "University Pk"], "postal_code": "60466", "lat": 41.472934, "lng": -87.68767, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "197", "name": "Will"}, {"fips": "097", "name": "Lake"}]});

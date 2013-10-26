@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.550511, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Montpelier", "lng": -85.28118, "zip_code": "47359"});
+zipapicallback({"locality": "Montpelier", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Montpelier"], "postal_code": "47359", "lat": 40.550511, "lng": -85.28118, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blackford"}, {"fips": "179", "name": "Wells"}, {"fips": "075", "name": "Jay"}]});

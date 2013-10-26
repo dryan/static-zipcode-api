@@ -1,1 +1,1 @@
-{"lat": 34.774914, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Long Creek", "lng": -83.27236, "zip_code": "29658"}
+{"locality": "Long Creek", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Long Creek"], "postal_code": "29658", "lat": 34.774914, "lng": -83.27236, "type": "STANDARD", "counties": [{"fips": "073", "name": "Oconee"}]}

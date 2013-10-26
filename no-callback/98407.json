@@ -1,1 +1,1 @@
-{"lat": 47.28392, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Tacoma", "lng": -122.50433, "zip_code": "98407"}
+{"locality": "Tacoma", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ruston", "Tacoma"], "postal_code": "98407", "lat": 47.28392, "lng": -122.50433, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

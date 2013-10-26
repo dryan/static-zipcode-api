@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.070257, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Warda", "lng": -96.91939, "zip_code": "78960"});
+zipapicallback({"locality": "Warda", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Warda"], "postal_code": "78960", "lat": 30.070257, "lng": -96.91939, "type": "POBOX", "counties": [{"fips": "149", "name": "Fayette"}]});

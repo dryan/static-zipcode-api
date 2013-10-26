@@ -1,1 +1,1 @@
-{"lat": 38.909605, "region": {"abbr": "CA", "name": "California"}, "locality": "Auburn", "lng": -121.07971, "zip_code": "95603"}
+{"locality": "Auburn", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Auburn"], "postal_code": "95603", "lat": 38.909605, "lng": -121.07971, "type": "STANDARD", "counties": [{"fips": "061", "name": "Placer"}]}

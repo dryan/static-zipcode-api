@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.536338, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Round Lake", "lng": -95.38554, "zip_code": "56167"});
+zipapicallback({"locality": "Round Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Round Lake"], "postal_code": "56167", "lat": 43.536338, "lng": -95.38554, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}, {"fips": "143", "name": "Sibley"}, {"fips": "063", "name": "Jackson"}]});

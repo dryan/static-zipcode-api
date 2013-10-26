@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.508563, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Port Royal", "lng": -77.42137, "zip_code": "17082"});
+zipapicallback({"locality": "Port Royal", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Port Royal"], "postal_code": "17082", "lat": 40.508563, "lng": -77.42137, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}]});

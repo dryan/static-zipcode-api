@@ -1,1 +1,1 @@
-{"lat": 30.514401, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Round Rock", "lng": -97.65549, "zip_code": "78664"}
+{"locality": "Round Rock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Round Rock"], "postal_code": "78664", "lat": 30.514401, "lng": -97.65549, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}]}

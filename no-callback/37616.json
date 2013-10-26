@@ -1,1 +1,1 @@
-{"lat": 36.218863, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Afton", "lng": -82.74704, "zip_code": "37616"}
+{"locality": "Afton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Afton"], "postal_code": "37616", "lat": 36.218863, "lng": -82.74704, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}, {"fips": "163", "name": "Sullivan"}]}

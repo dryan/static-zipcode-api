@@ -1,1 +1,1 @@
-{"lat": 33.59107, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "North Augusta", "lng": -81.96445, "zip_code": "29860"}
+{"locality": "North Augusta", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["North Augusta"], "postal_code": "29860", "lat": 33.59107, "lng": -81.96445, "type": "STANDARD", "counties": []}

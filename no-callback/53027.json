@@ -1,1 +1,1 @@
-{"lat": 43.313361, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hartford", "lng": -88.37332, "zip_code": "53027"}
+{"locality": "Hartford", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hartford"], "postal_code": "53027", "lat": 43.313361, "lng": -88.37332, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}, {"fips": "027", "name": "Dodge"}]}

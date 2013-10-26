@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.400476, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Dougherty", "lng": -97.05041, "zip_code": "73032"});
+zipapicallback({"locality": "Dougherty", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Dougherty"], "postal_code": "73032", "lat": 34.400476, "lng": -97.05041, "type": "POBOX", "counties": [{"fips": "099", "name": "Murray"}]});

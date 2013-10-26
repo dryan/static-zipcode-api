@@ -1,1 +1,1 @@
-{"lat": 41.470084, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Steger", "lng": -87.63369, "zip_code": "60475"}
+{"locality": "Steger", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chicago Heights", "Chicago Hts", "Steger"], "postal_code": "60475", "lat": 41.470084, "lng": -87.63369, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

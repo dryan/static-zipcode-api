@@ -1,1 +1,1 @@
-{"lat": 44.903194, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Schofield", "lng": -89.57937, "zip_code": "54476"}
+{"locality": "Schofield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Schofield", "Weston"], "postal_code": "54476", "lat": 44.903194, "lng": -89.57937, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}]}

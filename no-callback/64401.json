@@ -1,1 +1,1 @@
-{"lat": 39.627397, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Agency", "lng": -94.72215, "zip_code": "64401"}
+{"locality": "Agency", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Agency"], "postal_code": "64401", "lat": 39.627397, "lng": -94.72215, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buchanan"}]}

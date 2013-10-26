@@ -1,1 +1,1 @@
-{"lat": 40.639849, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Loudonville", "lng": -82.2246, "zip_code": "44842"}
+{"locality": "Loudonville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Loudonville"], "postal_code": "44842", "lat": 40.639849, "lng": -82.2246, "type": "STANDARD", "counties": [{"fips": "005", "name": "Ashland"}, {"fips": "083", "name": "Knox"}, {"fips": "075", "name": "Holmes"}]}

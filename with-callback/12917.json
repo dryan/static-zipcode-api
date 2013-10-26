@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.915973, "region": {"abbr": "NY", "name": "New York"}, "locality": "Burke", "lng": -74.16565, "zip_code": "12917"});
+zipapicallback({"locality": "Burke", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Burke"], "postal_code": "12917", "lat": 44.915973, "lng": -74.16565, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}]});

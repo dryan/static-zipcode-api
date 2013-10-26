@@ -1,1 +1,1 @@
-{"lat": 41.544911, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hamilton", "lng": -84.89154, "zip_code": "46742"}
+{"locality": "Hamilton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hamilton"], "postal_code": "46742", "lat": 41.544911, "lng": -84.89154, "type": "STANDARD", "counties": [{"fips": "151", "name": "Steuben"}, {"fips": "033", "name": "De Kalb"}]}

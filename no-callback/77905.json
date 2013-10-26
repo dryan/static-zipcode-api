@@ -1,1 +1,1 @@
-{"lat": 28.737085, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Victoria", "lng": -97.0146, "zip_code": "77905"}
+{"locality": "Victoria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Raisin", "Victoria"], "postal_code": "77905", "lat": 28.737085, "lng": -97.0146, "type": "STANDARD", "counties": [{"fips": "469", "name": "Victoria"}]}

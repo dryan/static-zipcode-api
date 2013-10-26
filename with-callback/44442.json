@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.966908, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Middletown", "lng": -80.55862, "zip_code": "44442"});
+zipapicallback({"locality": "New Middletown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Middletown", "New Middletwn"], "postal_code": "44442", "lat": 40.966908, "lng": -80.55862, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]});

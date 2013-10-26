@@ -1,1 +1,1 @@
-{"lat": 38.813326, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Florence", "lng": -84.94113, "zip_code": "47020"}
+{"locality": "Florence", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Florence"], "postal_code": "47020", "lat": 38.813326, "lng": -84.94113, "type": "STANDARD", "counties": [{"fips": "155", "name": "Switzerland"}]}

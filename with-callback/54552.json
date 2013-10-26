@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.927783, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Park Falls", "lng": -90.34311, "zip_code": "54552"});
+zipapicallback({"locality": "Park Falls", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Park Falls"], "postal_code": "54552", "lat": 45.927783, "lng": -90.34311, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}, {"fips": "051", "name": "Iron"}, {"fips": "113", "name": "Sawyer"}]});

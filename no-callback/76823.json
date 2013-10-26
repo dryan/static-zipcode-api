@@ -1,1 +1,1 @@
-{"lat": 31.714347, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bangs", "lng": -99.14462, "zip_code": "76823"}
+{"locality": "Bangs", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bangs"], "postal_code": "76823", "lat": 31.714347, "lng": -99.14462, "type": "STANDARD", "counties": [{"fips": "049", "name": "Brown"}, {"fips": "083", "name": "Coleman"}]}

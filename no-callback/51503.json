@@ -1,1 +1,1 @@
-{"lat": 41.2544, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Council Bluffs", "lng": -95.79062, "zip_code": "51503"}
+{"locality": "Council Bluffs", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Council Blfs", "Council Bluffs"], "postal_code": "51503", "lat": 41.2544, "lng": -95.79062, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]}

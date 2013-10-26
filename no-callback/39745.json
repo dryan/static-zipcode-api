@@ -1,1 +1,1 @@
-{"lat": 33.312695, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "French Camp", "lng": -89.41628, "zip_code": "39745"}
+{"locality": "French Camp", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["French Camp"], "postal_code": "39745", "lat": 33.312695, "lng": -89.41628, "type": "STANDARD", "counties": [{"fips": "019", "name": "Choctaw"}]}

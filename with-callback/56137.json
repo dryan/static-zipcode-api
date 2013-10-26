@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.826163, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Heron Lake", "lng": -95.34591, "zip_code": "56137"});
+zipapicallback({"locality": "Heron Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Heron Lake"], "postal_code": "56137", "lat": 43.826163, "lng": -95.34591, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jackson"}, {"fips": "105", "name": "Nobles"}, {"fips": "033", "name": "Cottonwood"}]});

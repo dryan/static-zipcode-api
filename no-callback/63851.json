@@ -1,1 +1,1 @@
-{"lat": 36.235881, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hayti Heights", "lng": -89.74861, "zip_code": "63851"}
+{"locality": "Hayti", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hayti", "Hayti Heights", "Pascola"], "postal_code": "63851", "lat": 36.235881, "lng": -89.74861, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pemiscot"}]}

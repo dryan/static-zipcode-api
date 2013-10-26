@@ -1,1 +1,1 @@
-{"lat": 41.886794, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hillside", "lng": -87.91052, "zip_code": "60163"}
+{"locality": "Berkeley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Berkeley", "Hillside", "Melrose Park"], "postal_code": "60163", "lat": 41.886794, "lng": -87.91052, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

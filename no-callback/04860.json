@@ -1,1 +1,1 @@
-{"lat": 43.9464, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Tenants Harbor", "lng": -69.23524, "zip_code": "04860"}
+{"locality": "Tenants Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Saint George", "Tenants Harbor", "Tenants Hbr"], "postal_code": "04860", "lat": 43.9464, "lng": -69.23524, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]}

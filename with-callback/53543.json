@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.043206, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Highland", "lng": -90.35954, "zip_code": "53543"});
+zipapicallback({"locality": "Highland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Highland"], "postal_code": "53543", "lat": 43.043206, "lng": -90.35954, "type": "STANDARD", "counties": [{"fips": "049", "name": "Iowa"}, {"fips": "043", "name": "Grant"}]});

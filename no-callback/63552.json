@@ -1,1 +1,1 @@
-{"lat": 39.747736, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Macon", "lng": -92.46878, "zip_code": "63552"}
+{"locality": "Macon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Macon"], "postal_code": "63552", "lat": 39.747736, "lng": -92.46878, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}]}

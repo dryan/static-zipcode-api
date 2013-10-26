@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.333016, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Monroe", "lng": -123.36508, "zip_code": "97456"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Monroe"], "postal_code": "97456", "lat": 44.333016, "lng": -123.36508, "type": "STANDARD", "counties": [{"fips": "003", "name": "Benton"}]});

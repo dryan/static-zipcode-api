@@ -1,1 +1,1 @@
-{"lat": 30.944302, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mount Hermon", "lng": -90.26252, "zip_code": "70450"}
+{"locality": "Mount Hermon", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mount Hermon"], "postal_code": "70450", "lat": 30.944302, "lng": -90.26252, "type": "STANDARD", "counties": [{"fips": "117", "name": "Washington"}]}

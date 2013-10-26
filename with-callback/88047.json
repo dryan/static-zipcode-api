@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.213198, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mesilla Park", "lng": -106.71991, "zip_code": "88047"});
+zipapicallback({"locality": "Mesilla Park", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Mesilla Park"], "postal_code": "88047", "lat": 32.213198, "lng": -106.71991, "type": "STANDARD", "counties": [{"fips": "013", "name": "Dona Ana"}]});

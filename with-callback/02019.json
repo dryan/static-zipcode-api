@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.075122, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Bellingham", "lng": -71.47953, "zip_code": "02019"});
+zipapicallback({"locality": "Bellingham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Bellingham"], "postal_code": "02019", "lat": 42.075122, "lng": -71.47953, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

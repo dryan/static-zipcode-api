@@ -1,1 +1,1 @@
-{"lat": 39.589832, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Huron", "lng": -95.31425, "zip_code": "66041"}
+{"locality": "Lancaster", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Huron", "Lancaster"], "postal_code": "66041", "lat": 39.589832, "lng": -95.31425, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}]}

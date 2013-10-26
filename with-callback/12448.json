@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.073259, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lake Hill", "lng": -74.1893, "zip_code": "12448"});
+zipapicallback({"locality": "Lake Hill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lake Hill"], "postal_code": "12448", "lat": 42.073259, "lng": -74.1893, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.442592, "region": {"abbr": "NY", "name": "New York"}, "locality": "Preston Hollow", "lng": -74.24159, "zip_code": "12469"});
+zipapicallback({"locality": "Preston Hollow", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Preston Hollow", "Preston Holw"], "postal_code": "12469", "lat": 42.442592, "lng": -74.24159, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}, {"fips": "039", "name": "Greene"}, {"fips": "095", "name": "Schoharie"}]});

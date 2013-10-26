@@ -1,1 +1,1 @@
-{"lat": 41.451074, "region": {"abbr": "NY", "name": "New York"}, "locality": "Campbell Hall", "lng": -74.24346, "zip_code": "10916"}
+{"locality": "Campbell Hall", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Campbell Hall"], "postal_code": "10916", "lat": 41.451074, "lng": -74.24346, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

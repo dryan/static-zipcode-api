@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.236303, "region": {"abbr": "NY", "name": "New York"}, "locality": "Blossvale", "lng": -75.68087, "zip_code": "13308"});
+zipapicallback({"locality": "Blossvale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Blossvale"], "postal_code": "13308", "lat": 43.236303, "lng": -75.68087, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]});

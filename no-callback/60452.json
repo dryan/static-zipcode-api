@@ -1,1 +1,1 @@
-{"lat": 41.605633, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oak Forest", "lng": -87.75356, "zip_code": "60452"}
+{"locality": "Oak Forest", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Oak Forest"], "postal_code": "60452", "lat": 41.605633, "lng": -87.75356, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

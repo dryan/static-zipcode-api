@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.554821, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Burgaw", "lng": -77.92764, "zip_code": "28425"});
+zipapicallback({"locality": "Burgaw", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Burgaw", "Saint Helena"], "postal_code": "28425", "lat": 34.554821, "lng": -77.92764, "type": "STANDARD", "counties": [{"fips": "141", "name": "Pender"}]});

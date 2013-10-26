@@ -1,1 +1,1 @@
-{"lat": 34.211171, "region": {"abbr": "CA", "name": "California"}, "locality": "Flintridge", "lng": -118.19776, "zip_code": "91011"}
+{"locality": "La Canada Flintridge", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Flintridge", "La Canada", "La Canada Flintridge", "La Canada Flt"], "postal_code": "91011", "lat": 34.211171, "lng": -118.19776, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

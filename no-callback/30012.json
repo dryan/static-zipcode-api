@@ -1,1 +1,1 @@
-{"lat": 33.696714, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Conyers", "lng": -84.01732, "zip_code": "30012"}
+{"locality": "Conyers", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Conyers"], "postal_code": "30012", "lat": 33.696714, "lng": -84.01732, "type": "STANDARD", "counties": []}

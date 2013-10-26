@@ -1,1 +1,1 @@
-{"lat": 35.968675, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Perkins", "lng": -97.04258, "zip_code": "74059"}
+{"locality": "Perkins", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Perkins"], "postal_code": "74059", "lat": 35.968675, "lng": -97.04258, "type": "STANDARD", "counties": [{"fips": "119", "name": "Payne"}, {"fips": "081", "name": "Lincoln"}, {"fips": "083", "name": "Logan"}]}

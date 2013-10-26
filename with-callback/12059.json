@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.621933, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Berne", "lng": -74.05574, "zip_code": "12059"});
+zipapicallback({"locality": "East Berne", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Berne"], "postal_code": "12059", "lat": 42.621933, "lng": -74.05574, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

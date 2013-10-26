@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.45453, "region": {"abbr": "CA", "name": "California"}, "locality": "Anderson", "lng": -122.31101, "zip_code": "96007"});
+zipapicallback({"locality": "Anderson", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Anderson"], "postal_code": "96007", "lat": 40.45453, "lng": -122.31101, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.569417, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Canton", "lng": -91.90736, "zip_code": "55922"}
+{"locality": "Canton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Canton"], "postal_code": "55922", "lat": 43.569417, "lng": -91.90736, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}]}

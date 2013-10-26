@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.467597, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Copper Harbor", "lng": -87.88212, "zip_code": "49918"});
+zipapicallback({"locality": "Copper Harbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Calumet", "Copper Harbor"], "postal_code": "49918", "lat": 47.467597, "lng": -87.88212, "type": "POBOX", "counties": [{"fips": "083", "name": "Keweenaw"}]});

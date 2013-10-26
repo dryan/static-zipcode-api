@@ -1,1 +1,1 @@
-{"lat": 40.708166, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rochester", "lng": -80.2735, "zip_code": "15074"}
+{"locality": "Rochester", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Rochester"], "postal_code": "15074", "lat": 40.708166, "lng": -80.2735, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]}

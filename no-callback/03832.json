@@ -1,1 +1,1 @@
-{"lat": 43.907045, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Eaton Center", "lng": -71.04716, "zip_code": "03832"}
+{"locality": "Eaton Center", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Eaton Center"], "postal_code": "03832", "lat": 43.907045, "lng": -71.04716, "type": "POBOX", "counties": [{"fips": "003", "name": "Carroll"}]}

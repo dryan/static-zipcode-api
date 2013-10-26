@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.788052, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Emden", "lng": -91.85812, "zip_code": "63439"});
+zipapicallback({"locality": "Emden", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Emden"], "postal_code": "63439", "lat": 39.788052, "lng": -91.85812, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marion"}, {"fips": "205", "name": "Shelby"}]});

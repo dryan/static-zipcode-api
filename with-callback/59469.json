@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.261238, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Raynesford", "lng": -110.725, "zip_code": "59469"});
+zipapicallback({"locality": "Raynesford", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Raynesford"], "postal_code": "59469", "lat": 47.261238, "lng": -110.725, "type": "STANDARD", "counties": [{"fips": "045", "name": "Judith Basin"}]});

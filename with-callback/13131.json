@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.415157, "region": {"abbr": "NY", "name": "New York"}, "locality": "Parish", "lng": -76.11416, "zip_code": "13131"});
+zipapicallback({"locality": "Parish", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Parish"], "postal_code": "13131", "lat": 43.415157, "lng": -76.11416, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}]});

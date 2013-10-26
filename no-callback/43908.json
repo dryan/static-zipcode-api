@@ -1,1 +1,1 @@
-{"lat": 40.518045, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bergholz", "lng": -80.88733, "zip_code": "43908"}
+{"locality": "Bergholz", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bergholz"], "postal_code": "43908", "lat": 40.518045, "lng": -80.88733, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}, {"fips": "019", "name": "Carroll"}]}

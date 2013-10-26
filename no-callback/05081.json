@@ -1,1 +1,1 @@
-{"lat": 44.135828, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Wells River", "lng": -72.09061, "zip_code": "05081"}
+{"locality": "Wells River", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Wells River"], "postal_code": "05081", "lat": 44.135828, "lng": -72.09061, "type": "STANDARD", "counties": [{"fips": "017", "name": "Orange"}]}

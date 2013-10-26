@@ -1,1 +1,1 @@
-{"lat": 32.875574, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mc Intyre", "lng": -83.19785, "zip_code": "31054"}
+{"locality": "Mc Intyre", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mc Intyre"], "postal_code": "31054", "lat": 32.875574, "lng": -83.19785, "type": "STANDARD", "counties": [{"fips": "319", "name": "Wilkinson"}]}

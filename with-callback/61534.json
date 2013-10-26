@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.40943, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Green Valley", "lng": -89.65687, "zip_code": "61534"});
+zipapicallback({"locality": "Green Valley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Green Valley"], "postal_code": "61534", "lat": 40.40943, "lng": -89.65687, "type": "STANDARD", "counties": [{"fips": "179", "name": "Tazewell"}, {"fips": "125", "name": "MacOn"}]});

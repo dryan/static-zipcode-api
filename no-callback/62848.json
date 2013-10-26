@@ -1,1 +1,1 @@
-{"lat": 38.436236, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Irvington", "lng": -89.16184, "zip_code": "62848"}
+{"locality": "Irvington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Irvington"], "postal_code": "62848", "lat": 38.436236, "lng": -89.16184, "type": "POBOX", "counties": [{"fips": "189", "name": "Washington"}]}

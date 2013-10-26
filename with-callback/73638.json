@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.819529, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Crawford", "lng": -99.77425, "zip_code": "73638"});
+zipapicallback({"locality": "Crawford", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Crawford"], "postal_code": "73638", "lat": 35.819529, "lng": -99.77425, "type": "STANDARD", "counties": [{"fips": "129", "name": "Roger Mills"}]});

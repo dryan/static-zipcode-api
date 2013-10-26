@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.850218, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Conway", "lng": -79.01692, "zip_code": "29526"});
+zipapicallback({"locality": "Conway", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Conway"], "postal_code": "29526", "lat": 33.850218, "lng": -79.01692, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}, {"fips": "019", "name": "Charleston"}]});

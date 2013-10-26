@@ -1,1 +1,1 @@
-{"lat": 33.097841, "region": {"abbr": "CA", "name": "California"}, "locality": "Carlsbad", "lng": -117.26744, "zip_code": "92009"}
+{"locality": "Carlsbad", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Carlsbad", "La Costa"], "postal_code": "92009", "lat": 33.097841, "lng": -117.26744, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

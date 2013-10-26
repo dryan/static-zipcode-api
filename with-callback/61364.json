@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.129482, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Streator", "lng": -88.83666, "zip_code": "61364"});
+zipapicallback({"locality": "Streator", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Streator"], "postal_code": "61364", "lat": 41.129482, "lng": -88.83666, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}, {"fips": "105", "name": "Livingston"}]});

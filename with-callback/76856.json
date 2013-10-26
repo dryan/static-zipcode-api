@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.75159, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mason", "lng": -99.23238, "zip_code": "76856"});
+zipapicallback({"locality": "Mason", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mason"], "postal_code": "76856", "lat": 30.75159, "lng": -99.23238, "type": "STANDARD", "counties": [{"fips": "319", "name": "Mason"}, {"fips": "171", "name": "Gillespie"}, {"fips": "267", "name": "Kimble"}]});

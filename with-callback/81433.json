@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.868294, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Silverton", "lng": -107.62223, "zip_code": "81433"});
+zipapicallback({"locality": "Silverton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Silverton"], "postal_code": "81433", "lat": 37.868294, "lng": -107.62223, "type": "POBOX", "counties": [{"fips": "111", "name": "San Juan"}]});

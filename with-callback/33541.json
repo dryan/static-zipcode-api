@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.234624, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Zephyrhills", "lng": -82.20022, "zip_code": "33541"});
+zipapicallback({"locality": "Zephyrhills", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Zephyrhills"], "postal_code": "33541", "lat": 28.234624, "lng": -82.20022, "type": "STANDARD", "counties": []});

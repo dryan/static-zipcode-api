@@ -1,1 +1,1 @@
-{"lat": 39.816063, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Woodbury Heights", "lng": -75.15321, "zip_code": "08097"}
+{"locality": "Woodbury Heights", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Woodbury", "Woodbury Heights", "Woodbury Hts"], "postal_code": "08097", "lat": 39.816063, "lng": -75.15321, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

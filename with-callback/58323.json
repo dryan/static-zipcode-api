@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.849591, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Calvin", "lng": -98.90525, "zip_code": "58323"});
+zipapicallback({"locality": "Calvin", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Calvin"], "postal_code": "58323", "lat": 48.849591, "lng": -98.90525, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cavalier"}, {"fips": "095", "name": "Towner"}]});

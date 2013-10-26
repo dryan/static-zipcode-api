@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.492622, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fisher", "lng": -93.46457, "zip_code": "71426"});
+zipapicallback({"locality": "Fisher", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fisher"], "postal_code": "71426", "lat": 31.492622, "lng": -93.46457, "type": "POBOX", "counties": [{"fips": "085", "name": "Sabine"}]});

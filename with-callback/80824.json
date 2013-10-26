@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.650653, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Kirk", "lng": -102.52694, "zip_code": "80824"});
+zipapicallback({"locality": "Kirk", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Kirk"], "postal_code": "80824", "lat": 39.650653, "lng": -102.52694, "type": "STANDARD", "counties": [{"fips": "125", "name": "Yuma"}, {"fips": "063", "name": "Kit Carson"}]});

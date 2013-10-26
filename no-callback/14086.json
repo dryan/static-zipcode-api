@@ -1,1 +1,1 @@
-{"lat": 42.904258, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lancaster", "lng": -78.65519, "zip_code": "14086"}
+{"locality": "Lancaster", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lancaster"], "postal_code": "14086", "lat": 42.904258, "lng": -78.65519, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

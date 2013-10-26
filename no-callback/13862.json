@@ -1,1 +1,1 @@
-{"lat": 42.328284, "region": {"abbr": "NY", "name": "New York"}, "locality": "Whitney Point", "lng": -75.95021, "zip_code": "13862"}
+{"locality": "Whitney Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Whitney Point"], "postal_code": "13862", "lat": 42.328284, "lng": -75.95021, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}, {"fips": "023", "name": "Cortland"}]}

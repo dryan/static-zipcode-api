@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.152505, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dierks", "lng": -94.03786, "zip_code": "71833"});
+zipapicallback({"locality": "Dierks", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Dierks"], "postal_code": "71833", "lat": 34.152505, "lng": -94.03786, "type": "STANDARD", "counties": [{"fips": "061", "name": "Howard"}]});

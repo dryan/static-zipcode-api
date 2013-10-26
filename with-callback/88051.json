@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.091874, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mule Creek", "lng": -108.94007, "zip_code": "88051"});
+zipapicallback({"locality": "Mule Creek", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Mule Creek"], "postal_code": "88051", "lat": 33.091874, "lng": -108.94007, "type": "POBOX", "counties": [{"fips": "017", "name": "Grant"}]});

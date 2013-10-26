@@ -1,1 +1,1 @@
-{"lat": 38.587503, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Midland", "lng": -77.70952, "zip_code": "22728"}
+{"locality": "Midland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Midland"], "postal_code": "22728", "lat": 38.587503, "lng": -77.70952, "type": "STANDARD", "counties": [{"fips": "061", "name": "Fauquier"}]}

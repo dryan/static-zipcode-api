@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.414739, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Roxboro", "lng": -78.97375, "zip_code": "27573"});
+zipapicallback({"locality": "Roxboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Roxboro"], "postal_code": "27573", "lat": 36.414739, "lng": -78.97375, "type": "STANDARD", "counties": [{"fips": "145", "name": "Person"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.134094, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Albuquerque", "lng": -106.64073, "zip_code": "87107"});
+zipapicallback({"locality": "Albuquerque", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Albuquerque", "Los Ranchos", "Los Ranchos De Abq", "Los Ranchos De Albuquerque", "Los Rnchs Abq", "Village Of Los Ranchos"], "postal_code": "87107", "lat": 35.134094, "lng": -106.64073, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bernalillo"}]});

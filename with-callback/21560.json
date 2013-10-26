@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.564946, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Spring Gap", "lng": -78.711, "zip_code": "21560"});
+zipapicallback({"locality": "Spring Gap", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Spring Gap"], "postal_code": "21560", "lat": 39.564946, "lng": -78.711, "type": "POBOX", "counties": [{"fips": "001", "name": "Allegany"}]});

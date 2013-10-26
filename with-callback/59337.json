@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.349999, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Jordan", "lng": -106.95207, "zip_code": "59337"});
+zipapicallback({"locality": "Jordan", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Jordan"], "postal_code": "59337", "lat": 47.349999, "lng": -106.95207, "type": "STANDARD", "counties": [{"fips": "033", "name": "Garfield"}]});

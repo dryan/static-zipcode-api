@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.709555, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Felida", "lng": -122.68473, "zip_code": "98685"});
+zipapicallback({"locality": "Vancouver", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Vancouver"], "postal_code": "98685", "lat": 45.709555, "lng": -122.68473, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}]});

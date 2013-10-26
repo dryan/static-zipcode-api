@@ -1,1 +1,1 @@
-{"lat": 36.813383, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Speedwell", "lng": -81.19791, "zip_code": "24374"}
+{"locality": "Speedwell", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Speedwell"], "postal_code": "24374", "lat": 36.813383, "lng": -81.19791, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wythe"}, {"fips": "173", "name": "Smyth"}]}

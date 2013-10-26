@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.716741, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Clinton", "lng": -113.62908, "zip_code": "59825"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Clinton"], "postal_code": "59825", "lat": 46.716741, "lng": -113.62908, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}]});

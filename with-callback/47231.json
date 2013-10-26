@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.8937, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dupont", "lng": -85.5097, "zip_code": "47231"});
+zipapicallback({"locality": "Dupont", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dupont"], "postal_code": "47231", "lat": 38.8937, "lng": -85.5097, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jefferson"}, {"fips": "079", "name": "Jennings"}]});

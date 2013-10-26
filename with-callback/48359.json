@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.722932, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Orion", "lng": -83.28537, "zip_code": "48359"});
+zipapicallback({"locality": "Lake Orion", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lake Orion", "Orion"], "postal_code": "48359", "lat": 42.722932, "lng": -83.28537, "type": "STANDARD", "counties": []});

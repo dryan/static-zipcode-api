@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.021335, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Perdido", "lng": -87.64417, "zip_code": "36562"});
+zipapicallback({"locality": "Perdido", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Perdido"], "postal_code": "36562", "lat": 31.021335, "lng": -87.64417, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}, {"fips": "053", "name": "Escambia"}]});

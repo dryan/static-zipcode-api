@@ -1,1 +1,1 @@
-{"lat": 44.725437, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Canby", "lng": -96.2921, "zip_code": "56220"}
+{"locality": "Canby", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Canby"], "postal_code": "56220", "lat": 44.725437, "lng": -96.2921, "type": "STANDARD", "counties": [{"fips": "173", "name": "Yellow Medicine"}, {"fips": "073", "name": "Lac Qui Parle"}, {"fips": "081", "name": "Lincoln"}]}

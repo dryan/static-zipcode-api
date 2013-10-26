@@ -1,1 +1,1 @@
-{"lat": 36.492129, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Oak Grove", "lng": -93.3744, "zip_code": "72660"}
+{"locality": "Oak Grove", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Oak Grove"], "postal_code": "72660", "lat": 36.492129, "lng": -93.3744, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.366554, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Rush Valley", "lng": -112.45813, "zip_code": "84069"}
+{"locality": "Rush Valley", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Rush Valley"], "postal_code": "84069", "lat": 40.366554, "lng": -112.45813, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]}

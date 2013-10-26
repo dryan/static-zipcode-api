@@ -1,1 +1,1 @@
-{"lat": 33.857895, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Abernathy", "lng": -101.88156, "zip_code": "79311"}
+{"locality": "Abernathy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Abernathy"], "postal_code": "79311", "lat": 33.857895, "lng": -101.88156, "type": "STANDARD", "counties": [{"fips": "189", "name": "Hale"}, {"fips": "303", "name": "Lubbock"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.558598, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hickman", "lng": -89.19789, "zip_code": "42050"}
+{"locality": "Hickman", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hickman"], "postal_code": "42050", "lat": 36.558598, "lng": -89.19789, "type": "STANDARD", "counties": [{"fips": "075", "name": "Fulton"}]}

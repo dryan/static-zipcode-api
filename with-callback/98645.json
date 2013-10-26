@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.318482, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Silverlake", "lng": -122.7757, "zip_code": "98645"});
+zipapicallback({"locality": "Silverlake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Silverlake"], "postal_code": "98645", "lat": 46.318482, "lng": -122.7757, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cowlitz"}]});

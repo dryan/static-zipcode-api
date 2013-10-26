@@ -1,1 +1,1 @@
-{"lat": 38.017205, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mapleton", "lng": -94.8929, "zip_code": "66754"}
+{"locality": "Mapleton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mapleton"], "postal_code": "66754", "lat": 38.017205, "lng": -94.8929, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bourbon"}, {"fips": "107", "name": "Linn"}]}

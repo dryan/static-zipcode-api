@@ -1,1 +1,1 @@
-{"lat": 37.724497, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bybee", "lng": -84.11389, "zip_code": "40385"}
+{"locality": "Waco", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bybee", "College Hill", "Dreyfus", "Waco"], "postal_code": "40385", "lat": 37.724497, "lng": -84.11389, "type": "STANDARD", "counties": [{"fips": "151", "name": "Madison"}, {"fips": "065", "name": "Estill"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.044021, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Danville", "lng": -93.4195, "zip_code": "72833"});
+zipapicallback({"locality": "Danville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Danville"], "postal_code": "72833", "lat": 35.044021, "lng": -93.4195, "type": "STANDARD", "counties": [{"fips": "149", "name": "Yell"}]});

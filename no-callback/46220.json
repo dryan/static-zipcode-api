@@ -1,1 +1,1 @@
-{"lat": 39.866913, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Indianapolis", "lng": -86.12323, "zip_code": "46220"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis"], "postal_code": "46220", "lat": 39.866913, "lng": -86.12323, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}, {"fips": "095", "name": "Madison"}]}

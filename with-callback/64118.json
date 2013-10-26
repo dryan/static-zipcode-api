@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.213082, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gladstone", "lng": -94.57248, "zip_code": "64118"});
+zipapicallback({"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gladstone", "Kansas City"], "postal_code": "64118", "lat": 39.213082, "lng": -94.57248, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}]});

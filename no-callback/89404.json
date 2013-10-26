@@ -1,1 +1,1 @@
-{"lat": 41.826461, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Denio", "lng": -118.71295, "zip_code": "89404"}
+{"locality": "Denio", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Denio"], "postal_code": "89404", "lat": 41.826461, "lng": -118.71295, "type": "POBOX", "counties": [{"fips": "013", "name": "Humboldt"}]}

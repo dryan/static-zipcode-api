@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.161492, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Chicopee", "lng": -72.60316, "zip_code": "01013"});
+zipapicallback({"locality": "Chicopee", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Chicopee", "Willimansett"], "postal_code": "01013", "lat": 42.161492, "lng": -72.60316, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]});

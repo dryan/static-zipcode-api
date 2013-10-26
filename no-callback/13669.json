@@ -1,1 +1,1 @@
-{"lat": 44.683636, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ogdensburg", "lng": -75.49024, "zip_code": "13669"}
+{"locality": "Ogdensburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ogdensburg"], "postal_code": "13669", "lat": 44.683636, "lng": -75.49024, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.646189, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Gainesville", "lng": -82.39658, "zip_code": "32607"}
+{"locality": "Gainesville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Gainesville"], "postal_code": "32607", "lat": 29.646189, "lng": -82.39658, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alachua"}]}

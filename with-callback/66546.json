@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.895185, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wakarusa", "lng": -95.71995, "zip_code": "66546"});
+zipapicallback({"locality": "Wakarusa", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wakarusa"], "postal_code": "66546", "lat": 38.895185, "lng": -95.71995, "type": "STANDARD", "counties": [{"fips": "177", "name": "Shawnee"}, {"fips": "139", "name": "Osage"}]});

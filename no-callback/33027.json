@@ -1,1 +1,1 @@
-{"lat": 25.981409, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hollywood", "lng": -80.34491, "zip_code": "33027"}
+{"locality": "Hollywood", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hollywood", "Miramar", "Pembroke Pines", "Pembroke Pnes"], "postal_code": "33027", "lat": 25.981409, "lng": -80.34491, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

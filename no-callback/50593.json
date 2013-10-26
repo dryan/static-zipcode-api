@@ -1,1 +1,1 @@
-{"lat": 42.658595, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Varina", "lng": -94.90006, "zip_code": "50593"}
+{"locality": "Varina", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Varina"], "postal_code": "50593", "lat": 42.658595, "lng": -94.90006, "type": "POBOX", "counties": [{"fips": "151", "name": "Pocahontas"}]}

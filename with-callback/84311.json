@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.81571, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Fielding", "lng": -112.11338, "zip_code": "84311"});
+zipapicallback({"locality": "Fielding", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fielding"], "postal_code": "84311", "lat": 41.81571, "lng": -112.11338, "type": "STANDARD", "counties": [{"fips": "003", "name": "Box Elder"}]});

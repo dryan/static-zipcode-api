@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.06639, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lampasas", "lng": -98.19192, "zip_code": "76550"});
+zipapicallback({"locality": "Lampasas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lampasas"], "postal_code": "76550", "lat": 31.06639, "lng": -98.19192, "type": "STANDARD", "counties": [{"fips": "281", "name": "Lampasas"}, {"fips": "053", "name": "Burnet"}]});

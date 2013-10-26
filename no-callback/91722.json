@@ -1,1 +1,1 @@
-{"lat": 34.097708, "region": {"abbr": "CA", "name": "California"}, "locality": "Covina", "lng": -117.90698, "zip_code": "91722"}
+{"locality": "Covina", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Covina"], "postal_code": "91722", "lat": 34.097708, "lng": -117.90698, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

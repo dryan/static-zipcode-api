@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.502577, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Whitmire", "lng": -81.60777, "zip_code": "29178"});
+zipapicallback({"locality": "Whitmire", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Whitmire"], "postal_code": "29178", "lat": 34.502577, "lng": -81.60777, "type": "STANDARD", "counties": [{"fips": "071", "name": "Newberry"}, {"fips": "087", "name": "Union"}, {"fips": "059", "name": "Laurens"}]});

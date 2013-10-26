@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.482104, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Elmore", "lng": -94.09837, "zip_code": "56027"});
+zipapicallback({"locality": "Elmore", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elmore"], "postal_code": "56027", "lat": 43.482104, "lng": -94.09837, "type": "STANDARD", "counties": [{"fips": "043", "name": "Faribault"}, {"fips": "109", "name": "Olmsted"}, {"fips": "091", "name": "Martin"}]});

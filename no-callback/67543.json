@@ -1,1 +1,1 @@
-{"lat": 37.898787, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Haven", "lng": -97.79101, "zip_code": "67543"}
+{"locality": "Haven", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Haven"], "postal_code": "67543", "lat": 37.898787, "lng": -97.79101, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}]}

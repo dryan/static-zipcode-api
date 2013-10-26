@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.242009, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Windsor", "lng": -74.58006, "zip_code": "08561"});
+zipapicallback({"locality": "Windsor", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Windsor"], "postal_code": "08561", "lat": 40.242009, "lng": -74.58006, "type": "POBOX", "counties": [{"fips": "021", "name": "Mercer"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.950785, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gillett", "lng": -76.78511, "zip_code": "16925"});
+zipapicallback({"locality": "Gillett", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gillett"], "postal_code": "16925", "lat": 41.950785, "lng": -76.78511, "type": "STANDARD", "counties": [{"fips": "105", "name": "Potter"}, {"fips": "015", "name": "Bradford"}]});

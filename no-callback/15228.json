@@ -1,1 +1,1 @@
-{"lat": 40.372802, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Lebanon", "lng": -80.0448, "zip_code": "15228"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Lebanon", "Mt Lebanon", "Pittsburgh"], "postal_code": "15228", "lat": 40.372802, "lng": -80.0448, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

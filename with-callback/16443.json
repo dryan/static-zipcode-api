@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.942171, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Springfield", "lng": -80.48002, "zip_code": "16443"});
+zipapicallback({"locality": "West Springfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["W Springfield", "West Springfield"], "postal_code": "16443", "lat": 41.942171, "lng": -80.48002, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]});

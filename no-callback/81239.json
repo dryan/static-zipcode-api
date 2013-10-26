@@ -1,1 +1,1 @@
-{"lat": 38.618553, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Parlin", "lng": -106.54811, "zip_code": "81239"}
+{"locality": "Parlin", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Parlin"], "postal_code": "81239", "lat": 38.618553, "lng": -106.54811, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gunnison"}]}

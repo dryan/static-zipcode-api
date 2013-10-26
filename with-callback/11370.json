@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.763015, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Elmhurst", "lng": -73.89052, "zip_code": "11370"});
+zipapicallback({"locality": "East Elmhurst", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Elmhurst", "Flushing"], "postal_code": "11370", "lat": 40.763015, "lng": -73.89052, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.62127, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Clear Fork", "lng": -81.69408, "zip_code": "24822"});
+zipapicallback({"locality": "Clear Fork", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Clear Fork"], "postal_code": "24822", "lat": 37.62127, "lng": -81.69408, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]});

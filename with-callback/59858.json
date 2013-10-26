@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.293656, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Philipsburg", "lng": -113.36273, "zip_code": "59858"});
+zipapicallback({"locality": "Philipsburg", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Philipsburg"], "postal_code": "59858", "lat": 46.293656, "lng": -113.36273, "type": "STANDARD", "counties": [{"fips": "039", "name": "Granite"}]});

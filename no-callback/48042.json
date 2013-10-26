@@ -1,1 +1,1 @@
-{"lat": 42.68347, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Macomb", "lng": -82.92958, "zip_code": "48042"}
+{"locality": "Macomb", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Macomb"], "postal_code": "48042", "lat": 42.68347, "lng": -82.92958, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

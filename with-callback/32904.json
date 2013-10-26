@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.073891, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Melbourne Villag", "lng": -80.67167, "zip_code": "32904"});
+zipapicallback({"locality": "Melbourne", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Melbourne", "Melbourne Village", "Melbourne Vlg", "W Melbourne", "West Melbourne"], "postal_code": "32904", "lat": 28.073891, "lng": -80.67167, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}, {"fips": "097", "name": "Osceola"}]});

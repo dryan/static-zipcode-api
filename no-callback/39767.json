@@ -1,1 +1,1 @@
-{"lat": 33.463558, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Stewart", "lng": -89.46705, "zip_code": "39767"}
+{"locality": "Stewart", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Stewart"], "postal_code": "39767", "lat": 33.463558, "lng": -89.46705, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}]}

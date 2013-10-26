@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.6265, "region": {"abbr": "CA", "name": "California"}, "locality": "Fowler", "lng": -119.67526, "zip_code": "93625"});
+zipapicallback({"locality": "Fowler", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fowler"], "postal_code": "93625", "lat": 36.6265, "lng": -119.67526, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

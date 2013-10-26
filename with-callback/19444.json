@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.087297, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lafayette Hill", "lng": -75.2557, "zip_code": "19444"});
+zipapicallback({"locality": "Lafayette Hill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lafayette Hill", "Lafayette Hl", "Miquon"], "postal_code": "19444", "lat": 40.087297, "lng": -75.2557, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

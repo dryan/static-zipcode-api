@@ -1,1 +1,1 @@
-{"lat": 43.296299, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Reeseville", "lng": -88.86721, "zip_code": "53579"}
+{"locality": "Reeseville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Reeseville"], "postal_code": "53579", "lat": 43.296299, "lng": -88.86721, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

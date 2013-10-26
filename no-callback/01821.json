@@ -1,1 +1,1 @@
-{"lat": 42.54805, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Billerica", "lng": -71.25054, "zip_code": "01821"}
+{"locality": "Billerica", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Billerica"], "postal_code": "01821", "lat": 42.54805, "lng": -71.25054, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

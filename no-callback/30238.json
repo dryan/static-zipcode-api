@@ -1,1 +1,1 @@
-{"lat": 33.49348, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jonesboro", "lng": -84.37871, "zip_code": "30238"}
+{"locality": "Jonesboro", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Jonesboro"], "postal_code": "30238", "lat": 33.49348, "lng": -84.37871, "type": "STANDARD", "counties": []}

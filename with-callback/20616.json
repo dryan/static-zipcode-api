@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.639117, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bryans Road", "lng": -77.08301, "zip_code": "20616"});
+zipapicallback({"locality": "Bryans Road", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bryans Road"], "postal_code": "20616", "lat": 38.639117, "lng": -77.08301, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]});

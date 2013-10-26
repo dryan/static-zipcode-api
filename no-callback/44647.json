@@ -1,1 +1,1 @@
-{"lat": 40.793924, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Massillon", "lng": -81.55252, "zip_code": "44647"}
+{"locality": "Massillon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Massillon"], "postal_code": "44647", "lat": 40.793924, "lng": -81.55252, "type": "STANDARD", "counties": []}

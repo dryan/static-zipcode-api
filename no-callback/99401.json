@@ -1,1 +1,1 @@
-{"lat": 46.086657, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Anatone", "lng": -117.2491, "zip_code": "99401"}
+{"locality": "Anatone", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Anatone"], "postal_code": "99401", "lat": 46.086657, "lng": -117.2491, "type": "STANDARD", "counties": [{"fips": "003", "name": "Asotin"}]}

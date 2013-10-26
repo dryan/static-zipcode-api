@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.1009, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Carroll", "lng": -89.98255, "zip_code": "61053"});
+zipapicallback({"locality": "Mount Carroll", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Carroll"], "postal_code": "61053", "lat": 42.1009, "lng": -89.98255, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "085", "name": "Jo Daviess"}]});

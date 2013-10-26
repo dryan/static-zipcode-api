@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.674132, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Trumbull", "lng": -98.26496, "zip_code": "68980"});
+zipapicallback({"locality": "Trumbull", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Trumbull"], "postal_code": "68980", "lat": 40.674132, "lng": -98.26496, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clay"}, {"fips": "001", "name": "Adams"}, {"fips": "079", "name": "Hall"}, {"fips": "081", "name": "Hamilton"}]});

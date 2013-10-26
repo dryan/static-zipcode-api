@@ -1,1 +1,1 @@
-{"lat": 41.688827, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Worth", "lng": -87.79265, "zip_code": "60482"}
+{"locality": "Worth", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Worth"], "postal_code": "60482", "lat": 41.688827, "lng": -87.79265, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

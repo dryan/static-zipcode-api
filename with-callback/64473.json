@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.986725, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Oregon", "lng": -95.09514, "zip_code": "64473"});
+zipapicallback({"locality": "Oregon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Point", "Nw Point", "Oregon"], "postal_code": "64473", "lat": 39.986725, "lng": -95.09514, "type": "STANDARD", "counties": [{"fips": "087", "name": "Holt"}]});

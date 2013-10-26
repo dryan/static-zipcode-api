@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.432974, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Enloe", "lng": -95.65815, "zip_code": "75441"});
+zipapicallback({"locality": "Enloe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Enloe"], "postal_code": "75441", "lat": 33.432974, "lng": -95.65815, "type": "POBOX", "counties": [{"fips": "119", "name": "Delta"}]});

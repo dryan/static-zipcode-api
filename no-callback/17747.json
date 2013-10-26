@@ -1,1 +1,1 @@
-{"lat": 41.038555, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Loganton", "lng": -77.29872, "zip_code": "17747"}
+{"locality": "Loganton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Loganton", "Tylersville"], "postal_code": "17747", "lat": 41.038555, "lng": -77.29872, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clinton"}]}

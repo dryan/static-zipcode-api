@@ -1,1 +1,1 @@
-{"lat": 41.320345, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Seneca", "lng": -88.61017, "zip_code": "61360"}
+{"locality": "Seneca", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Seneca"], "postal_code": "61360", "lat": 41.320345, "lng": -88.61017, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}, {"fips": "063", "name": "Grundy"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.015318, "region": {"abbr": "CA", "name": "California"}, "locality": "Kettleman City", "lng": -120.00772, "zip_code": "93239"});
+zipapicallback({"locality": "Kettleman City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kettleman City", "Kettleman Cty"], "postal_code": "93239", "lat": 36.015318, "lng": -120.00772, "type": "STANDARD", "counties": [{"fips": "031", "name": "Kings"}]});

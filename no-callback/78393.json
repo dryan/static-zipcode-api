@@ -1,1 +1,1 @@
-{"lat": 28.206223, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Woodsboro", "lng": -97.30778, "zip_code": "78393"}
+{"locality": "Woodsboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Woodsboro"], "postal_code": "78393", "lat": 28.206223, "lng": -97.30778, "type": "STANDARD", "counties": [{"fips": "391", "name": "Refugio"}]}

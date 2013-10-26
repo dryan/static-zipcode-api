@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.064961, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ceresco", "lng": -96.64953, "zip_code": "68017"});
+zipapicallback({"locality": "Ceresco", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ceresco"], "postal_code": "68017", "lat": 41.064961, "lng": -96.64953, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]});

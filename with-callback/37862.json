@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.818653, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sevierville", "lng": -83.59197, "zip_code": "37862"});
+zipapicallback({"locality": "Sevierville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Pigeon Forge", "Sevierville"], "postal_code": "37862", "lat": 35.818653, "lng": -83.59197, "type": "STANDARD", "counties": [{"fips": "155", "name": "Sevier"}, {"fips": "115", "name": "Marion"}, {"fips": "123", "name": "Monroe"}]});

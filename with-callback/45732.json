@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.506243, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Glouster", "lng": -82.0779, "zip_code": "45732"});
+zipapicallback({"locality": "Glouster", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Glouster"], "postal_code": "45732", "lat": 39.506243, "lng": -82.0779, "type": "STANDARD", "counties": [{"fips": "009", "name": "Athens"}, {"fips": "073", "name": "Hocking"}, {"fips": "115", "name": "Morgan"}, {"fips": "127", "name": "Perry"}]});

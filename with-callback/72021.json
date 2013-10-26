@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.867846, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Brinkley", "lng": -91.19271, "zip_code": "72021"});
+zipapicallback({"locality": "Brinkley", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Brinkley"], "postal_code": "72021", "lat": 34.867846, "lng": -91.19271, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]});

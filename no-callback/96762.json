@@ -1,1 +1,1 @@
-{"lat": 21.6485, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Laie", "lng": -157.92556, "zip_code": "96762"}
+{"locality": "Laie", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Laie"], "postal_code": "96762", "lat": 21.6485, "lng": -157.92556, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}]}

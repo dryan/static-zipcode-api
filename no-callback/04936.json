@@ -1,1 +1,1 @@
-{"lat": 45.325768, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Eustis", "lng": -70.54062, "zip_code": "04936"}
+{"locality": "Eustis", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Chain Of Pnds", "Chain Of Ponds Twp", "Coburn Gore", "Eustis"], "postal_code": "04936", "lat": 45.325768, "lng": -70.54062, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]}

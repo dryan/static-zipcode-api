@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.528793, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Riverside", "lng": -119.45276, "zip_code": "98849"});
+zipapicallback({"locality": "Riverside", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Riverside"], "postal_code": "98849", "lat": 48.528793, "lng": -119.45276, "type": "STANDARD", "counties": [{"fips": "047", "name": "Okanogan"}]});

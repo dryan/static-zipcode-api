@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.395027, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Elmdale", "lng": -96.69377, "zip_code": "66850"});
+zipapicallback({"locality": "Elmdale", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Elmdale"], "postal_code": "66850", "lat": 38.395027, "lng": -96.69377, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chase"}]});

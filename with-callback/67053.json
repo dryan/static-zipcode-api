@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.246972, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Goessel", "lng": -97.34817, "zip_code": "67053"});
+zipapicallback({"locality": "Goessel", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Goessel"], "postal_code": "67053", "lat": 38.246972, "lng": -97.34817, "type": "POBOX", "counties": [{"fips": "115", "name": "Marion"}]});

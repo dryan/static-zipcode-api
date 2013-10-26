@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.884256, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Mulberry", "lng": -81.97697, "zip_code": "33860"});
+zipapicallback({"locality": "Mulberry", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mulberry"], "postal_code": "33860", "lat": 27.884256, "lng": -81.97697, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]});

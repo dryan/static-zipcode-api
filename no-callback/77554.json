@@ -1,1 +1,1 @@
-{"lat": 29.221289, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Galveston", "lng": -94.94455, "zip_code": "77554"}
+{"locality": "Galveston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Galveston", "Jamaica Beach", "Tiki Island"], "postal_code": "77554", "lat": 29.221289, "lng": -94.94455, "type": "STANDARD", "counties": [{"fips": "167", "name": "Galveston"}]}

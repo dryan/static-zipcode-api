@@ -1,1 +1,1 @@
-{"lat": 38.303945, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Clarksville", "lng": -85.76787, "zip_code": "47129"}
+{"locality": "Clarksville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Clarksville", "Jeffersonville", "Jeffersonvlle"], "postal_code": "47129", "lat": 38.303945, "lng": -85.76787, "type": "STANDARD", "counties": []}

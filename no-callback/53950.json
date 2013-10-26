@@ -1,1 +1,1 @@
-{"lat": 43.90147, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "New Lisbon", "lng": -90.13777, "zip_code": "53950"}
+{"locality": "New Lisbon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["New Lisbon"], "postal_code": "53950", "lat": 43.90147, "lng": -90.13777, "type": "STANDARD", "counties": [{"fips": "057", "name": "Juneau"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.60787, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clive", "lng": -93.78093, "zip_code": "50325"}
+{"locality": "Clive", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clive", "Des Moines"], "postal_code": "50325", "lat": 41.60787, "lng": -93.78093, "type": "STANDARD", "counties": []}

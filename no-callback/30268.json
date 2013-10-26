@@ -1,1 +1,1 @@
-{"lat": 33.527793, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Palmetto", "lng": -84.69453, "zip_code": "30268"}
+{"locality": "Palmetto", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Chatt Hills", "Chattahoochee Hills", "Palmetto"], "postal_code": "30268", "lat": 33.527793, "lng": -84.69453, "type": "STANDARD", "counties": [{"fips": "121", "name": "Fulton"}, {"fips": "077", "name": "Coweta"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.711291, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Huntsville", "lng": -86.61691, "zip_code": "35805"}
+{"locality": "Huntsville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Huntsville"], "postal_code": "35805", "lat": 34.711291, "lng": -86.61691, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.797569, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Laketown", "lng": -111.3702, "zip_code": "84038"}
+{"locality": "Laketown", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Laketown"], "postal_code": "84038", "lat": 41.797569, "lng": -111.3702, "type": "STANDARD", "counties": [{"fips": "033", "name": "Rich"}]}

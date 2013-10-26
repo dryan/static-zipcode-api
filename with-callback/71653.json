@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.351501, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lake Village", "lng": -91.27133, "zip_code": "71653"});
+zipapicallback({"locality": "Lake Village", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Jennie", "Lake Village"], "postal_code": "71653", "lat": 33.351501, "lng": -91.27133, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chicot"}]});

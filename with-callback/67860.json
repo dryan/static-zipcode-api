@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.995238, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lakin", "lng": -101.2722, "zip_code": "67860"});
+zipapicallback({"locality": "Lakin", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lakin"], "postal_code": "67860", "lat": 37.995238, "lng": -101.2722, "type": "STANDARD", "counties": [{"fips": "093", "name": "Kearny"}]});

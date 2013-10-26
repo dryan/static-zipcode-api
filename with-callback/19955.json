@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.227313, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Kenton", "lng": -75.66549, "zip_code": "19955"});
+zipapicallback({"locality": "Kenton", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Kenton"], "postal_code": "19955", "lat": 39.227313, "lng": -75.66549, "type": "POBOX", "counties": [{"fips": "001", "name": "Kent"}]});

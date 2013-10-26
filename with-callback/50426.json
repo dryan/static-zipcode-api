@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.414156, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Carpenter", "lng": -93.01693, "zip_code": "50426"});
+zipapicallback({"locality": "Carpenter", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Carpenter"], "postal_code": "50426", "lat": 43.414156, "lng": -93.01693, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mitchell"}]});

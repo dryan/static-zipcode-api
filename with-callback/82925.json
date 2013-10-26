@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.081275, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Cora", "lng": -109.92672, "zip_code": "82925"});
+zipapicallback({"locality": "Cora", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Cora"], "postal_code": "82925", "lat": 43.081275, "lng": -109.92672, "type": "STANDARD", "counties": [{"fips": "035", "name": "Sublette"}]});

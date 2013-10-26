@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.473691, "region": {"abbr": "NY", "name": "New York"}, "locality": "Davenport", "lng": -74.8134, "zip_code": "13750"});
+zipapicallback({"locality": "Davenport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Davenport"], "postal_code": "13750", "lat": 42.473691, "lng": -74.8134, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}, {"fips": "077", "name": "Otsego"}]});

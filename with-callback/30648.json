@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.863779, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lexington", "lng": -83.06063, "zip_code": "30648"});
+zipapicallback({"locality": "Lexington", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lexington"], "postal_code": "30648", "lat": 33.863779, "lng": -83.06063, "type": "STANDARD", "counties": [{"fips": "221", "name": "Oglethorpe"}]});

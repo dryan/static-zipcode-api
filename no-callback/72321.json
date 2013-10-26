@@ -1,1 +1,1 @@
-{"lat": 35.818518, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Burdette", "lng": -89.93751, "zip_code": "72321"}
+{"locality": "Burdette", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Burdette"], "postal_code": "72321", "lat": 35.818518, "lng": -89.93751, "type": "POBOX", "counties": [{"fips": "093", "name": "Mississippi"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.515939, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Groom Creek", "lng": -112.45399, "zip_code": "86303"});
+zipapicallback({"locality": "Prescott", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Groom Creek", "Prescott"], "postal_code": "86303", "lat": 34.515939, "lng": -112.45399, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}, {"fips": "015", "name": "Mohave"}]});

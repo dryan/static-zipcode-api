@@ -1,1 +1,1 @@
-{"lat": 43.137624, "region": {"abbr": "NY", "name": "New York"}, "locality": "Middleville", "lng": -74.947, "zip_code": "13406"}
+{"locality": "Middleville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Middleville"], "postal_code": "13406", "lat": 43.137624, "lng": -74.947, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}]}

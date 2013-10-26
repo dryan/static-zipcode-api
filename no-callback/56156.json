@@ -1,1 +1,1 @@
-{"lat": 43.653947, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Luverne", "lng": -96.2303, "zip_code": "56156"}
+{"locality": "Luverne", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Luverne"], "postal_code": "56156", "lat": 43.653947, "lng": -96.2303, "type": "STANDARD", "counties": [{"fips": "133", "name": "Rock"}]}

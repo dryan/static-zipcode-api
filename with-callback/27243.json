@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.082138, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Efland", "lng": -79.18649, "zip_code": "27243"});
+zipapicallback({"locality": "Efland", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Efland"], "postal_code": "27243", "lat": 36.082138, "lng": -79.18649, "type": "STANDARD", "counties": [{"fips": "135", "name": "Orange"}]});

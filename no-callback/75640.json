@@ -1,1 +1,1 @@
-{"lat": 32.723482, "region": {"abbr": "TX", "name": "Texas"}, "locality": "New Diana", "lng": -94.69544, "zip_code": "75640"}
+{"locality": "Diana", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Diana", "New Diana"], "postal_code": "75640", "lat": 32.723482, "lng": -94.69544, "type": "STANDARD", "counties": [{"fips": "459", "name": "Upshur"}, {"fips": "315", "name": "Marion"}, {"fips": "203", "name": "Harrison"}]}

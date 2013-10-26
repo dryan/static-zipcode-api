@@ -1,1 +1,1 @@
-{"lat": 38.607817, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Aviston", "lng": -89.60516, "zip_code": "62216"}
+{"locality": "Aviston", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Aviston"], "postal_code": "62216", "lat": 38.607817, "lng": -89.60516, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]}

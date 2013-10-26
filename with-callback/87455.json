@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.272472, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Newcomb", "lng": -108.79107, "zip_code": "87455"});
+zipapicallback({"locality": "Newcomb", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Newcomb"], "postal_code": "87455", "lat": 36.272472, "lng": -108.79107, "type": "POBOX", "counties": []});

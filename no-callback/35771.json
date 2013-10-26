@@ -1,1 +1,1 @@
-{"lat": 34.546397, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Section", "lng": -85.98279, "zip_code": "35771"}
+{"locality": "Section", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Section"], "postal_code": "35771", "lat": 34.546397, "lng": -85.98279, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}, {"fips": "049", "name": "De Kalb"}]}

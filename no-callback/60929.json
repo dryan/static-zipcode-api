@@ -1,1 +1,1 @@
-{"lat": 40.873, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cullom", "lng": -88.28676, "zip_code": "60929"}
+{"locality": "Cullom", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cullom"], "postal_code": "60929", "lat": 40.873, "lng": -88.28676, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}, {"fips": "053", "name": "Ford"}]}

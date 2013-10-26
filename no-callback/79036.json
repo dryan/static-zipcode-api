@@ -1,1 +1,1 @@
-{"lat": 35.625603, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fritch", "lng": -101.61413, "zip_code": "79036"}
+{"locality": "Fritch", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fritch"], "postal_code": "79036", "lat": 35.625603, "lng": -101.61413, "type": "STANDARD", "counties": [{"fips": "233", "name": "Hutchinson"}, {"fips": "065", "name": "Carson"}]}

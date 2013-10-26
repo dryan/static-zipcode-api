@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.483689, "region": {"abbr": "NY", "name": "New York"}, "locality": "Patterson", "lng": -73.57293, "zip_code": "12563"});
+zipapicallback({"locality": "Patterson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Patterson"], "postal_code": "12563", "lat": 41.483689, "lng": -73.57293, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}, {"fips": "027", "name": "Dutchess"}]});

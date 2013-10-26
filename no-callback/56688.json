@@ -1,1 +1,1 @@
-{"lat": 47.756467, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wirt", "lng": -93.93298, "zip_code": "56688"}
+{"locality": "Wirt", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wirt"], "postal_code": "56688", "lat": 47.756467, "lng": -93.93298, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]}

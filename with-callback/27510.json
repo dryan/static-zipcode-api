@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.912489, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Carrboro", "lng": -79.08144, "zip_code": "27510"});
+zipapicallback({"locality": "Carrboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Carrboro"], "postal_code": "27510", "lat": 35.912489, "lng": -79.08144, "type": "STANDARD", "counties": [{"fips": "135", "name": "Orange"}]});

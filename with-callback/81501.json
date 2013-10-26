@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.072831, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Grand Junction", "lng": -108.55, "zip_code": "81501"});
+zipapicallback({"locality": "Grand Junction", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Grand Jct", "Grand Junction"], "postal_code": "81501", "lat": 39.072831, "lng": -108.55, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}, {"fips": "045", "name": "Garfield"}]});

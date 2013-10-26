@@ -1,1 +1,1 @@
-{"lat": 36.327029, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Elgin", "lng": -84.60898, "zip_code": "37732"}
+{"locality": "Elgin", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Elgin"], "postal_code": "37732", "lat": 36.327029, "lng": -84.60898, "type": "POBOX", "counties": [{"fips": "151", "name": "Scott"}]}

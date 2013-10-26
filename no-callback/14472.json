@@ -1,1 +1,1 @@
-{"lat": 42.964593, "region": {"abbr": "NY", "name": "New York"}, "locality": "Honeoye Falls", "lng": -77.5919, "zip_code": "14472"}
+{"locality": "Honeoye Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Honeoye Falls"], "postal_code": "14472", "lat": 42.964593, "lng": -77.5919, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}, {"fips": "051", "name": "Livingston"}, {"fips": "069", "name": "Ontario"}]}

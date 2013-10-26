@@ -1,1 +1,1 @@
-{"lat": 43.89916, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Chester", "lng": -96.95926, "zip_code": "57016"}
+{"locality": "Chester", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Chester"], "postal_code": "57016", "lat": 43.89916, "lng": -96.95926, "type": "STANDARD", "counties": [{"fips": "079", "name": "Lake"}, {"fips": "099", "name": "Minnehaha"}]}

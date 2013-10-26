@@ -1,1 +1,1 @@
-{"lat": 46.667284, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cromwell", "lng": -92.87081, "zip_code": "55726"}
+{"locality": "Cromwell", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cromwell"], "postal_code": "55726", "lat": 46.667284, "lng": -92.87081, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carlton"}]}

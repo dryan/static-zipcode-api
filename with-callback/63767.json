@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.043378, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Morley", "lng": -89.61264, "zip_code": "63767"});
+zipapicallback({"locality": "Morley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Morley"], "postal_code": "63767", "lat": 37.043378, "lng": -89.61264, "type": "POBOX", "counties": [{"fips": "201", "name": "Scott"}]});

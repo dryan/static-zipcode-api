@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.745588, "region": {"abbr": "CA", "name": "California"}, "locality": "Laytonville", "lng": -123.5223, "zip_code": "95454"});
+zipapicallback({"locality": "Laytonville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Laytonville"], "postal_code": "95454", "lat": 39.745588, "lng": -123.5223, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]});

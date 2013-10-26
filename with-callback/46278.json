@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.89792, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Augusta", "lng": -86.28619, "zip_code": "46278"});
+zipapicallback({"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "New Augusta"], "postal_code": "46278", "lat": 39.89792, "lng": -86.28619, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}]});

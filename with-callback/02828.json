@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.870799, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Greenville", "lng": -71.5539, "zip_code": "02828"});
+zipapicallback({"locality": "Greenville", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Greenville"], "postal_code": "02828", "lat": 41.870799, "lng": -71.5539, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]});

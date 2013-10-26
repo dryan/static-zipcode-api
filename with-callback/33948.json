@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.984486, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Port Charlotte", "lng": -82.14859, "zip_code": "33948"});
+zipapicallback({"locality": "Port Charlotte", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Port Charlotte", "Pt Charlotte"], "postal_code": "33948", "lat": 26.984486, "lng": -82.14859, "type": "STANDARD", "counties": [{"fips": "015", "name": "Charlotte"}, {"fips": "099", "name": "Palm Beach"}]});

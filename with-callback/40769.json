@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.709853, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Pleasant View", "lng": -84.1508, "zip_code": "40769"});
+zipapicallback({"locality": "Williamsburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cumberland College", "Cumberlnd Clg", "Nevisdale", "Williamsburg"], "postal_code": "40769", "lat": 36.709853, "lng": -84.1508, "type": "STANDARD", "counties": [{"fips": "235", "name": "Whitley"}]});

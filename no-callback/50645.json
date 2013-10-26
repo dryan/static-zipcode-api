@@ -1,1 +1,1 @@
-{"lat": 43.031136, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ionia", "lng": -92.46149, "zip_code": "50645"}
+{"locality": "Ionia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ionia"], "postal_code": "50645", "lat": 43.031136, "lng": -92.46149, "type": "STANDARD", "counties": [{"fips": "037", "name": "Chickasaw"}]}

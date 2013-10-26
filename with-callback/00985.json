@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.374896, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Carolina", "lng": -65.94691, "zip_code": "00985"});
+zipapicallback({"locality": "Carolina", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Carolina"], "postal_code": "00985", "lat": 18.374896, "lng": -65.94691, "type": "STANDARD", "counties": []});

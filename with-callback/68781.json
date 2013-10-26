@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.028202, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Tilden", "lng": -97.84085, "zip_code": "68781"});
+zipapicallback({"locality": "Tilden", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Tilden"], "postal_code": "68781", "lat": 42.028202, "lng": -97.84085, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}, {"fips": "139", "name": "Pierce"}, {"fips": "011", "name": "Boone"}, {"fips": "119", "name": "Madison"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.695638, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Trenton", "lng": -81.85192, "zip_code": "29847"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Trenton"], "postal_code": "29847", "lat": 33.695638, "lng": -81.85192, "type": "STANDARD", "counties": [{"fips": "037", "name": "Edgefield"}, {"fips": "003", "name": "Aiken"}]});

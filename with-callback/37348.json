@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.1149, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Kelso", "lng": -86.4421, "zip_code": "37348"});
+zipapicallback({"locality": "Kelso", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Kelso"], "postal_code": "37348", "lat": 35.1149, "lng": -86.4421, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lincoln"}]});

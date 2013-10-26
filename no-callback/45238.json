@@ -1,1 +1,1 @@
-{"lat": 39.112169, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Western Hills", "lng": -84.60849, "zip_code": "45238"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati"], "postal_code": "45238", "lat": 39.112169, "lng": -84.60849, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

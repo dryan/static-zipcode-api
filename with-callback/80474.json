@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.908923, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rollinsville", "lng": -105.57057, "zip_code": "80474"});
+zipapicallback({"locality": "Rollinsville", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rollinsville"], "postal_code": "80474", "lat": 39.908923, "lng": -105.57057, "type": "STANDARD", "counties": [{"fips": "047", "name": "Gilpin"}]});

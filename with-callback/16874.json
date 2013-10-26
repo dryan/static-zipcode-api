@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.034029, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Snow Shoe", "lng": -77.93356, "zip_code": "16874"});
+zipapicallback({"locality": "Snow Shoe", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Snow Shoe"], "postal_code": "16874", "lat": 41.034029, "lng": -77.93356, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]});

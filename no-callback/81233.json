@@ -1,1 +1,1 @@
-{"lat": 38.442267, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Howard", "lng": -105.85054, "zip_code": "81233"}
+{"locality": "Howard", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Howard"], "postal_code": "81233", "lat": 38.442267, "lng": -105.85054, "type": "STANDARD", "counties": [{"fips": "043", "name": "Fremont"}]}

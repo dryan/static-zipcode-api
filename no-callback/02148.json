@@ -1,1 +1,1 @@
-{"lat": 42.428549, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Malden", "lng": -71.06059, "zip_code": "02148"}
+{"locality": "Malden", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Malden"], "postal_code": "02148", "lat": 42.428549, "lng": -71.06059, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

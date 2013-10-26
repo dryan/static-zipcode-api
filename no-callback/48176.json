@@ -1,1 +1,1 @@
-{"lat": 42.16489, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saline", "lng": -83.78387, "zip_code": "48176"}
+{"locality": "Saline", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saline"], "postal_code": "48176", "lat": 42.16489, "lng": -83.78387, "type": "STANDARD", "counties": [{"fips": "161", "name": "Washtenaw"}]}

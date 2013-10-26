@@ -1,1 +1,1 @@
-{"lat": 38.942421, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Winona", "lng": -101.20603, "zip_code": "67764"}
+{"locality": "Winona", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Monument", "Russell Spg", "Russell Springs", "Winona"], "postal_code": "67764", "lat": 38.942421, "lng": -101.20603, "type": "STANDARD", "counties": [{"fips": "109", "name": "Logan"}, {"fips": "193", "name": "Thomas"}]}

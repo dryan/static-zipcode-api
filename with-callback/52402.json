@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.021016, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cedar Rapids", "lng": -91.65231, "zip_code": "52402"});
+zipapicallback({"locality": "Cedar Rapids", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cedar Rapids"], "postal_code": "52402", "lat": 42.021016, "lng": -91.65231, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}, {"fips": "103", "name": "Johnson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.875614, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Edina", "lng": -93.33487, "zip_code": "55435"});
+zipapicallback({"locality": "Minneapolis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bloomington", "Edina", "Minneapolis"], "postal_code": "55435", "lat": 44.875614, "lng": -93.33487, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]});

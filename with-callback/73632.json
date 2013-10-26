@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.283812, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cordell", "lng": -98.94987, "zip_code": "73632"});
+zipapicallback({"locality": "Cordell", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cordell"], "postal_code": "73632", "lat": 35.283812, "lng": -98.94987, "type": "STANDARD", "counties": [{"fips": "149", "name": "Washita"}]});

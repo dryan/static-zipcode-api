@@ -1,1 +1,1 @@
-{"lat": 30.336379, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Cecilia", "lng": -91.84786, "zip_code": "70521"}
+{"locality": "Cecilia", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Cecilia"], "postal_code": "70521", "lat": 30.336379, "lng": -91.84786, "type": "POBOX", "counties": [{"fips": "099", "name": "St. Martin"}]}

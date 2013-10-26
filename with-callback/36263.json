@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.469709, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Graham", "lng": -85.36139, "zip_code": "36263"});
+zipapicallback({"locality": "Graham", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Graham"], "postal_code": "36263", "lat": 33.469709, "lng": -85.36139, "type": "STANDARD", "counties": [{"fips": "111", "name": "Randolph"}, {"fips": "029", "name": "Cleburne"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.407598, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Darien", "lng": -81.39094, "zip_code": "31305"}
+{"locality": "Darien", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Darien"], "postal_code": "31305", "lat": 31.407598, "lng": -81.39094, "type": "STANDARD", "counties": [{"fips": "191", "name": "McIntosh"}]}

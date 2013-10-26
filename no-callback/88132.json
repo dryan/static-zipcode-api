@@ -1,1 +1,1 @@
-{"lat": 33.922767, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Rogers", "lng": -103.16138, "zip_code": "88132"}
+{"locality": "Rogers", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Rogers"], "postal_code": "88132", "lat": 33.922767, "lng": -103.16138, "type": "STANDARD", "counties": [{"fips": "041", "name": "Roosevelt"}]}

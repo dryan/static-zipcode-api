@@ -1,1 +1,1 @@
-{"lat": 37.680124, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Weems", "lng": -76.44242, "zip_code": "22576"}
+{"locality": "Weems", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Weems"], "postal_code": "22576", "lat": 37.680124, "lng": -76.44242, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lancaster"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.607138, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cuba City", "lng": -90.44812, "zip_code": "53807"});
+zipapicallback({"locality": "Cuba City", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cuba City"], "postal_code": "53807", "lat": 42.607138, "lng": -90.44812, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "065", "name": "Lafayette"}]});

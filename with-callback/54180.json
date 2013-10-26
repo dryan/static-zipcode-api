@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.325856, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wrightstown", "lng": -88.16205, "zip_code": "54180"});
+zipapicallback({"locality": "Wrightstown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wrightstown"], "postal_code": "54180", "lat": 44.325856, "lng": -88.16205, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}]});

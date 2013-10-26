@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.428911, "region": {"abbr": "ME", "name": "Maine"}, "locality": "South China", "lng": -69.52679, "zip_code": "04358"});
+zipapicallback({"locality": "South China", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["China", "South China", "Weeks Mills"], "postal_code": "04358", "lat": 44.428911, "lng": -69.52679, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

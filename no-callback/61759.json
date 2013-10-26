@@ -1,1 +1,1 @@
-{"lat": 40.431577, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Minier", "lng": -89.32013, "zip_code": "61759"}
+{"locality": "Minier", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Minier"], "postal_code": "61759", "lat": 40.431577, "lng": -89.32013, "type": "STANDARD", "counties": [{"fips": "179", "name": "Tazewell"}]}

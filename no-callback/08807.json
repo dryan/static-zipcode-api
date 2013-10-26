@@ -1,1 +1,1 @@
-{"lat": 40.588097, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bridgewater", "lng": -74.62253, "zip_code": "08807"}
+{"locality": "Bridgewater", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bridgewater"], "postal_code": "08807", "lat": 40.588097, "lng": -74.62253, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.855652, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Reed", "lng": -99.52012, "zip_code": "73554"}
+{"locality": "Mangum", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mangum", "Reed"], "postal_code": "73554", "lat": 34.855652, "lng": -99.52012, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greer"}]}

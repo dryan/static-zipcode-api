@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.156514, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Piqua", "lng": -84.24213, "zip_code": "45356"});
+zipapicallback({"locality": "Piqua", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Piqua"], "postal_code": "45356", "lat": 40.156514, "lng": -84.24213, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}, {"fips": "149", "name": "Shelby"}]});

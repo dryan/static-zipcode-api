@@ -1,1 +1,1 @@
-{"lat": 34.344618, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ecru", "lng": -89.02908, "zip_code": "38841"}
+{"locality": "Ecru", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ecru"], "postal_code": "38841", "lat": 34.344618, "lng": -89.02908, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pontotoc"}, {"fips": "145", "name": "Union"}]}

@@ -1,1 +1,1 @@
-{"lat": 28.566183, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Brooksville", "lng": -82.38002, "zip_code": "34601"}
+{"locality": "Brooksville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brooksville"], "postal_code": "34601", "lat": 28.566183, "lng": -82.38002, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hernando"}]}

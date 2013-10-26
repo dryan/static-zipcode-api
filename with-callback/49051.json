@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.184303, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "East Leroy", "lng": -85.24228, "zip_code": "49051"});
+zipapicallback({"locality": "East Leroy", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["East Leroy"], "postal_code": "49051", "lat": 42.184303, "lng": -85.24228, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]});

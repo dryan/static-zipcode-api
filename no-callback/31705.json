@@ -1,1 +1,1 @@
-{"lat": 31.552483, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bridgeboro", "lng": -84.09678, "zip_code": "31705"}
+{"locality": "Albany", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Albany", "Bridgeboro"], "postal_code": "31705", "lat": 31.552483, "lng": -84.09678, "type": "STANDARD", "counties": [{"fips": "095", "name": "Dougherty"}, {"fips": "321", "name": "Worth"}, {"fips": "205", "name": "Mitchell"}]}

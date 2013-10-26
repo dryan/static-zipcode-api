@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.894287, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Cannon Beach", "lng": -123.961, "zip_code": "97110"});
+zipapicallback({"locality": "Cannon Beach", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Cannon Beach"], "postal_code": "97110", "lat": 45.894287, "lng": -123.961, "type": "POBOX", "counties": [{"fips": "007", "name": "Clatsop"}]});

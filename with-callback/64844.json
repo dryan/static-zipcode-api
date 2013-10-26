@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.913607, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Granby", "lng": -94.24731, "zip_code": "64844"});
+zipapicallback({"locality": "Granby", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Granby"], "postal_code": "64844", "lat": 36.913607, "lng": -94.24731, "type": "STANDARD", "counties": [{"fips": "145", "name": "Newton"}]});

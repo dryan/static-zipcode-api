@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.663803, "region": {"abbr": "CA", "name": "California"}, "locality": "Bonita", "lng": -117.02456, "zip_code": "91902"});
+zipapicallback({"locality": "Bonita", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bonita"], "postal_code": "91902", "lat": 32.663803, "lng": -117.02456, "type": "STANDARD", "counties": []});

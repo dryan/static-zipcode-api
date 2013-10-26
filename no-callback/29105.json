@@ -1,1 +1,1 @@
-{"lat": 33.831118, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Monetta", "lng": -81.59772, "zip_code": "29105"}
+{"locality": "Monetta", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Monetta"], "postal_code": "29105", "lat": 33.831118, "lng": -81.59772, "type": "STANDARD", "counties": [{"fips": "081", "name": "Saluda"}, {"fips": "003", "name": "Aiken"}]}

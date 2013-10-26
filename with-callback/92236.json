@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.679872, "region": {"abbr": "CA", "name": "California"}, "locality": "Coachella", "lng": -116.17656, "zip_code": "92236"});
+zipapicallback({"locality": "Coachella", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Coachella"], "postal_code": "92236", "lat": 33.679872, "lng": -116.17656, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]});

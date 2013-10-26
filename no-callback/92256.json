@@ -1,1 +1,1 @@
-{"lat": 34.066626, "region": {"abbr": "CA", "name": "California"}, "locality": "Morongo Valley", "lng": -116.55951, "zip_code": "92256"}
+{"locality": "Morongo Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Morongo Valley", "Morongo Vly"], "postal_code": "92256", "lat": 34.066626, "lng": -116.55951, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

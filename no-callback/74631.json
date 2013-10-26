@@ -1,1 +1,1 @@
-{"lat": 36.800787, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Blackwell", "lng": -97.29289, "zip_code": "74631"}
+{"locality": "Blackwell", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Blackwell"], "postal_code": "74631", "lat": 36.800787, "lng": -97.29289, "type": "STANDARD", "counties": [{"fips": "071", "name": "Kay"}]}

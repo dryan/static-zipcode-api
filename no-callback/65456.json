@@ -1,1 +1,1 @@
-{"lat": 37.780711, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Davisville", "lng": -91.19197, "zip_code": "65456"}
+{"locality": "Davisville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Davisville"], "postal_code": "65456", "lat": 37.780711, "lng": -91.19197, "type": "STANDARD", "counties": [{"fips": "055", "name": "Crawford"}]}

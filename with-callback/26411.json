@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.185707, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "New Milton", "lng": -80.71039, "zip_code": "26411"});
+zipapicallback({"locality": "New Milton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["New Milton"], "postal_code": "26411", "lat": 39.185707, "lng": -80.71039, "type": "STANDARD", "counties": [{"fips": "017", "name": "Doddridge"}, {"fips": "021", "name": "Gilmer"}]});

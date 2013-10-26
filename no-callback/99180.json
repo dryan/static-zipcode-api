@@ -1,1 +1,1 @@
-{"lat": 48.295497, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Usk", "lng": -117.29236, "zip_code": "99180"}
+{"locality": "Usk", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Usk"], "postal_code": "99180", "lat": 48.295497, "lng": -117.29236, "type": "STANDARD", "counties": [{"fips": "051", "name": "Pend Oreille"}]}

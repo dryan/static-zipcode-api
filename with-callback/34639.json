@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.233671, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Land O Lakes", "lng": -82.45463, "zip_code": "34639"});
+zipapicallback({"locality": "Land O Lakes", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Land O Lakes"], "postal_code": "34639", "lat": 28.233671, "lng": -82.45463, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pasco"}, {"fips": "057", "name": "Hillsborough"}]});

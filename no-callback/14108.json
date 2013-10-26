@@ -1,1 +1,1 @@
-{"lat": 43.264406, "region": {"abbr": "NY", "name": "New York"}, "locality": "Newfane", "lng": -78.72634, "zip_code": "14108"}
+{"locality": "Newfane", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Newfane"], "postal_code": "14108", "lat": 43.264406, "lng": -78.72634, "type": "STANDARD", "counties": [{"fips": "063", "name": "Niagara"}]}

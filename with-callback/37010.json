@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.569635, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Adams", "lng": -87.10026, "zip_code": "37010"});
+zipapicallback({"locality": "Adams", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Adams"], "postal_code": "37010", "lat": 36.569635, "lng": -87.10026, "type": "STANDARD", "counties": [{"fips": "147", "name": "Robertson"}, {"fips": "125", "name": "Montgomery"}]});

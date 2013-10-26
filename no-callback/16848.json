@@ -1,1 +1,1 @@
-{"lat": 41.010409, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lamar", "lng": -77.53613, "zip_code": "16848"}
+{"locality": "Lamar", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lamar"], "postal_code": "16848", "lat": 41.010409, "lng": -77.53613, "type": "POBOX", "counties": [{"fips": "035", "name": "Clinton"}]}

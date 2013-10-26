@@ -1,1 +1,1 @@
-{"lat": 47.694, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Aneta", "lng": -97.99703, "zip_code": "58212"}
+{"locality": "Aneta", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Aneta"], "postal_code": "58212", "lat": 47.694, "lng": -97.99703, "type": "STANDARD", "counties": [{"fips": "063", "name": "Nelson"}, {"fips": "039", "name": "Griggs"}, {"fips": "091", "name": "Steele"}, {"fips": "035", "name": "Grand Forks"}]}

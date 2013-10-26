@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.701702, "region": {"abbr": "NY", "name": "New York"}, "locality": "Franklin Square", "lng": -73.67562, "zip_code": "11010"});
+zipapicallback({"locality": "Franklin Square", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Franklin Sq", "Franklin Square"], "postal_code": "11010", "lat": 40.701702, "lng": -73.67562, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

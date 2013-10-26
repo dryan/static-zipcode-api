@@ -1,1 +1,1 @@
-{"lat": 35.375188, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Shawnee", "lng": -96.93162, "zip_code": "74804"}
+{"locality": "Shawnee", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Shawnee"], "postal_code": "74804", "lat": 35.375188, "lng": -96.93162, "type": "STANDARD", "counties": []}

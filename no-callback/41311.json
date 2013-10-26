@@ -1,1 +1,1 @@
-{"lat": 37.578547, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Vada", "lng": -83.70348, "zip_code": "41311"}
+{"locality": "Beattyville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Beattyville", "Fillmore", "Old Landing", "Tallega", "Vada", "Widecreek", "Yellow Rock"], "postal_code": "41311", "lat": 37.578547, "lng": -83.70348, "type": "STANDARD", "counties": [{"fips": "129", "name": "Lee"}]}

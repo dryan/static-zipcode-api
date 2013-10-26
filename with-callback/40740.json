@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.015283, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lily", "lng": -84.05872, "zip_code": "40740"});
+zipapicallback({"locality": "Lily", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lily"], "postal_code": "40740", "lat": 37.015283, "lng": -84.05872, "type": "STANDARD", "counties": [{"fips": "125", "name": "Laurel"}]});

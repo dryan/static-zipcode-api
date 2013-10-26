@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.659294, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Glen Ridge", "lng": -80.09118, "zip_code": "33406"});
+zipapicallback({"locality": "West Palm Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cloud Lake", "Glen Ridge", "Lake Clarke", "Lake Clarke Shores", "Palm Springs", "West Palm Bch", "West Palm Beach"], "postal_code": "33406", "lat": 26.659294, "lng": -80.09118, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

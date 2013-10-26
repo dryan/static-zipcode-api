@@ -1,1 +1,1 @@
-{"lat": 40.327741, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Penn", "lng": -75.87002, "zip_code": "19606"}
+{"locality": "Reading", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Penn", "Reading", "Reading Sta", "Reading Station"], "postal_code": "19606", "lat": 40.327741, "lng": -75.87002, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

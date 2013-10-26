@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.724694, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fremont", "lng": -84.95619, "zip_code": "46737"});
+zipapicallback({"locality": "Fremont", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fremont"], "postal_code": "46737", "lat": 41.724694, "lng": -84.95619, "type": "STANDARD", "counties": [{"fips": "151", "name": "Steuben"}, {"fips": "025", "name": "Crawford"}]});

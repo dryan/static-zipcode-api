@@ -1,1 +1,1 @@
-{"lat": 34.117565, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Woodstock", "lng": -84.57176, "zip_code": "30189"}
+{"locality": "Woodstock", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Woodstock"], "postal_code": "30189", "lat": 34.117565, "lng": -84.57176, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.920767, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Calera", "lng": -96.44073, "zip_code": "74730"});
+zipapicallback({"locality": "Calera", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Calera"], "postal_code": "74730", "lat": 33.920767, "lng": -96.44073, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bryan"}]});

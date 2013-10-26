@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.705113, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lyndon Station", "lng": -89.89911, "zip_code": "53944"});
+zipapicallback({"locality": "Lyndon Station", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lyndon Sta", "Lyndon Station"], "postal_code": "53944", "lat": 43.705113, "lng": -89.89911, "type": "STANDARD", "counties": [{"fips": "057", "name": "Juneau"}, {"fips": "111", "name": "Sauk"}]});

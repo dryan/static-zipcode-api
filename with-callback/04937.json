@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.603329, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Benton Station", "lng": -69.63627, "zip_code": "04937"});
+zipapicallback({"locality": "Fairfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Fairfield"], "postal_code": "04937", "lat": 44.603329, "lng": -69.63627, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}, {"fips": "025", "name": "Somerset"}]});

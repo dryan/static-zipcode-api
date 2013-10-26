@@ -1,1 +1,1 @@
-{"lat": 25.7265, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ochopee", "lng": -81.20151, "zip_code": "34141"}
+{"locality": "Ochopee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jerome", "Ochopee"], "postal_code": "34141", "lat": 25.7265, "lng": -81.20151, "type": "STANDARD", "counties": []}

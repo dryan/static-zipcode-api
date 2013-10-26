@@ -1,1 +1,1 @@
-{"lat": 37.348289, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dwarf", "lng": -83.11137, "zip_code": "41739"}
+{"locality": "Dwarf", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dwarf"], "postal_code": "41739", "lat": 37.348289, "lng": -83.11137, "type": "POBOX", "counties": [{"fips": "193", "name": "Perry"}]}

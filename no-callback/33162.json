@@ -1,1 +1,1 @@
-{"lat": 25.929571, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Miami Beac", "lng": -80.17839, "zip_code": "33162"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami", "N Miami Beach", "North Miami Beach", "Uleta"], "postal_code": "33162", "lat": 25.929571, "lng": -80.17839, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

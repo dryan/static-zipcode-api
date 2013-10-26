@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.647537, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sumner", "lng": -93.23128, "zip_code": "64681"});
+zipapicallback({"locality": "Sumner", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sumner"], "postal_code": "64681", "lat": 39.647537, "lng": -93.23128, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chariton"}, {"fips": "115", "name": "Linn"}]});

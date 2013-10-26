@@ -1,1 +1,1 @@
-{"lat": 39.860285, "region": {"abbr": "CA", "name": "California"}, "locality": "Leggett", "lng": -123.71685, "zip_code": "95585"}
+{"locality": "Leggett", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Leggett"], "postal_code": "95585", "lat": 39.860285, "lng": -123.71685, "type": "STANDARD", "counties": []}

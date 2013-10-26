@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.403511, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Huntington", "lng": -82.43904, "zip_code": "25701"});
+zipapicallback({"locality": "Huntington", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Huntington"], "postal_code": "25701", "lat": 38.403511, "lng": -82.43904, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}]});

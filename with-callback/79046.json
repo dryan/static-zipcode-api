@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.113986, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Higgins", "lng": -100.09235, "zip_code": "79046"});
+zipapicallback({"locality": "Higgins", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Higgins"], "postal_code": "79046", "lat": 36.113986, "lng": -100.09235, "type": "STANDARD", "counties": [{"fips": "295", "name": "Lipscomb"}, {"fips": "211", "name": "Hemphill"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.093982, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fayette City", "lng": -79.83787, "zip_code": "15438"}
+{"locality": "Fayette City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fayette City"], "postal_code": "15438", "lat": 40.093982, "lng": -79.83787, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

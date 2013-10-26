@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.040903, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Coolspring", "lng": -79.08486, "zip_code": "15730"});
+zipapicallback({"locality": "Coolspring", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coolspring"], "postal_code": "15730", "lat": 41.040903, "lng": -79.08486, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.727807, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Barnard", "lng": -98.50795, "zip_code": "57426"}
+{"locality": "Barnard", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Barnard"], "postal_code": "57426", "lat": 45.727807, "lng": -98.50795, "type": "POBOX", "counties": [{"fips": "013", "name": "Brown"}]}

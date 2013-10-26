@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.935105, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cohutta", "lng": -84.94642, "zip_code": "30710"});
+zipapicallback({"locality": "Cohutta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cohutta"], "postal_code": "30710", "lat": 34.935105, "lng": -84.94642, "type": "STANDARD", "counties": [{"fips": "313", "name": "Whitfield"}, {"fips": "047", "name": "Catoosa"}]});

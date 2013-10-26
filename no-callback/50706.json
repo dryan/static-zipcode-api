@@ -1,1 +1,1 @@
-{"lat": 42.407588, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Washburn", "lng": -92.26657, "zip_code": "50706"}
+{"locality": "Waterloo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Washburn", "Waterloo"], "postal_code": "50706", "lat": 42.407588, "lng": -92.26657, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}]}

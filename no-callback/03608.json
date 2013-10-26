@@ -1,1 +1,1 @@
-{"lat": 43.075411, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Walpole", "lng": -72.41902, "zip_code": "03608"}
+{"locality": "Walpole", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Walpole"], "postal_code": "03608", "lat": 43.075411, "lng": -72.41902, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]}

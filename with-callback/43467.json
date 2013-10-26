@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.245763, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "West Millgrove", "lng": -83.48948, "zip_code": "43467"});
+zipapicallback({"locality": "West Millgrove", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["W Millgrove", "West Millgrove"], "postal_code": "43467", "lat": 41.245763, "lng": -83.48948, "type": "POBOX", "counties": [{"fips": "173", "name": "Wood"}]});

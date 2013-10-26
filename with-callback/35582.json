@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.448328, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Red Bay", "lng": -88.12041, "zip_code": "35582"});
+zipapicallback({"locality": "Red Bay", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Red Bay"], "postal_code": "35582", "lat": 34.448328, "lng": -88.12041, "type": "STANDARD", "counties": [{"fips": "059", "name": "Franklin"}]});

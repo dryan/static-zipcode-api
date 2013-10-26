@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.488002, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Middletown", "lng": -71.31262, "zip_code": "02840"});
+zipapicallback({"locality": "Newport", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Newport"], "postal_code": "02840", "lat": 41.488002, "lng": -71.31262, "type": "STANDARD", "counties": [{"fips": "005", "name": "Newport"}]});

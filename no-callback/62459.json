@@ -1,1 +1,1 @@
-{"lat": 38.93148, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saint Marie", "lng": -88.0252, "zip_code": "62459"}
+{"locality": "Sainte Marie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sainte Marie"], "postal_code": "62459", "lat": 38.93148, "lng": -88.0252, "type": "POBOX", "counties": [{"fips": "079", "name": "Jasper"}]}

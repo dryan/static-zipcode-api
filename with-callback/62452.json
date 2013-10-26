@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.588301, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Parkersburg", "lng": -88.03692, "zip_code": "62452"});
+zipapicallback({"locality": "Parkersburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Parkersburg"], "postal_code": "62452", "lat": 38.588301, "lng": -88.03692, "type": "STANDARD", "counties": [{"fips": "159", "name": "Richland"}, {"fips": "047", "name": "Edwards"}]});

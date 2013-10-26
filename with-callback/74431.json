@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.458946, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Dewar", "lng": -95.94597, "zip_code": "74431"});
+zipapicallback({"locality": "Dewar", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Dewar"], "postal_code": "74431", "lat": 35.458946, "lng": -95.94597, "type": "POBOX", "counties": [{"fips": "111", "name": "Okmulgee"}]});

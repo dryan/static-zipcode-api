@@ -1,1 +1,1 @@
-{"lat": 36.780481, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dryden", "lng": -82.94428, "zip_code": "24243"}
+{"locality": "Dryden", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dryden"], "postal_code": "24243", "lat": 36.780481, "lng": -82.94428, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}]}

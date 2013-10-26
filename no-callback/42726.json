@@ -1,1 +1,1 @@
-{"lat": 37.429456, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wax", "lng": -86.16448, "zip_code": "42726"}
+{"locality": "Clarkson", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Clarkson", "Millerstown", "Peonia", "Rock Creek", "Wax"], "postal_code": "42726", "lat": 37.429456, "lng": -86.16448, "type": "STANDARD", "counties": [{"fips": "085", "name": "Grayson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.823809, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Loganville", "lng": -83.89423, "zip_code": "30052"});
+zipapicallback({"locality": "Loganville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Loganville", "Walnut Grove"], "postal_code": "30052", "lat": 33.823809, "lng": -83.89423, "type": "STANDARD", "counties": []});

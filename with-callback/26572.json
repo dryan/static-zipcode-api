@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.48057, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Four States", "lng": -80.30851, "zip_code": "26572"});
+zipapicallback({"locality": "Four States", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Four States"], "postal_code": "26572", "lat": 39.48057, "lng": -80.30851, "type": "POBOX", "counties": [{"fips": "049", "name": "Marion"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.860152, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Murfreesboro", "lng": -86.3648, "zip_code": "37130"});
+zipapicallback({"locality": "Murfreesboro", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Murfreesboro"], "postal_code": "37130", "lat": 35.860152, "lng": -86.3648, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rutherford"}]});

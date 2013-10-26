@@ -1,1 +1,1 @@
-{"lat": 40.241652, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bartley", "lng": -100.3015, "zip_code": "69020"}
+{"locality": "Bartley", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bartley"], "postal_code": "69020", "lat": 40.241652, "lng": -100.3015, "type": "STANDARD", "counties": [{"fips": "145", "name": "Red Willow"}]}

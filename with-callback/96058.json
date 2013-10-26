@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.790562, "region": {"abbr": "CA", "name": "California"}, "locality": "Macdoel", "lng": -121.94214, "zip_code": "96058"});
+zipapicallback({"locality": "Macdoel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Macdoel"], "postal_code": "96058", "lat": 41.790562, "lng": -121.94214, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

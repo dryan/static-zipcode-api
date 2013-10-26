@@ -1,1 +1,1 @@
-{"lat": 42.011477, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Colo", "lng": -93.31293, "zip_code": "50056"}
+{"locality": "Colo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Colo"], "postal_code": "50056", "lat": 42.011477, "lng": -93.31293, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}]}

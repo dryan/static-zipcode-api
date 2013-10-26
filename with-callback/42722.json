@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.271372, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Canmer", "lng": -85.72639, "zip_code": "42722"});
+zipapicallback({"locality": "Canmer", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Canmer"], "postal_code": "42722", "lat": 37.271372, "lng": -85.72639, "type": "STANDARD", "counties": [{"fips": "099", "name": "Hart"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.928325, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Kossuth", "lng": -88.52856, "zip_code": "38834"}
+{"locality": "Corinth", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Corinth", "Kossuth"], "postal_code": "38834", "lat": 34.928325, "lng": -88.52856, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alcorn"}]}

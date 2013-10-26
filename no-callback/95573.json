@@ -1,1 +1,1 @@
-{"lat": 40.945039, "region": {"abbr": "CA", "name": "California"}, "locality": "Willow Creek", "lng": -123.65806, "zip_code": "95573"}
+{"locality": "Willow Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Willow Creek"], "postal_code": "95573", "lat": 40.945039, "lng": -123.65806, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]}

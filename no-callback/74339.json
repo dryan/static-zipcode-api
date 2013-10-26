@@ -1,1 +1,1 @@
-{"lat": 36.932957, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Commerce", "lng": -94.87134, "zip_code": "74339"}
+{"locality": "Commerce", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Commerce"], "postal_code": "74339", "lat": 36.932957, "lng": -94.87134, "type": "STANDARD", "counties": [{"fips": "115", "name": "Ottawa"}]}

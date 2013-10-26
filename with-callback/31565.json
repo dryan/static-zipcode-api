@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.066479, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Waverly", "lng": -81.62656, "zip_code": "31565"});
+zipapicallback({"locality": "Waverly", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Waverly"], "postal_code": "31565", "lat": 31.066479, "lng": -81.62656, "type": "STANDARD", "counties": [{"fips": "039", "name": "Camden"}]});

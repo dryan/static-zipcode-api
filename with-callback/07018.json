@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.75555, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "East Orange", "lng": -74.21897, "zip_code": "07018"});
+zipapicallback({"locality": "East Orange", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["East Orange"], "postal_code": "07018", "lat": 40.75555, "lng": -74.21897, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.415616, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Alix", "lng": -93.73383, "zip_code": "72820"}
+{"locality": "Alix", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Alix"], "postal_code": "72820", "lat": 35.415616, "lng": -93.73383, "type": "POBOX", "counties": [{"fips": "047", "name": "Franklin"}]}

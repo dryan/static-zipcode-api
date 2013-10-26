@@ -1,1 +1,1 @@
-{"lat": 41.032893, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Kaysville", "lng": -111.93004, "zip_code": "84037"}
+{"locality": "Kaysville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fruit Heights", "Kaysville"], "postal_code": "84037", "lat": 41.032893, "lng": -111.93004, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]}

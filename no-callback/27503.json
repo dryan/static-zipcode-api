@@ -1,1 +1,1 @@
-{"lat": 36.158344, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bahama", "lng": -78.87419, "zip_code": "27503"}
+{"locality": "Bahama", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bahama"], "postal_code": "27503", "lat": 36.158344, "lng": -78.87419, "type": "STANDARD", "counties": [{"fips": "063", "name": "Durham"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.42065, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Howard", "lng": -82.31485, "zip_code": "43028"}
+{"locality": "Howard", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Howard"], "postal_code": "43028", "lat": 40.42065, "lng": -82.31485, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}]}

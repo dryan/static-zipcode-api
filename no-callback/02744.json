@@ -1,1 +1,1 @@
-{"lat": 41.610754, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "New Bedford", "lng": -70.91453, "zip_code": "02744"}
+{"locality": "New Bedford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["New Bedford"], "postal_code": "02744", "lat": 41.610754, "lng": -70.91453, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]}

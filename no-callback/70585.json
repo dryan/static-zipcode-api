@@ -1,1 +1,1 @@
-{"lat": 30.871853, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Turkey Creek", "lng": -92.40532, "zip_code": "70585"}
+{"locality": "Turkey Creek", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Turkey Creek"], "postal_code": "70585", "lat": 30.871853, "lng": -92.40532, "type": "POBOX", "counties": [{"fips": "039", "name": "Evangeline"}]}

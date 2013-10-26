@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.588485, "region": {"abbr": "CA", "name": "California"}, "locality": "Tecate", "lng": -116.63034, "zip_code": "91980"});
+zipapicallback({"locality": "Tecate", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tecate"], "postal_code": "91980", "lat": 32.588485, "lng": -116.63034, "type": "STANDARD", "counties": []});

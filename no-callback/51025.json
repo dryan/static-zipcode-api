@@ -1,1 +1,1 @@
-{"lat": 42.496494, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Holstein", "lng": -95.55529, "zip_code": "51025"}
+{"locality": "Holstein", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Holstein"], "postal_code": "51025", "lat": 42.496494, "lng": -95.55529, "type": "STANDARD", "counties": [{"fips": "093", "name": "Ida"}]}

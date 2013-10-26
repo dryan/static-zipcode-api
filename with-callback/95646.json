@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.688329, "region": {"abbr": "CA", "name": "California"}, "locality": "Kirkwood", "lng": -120.05516, "zip_code": "95646"});
+zipapicallback({"locality": "Kirkwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kirkwood", "Pioneer"], "postal_code": "95646", "lat": 38.688329, "lng": -120.05516, "type": "POBOX", "counties": [{"fips": "003", "name": "Alpine"}]});

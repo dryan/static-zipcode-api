@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.381989, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Maple Valley", "lng": -122.03553, "zip_code": "98038"});
+zipapicallback({"locality": "Maple Valley", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Maple Valley"], "postal_code": "98038", "lat": 47.381989, "lng": -122.03553, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

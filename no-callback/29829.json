@@ -1,1 +1,1 @@
-{"lat": 33.566349, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Graniteville", "lng": -81.84119, "zip_code": "29829"}
+{"locality": "Graniteville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Graniteville"], "postal_code": "29829", "lat": 33.566349, "lng": -81.84119, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aiken"}]}

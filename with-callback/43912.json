@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.074284, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bridgeport", "lng": -80.77447, "zip_code": "43912"});
+zipapicallback({"locality": "Bridgeport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bridgeport"], "postal_code": "43912", "lat": 40.074284, "lng": -80.77447, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}]});

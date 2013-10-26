@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.988593, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Verona", "lng": -89.55543, "zip_code": "53593"});
+zipapicallback({"locality": "Verona", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fitchburg", "Verona"], "postal_code": "53593", "lat": 42.988593, "lng": -89.55543, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}]});

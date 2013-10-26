@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.890235, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hartley", "lng": -102.3595, "zip_code": "79044"});
+zipapicallback({"locality": "Hartley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hartley"], "postal_code": "79044", "lat": 35.890235, "lng": -102.3595, "type": "STANDARD", "counties": [{"fips": "205", "name": "Hartley"}]});

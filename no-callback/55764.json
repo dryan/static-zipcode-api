@@ -1,1 +1,1 @@
-{"lat": 47.319362, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Marble", "lng": -93.30077, "zip_code": "55764"}
+{"locality": "Marble", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Marble"], "postal_code": "55764", "lat": 47.319362, "lng": -93.30077, "type": "POBOX", "counties": [{"fips": "061", "name": "Itasca"}]}

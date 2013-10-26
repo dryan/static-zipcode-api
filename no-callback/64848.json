@@ -1,1 +1,1 @@
-{"lat": 37.172786, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "La Russell", "lng": -94.00043, "zip_code": "64848"}
+{"locality": "La Russell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["La Russell"], "postal_code": "64848", "lat": 37.172786, "lng": -94.00043, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jasper"}, {"fips": "109", "name": "Lawrence"}]}

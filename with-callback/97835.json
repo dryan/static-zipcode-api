@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.866696, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Helix", "lng": -118.74565, "zip_code": "97835"});
+zipapicallback({"locality": "Helix", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Helix"], "postal_code": "97835", "lat": 45.866696, "lng": -118.74565, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]});

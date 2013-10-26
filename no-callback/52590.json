@@ -1,1 +1,1 @@
-{"lat": 40.673728, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Seymour", "lng": -93.1281, "zip_code": "52590"}
+{"locality": "Seymour", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Seymour"], "postal_code": "52590", "lat": 40.673728, "lng": -93.1281, "type": "STANDARD", "counties": [{"fips": "185", "name": "Wayne"}]}

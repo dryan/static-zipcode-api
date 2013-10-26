@@ -1,1 +1,1 @@
-{"lat": 18.036253, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Juana Diaz", "lng": -66.50289, "zip_code": "00795"}
+{"locality": "Juana Diaz", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Juana Diaz"], "postal_code": "00795", "lat": 18.036253, "lng": -66.50289, "type": "STANDARD", "counties": []}

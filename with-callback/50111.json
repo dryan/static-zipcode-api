@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.67822, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Grimes", "lng": -93.7935, "zip_code": "50111"});
+zipapicallback({"locality": "Grimes", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Grimes"], "postal_code": "50111", "lat": 41.67822, "lng": -93.7935, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

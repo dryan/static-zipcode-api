@@ -1,1 +1,1 @@
-{"lat": 45.428663, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Boring", "lng": -122.3809, "zip_code": "97009"}
+{"locality": "Boring", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Boring", "Damascus"], "postal_code": "97009", "lat": 45.428663, "lng": -122.3809, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]}

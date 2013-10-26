@@ -1,1 +1,1 @@
-{"lat": 44.864263, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Redfield", "lng": -98.5409, "zip_code": "57469"}
+{"locality": "Redfield", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Redfield", "Zell"], "postal_code": "57469", "lat": 44.864263, "lng": -98.5409, "type": "STANDARD", "counties": [{"fips": "115", "name": "Spink"}, {"fips": "059", "name": "Hand"}]}

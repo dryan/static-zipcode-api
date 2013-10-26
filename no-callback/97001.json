@@ -1,1 +1,1 @@
-{"lat": 44.904051, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Antelope", "lng": -120.67244, "zip_code": "97001"}
+{"locality": "Antelope", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Antelope"], "postal_code": "97001", "lat": 44.904051, "lng": -120.67244, "type": "STANDARD", "counties": [{"fips": "065", "name": "Wasco"}]}

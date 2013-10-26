@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.436898, "region": {"abbr": "WA", "name": "Washington"}, "locality": "East Wenatchee", "lng": -120.25742, "zip_code": "98802"});
+zipapicallback({"locality": "East Wenatchee", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["E Wenatchee", "East Wenatchee", "Wenatchee"], "postal_code": "98802", "lat": 47.436898, "lng": -120.25742, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}, {"fips": "017", "name": "Douglas"}]});

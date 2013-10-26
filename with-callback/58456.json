@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.270766, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Kulm", "lng": -98.93292, "zip_code": "58456"});
+zipapicallback({"locality": "Kulm", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Kulm"], "postal_code": "58456", "lat": 46.270766, "lng": -98.93292, "type": "STANDARD", "counties": [{"fips": "045", "name": "Lamoure"}, {"fips": "021", "name": "Dickey"}, {"fips": "051", "name": "McIntosh"}]});

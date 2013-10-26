@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.627948, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hudson", "lng": -88.97711, "zip_code": "61748"});
+zipapicallback({"locality": "Hudson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hudson"], "postal_code": "61748", "lat": 40.627948, "lng": -88.97711, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}, {"fips": "203", "name": "Woodford"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.297387, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Breaks", "lng": -82.27942, "zip_code": "24607"}
+{"locality": "Breaks", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Breaks"], "postal_code": "24607", "lat": 37.297387, "lng": -82.27942, "type": "POBOX", "counties": [{"fips": "051", "name": "Dickenson"}]}

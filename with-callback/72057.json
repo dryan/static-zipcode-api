@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.14741, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Grapevine", "lng": -92.31641, "zip_code": "72057"});
+zipapicallback({"locality": "Grapevine", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Grapevine"], "postal_code": "72057", "lat": 34.14741, "lng": -92.31641, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]});

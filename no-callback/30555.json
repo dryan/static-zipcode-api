@@ -1,1 +1,1 @@
-{"lat": 34.977037, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mc Caysville", "lng": -84.39839, "zip_code": "30555"}
+{"locality": "Mc Caysville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mc Caysville"], "postal_code": "30555", "lat": 34.977037, "lng": -84.39839, "type": "STANDARD", "counties": [{"fips": "111", "name": "Fannin"}]}

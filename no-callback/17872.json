@@ -1,1 +1,1 @@
-{"lat": 40.784453, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Excelsior", "lng": -76.56417, "zip_code": "17872"}
+{"locality": "Shamokin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gowen City", "Shamokin"], "postal_code": "17872", "lat": 40.784453, "lng": -76.56417, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]}

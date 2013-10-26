@@ -1,1 +1,1 @@
-{"lat": 41.125399, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dannebrog", "lng": -98.57308, "zip_code": "68831"}
+{"locality": "Dannebrog", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dannebrog"], "postal_code": "68831", "lat": 41.125399, "lng": -98.57308, "type": "STANDARD", "counties": [{"fips": "093", "name": "Howard"}]}

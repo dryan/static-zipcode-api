@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.613541, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Heflin", "lng": -85.55457, "zip_code": "36264"});
+zipapicallback({"locality": "Heflin", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Heflin"], "postal_code": "36264", "lat": 33.613541, "lng": -85.55457, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cleburne"}, {"fips": "111", "name": "Randolph"}]});

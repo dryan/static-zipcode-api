@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.245205, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Sulphur", "lng": -93.3636, "zip_code": "70663"});
+zipapicallback({"locality": "Sulphur", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Sulphur"], "postal_code": "70663", "lat": 30.245205, "lng": -93.3636, "type": "STANDARD", "counties": [{"fips": "019", "name": "Calcasieu"}]});

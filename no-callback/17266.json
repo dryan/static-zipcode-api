@@ -1,1 +1,1 @@
-{"lat": 40.086522, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Walnut Bottom", "lng": -77.41026, "zip_code": "17266"}
+{"locality": "Walnut Bottom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Walnut Bottom"], "postal_code": "17266", "lat": 40.086522, "lng": -77.41026, "type": "STANDARD", "counties": [{"fips": "041", "name": "Cumberland"}]}

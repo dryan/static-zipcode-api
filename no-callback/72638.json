@@ -1,1 +1,1 @@
-{"lat": 36.327014, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Green Forest", "lng": -93.40111, "zip_code": "72638"}
+{"locality": "Green Forest", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Green Forest"], "postal_code": "72638", "lat": 36.327014, "lng": -93.40111, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "009", "name": "Boone"}]}

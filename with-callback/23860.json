@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.287869, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hopewell", "lng": -77.29359, "zip_code": "23860"});
+zipapicallback({"locality": "Hopewell", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hopewell"], "postal_code": "23860", "lat": 37.287869, "lng": -77.29359, "type": "STANDARD", "counties": [{"fips": "670", "name": "Hopewell (City)"}, {"fips": "149", "name": "Prince George"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.165414, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bryson", "lng": -98.38244, "zip_code": "76427"}
+{"locality": "Bryson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bryson"], "postal_code": "76427", "lat": 33.165414, "lng": -98.38244, "type": "STANDARD", "counties": []}

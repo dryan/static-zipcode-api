@@ -1,1 +1,1 @@
-{"lat": 42.988946, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lennon", "lng": -83.94468, "zip_code": "48449"}
+{"locality": "Lennon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lennon"], "postal_code": "48449", "lat": 42.988946, "lng": -83.94468, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}, {"fips": "155", "name": "Shiawassee"}]}

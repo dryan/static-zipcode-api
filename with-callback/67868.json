@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.881899, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Pierceville", "lng": -100.67849, "zip_code": "67868"});
+zipapicallback({"locality": "Pierceville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Garden City", "Pierceville"], "postal_code": "67868", "lat": 37.881899, "lng": -100.67849, "type": "STANDARD", "counties": [{"fips": "055", "name": "Finney"}, {"fips": "069", "name": "Gray"}, {"fips": "067", "name": "Grant"}]});

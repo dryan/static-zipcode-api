@@ -1,1 +1,1 @@
-{"lat": 42.720756, "region": {"abbr": "NY", "name": "New York"}, "locality": "Strykersville", "lng": -78.43429, "zip_code": "14145"}
+{"locality": "Strykersville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Strykersville"], "postal_code": "14145", "lat": 42.720756, "lng": -78.43429, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}, {"fips": "029", "name": "Erie"}]}

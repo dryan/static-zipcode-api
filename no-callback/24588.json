@@ -1,1 +1,1 @@
-{"lat": 37.268024, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rustburg", "lng": -79.11686, "zip_code": "24588"}
+{"locality": "Rustburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rustburg"], "postal_code": "24588", "lat": 37.268024, "lng": -79.11686, "type": "STANDARD", "counties": [{"fips": "031", "name": "Campbell"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.739904, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Wittmann", "lng": -112.59778, "zip_code": "85361"});
+zipapicallback({"locality": "Wittmann", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Wittmann"], "postal_code": "85361", "lat": 33.739904, "lng": -112.59778, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

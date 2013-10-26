@@ -1,1 +1,1 @@
-{"lat": 33.825516, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ashville", "lng": -86.24231, "zip_code": "35953"}
+{"locality": "Ashville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ashville"], "postal_code": "35953", "lat": 33.825516, "lng": -86.24231, "type": "STANDARD", "counties": [{"fips": "115", "name": "St. Clair"}]}

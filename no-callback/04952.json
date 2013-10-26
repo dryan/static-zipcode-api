@@ -1,1 +1,1 @@
-{"lat": 44.417725, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Morrill", "lng": -69.15196, "zip_code": "04952"}
+{"locality": "Morrill", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Belmont", "Morrill"], "postal_code": "04952", "lat": 44.417725, "lng": -69.15196, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]}

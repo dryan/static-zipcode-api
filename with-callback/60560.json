@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.631342, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Yorkville", "lng": -88.43996, "zip_code": "60560"});
+zipapicallback({"locality": "Yorkville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Yorkville"], "postal_code": "60560", "lat": 41.631342, "lng": -88.43996, "type": "STANDARD", "counties": [{"fips": "093", "name": "Kendall"}]});

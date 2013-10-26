@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.166225, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Del Valle", "lng": -97.62496, "zip_code": "78617"});
+zipapicallback({"locality": "Del Valle", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Del Valle"], "postal_code": "78617", "lat": 30.166225, "lng": -97.62496, "type": "STANDARD", "counties": [{"fips": "453", "name": "Travis"}, {"fips": "021", "name": "Bastrop"}]});

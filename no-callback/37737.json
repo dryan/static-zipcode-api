@@ -1,1 +1,1 @@
-{"lat": 35.760657, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Friendsville", "lng": -84.11925, "zip_code": "37737"}
+{"locality": "Friendsville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Friendsville"], "postal_code": "37737", "lat": 35.760657, "lng": -84.11925, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}, {"fips": "105", "name": "Loudon"}]}

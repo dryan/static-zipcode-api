@@ -1,1 +1,1 @@
-{"lat": 39.466279, "region": {"abbr": "CA", "name": "California"}, "locality": "Challenge", "lng": -121.20936, "zip_code": "95925"}
+{"locality": "Challenge", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Challenge"], "postal_code": "95925", "lat": 39.466279, "lng": -121.20936, "type": "STANDARD", "counties": [{"fips": "115", "name": "Yuba"}]}

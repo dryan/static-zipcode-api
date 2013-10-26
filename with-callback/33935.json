@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.760476, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Labelle", "lng": -81.43029, "zip_code": "33935"});
+zipapicallback({"locality": "Labelle", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Denaud", "Ft Denaud", "Labelle"], "postal_code": "33935", "lat": 26.760476, "lng": -81.43029, "type": "STANDARD", "counties": [{"fips": "051", "name": "Hendry"}, {"fips": "043", "name": "Glades"}]});

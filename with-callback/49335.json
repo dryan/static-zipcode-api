@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.739942, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Moline", "lng": -85.66543, "zip_code": "49335"});
+zipapicallback({"locality": "Moline", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Moline"], "postal_code": "49335", "lat": 42.739942, "lng": -85.66543, "type": "POBOX", "counties": [{"fips": "005", "name": "Allegan"}]});

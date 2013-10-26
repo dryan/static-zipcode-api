@@ -1,1 +1,1 @@
-{"lat": 41.816224, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pisgah", "lng": -95.90556, "zip_code": "51564"}
+{"locality": "Pisgah", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pisgah"], "postal_code": "51564", "lat": 41.816224, "lng": -95.90556, "type": "STANDARD", "counties": [{"fips": "085", "name": "Harrison"}]}

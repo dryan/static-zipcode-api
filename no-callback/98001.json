@@ -1,1 +1,1 @@
-{"lat": 47.303722, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Algona", "lng": -122.26608, "zip_code": "98001"}
+{"locality": "Auburn", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Algona", "Auburn", "Federal Way"], "postal_code": "98001", "lat": 47.303722, "lng": -122.26608, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

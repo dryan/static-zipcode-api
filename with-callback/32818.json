@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.583103, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Orlando", "lng": -81.48608, "zip_code": "32818"});
+zipapicallback({"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hiawassee", "Orlando", "Pine Hills"], "postal_code": "32818", "lat": 28.583103, "lng": -81.48608, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]});

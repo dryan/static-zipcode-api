@@ -1,1 +1,1 @@
-{"lat": 39.239548, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Eolia", "lng": -91.01577, "zip_code": "63344"}
+{"locality": "Eolia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Eolia"], "postal_code": "63344", "lat": 39.239548, "lng": -91.01577, "type": "STANDARD", "counties": [{"fips": "163", "name": "Pike"}, {"fips": "113", "name": "Lincoln"}]}

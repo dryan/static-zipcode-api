@@ -1,1 +1,1 @@
-{"lat": 38.388876, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Richview", "lng": -89.19244, "zip_code": "62877"}
+{"locality": "Richview", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Richview"], "postal_code": "62877", "lat": 38.388876, "lng": -89.19244, "type": "STANDARD", "counties": [{"fips": "189", "name": "Washington"}, {"fips": "081", "name": "Jefferson"}]}

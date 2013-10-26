@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.809387, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "North Aurora", "lng": -88.32931, "zip_code": "60542"});
+zipapicallback({"locality": "North Aurora", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["North Aurora"], "postal_code": "60542", "lat": 41.809387, "lng": -88.32931, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]});

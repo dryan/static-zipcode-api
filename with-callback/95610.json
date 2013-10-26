@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.696912, "region": {"abbr": "CA", "name": "California"}, "locality": "Citrus Heights", "lng": -121.27125, "zip_code": "95610"});
+zipapicallback({"locality": "Citrus Heights", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Citrus Heights", "Citrus Hts"], "postal_code": "95610", "lat": 38.696912, "lng": -121.27125, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

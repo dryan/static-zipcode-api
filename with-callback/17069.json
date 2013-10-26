@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.454175, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Buffalo", "lng": -76.96991, "zip_code": "17069"});
+zipapicallback({"locality": "New Buffalo", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Buffalo"], "postal_code": "17069", "lat": 40.454175, "lng": -76.96991, "type": "POBOX", "counties": [{"fips": "099", "name": "Perry"}]});

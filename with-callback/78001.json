@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.265415, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Artesia Wells", "lng": -99.2821, "zip_code": "78001"});
+zipapicallback({"locality": "Artesia Wells", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Artesia Wells"], "postal_code": "78001", "lat": 28.265415, "lng": -99.2821, "type": "POBOX", "counties": [{"fips": "283", "name": "La Salle"}]});

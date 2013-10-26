@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.884771, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Osakis", "lng": -95.10486, "zip_code": "56360"});
+zipapicallback({"locality": "Osakis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Osakis"], "postal_code": "56360", "lat": 45.884771, "lng": -95.10486, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "145", "name": "Stearns"}, {"fips": "153", "name": "Todd"}]});

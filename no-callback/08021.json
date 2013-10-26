@@ -1,1 +1,1 @@
-{"lat": 39.810485, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Laurel Springs", "lng": -74.99574, "zip_code": "08021"}
+{"locality": "Clementon", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Clementon", "Laurel Spgs", "Laurel Springs", "Lindenwold", "Pine Hill", "Pine Valley"], "postal_code": "08021", "lat": 39.810485, "lng": -74.99574, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

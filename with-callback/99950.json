@@ -1,1 +1,1 @@
-zipapicallback({"lat": 55.875767, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Ketchikan", "lng": -131.46633, "zip_code": "99950"});
+zipapicallback({"locality": "Ketchikan", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Edna Bay", "Kasaan", "Ketchikan"], "postal_code": "99950", "lat": 55.875767, "lng": -131.46633, "type": "POBOX", "counties": [{"fips": "201", "name": "Prince-Wales-Ketchikan"}, {"fips": "130", "name": "Ketchikan Gateway"}]});

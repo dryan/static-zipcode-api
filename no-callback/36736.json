@@ -1,1 +1,1 @@
-{"lat": 32.069338, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Dixons Mills", "lng": -87.77893, "zip_code": "36736"}
+{"locality": "Dixons Mills", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dixons Mills"], "postal_code": "36736", "lat": 32.069338, "lng": -87.77893, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}]}

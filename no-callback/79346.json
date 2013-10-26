@@ -1,1 +1,1 @@
-{"lat": 33.688713, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Morton", "lng": -102.81775, "zip_code": "79346"}
+{"locality": "Morton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Morton"], "postal_code": "79346", "lat": 33.688713, "lng": -102.81775, "type": "STANDARD", "counties": [{"fips": "079", "name": "Cochran"}, {"fips": "017", "name": "Bailey"}]}

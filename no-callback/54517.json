@@ -1,1 +1,1 @@
-{"lat": 46.136639, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Clam Lake", "lng": -90.93065, "zip_code": "54517"}
+{"locality": "Clam Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Clam Lake"], "postal_code": "54517", "lat": 46.136639, "lng": -90.93065, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashland"}, {"fips": "113", "name": "Sawyer"}]}

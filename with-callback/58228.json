@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.882652, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Emerado", "lng": -97.35564, "zip_code": "58228"});
+zipapicallback({"locality": "Emerado", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Emerado"], "postal_code": "58228", "lat": 47.882652, "lng": -97.35564, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}]});

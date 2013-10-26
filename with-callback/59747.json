@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.659738, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Pony", "lng": -111.88987, "zip_code": "59747"});
+zipapicallback({"locality": "Pony", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Pony"], "postal_code": "59747", "lat": 45.659738, "lng": -111.88987, "type": "POBOX", "counties": [{"fips": "057", "name": "Madison"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.180947, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Savannah", "lng": -88.18946, "zip_code": "38372"});
+zipapicallback({"locality": "Savannah", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Savannah"], "postal_code": "38372", "lat": 35.180947, "lng": -88.18946, "type": "STANDARD", "counties": [{"fips": "071", "name": "Hardin"}]});

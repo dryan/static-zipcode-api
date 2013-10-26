@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.166045, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Calais", "lng": -67.24243, "zip_code": "04619"});
+zipapicallback({"locality": "Calais", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Calais"], "postal_code": "04619", "lat": 45.166045, "lng": -67.24243, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

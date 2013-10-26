@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.075084, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Winnebago", "lng": -88.51758, "zip_code": "54985"});
+zipapicallback({"locality": "Winnebago", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Winnebago"], "postal_code": "54985", "lat": 44.075084, "lng": -88.51758, "type": "POBOX", "counties": [{"fips": "139", "name": "Winnebago"}]});

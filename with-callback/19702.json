@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.626297, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Newark", "lng": -75.71386, "zip_code": "19702"});
+zipapicallback({"locality": "Newark", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Christiana", "Newark"], "postal_code": "19702", "lat": 39.626297, "lng": -75.71386, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.079258, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Heth", "lng": -90.46399, "zip_code": "72346"});
+zipapicallback({"locality": "Heth", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Heth"], "postal_code": "72346", "lat": 35.079258, "lng": -90.46399, "type": "STANDARD", "counties": [{"fips": "123", "name": "St. Francis"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.025484, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Victoria", "lng": -90.08422, "zip_code": "61485"});
+zipapicallback({"locality": "Victoria", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Victoria"], "postal_code": "61485", "lat": 41.025484, "lng": -90.08422, "type": "STANDARD", "counties": [{"fips": "095", "name": "Knox"}]});

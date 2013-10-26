@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.719769, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "North Stratford", "lng": -71.59395, "zip_code": "03590"});
+zipapicallback({"locality": "North Stratford", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["N Stratford", "North Stratford", "Stratford"], "postal_code": "03590", "lat": 44.719769, "lng": -71.59395, "type": "STANDARD", "counties": [{"fips": "007", "name": "Coos"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.451688, "region": {"abbr": "CA", "name": "California"}, "locality": "West Menlo Park", "lng": -122.18385, "zip_code": "94025"}
+{"locality": "Menlo Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Menlo Park", "W Menlo Park", "West Menlo Park"], "postal_code": "94025", "lat": 37.451688, "lng": -122.18385, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

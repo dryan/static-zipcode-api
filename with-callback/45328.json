@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.112545, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gettysburg", "lng": -84.49314, "zip_code": "45328"});
+zipapicallback({"locality": "Gettysburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Gettysburg"], "postal_code": "45328", "lat": 40.112545, "lng": -84.49314, "type": "POBOX", "counties": [{"fips": "037", "name": "Darke"}]});

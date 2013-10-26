@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.083848, "region": {"abbr": "NY", "name": "New York"}, "locality": "Valhalla", "lng": -73.77785, "zip_code": "10595"});
+zipapicallback({"locality": "Valhalla", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Valhalla"], "postal_code": "10595", "lat": 41.083848, "lng": -73.77785, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.873645, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Modena", "lng": -113.88673, "zip_code": "84753"}
+{"locality": "Modena", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Modena"], "postal_code": "84753", "lat": 37.873645, "lng": -113.88673, "type": "STANDARD", "counties": [{"fips": "021", "name": "Iron"}]}

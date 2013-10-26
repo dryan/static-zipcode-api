@@ -1,1 +1,1 @@
-{"lat": 45.54608, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Brantwood", "lng": -90.13535, "zip_code": "54513"}
+{"locality": "Brantwood", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brantwood"], "postal_code": "54513", "lat": 45.54608, "lng": -90.13535, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.291637, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ann Arbor", "lng": -83.71831, "zip_code": "48109"}
+{"locality": "Ann Arbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ann Arbor"], "postal_code": "48109", "lat": 42.291637, "lng": -83.71831, "type": "STANDARD", "counties": [{"fips": "161", "name": "Washtenaw"}]}

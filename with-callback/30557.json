@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.491829, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Martin", "lng": -83.17539, "zip_code": "30557"});
+zipapicallback({"locality": "Martin", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Avalon", "Martin"], "postal_code": "30557", "lat": 34.491829, "lng": -83.17539, "type": "STANDARD", "counties": [{"fips": "257", "name": "Stephens"}, {"fips": "119", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.739964, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Roby", "lng": -100.38106, "zip_code": "79543"}
+{"locality": "Roby", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Roby"], "postal_code": "79543", "lat": 32.739964, "lng": -100.38106, "type": "STANDARD", "counties": [{"fips": "151", "name": "Fisher"}]}

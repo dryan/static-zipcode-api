@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.031505, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Allendale", "lng": -74.13409, "zip_code": "07401"});
+zipapicallback({"locality": "Allendale", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Allendale"], "postal_code": "07401", "lat": 41.031505, "lng": -74.13409, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.32012, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Poyen", "lng": -92.63984, "zip_code": "72128"});
+zipapicallback({"locality": "Poyen", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Poyen"], "postal_code": "72128", "lat": 34.32012, "lng": -92.63984, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]});

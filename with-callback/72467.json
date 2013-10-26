@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.843125, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "State University", "lng": -90.67579, "zip_code": "72467"});
+zipapicallback({"locality": "State University", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["State Univ", "State University"], "postal_code": "72467", "lat": 35.843125, "lng": -90.67579, "type": "POBOX", "counties": [{"fips": "031", "name": "Craighead"}]});

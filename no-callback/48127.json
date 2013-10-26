@@ -1,1 +1,1 @@
-{"lat": 42.335687, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dearborn Heights", "lng": -83.28332, "zip_code": "48127"}
+{"locality": "Dearborn Heights", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dearborn Heights", "Dearborn Hts"], "postal_code": "48127", "lat": 42.335687, "lng": -83.28332, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.096855, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Blanco", "lng": -98.43411, "zip_code": "78606"}
+{"locality": "Blanco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Blanco"], "postal_code": "78606", "lat": 30.096855, "lng": -98.43411, "type": "STANDARD", "counties": [{"fips": "031", "name": "Blanco"}]}

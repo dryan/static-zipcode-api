@@ -1,1 +1,1 @@
-{"lat": 47.608142, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sharon", "lng": -97.8179, "zip_code": "58277"}
+{"locality": "Sharon", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sharon"], "postal_code": "58277", "lat": 47.608142, "lng": -97.8179, "type": "STANDARD", "counties": [{"fips": "091", "name": "Steele"}]}

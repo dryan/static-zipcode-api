@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.661068, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harmonsburg", "lng": -80.31618, "zip_code": "16422"});
+zipapicallback({"locality": "Harmonsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harmonsburg"], "postal_code": "16422", "lat": 41.661068, "lng": -80.31618, "type": "POBOX", "counties": [{"fips": "039", "name": "Crawford"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.369216, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Brownville", "lng": -69.03431, "zip_code": "04414"}
+{"locality": "Brownville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Barnard Twp", "Brownville", "Ebeemee Twp", "Wiliamsbg Twp", "Williamsburg Twp"], "postal_code": "04414", "lat": 45.369216, "lng": -69.03431, "type": "STANDARD", "counties": [{"fips": "021", "name": "Piscataquis"}]}

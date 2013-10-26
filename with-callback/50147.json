@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.60243, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lineville", "lng": -93.52778, "zip_code": "50147"});
+zipapicallback({"locality": "Lineville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lineville"], "postal_code": "50147", "lat": 40.60243, "lng": -93.52778, "type": "STANDARD", "counties": [{"fips": "185", "name": "Wayne"}, {"fips": "125", "name": "Marion"}, {"fips": "187", "name": "Webster"}]});

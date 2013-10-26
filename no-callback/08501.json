@@ -1,1 +1,1 @@
-{"lat": 40.164556, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Allentown", "lng": -74.57785, "zip_code": "08501"}
+{"locality": "Allentown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Allentown"], "postal_code": "08501", "lat": 40.164556, "lng": -74.57785, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}, {"fips": "021", "name": "Mercer"}, {"fips": "005", "name": "Burlington"}]}

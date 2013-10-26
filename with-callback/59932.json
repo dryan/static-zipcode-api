@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.073924, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Somers", "lng": -114.22384, "zip_code": "59932"});
+zipapicallback({"locality": "Somers", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Somers"], "postal_code": "59932", "lat": 48.073924, "lng": -114.22384, "type": "STANDARD", "counties": [{"fips": "029", "name": "Flathead"}]});

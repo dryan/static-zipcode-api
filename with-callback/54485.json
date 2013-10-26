@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.381803, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Summit Lake", "lng": -89.20073, "zip_code": "54485"});
+zipapicallback({"locality": "Summit Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Summit Lake"], "postal_code": "54485", "lat": 45.381803, "lng": -89.20073, "type": "STANDARD", "counties": [{"fips": "067", "name": "Langlade"}]});

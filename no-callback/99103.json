@@ -1,1 +1,1 @@
-{"lat": 47.721863, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Almira", "lng": -118.95554, "zip_code": "99103"}
+{"locality": "Almira", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Almira"], "postal_code": "99103", "lat": 47.721863, "lng": -118.95554, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "025", "name": "Grant"}]}

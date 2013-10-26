@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.279343, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Susana", "lng": -118.69607, "zip_code": "93063"});
+zipapicallback({"locality": "Simi Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Susana", "Simi Valley"], "postal_code": "93063", "lat": 34.279343, "lng": -118.69607, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.040623, "region": {"abbr": "NY", "name": "New York"}, "locality": "Piermont", "lng": -73.91878, "zip_code": "10968"}
+{"locality": "Piermont", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Piermont"], "postal_code": "10968", "lat": 41.040623, "lng": -73.91878, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

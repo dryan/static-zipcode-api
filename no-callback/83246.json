@@ -1,1 +1,1 @@
-{"lat": 42.616477, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Lava Hot Springs", "lng": -112.01889, "zip_code": "83246"}
+{"locality": "Lava Hot Springs", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Lava Hot Spgs", "Lava Hot Springs"], "postal_code": "83246", "lat": 42.616477, "lng": -112.01889, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bannock"}]}

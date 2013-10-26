@@ -1,1 +1,1 @@
-{"lat": 39.093345, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cincinnati", "lng": -84.56428, "zip_code": "45204"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Queen City"], "postal_code": "45204", "lat": 39.093345, "lng": -84.56428, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

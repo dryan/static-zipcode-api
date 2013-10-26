@@ -1,1 +1,1 @@
-{"lat": 48.153759, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Waskish", "lng": -94.51934, "zip_code": "56685"}
+{"locality": "Waskish", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Waskish"], "postal_code": "56685", "lat": 48.153759, "lng": -94.51934, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beltrami"}]}

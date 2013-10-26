@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.941926, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cedaredge", "lng": -107.92669, "zip_code": "81413"});
+zipapicallback({"locality": "Cedaredge", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cedaredge"], "postal_code": "81413", "lat": 38.941926, "lng": -107.92669, "type": "STANDARD", "counties": [{"fips": "029", "name": "Delta"}]});

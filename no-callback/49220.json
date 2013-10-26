@@ -1,1 +1,1 @@
-{"lat": 41.992765, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Addison", "lng": -84.3329, "zip_code": "49220"}
+{"locality": "Addison", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Addison"], "postal_code": "49220", "lat": 41.992765, "lng": -84.3329, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}, {"fips": "059", "name": "Hillsdale"}]}

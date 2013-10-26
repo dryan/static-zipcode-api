@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.600348, "region": {"abbr": "CA", "name": "California"}, "locality": "Raisin", "lng": -119.90272, "zip_code": "93652"});
+zipapicallback({"locality": "Raisin City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Raisin City"], "postal_code": "93652", "lat": 36.600348, "lng": -119.90272, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

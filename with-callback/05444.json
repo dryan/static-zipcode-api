@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.645649, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Cambridge", "lng": -72.90151, "zip_code": "05444"});
+zipapicallback({"locality": "Cambridge", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Cambridge"], "postal_code": "05444", "lat": 44.645649, "lng": -72.90151, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}, {"fips": "011", "name": "Franklin"}, {"fips": "007", "name": "Chittenden"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.990184, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Monument Valley", "lng": -110.2123, "zip_code": "84536"}
+{"locality": "Monument Valley", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Monument Valley", "Monument Vly"], "postal_code": "84536", "lat": 36.990184, "lng": -110.2123, "type": "POBOX", "counties": [{"fips": "037", "name": "San Juan"}]}

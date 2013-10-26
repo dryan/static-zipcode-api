@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.041399, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Molinos", "lng": -122.09793, "zip_code": "96055"});
+zipapicallback({"locality": "Los Molinos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Molinos"], "postal_code": "96055", "lat": 40.041399, "lng": -122.09793, "type": "STANDARD", "counties": [{"fips": "103", "name": "Tehama"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.915764, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Aransas Pass", "lng": -97.15436, "zip_code": "78336"});
+zipapicallback({"locality": "Aransas Pass", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Aransas Pass", "City By The Sea", "Cty By The Se"], "postal_code": "78336", "lat": 27.915764, "lng": -97.15436, "type": "STANDARD", "counties": [{"fips": "409", "name": "San Patricio"}, {"fips": "007", "name": "Aransas"}]});

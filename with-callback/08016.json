@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.06834, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Burlington", "lng": -74.84463, "zip_code": "08016"});
+zipapicallback({"locality": "Burlington", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Burlington", "Burlington City", "Burlington Township", "Burlngtn City", "Burlngtn Twp"], "postal_code": "08016", "lat": 40.06834, "lng": -74.84463, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

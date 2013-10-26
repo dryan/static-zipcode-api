@@ -1,1 +1,1 @@
-{"lat": 39.797227, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Yellow Springs", "lng": -83.89239, "zip_code": "45387"}
+{"locality": "Yellow Springs", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Yellow Spgs", "Yellow Springs"], "postal_code": "45387", "lat": 39.797227, "lng": -83.89239, "type": "STANDARD", "counties": [{"fips": "057", "name": "Greene"}, {"fips": "023", "name": "Clark"}]}

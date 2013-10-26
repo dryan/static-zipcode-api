@@ -1,1 +1,1 @@
-{"lat": 36.921462, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Melber", "lng": -88.75871, "zip_code": "42069"}
+{"locality": "Melber", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Melber"], "postal_code": "42069", "lat": 36.921462, "lng": -88.75871, "type": "STANDARD", "counties": [{"fips": "083", "name": "Graves"}, {"fips": "039", "name": "Carlisle"}, {"fips": "145", "name": "McCracken"}]}

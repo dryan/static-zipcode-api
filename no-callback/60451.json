@@ -1,1 +1,1 @@
-{"lat": 41.509231, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Lenox", "lng": -87.96475, "zip_code": "60451"}
+{"locality": "New Lenox", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Lenox"], "postal_code": "60451", "lat": 41.509231, "lng": -87.96475, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}]}

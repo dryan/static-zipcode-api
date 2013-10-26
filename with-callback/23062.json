@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.257466, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Gloucester Point", "lng": -76.49661, "zip_code": "23062"});
+zipapicallback({"locality": "Gloucester Point", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Glou Point", "Gloucester Point", "Gloucester Pt"], "postal_code": "23062", "lat": 37.257466, "lng": -76.49661, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gloucester"}]});

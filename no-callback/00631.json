@@ -1,1 +1,1 @@
-{"lat": 18.186739, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Castaner", "lng": -66.85174, "zip_code": "00631"}
+{"locality": "Castaner", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Adjuntas", "Castaner"], "postal_code": "00631", "lat": 18.186739, "lng": -66.85174, "type": "POBOX", "counties": [{"fips": "081", "name": "Lares"}]}

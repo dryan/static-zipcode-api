@@ -1,1 +1,1 @@
-{"lat": 38.043992, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Coolidge", "lng": -102.00832, "zip_code": "67836"}
+{"locality": "Coolidge", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Coolidge"], "postal_code": "67836", "lat": 38.043992, "lng": -102.00832, "type": "POBOX", "counties": [{"fips": "075", "name": "Hamilton"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.422035, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Atoka", "lng": -89.80806, "zip_code": "38004"}
+{"locality": "Atoka", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Atoka"], "postal_code": "38004", "lat": 35.422035, "lng": -89.80806, "type": "STANDARD", "counties": [{"fips": "167", "name": "Tipton"}]}

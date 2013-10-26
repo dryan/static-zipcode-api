@@ -1,1 +1,1 @@
-{"lat": 37.492529, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hallieford", "lng": -76.33636, "zip_code": "23068"}
+{"locality": "Hallieford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hallieford"], "postal_code": "23068", "lat": 37.492529, "lng": -76.33636, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]}

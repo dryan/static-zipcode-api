@@ -1,1 +1,1 @@
-{"lat": 34.204467, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Lugoff", "lng": -80.70776, "zip_code": "29078"}
+{"locality": "Lugoff", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Lugoff"], "postal_code": "29078", "lat": 34.204467, "lng": -80.70776, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kershaw"}, {"fips": "079", "name": "Richland"}]}

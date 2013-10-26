@@ -1,1 +1,1 @@
-{"lat": 34.471798, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lehigh", "lng": -96.20366, "zip_code": "74556"}
+{"locality": "Lehigh", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lehigh"], "postal_code": "74556", "lat": 34.471798, "lng": -96.20366, "type": "POBOX", "counties": [{"fips": "005", "name": "Atoka"}]}

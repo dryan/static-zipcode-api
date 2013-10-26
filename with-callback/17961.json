@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.645057, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Orwigsburg", "lng": -76.0785, "zip_code": "17961"});
+zipapicallback({"locality": "Orwigsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Orwigsburg"], "postal_code": "17961", "lat": 40.645057, "lng": -76.0785, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

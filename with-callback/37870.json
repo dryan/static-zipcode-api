@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.45491, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Speedwell", "lng": -83.8546, "zip_code": "37870"});
+zipapicallback({"locality": "Speedwell", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Speedwell"], "postal_code": "37870", "lat": 36.45491, "lng": -83.8546, "type": "STANDARD", "counties": [{"fips": "025", "name": "Claiborne"}, {"fips": "173", "name": "Union"}, {"fips": "013", "name": "Campbell"}]});

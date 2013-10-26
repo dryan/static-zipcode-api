@@ -1,1 +1,1 @@
-{"lat": 38.765929, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Venice", "lng": -112.08397, "zip_code": "84701"}
+{"locality": "Richfield", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Richfield", "Venice"], "postal_code": "84701", "lat": 38.765929, "lng": -112.08397, "type": "STANDARD", "counties": [{"fips": "041", "name": "Sevier"}]}

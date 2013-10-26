@@ -1,1 +1,1 @@
-{"lat": 30.675635, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Marianna", "lng": -85.23283, "zip_code": "32448"}
+{"locality": "Marianna", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Marianna"], "postal_code": "32448", "lat": 30.675635, "lng": -85.23283, "type": "STANDARD", "counties": []}

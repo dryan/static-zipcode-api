@@ -1,1 +1,1 @@
-{"lat": 37.996542, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Greenville", "lng": -79.15354, "zip_code": "24440"}
+{"locality": "Greenville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Greenville"], "postal_code": "24440", "lat": 37.996542, "lng": -79.15354, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]}

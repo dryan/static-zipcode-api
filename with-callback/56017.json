@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.304948, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cleveland", "lng": -93.80077, "zip_code": "56017"});
+zipapicallback({"locality": "Cleveland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cleveland"], "postal_code": "56017", "lat": 44.304948, "lng": -93.80077, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}]});

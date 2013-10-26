@@ -1,1 +1,1 @@
-{"lat": 39.487134, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clifton Hill", "lng": -92.67946, "zip_code": "65244"}
+{"locality": "Clifton Hill", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clifton Hill"], "postal_code": "65244", "lat": 39.487134, "lng": -92.67946, "type": "STANDARD", "counties": [{"fips": "175", "name": "Randolph"}, {"fips": "041", "name": "Chariton"}]}

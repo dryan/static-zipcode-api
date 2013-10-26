@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.688162, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mentor", "lng": -81.33378, "zip_code": "44060"});
+zipapicallback({"locality": "Mentor", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mentor", "Mentor On The", "Mentor On The Lake"], "postal_code": "44060", "lat": 41.688162, "lng": -81.33378, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lake"}, {"fips": "055", "name": "Geauga"}, {"fips": "035", "name": "Cuyahoga"}]});

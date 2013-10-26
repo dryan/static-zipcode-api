@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.200998, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ravenna", "lng": -85.96376, "zip_code": "49451"});
+zipapicallback({"locality": "Ravenna", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ravenna"], "postal_code": "49451", "lat": 43.200998, "lng": -85.96376, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}, {"fips": "139", "name": "Ottawa"}]});

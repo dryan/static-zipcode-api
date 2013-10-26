@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.370945, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Grifton", "lng": -77.42548, "zip_code": "28530"});
+zipapicallback({"locality": "Grifton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Grifton"], "postal_code": "28530", "lat": 35.370945, "lng": -77.42548, "type": "STANDARD", "counties": [{"fips": "147", "name": "Pitt"}]});

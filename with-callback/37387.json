@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.275367, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Tracy City", "lng": -85.74039, "zip_code": "37387"});
+zipapicallback({"locality": "Tracy City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Tracy City"], "postal_code": "37387", "lat": 35.275367, "lng": -85.74039, "type": "STANDARD", "counties": [{"fips": "061", "name": "Grundy"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.934318, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Pine Beach", "lng": -74.16773, "zip_code": "08741"});
+zipapicallback({"locality": "Pine Beach", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Pine Beach"], "postal_code": "08741", "lat": 39.934318, "lng": -74.16773, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

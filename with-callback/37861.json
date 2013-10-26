@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.243526, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Rutledge", "lng": -83.51516, "zip_code": "37861"});
+zipapicallback({"locality": "Rutledge", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Rutledge"], "postal_code": "37861", "lat": 36.243526, "lng": -83.51516, "type": "STANDARD", "counties": [{"fips": "057", "name": "Grainger"}]});

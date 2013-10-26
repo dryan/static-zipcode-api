@@ -1,1 +1,1 @@
-{"lat": 30.686968, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Husser", "lng": -90.32332, "zip_code": "70442"}
+{"locality": "Husser", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Husser"], "postal_code": "70442", "lat": 30.686968, "lng": -90.32332, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}]}

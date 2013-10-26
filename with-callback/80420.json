@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.293921, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Alma", "lng": -106.06889, "zip_code": "80420"});
+zipapicallback({"locality": "Alma", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Alma"], "postal_code": "80420", "lat": 39.293921, "lng": -106.06889, "type": "POBOX", "counties": [{"fips": "093", "name": "Park"}]});

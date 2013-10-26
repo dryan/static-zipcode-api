@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.817411, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Randleman", "lng": -79.80389, "zip_code": "27317"});
+zipapicallback({"locality": "Randleman", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Randleman"], "postal_code": "27317", "lat": 35.817411, "lng": -79.80389, "type": "STANDARD", "counties": [{"fips": "151", "name": "Randolph"}, {"fips": "081", "name": "Guilford"}]});

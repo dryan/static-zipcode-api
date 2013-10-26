@@ -1,1 +1,1 @@
-{"lat": 39.792736, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mc Donald", "lng": -101.36332, "zip_code": "67745"}
+{"locality": "Mc Donald", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mc Donald"], "postal_code": "67745", "lat": 39.792736, "lng": -101.36332, "type": "STANDARD", "counties": [{"fips": "153", "name": "Rawlins"}, {"fips": "023", "name": "Cheyenne"}]}

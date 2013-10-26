@@ -1,1 +1,1 @@
-{"lat": 43.069562, "region": {"abbr": "NY", "name": "New York"}, "locality": "Gloversville", "lng": -74.3436, "zip_code": "12078"}
+{"locality": "Gloversville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Gloversville"], "postal_code": "12078", "lat": 43.069562, "lng": -74.3436, "type": "STANDARD", "counties": [{"fips": "035", "name": "Fulton"}]}

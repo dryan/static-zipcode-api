@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.229885, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "West Union", "lng": -87.6664, "zip_code": "62477"});
+zipapicallback({"locality": "West Union", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["West Union"], "postal_code": "62477", "lat": 39.229885, "lng": -87.6664, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}]});

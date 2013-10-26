@@ -1,1 +1,1 @@
-{"lat": 33.946064, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Bouse", "lng": -113.9537, "zip_code": "85325"}
+{"locality": "Bouse", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bouse"], "postal_code": "85325", "lat": 33.946064, "lng": -113.9537, "type": "POBOX", "counties": [{"fips": "012", "name": "La Paz"}]}

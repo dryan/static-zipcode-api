@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.631602, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Levering", "lng": -84.79103, "zip_code": "49755"});
+zipapicallback({"locality": "Levering", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Levering"], "postal_code": "49755", "lat": 45.631602, "lng": -84.79103, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "031", "name": "Cheboygan"}]});

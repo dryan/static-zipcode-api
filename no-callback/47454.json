@@ -1,1 +1,1 @@
-{"lat": 38.533167, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Paoli", "lng": -86.48362, "zip_code": "47454"}
+{"locality": "Paoli", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Paoli"], "postal_code": "47454", "lat": 38.533167, "lng": -86.48362, "type": "STANDARD", "counties": [{"fips": "117", "name": "Orange"}]}

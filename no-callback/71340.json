@@ -1,1 +1,1 @@
-{"lat": 31.765818, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Harrisonburg", "lng": -91.82382, "zip_code": "71340"}
+{"locality": "Harrisonburg", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Harrisonburg"], "postal_code": "71340", "lat": 31.765818, "lng": -91.82382, "type": "STANDARD", "counties": [{"fips": "025", "name": "Catahoula"}]}

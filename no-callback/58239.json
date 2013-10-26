@@ -1,1 +1,1 @@
-{"lat": 48.950929, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Hannah", "lng": -98.66921, "zip_code": "58239"}
+{"locality": "Hannah", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hannah"], "postal_code": "58239", "lat": 48.950929, "lng": -98.66921, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cavalier"}]}

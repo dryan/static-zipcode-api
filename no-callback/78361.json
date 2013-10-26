@@ -1,1 +1,1 @@
-{"lat": 27.17199, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hebbronville", "lng": -98.73083, "zip_code": "78361"}
+{"locality": "Hebbronville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hebbronville"], "postal_code": "78361", "lat": 27.17199, "lng": -98.73083, "type": "STANDARD", "counties": [{"fips": "247", "name": "Jim Hogg"}, {"fips": "427", "name": "Starr"}, {"fips": "505", "name": "Zapata"}]}

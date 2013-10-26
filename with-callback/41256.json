@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.832617, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Barnetts Creek", "lng": -82.86299, "zip_code": "41256"});
+zipapicallback({"locality": "Staffordsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Barnetts Creek", "Barnetts Crk", "Staffordsville", "Staffordsvlle"], "postal_code": "41256", "lat": 37.832617, "lng": -82.86299, "type": "STANDARD", "counties": [{"fips": "115", "name": "Johnson"}]});

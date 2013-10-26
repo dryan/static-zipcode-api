@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.308243, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Baskin", "lng": -91.71527, "zip_code": "71219"});
+zipapicallback({"locality": "Baskin", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Baskin"], "postal_code": "71219", "lat": 32.308243, "lng": -91.71527, "type": "STANDARD", "counties": [{"fips": "041", "name": "Franklin"}]});

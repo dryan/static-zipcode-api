@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.579454, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Englewood", "lng": -104.88288, "zip_code": "80112"});
+zipapicallback({"locality": "Englewood", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Centennial", "Englewood", "Greenwood Village", "Greenwood Vlg"], "postal_code": "80112", "lat": 39.579454, "lng": -104.88288, "type": "STANDARD", "counties": [{"fips": "005", "name": "Arapahoe"}, {"fips": "035", "name": "Douglas"}, {"fips": "031", "name": "Denver"}]});

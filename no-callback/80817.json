@@ -1,1 +1,1 @@
-{"lat": 38.674013, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fountain", "lng": -104.69627, "zip_code": "80817"}
+{"locality": "Fountain", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fountain"], "postal_code": "80817", "lat": 38.674013, "lng": -104.69627, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.822244, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sturgis", "lng": -85.43234, "zip_code": "49091"});
+zipapicallback({"locality": "Sturgis", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sturgis"], "postal_code": "49091", "lat": 41.822244, "lng": -85.43234, "type": "STANDARD", "counties": [{"fips": "149", "name": "St. Joseph"}]});

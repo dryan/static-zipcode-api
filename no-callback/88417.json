@@ -1,1 +1,1 @@
-{"lat": 35.014908, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cuervo", "lng": -104.41778, "zip_code": "88417"}
+{"locality": "Cuervo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cuervo"], "postal_code": "88417", "lat": 35.014908, "lng": -104.41778, "type": "STANDARD", "counties": [{"fips": "019", "name": "Guadalupe"}]}

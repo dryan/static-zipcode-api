@@ -1,1 +1,1 @@
-{"lat": 19.494625, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Pahoa", "lng": -154.9266, "zip_code": "96778"}
+{"locality": "Pahoa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Pahoa"], "postal_code": "96778", "lat": 19.494625, "lng": -154.9266, "type": "STANDARD", "counties": [{"fips": "001", "name": "Hawaii"}]}

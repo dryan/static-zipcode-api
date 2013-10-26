@@ -1,1 +1,1 @@
-{"lat": 42.706781, "region": {"abbr": "NY", "name": "New York"}, "locality": "Conesus", "lng": -77.68103, "zip_code": "14435"}
+{"locality": "Conesus", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Conesus"], "postal_code": "14435", "lat": 42.706781, "lng": -77.68103, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]}

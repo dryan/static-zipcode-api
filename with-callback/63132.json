@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.675784, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Olivette", "lng": -90.37463, "zip_code": "63132"});
+zipapicallback({"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Olivette", "Saint Louis"], "postal_code": "63132", "lat": 38.675784, "lng": -90.37463, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

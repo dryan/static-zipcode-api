@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.772117, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Warrensburg", "lng": -93.73519, "zip_code": "64093"});
+zipapicallback({"locality": "Warrensburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Warrensburg"], "postal_code": "64093", "lat": 38.772117, "lng": -93.73519, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnson"}]});

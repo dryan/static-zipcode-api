@@ -1,1 +1,1 @@
-{"lat": 35.49326, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Richfield", "lng": -80.25524, "zip_code": "28137"}
+{"locality": "Richfield", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Richfield"], "postal_code": "28137", "lat": 35.49326, "lng": -80.25524, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rowan"}]}

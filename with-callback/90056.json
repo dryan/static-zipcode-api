@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.986212, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Angeles", "lng": -118.37099, "zip_code": "90056"});
+zipapicallback({"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Baldwin Hills", "Los Angeles", "Windsor Hills"], "postal_code": "90056", "lat": 33.986212, "lng": -118.37099, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

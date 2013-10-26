@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.92811, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lees Summit", "lng": -94.32392, "zip_code": "64086"});
+zipapicallback({"locality": "Lees Summit", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lake Lotawana", "Lees Summit", "Lone Jack"], "postal_code": "64086", "lat": 38.92811, "lng": -94.32392, "type": "STANDARD", "counties": []});

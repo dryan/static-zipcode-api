@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.150537, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ermine", "lng": -82.79468, "zip_code": "41815"});
+zipapicallback({"locality": "Ermine", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ermine"], "postal_code": "41815", "lat": 37.150537, "lng": -82.79468, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.162229, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mineralwells", "lng": -81.53788, "zip_code": "26150"});
+zipapicallback({"locality": "Mineral Wells", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mineral Wells"], "postal_code": "26150", "lat": 39.162229, "lng": -81.53788, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wood"}]});

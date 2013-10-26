@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.24238, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Grannis", "lng": -94.35535, "zip_code": "71944"});
+zipapicallback({"locality": "Grannis", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Grannis"], "postal_code": "71944", "lat": 34.24238, "lng": -94.35535, "type": "STANDARD", "counties": [{"fips": "113", "name": "Polk"}]});

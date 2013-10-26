@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.346632, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bridgeport", "lng": -83.84636, "zip_code": "48722"});
+zipapicallback({"locality": "Bridgeport", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bridgeport"], "postal_code": "48722", "lat": 43.346632, "lng": -83.84636, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}]});

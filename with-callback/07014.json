@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.834049, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Clifton", "lng": -74.13669, "zip_code": "07014"});
+zipapicallback({"locality": "Clifton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Clifton"], "postal_code": "07014", "lat": 40.834049, "lng": -74.13669, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}]});

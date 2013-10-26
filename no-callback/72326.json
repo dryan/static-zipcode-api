@@ -1,1 +1,1 @@
-{"lat": 35.111687, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Colt", "lng": -90.8989, "zip_code": "72326"}
+{"locality": "Colt", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Colt"], "postal_code": "72326", "lat": 35.111687, "lng": -90.8989, "type": "STANDARD", "counties": [{"fips": "123", "name": "St. Francis"}]}

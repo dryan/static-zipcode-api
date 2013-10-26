@@ -1,1 +1,1 @@
-{"lat": 42.002748, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "West Hartland", "lng": -72.98906, "zip_code": "06091"}
+{"locality": "West Hartland", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["West Hartland"], "postal_code": "06091", "lat": 42.002748, "lng": -72.98906, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

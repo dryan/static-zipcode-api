@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.99312, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Midland Park", "lng": -74.14286, "zip_code": "07432"});
+zipapicallback({"locality": "Midland Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Midland Park"], "postal_code": "07432", "lat": 40.99312, "lng": -74.14286, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

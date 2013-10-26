@@ -1,1 +1,1 @@
-{"lat": 38.836102, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Copen", "lng": -80.72573, "zip_code": "26615"}
+{"locality": "Copen", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Copen"], "postal_code": "26615", "lat": 38.836102, "lng": -80.72573, "type": "STANDARD", "counties": [{"fips": "007", "name": "Braxton"}]}

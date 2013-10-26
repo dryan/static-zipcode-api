@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.050505, "region": {"abbr": "CA", "name": "California"}, "locality": "Pacific Palisade", "lng": -118.53374, "zip_code": "90272"});
+zipapicallback({"locality": "Pacific Palisades", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pacific Palisades", "Pacific Plsds"], "postal_code": "90272", "lat": 34.050505, "lng": -118.53374, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

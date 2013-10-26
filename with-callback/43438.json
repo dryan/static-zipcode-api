@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.601343, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kelleys Island", "lng": -82.69744, "zip_code": "43438"});
+zipapicallback({"locality": "Kelleys Island", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kelleys Is", "Kelleys Island"], "postal_code": "43438", "lat": 41.601343, "lng": -82.69744, "type": "POBOX", "counties": [{"fips": "043", "name": "Erie"}]});

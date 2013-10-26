@@ -1,1 +1,1 @@
-{"lat": 43.422568, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Breckenridge", "lng": -84.47433, "zip_code": "48615"}
+{"locality": "Breckenridge", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Breckenridge"], "postal_code": "48615", "lat": 43.422568, "lng": -84.47433, "type": "STANDARD", "counties": [{"fips": "057", "name": "Gratiot"}, {"fips": "111", "name": "Midland"}]}

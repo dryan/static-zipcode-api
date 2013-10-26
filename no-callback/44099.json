@@ -1,1 +1,1 @@
-{"lat": 41.539985, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Windsor", "lng": -80.96688, "zip_code": "44099"}
+{"locality": "Windsor", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Windsor"], "postal_code": "44099", "lat": 41.539985, "lng": -80.96688, "type": "STANDARD", "counties": [{"fips": "007", "name": "Ashtabula"}, {"fips": "055", "name": "Geauga"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.941157, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Erath", "lng": -92.03811, "zip_code": "70533"});
+zipapicallback({"locality": "Erath", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Erath"], "postal_code": "70533", "lat": 29.941157, "lng": -92.03811, "type": "STANDARD", "counties": [{"fips": "113", "name": "Vermilion"}]});

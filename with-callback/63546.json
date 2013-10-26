@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.335091, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Greentop", "lng": -92.52631, "zip_code": "63546"});
+zipapicallback({"locality": "Greentop", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Greentop"], "postal_code": "63546", "lat": 40.335091, "lng": -92.52631, "type": "STANDARD", "counties": [{"fips": "197", "name": "Schuyler"}, {"fips": "199", "name": "Scotland"}, {"fips": "001", "name": "Adair"}]});

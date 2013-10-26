@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.311156, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Knox", "lng": -99.70744, "zip_code": "58343"});
+zipapicallback({"locality": "Knox", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Knox"], "postal_code": "58343", "lat": 48.311156, "lng": -99.70744, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}, {"fips": "069", "name": "Pierce"}]});

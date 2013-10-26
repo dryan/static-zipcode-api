@@ -1,1 +1,1 @@
-{"lat": 36.592597, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Virgilina", "lng": -78.78207, "zip_code": "24598"}
+{"locality": "Virgilina", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Virgilina"], "postal_code": "24598", "lat": 36.592597, "lng": -78.78207, "type": "STANDARD", "counties": [{"fips": "077", "name": "Grayson"}, {"fips": "117", "name": "Mecklenburg"}, {"fips": "083", "name": "Halifax"}]}

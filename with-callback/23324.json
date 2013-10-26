@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.805717, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chesapeake", "lng": -76.27126, "zip_code": "23324"});
+zipapicallback({"locality": "Chesapeake", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chesapeake", "South Norfolk"], "postal_code": "23324", "lat": 36.805717, "lng": -76.27126, "type": "STANDARD", "counties": [{"fips": "550", "name": "Chesapeake (City)"}]});

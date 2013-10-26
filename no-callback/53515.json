@@ -1,1 +1,1 @@
-{"lat": 43.131939, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Black Earth", "lng": -89.7438, "zip_code": "53515"}
+{"locality": "Black Earth", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Black Earth"], "postal_code": "53515", "lat": 43.131939, "lng": -89.7438, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}, {"fips": "049", "name": "Iowa"}]}

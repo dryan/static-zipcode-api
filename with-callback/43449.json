@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.53446, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Oak Harbor", "lng": -83.13569, "zip_code": "43449"});
+zipapicallback({"locality": "Oak Harbor", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Oak Harbor"], "postal_code": "43449", "lat": 41.53446, "lng": -83.13569, "type": "STANDARD", "counties": [{"fips": "123", "name": "Ottawa"}]});

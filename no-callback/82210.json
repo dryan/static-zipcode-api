@@ -1,1 +1,1 @@
-{"lat": 41.742212, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Chugwater", "lng": -104.82923, "zip_code": "82210"}
+{"locality": "Chugwater", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Chugwater", "Diamond"], "postal_code": "82210", "lat": 41.742212, "lng": -104.82923, "type": "STANDARD", "counties": [{"fips": "031", "name": "Platte"}, {"fips": "021", "name": "Laramie"}, {"fips": "015", "name": "Goshen"}]}

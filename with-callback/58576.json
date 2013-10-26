@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.446392, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Underwood", "lng": -101.15667, "zip_code": "58576"});
+zipapicallback({"locality": "Underwood", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Underwood"], "postal_code": "58576", "lat": 47.446392, "lng": -101.15667, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}]});

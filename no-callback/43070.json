@@ -1,1 +1,1 @@
-{"lat": 40.217799, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rosewood", "lng": -83.96044, "zip_code": "43070"}
+{"locality": "Rosewood", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rosewood"], "postal_code": "43070", "lat": 40.217799, "lng": -83.96044, "type": "POBOX", "counties": [{"fips": "021", "name": "Champaign"}]}

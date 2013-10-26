@@ -1,1 +1,1 @@
-{"lat": 46.493247, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Winlock", "lng": -122.92262, "zip_code": "98596"}
+{"locality": "Winlock", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Winlock"], "postal_code": "98596", "lat": 46.493247, "lng": -122.92262, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]}

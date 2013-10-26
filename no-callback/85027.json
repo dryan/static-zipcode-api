@@ -1,1 +1,1 @@
-{"lat": 33.698731, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "New River Stage", "lng": -112.11429, "zip_code": "85027"}
+{"locality": "Phoenix", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Phoenix"], "postal_code": "85027", "lat": 33.698731, "lng": -112.11429, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

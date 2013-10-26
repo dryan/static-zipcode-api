@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.24431, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hammond", "lng": -92.41336, "zip_code": "55991"});
+zipapicallback({"locality": "Zumbro Falls", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hammond", "Zumbro Falls"], "postal_code": "55991", "lat": 44.24431, "lng": -92.41336, "type": "STANDARD", "counties": [{"fips": "157", "name": "Wabasha"}]});

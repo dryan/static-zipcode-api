@@ -1,1 +1,1 @@
-{"lat": 33.51344, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Langley", "lng": -81.85264, "zip_code": "29834"}
+{"locality": "Langley", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Langley"], "postal_code": "29834", "lat": 33.51344, "lng": -81.85264, "type": "POBOX", "counties": [{"fips": "003", "name": "Aiken"}]}

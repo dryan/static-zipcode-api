@@ -1,1 +1,1 @@
-{"lat": 40.841668, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Moonachie", "lng": -74.059, "zip_code": "07074"}
+{"locality": "Moonachie", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Moonachie"], "postal_code": "07074", "lat": 40.841668, "lng": -74.059, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

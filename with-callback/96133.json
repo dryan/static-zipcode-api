@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.651141, "region": {"abbr": "CA", "name": "California"}, "locality": "Topaz", "lng": -119.49874, "zip_code": "96133"});
+zipapicallback({"locality": "Topaz", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Topaz"], "postal_code": "96133", "lat": 38.651141, "lng": -119.49874, "type": "STANDARD", "counties": [{"fips": "051", "name": "Mono"}]});

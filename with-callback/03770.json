@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.525462, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Meriden", "lng": -72.28072, "zip_code": "03770"});
+zipapicallback({"locality": "Meriden", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Meriden"], "postal_code": "03770", "lat": 43.525462, "lng": -72.28072, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]});

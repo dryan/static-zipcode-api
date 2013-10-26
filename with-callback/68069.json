@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.255649, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Waterloo", "lng": -96.30195, "zip_code": "68069"});
+zipapicallback({"locality": "Waterloo", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Waterloo"], "postal_code": "68069", "lat": 41.255649, "lng": -96.30195, "type": "STANDARD", "counties": [{"fips": "055", "name": "Douglas"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.187494, "region": {"abbr": "CA", "name": "California"}, "locality": "Gustine", "lng": -121.03232, "zip_code": "95322"});
+zipapicallback({"locality": "Gustine", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Gustine", "Santa Nella"], "postal_code": "95322", "lat": 37.187494, "lng": -121.03232, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}, {"fips": "109", "name": "Tuolumne"}]});

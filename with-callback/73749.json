@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.702485, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Jet", "lng": -98.1728, "zip_code": "73749"});
+zipapicallback({"locality": "Jet", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Jet"], "postal_code": "73749", "lat": 36.702485, "lng": -98.1728, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}]});

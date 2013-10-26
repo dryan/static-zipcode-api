@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.179708, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lambert", "lng": -90.27846, "zip_code": "38643"});
+zipapicallback({"locality": "Lambert", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lambert"], "postal_code": "38643", "lat": 34.179708, "lng": -90.27846, "type": "STANDARD", "counties": [{"fips": "119", "name": "Quitman"}, {"fips": "027", "name": "Coahoma"}]});

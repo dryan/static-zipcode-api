@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.899189, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Cosmopolis", "lng": -123.6907, "zip_code": "98537"});
+zipapicallback({"locality": "Cosmopolis", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Cosmopolis"], "postal_code": "98537", "lat": 46.899189, "lng": -123.6907, "type": "STANDARD", "counties": [{"fips": "027", "name": "Grays Harbor"}]});

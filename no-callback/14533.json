@@ -1,1 +1,1 @@
-{"lat": 42.846509, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wadsworth", "lng": -77.88795, "zip_code": "14533"}
+{"locality": "Piffard", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Piffard", "Wadsworth"], "postal_code": "14533", "lat": 42.846509, "lng": -77.88795, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}, {"fips": "121", "name": "Wyoming"}]}

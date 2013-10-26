@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.170605, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Conover", "lng": -84.02446, "zip_code": "45317"});
+zipapicallback({"locality": "Conover", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Conover"], "postal_code": "45317", "lat": 40.170605, "lng": -84.02446, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}, {"fips": "149", "name": "Shelby"}, {"fips": "021", "name": "Champaign"}]});

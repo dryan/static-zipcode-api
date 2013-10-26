@@ -1,1 +1,1 @@
-{"lat": 33.503438, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bath", "lng": -81.87128, "zip_code": "29816"}
+{"locality": "Bath", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bath"], "postal_code": "29816", "lat": 33.503438, "lng": -81.87128, "type": "POBOX", "counties": [{"fips": "003", "name": "Aiken"}]}

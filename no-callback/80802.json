@@ -1,1 +1,1 @@
-{"lat": 38.834807, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Arapahoe", "lng": -102.1746, "zip_code": "80802"}
+{"locality": "Arapahoe", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Arapahoe"], "postal_code": "80802", "lat": 38.834807, "lng": -102.1746, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cheyenne"}]}

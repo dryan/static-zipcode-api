@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.611902, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Parma", "lng": -89.83489, "zip_code": "63870"});
+zipapicallback({"locality": "Parma", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Parma"], "postal_code": "63870", "lat": 36.611902, "lng": -89.83489, "type": "STANDARD", "counties": [{"fips": "143", "name": "New Madrid"}, {"fips": "207", "name": "Stoddard"}]});

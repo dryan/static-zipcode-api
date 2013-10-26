@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.319093, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Monticello", "lng": -83.70862, "zip_code": "31064"});
+zipapicallback({"locality": "Monticello", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Monticello"], "postal_code": "31064", "lat": 33.319093, "lng": -83.70862, "type": "STANDARD", "counties": [{"fips": "159", "name": "Jasper"}, {"fips": "237", "name": "Putnam"}]});

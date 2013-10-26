@@ -1,1 +1,1 @@
-{"lat": 36.484548, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Sulphur Springs", "lng": -94.46911, "zip_code": "72768"}
+{"locality": "Sulphur Springs", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Sulphur Spgs", "Sulphur Springs"], "postal_code": "72768", "lat": 36.484548, "lng": -94.46911, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

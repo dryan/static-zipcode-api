@@ -1,1 +1,1 @@
-{"lat": 36.090281, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dalhart", "lng": -102.60769, "zip_code": "79022"}
+{"locality": "Dalhart", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dalhart"], "postal_code": "79022", "lat": 36.090281, "lng": -102.60769, "type": "STANDARD", "counties": [{"fips": "111", "name": "Dallam"}, {"fips": "205", "name": "Hartley"}]}

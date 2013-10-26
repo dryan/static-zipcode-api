@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.909001, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Glen Allen", "lng": -87.73186, "zip_code": "35559"});
+zipapicallback({"locality": "Glen Allen", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Glen Allen"], "postal_code": "35559", "lat": 33.909001, "lng": -87.73186, "type": "POBOX", "counties": [{"fips": "057", "name": "Fayette"}]});

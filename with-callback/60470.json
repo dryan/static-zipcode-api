@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.169068, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ransom", "lng": -88.6494, "zip_code": "60470"});
+zipapicallback({"locality": "Ransom", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ransom"], "postal_code": "60470", "lat": 41.169068, "lng": -88.6494, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}]});

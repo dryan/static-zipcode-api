@@ -1,1 +1,1 @@
-{"lat": 33.102083, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bradley", "lng": -93.67372, "zip_code": "71826"}
+{"locality": "Bradley", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bradley"], "postal_code": "71826", "lat": 33.102083, "lng": -93.67372, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lafayette"}]}

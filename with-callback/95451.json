@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.939725, "region": {"abbr": "CA", "name": "California"}, "locality": "Kelseyville", "lng": -122.78548, "zip_code": "95451"});
+zipapicallback({"locality": "Kelseyville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kelseyville"], "postal_code": "95451", "lat": 38.939725, "lng": -122.78548, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

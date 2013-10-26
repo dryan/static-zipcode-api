@@ -1,1 +1,1 @@
-{"lat": 47.764569, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Angora", "lng": -92.76689, "zip_code": "55703"}
+{"locality": "Angora", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Angora"], "postal_code": "55703", "lat": 47.764569, "lng": -92.76689, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

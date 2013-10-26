@@ -1,1 +1,1 @@
-{"lat": 33.426423, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tolleson", "lng": -112.28299, "zip_code": "85353"}
+{"locality": "Tolleson", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tolleson"], "postal_code": "85353", "lat": 33.426423, "lng": -112.28299, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.169399, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Duchesne", "lng": -110.46066, "zip_code": "84021"}
+{"locality": "Duchesne", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bridgeland", "Duchesne"], "postal_code": "84021", "lat": 40.169399, "lng": -110.46066, "type": "STANDARD", "counties": [{"fips": "013", "name": "Duchesne"}]}

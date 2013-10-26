@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.695445, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hayti", "lng": -97.21584, "zip_code": "57241"});
+zipapicallback({"locality": "Hayti", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hayti"], "postal_code": "57241", "lat": 44.695445, "lng": -97.21584, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamlin"}, {"fips": "029", "name": "Codington"}]});

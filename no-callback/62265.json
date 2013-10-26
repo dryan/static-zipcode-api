@@ -1,1 +1,1 @@
-{"lat": 38.520285, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Baden", "lng": -89.6807, "zip_code": "62265"}
+{"locality": "New Baden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Baden"], "postal_code": "62265", "lat": 38.520285, "lng": -89.6807, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}, {"fips": "163", "name": "St Clair"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.674463, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Livingston", "lng": -110.53834, "zip_code": "59047"});
+zipapicallback({"locality": "Livingston", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Livingston"], "postal_code": "59047", "lat": 45.674463, "lng": -110.53834, "type": "STANDARD", "counties": [{"fips": "067", "name": "Park"}]});

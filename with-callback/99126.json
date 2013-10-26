@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.733324, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Evans", "lng": -117.97348, "zip_code": "99126"});
+zipapicallback({"locality": "Evans", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Evans", "Kettle Falls"], "postal_code": "99126", "lat": 48.733324, "lng": -117.97348, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.075617, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Newell", "lng": -79.89611, "zip_code": "15466"});
+zipapicallback({"locality": "Newell", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Newell"], "postal_code": "15466", "lat": 40.075617, "lng": -79.89611, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]});

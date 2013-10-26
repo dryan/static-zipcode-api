@@ -1,1 +1,1 @@
-{"lat": 42.941786, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Patch Grove", "lng": -90.97564, "zip_code": "53817"}
+{"locality": "Patch Grove", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Patch Grove"], "postal_code": "53817", "lat": 42.941786, "lng": -90.97564, "type": "POBOX", "counties": [{"fips": "043", "name": "Grant"}]}

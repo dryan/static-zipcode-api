@@ -1,1 +1,1 @@
-{"lat": 41.672698, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Osceola", "lng": -86.07877, "zip_code": "46561"}
+{"locality": "Osceola", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Osceola"], "postal_code": "46561", "lat": 41.672698, "lng": -86.07877, "type": "STANDARD", "counties": [{"fips": "141", "name": "Saint Joseph"}, {"fips": "039", "name": "Elkhart"}]}

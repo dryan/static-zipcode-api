@@ -1,1 +1,1 @@
-{"lat": 33.239097, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sun Lakes", "lng": -111.86355, "zip_code": "85248"}
+{"locality": "Chandler", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chandler", "Sun Lakes"], "postal_code": "85248", "lat": 33.239097, "lng": -111.86355, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}, {"fips": "021", "name": "Pinal"}]}

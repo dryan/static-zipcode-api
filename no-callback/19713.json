@@ -1,1 +1,1 @@
-{"lat": 39.669211, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Newark", "lng": -75.71796, "zip_code": "19713"}
+{"locality": "Newark", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Newark"], "postal_code": "19713", "lat": 39.669211, "lng": -75.71796, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]}

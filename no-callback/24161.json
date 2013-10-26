@@ -1,1 +1,1 @@
-{"lat": 36.985629, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sandy Level", "lng": -79.53939, "zip_code": "24161"}
+{"locality": "Sandy Level", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sandy Level"], "postal_code": "24161", "lat": 36.985629, "lng": -79.53939, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]}

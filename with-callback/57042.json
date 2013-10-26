@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.995586, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Madison", "lng": -97.134, "zip_code": "57042"});
+zipapicallback({"locality": "Madison", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Madison"], "postal_code": "57042", "lat": 43.995586, "lng": -97.134, "type": "STANDARD", "counties": [{"fips": "079", "name": "Lake"}, {"fips": "099", "name": "Minnehaha"}, {"fips": "087", "name": "McCook"}]});

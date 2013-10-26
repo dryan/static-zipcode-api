@@ -1,1 +1,1 @@
-{"lat": 41.048148, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fort Wayne", "lng": -85.11114, "zip_code": "46806"}
+{"locality": "Fort Wayne", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fort Wayne"], "postal_code": "46806", "lat": 41.048148, "lng": -85.11114, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]}

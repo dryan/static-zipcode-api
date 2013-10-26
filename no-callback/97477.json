@@ -1,1 +1,1 @@
-{"lat": 44.061057, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Springfield", "lng": -123.01769, "zip_code": "97477"}
+{"locality": "Springfield", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Springfield"], "postal_code": "97477", "lat": 44.061057, "lng": -123.01769, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

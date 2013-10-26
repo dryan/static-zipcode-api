@@ -1,1 +1,1 @@
-{"lat": 34.511223, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Bosque", "lng": -106.80927, "zip_code": "87006"}
+{"locality": "Bosque", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bosque"], "postal_code": "87006", "lat": 34.511223, "lng": -106.80927, "type": "STANDARD", "counties": [{"fips": "053", "name": "Socorro"}]}

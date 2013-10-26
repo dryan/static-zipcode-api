@@ -1,1 +1,1 @@
-{"lat": 46.868617, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Bovill", "lng": -116.39726, "zip_code": "83806"}
+{"locality": "Bovill", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Bovill"], "postal_code": "83806", "lat": 46.868617, "lng": -116.39726, "type": "POBOX", "counties": [{"fips": "057", "name": "Latah"}]}

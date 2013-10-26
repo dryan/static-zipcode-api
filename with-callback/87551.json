@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.700526, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Los Ojos", "lng": -106.63695, "zip_code": "87551"});
+zipapicallback({"locality": "Los Ojos", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Los Ojos", "Rutheron"], "postal_code": "87551", "lat": 36.700526, "lng": -106.63695, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]});

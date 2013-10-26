@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.062849, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Star Junction", "lng": -79.76338, "zip_code": "15482"});
+zipapicallback({"locality": "Star Junction", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Star Junction"], "postal_code": "15482", "lat": 40.062849, "lng": -79.76338, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]});

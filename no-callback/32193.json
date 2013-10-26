@@ -1,1 +1,1 @@
-{"lat": 29.476035, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Welaka", "lng": -81.66331, "zip_code": "32193"}
+{"locality": "Welaka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Welaka"], "postal_code": "32193", "lat": 29.476035, "lng": -81.66331, "type": "STANDARD", "counties": []}

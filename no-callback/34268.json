@@ -1,1 +1,1 @@
-{"lat": 27.158612, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Nocatee", "lng": -81.88324, "zip_code": "34268"}
+{"locality": "Nocatee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Nocatee"], "postal_code": "34268", "lat": 27.158612, "lng": -81.88324, "type": "POBOX", "counties": []}

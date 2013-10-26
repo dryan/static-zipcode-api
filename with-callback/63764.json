@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.309447, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Scopus", "lng": -89.98127, "zip_code": "63764"});
+zipapicallback({"locality": "Marble Hill", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lutesville", "Marble Hill", "Scopus"], "postal_code": "63764", "lat": 37.309447, "lng": -89.98127, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bollinger"}, {"fips": "031", "name": "Cape Girardeau"}]});

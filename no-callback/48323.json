@@ -1,1 +1,1 @@
-{"lat": 42.572442, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Orchard Lake", "lng": -83.37159, "zip_code": "48323"}
+{"locality": "West Bloomfield", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Orchard Lake", "W Bloomfield", "West Bloomfield"], "postal_code": "48323", "lat": 42.572442, "lng": -83.37159, "type": "STANDARD", "counties": []}

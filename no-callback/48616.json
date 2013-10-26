@@ -1,1 +1,1 @@
-{"lat": 43.190239, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Chesaning", "lng": -84.11987, "zip_code": "48616"}
+{"locality": "Chesaning", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Chesaning"], "postal_code": "48616", "lat": 43.190239, "lng": -84.11987, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "155", "name": "Shiawassee"}]}

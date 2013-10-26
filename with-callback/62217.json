@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.178395, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Baldwin", "lng": -89.84183, "zip_code": "62217"});
+zipapicallback({"locality": "Baldwin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Baldwin"], "postal_code": "62217", "lat": 38.178395, "lng": -89.84183, "type": "STANDARD", "counties": [{"fips": "157", "name": "Randolph"}]});

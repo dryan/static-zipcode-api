@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.620874, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lumberton", "lng": -78.98986, "zip_code": "28358"});
+zipapicallback({"locality": "Lumberton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lumberton"], "postal_code": "28358", "lat": 34.620874, "lng": -78.98986, "type": "STANDARD", "counties": [{"fips": "155", "name": "Robeson"}]});

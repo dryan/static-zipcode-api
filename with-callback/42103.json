@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.969761, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bowling Green", "lng": -86.38247, "zip_code": "42103"});
+zipapicallback({"locality": "Bowling Green", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bowling Green"], "postal_code": "42103", "lat": 36.969761, "lng": -86.38247, "type": "STANDARD", "counties": []});

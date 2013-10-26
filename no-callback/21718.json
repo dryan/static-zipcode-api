@@ -1,1 +1,1 @@
-{"lat": 39.391459, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Burkittsville", "lng": -77.62709, "zip_code": "21718"}
+{"locality": "Burkittsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Burkittsville"], "postal_code": "21718", "lat": 39.391459, "lng": -77.62709, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]}

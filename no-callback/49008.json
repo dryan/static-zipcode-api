@@ -1,1 +1,1 @@
-{"lat": 42.26549, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kalamazoo", "lng": -85.61098, "zip_code": "49008"}
+{"locality": "Kalamazoo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kalamazoo"], "postal_code": "49008", "lat": 42.26549, "lng": -85.61098, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}]}

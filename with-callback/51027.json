@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.971195, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ireton", "lng": -96.32512, "zip_code": "51027"});
+zipapicallback({"locality": "Ireton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ireton"], "postal_code": "51027", "lat": 42.971195, "lng": -96.32512, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sioux"}]});

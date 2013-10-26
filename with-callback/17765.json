@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.592461, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Roaring Branch", "lng": -76.95078, "zip_code": "17765"});
+zipapicallback({"locality": "Roaring Branch", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Roaring Branch", "Roaring Brnch"], "postal_code": "17765", "lat": 41.592461, "lng": -76.95078, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "015", "name": "Bradford"}, {"fips": "081", "name": "Lycoming"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.584516, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hinton", "lng": -79.04328, "zip_code": "22831"}
+{"locality": "Hinton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hinton"], "postal_code": "22831", "lat": 38.584516, "lng": -79.04328, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}]}

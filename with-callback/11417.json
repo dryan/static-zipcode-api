@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.675534, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ozone Park", "lng": -73.84476, "zip_code": "11417"});
+zipapicallback({"locality": "Ozone Park", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jamaica", "Ozone Park"], "postal_code": "11417", "lat": 40.675534, "lng": -73.84476, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.659936, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Rockport", "lng": -70.61727, "zip_code": "01966"}
+{"locality": "Rockport", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Rockport"], "postal_code": "01966", "lat": 42.659936, "lng": -70.61727, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

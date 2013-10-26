@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.395491, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bryson City", "lng": -83.47397, "zip_code": "28713"});
+zipapicallback({"locality": "Bryson City", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bryson City"], "postal_code": "28713", "lat": 35.395491, "lng": -83.47397, "type": "STANDARD", "counties": [{"fips": "173", "name": "Swain"}]});

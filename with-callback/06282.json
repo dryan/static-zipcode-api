@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.943199, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Woodstock Valley", "lng": -72.0728, "zip_code": "06282"});
+zipapicallback({"locality": "Woodstock Valley", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Woodstock Valley", "Woodstock Vly"], "postal_code": "06282", "lat": 41.943199, "lng": -72.0728, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]});

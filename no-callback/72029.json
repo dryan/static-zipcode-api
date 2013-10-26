@@ -1,1 +1,1 @@
-{"lat": 34.697068, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Clarendon", "lng": -91.29347, "zip_code": "72029"}
+{"locality": "Clarendon", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Clarendon"], "postal_code": "72029", "lat": 34.697068, "lng": -91.29347, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]}

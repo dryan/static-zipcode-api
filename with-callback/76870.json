@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.651485, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Priddy", "lng": -98.50831, "zip_code": "76870"});
+zipapicallback({"locality": "Priddy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Priddy"], "postal_code": "76870", "lat": 31.651485, "lng": -98.50831, "type": "STANDARD", "counties": [{"fips": "333", "name": "Mills"}]});

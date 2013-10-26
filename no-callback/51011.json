@@ -1,1 +1,1 @@
-{"lat": 42.916772, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Chatsworth", "lng": -96.51603, "zip_code": "51011"}
+{"locality": "Chatsworth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Chatsworth"], "postal_code": "51011", "lat": 42.916772, "lng": -96.51603, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sioux"}]}

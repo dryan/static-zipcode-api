@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.790935, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mankato", "lng": -98.20722, "zip_code": "66956"});
+zipapicallback({"locality": "Mankato", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mankato"], "postal_code": "66956", "lat": 39.790935, "lng": -98.20722, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jewell"}]});

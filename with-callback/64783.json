@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.005777, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Schell City", "lng": -94.10004, "zip_code": "64783"});
+zipapicallback({"locality": "Schell City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Schell City"], "postal_code": "64783", "lat": 38.005777, "lng": -94.10004, "type": "STANDARD", "counties": [{"fips": "217", "name": "Vernon"}, {"fips": "185", "name": "St. Clair"}]});

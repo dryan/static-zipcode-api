@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.993398, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Washington Boro", "lng": -76.45568, "zip_code": "17582"});
+zipapicallback({"locality": "Washington Boro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wash Boro", "Washington Boro"], "postal_code": "17582", "lat": 39.993398, "lng": -76.45568, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

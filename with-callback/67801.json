@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.755267, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Dodge City", "lng": -100.02632, "zip_code": "67801"});
+zipapicallback({"locality": "Dodge City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Dodge City", "Fort Dodge"], "postal_code": "67801", "lat": 37.755267, "lng": -100.02632, "type": "STANDARD", "counties": [{"fips": "057", "name": "Ford"}, {"fips": "055", "name": "Finney"}, {"fips": "083", "name": "Hodgeman"}]});

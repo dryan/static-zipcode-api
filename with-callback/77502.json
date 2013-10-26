@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.680079, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pasadena", "lng": -95.19966, "zip_code": "77502"});
+zipapicallback({"locality": "Pasadena", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pasadena"], "postal_code": "77502", "lat": 29.680079, "lng": -95.19966, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.385642, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Gladstone", "lng": -122.59272, "zip_code": "97027"});
+zipapicallback({"locality": "Gladstone", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Gladstone"], "postal_code": "97027", "lat": 45.385642, "lng": -122.59272, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]});

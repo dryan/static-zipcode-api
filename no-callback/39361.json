@@ -1,1 +1,1 @@
-{"lat": 32.985613, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Shuqualak", "lng": -88.57464, "zip_code": "39361"}
+{"locality": "Shuqualak", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Shuqualak"], "postal_code": "39361", "lat": 32.985613, "lng": -88.57464, "type": "STANDARD", "counties": [{"fips": "103", "name": "Noxubee"}, {"fips": "069", "name": "Kemper"}]}

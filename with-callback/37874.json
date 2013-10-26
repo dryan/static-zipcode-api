@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.598659, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sweetwater", "lng": -84.46613, "zip_code": "37874"});
+zipapicallback({"locality": "Sweetwater", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sweetwater"], "postal_code": "37874", "lat": 35.598659, "lng": -84.46613, "type": "STANDARD", "counties": [{"fips": "123", "name": "Monroe"}]});

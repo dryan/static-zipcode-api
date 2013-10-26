@@ -1,1 +1,1 @@
-{"lat": 40.784412, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Metamora", "lng": -89.40841, "zip_code": "61548"}
+{"locality": "Metamora", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Germantown Hills", "Germantwn Hls", "Metamora"], "postal_code": "61548", "lat": 40.784412, "lng": -89.40841, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.479835, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Greenville Junct", "lng": -69.62773, "zip_code": "04442"});
+zipapicallback({"locality": "Greenville Junction", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Greenville Junction", "Greenvlle Jct"], "postal_code": "04442", "lat": 45.479835, "lng": -69.62773, "type": "STANDARD", "counties": [{"fips": "021", "name": "Piscataquis"}, {"fips": "025", "name": "Somerset"}]});

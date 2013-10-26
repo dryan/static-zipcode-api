@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.492154, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Society Hill", "lng": -79.87045, "zip_code": "29593"});
+zipapicallback({"locality": "Society Hill", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Society Hill"], "postal_code": "29593", "lat": 34.492154, "lng": -79.87045, "type": "STANDARD", "counties": [{"fips": "031", "name": "Darlington"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.663935, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rockville Centre", "lng": -73.63792, "zip_code": "11570"});
+zipapicallback({"locality": "Rockville Centre", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rockville Centre", "Rockville Ctr"], "postal_code": "11570", "lat": 40.663935, "lng": -73.63792, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

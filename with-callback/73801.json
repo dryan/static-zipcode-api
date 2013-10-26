@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.433665, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Woodward", "lng": -99.40838, "zip_code": "73801"});
+zipapicallback({"locality": "Woodward", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Woodward"], "postal_code": "73801", "lat": 36.433665, "lng": -99.40838, "type": "STANDARD", "counties": [{"fips": "153", "name": "Woodward"}, {"fips": "059", "name": "Harper"}]});

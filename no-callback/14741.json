@@ -1,1 +1,1 @@
-{"lat": 42.220602, "region": {"abbr": "NY", "name": "New York"}, "locality": "Great Valley", "lng": -78.6337, "zip_code": "14741"}
+{"locality": "Great Valley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Great Valley"], "postal_code": "14741", "lat": 42.220602, "lng": -78.6337, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

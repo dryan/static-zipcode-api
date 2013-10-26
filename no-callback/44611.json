@@ -1,1 +1,1 @@
-{"lat": 40.635332, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Big Prairie", "lng": -82.08743, "zip_code": "44611"}
+{"locality": "Big Prairie", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Big Prairie"], "postal_code": "44611", "lat": 40.635332, "lng": -82.08743, "type": "STANDARD", "counties": [{"fips": "075", "name": "Holmes"}, {"fips": "169", "name": "Wayne"}]}

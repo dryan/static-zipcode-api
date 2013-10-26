@@ -1,1 +1,1 @@
-{"lat": 37.762848, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lively", "lng": -76.49749, "zip_code": "22507"}
+{"locality": "Lively", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lively"], "postal_code": "22507", "lat": 37.762848, "lng": -76.49749, "type": "POBOX", "counties": [{"fips": "103", "name": "Lancaster"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.661299, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Grand Saline", "lng": -95.71738, "zip_code": "75140"});
+zipapicallback({"locality": "Grand Saline", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Grand Saline"], "postal_code": "75140", "lat": 32.661299, "lng": -95.71738, "type": "STANDARD", "counties": [{"fips": "467", "name": "Van Zandt"}, {"fips": "113", "name": "Dallas"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.053483, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pleasant Hill", "lng": -84.35202, "zip_code": "45359"}
+{"locality": "Pleasant Hill", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pleasant Hill"], "postal_code": "45359", "lat": 40.053483, "lng": -84.35202, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}]}

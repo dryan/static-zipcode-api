@@ -1,1 +1,1 @@
-{"lat": 35.048312, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Marietta", "lng": -82.52726, "zip_code": "29661"}
+{"locality": "Marietta", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Marietta"], "postal_code": "29661", "lat": 35.048312, "lng": -82.52726, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}, {"fips": "007", "name": "Anderson"}, {"fips": "077", "name": "Pickens"}]}

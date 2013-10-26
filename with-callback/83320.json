@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.356224, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Carey", "lng": -113.89078, "zip_code": "83320"});
+zipapicallback({"locality": "Carey", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Carey"], "postal_code": "83320", "lat": 43.356224, "lng": -113.89078, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blaine"}]});

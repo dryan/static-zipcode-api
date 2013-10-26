@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.864624, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brasher Falls", "lng": -74.75386, "zip_code": "13613"});
+zipapicallback({"locality": "Brasher Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brasher Falls"], "postal_code": "13613", "lat": 44.864624, "lng": -74.75386, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]});

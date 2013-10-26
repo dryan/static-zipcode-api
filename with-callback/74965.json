@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.998632, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Westville", "lng": -94.59266, "zip_code": "74965"});
+zipapicallback({"locality": "Westville", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Westville"], "postal_code": "74965", "lat": 35.998632, "lng": -94.59266, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}]});

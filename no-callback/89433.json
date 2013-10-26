@@ -1,1 +1,1 @@
-{"lat": 39.59218, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Sun Valley", "lng": -119.77467, "zip_code": "89433"}
+{"locality": "Sun Valley", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Sun Valley"], "postal_code": "89433", "lat": 39.59218, "lng": -119.77467, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.828926, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wilkinson", "lng": -81.99936, "zip_code": "25653"}
+{"locality": "Wilkinson", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Wilkinson"], "postal_code": "25653", "lat": 37.828926, "lng": -81.99936, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]}

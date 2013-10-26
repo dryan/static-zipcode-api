@@ -1,1 +1,1 @@
-{"lat": 42.640962, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sherrill", "lng": -90.82532, "zip_code": "52073"}
+{"locality": "Sherrill", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sherrill"], "postal_code": "52073", "lat": 42.640962, "lng": -90.82532, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]}

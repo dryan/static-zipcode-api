@@ -1,1 +1,1 @@
-{"lat": 33.849286, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Watkinsville", "lng": -83.41232, "zip_code": "30677"}
+{"locality": "Watkinsville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Watkinsville"], "postal_code": "30677", "lat": 33.849286, "lng": -83.41232, "type": "STANDARD", "counties": [{"fips": "219", "name": "Oconee"}, {"fips": "133", "name": "Greene"}]}

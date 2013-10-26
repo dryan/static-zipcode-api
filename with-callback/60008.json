@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.07506, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rolling Meadows", "lng": -88.02508, "zip_code": "60008"});
+zipapicallback({"locality": "Rolling Meadows", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rolling Mdws", "Rolling Meadows"], "postal_code": "60008", "lat": 42.07506, "lng": -88.02508, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

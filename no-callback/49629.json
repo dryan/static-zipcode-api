@@ -1,1 +1,1 @@
-{"lat": 44.900873, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Elk Rapids", "lng": -85.40671, "zip_code": "49629"}
+{"locality": "Elk Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Elk Rapids"], "postal_code": "49629", "lat": 44.900873, "lng": -85.40671, "type": "STANDARD", "counties": [{"fips": "009", "name": "Antrim"}]}

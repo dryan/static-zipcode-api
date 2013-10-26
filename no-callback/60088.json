@@ -1,1 +1,1 @@
-{"lat": 42.312372, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Great Lakes", "lng": -87.85284, "zip_code": "60088"}
+{"locality": "Great Lakes", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Great Lakes", "North Chicago"], "postal_code": "60088", "lat": 42.312372, "lng": -87.85284, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

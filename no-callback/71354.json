@@ -1,1 +1,1 @@
-{"lat": 31.381317, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Monterey", "lng": -91.76914, "zip_code": "71354"}
+{"locality": "Monterey", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Monterey"], "postal_code": "71354", "lat": 31.381317, "lng": -91.76914, "type": "STANDARD", "counties": [{"fips": "029", "name": "Concordia"}]}

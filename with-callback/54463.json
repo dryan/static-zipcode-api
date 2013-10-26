@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.516138, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pelican Lake", "lng": -89.17824, "zip_code": "54463"});
+zipapicallback({"locality": "Pelican Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pelican Lake"], "postal_code": "54463", "lat": 45.516138, "lng": -89.17824, "type": "STANDARD", "counties": [{"fips": "085", "name": "Oneida"}, {"fips": "067", "name": "Langlade"}]});

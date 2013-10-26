@@ -1,1 +1,1 @@
-{"lat": 57.508178, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Pilot", "lng": -157.39907, "zip_code": "99649"}
+{"locality": "Pilot Point", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Pilot Point"], "postal_code": "99649", "lat": 57.508178, "lng": -157.39907, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]}

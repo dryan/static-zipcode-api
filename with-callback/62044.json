@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.362285, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Greenfield", "lng": -90.22147, "zip_code": "62044"});
+zipapicallback({"locality": "Greenfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Greenfield"], "postal_code": "62044", "lat": 39.362285, "lng": -90.22147, "type": "STANDARD", "counties": [{"fips": "061", "name": "Greene"}]});

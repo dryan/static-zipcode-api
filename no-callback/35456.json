@@ -1,1 +1,1 @@
-{"lat": 33.068806, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Duncanville", "lng": -87.43974, "zip_code": "35456"}
+{"locality": "Duncanville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Duncanville"], "postal_code": "35456", "lat": 33.068806, "lng": -87.43974, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.929263, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mingoville", "lng": -77.64581, "zip_code": "16856"});
+zipapicallback({"locality": "Mingoville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mingoville"], "postal_code": "16856", "lat": 40.929263, "lng": -77.64581, "type": "POBOX", "counties": [{"fips": "027", "name": "Centre"}]});

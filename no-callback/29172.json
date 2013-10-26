@@ -1,1 +1,1 @@
-{"lat": 33.902216, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "West Columbia", "lng": -81.08256, "zip_code": "29172"}
+{"locality": "West Columbia", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cayce", "West Columbia"], "postal_code": "29172", "lat": 33.902216, "lng": -81.08256, "type": "STANDARD", "counties": []}

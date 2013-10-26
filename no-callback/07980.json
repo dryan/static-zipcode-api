@@ -1,1 +1,1 @@
-{"lat": 40.672968, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Stirling", "lng": -74.49171, "zip_code": "07980"}
+{"locality": "Stirling", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Stirling"], "postal_code": "07980", "lat": 40.672968, "lng": -74.49171, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

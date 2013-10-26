@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.087556, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gordon", "lng": -85.13116, "zip_code": "36343"});
+zipapicallback({"locality": "Gordon", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gordon"], "postal_code": "36343", "lat": 31.087556, "lng": -85.13116, "type": "STANDARD", "counties": [{"fips": "069", "name": "Houston"}]});

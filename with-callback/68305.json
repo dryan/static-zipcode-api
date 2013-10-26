@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.376356, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Auburn", "lng": -95.84422, "zip_code": "68305"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Auburn"], "postal_code": "68305", "lat": 40.376356, "lng": -95.84422, "type": "STANDARD", "counties": [{"fips": "127", "name": "Nemaha"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.69244, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ingomar", "lng": -107.6368, "zip_code": "59039"}
+{"locality": "Ingomar", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ingomar"], "postal_code": "59039", "lat": 46.69244, "lng": -107.6368, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rosebud"}]}

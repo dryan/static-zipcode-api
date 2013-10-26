@@ -1,1 +1,1 @@
-{"lat": 39.850013, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Runnemede", "lng": -75.0767, "zip_code": "08078"}
+{"locality": "Runnemede", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Runnemede"], "postal_code": "08078", "lat": 39.850013, "lng": -75.0767, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}, {"fips": "033", "name": "Salem"}]}

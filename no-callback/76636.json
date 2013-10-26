@@ -1,1 +1,1 @@
-{"lat": 32.177765, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Covington", "lng": -97.27284, "zip_code": "76636"}
+{"locality": "Covington", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Covington"], "postal_code": "76636", "lat": 32.177765, "lng": -97.27284, "type": "STANDARD", "counties": [{"fips": "217", "name": "Hill"}]}

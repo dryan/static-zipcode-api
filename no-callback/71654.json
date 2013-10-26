@@ -1,1 +1,1 @@
-{"lat": 33.628723, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mc Gehee", "lng": -91.38236, "zip_code": "71654"}
+{"locality": "Mc Gehee", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mc Gehee", "Mcgehee"], "postal_code": "71654", "lat": 33.628723, "lng": -91.38236, "type": "STANDARD", "counties": [{"fips": "041", "name": "Desha"}]}

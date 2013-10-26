@@ -1,1 +1,1 @@
-{"lat": 47.869756, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Douglas", "lng": -101.49673, "zip_code": "58735"}
+{"locality": "Douglas", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Douglas"], "postal_code": "58735", "lat": 47.869756, "lng": -101.49673, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}, {"fips": "055", "name": "McLean"}]}

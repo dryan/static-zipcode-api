@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.513511, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bristol", "lng": -82.18481, "zip_code": "31518"});
+zipapicallback({"locality": "Bristol", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bristol"], "postal_code": "31518", "lat": 31.513511, "lng": -82.18481, "type": "STANDARD", "counties": [{"fips": "229", "name": "Pierce"}, {"fips": "005", "name": "Bacon"}, {"fips": "305", "name": "Wayne"}, {"fips": "001", "name": "Appling"}]});

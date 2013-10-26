@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.093956, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hague", "lng": -76.64055, "zip_code": "22469"});
+zipapicallback({"locality": "Hague", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hague"], "postal_code": "22469", "lat": 38.093956, "lng": -76.64055, "type": "STANDARD", "counties": [{"fips": "193", "name": "Westmoreland"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.220289, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Miller", "lng": -93.84181, "zip_code": "65707"}
+{"locality": "Miller", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Miller"], "postal_code": "65707", "lat": 37.220289, "lng": -93.84181, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lawrence"}]}

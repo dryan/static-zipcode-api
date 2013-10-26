@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.143686, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Saint Charles", "lng": -87.59662, "zip_code": "42453"});
+zipapicallback({"locality": "Saint Charles", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Saint Charles"], "postal_code": "42453", "lat": 37.143686, "lng": -87.59662, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}]});

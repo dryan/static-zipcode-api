@@ -1,1 +1,1 @@
-{"lat": 30.226463, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Baldwin", "lng": -81.98364, "zip_code": "32234"}
+{"locality": "Jacksonville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Baldwin", "Jacksonville", "Maxville"], "postal_code": "32234", "lat": 30.226463, "lng": -81.98364, "type": "STANDARD", "counties": [{"fips": "031", "name": "Duval"}, {"fips": "019", "name": "Clay"}, {"fips": "003", "name": "Baker"}]}

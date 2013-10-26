@@ -1,1 +1,1 @@
-{"lat": 47.382872, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Deer River", "lng": -93.84832, "zip_code": "56636"}
+{"locality": "Deer River", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Deer River"], "postal_code": "56636", "lat": 47.382872, "lng": -93.84832, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}, {"fips": "021", "name": "Cass"}]}

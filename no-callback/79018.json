@@ -1,1 +1,1 @@
-{"lat": 35.718644, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Channing", "lng": -102.25186, "zip_code": "79018"}
+{"locality": "Channing", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Channing"], "postal_code": "79018", "lat": 35.718644, "lng": -102.25186, "type": "STANDARD", "counties": [{"fips": "205", "name": "Hartley"}, {"fips": "341", "name": "Moore"}]}

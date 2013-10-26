@@ -1,1 +1,1 @@
-{"lat": 36.574224, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Big Rock", "lng": -87.79018, "zip_code": "37023"}
+{"locality": "Big Rock", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Big Rock"], "postal_code": "37023", "lat": 36.574224, "lng": -87.79018, "type": "STANDARD", "counties": [{"fips": "161", "name": "Stewart"}]}

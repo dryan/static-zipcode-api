@@ -1,1 +1,1 @@
-{"lat": 39.317735, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Maineville", "lng": -84.24728, "zip_code": "45039"}
+{"locality": "Maineville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hamilton Township", "Hamilton Twp", "Maineville"], "postal_code": "45039", "lat": 39.317735, "lng": -84.24728, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}, {"fips": "061", "name": "Hamilton"}]}

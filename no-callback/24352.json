@@ -1,1 +1,1 @@
-{"lat": 36.708515, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Laurel Fork", "lng": -80.52791, "zip_code": "24352"}
+{"locality": "Laurel Fork", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Laurel Fork"], "postal_code": "24352", "lat": 36.708515, "lng": -80.52791, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carroll"}, {"fips": "063", "name": "Floyd"}]}

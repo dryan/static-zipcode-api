@@ -1,1 +1,1 @@
-{"lat": 33.532767, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Neeses", "lng": -81.12298, "zip_code": "29107"}
+{"locality": "Neeses", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Livingston", "Neeses"], "postal_code": "29107", "lat": 33.532767, "lng": -81.12298, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]}

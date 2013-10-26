@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.730575, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Sterling", "lng": -71.81845, "zip_code": "06377"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Sterling"], "postal_code": "06377", "lat": 41.730575, "lng": -71.81845, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]});

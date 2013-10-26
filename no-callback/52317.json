@@ -1,1 +1,1 @@
-{"lat": 41.755771, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "North Liberty", "lng": -91.61238, "zip_code": "52317"}
+{"locality": "North Liberty", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["North Liberty"], "postal_code": "52317", "lat": 41.755771, "lng": -91.61238, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]}

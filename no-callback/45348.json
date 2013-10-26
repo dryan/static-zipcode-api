@@ -1,1 +1,1 @@
-{"lat": 40.332705, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Weston", "lng": -84.65016, "zip_code": "45348"}
+{"locality": "New Weston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Weston", "Rossburg"], "postal_code": "45348", "lat": 40.332705, "lng": -84.65016, "type": "STANDARD", "counties": [{"fips": "037", "name": "Darke"}, {"fips": "107", "name": "Mercer"}]}

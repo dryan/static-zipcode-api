@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.199989, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Riverview", "lng": -83.17402, "zip_code": "48192"});
+zipapicallback({"locality": "Wyandotte", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Riverview", "Wyandotte"], "postal_code": "48192", "lat": 42.199989, "lng": -83.17402, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]});

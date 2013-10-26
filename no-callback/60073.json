@@ -1,1 +1,1 @@
-{"lat": 42.366253, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Round Lake", "lng": -88.09647, "zip_code": "60073"}
+{"locality": "Round Lake", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hainesville", "Round Lake", "Round Lake Beach", "Round Lake Heights", "Round Lake Park", "Round Lk Bch", "Round Lk Hts", "Round Lk Park", "Volo"], "postal_code": "60073", "lat": 42.366253, "lng": -88.09647, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

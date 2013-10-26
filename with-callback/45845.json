@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.338583, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fort Loramie", "lng": -84.38348, "zip_code": "45845"});
+zipapicallback({"locality": "Fort Loramie", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fort Loramie"], "postal_code": "45845", "lat": 40.338583, "lng": -84.38348, "type": "STANDARD", "counties": [{"fips": "149", "name": "Shelby"}, {"fips": "037", "name": "Darke"}, {"fips": "107", "name": "Mercer"}, {"fips": "011", "name": "Auglaize"}]});

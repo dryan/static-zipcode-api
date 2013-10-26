@@ -1,1 +1,1 @@
-{"lat": 44.379147, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hale", "lng": -83.83539, "zip_code": "48739"}
+{"locality": "Hale", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hale"], "postal_code": "48739", "lat": 44.379147, "lng": -83.83539, "type": "STANDARD", "counties": [{"fips": "069", "name": "Iosco"}, {"fips": "129", "name": "Ogemaw"}]}

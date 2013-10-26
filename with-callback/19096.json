@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.992345, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wynnewood", "lng": -75.27624, "zip_code": "19096"});
+zipapicallback({"locality": "Wynnewood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Carroll Park", "Penn Wynne", "Wynnewood"], "postal_code": "19096", "lat": 39.992345, "lng": -75.27624, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

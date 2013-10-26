@@ -1,1 +1,1 @@
-{"lat": 34.087461, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Vance", "lng": -90.39276, "zip_code": "38964"}
+{"locality": "Vance", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Vance"], "postal_code": "38964", "lat": 34.087461, "lng": -90.39276, "type": "STANDARD", "counties": [{"fips": "119", "name": "Quitman"}]}

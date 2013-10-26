@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.087772, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "San Fidel", "lng": -107.63451, "zip_code": "87049"});
+zipapicallback({"locality": "San Fidel", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["San Fidel"], "postal_code": "87049", "lat": 35.087772, "lng": -107.63451, "type": "POBOX", "counties": [{"fips": "006", "name": "Cibola"}]});

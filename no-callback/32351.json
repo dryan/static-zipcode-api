@@ -1,1 +1,1 @@
-{"lat": 30.573563, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Quincy", "lng": -84.6147, "zip_code": "32351"}
+{"locality": "Quincy", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Quincy"], "postal_code": "32351", "lat": 30.573563, "lng": -84.6147, "type": "STANDARD", "counties": [{"fips": "039", "name": "Gadsden"}]}

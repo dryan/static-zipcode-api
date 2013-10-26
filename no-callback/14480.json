@@ -1,1 +1,1 @@
-{"lat": 42.837786, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lakeville", "lng": -77.70625, "zip_code": "14480"}
+{"locality": "Lakeville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lakeville"], "postal_code": "14480", "lat": 42.837786, "lng": -77.70625, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]}

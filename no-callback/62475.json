@@ -1,1 +1,1 @@
-{"lat": 38.868463, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "West Liberty", "lng": -88.05466, "zip_code": "62475"}
+{"locality": "West Liberty", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["West Liberty"], "postal_code": "62475", "lat": 38.868463, "lng": -88.05466, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jasper"}]}

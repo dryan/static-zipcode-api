@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.500759, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Greybull", "lng": -108.03102, "zip_code": "82426"});
+zipapicallback({"locality": "Greybull", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Greybull"], "postal_code": "82426", "lat": 44.500759, "lng": -108.03102, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]});

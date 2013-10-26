@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.538351, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Salvo", "lng": -75.47473, "zip_code": "27972"});
+zipapicallback({"locality": "Salvo", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Salvo"], "postal_code": "27972", "lat": 35.538351, "lng": -75.47473, "type": "POBOX", "counties": [{"fips": "055", "name": "Dare"}]});

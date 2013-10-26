@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.38846, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Roaring Gap", "lng": -81.00733, "zip_code": "28668"});
+zipapicallback({"locality": "Roaring Gap", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Roaring Gap"], "postal_code": "28668", "lat": 36.38846, "lng": -81.00733, "type": "STANDARD", "counties": [{"fips": "005", "name": "Alleghany"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.286637, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Little Chute", "lng": -88.31001, "zip_code": "54140"}
+{"locality": "Little Chute", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Little Chute"], "postal_code": "54140", "lat": 44.286637, "lng": -88.31001, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}]}

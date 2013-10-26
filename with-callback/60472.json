@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.642933, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Robbins", "lng": -87.70814, "zip_code": "60472"});
+zipapicallback({"locality": "Robbins", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Robbins"], "postal_code": "60472", "lat": 41.642933, "lng": -87.70814, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

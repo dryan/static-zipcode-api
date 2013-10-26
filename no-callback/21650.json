@@ -1,1 +1,1 @@
-{"lat": 39.311429, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Massey", "lng": -75.80806, "zip_code": "21650"}
+{"locality": "Massey", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Massey"], "postal_code": "21650", "lat": 39.311429, "lng": -75.80806, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kent"}]}

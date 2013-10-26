@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.713328, "region": {"abbr": "NY", "name": "New York"}, "locality": "Roessleville", "lng": -73.8179, "zip_code": "12205"});
+zipapicallback({"locality": "Albany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Albany", "Colonie", "Roessleville"], "postal_code": "12205", "lat": 42.713328, "lng": -73.8179, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

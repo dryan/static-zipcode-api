@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.315943, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Malinta", "lng": -84.03021, "zip_code": "43535"});
+zipapicallback({"locality": "Malinta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Malinta"], "postal_code": "43535", "lat": 41.315943, "lng": -84.03021, "type": "STANDARD", "counties": [{"fips": "069", "name": "Henry"}]});

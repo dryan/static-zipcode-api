@@ -1,1 +1,1 @@
-{"lat": 37.205961, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mc Roberts", "lng": -82.67347, "zip_code": "41835"}
+{"locality": "Mc Roberts", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mc Roberts"], "postal_code": "41835", "lat": 37.205961, "lng": -82.67347, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]}

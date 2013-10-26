@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.296271, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Forbes", "lng": -92.65485, "zip_code": "55738"});
+zipapicallback({"locality": "Forbes", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Forbes", "Zim"], "postal_code": "55738", "lat": 47.296271, "lng": -92.65485, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]});

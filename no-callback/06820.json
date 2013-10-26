@@ -1,1 +1,1 @@
-{"lat": 41.075663, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Darien", "lng": -73.48294, "zip_code": "06820"}
+{"locality": "Darien", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Darien"], "postal_code": "06820", "lat": 41.075663, "lng": -73.48294, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

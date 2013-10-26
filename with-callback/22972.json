@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.214023, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Somerset", "lng": -78.21596, "zip_code": "22972"});
+zipapicallback({"locality": "Somerset", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Somerset"], "postal_code": "22972", "lat": 38.214023, "lng": -78.21596, "type": "STANDARD", "counties": [{"fips": "137", "name": "Orange"}, {"fips": "113", "name": "Madison"}]});

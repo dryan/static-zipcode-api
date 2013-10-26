@@ -1,1 +1,1 @@
-{"lat": 39.359268, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kings Mills", "lng": -84.24898, "zip_code": "45034"}
+{"locality": "Kings Mills", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kings Island", "Kings Mills"], "postal_code": "45034", "lat": 39.359268, "lng": -84.24898, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]}

@@ -1,1 +1,1 @@
-{"lat": 18.427674, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Loiza", "lng": -65.87605, "zip_code": "00772"}
+{"locality": "Loiza", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Loiza"], "postal_code": "00772", "lat": 18.427674, "lng": -65.87605, "type": "STANDARD", "counties": []}

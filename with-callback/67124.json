@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.642738, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Pratt", "lng": -98.75394, "zip_code": "67124"});
+zipapicallback({"locality": "Pratt", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cullison", "Pratt"], "postal_code": "67124", "lat": 37.642738, "lng": -98.75394, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pratt"}]});

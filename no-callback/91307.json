@@ -1,1 +1,1 @@
-{"lat": 34.197737, "region": {"abbr": "CA", "name": "California"}, "locality": "West Hills", "lng": -118.64797, "zip_code": "91307"}
+{"locality": "West Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bell Canyon", "Canoga Park", "West Hills"], "postal_code": "91307", "lat": 34.197737, "lng": -118.64797, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}, {"fips": "037", "name": "Los Angeles"}]}

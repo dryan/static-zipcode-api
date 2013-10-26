@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.682506, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Millville", "lng": -111.825, "zip_code": "84326"});
+zipapicallback({"locality": "Millville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Millville"], "postal_code": "84326", "lat": 41.682506, "lng": -111.825, "type": "POBOX", "counties": [{"fips": "005", "name": "Cache"}]});

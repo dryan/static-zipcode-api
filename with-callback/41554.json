@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.445906, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Phyllis", "lng": -82.32708, "zip_code": "41554"});
+zipapicallback({"locality": "Phyllis", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Phyllis"], "postal_code": "41554", "lat": 37.445906, "lng": -82.32708, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.572449, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Malaga", "lng": -75.0543, "zip_code": "08328"});
+zipapicallback({"locality": "Malaga", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Malaga"], "postal_code": "08328", "lat": 39.572449, "lng": -75.0543, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]});

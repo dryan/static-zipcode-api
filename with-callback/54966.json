@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.220945, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Plainfield", "lng": -89.51227, "zip_code": "54966"});
+zipapicallback({"locality": "Plainfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Plainfield"], "postal_code": "54966", "lat": 44.220945, "lng": -89.51227, "type": "STANDARD", "counties": [{"fips": "137", "name": "Waushara"}, {"fips": "001", "name": "Adams"}, {"fips": "097", "name": "Portage"}]});

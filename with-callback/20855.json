@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.131705, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Derwood", "lng": -77.14981, "zip_code": "20855"});
+zipapicallback({"locality": "Derwood", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Derwood", "Rockville"], "postal_code": "20855", "lat": 39.131705, "lng": -77.14981, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

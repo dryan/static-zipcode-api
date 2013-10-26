@@ -1,1 +1,1 @@
-{"lat": 34.043076, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hale Center", "lng": -101.89695, "zip_code": "79041"}
+{"locality": "Hale Center", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hale Center"], "postal_code": "79041", "lat": 34.043076, "lng": -101.89695, "type": "STANDARD", "counties": [{"fips": "189", "name": "Hale"}, {"fips": "279", "name": "Lamb"}]}

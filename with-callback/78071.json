@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.492487, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Three Rivers", "lng": -98.1764, "zip_code": "78071"});
+zipapicallback({"locality": "Three Rivers", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Three Rivers"], "postal_code": "78071", "lat": 28.492487, "lng": -98.1764, "type": "STANDARD", "counties": [{"fips": "297", "name": "Live Oak"}]});

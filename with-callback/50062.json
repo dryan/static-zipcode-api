@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.23022, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dallas", "lng": -93.23904, "zip_code": "50062"});
+zipapicallback({"locality": "Melcher-dallas", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dallas", "Melcher Dal", "Melcher-dallas"], "postal_code": "50062", "lat": 41.23022, "lng": -93.23904, "type": "STANDARD", "counties": [{"fips": "125", "name": "Marion"}]});

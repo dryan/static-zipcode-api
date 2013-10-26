@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.534993, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "New York Mills", "lng": -95.38106, "zip_code": "56567"});
+zipapicallback({"locality": "New York Mills", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["New York Mills", "New York Mls"], "postal_code": "56567", "lat": 46.534993, "lng": -95.38106, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]});

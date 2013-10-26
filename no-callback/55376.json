@@ -1,1 +1,1 @@
-{"lat": 45.20382, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Michael", "lng": -93.67618, "zip_code": "55376"}
+{"locality": "Saint Michael", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Michael"], "postal_code": "55376", "lat": 45.20382, "lng": -93.67618, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]}

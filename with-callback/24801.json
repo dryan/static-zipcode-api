@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.424498, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Welch", "lng": -81.57835, "zip_code": "24801"});
+zipapicallback({"locality": "Welch", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Capels", "Coalwood", "Havaco", "Hemphill", "Skygusty", "Superior", "Welch", "Wolf Pen"], "postal_code": "24801", "lat": 37.424498, "lng": -81.57835, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.677837, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Brooksville", "lng": -84.09411, "zip_code": "41004"}
+{"locality": "Brooksville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Brooksville"], "postal_code": "41004", "lat": 38.677837, "lng": -84.09411, "type": "STANDARD", "counties": [{"fips": "023", "name": "Bracken"}]}

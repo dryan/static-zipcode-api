@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.650041, "region": {"abbr": "WA", "name": "Washington"}, "locality": "North Bonneville", "lng": -121.97167, "zip_code": "98639"});
+zipapicallback({"locality": "North Bonneville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["N Bonneville", "North Bonneville"], "postal_code": "98639", "lat": 45.650041, "lng": -121.97167, "type": "POBOX", "counties": [{"fips": "059", "name": "Skamania"}]});

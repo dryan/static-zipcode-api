@@ -1,1 +1,1 @@
-{"lat": 42.484414, "region": {"abbr": "NY", "name": "New York"}, "locality": "Etna", "lng": -76.38271, "zip_code": "13062"}
+{"locality": "Etna", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Etna"], "postal_code": "13062", "lat": 42.484414, "lng": -76.38271, "type": "POBOX", "counties": [{"fips": "109", "name": "Tompkins"}]}

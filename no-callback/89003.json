@@ -1,1 +1,1 @@
-{"lat": 37.027453, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Beatty", "lng": -116.84011, "zip_code": "89003"}
+{"locality": "Beatty", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Beatty"], "postal_code": "89003", "lat": 37.027453, "lng": -116.84011, "type": "POBOX", "counties": [{"fips": "023", "name": "Nye"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.833762, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lewis Run", "lng": -78.68839, "zip_code": "16738"}
+{"locality": "Lewis Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lewis Run"], "postal_code": "16738", "lat": 41.833762, "lng": -78.68839, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]}

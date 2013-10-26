@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.754656, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Beaver", "lng": -81.11304, "zip_code": "25813"});
+zipapicallback({"locality": "Beaver", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Beaver", "Blue Jay", "Glen Morgan"], "postal_code": "25813", "lat": 37.754656, "lng": -81.11304, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

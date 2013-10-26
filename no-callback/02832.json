@@ -1,1 +1,1 @@
-{"lat": 41.511414, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Richmond", "lng": -71.72737, "zip_code": "02832"}
+{"locality": "Hope Valley", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Hope Valley", "Richmond"], "postal_code": "02832", "lat": 41.511414, "lng": -71.72737, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]}

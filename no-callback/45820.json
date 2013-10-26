@@ -1,1 +1,1 @@
-{"lat": 40.831339, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cairo", "lng": -84.08602, "zip_code": "45820"}
+{"locality": "Cairo", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cairo"], "postal_code": "45820", "lat": 40.831339, "lng": -84.08602, "type": "POBOX", "counties": [{"fips": "003", "name": "Allen"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.097217, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Falls City", "lng": -95.58631, "zip_code": "68355"});
+zipapicallback({"locality": "Falls City", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Falls City"], "postal_code": "68355", "lat": 40.097217, "lng": -95.58631, "type": "STANDARD", "counties": [{"fips": "147", "name": "Richardson"}]});

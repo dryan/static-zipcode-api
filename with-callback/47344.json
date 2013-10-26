@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.876764, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Greensboro", "lng": -85.46546, "zip_code": "47344"});
+zipapicallback({"locality": "Greensboro", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Greensboro"], "postal_code": "47344", "lat": 39.876764, "lng": -85.46546, "type": "POBOX", "counties": [{"fips": "065", "name": "Henry"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.419988, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wallace", "lng": -77.43392, "zip_code": "14809"}
+{"locality": "Avoca", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Avoca", "Wallace"], "postal_code": "14809", "lat": 42.419988, "lng": -77.43392, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]}

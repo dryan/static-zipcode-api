@@ -1,1 +1,1 @@
-{"lat": 38.081874, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Stotesbury", "lng": -94.5645, "zip_code": "64752"}
+{"locality": "Hume", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hume", "Stotesbury"], "postal_code": "64752", "lat": 38.081874, "lng": -94.5645, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bates"}, {"fips": "217", "name": "Vernon"}]}

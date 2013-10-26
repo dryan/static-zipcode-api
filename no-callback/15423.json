@@ -1,1 +1,1 @@
-{"lat": 40.082073, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Coal Center", "lng": -79.91911, "zip_code": "15423"}
+{"locality": "Coal Center", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coal Center"], "postal_code": "15423", "lat": 40.082073, "lng": -79.91911, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

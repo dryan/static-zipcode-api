@@ -1,1 +1,1 @@
-{"lat": 35.065007, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Kimball", "lng": -85.61818, "zip_code": "37347"}
+{"locality": "Jasper", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Jasper", "Kimball"], "postal_code": "37347", "lat": 35.065007, "lng": -85.61818, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]}

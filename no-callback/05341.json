@@ -1,1 +1,1 @@
-{"lat": 42.952754, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "East Dover", "lng": -72.79694, "zip_code": "05341"}
+{"locality": "East Dover", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Dover"], "postal_code": "05341", "lat": 42.952754, "lng": -72.79694, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]}

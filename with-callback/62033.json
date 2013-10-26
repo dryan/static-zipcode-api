@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.127717, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dorchester", "lng": -89.8288, "zip_code": "62033"});
+zipapicallback({"locality": "Gillespie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dorchester", "Gillespie"], "postal_code": "62033", "lat": 39.127717, "lng": -89.8288, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}]});

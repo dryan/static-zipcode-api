@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.271098, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Montoursville", "lng": -76.90382, "zip_code": "17754"});
+zipapicallback({"locality": "Montoursville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Montoursville"], "postal_code": "17754", "lat": 41.271098, "lng": -76.90382, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}]});

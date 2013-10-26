@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.985456, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Grady", "lng": -86.15741, "zip_code": "36036"});
+zipapicallback({"locality": "Grady", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Grady"], "postal_code": "36036", "lat": 31.985456, "lng": -86.15741, "type": "STANDARD", "counties": [{"fips": "101", "name": "Montgomery"}, {"fips": "041", "name": "Crenshaw"}]});

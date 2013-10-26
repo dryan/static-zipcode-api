@@ -1,1 +1,1 @@
-{"lat": 38.526134, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Blairstown", "lng": -93.93112, "zip_code": "64726"}
+{"locality": "Blairstown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blairstown"], "postal_code": "64726", "lat": 38.526134, "lng": -93.93112, "type": "STANDARD", "counties": [{"fips": "083", "name": "Henry"}, {"fips": "101", "name": "Johnson"}]}

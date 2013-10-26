@@ -1,1 +1,1 @@
-{"lat": 40.201341, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Middletown", "lng": -76.73557, "zip_code": "17057"}
+{"locality": "Middletown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Middletown"], "postal_code": "17057", "lat": 40.201341, "lng": -76.73557, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]}

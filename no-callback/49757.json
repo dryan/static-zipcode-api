@@ -1,1 +1,1 @@
-{"lat": 45.856777, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mackinac Island", "lng": -84.62643, "zip_code": "49757"}
+{"locality": "Mackinac Island", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mackinac Is", "Mackinac Island"], "postal_code": "49757", "lat": 45.856777, "lng": -84.62643, "type": "POBOX", "counties": [{"fips": "097", "name": "MacKinac"}]}

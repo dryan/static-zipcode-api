@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.688567, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hollis", "lng": -99.90944, "zip_code": "73550"});
+zipapicallback({"locality": "Hollis", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hollis"], "postal_code": "73550", "lat": 34.688567, "lng": -99.90944, "type": "STANDARD", "counties": [{"fips": "057", "name": "Harmon"}]});

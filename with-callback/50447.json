@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.926804, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kanawha", "lng": -93.80821, "zip_code": "50447"});
+zipapicallback({"locality": "Kanawha", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kanawha"], "postal_code": "50447", "lat": 42.926804, "lng": -93.80821, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]});

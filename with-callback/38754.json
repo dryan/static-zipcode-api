@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.231628, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Isola", "lng": -90.58586, "zip_code": "38754"});
+zipapicallback({"locality": "Isola", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Isola"], "postal_code": "38754", "lat": 33.231628, "lng": -90.58586, "type": "STANDARD", "counties": [{"fips": "053", "name": "Humphreys"}, {"fips": "133", "name": "Sunflower"}]});

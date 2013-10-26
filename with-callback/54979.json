@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.877109, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Van Dyne", "lng": -88.52573, "zip_code": "54979"});
+zipapicallback({"locality": "Van Dyne", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Van Dyne"], "postal_code": "54979", "lat": 43.877109, "lng": -88.52573, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}, {"fips": "139", "name": "Winnebago"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.168206, "region": {"abbr": "CA", "name": "California"}, "locality": "North Hollywood", "lng": -118.37246, "zip_code": "91601"}
+{"locality": "North Hollywood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Hollywood", "North Hollywood", "Toluca Ter", "Toluca Terrace", "Valley Village", "Valley Vlg"], "postal_code": "91601", "lat": 34.168206, "lng": -118.37246, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

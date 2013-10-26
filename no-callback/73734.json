@@ -1,1 +1,1 @@
-{"lat": 35.978156, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Dover", "lng": -97.8868, "zip_code": "73734"}
+{"locality": "Dover", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Dover"], "postal_code": "73734", "lat": 35.978156, "lng": -97.8868, "type": "STANDARD", "counties": [{"fips": "073", "name": "Kingfisher"}]}

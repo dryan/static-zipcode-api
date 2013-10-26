@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.195365, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dry Run", "lng": -77.72092, "zip_code": "17220"});
+zipapicallback({"locality": "Dry Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dry Run"], "postal_code": "17220", "lat": 40.195365, "lng": -77.72092, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]});

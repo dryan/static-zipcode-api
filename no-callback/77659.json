@@ -1,1 +1,1 @@
-{"lat": 30.150405, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sour Lake", "lng": -94.41515, "zip_code": "77659"}
+{"locality": "Sour Lake", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sour Lake"], "postal_code": "77659", "lat": 30.150405, "lng": -94.41515, "type": "STANDARD", "counties": [{"fips": "199", "name": "Hardin"}]}

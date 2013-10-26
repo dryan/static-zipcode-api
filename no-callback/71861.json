@@ -1,1 +1,1 @@
-{"lat": 33.108043, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Taylor", "lng": -93.47283, "zip_code": "71861"}
+{"locality": "Taylor", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Taylor"], "postal_code": "71861", "lat": 33.108043, "lng": -93.47283, "type": "STANDARD", "counties": [{"fips": "027", "name": "Columbia"}]}

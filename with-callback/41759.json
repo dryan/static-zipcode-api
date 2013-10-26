@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.229381, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Anco", "lng": -83.03409, "zip_code": "41759"});
+zipapicallback({"locality": "Sassafras", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Anco", "Sassafras"], "postal_code": "41759", "lat": 37.229381, "lng": -83.03409, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]});

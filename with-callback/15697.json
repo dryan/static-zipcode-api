@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.238134, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Youngwood", "lng": -79.58172, "zip_code": "15697"});
+zipapicallback({"locality": "Youngwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Youngwood"], "postal_code": "15697", "lat": 40.238134, "lng": -79.58172, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

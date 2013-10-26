@@ -1,1 +1,1 @@
-{"lat": 41.081726, "region": {"abbr": "CA", "name": "California"}, "locality": "Westhaven", "lng": -124.13112, "zip_code": "95570"}
+{"locality": "Trinidad", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Trinidad"], "postal_code": "95570", "lat": 41.081726, "lng": -124.13112, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]}

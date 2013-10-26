@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.135066, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Old Ocean", "lng": -95.78335, "zip_code": "77463"});
+zipapicallback({"locality": "Old Ocean", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Old Ocean"], "postal_code": "77463", "lat": 29.135066, "lng": -95.78335, "type": "POBOX", "counties": [{"fips": "039", "name": "Brazoria"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.155649, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Buckley", "lng": -122.05255, "zip_code": "98321"}
+{"locality": "Buckley", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Buckley"], "postal_code": "98321", "lat": 47.155649, "lng": -122.05255, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

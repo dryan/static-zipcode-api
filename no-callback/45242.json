@@ -1,1 +1,1 @@
-{"lat": 39.242559, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sycamore", "lng": -84.36042, "zip_code": "45242"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Blue Ash", "Cincinnati", "Montgomery"], "postal_code": "45242", "lat": 39.242559, "lng": -84.36042, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

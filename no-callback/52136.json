@@ -1,1 +1,1 @@
-{"lat": 43.382021, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cresco", "lng": -92.10263, "zip_code": "52136"}
+{"locality": "Cresco", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cresco"], "postal_code": "52136", "lat": 43.382021, "lng": -92.10263, "type": "STANDARD", "counties": [{"fips": "089", "name": "Howard"}]}

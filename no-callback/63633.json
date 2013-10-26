@@ -1,1 +1,1 @@
-{"lat": 37.442703, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Centerville", "lng": -91.02077, "zip_code": "63633"}
+{"locality": "Centerville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Centerville"], "postal_code": "63633", "lat": 37.442703, "lng": -91.02077, "type": "STANDARD", "counties": [{"fips": "179", "name": "Reynolds"}]}

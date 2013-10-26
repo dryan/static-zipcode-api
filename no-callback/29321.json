@@ -1,1 +1,1 @@
-{"lat": 34.715641, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Buffalo", "lng": -81.71187, "zip_code": "29321"}
+{"locality": "Buffalo", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Buffalo"], "postal_code": "29321", "lat": 34.715641, "lng": -81.71187, "type": "STANDARD", "counties": [{"fips": "087", "name": "Union"}]}

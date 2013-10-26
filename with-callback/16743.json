@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.809546, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Port Allegany", "lng": -78.27125, "zip_code": "16743"});
+zipapicallback({"locality": "Port Allegany", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Port Allegany"], "postal_code": "16743", "lat": 41.809546, "lng": -78.27125, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}, {"fips": "105", "name": "Potter"}]});

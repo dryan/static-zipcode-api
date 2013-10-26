@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.005639, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Safety Harbor", "lng": -82.69511, "zip_code": "34695"});
+zipapicallback({"locality": "Safety Harbor", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Safety Harbor"], "postal_code": "34695", "lat": 28.005639, "lng": -82.69511, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}, {"fips": "057", "name": "Hillsborough"}]});

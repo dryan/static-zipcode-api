@@ -1,1 +1,1 @@
-{"lat": 37.91259, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lake Forest Esta", "lng": -90.15155, "zip_code": "63670"}
+{"locality": "Sainte Genevieve", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Offenburg", "Sainte Genevieve", "Ste Genevieve"], "postal_code": "63670", "lat": 37.91259, "lng": -90.15155, "type": "STANDARD", "counties": [{"fips": "186", "name": "Sainte Genevieve"}]}

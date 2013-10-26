@@ -1,1 +1,1 @@
-{"lat": 43.727646, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Markesan", "lng": -89.02574, "zip_code": "53946"}
+{"locality": "Markesan", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Manchester", "Markesan"], "postal_code": "53946", "lat": 43.727646, "lng": -89.02574, "type": "STANDARD", "counties": [{"fips": "047", "name": "Green Lake"}, {"fips": "027", "name": "Dodge"}, {"fips": "039", "name": "Fond Du Lac"}]}

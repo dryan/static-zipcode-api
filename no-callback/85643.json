@@ -1,1 +1,1 @@
-{"lat": 32.356537, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Willcox", "lng": -109.88461, "zip_code": "85643"}
+{"locality": "Willcox", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Ft Grant", "Willcox"], "postal_code": "85643", "lat": 32.356537, "lng": -109.88461, "type": "STANDARD", "counties": [{"fips": "009", "name": "Graham"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.237924, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Beckville", "lng": -94.46427, "zip_code": "75631"}
+{"locality": "Beckville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Beckville"], "postal_code": "75631", "lat": 32.237924, "lng": -94.46427, "type": "STANDARD", "counties": [{"fips": "365", "name": "Panola"}]}

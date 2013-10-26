@@ -1,1 +1,1 @@
-{"lat": 46.884481, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Glyndon", "lng": -96.56301, "zip_code": "56547"}
+{"locality": "Glyndon", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Glyndon"], "postal_code": "56547", "lat": 46.884481, "lng": -96.56301, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]}

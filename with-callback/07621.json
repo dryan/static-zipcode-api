@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.923748, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bergenfield", "lng": -73.99879, "zip_code": "07621"});
+zipapicallback({"locality": "Bergenfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bergenfield"], "postal_code": "07621", "lat": 40.923748, "lng": -73.99879, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

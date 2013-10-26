@@ -1,1 +1,1 @@
-{"lat": 32.890777, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hosston", "lng": -93.87995, "zip_code": "71043"}
+{"locality": "Hosston", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hosston"], "postal_code": "71043", "lat": 32.890777, "lng": -93.87995, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]}

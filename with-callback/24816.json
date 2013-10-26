@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.459251, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Big Sandy", "lng": -81.70173, "zip_code": "24816"});
+zipapicallback({"locality": "Big Sandy", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Big Sandy"], "postal_code": "24816", "lat": 37.459251, "lng": -81.70173, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]});

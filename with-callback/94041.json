@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.38949, "region": {"abbr": "CA", "name": "California"}, "locality": "Mountain View", "lng": -122.07846, "zip_code": "94041"});
+zipapicallback({"locality": "Mountain View", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mountain View"], "postal_code": "94041", "lat": 37.38949, "lng": -122.07846, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.711162, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cumbola", "lng": -76.13678, "zip_code": "17930"});
+zipapicallback({"locality": "Cumbola", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cumbola"], "postal_code": "17930", "lat": 40.711162, "lng": -76.13678, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

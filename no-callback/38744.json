@@ -1,1 +1,1 @@
-{"lat": 33.028345, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Glen Allan", "lng": -91.05179, "zip_code": "38744"}
+{"locality": "Glen Allan", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Glen Allan"], "postal_code": "38744", "lat": 33.028345, "lng": -91.05179, "type": "STANDARD", "counties": [{"fips": "151", "name": "Washington"}]}

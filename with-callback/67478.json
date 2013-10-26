@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.384449, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Simpson", "lng": -97.93323, "zip_code": "67478"});
+zipapicallback({"locality": "Simpson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Simpson"], "postal_code": "67478", "lat": 39.384449, "lng": -97.93323, "type": "POBOX", "counties": [{"fips": "123", "name": "Mitchell"}]});

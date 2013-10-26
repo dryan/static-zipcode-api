@@ -1,1 +1,1 @@
-{"lat": 41.35307, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fremont", "lng": -83.11217, "zip_code": "43420"}
+{"locality": "Fremont", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fremont"], "postal_code": "43420", "lat": 41.35307, "lng": -83.11217, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sandusky"}, {"fips": "153", "name": "Summit"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.352131, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gary", "lng": -81.54688, "zip_code": "24836"}
+{"locality": "Gary", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Gary"], "postal_code": "24836", "lat": 37.352131, "lng": -81.54688, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]}

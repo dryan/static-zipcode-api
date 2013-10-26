@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.023133, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Hays", "lng": -108.69955, "zip_code": "59527"});
+zipapicallback({"locality": "Hays", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Hays"], "postal_code": "59527", "lat": 48.023133, "lng": -108.69955, "type": "POBOX", "counties": [{"fips": "005", "name": "Blaine"}]});

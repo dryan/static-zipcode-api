@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.88923, "region": {"abbr": "CA", "name": "California"}, "locality": "Willow Springs", "lng": -118.33629, "zip_code": "93560"});
+zipapicallback({"locality": "Rosamond", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rosamond", "Willow Spgs", "Willow Springs"], "postal_code": "93560", "lat": 34.88923, "lng": -118.33629, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

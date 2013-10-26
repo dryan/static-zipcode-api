@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.046143, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "State College", "lng": -81.06724, "zip_code": "31404"});
+zipapicallback({"locality": "Savannah", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Savannah", "Thunderbolt"], "postal_code": "31404", "lat": 32.046143, "lng": -81.06724, "type": "STANDARD", "counties": [{"fips": "051", "name": "Chatham"}]});

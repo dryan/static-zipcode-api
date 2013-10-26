@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.920574, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pelican", "lng": -93.48365, "zip_code": "71063"});
+zipapicallback({"locality": "Pelican", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pelican"], "postal_code": "71063", "lat": 31.920574, "lng": -93.48365, "type": "STANDARD", "counties": [{"fips": "031", "name": "De Soto"}, {"fips": "069", "name": "Natchitoches"}]});

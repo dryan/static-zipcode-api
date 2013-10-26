@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.203092, "region": {"abbr": "CA", "name": "California"}, "locality": "Pescadero", "lng": -122.33718, "zip_code": "94060"});
+zipapicallback({"locality": "Pescadero", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pescadero"], "postal_code": "94060", "lat": 37.203092, "lng": -122.33718, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]});

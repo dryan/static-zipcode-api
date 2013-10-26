@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.810673, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Windham", "lng": -70.41697, "zip_code": "04062"});
+zipapicallback({"locality": "Windham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Windham"], "postal_code": "04062", "lat": 43.810673, "lng": -70.41697, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

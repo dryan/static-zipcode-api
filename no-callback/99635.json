@@ -1,1 +1,1 @@
-{"lat": 60.784804, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Nikiski", "lng": -151.06473, "zip_code": "99635"}
+{"locality": "Nikiski", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kenai", "Nikiski"], "postal_code": "99635", "lat": 60.784804, "lng": -151.06473, "type": "POBOX", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]}

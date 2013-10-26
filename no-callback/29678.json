@@ -1,1 +1,1 @@
-{"lat": 34.660345, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Seneca", "lng": -82.94557, "zip_code": "29678"}
+{"locality": "Seneca", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Seneca"], "postal_code": "29678", "lat": 34.660345, "lng": -82.94557, "type": "STANDARD", "counties": [{"fips": "073", "name": "Oconee"}, {"fips": "007", "name": "Anderson"}]}

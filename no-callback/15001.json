@@ -1,1 +1,1 @@
-{"lat": 40.603966, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Macarthur", "lng": -80.28776, "zip_code": "15001"}
+{"locality": "Aliquippa", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aliquippa", "Macarthur", "W Aliquippa", "West Aliquippa"], "postal_code": "15001", "lat": 40.603966, "lng": -80.28776, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}, {"fips": "009", "name": "Bedford"}]}

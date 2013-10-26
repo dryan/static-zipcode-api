@@ -1,1 +1,1 @@
-{"lat": 40.986389, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oliveburg", "lng": -79.02664, "zip_code": "15764"}
+{"locality": "Oliveburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oliveburg"], "postal_code": "15764", "lat": 40.986389, "lng": -79.02664, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]}

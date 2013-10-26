@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.606185, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Prompton", "lng": -75.33971, "zip_code": "18456"});
+zipapicallback({"locality": "Prompton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Prompton"], "postal_code": "18456", "lat": 41.606185, "lng": -75.33971, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.188143, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Frankewing", "lng": -86.81014, "zip_code": "38459"}
+{"locality": "Frankewing", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Frankewing"], "postal_code": "38459", "lat": 35.188143, "lng": -86.81014, "type": "STANDARD", "counties": [{"fips": "055", "name": "Giles"}, {"fips": "103", "name": "Lincoln"}]}

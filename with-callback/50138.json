@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.307595, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Knoxville", "lng": -93.10226, "zip_code": "50138"});
+zipapicallback({"locality": "Knoxville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Knoxville", "Pershing"], "postal_code": "50138", "lat": 41.307595, "lng": -93.10226, "type": "STANDARD", "counties": [{"fips": "125", "name": "Marion"}]});

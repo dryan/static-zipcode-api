@@ -1,1 +1,1 @@
-{"lat": 42.968057, "region": {"abbr": "NY", "name": "New York"}, "locality": "Amherst", "lng": -78.80047, "zip_code": "14226"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Amherst", "Buffalo", "Eggertsville", "Snyder"], "postal_code": "14226", "lat": 42.968057, "lng": -78.80047, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

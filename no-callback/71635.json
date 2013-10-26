@@ -1,1 +1,1 @@
-{"lat": 33.125032, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "North", "lng": -91.97037, "zip_code": "71635"}
+{"locality": "Crossett", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Crossett"], "postal_code": "71635", "lat": 33.125032, "lng": -91.97037, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashley"}]}

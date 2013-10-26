@@ -1,1 +1,1 @@
-{"lat": 43.053763, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milwaukee", "lng": -87.93473, "zip_code": "53205"}
+{"locality": "Milwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Milwaukee"], "postal_code": "53205", "lat": 43.053763, "lng": -87.93473, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

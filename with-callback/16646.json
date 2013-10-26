@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.670162, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hastings", "lng": -78.70932, "zip_code": "16646"});
+zipapicallback({"locality": "Hastings", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hastings"], "postal_code": "16646", "lat": 40.670162, "lng": -78.70932, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}, {"fips": "033", "name": "Clearfield"}]});

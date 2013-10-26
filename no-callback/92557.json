@@ -1,1 +1,1 @@
-{"lat": 33.957957, "region": {"abbr": "CA", "name": "California"}, "locality": "Moreno Valley", "lng": -117.24833, "zip_code": "92557"}
+{"locality": "Moreno Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Moreno Valley"], "postal_code": "92557", "lat": 33.957957, "lng": -117.24833, "type": "STANDARD", "counties": []}

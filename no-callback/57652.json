@@ -1,1 +1,1 @@
-{"lat": 45.125932, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Ridgeview", "lng": -100.56202, "zip_code": "57652"}
+{"locality": "Ridgeview", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["La Plant", "Ridgeview"], "postal_code": "57652", "lat": 45.125932, "lng": -100.56202, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dewey"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.172197, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Galva", "lng": -90.03901, "zip_code": "61434"}
+{"locality": "Galva", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Galva"], "postal_code": "61434", "lat": 41.172197, "lng": -90.03901, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}, {"fips": "175", "name": "Stark"}, {"fips": "095", "name": "Knox"}]}

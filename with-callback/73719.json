@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.949448, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Amorita", "lng": -98.28297, "zip_code": "73719"});
+zipapicallback({"locality": "Amorita", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Amorita"], "postal_code": "73719", "lat": 36.949448, "lng": -98.28297, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}]});

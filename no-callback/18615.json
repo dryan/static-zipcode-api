@@ -1,1 +1,1 @@
-{"lat": 41.449135, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Falls", "lng": -75.85774, "zip_code": "18615"}
+{"locality": "Falls", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Falls"], "postal_code": "18615", "lat": 41.449135, "lng": -75.85774, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wyoming"}, {"fips": "069", "name": "Lackawanna"}, {"fips": "079", "name": "Luzerne"}]}

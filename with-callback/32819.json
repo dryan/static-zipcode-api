@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.463509, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sand Lake", "lng": -81.47514, "zip_code": "32819"});
+zipapicallback({"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Orlando", "Sand Lake"], "postal_code": "32819", "lat": 28.463509, "lng": -81.47514, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]});

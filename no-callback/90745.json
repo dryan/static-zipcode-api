@@ -1,1 +1,1 @@
-{"lat": 33.823765, "region": {"abbr": "CA", "name": "California"}, "locality": "Carson", "lng": -118.2668, "zip_code": "90745"}
+{"locality": "Carson", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Carson", "Long Beach"], "postal_code": "90745", "lat": 33.823765, "lng": -118.2668, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

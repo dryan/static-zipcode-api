@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.01492, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Valier", "lng": -89.04226, "zip_code": "62891"});
+zipapicallback({"locality": "Valier", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Valier"], "postal_code": "62891", "lat": 38.01492, "lng": -89.04226, "type": "POBOX", "counties": [{"fips": "055", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.850621, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Little Ferry", "lng": -74.04112, "zip_code": "07643"});
+zipapicallback({"locality": "Little Ferry", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Little Ferry"], "postal_code": "07643", "lat": 40.850621, "lng": -74.04112, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

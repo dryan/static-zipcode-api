@@ -1,1 +1,1 @@
-{"lat": 40.543354, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Metuchen", "lng": -74.3587, "zip_code": "08840"}
+{"locality": "Metuchen", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Metuchen"], "postal_code": "08840", "lat": 40.543354, "lng": -74.3587, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

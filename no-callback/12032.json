@@ -1,1 +1,1 @@
-{"lat": 43.158567, "region": {"abbr": "NY", "name": "New York"}, "locality": "Caroga Lake", "lng": -74.49646, "zip_code": "12032"}
+{"locality": "Caroga Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Caroga Lake"], "postal_code": "12032", "lat": 43.158567, "lng": -74.49646, "type": "STANDARD", "counties": [{"fips": "035", "name": "Fulton"}, {"fips": "041", "name": "Hamilton"}]}

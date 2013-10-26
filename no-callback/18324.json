@@ -1,1 +1,1 @@
-{"lat": 41.141582, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bushkill", "lng": -74.99786, "zip_code": "18324"}
+{"locality": "Bushkill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bushkill", "Lehman"], "postal_code": "18324", "lat": 41.141582, "lng": -74.99786, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pike"}]}

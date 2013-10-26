@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.875075, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "West Cornwall", "lng": -73.33673, "zip_code": "06796"});
+zipapicallback({"locality": "West Cornwall", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["West Cornwall"], "postal_code": "06796", "lat": 41.875075, "lng": -73.33673, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

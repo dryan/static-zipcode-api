@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.119056, "region": {"abbr": "CA", "name": "California"}, "locality": "Cold Springs", "lng": -120.1014, "zip_code": "95335"});
+zipapicallback({"locality": "Long Barn", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cold Springs", "Long Barn"], "postal_code": "95335", "lat": 38.119056, "lng": -120.1014, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]});

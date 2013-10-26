@@ -1,1 +1,1 @@
-{"lat": 31.388404, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Verhalen", "lng": -103.52515, "zip_code": "79772"}
+{"locality": "Pecos", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pecos", "Verhalen"], "postal_code": "79772", "lat": 31.388404, "lng": -103.52515, "type": "STANDARD", "counties": [{"fips": "389", "name": "Reeves"}]}

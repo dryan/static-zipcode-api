@@ -1,1 +1,1 @@
-{"lat": 40.658667, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hegins", "lng": -76.4814, "zip_code": "17938"}
+{"locality": "Hegins", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hegins"], "postal_code": "17938", "lat": 40.658667, "lng": -76.4814, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}, {"fips": "043", "name": "Dauphin"}]}

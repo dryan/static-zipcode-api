@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.974586, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Chimacum", "lng": -122.78382, "zip_code": "98325"});
+zipapicallback({"locality": "Chimacum", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Chimacum"], "postal_code": "98325", "lat": 47.974586, "lng": -122.78382, "type": "STANDARD", "counties": [{"fips": "031", "name": "Jefferson"}, {"fips": "003", "name": "Asotin"}]});

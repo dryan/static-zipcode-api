@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.801103, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Peace Valley", "lng": -91.70972, "zip_code": "65788"});
+zipapicallback({"locality": "Peace Valley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Peace Valley"], "postal_code": "65788", "lat": 36.801103, "lng": -91.70972, "type": "STANDARD", "counties": [{"fips": "203", "name": "Shannon"}, {"fips": "091", "name": "Howell"}]});

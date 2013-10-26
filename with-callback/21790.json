@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.254538, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Tuscarora", "lng": -77.49474, "zip_code": "21790"});
+zipapicallback({"locality": "Tuscarora", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Tuscarora"], "postal_code": "21790", "lat": 39.254538, "lng": -77.49474, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]});

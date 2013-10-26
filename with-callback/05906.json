@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.458803, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Lunenburg", "lng": -71.7162, "zip_code": "05906"});
+zipapicallback({"locality": "Lunenburg", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Concord", "Lunenburg"], "postal_code": "05906", "lat": 44.458803, "lng": -71.7162, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.943964, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Rainbow City", "lng": -86.06154, "zip_code": "35906"});
+zipapicallback({"locality": "Rainbow City", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gadsden", "Rainbow City"], "postal_code": "35906", "lat": 33.943964, "lng": -86.06154, "type": "STANDARD", "counties": []});

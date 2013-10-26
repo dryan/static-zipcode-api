@@ -1,1 +1,1 @@
-{"lat": 33.67341, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Cedarbluff", "lng": -88.87957, "zip_code": "39741"}
+{"locality": "Cedarbluff", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Cedarbluff"], "postal_code": "39741", "lat": 33.67341, "lng": -88.87957, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clay"}]}

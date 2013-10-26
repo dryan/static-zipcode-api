@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.002861, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fowler", "lng": -104.03445, "zip_code": "81039"});
+zipapicallback({"locality": "Fowler", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fowler"], "postal_code": "81039", "lat": 38.002861, "lng": -104.03445, "type": "STANDARD", "counties": [{"fips": "089", "name": "Otero"}, {"fips": "025", "name": "Crowley"}, {"fips": "101", "name": "Pueblo"}, {"fips": "071", "name": "Las Animas"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.10223, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Alma", "lng": -93.53531, "zip_code": "64001"}
+{"locality": "Alma", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Alma"], "postal_code": "64001", "lat": 39.10223, "lng": -93.53531, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lafayette"}]}

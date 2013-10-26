@@ -1,1 +1,1 @@
-{"lat": 42.678023, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Leyden", "lng": -72.55569, "zip_code": "01337"}
+{"locality": "Bernardston", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Bernardston", "Leyden"], "postal_code": "01337", "lat": 42.678023, "lng": -72.55569, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]}

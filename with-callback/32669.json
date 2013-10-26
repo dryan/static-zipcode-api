@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.640613, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Newberry", "lng": -82.59446, "zip_code": "32669"});
+zipapicallback({"locality": "Newberry", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jonesville", "Newberry", "Tioga"], "postal_code": "32669", "lat": 29.640613, "lng": -82.59446, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alachua"}, {"fips": "041", "name": "Gilchrist"}, {"fips": "075", "name": "Levy"}]});

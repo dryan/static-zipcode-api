@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.181608, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Clallam Bay", "lng": -124.41188, "zip_code": "98326"});
+zipapicallback({"locality": "Clallam Bay", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Clallam Bay"], "postal_code": "98326", "lat": 48.181608, "lng": -124.41188, "type": "STANDARD", "counties": [{"fips": "009", "name": "Clallam"}]});

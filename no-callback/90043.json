@@ -1,1 +1,1 @@
-{"lat": 33.987463, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Angeles", "lng": -118.334, "zip_code": "90043"}
+{"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Angeles", "View Park", "Windsor Hills"], "postal_code": "90043", "lat": 33.987463, "lng": -118.334, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

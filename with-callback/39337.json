@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.527955, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Little Rock", "lng": -88.9952, "zip_code": "39337"});
+zipapicallback({"locality": "Little Rock", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Little Rock"], "postal_code": "39337", "lat": 32.527955, "lng": -88.9952, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}, {"fips": "099", "name": "Neshoba"}, {"fips": "075", "name": "Lauderdale"}]});

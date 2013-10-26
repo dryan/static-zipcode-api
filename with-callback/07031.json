@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.791895, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "North Arlington", "lng": -74.13254, "zip_code": "07031"});
+zipapicallback({"locality": "North Arlington", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["N Arlington", "North Arlington"], "postal_code": "07031", "lat": 40.791895, "lng": -74.13254, "type": "STANDARD", "counties": []});

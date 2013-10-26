@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.21968, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Vick", "lng": -92.07345, "zip_code": "71331"});
+zipapicallback({"locality": "Effie", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Effie", "Vick"], "postal_code": "71331", "lat": 31.21968, "lng": -92.07345, "type": "STANDARD", "counties": [{"fips": "009", "name": "Avoyelles"}]});

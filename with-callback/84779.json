@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.294867, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Virgin", "lng": -113.10279, "zip_code": "84779"});
+zipapicallback({"locality": "Virgin", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Springdale", "Virgin"], "postal_code": "84779", "lat": 37.294867, "lng": -113.10279, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]});

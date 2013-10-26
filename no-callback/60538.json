@@ -1,1 +1,1 @@
-{"lat": 41.721886, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Montgomery", "lng": -88.32972, "zip_code": "60538"}
+{"locality": "Montgomery", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Montgmry", "Montgomery"], "postal_code": "60538", "lat": 41.721886, "lng": -88.32972, "type": "STANDARD", "counties": [{"fips": "093", "name": "Kendall"}, {"fips": "089", "name": "Kane"}]}

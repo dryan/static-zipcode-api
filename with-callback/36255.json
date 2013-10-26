@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.185338, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cragford", "lng": -85.72548, "zip_code": "36255"});
+zipapicallback({"locality": "Cragford", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Cragford"], "postal_code": "36255", "lat": 33.185338, "lng": -85.72548, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "123", "name": "Tallapoosa"}, {"fips": "111", "name": "Randolph"}]});

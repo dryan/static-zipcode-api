@@ -1,1 +1,1 @@
-{"lat": 39.971506, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Prospect", "lng": -76.5206, "zip_code": "17317"}
+{"locality": "East Prospect", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["East Prospect"], "postal_code": "17317", "lat": 39.971506, "lng": -76.5206, "type": "POBOX", "counties": [{"fips": "133", "name": "York"}]}

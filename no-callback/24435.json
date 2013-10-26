@@ -1,1 +1,1 @@
-{"lat": 37.871126, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fairfield", "lng": -79.29041, "zip_code": "24435"}
+{"locality": "Fairfield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fairfield"], "postal_code": "24435", "lat": 37.871126, "lng": -79.29041, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rockbridge"}]}

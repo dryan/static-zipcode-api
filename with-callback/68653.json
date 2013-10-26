@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.545453, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Platte Center", "lng": -97.48974, "zip_code": "68653"});
+zipapicallback({"locality": "Platte Center", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Platte Center"], "postal_code": "68653", "lat": 41.545453, "lng": -97.48974, "type": "STANDARD", "counties": [{"fips": "141", "name": "Platte"}]});

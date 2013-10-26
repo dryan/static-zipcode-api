@@ -1,1 +1,1 @@
-{"lat": 42.074435, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Joseph", "lng": -86.47935, "zip_code": "49085"}
+{"locality": "Saint Joseph", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Joseph", "Shoreham"], "postal_code": "49085", "lat": 42.074435, "lng": -86.47935, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}]}

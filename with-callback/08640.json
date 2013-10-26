@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.003861, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Fort Dix", "lng": -74.61775, "zip_code": "08640"});
+zipapicallback({"locality": "Fort Dix", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fort Dix"], "postal_code": "08640", "lat": 40.003861, "lng": -74.61775, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

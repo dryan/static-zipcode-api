@@ -1,1 +1,1 @@
-{"lat": 40.61579, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lawrence", "lng": -73.73126, "zip_code": "11559"}
+{"locality": "Lawrence", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lawrence"], "postal_code": "11559", "lat": 40.61579, "lng": -73.73126, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

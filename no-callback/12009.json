@@ -1,1 +1,1 @@
-{"lat": 42.698692, "region": {"abbr": "NY", "name": "New York"}, "locality": "Altamont", "lng": -74.03148, "zip_code": "12009"}
+{"locality": "Altamont", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Altamont"], "postal_code": "12009", "lat": 42.698692, "lng": -74.03148, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}, {"fips": "093", "name": "Schenectady"}]}

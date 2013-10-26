@@ -1,1 +1,1 @@
-{"lat": 42.176216, "region": {"abbr": "NY", "name": "New York"}, "locality": "Craryville", "lng": -73.65036, "zip_code": "12521"}
+{"locality": "Craryville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Craryville", "Taghkanic"], "postal_code": "12521", "lat": 42.176216, "lng": -73.65036, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

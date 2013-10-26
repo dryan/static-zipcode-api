@@ -1,1 +1,1 @@
-{"lat": 44.516368, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Buckley", "lng": -85.68623, "zip_code": "49620"}
+{"locality": "Buckley", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Buckley"], "postal_code": "49620", "lat": 44.516368, "lng": -85.68623, "type": "STANDARD", "counties": [{"fips": "165", "name": "Wexford"}, {"fips": "055", "name": "Grand Traverse"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.738551, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fenton", "lng": -90.06922, "zip_code": "61251"}
+{"locality": "Fenton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fenton"], "postal_code": "61251", "lat": 41.738551, "lng": -90.06922, "type": "STANDARD", "counties": [{"fips": "195", "name": "Whiteside"}, {"fips": "161", "name": "Rock Island"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.386373, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cedar Bluffs", "lng": -96.64986, "zip_code": "68015"});
+zipapicallback({"locality": "Cedar Bluffs", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cedar Bluffs"], "postal_code": "68015", "lat": 41.386373, "lng": -96.64986, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]});

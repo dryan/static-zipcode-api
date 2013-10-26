@@ -1,1 +1,1 @@
-{"lat": 41.108454, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mill Hall", "lng": -77.49516, "zip_code": "17751"}
+{"locality": "Mill Hall", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mill Hall"], "postal_code": "17751", "lat": 41.108454, "lng": -77.49516, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clinton"}]}

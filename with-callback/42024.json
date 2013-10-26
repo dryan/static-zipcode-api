@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.071352, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Barlow", "lng": -89.04326, "zip_code": "42024"});
+zipapicallback({"locality": "Barlow", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Barlow"], "postal_code": "42024", "lat": 37.071352, "lng": -89.04326, "type": "STANDARD", "counties": [{"fips": "007", "name": "Ballard"}]});

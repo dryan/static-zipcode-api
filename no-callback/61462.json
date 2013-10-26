@@ -1,1 +1,1 @@
-{"lat": 40.918849, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Monmouth", "lng": -90.64466, "zip_code": "61462"}
+{"locality": "Monmouth", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Monmouth"], "postal_code": "61462", "lat": 40.918849, "lng": -90.64466, "type": "STANDARD", "counties": [{"fips": "187", "name": "Warren"}, {"fips": "071", "name": "Henderson"}]}

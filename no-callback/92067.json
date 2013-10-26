@@ -1,1 +1,1 @@
-{"lat": 33.016492, "region": {"abbr": "CA", "name": "California"}, "locality": "Rancho Santa Fe", "lng": -117.20264, "zip_code": "92067"}
+{"locality": "Rancho Santa Fe", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rancho Santa Fe", "Rcho Santa Fe"], "postal_code": "92067", "lat": 33.016492, "lng": -117.20264, "type": "POBOX", "counties": [{"fips": "073", "name": "San Diego"}]}

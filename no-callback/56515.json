@@ -1,1 +1,1 @@
-{"lat": 46.284496, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Battle Lake", "lng": -95.70975, "zip_code": "56515"}
+{"locality": "Battle Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Battle Lake"], "postal_code": "56515", "lat": 46.284496, "lng": -95.70975, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]}

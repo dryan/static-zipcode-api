@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.737104, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lake Lynn", "lng": -79.83613, "zip_code": "15451"});
+zipapicallback({"locality": "Lake Lynn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lake Lynn"], "postal_code": "15451", "lat": 39.737104, "lng": -79.83613, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.795417, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Keweenaw Bay", "lng": -88.52645, "zip_code": "49908"}
+{"locality": "Baraga", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Baraga", "Keweenaw Bay"], "postal_code": "49908", "lat": 46.795417, "lng": -88.52645, "type": "STANDARD", "counties": [{"fips": "013", "name": "Baraga"}]}

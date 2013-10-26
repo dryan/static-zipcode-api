@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.940693, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mitchell", "lng": -103.78815, "zip_code": "69357"});
+zipapicallback({"locality": "Mitchell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mitchell"], "postal_code": "69357", "lat": 41.940693, "lng": -103.78815, "type": "STANDARD", "counties": [{"fips": "157", "name": "Scotts Bluff"}]});

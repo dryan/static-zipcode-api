@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.763899, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Racine", "lng": -80.33572, "zip_code": "15010"});
+zipapicallback({"locality": "Beaver Falls", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Beaver Falls", "Patterson Heights", "Patterson Hts", "Racine"], "postal_code": "15010", "lat": 40.763899, "lng": -80.33572, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}, {"fips": "003", "name": "Allegheny"}]});

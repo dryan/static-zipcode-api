@@ -1,1 +1,1 @@
-{"lat": 38.7475, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bristow", "lng": -77.56917, "zip_code": "20136"}
+{"locality": "Bristow", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bristow"], "postal_code": "20136", "lat": 38.7475, "lng": -77.56917, "type": "STANDARD", "counties": []}

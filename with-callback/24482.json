@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.19958, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Verona", "lng": -78.99553, "zip_code": "24482"});
+zipapicallback({"locality": "Verona", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Verona"], "postal_code": "24482", "lat": 38.19958, "lng": -78.99553, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

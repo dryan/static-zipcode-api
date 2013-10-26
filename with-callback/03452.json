@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.827096, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Jaffrey", "lng": -72.03418, "zip_code": "03452"});
+zipapicallback({"locality": "Jaffrey", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Jaffrey"], "postal_code": "03452", "lat": 42.827096, "lng": -72.03418, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]});

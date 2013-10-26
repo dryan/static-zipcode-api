@@ -1,1 +1,1 @@
-{"lat": 42.713888, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Trail", "lng": -122.7541, "zip_code": "97541"}
+{"locality": "Trail", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Trail"], "postal_code": "97541", "lat": 42.713888, "lng": -122.7541, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]}

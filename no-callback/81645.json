@@ -1,1 +1,1 @@
-{"lat": 39.459323, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Minturn", "lng": -106.37859, "zip_code": "81645"}
+{"locality": "Minturn", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Gilman", "Minturn"], "postal_code": "81645", "lat": 39.459323, "lng": -106.37859, "type": "POBOX", "counties": [{"fips": "037", "name": "Eagle"}]}

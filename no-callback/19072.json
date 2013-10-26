@@ -1,1 +1,1 @@
-{"lat": 40.014541, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Narberth", "lng": -75.25805, "zip_code": "19072"}
+{"locality": "Narberth", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Narberth", "Penn Valley"], "postal_code": "19072", "lat": 40.014541, "lng": -75.25805, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

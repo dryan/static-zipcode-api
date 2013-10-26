@@ -1,1 +1,1 @@
-{"lat": 33.705904, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Whitesboro", "lng": -96.91786, "zip_code": "76273"}
+{"locality": "Whitesboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Whitesboro"], "postal_code": "76273", "lat": 33.705904, "lng": -96.91786, "type": "STANDARD", "counties": [{"fips": "181", "name": "Grayson"}, {"fips": "097", "name": "Cooke"}]}

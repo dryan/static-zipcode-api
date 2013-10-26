@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.324259, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Tyaskin", "lng": -75.87793, "zip_code": "21865"});
+zipapicallback({"locality": "Tyaskin", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Tyaskin"], "postal_code": "21865", "lat": 38.324259, "lng": -75.87793, "type": "STANDARD", "counties": [{"fips": "045", "name": "Wicomico"}]});

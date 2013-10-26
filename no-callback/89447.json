@@ -1,1 +1,1 @@
-{"lat": 38.94675, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Yerington", "lng": -119.11544, "zip_code": "89447"}
+{"locality": "Yerington", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Yerington"], "postal_code": "89447", "lat": 38.94675, "lng": -119.11544, "type": "STANDARD", "counties": [{"fips": "019", "name": "Lyon"}]}

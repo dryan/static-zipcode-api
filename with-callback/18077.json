@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.576989, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Riegelsville", "lng": -75.22121, "zip_code": "18077"});
+zipapicallback({"locality": "Riegelsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Riegelsville"], "postal_code": "18077", "lat": 40.576989, "lng": -75.22121, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}, {"fips": "095", "name": "Northampton"}]});

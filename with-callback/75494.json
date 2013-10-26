@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.922912, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Winnsboro", "lng": -95.28299, "zip_code": "75494"});
+zipapicallback({"locality": "Winnsboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Winnsboro"], "postal_code": "75494", "lat": 32.922912, "lng": -95.28299, "type": "STANDARD", "counties": [{"fips": "499", "name": "Wood"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.261359, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dollarway", "lng": -92.09592, "zip_code": "71602"}
+{"locality": "White Hall", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pine Bluff", "White Hall"], "postal_code": "71602", "lat": 34.261359, "lng": -92.09592, "type": "STANDARD", "counties": [{"fips": "069", "name": "Jefferson"}, {"fips": "053", "name": "Grant"}]}

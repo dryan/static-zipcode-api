@@ -1,1 +1,1 @@
-{"lat": 36.557892, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Grassy Creek", "lng": -81.42635, "zip_code": "28631"}
+{"locality": "Grassy Creek", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Grassy Creek"], "postal_code": "28631", "lat": 36.557892, "lng": -81.42635, "type": "STANDARD", "counties": [{"fips": "009", "name": "Ashe"}]}

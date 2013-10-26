@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.971224, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Leesburg", "lng": -95.11339, "zip_code": "75451"});
+zipapicallback({"locality": "Leesburg", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Leesburg"], "postal_code": "75451", "lat": 32.971224, "lng": -95.11339, "type": "STANDARD", "counties": [{"fips": "063", "name": "Camp"}, {"fips": "459", "name": "Upshur"}, {"fips": "499", "name": "Wood"}]});

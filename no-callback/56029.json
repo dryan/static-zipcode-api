@@ -1,1 +1,1 @@
-{"lat": 43.516115, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Emmons", "lng": -93.51768, "zip_code": "56029"}
+{"locality": "Emmons", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Emmons"], "postal_code": "56029", "lat": 43.516115, "lng": -93.51768, "type": "STANDARD", "counties": [{"fips": "047", "name": "Freeborn"}]}

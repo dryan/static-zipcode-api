@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.477187, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Philadelphia", "lng": -81.44439, "zip_code": "44663"});
+zipapicallback({"locality": "New Philadelphia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Phila", "New Philadelphia"], "postal_code": "44663", "lat": 40.477187, "lng": -81.44439, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}]});

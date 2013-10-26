@@ -1,1 +1,1 @@
-{"lat": 38.810071, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Harveyville", "lng": -95.98397, "zip_code": "66431"}
+{"locality": "Harveyville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Harveyville"], "postal_code": "66431", "lat": 38.810071, "lng": -95.98397, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wabaunsee"}]}

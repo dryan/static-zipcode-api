@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.625144, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Elmore City", "lng": -97.39901, "zip_code": "73433"});
+zipapicallback({"locality": "Elmore City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Elmore City", "Pernell"], "postal_code": "73433", "lat": 34.625144, "lng": -97.39901, "type": "STANDARD", "counties": []});

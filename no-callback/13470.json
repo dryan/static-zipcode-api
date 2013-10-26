@@ -1,1 +1,1 @@
-{"lat": 43.180412, "region": {"abbr": "NY", "name": "New York"}, "locality": "Stratford", "lng": -74.66524, "zip_code": "13470"}
+{"locality": "Stratford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Stratford"], "postal_code": "13470", "lat": 43.180412, "lng": -74.66524, "type": "STANDARD", "counties": [{"fips": "035", "name": "Fulton"}, {"fips": "043", "name": "Herkimer"}]}

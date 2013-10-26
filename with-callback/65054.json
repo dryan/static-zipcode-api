@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.483274, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Loose Creek", "lng": -91.95135, "zip_code": "65054"});
+zipapicallback({"locality": "Loose Creek", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Loose Creek"], "postal_code": "65054", "lat": 38.483274, "lng": -91.95135, "type": "STANDARD", "counties": [{"fips": "151", "name": "Osage"}]});

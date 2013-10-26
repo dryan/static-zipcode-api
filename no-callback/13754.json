@@ -1,1 +1,1 @@
-{"lat": 42.076427, "region": {"abbr": "NY", "name": "New York"}, "locality": "Deposit", "lng": -75.44551, "zip_code": "13754"}
+{"locality": "Deposit", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Deposit"], "postal_code": "13754", "lat": 42.076427, "lng": -75.44551, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}, {"fips": "025", "name": "Delaware"}]}

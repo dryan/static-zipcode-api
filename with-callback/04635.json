@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.124476, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Frenchboro", "lng": -68.34995, "zip_code": "04635"});
+zipapicallback({"locality": "Frenchboro", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Frenchboro"], "postal_code": "04635", "lat": 44.124476, "lng": -68.34995, "type": "POBOX", "counties": [{"fips": "027", "name": "Waldo"}]});

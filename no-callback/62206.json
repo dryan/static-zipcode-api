@@ -1,1 +1,1 @@
-{"lat": 38.564451, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cahokia", "lng": -90.1628, "zip_code": "62206"}
+{"locality": "East Saint Louis", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cahokia", "E Saint Louis", "East Saint Louis", "Sauget"], "postal_code": "62206", "lat": 38.564451, "lng": -90.1628, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

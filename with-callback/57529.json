@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.263007, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Dallas", "lng": -99.5615, "zip_code": "57529"});
+zipapicallback({"locality": "Dallas", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Dallas", "Dixon"], "postal_code": "57529", "lat": 43.263007, "lng": -99.5615, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gregory"}, {"fips": "123", "name": "Tripp"}]});

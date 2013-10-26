@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.208288, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Oasis", "lng": -114.86098, "zip_code": "89835"});
+zipapicallback({"locality": "Wells", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Oasis", "Wells"], "postal_code": "89835", "lat": 41.208288, "lng": -114.86098, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]});

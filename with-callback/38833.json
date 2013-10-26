@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.835384, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Burnsville", "lng": -88.32784, "zip_code": "38833"});
+zipapicallback({"locality": "Burnsville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Burnsville"], "postal_code": "38833", "lat": 34.835384, "lng": -88.32784, "type": "STANDARD", "counties": [{"fips": "141", "name": "Tishomingo"}, {"fips": "003", "name": "Alcorn"}, {"fips": "117", "name": "Prentiss"}]});

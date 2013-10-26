@@ -1,1 +1,1 @@
-{"lat": 42.100539, "region": {"abbr": "NY", "name": "New York"}, "locality": "Steamburg", "lng": -78.87967, "zip_code": "14783"}
+{"locality": "Steamburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Steamburg"], "postal_code": "14783", "lat": 42.100539, "lng": -78.87967, "type": "POBOX", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.788733, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Livingston", "lng": -74.32134, "zip_code": "07039"}
+{"locality": "Livingston", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Livingston"], "postal_code": "07039", "lat": 40.788733, "lng": -74.32134, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

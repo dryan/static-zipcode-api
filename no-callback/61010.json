@@ -1,1 +1,1 @@
-{"lat": 42.131245, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Byron", "lng": -89.26637, "zip_code": "61010"}
+{"locality": "Byron", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Byron"], "postal_code": "61010", "lat": 42.131245, "lng": -89.26637, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}]}

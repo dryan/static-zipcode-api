@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.547517, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fort Shaw", "lng": -111.82545, "zip_code": "59443"});
+zipapicallback({"locality": "Fort Shaw", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fort Shaw"], "postal_code": "59443", "lat": 47.547517, "lng": -111.82545, "type": "STANDARD", "counties": [{"fips": "013", "name": "Cascade"}]});

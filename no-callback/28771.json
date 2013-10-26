@@ -1,1 +1,1 @@
-{"lat": 35.345611, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Robbinsville", "lng": -83.79634, "zip_code": "28771"}
+{"locality": "Robbinsville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lake Santeetlah", "Lk Santeetlah", "Robbinsville", "Tapoco"], "postal_code": "28771", "lat": 35.345611, "lng": -83.79634, "type": "STANDARD", "counties": [{"fips": "075", "name": "Graham"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.247648, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cohasset", "lng": -93.66491, "zip_code": "55721"});
+zipapicallback({"locality": "Cohasset", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cohasset"], "postal_code": "55721", "lat": 47.247648, "lng": -93.66491, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]});

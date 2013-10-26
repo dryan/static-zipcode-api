@@ -1,1 +1,1 @@
-{"lat": 41.695434, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chicago", "lng": -87.62255, "zip_code": "60628"}
+{"locality": "Chicago", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chicago"], "postal_code": "60628", "lat": 41.695434, "lng": -87.62255, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

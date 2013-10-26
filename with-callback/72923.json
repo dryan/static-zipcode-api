@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.332908, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Barling", "lng": -94.30853, "zip_code": "72923"});
+zipapicallback({"locality": "Barling", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Barling"], "postal_code": "72923", "lat": 35.332908, "lng": -94.30853, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}]});

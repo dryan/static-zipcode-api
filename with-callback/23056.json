@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.383629, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Foster", "lng": -76.36167, "zip_code": "23056"});
+zipapicallback({"locality": "Foster", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Foster", "Mobjack"], "postal_code": "23056", "lat": 37.383629, "lng": -76.36167, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]});

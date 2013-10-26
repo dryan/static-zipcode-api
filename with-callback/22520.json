@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.129822, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Montross", "lng": -76.76155, "zip_code": "22520"});
+zipapicallback({"locality": "Montross", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Montross"], "postal_code": "22520", "lat": 38.129822, "lng": -76.76155, "type": "STANDARD", "counties": [{"fips": "193", "name": "Westmoreland"}]});

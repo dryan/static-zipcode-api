@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.468077, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Earlham", "lng": -94.12488, "zip_code": "50072"});
+zipapicallback({"locality": "Earlham", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Earlham"], "postal_code": "50072", "lat": 41.468077, "lng": -94.12488, "type": "STANDARD", "counties": [{"fips": "121", "name": "Madison"}, {"fips": "049", "name": "Dallas"}]});

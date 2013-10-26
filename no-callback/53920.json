@@ -1,1 +1,1 @@
-{"lat": 43.660412, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Briggsville", "lng": -89.59309, "zip_code": "53920"}
+{"locality": "Briggsville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Briggsville"], "postal_code": "53920", "lat": 43.660412, "lng": -89.59309, "type": "STANDARD", "counties": [{"fips": "077", "name": "Marquette"}, {"fips": "001", "name": "Adams"}]}

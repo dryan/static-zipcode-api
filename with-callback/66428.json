@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.671207, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Goff", "lng": -95.92512, "zip_code": "66428"});
+zipapicallback({"locality": "Goff", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Goff"], "postal_code": "66428", "lat": 39.671207, "lng": -95.92512, "type": "STANDARD", "counties": [{"fips": "131", "name": "Nemaha"}]});

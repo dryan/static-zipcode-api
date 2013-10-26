@@ -1,1 +1,1 @@
-{"lat": 62.12042, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Glennallen", "lng": -145.58592, "zip_code": "99588"}
+{"locality": "Glennallen", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Glennallen"], "postal_code": "99588", "lat": 62.12042, "lng": -145.58592, "type": "STANDARD", "counties": [{"fips": "261", "name": "Valdez-Cordova"}]}

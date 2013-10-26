@@ -1,1 +1,1 @@
-{"lat": 38.854653, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Tallmansville", "lng": -80.15531, "zip_code": "26237"}
+{"locality": "Tallmansville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Tallmansville"], "postal_code": "26237", "lat": 38.854653, "lng": -80.15531, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}]}

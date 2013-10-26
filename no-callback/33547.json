@@ -1,1 +1,1 @@
-{"lat": 27.788498, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lithia", "lng": -82.1508, "zip_code": "33547"}
+{"locality": "Lithia", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lithia"], "postal_code": "33547", "lat": 27.788498, "lng": -82.1508, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}, {"fips": "105", "name": "Polk"}]}

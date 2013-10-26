@@ -1,1 +1,1 @@
-{"lat": 38.585719, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Leeton", "lng": -93.68518, "zip_code": "64761"}
+{"locality": "Leeton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Leeton"], "postal_code": "64761", "lat": 38.585719, "lng": -93.68518, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnson"}, {"fips": "083", "name": "Henry"}]}

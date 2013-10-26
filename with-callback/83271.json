@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.542266, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Rockland", "lng": -112.84484, "zip_code": "83271"});
+zipapicallback({"locality": "Rockland", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Rockland"], "postal_code": "83271", "lat": 42.542266, "lng": -112.84484, "type": "STANDARD", "counties": [{"fips": "077", "name": "Power"}]});

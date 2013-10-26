@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.063264, "region": {"abbr": "CA", "name": "California"}, "locality": "Redlands", "lng": -117.16888, "zip_code": "92374"});
+zipapicallback({"locality": "Redlands", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Redlands"], "postal_code": "92374", "lat": 34.063264, "lng": -117.16888, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

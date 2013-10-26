@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.249734, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Batson", "lng": -94.60291, "zip_code": "77519"});
+zipapicallback({"locality": "Batson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Batson"], "postal_code": "77519", "lat": 30.249734, "lng": -94.60291, "type": "STANDARD", "counties": [{"fips": "199", "name": "Hardin"}]});

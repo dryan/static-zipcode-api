@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.966266, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Johnsonburg", "lng": -74.87979, "zip_code": "07846"});
+zipapicallback({"locality": "Johnsonburg", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Johnsonburg"], "postal_code": "07846", "lat": 40.966266, "lng": -74.87979, "type": "POBOX", "counties": [{"fips": "041", "name": "Warren"}]});

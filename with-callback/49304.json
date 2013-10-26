@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.895264, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Baldwin", "lng": -85.88157, "zip_code": "49304"});
+zipapicallback({"locality": "Baldwin", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Baldwin"], "postal_code": "49304", "lat": 43.895264, "lng": -85.88157, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lake"}]});

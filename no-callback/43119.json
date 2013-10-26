@@ -1,1 +1,1 @@
-{"lat": 39.939871, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Galloway", "lng": -83.1667, "zip_code": "43119"}
+{"locality": "Galloway", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Galloway"], "postal_code": "43119", "lat": 39.939871, "lng": -83.1667, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}, {"fips": "097", "name": "Madison"}]}

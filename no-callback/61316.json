@@ -1,1 +1,1 @@
-{"lat": 41.261853, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cedar Point", "lng": -89.12523, "zip_code": "61316"}
+{"locality": "Cedar Point", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cedar Point"], "postal_code": "61316", "lat": 41.261853, "lng": -89.12523, "type": "POBOX", "counties": [{"fips": "099", "name": "La Salle"}]}

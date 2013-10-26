@@ -1,1 +1,1 @@
-{"lat": 43.85672, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pigeon", "lng": -83.28557, "zip_code": "48755"}
+{"locality": "Pigeon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pigeon", "Sand Point"], "postal_code": "48755", "lat": 43.85672, "lng": -83.28557, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]}

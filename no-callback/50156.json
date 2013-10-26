@@ -1,1 +1,1 @@
-{"lat": 41.877415, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Madrid", "lng": -93.79925, "zip_code": "50156"}
+{"locality": "Madrid", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Madrid"], "postal_code": "50156", "lat": 41.877415, "lng": -93.79925, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}, {"fips": "049", "name": "Dallas"}, {"fips": "153", "name": "Polk"}, {"fips": "169", "name": "Story"}]}

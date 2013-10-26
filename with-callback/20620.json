@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.226406, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Callaway", "lng": -76.51759, "zip_code": "20620"});
+zipapicallback({"locality": "Callaway", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Callaway"], "postal_code": "20620", "lat": 38.226406, "lng": -76.51759, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.578302, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Lake Norden", "lng": -97.18354, "zip_code": "57248"});
+zipapicallback({"locality": "Lake Norden", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Lake Norden"], "postal_code": "57248", "lat": 44.578302, "lng": -97.18354, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamlin"}, {"fips": "077", "name": "Kingsbury"}]});

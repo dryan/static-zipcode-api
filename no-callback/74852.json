@@ -1,1 +1,1 @@
-{"lat": 35.123383, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Macomb", "lng": -97.00869, "zip_code": "74852"}
+{"locality": "Macomb", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Macomb"], "postal_code": "74852", "lat": 35.123383, "lng": -97.00869, "type": "STANDARD", "counties": [{"fips": "125", "name": "Pottawatomie"}]}

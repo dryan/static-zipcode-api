@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.453553, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Pine Haven", "lng": -104.92334, "zip_code": "82721"});
+zipapicallback({"locality": "Moorcroft", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Carlile", "Moorcroft", "Oshoto", "Pine Haven"], "postal_code": "82721", "lat": 44.453553, "lng": -104.92334, "type": "STANDARD", "counties": [{"fips": "011", "name": "Crook"}, {"fips": "005", "name": "Campbell"}]});

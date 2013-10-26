@@ -1,1 +1,1 @@
-{"lat": 41.350484, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Beecher", "lng": -87.62408, "zip_code": "60401"}
+{"locality": "Beecher", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Beecher"], "postal_code": "60401", "lat": 41.350484, "lng": -87.62408, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}]}

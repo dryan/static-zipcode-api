@@ -1,1 +1,1 @@
-{"lat": 35.311862, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mount Holly", "lng": -81.02441, "zip_code": "28120"}
+{"locality": "Mount Holly", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mount Holly", "Mt Holly"], "postal_code": "28120", "lat": 35.311862, "lng": -81.02441, "type": "STANDARD", "counties": [{"fips": "071", "name": "Gaston"}]}

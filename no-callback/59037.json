@@ -1,1 +1,1 @@
-{"lat": 45.862261, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Huntley", "lng": -108.29474, "zip_code": "59037"}
+{"locality": "Huntley", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Huntley"], "postal_code": "59037", "lat": 45.862261, "lng": -108.29474, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]}

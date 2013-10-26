@@ -1,1 +1,1 @@
-{"lat": 40.616696, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "College Springs", "lng": -95.11568, "zip_code": "51637"}
+{"locality": "College Springs", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["College Sprgs", "College Springs"], "postal_code": "51637", "lat": 40.616696, "lng": -95.11568, "type": "POBOX", "counties": [{"fips": "145", "name": "Page"}]}

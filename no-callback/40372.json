@@ -1,1 +1,1 @@
-{"lat": 37.911825, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bondville", "lng": -84.88657, "zip_code": "40372"}
+{"locality": "Salvisa", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bondville", "Salvisa"], "postal_code": "40372", "lat": 37.911825, "lng": -84.88657, "type": "STANDARD", "counties": [{"fips": "167", "name": "Mercer"}, {"fips": "005", "name": "Anderson"}]}

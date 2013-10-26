@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.550348, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Union Gap", "lng": -120.62097, "zip_code": "98903"});
+zipapicallback({"locality": "Yakima", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Union Gap", "Yakima"], "postal_code": "98903", "lat": 46.550348, "lng": -120.62097, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]});

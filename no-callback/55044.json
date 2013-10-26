@@ -1,1 +1,1 @@
-{"lat": 44.669564, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lakeville", "lng": -93.26654, "zip_code": "55044"}
+{"locality": "Lakeville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lakeville"], "postal_code": "55044", "lat": 44.669564, "lng": -93.26654, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "139", "name": "Scott"}]}

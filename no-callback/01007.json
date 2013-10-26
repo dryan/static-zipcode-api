@@ -1,1 +1,1 @@
-{"lat": 42.278424, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Belchertown", "lng": -72.411, "zip_code": "01007"}
+{"locality": "Belchertown", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Belchertown"], "postal_code": "01007", "lat": 42.278424, "lng": -72.411, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]}

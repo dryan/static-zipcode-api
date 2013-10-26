@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.40422, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Cavendish", "lng": -72.59048, "zip_code": "05142"});
+zipapicallback({"locality": "Cavendish", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Cavendish"], "postal_code": "05142", "lat": 43.40422, "lng": -72.59048, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

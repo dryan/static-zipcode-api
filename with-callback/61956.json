@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.858506, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Villa Grove", "lng": -88.15018, "zip_code": "61956"});
+zipapicallback({"locality": "Villa Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Villa Grove"], "postal_code": "61956", "lat": 39.858506, "lng": -88.15018, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "019", "name": "Champaign"}]});

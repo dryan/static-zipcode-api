@@ -1,1 +1,1 @@
-{"lat": 36.531635, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Myrtle", "lng": -91.29933, "zip_code": "65778"}
+{"locality": "Myrtle", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Myrtle"], "postal_code": "65778", "lat": 36.531635, "lng": -91.29933, "type": "STANDARD", "counties": [{"fips": "149", "name": "Oregon"}]}

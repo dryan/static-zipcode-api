@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.702793, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Milton", "lng": -85.37187, "zip_code": "40045"});
+zipapicallback({"locality": "Milton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Locust", "Milton"], "postal_code": "40045", "lat": 38.702793, "lng": -85.37187, "type": "STANDARD", "counties": [{"fips": "223", "name": "Trimble"}, {"fips": "041", "name": "Carroll"}]});

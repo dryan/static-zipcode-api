@@ -1,1 +1,1 @@
-{"lat": 44.456022, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Kewaunee", "lng": -87.54429, "zip_code": "54216"}
+{"locality": "Kewaunee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kewaunee"], "postal_code": "54216", "lat": 44.456022, "lng": -87.54429, "type": "STANDARD", "counties": [{"fips": "061", "name": "Kewaunee"}]}

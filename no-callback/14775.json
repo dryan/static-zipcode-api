@@ -1,1 +1,1 @@
-{"lat": 42.254906, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ripley", "lng": -79.69185, "zip_code": "14775"}
+{"locality": "Ripley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ripley"], "postal_code": "14775", "lat": 42.254906, "lng": -79.69185, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]}

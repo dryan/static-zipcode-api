@@ -1,1 +1,1 @@
-{"lat": 36.002113, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tohatchi", "lng": -108.6655, "zip_code": "87325"}
+{"locality": "Tohatchi", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tohatchi"], "postal_code": "87325", "lat": 36.002113, "lng": -108.6655, "type": "STANDARD", "counties": [{"fips": "045", "name": "San Juan"}]}

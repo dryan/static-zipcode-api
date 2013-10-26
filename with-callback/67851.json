@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.089121, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Holcomb", "lng": -101.01535, "zip_code": "67851"});
+zipapicallback({"locality": "Holcomb", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Holcomb"], "postal_code": "67851", "lat": 38.089121, "lng": -101.01535, "type": "STANDARD", "counties": [{"fips": "055", "name": "Finney"}, {"fips": "171", "name": "Scott"}, {"fips": "093", "name": "Kearny"}]});

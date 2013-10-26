@@ -1,1 +1,1 @@
-{"lat": 40.619174, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mapleton", "lng": -89.72628, "zip_code": "61547"}
+{"locality": "Mapleton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mapleton"], "postal_code": "61547", "lat": 40.619174, "lng": -89.72628, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}]}

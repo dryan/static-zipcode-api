@@ -1,1 +1,1 @@
-{"lat": 40.700574, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Starford", "lng": -78.95812, "zip_code": "15777"}
+{"locality": "Starford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Starford"], "postal_code": "15777", "lat": 40.700574, "lng": -78.95812, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.976839, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bessemer", "lng": -80.49346, "zip_code": "16112"});
+zipapicallback({"locality": "Bessemer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bessemer"], "postal_code": "16112", "lat": 40.976839, "lng": -80.49346, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}]});

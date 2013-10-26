@@ -1,1 +1,1 @@
-{"lat": 29.898176, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Spring Branch", "lng": -98.40135, "zip_code": "78070"}
+{"locality": "Spring Branch", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Spring Branch"], "postal_code": "78070", "lat": 29.898176, "lng": -98.40135, "type": "STANDARD", "counties": [{"fips": "091", "name": "Comal"}]}

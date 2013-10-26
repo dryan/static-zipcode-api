@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.313329, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wellesley Hills", "lng": -71.27649, "zip_code": "02481"});
+zipapicallback({"locality": "Wellesley Hills", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wellesley", "Wellesley Hills", "Wellesley Hls"], "postal_code": "02481", "lat": 42.313329, "lng": -71.27649, "type": "STANDARD", "counties": []});

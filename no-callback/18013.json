@@ -1,1 +1,1 @@
-{"lat": 40.863124, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Roseto", "lng": -75.19004, "zip_code": "18013"}
+{"locality": "Bangor", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bangor", "East Bangor", "Roseto"], "postal_code": "18013", "lat": 40.863124, "lng": -75.19004, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.729278, "region": {"abbr": "NY", "name": "New York"}, "locality": "Watervliet", "lng": -73.70913, "zip_code": "12189"}
+{"locality": "Watervliet", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Watervliet"], "postal_code": "12189", "lat": 42.729278, "lng": -73.70913, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

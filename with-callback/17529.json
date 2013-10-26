@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.0348, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gordonville", "lng": -76.11175, "zip_code": "17529"});
+zipapicallback({"locality": "Gordonville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gordonville"], "postal_code": "17529", "lat": 40.0348, "lng": -76.11175, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.43378, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pleasant Hope", "lng": -93.26457, "zip_code": "65725"});
+zipapicallback({"locality": "Pleasant Hope", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pleasant Hope"], "postal_code": "65725", "lat": 37.43378, "lng": -93.26457, "type": "STANDARD", "counties": [{"fips": "167", "name": "Polk"}, {"fips": "077", "name": "Greene"}]});

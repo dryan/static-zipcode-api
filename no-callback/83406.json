@@ -1,1 +1,1 @@
-{"lat": 43.458004, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Idaho Falls", "lng": -111.95925, "zip_code": "83406"}
+{"locality": "Idaho Falls", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Ammon", "Idaho Falls"], "postal_code": "83406", "lat": 43.458004, "lng": -111.95925, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bonneville"}]}

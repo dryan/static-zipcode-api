@@ -1,1 +1,1 @@
-{"lat": 33.76993, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Alcolu", "lng": -80.17278, "zip_code": "29001"}
+{"locality": "Alcolu", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Alcolu"], "postal_code": "29001", "lat": 33.76993, "lng": -80.17278, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clarendon"}, {"fips": "085", "name": "Sumter"}]}

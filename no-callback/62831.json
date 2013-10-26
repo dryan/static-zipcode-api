@@ -1,1 +1,1 @@
-{"lat": 38.22669, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Du Bois", "lng": -89.20884, "zip_code": "62831"}
+{"locality": "Du Bois", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Du Bois"], "postal_code": "62831", "lat": 38.22669, "lng": -89.20884, "type": "STANDARD", "counties": [{"fips": "189", "name": "Washington"}, {"fips": "145", "name": "Perry"}, {"fips": "081", "name": "Jefferson"}]}

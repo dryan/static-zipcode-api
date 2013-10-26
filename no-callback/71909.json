@@ -1,1 +1,1 @@
-{"lat": 34.657742, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hot Springs Vill", "lng": -92.9811, "zip_code": "71909"}
+{"locality": "Hot Springs Village", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hot Springs", "Hot Springs National Park", "Hot Springs Village"], "postal_code": "71909", "lat": 34.657742, "lng": -92.9811, "type": "STANDARD", "counties": [{"fips": "051", "name": "Garland"}, {"fips": "125", "name": "Saline"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.956206, "region": {"abbr": "CA", "name": "California"}, "locality": "Clearlake", "lng": -122.63523, "zip_code": "95422"}
+{"locality": "Clearlake", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clearlake"], "postal_code": "95422", "lat": 38.956206, "lng": -122.63523, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]}

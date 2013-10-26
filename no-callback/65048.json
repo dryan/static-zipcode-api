@@ -1,1 +1,1 @@
-{"lat": 38.364291, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Koeltztown", "lng": -92.00546, "zip_code": "65048"}
+{"locality": "Koeltztown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Koeltztown"], "postal_code": "65048", "lat": 38.364291, "lng": -92.00546, "type": "STANDARD", "counties": [{"fips": "151", "name": "Osage"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.495384, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ellsworth", "lng": -95.90691, "zip_code": "56129"});
+zipapicallback({"locality": "Ellsworth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ellsworth"], "postal_code": "56129", "lat": 43.495384, "lng": -95.90691, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}, {"fips": "083", "name": "Lyon"}, {"fips": "133", "name": "Rock"}]});

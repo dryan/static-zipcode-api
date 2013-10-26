@@ -1,1 +1,1 @@
-{"lat": 36.799869, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fairview", "lng": -94.10161, "zip_code": "64842"}
+{"locality": "Fairview", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fairview"], "postal_code": "64842", "lat": 36.799869, "lng": -94.10161, "type": "STANDARD", "counties": [{"fips": "145", "name": "Newton"}, {"fips": "119", "name": "McDonald"}, {"fips": "009", "name": "Barry"}]}

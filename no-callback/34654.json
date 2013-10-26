@@ -1,1 +1,1 @@
-{"lat": 28.295714, "region": {"abbr": "FL", "name": "Florida"}, "locality": "New Port Richey", "lng": -82.61782, "zip_code": "34654"}
+{"locality": "New Port Richey", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["New Port Richey", "New Prt Rchy", "New Pt Richey"], "postal_code": "34654", "lat": 28.295714, "lng": -82.61782, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pasco"}]}

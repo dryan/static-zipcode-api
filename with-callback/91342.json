@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.307877, "region": {"abbr": "CA", "name": "California"}, "locality": "Sylmar", "lng": -118.42904, "zip_code": "91342"});
+zipapicallback({"locality": "Sylmar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kagel Canyon", "Lake View Ter", "Lake View Terrace", "Sylmar"], "postal_code": "91342", "lat": 34.307877, "lng": -118.42904, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

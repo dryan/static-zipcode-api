@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.8376, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brisbin", "lng": -78.3527, "zip_code": "16620"});
+zipapicallback({"locality": "Brisbin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brisbin"], "postal_code": "16620", "lat": 40.8376, "lng": -78.3527, "type": "POBOX", "counties": [{"fips": "033", "name": "Clearfield"}]});

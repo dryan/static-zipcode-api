@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.326236, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Drummond", "lng": -91.29643, "zip_code": "54832"});
+zipapicallback({"locality": "Drummond", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Drummond"], "postal_code": "54832", "lat": 46.326236, "lng": -91.29643, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bayfield"}]});

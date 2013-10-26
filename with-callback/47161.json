@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.312878, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Salisbury", "lng": -86.09478, "zip_code": "47161"});
+zipapicallback({"locality": "New Salisbury", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Salisbury"], "postal_code": "47161", "lat": 38.312878, "lng": -86.09478, "type": "STANDARD", "counties": [{"fips": "061", "name": "Harrison"}]});

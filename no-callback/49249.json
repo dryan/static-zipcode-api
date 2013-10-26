@@ -1,1 +1,1 @@
-{"lat": 42.048979, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Jerome", "lng": -84.4396, "zip_code": "49249"}
+{"locality": "Jerome", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Jerome"], "postal_code": "49249", "lat": 42.048979, "lng": -84.4396, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hillsdale"}, {"fips": "075", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.747154, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Witts Springs", "lng": -92.90985, "zip_code": "72686"});
+zipapicallback({"locality": "Witts Springs", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Witts Springs"], "postal_code": "72686", "lat": 35.747154, "lng": -92.90985, "type": "STANDARD", "counties": [{"fips": "129", "name": "Searcy"}]});

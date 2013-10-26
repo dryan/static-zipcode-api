@@ -1,1 +1,1 @@
-{"lat": 41.194129, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Richland", "lng": -91.98027, "zip_code": "52585"}
+{"locality": "Richland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Richland", "Rubio"], "postal_code": "52585", "lat": 41.194129, "lng": -91.98027, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}]}

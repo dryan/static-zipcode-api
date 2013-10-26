@@ -1,1 +1,1 @@
-{"lat": 31.494144, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Provencal", "lng": -93.17508, "zip_code": "71468"}
+{"locality": "Provencal", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Provencal"], "postal_code": "71468", "lat": 31.494144, "lng": -93.17508, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.138575, "region": {"abbr": "CA", "name": "California"}, "locality": "Upland", "lng": -117.66356, "zip_code": "91784"});
+zipapicallback({"locality": "Upland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Upland"], "postal_code": "91784", "lat": 34.138575, "lng": -117.66356, "type": "STANDARD", "counties": []});

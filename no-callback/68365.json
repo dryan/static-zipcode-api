@@ -1,1 +1,1 @@
-{"lat": 40.627475, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Grafton", "lng": -97.72408, "zip_code": "68365"}
+{"locality": "Grafton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Grafton"], "postal_code": "68365", "lat": 40.627475, "lng": -97.72408, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fillmore"}, {"fips": "185", "name": "York"}]}

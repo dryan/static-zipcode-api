@@ -1,1 +1,1 @@
-{"lat": 38.749713, "region": {"abbr": "CA", "name": "California"}, "locality": "Pacific House", "lng": -120.53386, "zip_code": "95726"}
+{"locality": "Pollock Pines", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pacific House", "Pollock Pines"], "postal_code": "95726", "lat": 38.749713, "lng": -120.53386, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]}

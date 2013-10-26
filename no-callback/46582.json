@@ -1,1 +1,1 @@
-{"lat": 41.281518, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Warsaw", "lng": -85.81927, "zip_code": "46582"}
+{"locality": "Warsaw", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Warsaw"], "postal_code": "46582", "lat": 41.281518, "lng": -85.81927, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.991836, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Suffolk", "lng": -72.47505, "zip_code": "11956"});
+zipapicallback({"locality": "New Suffolk", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Suffolk"], "postal_code": "11956", "lat": 40.991836, "lng": -72.47505, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]});

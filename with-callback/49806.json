@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.436663, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Au Train", "lng": -86.88541, "zip_code": "49806"});
+zipapicallback({"locality": "Au Train", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Au Train"], "postal_code": "49806", "lat": 46.436663, "lng": -86.88541, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alger"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.146953, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gipsy", "lng": -90.1887, "zip_code": "63750"}
+{"locality": "Gipsy", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gipsy"], "postal_code": "63750", "lat": 37.146953, "lng": -90.1887, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bollinger"}]}

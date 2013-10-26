@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.589383, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "East New Market", "lng": -75.94218, "zip_code": "21631"});
+zipapicallback({"locality": "East New Market", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["E New Market", "East New Market"], "postal_code": "21631", "lat": 38.589383, "lng": -75.94218, "type": "STANDARD", "counties": [{"fips": "019", "name": "Dorchester"}]});

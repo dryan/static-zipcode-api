@@ -1,1 +1,1 @@
-{"lat": 35.293281, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Paris", "lng": -93.72139, "zip_code": "72855"}
+{"locality": "Paris", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Paris"], "postal_code": "72855", "lat": 35.293281, "lng": -93.72139, "type": "STANDARD", "counties": [{"fips": "083", "name": "Logan"}]}

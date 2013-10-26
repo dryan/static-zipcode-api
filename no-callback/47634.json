@@ -1,1 +1,1 @@
-{"lat": 37.93889, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Richland", "lng": -87.19167, "zip_code": "47634"}
+{"locality": "Richland", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Richland"], "postal_code": "47634", "lat": 37.93889, "lng": -87.19167, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}]}

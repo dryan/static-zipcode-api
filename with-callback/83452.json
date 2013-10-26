@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.81958, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Tetonia", "lng": -111.16768, "zip_code": "83452"});
+zipapicallback({"locality": "Tetonia", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Tetonia"], "postal_code": "83452", "lat": 43.81958, "lng": -111.16768, "type": "STANDARD", "counties": [{"fips": "081", "name": "Teton"}]});

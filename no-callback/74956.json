@@ -1,1 +1,1 @@
-{"lat": 35.122751, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Shady Point", "lng": -94.72058, "zip_code": "74956"}
+{"locality": "Shady Point", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Shady Point"], "postal_code": "74956", "lat": 35.122751, "lng": -94.72058, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Flore"}]}

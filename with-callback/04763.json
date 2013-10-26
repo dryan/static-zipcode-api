@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.104734, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Oakfield", "lng": -68.11398, "zip_code": "04763"});
+zipapicallback({"locality": "Oakfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Oakfield"], "postal_code": "04763", "lat": 46.104734, "lng": -68.11398, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

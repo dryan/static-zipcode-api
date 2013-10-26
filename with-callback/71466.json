@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.200922, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Otis", "lng": -92.72641, "zip_code": "71466"});
+zipapicallback({"locality": "Otis", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Otis"], "postal_code": "71466", "lat": 31.200922, "lng": -92.72641, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.15243, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Norwell", "lng": -70.8205, "zip_code": "02061"});
+zipapicallback({"locality": "Norwell", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Norwell"], "postal_code": "02061", "lat": 42.15243, "lng": -70.8205, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]});

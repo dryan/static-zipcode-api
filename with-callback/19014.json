@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.864761, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Aston", "lng": -75.4326, "zip_code": "19014"});
+zipapicallback({"locality": "Aston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aston", "Chester", "Upper Chichester", "Uppr Chichstr"], "postal_code": "19014", "lat": 39.864761, "lng": -75.4326, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

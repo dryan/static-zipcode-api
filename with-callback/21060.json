@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.162225, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Glen Burnie", "lng": -76.59444, "zip_code": "21060"});
+zipapicallback({"locality": "Glen Burnie", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glen Burnie"], "postal_code": "21060", "lat": 39.162225, "lng": -76.59444, "type": "STANDARD", "counties": []});

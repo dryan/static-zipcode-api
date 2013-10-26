@@ -1,1 +1,1 @@
-{"lat": 39.238633, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Loma", "lng": -108.78893, "zip_code": "81524"}
+{"locality": "Loma", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Loma"], "postal_code": "81524", "lat": 39.238633, "lng": -108.78893, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]}

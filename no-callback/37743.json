@@ -1,1 +1,1 @@
-{"lat": 36.102325, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Baileyton", "lng": -82.85446, "zip_code": "37743"}
+{"locality": "Greeneville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Greeneville", "Tusculum Coll"], "postal_code": "37743", "lat": 36.102325, "lng": -82.85446, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}, {"fips": "073", "name": "Hawkins"}, {"fips": "029", "name": "Cocke"}]}

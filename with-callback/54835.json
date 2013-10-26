@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.671767, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Exeland", "lng": -91.23317, "zip_code": "54835"});
+zipapicallback({"locality": "Exeland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Exeland"], "postal_code": "54835", "lat": 45.671767, "lng": -91.23317, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sawyer"}, {"fips": "107", "name": "Rusk"}]});

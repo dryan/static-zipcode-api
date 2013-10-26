@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.844195, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cedar Grove", "lng": -88.5322, "zip_code": "38321"});
+zipapicallback({"locality": "Cedar Grove", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cedar Grove"], "postal_code": "38321", "lat": 35.844195, "lng": -88.5322, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]});

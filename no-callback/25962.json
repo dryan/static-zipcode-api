@@ -1,1 +1,1 @@
-{"lat": 37.966816, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rainelle", "lng": -80.7889, "zip_code": "25962"}
+{"locality": "Rainelle", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bellwood", "Corliss", "Hilton Village", "Hilton Vlg", "Lilly Park", "Rainelle"], "postal_code": "25962", "lat": 37.966816, "lng": -80.7889, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}, {"fips": "019", "name": "Fayette"}]}

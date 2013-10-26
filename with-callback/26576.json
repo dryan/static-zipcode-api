@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.494727, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Idamay", "lng": -80.25872, "zip_code": "26576"});
+zipapicallback({"locality": "Idamay", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Idamay"], "postal_code": "26576", "lat": 39.494727, "lng": -80.25872, "type": "POBOX", "counties": [{"fips": "049", "name": "Marion"}]});

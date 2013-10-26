@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.690608, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hanley Falls", "lng": -95.65028, "zip_code": "56245"});
+zipapicallback({"locality": "Hanley Falls", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hanley Falls"], "postal_code": "56245", "lat": 44.690608, "lng": -95.65028, "type": "STANDARD", "counties": [{"fips": "173", "name": "Yellow Medicine"}]});

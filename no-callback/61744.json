@@ -1,1 +1,1 @@
-{"lat": 40.740729, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gridley", "lng": -88.88791, "zip_code": "61744"}
+{"locality": "Gridley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gridley"], "postal_code": "61744", "lat": 40.740729, "lng": -88.88791, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}, {"fips": "105", "name": "Livingston"}, {"fips": "203", "name": "Woodford"}]}

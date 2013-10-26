@@ -1,1 +1,1 @@
-{"lat": 39.764436, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Avon", "lng": -86.39699, "zip_code": "46123"}
+{"locality": "Avon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Avon"], "postal_code": "46123", "lat": 39.764436, "lng": -86.39699, "type": "STANDARD", "counties": []}

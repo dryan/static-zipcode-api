@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.872503, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Batesburg", "lng": -81.55245, "zip_code": "29006"});
+zipapicallback({"locality": "Batesburg", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Batesburg", "Batesburg-leesville", "Batsbrg-levil"], "postal_code": "29006", "lat": 33.872503, "lng": -81.55245, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lexington"}, {"fips": "081", "name": "Saluda"}, {"fips": "003", "name": "Aiken"}]});

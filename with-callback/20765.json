@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.844097, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Galesville", "lng": -76.54795, "zip_code": "20765"});
+zipapicallback({"locality": "Galesville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Galesville"], "postal_code": "20765", "lat": 38.844097, "lng": -76.54795, "type": "POBOX", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

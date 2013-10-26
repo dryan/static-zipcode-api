@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.994188, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kylertown", "lng": -78.16804, "zip_code": "16847"});
+zipapicallback({"locality": "Kylertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kylertown"], "postal_code": "16847", "lat": 40.994188, "lng": -78.16804, "type": "POBOX", "counties": [{"fips": "033", "name": "Clearfield"}]});

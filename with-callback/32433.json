@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.747244, "region": {"abbr": "FL", "name": "Florida"}, "locality": "De Funiak Spring", "lng": -86.14665, "zip_code": "32433"});
+zipapicallback({"locality": "Defuniak Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Defuniak Spgs", "Defuniak Springs"], "postal_code": "32433", "lat": 30.747244, "lng": -86.14665, "type": "STANDARD", "counties": [{"fips": "131", "name": "Walton"}]});

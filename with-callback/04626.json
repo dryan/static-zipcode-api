@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.673285, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Cutler", "lng": -67.23946, "zip_code": "04626"});
+zipapicallback({"locality": "Cutler", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cutler"], "postal_code": "04626", "lat": 44.673285, "lng": -67.23946, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

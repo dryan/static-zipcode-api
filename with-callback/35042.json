@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.963486, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Centreville", "lng": -87.13867, "zip_code": "35042"});
+zipapicallback({"locality": "Centreville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Centreville"], "postal_code": "35042", "lat": 32.963486, "lng": -87.13867, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bibb"}, {"fips": "105", "name": "Perry"}]});

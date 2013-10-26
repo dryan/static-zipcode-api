@@ -1,1 +1,1 @@
-{"lat": 39.177383, "region": {"abbr": "CA", "name": "California"}, "locality": "Tahoe City", "lng": -120.14607, "zip_code": "96145"}
+{"locality": "Tahoe City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alpine Mdws", "Alpine Meadows", "Tahoe City"], "postal_code": "96145", "lat": 39.177383, "lng": -120.14607, "type": "POBOX", "counties": []}

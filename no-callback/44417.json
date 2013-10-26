@@ -1,1 +1,1 @@
-{"lat": 41.428487, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Farmdale", "lng": -80.65551, "zip_code": "44417"}
+{"locality": "Farmdale", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Farmdale"], "postal_code": "44417", "lat": 41.428487, "lng": -80.65551, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

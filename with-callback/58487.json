@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.856925, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Tappen", "lng": -99.60568, "zip_code": "58487"});
+zipapicallback({"locality": "Tappen", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Tappen"], "postal_code": "58487", "lat": 46.856925, "lng": -99.60568, "type": "STANDARD", "counties": [{"fips": "043", "name": "Kidder"}]});

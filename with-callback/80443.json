@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.532506, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Frisco", "lng": -106.14029, "zip_code": "80443"});
+zipapicallback({"locality": "Frisco", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Frisco"], "postal_code": "80443", "lat": 39.532506, "lng": -106.14029, "type": "POBOX", "counties": [{"fips": "117", "name": "Summit"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.395362, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Oklahoma City", "lng": -97.49701, "zip_code": "73149"}
+{"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Oklahoma City"], "postal_code": "73149", "lat": 35.395362, "lng": -97.49701, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]}

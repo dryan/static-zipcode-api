@@ -1,1 +1,1 @@
-{"lat": 40.700162, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Magna", "lng": -112.08318, "zip_code": "84044"}
+{"locality": "Magna", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Magna"], "postal_code": "84044", "lat": 40.700162, "lng": -112.08318, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

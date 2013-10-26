@@ -1,1 +1,1 @@
-{"lat": 41.827287, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dawson", "lng": -94.21237, "zip_code": "50066"}
+{"locality": "Dawson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dawson"], "postal_code": "50066", "lat": 41.827287, "lng": -94.21237, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.43957, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Gaston", "lng": -123.17165, "zip_code": "97119"});
+zipapicallback({"locality": "Gaston", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Gaston"], "postal_code": "97119", "lat": 45.43957, "lng": -123.17165, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "071", "name": "Yamhill"}]});

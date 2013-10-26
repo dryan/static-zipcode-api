@@ -1,1 +1,1 @@
-{"lat": 34.131659, "region": {"abbr": "CA", "name": "California"}, "locality": "Alta Loma", "lng": -117.5924, "zip_code": "91701"}
+{"locality": "Rancho Cucamonga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alta Loma", "Rancho Cucamonga", "Rch Cucamonga"], "postal_code": "91701", "lat": 34.131659, "lng": -117.5924, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

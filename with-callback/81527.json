@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.833235, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Whitewater", "lng": -108.58155, "zip_code": "81527"});
+zipapicallback({"locality": "Whitewater", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Whitewater"], "postal_code": "81527", "lat": 38.833235, "lng": -108.58155, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]});

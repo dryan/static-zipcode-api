@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.5852, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Valley Head", "lng": -85.65125, "zip_code": "35989"});
+zipapicallback({"locality": "Valley Head", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hammondville", "Valley Head"], "postal_code": "35989", "lat": 34.5852, "lng": -85.65125, "type": "STANDARD", "counties": [{"fips": "049", "name": "De Kalb"}]});

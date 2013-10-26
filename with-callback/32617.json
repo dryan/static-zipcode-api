@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.315961, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Anthony", "lng": -82.10092, "zip_code": "32617"});
+zipapicallback({"locality": "Anthony", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Anthony"], "postal_code": "32617", "lat": 29.315961, "lng": -82.10092, "type": "STANDARD", "counties": [{"fips": "083", "name": "Marion"}]});

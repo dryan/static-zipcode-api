@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.405373, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Seadrift", "lng": -96.70325, "zip_code": "77983"});
+zipapicallback({"locality": "Seadrift", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Seadrift"], "postal_code": "77983", "lat": 28.405373, "lng": -96.70325, "type": "STANDARD", "counties": [{"fips": "057", "name": "Calhoun"}]});

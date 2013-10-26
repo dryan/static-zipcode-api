@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.358466, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lehigh", "lng": -94.05829, "zip_code": "50557"});
+zipapicallback({"locality": "Lehigh", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lehigh"], "postal_code": "50557", "lat": 42.358466, "lng": -94.05829, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.458825, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Garysburg", "lng": -77.57834, "zip_code": "27831"});
+zipapicallback({"locality": "Garysburg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Garysburg", "Gumberry"], "postal_code": "27831", "lat": 36.458825, "lng": -77.57834, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]});

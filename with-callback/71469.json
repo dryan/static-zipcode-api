@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.693192, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Robeline", "lng": -93.29586, "zip_code": "71469"});
+zipapicallback({"locality": "Robeline", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Robeline"], "postal_code": "71469", "lat": 31.693192, "lng": -93.29586, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}, {"fips": "085", "name": "Sabine"}]});

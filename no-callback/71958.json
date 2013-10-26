@@ -1,1 +1,1 @@
-{"lat": 34.118589, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Murfreesboro", "lng": -93.69401, "zip_code": "71958"}
+{"locality": "Murfreesboro", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Murfreesboro"], "postal_code": "71958", "lat": 34.118589, "lng": -93.69401, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}]}

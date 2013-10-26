@@ -1,1 +1,1 @@
-{"lat": 43.078615, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Belmont", "lng": -85.59318, "zip_code": "49306"}
+{"locality": "Belmont", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Belmont"], "postal_code": "49306", "lat": 43.078615, "lng": -85.59318, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]}

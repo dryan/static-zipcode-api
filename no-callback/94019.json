@@ -1,1 +1,1 @@
-{"lat": 37.47584, "region": {"abbr": "CA", "name": "California"}, "locality": "Half Moon Bay", "lng": -122.44323, "zip_code": "94019"}
+{"locality": "Half Moon Bay", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Half Moon Bay"], "postal_code": "94019", "lat": 37.47584, "lng": -122.44323, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

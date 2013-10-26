@@ -1,1 +1,1 @@
-{"lat": 41.414707, "region": {"abbr": "CA", "name": "California"}, "locality": "Sawyers Bar", "lng": -122.96832, "zip_code": "96027"}
+{"locality": "Etna", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Etna", "Sawyers Bar"], "postal_code": "96027", "lat": 41.414707, "lng": -122.96832, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]}

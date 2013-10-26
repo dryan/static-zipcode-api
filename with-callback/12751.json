@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.679152, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kiamesha Lake", "lng": -74.657, "zip_code": "12751"});
+zipapicallback({"locality": "Kiamesha Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kiamesha Lake"], "postal_code": "12751", "lat": 41.679152, "lng": -74.657, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

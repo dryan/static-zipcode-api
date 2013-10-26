@@ -1,1 +1,1 @@
-{"lat": 40.602141, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Friedensburg", "lng": -76.24143, "zip_code": "17933"}
+{"locality": "Friedensburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Friedensburg"], "postal_code": "17933", "lat": 40.602141, "lng": -76.24143, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.191812, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Passadumkeag", "lng": -68.58953, "zip_code": "04475"}
+{"locality": "Passadumkeag", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Passadumkeag"], "postal_code": "04475", "lat": 45.191812, "lng": -68.58953, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]}

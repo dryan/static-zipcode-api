@@ -1,1 +1,1 @@
-{"lat": 37.804776, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Towanda", "lng": -97.01477, "zip_code": "67144"}
+{"locality": "Towanda", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Towanda"], "postal_code": "67144", "lat": 37.804776, "lng": -97.01477, "type": "STANDARD", "counties": [{"fips": "015", "name": "Butler"}]}

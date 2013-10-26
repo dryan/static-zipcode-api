@@ -1,1 +1,1 @@
-{"lat": 41.196044, "region": {"abbr": "NY", "name": "New York"}, "locality": "Haverstraw", "lng": -73.96836, "zip_code": "10927"}
+{"locality": "Haverstraw", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Haverstraw"], "postal_code": "10927", "lat": 41.196044, "lng": -73.96836, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

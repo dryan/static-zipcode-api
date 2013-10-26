@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.38631, "region": {"abbr": "CA", "name": "California"}, "locality": "San Jose", "lng": -121.88987, "zip_code": "95131"});
+zipapicallback({"locality": "San Jose", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Jose"], "postal_code": "95131", "lat": 37.38631, "lng": -121.88987, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}]});

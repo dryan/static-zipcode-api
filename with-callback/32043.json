@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.97289, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Green Cove Sprin", "lng": -81.72195, "zip_code": "32043"});
+zipapicallback({"locality": "Green Cove Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Green Cove Springs", "Green Cv Spgs"], "postal_code": "32043", "lat": 29.97289, "lng": -81.72195, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clay"}, {"fips": "107", "name": "Putnam"}, {"fips": "109", "name": "Saint Johns"}]});

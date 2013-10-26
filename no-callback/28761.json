@@ -1,1 +1,1 @@
-{"lat": 35.666254, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Nebo", "lng": -81.90629, "zip_code": "28761"}
+{"locality": "Nebo", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Nebo"], "postal_code": "28761", "lat": 35.666254, "lng": -81.90629, "type": "STANDARD", "counties": [{"fips": "111", "name": "McDowell"}, {"fips": "149", "name": "Polk"}]}

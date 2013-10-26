@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.894448, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Placida", "lng": -82.26125, "zip_code": "33947"});
+zipapicallback({"locality": "Rotonda West", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cape Haze", "Placida", "Rotonda West"], "postal_code": "33947", "lat": 26.894448, "lng": -82.26125, "type": "STANDARD", "counties": [{"fips": "015", "name": "Charlotte"}]});

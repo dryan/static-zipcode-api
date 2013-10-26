@@ -1,1 +1,1 @@
-{"lat": 32.41786, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Faunsdale", "lng": -87.62729, "zip_code": "36738"}
+{"locality": "Faunsdale", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dayton", "Faunsdale"], "postal_code": "36738", "lat": 32.41786, "lng": -87.62729, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}, {"fips": "065", "name": "Hale"}]}

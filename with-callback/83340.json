@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.750744, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Obsidian", "lng": -114.5198, "zip_code": "83340"});
+zipapicallback({"locality": "Ketchum", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Ketchum", "Sawtooth City"], "postal_code": "83340", "lat": 43.750744, "lng": -114.5198, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blaine"}, {"fips": "037", "name": "Custer"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.84121, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hubbard", "lng": -96.80817, "zip_code": "76648"}
+{"locality": "Hubbard", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hubbard"], "postal_code": "76648", "lat": 31.84121, "lng": -96.80817, "type": "STANDARD", "counties": [{"fips": "217", "name": "Hill"}, {"fips": "349", "name": "Navarro"}, {"fips": "293", "name": "Limestone"}]}

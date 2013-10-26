@@ -1,1 +1,1 @@
-{"lat": 40.781918, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Martins Creek", "lng": -75.18589, "zip_code": "18063"}
+{"locality": "Martins Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Martins Creek"], "postal_code": "18063", "lat": 40.781918, "lng": -75.18589, "type": "POBOX", "counties": [{"fips": "095", "name": "Northampton"}]}

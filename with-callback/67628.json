@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.647706, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cedar", "lng": -98.96837, "zip_code": "67628"});
+zipapicallback({"locality": "Cedar", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cedar"], "postal_code": "67628", "lat": 39.647706, "lng": -98.96837, "type": "STANDARD", "counties": [{"fips": "183", "name": "Smith"}]});

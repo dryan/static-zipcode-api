@@ -1,1 +1,1 @@
-{"lat": 42.272098, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mattapan", "lng": -71.09426, "zip_code": "02126"}
+{"locality": "Mattapan", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston", "Mattapan"], "postal_code": "02126", "lat": 42.272098, "lng": -71.09426, "type": "STANDARD", "counties": [{"fips": "025", "name": "Suffolk"}]}

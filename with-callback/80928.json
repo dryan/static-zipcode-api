@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.629157, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Colorado Springs", "lng": -104.45068, "zip_code": "80928"});
+zipapicallback({"locality": "Colorado Springs", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Colo Spgs", "Colorado Spgs", "Colorado Springs"], "postal_code": "80928", "lat": 38.629157, "lng": -104.45068, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pueblo"}, {"fips": "041", "name": "El Paso"}]});

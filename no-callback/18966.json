@@ -1,1 +1,1 @@
-{"lat": 40.184745, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Holland", "lng": -75.00831, "zip_code": "18966"}
+{"locality": "Southampton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Churchville", "Holland", "Southampton"], "postal_code": "18966", "lat": 40.184745, "lng": -75.00831, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}, {"fips": "091", "name": "Montgomery"}]}

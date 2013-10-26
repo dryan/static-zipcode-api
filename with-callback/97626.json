@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.686498, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Fort Klamath", "lng": -122.04524, "zip_code": "97626"});
+zipapicallback({"locality": "Fort Klamath", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Fort Klamath"], "postal_code": "97626", "lat": 42.686498, "lng": -122.04524, "type": "POBOX", "counties": [{"fips": "035", "name": "Klamath"}]});

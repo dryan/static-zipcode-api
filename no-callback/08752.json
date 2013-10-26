@@ -1,1 +1,1 @@
-{"lat": 39.920268, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Seaside Park", "lng": -74.07967, "zip_code": "08752"}
+{"locality": "Seaside Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Seaside Park"], "postal_code": "08752", "lat": 39.920268, "lng": -74.07967, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]}

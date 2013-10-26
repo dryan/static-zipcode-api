@@ -1,1 +1,1 @@
-{"lat": 38.064087, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lexington", "lng": -84.60713, "zip_code": "40510"}
+{"locality": "Lexington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lexington"], "postal_code": "40510", "lat": 38.064087, "lng": -84.60713, "type": "STANDARD", "counties": [{"fips": "067", "name": "Fayette"}]}

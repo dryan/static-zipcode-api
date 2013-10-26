@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.46359, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Windsor", "lng": -74.05975, "zip_code": "12553"});
+zipapicallback({"locality": "New Windsor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Windsor", "Newburgh"], "postal_code": "12553", "lat": 41.46359, "lng": -74.05975, "type": "STANDARD", "counties": []});

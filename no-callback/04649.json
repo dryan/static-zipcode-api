@@ -1,1 +1,1 @@
-{"lat": 44.554662, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Jonesport", "lng": -67.57808, "zip_code": "04649"}
+{"locality": "Jonesport", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Jonesport"], "postal_code": "04649", "lat": 44.554662, "lng": -67.57808, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]}

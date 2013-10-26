@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.477515, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hubbardston", "lng": -71.99654, "zip_code": "01452"});
+zipapicallback({"locality": "Hubbardston", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hubbardston"], "postal_code": "01452", "lat": 42.477515, "lng": -71.99654, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

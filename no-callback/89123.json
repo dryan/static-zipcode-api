@@ -1,1 +1,1 @@
-{"lat": 36.026532, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Las Vegas", "lng": -115.14848, "zip_code": "89123"}
+{"locality": "Las Vegas", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Las Vegas"], "postal_code": "89123", "lat": 36.026532, "lng": -115.14848, "type": "STANDARD", "counties": [{"fips": "003", "name": "Clark"}]}

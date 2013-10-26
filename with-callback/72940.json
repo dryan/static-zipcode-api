@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.105477, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Huntington", "lng": -94.26995, "zip_code": "72940"});
+zipapicallback({"locality": "Huntington", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Huntington"], "postal_code": "72940", "lat": 35.105477, "lng": -94.26995, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}]});

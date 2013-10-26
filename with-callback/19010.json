@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.02371, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bryn Mawr", "lng": -75.32764, "zip_code": "19010"});
+zipapicallback({"locality": "Bryn Mawr", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bryn Mawr"], "postal_code": "19010", "lat": 40.02371, "lng": -75.32764, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}, {"fips": "091", "name": "Montgomery"}]});

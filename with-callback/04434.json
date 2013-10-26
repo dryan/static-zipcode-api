@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.802184, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Etna", "lng": -69.14212, "zip_code": "04434"});
+zipapicallback({"locality": "Etna", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Etna"], "postal_code": "04434", "lat": 44.802184, "lng": -69.14212, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

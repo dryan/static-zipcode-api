@@ -1,1 +1,1 @@
-{"lat": 33.62386, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lubbock", "lng": -101.88057, "zip_code": "79415"}
+{"locality": "Lubbock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lubbock"], "postal_code": "79415", "lat": 33.62386, "lng": -101.88057, "type": "STANDARD", "counties": [{"fips": "303", "name": "Lubbock"}]}

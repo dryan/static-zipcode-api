@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.230878, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Oak", "lng": -97.89427, "zip_code": "68964"});
+zipapicallback({"locality": "Oak", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Oak"], "postal_code": "68964", "lat": 40.230878, "lng": -97.89427, "type": "STANDARD", "counties": [{"fips": "129", "name": "Nuckolls"}, {"fips": "169", "name": "Thayer"}]});

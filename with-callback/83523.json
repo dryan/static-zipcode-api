@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.223309, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Craigmont", "lng": -116.48168, "zip_code": "83523"});
+zipapicallback({"locality": "Craigmont", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Craigmont"], "postal_code": "83523", "lat": 46.223309, "lng": -116.48168, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lewis"}]});

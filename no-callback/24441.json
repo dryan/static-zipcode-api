@@ -1,1 +1,1 @@
-{"lat": 38.255747, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Grottoes", "lng": -78.8242, "zip_code": "24441"}
+{"locality": "Grottoes", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Grottoes"], "postal_code": "24441", "lat": 38.255747, "lng": -78.8242, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}, {"fips": "015", "name": "Augusta"}]}

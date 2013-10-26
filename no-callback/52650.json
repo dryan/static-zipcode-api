@@ -1,1 +1,1 @@
-{"lat": 40.952014, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sperry", "lng": -91.16545, "zip_code": "52650"}
+{"locality": "Sperry", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sperry"], "postal_code": "52650", "lat": 40.952014, "lng": -91.16545, "type": "STANDARD", "counties": [{"fips": "057", "name": "Des Moines"}]}

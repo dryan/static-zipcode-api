@@ -1,1 +1,1 @@
-{"lat": 37.927809, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glen Jean", "lng": -81.15174, "zip_code": "25846"}
+{"locality": "Glen Jean", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glen Jean"], "postal_code": "25846", "lat": 37.927809, "lng": -81.15174, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]}

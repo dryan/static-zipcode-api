@@ -1,1 +1,1 @@
-{"lat": 47.4741, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Gilbert", "lng": -92.40533, "zip_code": "55741"}
+{"locality": "Gilbert", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Gilbert", "Mckinley"], "postal_code": "55741", "lat": 47.4741, "lng": -92.40533, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

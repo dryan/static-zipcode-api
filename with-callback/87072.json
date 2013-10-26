@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.612925, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cochiti Pueblo", "lng": -106.34845, "zip_code": "87072"});
+zipapicallback({"locality": "Cochiti Pueblo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cochiti Publo", "Cochiti Pueblo"], "postal_code": "87072", "lat": 35.612925, "lng": -106.34845, "type": "POBOX", "counties": []});

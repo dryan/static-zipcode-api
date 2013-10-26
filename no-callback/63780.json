@@ -1,1 +1,1 @@
-{"lat": 37.21183, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Scott City", "lng": -89.52687, "zip_code": "63780"}
+{"locality": "Scott City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Scott City"], "postal_code": "63780", "lat": 37.21183, "lng": -89.52687, "type": "STANDARD", "counties": [{"fips": "201", "name": "Scott"}]}

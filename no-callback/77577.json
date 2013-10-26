@@ -1,1 +1,1 @@
-{"lat": 29.289673, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Liverpool", "lng": -95.27709, "zip_code": "77577"}
+{"locality": "Liverpool", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Liverpool"], "postal_code": "77577", "lat": 29.289673, "lng": -95.27709, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]}

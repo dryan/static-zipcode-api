@@ -1,1 +1,1 @@
-{"lat": 38.08759, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lamar", "lng": -102.61855, "zip_code": "81052"}
+{"locality": "Lamar", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Lamar"], "postal_code": "81052", "lat": 38.08759, "lng": -102.61855, "type": "STANDARD", "counties": [{"fips": "099", "name": "Prowers"}, {"fips": "011", "name": "Bent"}]}

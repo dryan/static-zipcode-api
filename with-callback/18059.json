@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.723681, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Laurys Station", "lng": -75.53601, "zip_code": "18059"});
+zipapicallback({"locality": "Laurys Station", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Laurys Sta", "Laurys Station"], "postal_code": "18059", "lat": 40.723681, "lng": -75.53601, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]});

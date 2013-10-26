@@ -1,1 +1,1 @@
-{"lat": 41.830827, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Oakland", "lng": -96.49444, "zip_code": "68045"}
+{"locality": "Oakland", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Oakland"], "postal_code": "68045", "lat": 41.830827, "lng": -96.49444, "type": "STANDARD", "counties": [{"fips": "021", "name": "Burt"}, {"fips": "053", "name": "Dodge"}, {"fips": "039", "name": "Cuming"}]}

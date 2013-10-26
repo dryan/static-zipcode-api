@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.246428, "region": {"abbr": "NY", "name": "New York"}, "locality": "Southfields", "lng": -74.17141, "zip_code": "10975"});
+zipapicallback({"locality": "Southfields", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Southfields"], "postal_code": "10975", "lat": 41.246428, "lng": -74.17141, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

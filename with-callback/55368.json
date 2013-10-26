@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.756883, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Norwood", "lng": -93.91666, "zip_code": "55368"});
+zipapicallback({"locality": "Norwood Young America", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Norwood", "Norwood Young America", "Nya"], "postal_code": "55368", "lat": 44.756883, "lng": -93.91666, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}, {"fips": "085", "name": "McLeod"}]});

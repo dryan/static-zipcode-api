@@ -1,1 +1,1 @@
-{"lat": 44.561602, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kingsley", "lng": -85.52611, "zip_code": "49649"}
+{"locality": "Kingsley", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kingsley"], "postal_code": "49649", "lat": 44.561602, "lng": -85.52611, "type": "STANDARD", "counties": [{"fips": "055", "name": "Grand Traverse"}, {"fips": "165", "name": "Wexford"}]}

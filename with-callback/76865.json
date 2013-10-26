@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.849628, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Norton", "lng": -100.15332, "zip_code": "76865"});
+zipapicallback({"locality": "Norton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Norton"], "postal_code": "76865", "lat": 31.849628, "lng": -100.15332, "type": "STANDARD", "counties": [{"fips": "399", "name": "Runnels"}]});

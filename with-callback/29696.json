@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.77272, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "West Union", "lng": -83.02066, "zip_code": "29696"});
+zipapicallback({"locality": "West Union", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["West Union"], "postal_code": "29696", "lat": 34.77272, "lng": -83.02066, "type": "STANDARD", "counties": [{"fips": "073", "name": "Oconee"}]});

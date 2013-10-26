@@ -1,1 +1,1 @@
-{"lat": 41.168761, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kinsman", "lng": -88.55792, "zip_code": "60437"}
+{"locality": "Kinsman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kinsman"], "postal_code": "60437", "lat": 41.168761, "lng": -88.55792, "type": "STANDARD", "counties": [{"fips": "063", "name": "Grundy"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.591725, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stuart", "lng": -99.13746, "zip_code": "68780"});
+zipapicallback({"locality": "Stuart", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stuart"], "postal_code": "68780", "lat": 42.591725, "lng": -99.13746, "type": "STANDARD", "counties": [{"fips": "089", "name": "Holt"}]});

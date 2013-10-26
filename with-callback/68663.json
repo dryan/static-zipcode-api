@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.306574, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Silver Creek", "lng": -97.70019, "zip_code": "68663"});
+zipapicallback({"locality": "Silver Creek", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Silver Creek"], "postal_code": "68663", "lat": 41.306574, "lng": -97.70019, "type": "STANDARD", "counties": [{"fips": "121", "name": "Merrick"}, {"fips": "143", "name": "Polk"}, {"fips": "125", "name": "Nance"}]});

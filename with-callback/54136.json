@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.268387, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Kimberly", "lng": -88.33656, "zip_code": "54136"});
+zipapicallback({"locality": "Kimberly", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kimberly"], "postal_code": "54136", "lat": 44.268387, "lng": -88.33656, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.541902, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Colchester", "lng": -73.19659, "zip_code": "05446"}
+{"locality": "Colchester", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Colchester"], "postal_code": "05446", "lat": 44.541902, "lng": -73.19659, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}]}

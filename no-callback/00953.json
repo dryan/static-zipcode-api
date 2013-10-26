@@ -1,1 +1,1 @@
-{"lat": 18.36802, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Toa Alta", "lng": -66.23414, "zip_code": "00953"}
+{"locality": "Toa Alta", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Toa Alta"], "postal_code": "00953", "lat": 18.36802, "lng": -66.23414, "type": "STANDARD", "counties": []}

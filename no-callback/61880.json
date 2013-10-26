@@ -1,1 +1,1 @@
-{"lat": 39.981936, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Tolono", "lng": -88.2532, "zip_code": "61880"}
+{"locality": "Tolono", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Tolono"], "postal_code": "61880", "lat": 39.981936, "lng": -88.2532, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

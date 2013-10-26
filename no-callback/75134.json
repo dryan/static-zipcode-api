@@ -1,1 +1,1 @@
-{"lat": 32.620385, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lancaster", "lng": -96.7812, "zip_code": "75134"}
+{"locality": "Lancaster", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lancaster"], "postal_code": "75134", "lat": 32.620385, "lng": -96.7812, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.293438, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mammoth", "lng": -81.34526, "zip_code": "25132"});
+zipapicallback({"locality": "Mammoth", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mammoth"], "postal_code": "25132", "lat": 38.293438, "lng": -81.34526, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]});

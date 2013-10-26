@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.557153, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Gilford", "lng": -71.43842, "zip_code": "03246"});
+zipapicallback({"locality": "Laconia", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Laconia"], "postal_code": "03246", "lat": 43.557153, "lng": -71.43842, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}]});

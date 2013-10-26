@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.614057, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Admire", "lng": -96.08821, "zip_code": "66830"});
+zipapicallback({"locality": "Admire", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Admire"], "postal_code": "66830", "lat": 38.614057, "lng": -96.08821, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lyon"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.974367, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Wiscasset", "lng": -69.68366, "zip_code": "04578"});
+zipapicallback({"locality": "Wiscasset", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Westport Is", "Westport Island", "Wiscasset"], "postal_code": "04578", "lat": 43.974367, "lng": -69.68366, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]});

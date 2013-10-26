@@ -1,1 +1,1 @@
-{"lat": 38.20651, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "East Lynn", "lng": -82.34523, "zip_code": "25512"}
+{"locality": "East Lynn", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["East Lynn"], "postal_code": "25512", "lat": 38.20651, "lng": -82.34523, "type": "STANDARD", "counties": [{"fips": "099", "name": "Wayne"}]}

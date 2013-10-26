@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.162502, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Midway", "lng": -83.0211, "zip_code": "37809"});
+zipapicallback({"locality": "Midway", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Midway"], "postal_code": "37809", "lat": 36.162502, "lng": -83.0211, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

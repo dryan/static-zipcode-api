@@ -1,1 +1,1 @@
-{"lat": 39.553045, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Port William", "lng": -83.78346, "zip_code": "45164"}
+{"locality": "Port William", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Port William"], "postal_code": "45164", "lat": 39.553045, "lng": -83.78346, "type": "POBOX", "counties": [{"fips": "027", "name": "Clinton"}]}

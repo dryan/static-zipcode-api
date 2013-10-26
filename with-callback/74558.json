@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.497876, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nashoba", "lng": -95.1316, "zip_code": "74558"});
+zipapicallback({"locality": "Nashoba", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nashoba"], "postal_code": "74558", "lat": 34.497876, "lng": -95.1316, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}]});

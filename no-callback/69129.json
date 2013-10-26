@@ -1,1 +1,1 @@
-{"lat": 41.104806, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Chappell", "lng": -102.40905, "zip_code": "69129"}
+{"locality": "Chappell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Chappell"], "postal_code": "69129", "lat": 41.104806, "lng": -102.40905, "type": "STANDARD", "counties": [{"fips": "049", "name": "Deuel"}]}

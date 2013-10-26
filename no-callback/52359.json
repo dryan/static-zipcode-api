@@ -1,1 +1,1 @@
-{"lat": 41.356493, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "West Chester", "lng": -91.81527, "zip_code": "52359"}
+{"locality": "West Chester", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["West Chester"], "postal_code": "52359", "lat": 41.356493, "lng": -91.81527, "type": "STANDARD", "counties": [{"fips": "183", "name": "Washington"}]}

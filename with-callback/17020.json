@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.401114, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Duncannon", "lng": -77.03405, "zip_code": "17020"});
+zipapicallback({"locality": "Duncannon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Duncannon"], "postal_code": "17020", "lat": 40.401114, "lng": -77.03405, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}, {"fips": "043", "name": "Dauphin"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.871299, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Pine Brook", "lng": -74.34331, "zip_code": "07058"}
+{"locality": "Pine Brook", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Pine Brook"], "postal_code": "07058", "lat": 40.871299, "lng": -74.34331, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

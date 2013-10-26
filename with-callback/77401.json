@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.70403, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bellaire", "lng": -95.46099, "zip_code": "77401"});
+zipapicallback({"locality": "Bellaire", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bellaire"], "postal_code": "77401", "lat": 29.70403, "lng": -95.46099, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]});

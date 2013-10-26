@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.468318, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hebron", "lng": -88.43125, "zip_code": "60034"});
+zipapicallback({"locality": "Hebron", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hebron"], "postal_code": "60034", "lat": 42.468318, "lng": -88.43125, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}]});

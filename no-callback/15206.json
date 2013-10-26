@@ -1,1 +1,1 @@
-{"lat": 40.468968, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Liberty", "lng": -79.91863, "zip_code": "15206"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["East Liberty", "Pittsburgh"], "postal_code": "15206", "lat": 40.468968, "lng": -79.91863, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

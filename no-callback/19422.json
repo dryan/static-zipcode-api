@@ -1,1 +1,1 @@
-{"lat": 40.157526, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Penllyn", "lng": -75.27816, "zip_code": "19422"}
+{"locality": "Blue Bell", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Blue Bell", "Center Square", "Penllyn"], "postal_code": "19422", "lat": 40.157526, "lng": -75.27816, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

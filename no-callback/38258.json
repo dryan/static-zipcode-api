@@ -1,1 +1,1 @@
-{"lat": 36.016599, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Trezevant", "lng": -88.61825, "zip_code": "38258"}
+{"locality": "Trezevant", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Trezevant"], "postal_code": "38258", "lat": 36.016599, "lng": -88.61825, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]}

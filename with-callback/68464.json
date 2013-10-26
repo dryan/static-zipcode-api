@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.410478, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Western", "lng": -97.20746, "zip_code": "68464"});
+zipapicallback({"locality": "Western", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Western"], "postal_code": "68464", "lat": 40.410478, "lng": -97.20746, "type": "STANDARD", "counties": [{"fips": "151", "name": "Saline"}, {"fips": "095", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.786542, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Prairie", "lng": -88.72404, "zip_code": "39756"});
+zipapicallback({"locality": "Prairie", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Prairie"], "postal_code": "39756", "lat": 33.786542, "lng": -88.72404, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]});

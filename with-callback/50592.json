@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.728665, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Truesdale", "lng": -95.18303, "zip_code": "50592"});
+zipapicallback({"locality": "Truesdale", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Truesdale"], "postal_code": "50592", "lat": 42.728665, "lng": -95.18303, "type": "POBOX", "counties": [{"fips": "021", "name": "Buena Vista"}]});

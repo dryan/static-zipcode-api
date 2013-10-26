@@ -1,1 +1,1 @@
-{"lat": 35.819261, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pleasant Grove", "lng": -91.88291, "zip_code": "72567"}
+{"locality": "Pleasant Grove", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pleasant Grove", "Pleasant Grv"], "postal_code": "72567", "lat": 35.819261, "lng": -91.88291, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stone"}]}

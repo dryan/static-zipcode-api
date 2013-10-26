@@ -1,1 +1,1 @@
-{"lat": 34.626083, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tupelo", "lng": -96.43083, "zip_code": "74572"}
+{"locality": "Tupelo", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Tupelo"], "postal_code": "74572", "lat": 34.626083, "lng": -96.43083, "type": "STANDARD", "counties": [{"fips": "029", "name": "Coal"}]}

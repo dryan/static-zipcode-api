@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.272963, "region": {"abbr": "CA", "name": "California"}, "locality": "Petrolia", "lng": -124.21494, "zip_code": "95558"});
+zipapicallback({"locality": "Petrolia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Petrolia"], "postal_code": "95558", "lat": 40.272963, "lng": -124.21494, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]});

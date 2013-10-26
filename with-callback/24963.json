@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.424195, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Peterstown", "lng": -80.78465, "zip_code": "24963"});
+zipapicallback({"locality": "Peterstown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bozoo", "Peterstown"], "postal_code": "24963", "lat": 37.424195, "lng": -80.78465, "type": "STANDARD", "counties": [{"fips": "063", "name": "Monroe"}]});

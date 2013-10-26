@@ -1,1 +1,1 @@
-{"lat": 37.264896, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Pamplin", "lng": -78.66558, "zip_code": "23958"}
+{"locality": "Pamplin", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Darlingtn Hts", "Darlington Heights", "Pamplin"], "postal_code": "23958", "lat": 37.264896, "lng": -78.66558, "type": "STANDARD", "counties": [{"fips": "011", "name": "Appomattox"}, {"fips": "147", "name": "Prince Edward"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.47066, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Royal", "lng": -86.45974, "zip_code": "37160"}
+{"locality": "Shelbyville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Royal", "Shelbyville"], "postal_code": "37160", "lat": 35.47066, "lng": -86.45974, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bedford"}, {"fips": "127", "name": "Moore"}]}

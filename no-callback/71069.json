@@ -1,1 +1,1 @@
-{"lat": 32.978828, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Rodessa", "lng": -93.99733, "zip_code": "71069"}
+{"locality": "Rodessa", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Rodessa"], "postal_code": "71069", "lat": 32.978828, "lng": -93.99733, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.888821, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kentwood", "lng": -85.5616, "zip_code": "49512"}
+{"locality": "Grand Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Rapids", "Kentwood"], "postal_code": "49512", "lat": 42.888821, "lng": -85.5616, "type": "STANDARD", "counties": []}

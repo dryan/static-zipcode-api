@@ -1,1 +1,1 @@
-{"lat": 41.745349, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "East Hartford", "lng": -72.60807, "zip_code": "06118"}
+{"locality": "East Hartford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["East Hartford", "Hartford"], "postal_code": "06118", "lat": 41.745349, "lng": -72.60807, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.485817, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Marsland", "lng": -103.21227, "zip_code": "69354"});
+zipapicallback({"locality": "Marsland", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Marsland"], "postal_code": "69354", "lat": 42.485817, "lng": -103.21227, "type": "STANDARD", "counties": [{"fips": "045", "name": "Dawes"}]});

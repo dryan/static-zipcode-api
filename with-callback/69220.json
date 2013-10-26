@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.940698, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Sparks", "lng": -100.25556, "zip_code": "69220"});
+zipapicallback({"locality": "Sparks", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Sparks"], "postal_code": "69220", "lat": 42.940698, "lng": -100.25556, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cherry"}]});

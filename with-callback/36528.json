@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.250825, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Dauphin Island", "lng": -88.11819, "zip_code": "36528"});
+zipapicallback({"locality": "Dauphin Island", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dauphin Island", "Dauphin Islnd"], "postal_code": "36528", "lat": 30.250825, "lng": -88.11819, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]});

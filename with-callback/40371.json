@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.087867, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Salt Lick", "lng": -83.61146, "zip_code": "40371"});
+zipapicallback({"locality": "Salt Lick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Salt Lick", "Sudith"], "postal_code": "40371", "lat": 38.087867, "lng": -83.61146, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bath"}, {"fips": "165", "name": "Menifee"}]});

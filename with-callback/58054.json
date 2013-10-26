@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.43383, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Elliott", "lng": -97.67678, "zip_code": "58054"});
+zipapicallback({"locality": "Lisbon", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Elliott", "Lisbon"], "postal_code": "58054", "lat": 46.43383, "lng": -97.67678, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ransom"}]});

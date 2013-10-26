@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.515475, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ghent", "lng": -95.89576, "zip_code": "56239"});
+zipapicallback({"locality": "Ghent", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ghent"], "postal_code": "56239", "lat": 44.515475, "lng": -95.89576, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}]});

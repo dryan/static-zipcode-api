@@ -1,1 +1,1 @@
-{"lat": 44.616243, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Echo", "lng": -95.43173, "zip_code": "56237"}
+{"locality": "Echo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Echo"], "postal_code": "56237", "lat": 44.616243, "lng": -95.43173, "type": "STANDARD", "counties": [{"fips": "173", "name": "Yellow Medicine"}, {"fips": "127", "name": "Redwood"}]}

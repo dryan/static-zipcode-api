@@ -1,1 +1,1 @@
-{"lat": 35.711505, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Montezuma", "lng": -105.41406, "zip_code": "87731"}
+{"locality": "Montezuma", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Montezuma"], "postal_code": "87731", "lat": 35.711505, "lng": -105.41406, "type": "STANDARD", "counties": [{"fips": "047", "name": "San Miguel"}]}

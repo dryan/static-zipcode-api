@@ -1,1 +1,1 @@
-{"lat": 37.351221, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Waynesburg", "lng": -84.62099, "zip_code": "40489"}
+{"locality": "Waynesburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Waynesburg"], "postal_code": "40489", "lat": 37.351221, "lng": -84.62099, "type": "STANDARD", "counties": [{"fips": "137", "name": "Lincoln"}, {"fips": "045", "name": "Casey"}, {"fips": "199", "name": "Pulaski"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.628804, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "New Munich", "lng": -94.75466, "zip_code": "56356"});
+zipapicallback({"locality": "New Munich", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["New Munich"], "postal_code": "56356", "lat": 45.628804, "lng": -94.75466, "type": "POBOX", "counties": [{"fips": "145", "name": "Stearns"}]});

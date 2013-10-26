@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.382307, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Arcadia", "lng": -95.12768, "zip_code": "77517"});
+zipapicallback({"locality": "Santa Fe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Arcadia", "Santa Fe"], "postal_code": "77517", "lat": 29.382307, "lng": -95.12768, "type": "STANDARD", "counties": [{"fips": "167", "name": "Galveston"}]});

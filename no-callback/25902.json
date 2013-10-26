@@ -1,1 +1,1 @@
-{"lat": 37.589172, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Odd", "lng": -81.2324, "zip_code": "25902"}
+{"locality": "Odd", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Odd"], "postal_code": "25902", "lat": 37.589172, "lng": -81.2324, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}, {"fips": "055", "name": "Mercer"}]}

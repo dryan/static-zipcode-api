@@ -1,1 +1,1 @@
-{"lat": 47.198591, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Puyallup", "lng": -122.27131, "zip_code": "98372"}
+{"locality": "Puyallup", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Edgewood", "Puyallup"], "postal_code": "98372", "lat": 47.198591, "lng": -122.27131, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}, {"fips": "005", "name": "Benton"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.665171, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Taneytown", "lng": -77.17264, "zip_code": "21787"}
+{"locality": "Taneytown", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Taneytown"], "postal_code": "21787", "lat": 39.665171, "lng": -77.17264, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}, {"fips": "021", "name": "Frederick"}]}

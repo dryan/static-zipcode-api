@@ -1,1 +1,1 @@
-{"lat": 34.120006, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Logan", "lng": -87.05075, "zip_code": "35098"}
+{"locality": "Logan", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Logan"], "postal_code": "35098", "lat": 34.120006, "lng": -87.05075, "type": "STANDARD", "counties": [{"fips": "043", "name": "Cullman"}, {"fips": "133", "name": "Winston"}]}

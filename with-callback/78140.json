@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.292655, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Nixon", "lng": -97.76167, "zip_code": "78140"});
+zipapicallback({"locality": "Nixon", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Nixon"], "postal_code": "78140", "lat": 29.292655, "lng": -97.76167, "type": "STANDARD", "counties": [{"fips": "177", "name": "Gonzales"}, {"fips": "493", "name": "Wilson"}, {"fips": "187", "name": "Guadalupe"}]});

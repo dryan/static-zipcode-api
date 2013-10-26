@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.969711, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Aspers", "lng": -77.218, "zip_code": "17304"});
+zipapicallback({"locality": "Aspers", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aspers"], "postal_code": "17304", "lat": 39.969711, "lng": -77.218, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

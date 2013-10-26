@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.957487, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hammond", "lng": -92.44589, "zip_code": "54015"});
+zipapicallback({"locality": "Hammond", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hammond"], "postal_code": "54015", "lat": 44.957487, "lng": -92.44589, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}]});

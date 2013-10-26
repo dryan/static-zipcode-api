@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.226149, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mayville", "lng": -79.48396, "zip_code": "14757"});
+zipapicallback({"locality": "Mayville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mayville"], "postal_code": "14757", "lat": 42.226149, "lng": -79.48396, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.10936, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Boyers", "lng": -79.90816, "zip_code": "16020"}
+{"locality": "Boyers", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Annandale", "Boyers"], "postal_code": "16020", "lat": 41.10936, "lng": -79.90816, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]}

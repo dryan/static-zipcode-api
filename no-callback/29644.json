@@ -1,1 +1,1 @@
-{"lat": 34.681279, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Fountain Inn", "lng": -82.19732, "zip_code": "29644"}
+{"locality": "Fountain Inn", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Fountain Inn"], "postal_code": "29644", "lat": 34.681279, "lng": -82.19732, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}, {"fips": "059", "name": "Laurens"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.214331, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Meadow Lands", "lng": -80.22872, "zip_code": "15347"}
+{"locality": "Meadow Lands", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Meadow Lands"], "postal_code": "15347", "lat": 40.214331, "lng": -80.22872, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]}

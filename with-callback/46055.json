@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.898378, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mc Cordsville", "lng": -85.9159, "zip_code": "46055"});
+zipapicallback({"locality": "Mc Cordsville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mc Cordsville"], "postal_code": "46055", "lat": 39.898378, "lng": -85.9159, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hancock"}, {"fips": "057", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.376503, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ingalls", "lng": -87.63243, "zip_code": "49848"}
+{"locality": "Ingalls", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ingalls"], "postal_code": "49848", "lat": 45.376503, "lng": -87.63243, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]}

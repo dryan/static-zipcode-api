@@ -1,1 +1,1 @@
-{"lat": 39.926509, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mill Run", "lng": -79.43272, "zip_code": "15464"}
+{"locality": "Mill Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mill Run"], "postal_code": "15464", "lat": 39.926509, "lng": -79.43272, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

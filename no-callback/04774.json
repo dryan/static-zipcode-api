@@ -1,1 +1,1 @@
-{"lat": 47.119796, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Saint Francis", "lng": -69.00258, "zip_code": "04774"}
+{"locality": "Saint Francis", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Allagash", "Saint Francis"], "postal_code": "04774", "lat": 47.119796, "lng": -69.00258, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

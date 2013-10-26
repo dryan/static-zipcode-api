@@ -1,1 +1,1 @@
-{"lat": 41.723782, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hickory Hills", "lng": -87.82825, "zip_code": "60457"}
+{"locality": "Hickory Hills", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hickory Hills", "Oak Lawn"], "postal_code": "60457", "lat": 41.723782, "lng": -87.82825, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "003", "name": "Alexander"}]}

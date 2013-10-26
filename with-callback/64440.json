@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.585185, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "De Kalb", "lng": -94.90957, "zip_code": "64440"});
+zipapicallback({"locality": "De Kalb", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["De Kalb"], "postal_code": "64440", "lat": 39.585185, "lng": -94.90957, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buchanan"}, {"fips": "165", "name": "Platte"}]});

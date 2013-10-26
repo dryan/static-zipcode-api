@@ -1,1 +1,1 @@
-{"lat": 43.225165, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fenton", "lng": -94.42583, "zip_code": "50539"}
+{"locality": "Fenton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fenton"], "postal_code": "50539", "lat": 43.225165, "lng": -94.42583, "type": "STANDARD", "counties": [{"fips": "109", "name": "Kossuth"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.443118, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ray", "lng": -93.14296, "zip_code": "56669"});
+zipapicallback({"locality": "Kabetogama", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kabetogama", "Ray"], "postal_code": "56669", "lat": 48.443118, "lng": -93.14296, "type": "STANDARD", "counties": [{"fips": "071", "name": "Koochiching"}, {"fips": "137", "name": "St. Louis"}]});

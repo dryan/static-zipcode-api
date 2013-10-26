@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.03073, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Byram", "lng": -73.62985, "zip_code": "06830"});
+zipapicallback({"locality": "Greenwich", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Greenwich"], "postal_code": "06830", "lat": 41.03073, "lng": -73.62985, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.248615, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bass Harbor", "lng": -68.3521, "zip_code": "04653"}
+{"locality": "Bass Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bass Harbor"], "postal_code": "04653", "lat": 44.248615, "lng": -68.3521, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

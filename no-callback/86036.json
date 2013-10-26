@@ -1,1 +1,1 @@
-{"lat": 36.618595, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Marble Canyon", "lng": -111.85444, "zip_code": "86036"}
+{"locality": "Marble Canyon", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Marble Canyon"], "postal_code": "86036", "lat": 36.618595, "lng": -111.85444, "type": "STANDARD", "counties": [{"fips": "005", "name": "Coconino"}]}

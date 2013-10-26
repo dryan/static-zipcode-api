@@ -1,1 +1,1 @@
-{"lat": 34.921827, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Bryant", "lng": -85.63784, "zip_code": "35958"}
+{"locality": "Bryant", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bryant"], "postal_code": "35958", "lat": 34.921827, "lng": -85.63784, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}]}

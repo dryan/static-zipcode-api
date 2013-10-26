@@ -1,1 +1,1 @@
-{"lat": 34.149455, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Rubottom", "lng": -97.43096, "zip_code": "73463"}
+{"locality": "Wilson", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rubottom", "Wilson"], "postal_code": "73463", "lat": 34.149455, "lng": -97.43096, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carter"}, {"fips": "085", "name": "Love"}]}

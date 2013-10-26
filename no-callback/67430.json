@@ -1,1 +1,1 @@
-{"lat": 39.520894, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cawker City", "lng": -98.43768, "zip_code": "67430"}
+{"locality": "Cawker City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cawker City"], "postal_code": "67430", "lat": 39.520894, "lng": -98.43768, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mitchell"}, {"fips": "089", "name": "Jewell"}, {"fips": "183", "name": "Smith"}, {"fips": "141", "name": "Osborne"}]}

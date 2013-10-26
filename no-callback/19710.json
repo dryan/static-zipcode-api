@@ -1,1 +1,1 @@
-{"lat": 39.788562, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Montchanin", "lng": -75.58881, "zip_code": "19710"}
+{"locality": "Montchanin", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Montchanin"], "postal_code": "19710", "lat": 39.788562, "lng": -75.58881, "type": "POBOX", "counties": [{"fips": "003", "name": "New Castle"}]}

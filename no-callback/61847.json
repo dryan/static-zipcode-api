@@ -1,1 +1,1 @@
-{"lat": 40.310063, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gifford", "lng": -88.01922, "zip_code": "61847"}
+{"locality": "Gifford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gifford"], "postal_code": "61847", "lat": 40.310063, "lng": -88.01922, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

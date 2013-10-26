@@ -1,1 +1,1 @@
-{"lat": 41.684752, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bolingbrook", "lng": -88.14203, "zip_code": "60490"}
+{"locality": "Bolingbrook", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bolingbrook"], "postal_code": "60490", "lat": 41.684752, "lng": -88.14203, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.068059, "region": {"abbr": "CA", "name": "California"}, "locality": "West Covina", "lng": -117.93835, "zip_code": "91790"});
+zipapicallback({"locality": "West Covina", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["West Covina"], "postal_code": "91790", "lat": 34.068059, "lng": -117.93835, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.820395, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Salt Flat", "lng": -105.30882, "zip_code": "79847"});
+zipapicallback({"locality": "Salt Flat", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dell City", "Salt Flat"], "postal_code": "79847", "lat": 31.820395, "lng": -105.30882, "type": "STANDARD", "counties": [{"fips": "229", "name": "Hudspeth"}, {"fips": "109", "name": "Culberson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.929242, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mount Sinai", "lng": -73.01317, "zip_code": "11766"});
+zipapicallback({"locality": "Mount Sinai", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mount Sinai"], "postal_code": "11766", "lat": 40.929242, "lng": -73.01317, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

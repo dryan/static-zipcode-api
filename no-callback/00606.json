@@ -1,1 +1,1 @@
-{"lat": 18.182151, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Maricao", "lng": -66.9588, "zip_code": "00606"}
+{"locality": "Maricao", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Maricao"], "postal_code": "00606", "lat": 18.182151, "lng": -66.9588, "type": "STANDARD", "counties": []}

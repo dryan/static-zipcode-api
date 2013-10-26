@@ -1,1 +1,1 @@
-{"lat": 41.92674, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hurley", "lng": -74.06797, "zip_code": "12443"}
+{"locality": "Hurley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hurley"], "postal_code": "12443", "lat": 41.92674, "lng": -74.06797, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

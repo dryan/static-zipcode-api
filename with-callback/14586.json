@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.040271, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Henrietta", "lng": -77.68215, "zip_code": "14586"});
+zipapicallback({"locality": "West Henrietta", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["W Henrietta", "West Henrietta"], "postal_code": "14586", "lat": 43.040271, "lng": -77.68215, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}]});

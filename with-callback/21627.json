@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.17656, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Crocheron", "lng": -76.04321, "zip_code": "21627"});
+zipapicallback({"locality": "Crocheron", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Crocheron"], "postal_code": "21627", "lat": 38.17656, "lng": -76.04321, "type": "STANDARD", "counties": [{"fips": "019", "name": "Dorchester"}]});

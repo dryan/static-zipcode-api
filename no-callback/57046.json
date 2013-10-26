@@ -1,1 +1,1 @@
-{"lat": 42.945468, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Mission Hill", "lng": -97.2884, "zip_code": "57046"}
+{"locality": "Mission Hill", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Mission Hill"], "postal_code": "57046", "lat": 42.945468, "lng": -97.2884, "type": "STANDARD", "counties": [{"fips": "135", "name": "Yankton"}]}

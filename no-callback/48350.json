@@ -1,1 +1,1 @@
-{"lat": 42.747677, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Springfield", "lng": -83.52283, "zip_code": "48350"}
+{"locality": "Davisburg", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Davisburg", "Springfield Township", "Springfld Twp"], "postal_code": "48350", "lat": 42.747677, "lng": -83.52283, "type": "STANDARD", "counties": []}

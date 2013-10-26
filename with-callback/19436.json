@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.201932, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gwynedd", "lng": -75.25091, "zip_code": "19436"});
+zipapicallback({"locality": "Gwynedd", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gwynedd", "North Wales"], "postal_code": "19436", "lat": 40.201932, "lng": -75.25091, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

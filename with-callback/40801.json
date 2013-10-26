@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.858906, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ages Brookside", "lng": -83.2528, "zip_code": "40801"});
+zipapicallback({"locality": "Ages Brookside", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ages Brooksde", "Ages Brookside"], "postal_code": "40801", "lat": 36.858906, "lng": -83.2528, "type": "POBOX", "counties": [{"fips": "095", "name": "Harlan"}]});

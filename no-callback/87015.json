@@ -1,1 +1,1 @@
-{"lat": 35.075777, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Edgewood", "lng": -106.19155, "zip_code": "87015"}
+{"locality": "Edgewood", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Edgewood"], "postal_code": "87015", "lat": 35.075777, "lng": -106.19155, "type": "STANDARD", "counties": [{"fips": "049", "name": "Santa Fe"}]}

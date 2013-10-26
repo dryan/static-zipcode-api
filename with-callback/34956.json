@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.049788, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Indiantown", "lng": -80.48057, "zip_code": "34956"});
+zipapicallback({"locality": "Indiantown", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Indiantown"], "postal_code": "34956", "lat": 27.049788, "lng": -80.48057, "type": "STANDARD", "counties": [{"fips": "085", "name": "Martin"}]});

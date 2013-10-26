@@ -1,1 +1,1 @@
-{"lat": 35.853188, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mounds", "lng": -96.00205, "zip_code": "74047"}
+{"locality": "Mounds", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mounds"], "postal_code": "74047", "lat": 35.853188, "lng": -96.00205, "type": "STANDARD", "counties": [{"fips": "037", "name": "Creek"}, {"fips": "111", "name": "Okmulgee"}, {"fips": "143", "name": "Tulsa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.039527, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Murray", "lng": -93.95498, "zip_code": "50174"});
+zipapicallback({"locality": "Murray", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Murray"], "postal_code": "50174", "lat": 41.039527, "lng": -93.95498, "type": "STANDARD", "counties": [{"fips": "039", "name": "Clarke"}, {"fips": "175", "name": "Union"}]});

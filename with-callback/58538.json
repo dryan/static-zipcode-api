@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.062798, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fort Yates", "lng": -100.72114, "zip_code": "58538"});
+zipapicallback({"locality": "Fort Yates", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Fort Yates"], "postal_code": "58538", "lat": 46.062798, "lng": -100.72114, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sioux"}]});

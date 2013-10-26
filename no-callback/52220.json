@@ -1,1 +1,1 @@
-{"lat": 41.728994, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Conroy", "lng": -91.99748, "zip_code": "52220"}
+{"locality": "Conroy", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Conroy"], "postal_code": "52220", "lat": 41.728994, "lng": -91.99748, "type": "POBOX", "counties": [{"fips": "095", "name": "Iowa"}]}

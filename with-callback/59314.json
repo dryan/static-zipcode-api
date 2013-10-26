@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.078881, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Biddle", "lng": -105.37586, "zip_code": "59314"});
+zipapicallback({"locality": "Biddle", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Biddle"], "postal_code": "59314", "lat": 45.078881, "lng": -105.37586, "type": "STANDARD", "counties": [{"fips": "075", "name": "Powder River"}]});

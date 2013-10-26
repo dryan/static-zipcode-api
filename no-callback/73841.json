@@ -1,1 +1,1 @@
-{"lat": 36.557966, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fort Supply", "lng": -99.57425, "zip_code": "73841"}
+{"locality": "Fort Supply", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fort Supply"], "postal_code": "73841", "lat": 36.557966, "lng": -99.57425, "type": "STANDARD", "counties": [{"fips": "153", "name": "Woodward"}]}

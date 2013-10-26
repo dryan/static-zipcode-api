@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.761291, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Henrietta", "lng": -98.19145, "zip_code": "76365"});
+zipapicallback({"locality": "Henrietta", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Henrietta"], "postal_code": "76365", "lat": 33.761291, "lng": -98.19145, "type": "STANDARD", "counties": [{"fips": "077", "name": "Clay"}, {"fips": "237", "name": "Jack"}]});

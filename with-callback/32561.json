@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.375469, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Gulf Breeze", "lng": -87.09013, "zip_code": "32561"});
+zipapicallback({"locality": "Gulf Breeze", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Gulf Breeze", "Pensacola Bch", "Pensacola Beach"], "postal_code": "32561", "lat": 30.375469, "lng": -87.09013, "type": "STANDARD", "counties": [{"fips": "113", "name": "Santa Rosa"}]});

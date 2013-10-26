@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.585405, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Wasco", "lng": -120.69234, "zip_code": "97065"});
+zipapicallback({"locality": "Wasco", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Wasco"], "postal_code": "97065", "lat": 45.585405, "lng": -120.69234, "type": "STANDARD", "counties": [{"fips": "055", "name": "Sherman"}]});

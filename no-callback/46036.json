@@ -1,1 +1,1 @@
-{"lat": 40.279375, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Elwood", "lng": -85.83761, "zip_code": "46036"}
+{"locality": "Elwood", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Elwood"], "postal_code": "46036", "lat": 40.279375, "lng": -85.83761, "type": "STANDARD", "counties": [{"fips": "095", "name": "Madison"}, {"fips": "159", "name": "Tipton"}, {"fips": "053", "name": "Grant"}]}

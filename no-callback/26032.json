@@ -1,1 +1,1 @@
-{"lat": 40.198956, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bethany", "lng": -80.54683, "zip_code": "26032"}
+{"locality": "Bethany", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bethany"], "postal_code": "26032", "lat": 40.198956, "lng": -80.54683, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brooke"}, {"fips": "069", "name": "Ohio"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.845899, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Palmyra", "lng": -69.36775, "zip_code": "04965"}
+{"locality": "Palmyra", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Palmyra"], "postal_code": "04965", "lat": 44.845899, "lng": -69.36775, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]}

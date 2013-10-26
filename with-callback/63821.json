@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.048279, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Arbyrd", "lng": -90.23343, "zip_code": "63821"});
+zipapicallback({"locality": "Arbyrd", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Arbyrd"], "postal_code": "63821", "lat": 36.048279, "lng": -90.23343, "type": "STANDARD", "counties": [{"fips": "069", "name": "Dunklin"}]});

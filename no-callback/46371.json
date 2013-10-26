@@ -1,1 +1,1 @@
-{"lat": 41.677087, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Rolling Prairie", "lng": -86.60481, "zip_code": "46371"}
+{"locality": "Rolling Prairie", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Rolling Pr", "Rolling Prairie"], "postal_code": "46371", "lat": 41.677087, "lng": -86.60481, "type": "STANDARD", "counties": [{"fips": "091", "name": "La Porte"}]}

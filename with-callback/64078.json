@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.706077, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Peculiar", "lng": -94.46049, "zip_code": "64078"});
+zipapicallback({"locality": "Peculiar", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Peculiar"], "postal_code": "64078", "lat": 38.706077, "lng": -94.46049, "type": "STANDARD", "counties": [{"fips": "037", "name": "Cass"}]});

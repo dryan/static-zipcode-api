@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.664633, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Isabella", "lng": -91.52953, "zip_code": "55607"});
+zipapicallback({"locality": "Isabella", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Isabella"], "postal_code": "55607", "lat": 47.664633, "lng": -91.52953, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lake"}]});

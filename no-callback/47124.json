@@ -1,1 +1,1 @@
-{"lat": 38.363632, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Greenville", "lng": -85.99239, "zip_code": "47124"}
+{"locality": "Greenville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Greenville"], "postal_code": "47124", "lat": 38.363632, "lng": -85.99239, "type": "STANDARD", "counties": [{"fips": "043", "name": "Floyd"}]}

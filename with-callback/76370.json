@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.445341, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Megargel", "lng": -98.92106, "zip_code": "76370"});
+zipapicallback({"locality": "Megargel", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Megargel"], "postal_code": "76370", "lat": 33.445341, "lng": -98.92106, "type": "POBOX", "counties": [{"fips": "009", "name": "Archer"}]});

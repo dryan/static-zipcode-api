@@ -1,1 +1,1 @@
-{"lat": 40.707516, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Germansville", "lng": -75.70754, "zip_code": "18053"}
+{"locality": "Germansville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Germansville"], "postal_code": "18053", "lat": 40.707516, "lng": -75.70754, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]}

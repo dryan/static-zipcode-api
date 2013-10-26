@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.702352, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Milano", "lng": -96.85039, "zip_code": "76556"});
+zipapicallback({"locality": "Milano", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Milano"], "postal_code": "76556", "lat": 30.702352, "lng": -96.85039, "type": "STANDARD", "counties": [{"fips": "331", "name": "Milam"}, {"fips": "051", "name": "Burleson"}]});

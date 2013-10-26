@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.783359, "region": {"abbr": "CA", "name": "California"}, "locality": "El Centro", "lng": -115.57746, "zip_code": "92243"});
+zipapicallback({"locality": "El Centro", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Centro"], "postal_code": "92243", "lat": 32.783359, "lng": -115.57746, "type": "STANDARD", "counties": [{"fips": "025", "name": "Imperial"}]});

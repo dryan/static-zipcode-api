@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.066605, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Beaver", "lng": -124.30909, "zip_code": "98305"});
+zipapicallback({"locality": "Beaver", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Beaver"], "postal_code": "98305", "lat": 48.066605, "lng": -124.30909, "type": "STANDARD", "counties": [{"fips": "009", "name": "Clallam"}]});

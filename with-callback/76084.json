@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.434322, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Venus", "lng": -97.09988, "zip_code": "76084"});
+zipapicallback({"locality": "Venus", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Venus"], "postal_code": "76084", "lat": 32.434322, "lng": -97.09988, "type": "STANDARD", "counties": [{"fips": "251", "name": "Johnson"}, {"fips": "139", "name": "Ellis"}]});

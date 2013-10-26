@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.175381, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Verdon", "lng": -98.08986, "zip_code": "57434"});
+zipapicallback({"locality": "Conde", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Conde", "Verdon"], "postal_code": "57434", "lat": 45.175381, "lng": -98.08986, "type": "STANDARD", "counties": [{"fips": "115", "name": "Spink"}, {"fips": "025", "name": "Clark"}, {"fips": "037", "name": "Day"}, {"fips": "013", "name": "Brown"}]});

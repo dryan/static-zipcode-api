@@ -1,1 +1,1 @@
-{"lat": 43.534764, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Shepherd", "lng": -84.68228, "zip_code": "48883"}
+{"locality": "Shepherd", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Shepherd"], "postal_code": "48883", "lat": 43.534764, "lng": -84.68228, "type": "STANDARD", "counties": [{"fips": "073", "name": "Isabella"}, {"fips": "111", "name": "Midland"}, {"fips": "057", "name": "Gratiot"}]}

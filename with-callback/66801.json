@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.410549, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Emporia", "lng": -96.19736, "zip_code": "66801"});
+zipapicallback({"locality": "Emporia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Emporia"], "postal_code": "66801", "lat": 38.410549, "lng": -96.19736, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lyon"}, {"fips": "017", "name": "Chase"}]});

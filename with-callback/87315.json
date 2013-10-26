@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.737855, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Fence Lake", "lng": -108.61359, "zip_code": "87315"});
+zipapicallback({"locality": "Fence Lake", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Fence Lake"], "postal_code": "87315", "lat": 34.737855, "lng": -108.61359, "type": "STANDARD", "counties": [{"fips": "006", "name": "Cibola"}]});

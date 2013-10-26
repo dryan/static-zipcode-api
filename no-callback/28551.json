@@ -1,1 +1,1 @@
-{"lat": 35.320045, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "La Grange", "lng": -77.78042, "zip_code": "28551"}
+{"locality": "La Grange", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["La Grange"], "postal_code": "28551", "lat": 35.320045, "lng": -77.78042, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lenoir"}]}

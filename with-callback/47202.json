@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Columbus", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Columbus"], "postal_code": "47202", "type": "POBOX", "counties": [{"fips": "005", "name": "Bartholomew"}, {"fips": "055", "name": "Greene"}]});

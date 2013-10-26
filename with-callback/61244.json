@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.518733, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Moline", "lng": -90.41788, "zip_code": "61244"});
+zipapicallback({"locality": "East Moline", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["East Moline"], "postal_code": "61244", "lat": 41.518733, "lng": -90.41788, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rock Island"}]});

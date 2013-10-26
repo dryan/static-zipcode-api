@@ -1,1 +1,1 @@
-{"lat": 40.123394, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Mapleton", "lng": -111.56665, "zip_code": "84664"}
+{"locality": "Mapleton", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Mapleton", "Springville"], "postal_code": "84664", "lat": 40.123394, "lng": -111.56665, "type": "STANDARD", "counties": [{"fips": "049", "name": "Utah"}, {"fips": "019", "name": "Grand"}]}

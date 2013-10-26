@@ -1,1 +1,1 @@
-{"lat": 34.285951, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cerro Gordo", "lng": -78.93039, "zip_code": "28430"}
+{"locality": "Cerro Gordo", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cerro Gordo"], "postal_code": "28430", "lat": 34.285951, "lng": -78.93039, "type": "STANDARD", "counties": [{"fips": "047", "name": "Columbus"}]}

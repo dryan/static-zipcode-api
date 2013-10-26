@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.885728, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Geneva", "lng": -88.31957, "zip_code": "60134"});
+zipapicallback({"locality": "Geneva", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Geneva"], "postal_code": "60134", "lat": 41.885728, "lng": -88.31957, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]});

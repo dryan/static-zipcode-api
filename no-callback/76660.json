@@ -1,1 +1,1 @@
-{"lat": 31.928342, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Malone", "lng": -96.88213, "zip_code": "76660"}
+{"locality": "Malone", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Malone"], "postal_code": "76660", "lat": 31.928342, "lng": -96.88213, "type": "STANDARD", "counties": [{"fips": "217", "name": "Hill"}]}

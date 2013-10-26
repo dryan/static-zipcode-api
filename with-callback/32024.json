@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.108128, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake City", "lng": -82.72529, "zip_code": "32024"});
+zipapicallback({"locality": "Lake City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake City"], "postal_code": "32024", "lat": 30.108128, "lng": -82.72529, "type": "STANDARD", "counties": []});

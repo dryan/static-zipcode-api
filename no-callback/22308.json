@@ -1,1 +1,1 @@
-{"lat": 38.728464, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wellington", "lng": -77.05701, "zip_code": "22308"}
+{"locality": "Alexandria", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alexandria"], "postal_code": "22308", "lat": 38.728464, "lng": -77.05701, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

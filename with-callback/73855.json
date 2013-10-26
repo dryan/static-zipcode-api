@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.863262, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Rosston", "lng": -99.88181, "zip_code": "73855"});
+zipapicallback({"locality": "Rosston", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rosston"], "postal_code": "73855", "lat": 36.863262, "lng": -99.88181, "type": "STANDARD", "counties": [{"fips": "059", "name": "Harper"}]});

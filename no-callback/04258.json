@@ -1,1 +1,1 @@
-{"lat": 44.154921, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Minot", "lng": -70.33319, "zip_code": "04258"}
+{"locality": "Minot", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Minot"], "postal_code": "04258", "lat": 44.154921, "lng": -70.33319, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]}

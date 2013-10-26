@@ -1,1 +1,1 @@
-{"lat": 35.045886, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "South Pittsburg", "lng": -85.72513, "zip_code": "37380"}
+{"locality": "South Pittsburg", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["New Hope", "Orme", "S Pittsburg", "South Pittsburg"], "postal_code": "37380", "lat": 35.045886, "lng": -85.72513, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]}

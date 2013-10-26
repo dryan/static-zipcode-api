@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.443289, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Millwood", "lng": -86.40531, "zip_code": "42762"});
+zipapicallback({"locality": "Millwood", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Millwood"], "postal_code": "42762", "lat": 37.443289, "lng": -86.40531, "type": "STANDARD", "counties": [{"fips": "085", "name": "Grayson"}]});

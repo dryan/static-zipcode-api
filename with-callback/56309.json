@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.080287, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ashby", "lng": -95.80539, "zip_code": "56309"});
+zipapicallback({"locality": "Ashby", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ashby"], "postal_code": "56309", "lat": 46.080287, "lng": -95.80539, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grant"}, {"fips": "111", "name": "Otter Tail"}, {"fips": "041", "name": "Douglas"}]});

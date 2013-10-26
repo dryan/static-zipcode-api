@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.938529, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Port Hope", "lng": -82.77514, "zip_code": "48468"});
+zipapicallback({"locality": "Port Hope", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Port Hope"], "postal_code": "48468", "lat": 43.938529, "lng": -82.77514, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]});

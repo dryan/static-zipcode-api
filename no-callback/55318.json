@@ -1,1 +1,1 @@
-{"lat": 44.809954, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Chaska", "lng": -93.6105, "zip_code": "55318"}
+{"locality": "Chaska", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Chaska"], "postal_code": "55318", "lat": 44.809954, "lng": -93.6105, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}]}

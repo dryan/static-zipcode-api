@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.427988, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Midlothian", "lng": -77.64868, "zip_code": "23112"});
+zipapicallback({"locality": "Midlothian", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Midlothian"], "postal_code": "23112", "lat": 37.427988, "lng": -77.64868, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chesterfield"}]});

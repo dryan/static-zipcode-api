@@ -1,1 +1,1 @@
-{"lat": 40.798959, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glen Hope", "lng": -78.50032, "zip_code": "16645"}
+{"locality": "Glen Hope", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Glen Hope"], "postal_code": "16645", "lat": 40.798959, "lng": -78.50032, "type": "POBOX", "counties": []}

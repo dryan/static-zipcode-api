@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.654872, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "South Boardman", "lng": -85.26096, "zip_code": "49680"});
+zipapicallback({"locality": "South Boardman", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["S Boardman", "South Boardman"], "postal_code": "49680", "lat": 44.654872, "lng": -85.26096, "type": "STANDARD", "counties": [{"fips": "079", "name": "Kalkaska"}]});

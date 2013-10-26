@@ -1,1 +1,1 @@
-{"lat": 47.330624, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mahnomen", "lng": -95.87672, "zip_code": "56557"}
+{"locality": "Mahnomen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mahnomen"], "postal_code": "56557", "lat": 47.330624, "lng": -95.87672, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mahnomen"}, {"fips": "029", "name": "Clearwater"}, {"fips": "107", "name": "Norman"}]}

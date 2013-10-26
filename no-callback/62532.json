@@ -1,1 +1,1 @@
-{"lat": 39.777583, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elwin", "lng": -88.97972, "zip_code": "62532"}
+{"locality": "Elwin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elwin"], "postal_code": "62532", "lat": 39.777583, "lng": -88.97972, "type": "POBOX", "counties": [{"fips": "115", "name": "MacOn"}]}

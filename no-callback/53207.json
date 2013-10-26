@@ -1,1 +1,1 @@
-{"lat": 42.985465, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Bay View", "lng": -87.89998, "zip_code": "53207"}
+{"locality": "Milwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bay View", "Milwaukee"], "postal_code": "53207", "lat": 42.985465, "lng": -87.89998, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

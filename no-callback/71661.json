@@ -1,1 +1,1 @@
-{"lat": 33.133126, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Parkdale", "lng": -91.53103, "zip_code": "71661"}
+{"locality": "Parkdale", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Parkdale"], "postal_code": "71661", "lat": 33.133126, "lng": -91.53103, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashley"}, {"fips": "017", "name": "Chicot"}]}

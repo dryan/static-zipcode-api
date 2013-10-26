@@ -1,1 +1,1 @@
-{"lat": 42.778642, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Franksville", "lng": -87.96609, "zip_code": "53126"}
+{"locality": "Franksville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Franksville"], "postal_code": "53126", "lat": 42.778642, "lng": -87.96609, "type": "STANDARD", "counties": [{"fips": "101", "name": "Racine"}]}

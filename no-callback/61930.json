@@ -1,1 +1,1 @@
-{"lat": 39.685822, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hindsboro", "lng": -88.11971, "zip_code": "61930"}
+{"locality": "Hindsboro", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hindsboro"], "postal_code": "61930", "lat": 39.685822, "lng": -88.11971, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}]}

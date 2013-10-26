@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.020199, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Onsted", "lng": -84.16796, "zip_code": "49265"});
+zipapicallback({"locality": "Onsted", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Onsted"], "postal_code": "49265", "lat": 42.020199, "lng": -84.16796, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]});

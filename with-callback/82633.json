@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.935874, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Douglas", "lng": -105.37303, "zip_code": "82633"});
+zipapicallback({"locality": "Douglas", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Douglas", "Orin"], "postal_code": "82633", "lat": 42.935874, "lng": -105.37303, "type": "STANDARD", "counties": [{"fips": "009", "name": "Converse"}]});

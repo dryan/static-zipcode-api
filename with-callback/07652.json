@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.947107, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Paramus", "lng": -74.07047, "zip_code": "07652"});
+zipapicallback({"locality": "Paramus", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Paramus"], "postal_code": "07652", "lat": 40.947107, "lng": -74.07047, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

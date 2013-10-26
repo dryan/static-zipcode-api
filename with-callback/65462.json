@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.693916, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Edgar Springs", "lng": -91.83904, "zip_code": "65462"});
+zipapicallback({"locality": "Edgar Springs", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Edgar Springs"], "postal_code": "65462", "lat": 37.693916, "lng": -91.83904, "type": "STANDARD", "counties": [{"fips": "161", "name": "Phelps"}, {"fips": "169", "name": "Pulaski"}, {"fips": "065", "name": "Dent"}, {"fips": "215", "name": "Texas"}]});

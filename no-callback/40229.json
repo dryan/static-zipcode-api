@@ -1,1 +1,1 @@
-{"lat": 38.085601, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Okolona", "lng": -85.66979, "zip_code": "40229"}
+{"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Louisville", "Okolona"], "postal_code": "40229", "lat": 38.085601, "lng": -85.66979, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bullitt"}, {"fips": "111", "name": "Jefferson"}]}

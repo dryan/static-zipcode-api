@@ -1,1 +1,1 @@
-{"lat": 40.939035, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nuremberg", "lng": -76.16898, "zip_code": "18241"}
+{"locality": "Nuremberg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fern Glen", "Nuremberg"], "postal_code": "18241", "lat": 40.939035, "lng": -76.16898, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}, {"fips": "079", "name": "Luzerne"}]}

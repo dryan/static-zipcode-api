@@ -1,1 +1,1 @@
-{"lat": 32.896295, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Quinlan", "lng": -96.06999, "zip_code": "75474"}
+{"locality": "Quinlan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Quinlan", "West Tawakoni"], "postal_code": "75474", "lat": 32.896295, "lng": -96.06999, "type": "STANDARD", "counties": [{"fips": "231", "name": "Hunt"}]}

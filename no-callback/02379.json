@@ -1,1 +1,1 @@
-{"lat": 42.02195, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Bridgewater", "lng": -71.01878, "zip_code": "02379"}
+{"locality": "West Bridgewater", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["W Bridgewater", "West Bridgewater"], "postal_code": "02379", "lat": 42.02195, "lng": -71.01878, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]}

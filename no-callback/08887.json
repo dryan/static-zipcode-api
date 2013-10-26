@@ -1,1 +1,1 @@
-{"lat": 40.525361, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Three Bridges", "lng": -74.79632, "zip_code": "08887"}
+{"locality": "Three Bridges", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Three Bridges"], "postal_code": "08887", "lat": 40.525361, "lng": -74.79632, "type": "STANDARD", "counties": [{"fips": "019", "name": "Hunterdon"}]}

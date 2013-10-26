@@ -1,1 +1,1 @@
-{"lat": 35.844753, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Raleigh", "lng": -78.63263, "zip_code": "27609"}
+{"locality": "Raleigh", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Raleigh"], "postal_code": "27609", "lat": 35.844753, "lng": -78.63263, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}, {"fips": "083", "name": "Halifax"}]}

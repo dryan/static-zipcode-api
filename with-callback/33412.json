@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.795367, "region": {"abbr": "FL", "name": "Florida"}, "locality": "West Palm Beach", "lng": -80.24044, "zip_code": "33412"});
+zipapicallback({"locality": "West Palm Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Palm Bch Gdns", "Palm Beach Gardens", "Royal Palm Beach", "Royal Plm Bch", "West Palm Bch", "West Palm Beach"], "postal_code": "33412", "lat": 26.795367, "lng": -80.24044, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

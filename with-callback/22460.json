@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.858952, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Farnham", "lng": -76.63263, "zip_code": "22460"});
+zipapicallback({"locality": "Farnham", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Farnham"], "postal_code": "22460", "lat": 37.858952, "lng": -76.63263, "type": "STANDARD", "counties": [{"fips": "159", "name": "Richmond"}]});

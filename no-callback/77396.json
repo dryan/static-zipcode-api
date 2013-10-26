@@ -1,1 +1,1 @@
-{"lat": 29.951621, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Humble", "lng": -95.26785, "zip_code": "77396"}
+{"locality": "Humble", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Humble"], "postal_code": "77396", "lat": 29.951621, "lng": -95.26785, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

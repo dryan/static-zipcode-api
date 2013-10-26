@@ -1,1 +1,1 @@
-{"lat": 45.003489, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Silverton", "lng": -122.78012, "zip_code": "97381"}
+{"locality": "Silverton", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Silverton"], "postal_code": "97381", "lat": 45.003489, "lng": -122.78012, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.697762, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rocky Ford", "lng": -81.81036, "zip_code": "30455"});
+zipapicallback({"locality": "Rocky Ford", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Rocky Ford"], "postal_code": "30455", "lat": 32.697762, "lng": -81.81036, "type": "STANDARD", "counties": [{"fips": "251", "name": "Screven"}]});

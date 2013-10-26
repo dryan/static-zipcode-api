@@ -1,1 +1,1 @@
-{"lat": 42.557796, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Templeton", "lng": -72.06824, "zip_code": "01468"}
+{"locality": "Templeton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Templeton"], "postal_code": "01468", "lat": 42.557796, "lng": -72.06824, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

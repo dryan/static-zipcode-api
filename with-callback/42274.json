@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.931416, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Browning", "lng": -86.62507, "zip_code": "42274"});
+zipapicallback({"locality": "Rockfield", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Browning", "Rockfield"], "postal_code": "42274", "lat": 36.931416, "lng": -86.62507, "type": "STANDARD", "counties": [{"fips": "227", "name": "Warren"}, {"fips": "141", "name": "Logan"}]});

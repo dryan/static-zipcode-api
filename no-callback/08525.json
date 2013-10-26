@@ -1,1 +1,1 @@
-{"lat": 40.386902, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hopewell", "lng": -74.78112, "zip_code": "08525"}
+{"locality": "Hopewell", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hopewell"], "postal_code": "08525", "lat": 40.386902, "lng": -74.78112, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}]}

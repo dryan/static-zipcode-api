@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.172481, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Vinton", "lng": -92.01595, "zip_code": "52349"});
+zipapicallback({"locality": "Vinton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Vinton"], "postal_code": "52349", "lat": 42.172481, "lng": -92.01595, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]});

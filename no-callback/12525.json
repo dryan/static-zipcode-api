@@ -1,1 +1,1 @@
-{"lat": 41.691524, "region": {"abbr": "NY", "name": "New York"}, "locality": "Gardiner", "lng": -74.18764, "zip_code": "12525"}
+{"locality": "Gardiner", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Gardiner"], "postal_code": "12525", "lat": 41.691524, "lng": -74.18764, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

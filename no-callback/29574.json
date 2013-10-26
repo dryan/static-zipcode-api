@@ -1,1 +1,1 @@
-{"lat": 34.194685, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Mullins", "lng": -79.25775, "zip_code": "29574"}
+{"locality": "Mullins", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Mullins"], "postal_code": "29574", "lat": 34.194685, "lng": -79.25775, "type": "STANDARD", "counties": [{"fips": "067", "name": "Marion"}, {"fips": "033", "name": "Dillon"}]}

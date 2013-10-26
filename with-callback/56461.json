@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.260013, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Laporte", "lng": -94.84475, "zip_code": "56461"});
+zipapicallback({"locality": "Laporte", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Laporte"], "postal_code": "56461", "lat": 47.260013, "lng": -94.84475, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hubbard"}, {"fips": "021", "name": "Cass"}]});

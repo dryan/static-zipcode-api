@@ -1,1 +1,1 @@
-{"lat": 29.358153, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Antonio", "lng": -98.31978, "zip_code": "78263"}
+{"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["China Grove", "San Antonio"], "postal_code": "78263", "lat": 29.358153, "lng": -98.31978, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}, {"fips": "493", "name": "Wilson"}]}

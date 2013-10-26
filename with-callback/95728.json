@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.311156, "region": {"abbr": "CA", "name": "California"}, "locality": "Soda Springs", "lng": -120.41039, "zip_code": "95728"});
+zipapicallback({"locality": "Soda Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Soda Springs"], "postal_code": "95728", "lat": 39.311156, "lng": -120.41039, "type": "POBOX", "counties": [{"fips": "057", "name": "Nevada"}]});

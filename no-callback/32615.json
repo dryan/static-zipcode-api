@@ -1,1 +1,1 @@
-{"lat": 29.801949, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Santa Fe", "lng": -82.48872, "zip_code": "32615"}
+{"locality": "Alachua", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Alachua", "Santa Fe"], "postal_code": "32615", "lat": 29.801949, "lng": -82.48872, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alachua"}]}

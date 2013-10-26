@@ -1,1 +1,1 @@
-{"lat": 39.718857, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Agenda", "lng": -97.49191, "zip_code": "66930"}
+{"locality": "Agenda", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Agenda"], "postal_code": "66930", "lat": 39.718857, "lng": -97.49191, "type": "STANDARD", "counties": [{"fips": "157", "name": "Republic"}]}

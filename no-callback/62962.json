@@ -1,1 +1,1 @@
-{"lat": 37.097546, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Miller City", "lng": -89.33547, "zip_code": "62962"}
+{"locality": "Miller City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Miller City"], "postal_code": "62962", "lat": 37.097546, "lng": -89.33547, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alexander"}]}

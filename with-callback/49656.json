@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.05505, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Luther", "lng": -85.69759, "zip_code": "49656"});
+zipapicallback({"locality": "Luther", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Luther"], "postal_code": "49656", "lat": 44.05505, "lng": -85.69759, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lake"}]});

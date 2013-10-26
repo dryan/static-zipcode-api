@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.73542, "region": {"abbr": "CA", "name": "California"}, "locality": "Hemet", "lng": -116.97401, "zip_code": "92543"});
+zipapicallback({"locality": "Hemet", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hemet"], "postal_code": "92543", "lat": 33.73542, "lng": -116.97401, "type": "STANDARD", "counties": []});

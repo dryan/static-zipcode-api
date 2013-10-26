@@ -1,1 +1,1 @@
-{"lat": 38.544298, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Scott A F B", "lng": -89.85054, "zip_code": "62225"}
+{"locality": "Scott Air Force Base", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Scott Afb", "Scott Air Force Base"], "postal_code": "62225", "lat": 38.544298, "lng": -89.85054, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

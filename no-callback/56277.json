@@ -1,1 +1,1 @@
-{"lat": 44.766441, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Olivia", "lng": -94.99624, "zip_code": "56277"}
+{"locality": "Olivia", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Olivia"], "postal_code": "56277", "lat": 44.766441, "lng": -94.99624, "type": "STANDARD", "counties": [{"fips": "129", "name": "Renville"}, {"fips": "067", "name": "Kandiyohi"}]}

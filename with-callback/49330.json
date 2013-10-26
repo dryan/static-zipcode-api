@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.231933, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kent City", "lng": -85.73768, "zip_code": "49330"});
+zipapicallback({"locality": "Kent City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kent City"], "postal_code": "49330", "lat": 43.231933, "lng": -85.73768, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}, {"fips": "123", "name": "Newaygo"}, {"fips": "121", "name": "Muskegon"}, {"fips": "139", "name": "Ottawa"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.835684, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hurst", "lng": -89.14346, "zip_code": "62949"}
+{"locality": "Hurst", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hurst"], "postal_code": "62949", "lat": 37.835684, "lng": -89.14346, "type": "POBOX", "counties": [{"fips": "199", "name": "Williamson"}]}

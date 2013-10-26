@@ -1,1 +1,1 @@
-{"lat": 43.785391, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "North Fond Du La", "lng": -88.48704, "zip_code": "54937"}
+{"locality": "Fond Du Lac", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fond Du Lac", "N Fond Du Lac", "North Fond Du Lac"], "postal_code": "54937", "lat": 43.785391, "lng": -88.48704, "type": "STANDARD", "counties": []}

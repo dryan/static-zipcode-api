@@ -1,1 +1,1 @@
-{"lat": 35.799367, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mexican Springs", "lng": -108.8731, "zip_code": "87320"}
+{"locality": "Mexican Springs", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Mexican Spgs", "Mexican Springs"], "postal_code": "87320", "lat": 35.799367, "lng": -108.8731, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

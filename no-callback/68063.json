@@ -1,1 +1,1 @@
-{"lat": 41.733433, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Uehling", "lng": -96.50454, "zip_code": "68063"}
+{"locality": "Uehling", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Uehling"], "postal_code": "68063", "lat": 41.733433, "lng": -96.50454, "type": "POBOX", "counties": [{"fips": "053", "name": "Dodge"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.725028, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Blairs", "lng": -79.35877, "zip_code": "24527"}
+{"locality": "Blairs", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Blairs"], "postal_code": "24527", "lat": 36.725028, "lng": -79.35877, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]}

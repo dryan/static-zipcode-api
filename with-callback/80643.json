@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.078242, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Keenesburg", "lng": -104.49916, "zip_code": "80643"});
+zipapicallback({"locality": "Keenesburg", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Keenesburg"], "postal_code": "80643", "lat": 40.078242, "lng": -104.49916, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]});

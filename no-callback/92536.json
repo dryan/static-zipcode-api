@@ -1,1 +1,1 @@
-{"lat": 33.485978, "region": {"abbr": "CA", "name": "California"}, "locality": "Aguanga", "lng": -116.82004, "zip_code": "92536"}
+{"locality": "Aguanga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Aguanga"], "postal_code": "92536", "lat": 33.485978, "lng": -116.82004, "type": "STANDARD", "counties": []}

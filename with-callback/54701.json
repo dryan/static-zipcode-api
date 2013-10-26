@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.780427, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Eau Claire", "lng": -91.48065, "zip_code": "54701"});
+zipapicallback({"locality": "Eau Claire", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Eau Claire"], "postal_code": "54701", "lat": 44.780427, "lng": -91.48065, "type": "STANDARD", "counties": [{"fips": "035", "name": "Eau Claire"}, {"fips": "033", "name": "Dunn"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.295898, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Garrettsville", "lng": -81.08057, "zip_code": "44231"}
+{"locality": "Garrettsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Garrettsville"], "postal_code": "44231", "lat": 41.295898, "lng": -81.08057, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}, {"fips": "155", "name": "Trumbull"}, {"fips": "055", "name": "Geauga"}, {"fips": "103", "name": "Medina"}]}

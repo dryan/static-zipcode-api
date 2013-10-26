@@ -1,1 +1,1 @@
-{"lat": 42.729814, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Belmont", "lng": -90.31984, "zip_code": "53510"}
+{"locality": "Belmont", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Belmont"], "postal_code": "53510", "lat": 42.729814, "lng": -90.31984, "type": "STANDARD", "counties": [{"fips": "065", "name": "Lafayette"}]}

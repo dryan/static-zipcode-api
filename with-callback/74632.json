@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.939016, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Braman", "lng": -97.33875, "zip_code": "74632"});
+zipapicallback({"locality": "Braman", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Braman"], "postal_code": "74632", "lat": 36.939016, "lng": -97.33875, "type": "STANDARD", "counties": [{"fips": "071", "name": "Kay"}]});

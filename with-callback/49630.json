@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.845213, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Empire", "lng": -86.02479, "zip_code": "49630"});
+zipapicallback({"locality": "Empire", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Empire"], "postal_code": "49630", "lat": 44.845213, "lng": -86.02479, "type": "STANDARD", "counties": [{"fips": "089", "name": "Leelanau"}, {"fips": "019", "name": "Benzie"}]});

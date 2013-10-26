@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.239986, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Virginia", "lng": -96.49182, "zip_code": "68458"});
+zipapicallback({"locality": "Virginia", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Virginia"], "postal_code": "68458", "lat": 40.239986, "lng": -96.49182, "type": "STANDARD", "counties": [{"fips": "067", "name": "Gage"}, {"fips": "097", "name": "Johnson"}, {"fips": "133", "name": "Pawnee"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.443452, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Redfield", "lng": -92.1854, "zip_code": "72132"}
+{"locality": "Redfield", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Redfield"], "postal_code": "72132", "lat": 34.443452, "lng": -92.1854, "type": "STANDARD", "counties": [{"fips": "069", "name": "Jefferson"}]}

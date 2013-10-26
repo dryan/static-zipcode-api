@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.676139, "region": {"abbr": "NY", "name": "New York"}, "locality": "Thompsonville", "lng": -74.6217, "zip_code": "12784"});
+zipapicallback({"locality": "Thompsonville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Thompsonville"], "postal_code": "12784", "lat": 41.676139, "lng": -74.6217, "type": "POBOX", "counties": [{"fips": "105", "name": "Sullivan"}]});

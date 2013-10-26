@@ -1,1 +1,1 @@
-{"lat": 40.489269, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Luray", "lng": -91.87248, "zip_code": "63453"}
+{"locality": "Luray", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Luray"], "postal_code": "63453", "lat": 40.489269, "lng": -91.87248, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}]}

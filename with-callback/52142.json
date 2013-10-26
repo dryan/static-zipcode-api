@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.834286, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fayette", "lng": -91.79794, "zip_code": "52142"});
+zipapicallback({"locality": "Fayette", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fayette"], "postal_code": "52142", "lat": 42.834286, "lng": -91.79794, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]});

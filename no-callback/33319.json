@@ -1,1 +1,1 @@
-{"lat": 26.183628, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tamarac", "lng": -80.22122, "zip_code": "33319"}
+{"locality": "Fort Lauderdale", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Lauderdale", "Ft Lauderdale", "Laud Lakes", "Lauderdale Lakes", "Lauderhill", "Sunrise", "Tamarac"], "postal_code": "33319", "lat": 26.183628, "lng": -80.22122, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

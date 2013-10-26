@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.977629, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Danville", "lng": -118.51457, "zip_code": "99121"});
+zipapicallback({"locality": "Danville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Danville"], "postal_code": "99121", "lat": 48.977629, "lng": -118.51457, "type": "STANDARD", "counties": [{"fips": "019", "name": "Ferry"}]});

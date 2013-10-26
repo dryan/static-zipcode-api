@@ -1,1 +1,1 @@
-{"lat": 41.916613, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Vandalia", "lng": -85.89022, "zip_code": "49095"}
+{"locality": "Vandalia", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Vandalia"], "postal_code": "49095", "lat": 41.916613, "lng": -85.89022, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cass"}]}

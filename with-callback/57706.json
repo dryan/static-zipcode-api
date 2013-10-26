@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.144225, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Ellsworth Afb", "lng": -103.08527, "zip_code": "57706"});
+zipapicallback({"locality": "Ellsworth Afb", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Ellsworth Afb"], "postal_code": "57706", "lat": 44.144225, "lng": -103.08527, "type": "STANDARD", "counties": [{"fips": "093", "name": "Meade"}, {"fips": "103", "name": "Pennington"}]});

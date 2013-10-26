@@ -1,1 +1,1 @@
-{"lat": 42.453686, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Early", "lng": -95.16395, "zip_code": "50535"}
+{"locality": "Early", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Early"], "postal_code": "50535", "lat": 42.453686, "lng": -95.16395, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]}

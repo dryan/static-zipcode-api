@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.262548, "region": {"abbr": "CA", "name": "California"}, "locality": "San Luis Obispo", "lng": -120.65196, "zip_code": "93401"});
+zipapicallback({"locality": "San Luis Obispo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Luis Obispo", "Sn Luis Obisp"], "postal_code": "93401", "lat": 35.262548, "lng": -120.65196, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]});

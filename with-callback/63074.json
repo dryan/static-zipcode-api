@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.727184, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Ann", "lng": -90.38551, "zip_code": "63074"});
+zipapicallback({"locality": "Saint Ann", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Northwest Plaza", "Nw Plaza", "Saint Ann"], "postal_code": "63074", "lat": 38.727184, "lng": -90.38551, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

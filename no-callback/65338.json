@@ -1,1 +1,1 @@
-{"lat": 38.34463, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lincoln", "lng": -93.26634, "zip_code": "65338"}
+{"locality": "Lincoln", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lincoln"], "postal_code": "65338", "lat": 38.34463, "lng": -93.26634, "type": "STANDARD", "counties": [{"fips": "015", "name": "Benton"}]}

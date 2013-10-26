@@ -1,1 +1,1 @@
-{"lat": 47.846083, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Snohomish", "lng": -122.11068, "zip_code": "98296"}
+{"locality": "Snohomish", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Snohomish"], "postal_code": "98296", "lat": 47.846083, "lng": -122.11068, "type": "STANDARD", "counties": []}

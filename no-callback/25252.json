@@ -1,1 +1,1 @@
-{"lat": 38.884, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Duncan", "lng": -81.53807, "zip_code": "25252"}
+{"locality": "Le Roy", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Duncan", "Le Roy", "Liverpool"], "postal_code": "25252", "lat": 38.884, "lng": -81.53807, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}, {"fips": "105", "name": "Wirt"}]}

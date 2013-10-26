@@ -1,1 +1,1 @@
-{"lat": 37.336554, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Oakvale", "lng": -80.95523, "zip_code": "24739"}
+{"locality": "Princeton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Oakvale", "Princeton"], "postal_code": "24739", "lat": 37.336554, "lng": -80.95523, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]}

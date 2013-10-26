@@ -1,1 +1,1 @@
-{"lat": 38.115015, "region": {"abbr": "CA", "name": "California"}, "locality": "Mare Island", "lng": -122.29055, "zip_code": "94592"}
+{"locality": "Vallejo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Vallejo"], "postal_code": "94592", "lat": 38.115015, "lng": -122.29055, "type": "STANDARD", "counties": [{"fips": "095", "name": "Solano"}]}

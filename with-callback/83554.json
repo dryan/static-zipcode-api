@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.717554, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "White Bird", "lng": -116.26936, "zip_code": "83554"});
+zipapicallback({"locality": "White Bird", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["White Bird"], "postal_code": "83554", "lat": 45.717554, "lng": -116.26936, "type": "STANDARD", "counties": [{"fips": "049", "name": "Idaho"}]});

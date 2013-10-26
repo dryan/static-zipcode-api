@@ -1,1 +1,1 @@
-{"lat": 38.167465, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Burnleys", "lng": -78.3259, "zip_code": "22923"}
+{"locality": "Barboursville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Barboursville", "Burnleys", "Eheart"], "postal_code": "22923", "lat": 38.167465, "lng": -78.3259, "type": "STANDARD", "counties": [{"fips": "137", "name": "Orange"}, {"fips": "079", "name": "Greene"}, {"fips": "003", "name": "Albemarle"}]}

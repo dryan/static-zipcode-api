@@ -1,1 +1,1 @@
-{"lat": 43.389365, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Kyle", "lng": -102.17671, "zip_code": "57752"}
+{"locality": "Kyle", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Kyle"], "postal_code": "57752", "lat": 43.389365, "lng": -102.17671, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}, {"fips": "071", "name": "Jackson"}]}

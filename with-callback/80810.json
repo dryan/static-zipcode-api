@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.846982, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cheyenne Wells", "lng": -102.37913, "zip_code": "80810"});
+zipapicallback({"locality": "Cheyenne Wells", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cheyenne Wells", "Cheyenne Wls"], "postal_code": "80810", "lat": 38.846982, "lng": -102.37913, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cheyenne"}]});

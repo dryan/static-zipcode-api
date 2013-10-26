@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.944264, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Tallula", "lng": -89.93366, "zip_code": "62688"});
+zipapicallback({"locality": "Tallula", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Tallula"], "postal_code": "62688", "lat": 39.944264, "lng": -89.93366, "type": "STANDARD", "counties": [{"fips": "129", "name": "Menard"}]});

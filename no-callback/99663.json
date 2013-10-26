@@ -1,1 +1,1 @@
-{"lat": 59.422698, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Seldovia", "lng": -151.71513, "zip_code": "99663"}
+{"locality": "Seldovia", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Seldovia"], "postal_code": "99663", "lat": 59.422698, "lng": -151.71513, "type": "POBOX", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]}

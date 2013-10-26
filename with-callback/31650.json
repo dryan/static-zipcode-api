@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.375165, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Willacoochee", "lng": -83.01949, "zip_code": "31650"});
+zipapicallback({"locality": "Willacoochee", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Willacoochee"], "postal_code": "31650", "lat": 31.375165, "lng": -83.01949, "type": "STANDARD", "counties": [{"fips": "003", "name": "Atkinson"}, {"fips": "069", "name": "Coffee"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.126066, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wolf Point", "lng": -105.65893, "zip_code": "59201"}
+{"locality": "Wolf Point", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Wolf Point"], "postal_code": "59201", "lat": 48.126066, "lng": -105.65893, "type": "STANDARD", "counties": [{"fips": "085", "name": "Roosevelt"}]}

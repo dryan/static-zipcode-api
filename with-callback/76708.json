@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.584132, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Waco", "lng": -97.18558, "zip_code": "76708"});
+zipapicallback({"locality": "Waco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Waco"], "postal_code": "76708", "lat": 31.584132, "lng": -97.18558, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}]});

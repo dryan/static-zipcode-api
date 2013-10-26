@@ -1,1 +1,1 @@
-{"lat": 34.720813, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Brownsboro", "lng": -86.48932, "zip_code": "35741"}
+{"locality": "Brownsboro", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Brownsboro"], "postal_code": "35741", "lat": 34.720813, "lng": -86.48932, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}]}

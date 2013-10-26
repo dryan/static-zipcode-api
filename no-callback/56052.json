@@ -1,1 +1,1 @@
-{"lat": 44.320314, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kilkenny", "lng": -93.57071, "zip_code": "56052"}
+{"locality": "Kilkenny", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kilkenny"], "postal_code": "56052", "lat": 44.320314, "lng": -93.57071, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}, {"fips": "131", "name": "Rice"}]}

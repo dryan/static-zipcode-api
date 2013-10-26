@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.058837, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hoskinston", "lng": -83.38533, "zip_code": "40844"});
+zipapicallback({"locality": "Hoskinston", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hoskinston"], "postal_code": "40844", "lat": 37.058837, "lng": -83.38533, "type": "POBOX", "counties": [{"fips": "131", "name": "Leslie"}]});

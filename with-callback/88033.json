@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.19563, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Fairacres", "lng": -107.10461, "zip_code": "88033"});
+zipapicallback({"locality": "Fairacres", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Fairacres"], "postal_code": "88033", "lat": 32.19563, "lng": -107.10461, "type": "POBOX", "counties": [{"fips": "013", "name": "Dona Ana"}]});

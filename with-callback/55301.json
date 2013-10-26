@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.237867, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Albertville", "lng": -93.66261, "zip_code": "55301"});
+zipapicallback({"locality": "Albertville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Albertville", "Otsego"], "postal_code": "55301", "lat": 45.237867, "lng": -93.66261, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]});

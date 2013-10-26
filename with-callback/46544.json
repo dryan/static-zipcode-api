@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.650672, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mishawaka", "lng": -86.16002, "zip_code": "46544"});
+zipapicallback({"locality": "Mishawaka", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mishawaka"], "postal_code": "46544", "lat": 41.650672, "lng": -86.16002, "type": "STANDARD", "counties": [{"fips": "141", "name": "Saint Joseph"}]});

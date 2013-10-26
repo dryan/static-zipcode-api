@@ -1,1 +1,1 @@
-{"lat": 46.534005, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wrenshall", "lng": -92.41983, "zip_code": "55797"}
+{"locality": "Wrenshall", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wrenshall"], "postal_code": "55797", "lat": 46.534005, "lng": -92.41983, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carlton"}, {"fips": "115", "name": "Pine"}]}

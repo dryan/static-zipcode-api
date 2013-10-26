@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.555145, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Riverdale", "lng": -84.40108, "zip_code": "30274"});
+zipapicallback({"locality": "Riverdale", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Riverdale"], "postal_code": "30274", "lat": 33.555145, "lng": -84.40108, "type": "STANDARD", "counties": [{"fips": "063", "name": "Clayton"}]});

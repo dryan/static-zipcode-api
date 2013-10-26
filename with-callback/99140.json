@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.080515, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Keller", "lng": -118.69498, "zip_code": "99140"});
+zipapicallback({"locality": "Keller", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Keller"], "postal_code": "99140", "lat": 48.080515, "lng": -118.69498, "type": "STANDARD", "counties": [{"fips": "019", "name": "Ferry"}, {"fips": "065", "name": "Stevens"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.172319, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Charlotte", "lng": -80.89731, "zip_code": "28217"}
+{"locality": "Charlotte", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Charlotte"], "postal_code": "28217", "lat": 35.172319, "lng": -80.89731, "type": "STANDARD", "counties": [{"fips": "119", "name": "Mecklenburg"}]}

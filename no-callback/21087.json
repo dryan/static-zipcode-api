@@ -1,1 +1,1 @@
-{"lat": 39.444457, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Kingsville", "lng": -76.40817, "zip_code": "21087"}
+{"locality": "Kingsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bradshaw", "Kingsville"], "postal_code": "21087", "lat": 39.444457, "lng": -76.40817, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}, {"fips": "025", "name": "Harford"}]}

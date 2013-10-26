@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.478349, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ruffin", "lng": -79.55518, "zip_code": "27326"});
+zipapicallback({"locality": "Ruffin", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ruffin"], "postal_code": "27326", "lat": 36.478349, "lng": -79.55518, "type": "STANDARD", "counties": [{"fips": "157", "name": "Rockingham"}, {"fips": "033", "name": "Caswell"}]});

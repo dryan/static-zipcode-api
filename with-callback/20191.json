@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.934709, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Reston", "lng": -77.3469, "zip_code": "20191"});
+zipapicallback({"locality": "Reston", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Herndon", "Reston"], "postal_code": "20191", "lat": 38.934709, "lng": -77.3469, "type": "STANDARD", "counties": []});

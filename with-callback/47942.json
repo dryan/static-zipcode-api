@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.692374, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Earl Park", "lng": -87.4346, "zip_code": "47942"});
+zipapicallback({"locality": "Earl Park", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Earl Park"], "postal_code": "47942", "lat": 40.692374, "lng": -87.4346, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}, {"fips": "111", "name": "Newton"}]});

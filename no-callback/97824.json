@@ -1,1 +1,1 @@
-{"lat": 45.331655, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Cove", "lng": -117.83718, "zip_code": "97824"}
+{"locality": "Cove", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Cove"], "postal_code": "97824", "lat": 45.331655, "lng": -117.83718, "type": "STANDARD", "counties": [{"fips": "061", "name": "Union"}]}

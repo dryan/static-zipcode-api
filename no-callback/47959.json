@@ -1,1 +1,1 @@
-{"lat": 40.860496, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Monon", "lng": -86.88963, "zip_code": "47959"}
+{"locality": "Monon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Monon"], "postal_code": "47959", "lat": 40.860496, "lng": -86.88963, "type": "STANDARD", "counties": [{"fips": "181", "name": "White"}, {"fips": "131", "name": "Pulaski"}, {"fips": "073", "name": "Jasper"}]}

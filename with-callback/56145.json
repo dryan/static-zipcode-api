@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.057605, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Jeffers", "lng": -95.18517, "zip_code": "56145"});
+zipapicallback({"locality": "Jeffers", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Jeffers"], "postal_code": "56145", "lat": 44.057605, "lng": -95.18517, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cottonwood"}]});

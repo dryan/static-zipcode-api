@@ -1,1 +1,1 @@
-{"lat": 44.288158, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "West Branch", "lng": -84.21162, "zip_code": "48661"}
+{"locality": "West Branch", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["West Branch"], "postal_code": "48661", "lat": 44.288158, "lng": -84.21162, "type": "STANDARD", "counties": [{"fips": "129", "name": "Ogemaw"}]}

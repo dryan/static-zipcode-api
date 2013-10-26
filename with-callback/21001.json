@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.508177, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Aberdeen", "lng": -76.18066, "zip_code": "21001"});
+zipapicallback({"locality": "Aberdeen", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Aberdeen"], "postal_code": "21001", "lat": 39.508177, "lng": -76.18066, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}]});

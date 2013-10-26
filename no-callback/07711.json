@@ -1,1 +1,1 @@
-{"lat": 40.236916, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Allenhurst", "lng": -74.0069, "zip_code": "07711"}
+{"locality": "Allenhurst", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Allenhurst", "Loch Arbour", "W Allenhurst", "West Allenhurst"], "postal_code": "07711", "lat": 40.236916, "lng": -74.0069, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

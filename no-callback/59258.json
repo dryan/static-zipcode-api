@@ -1,1 +1,1 @@
-{"lat": 48.591968, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Reserve", "lng": -104.61326, "zip_code": "59258"}
+{"locality": "Reserve", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Reserve"], "postal_code": "59258", "lat": 48.591968, "lng": -104.61326, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sheridan"}]}

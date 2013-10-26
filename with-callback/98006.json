@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.562975, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bellevue", "lng": -122.1526, "zip_code": "98006"});
+zipapicallback({"locality": "Bellevue", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bellevue", "Issaquah"], "postal_code": "98006", "lat": 47.562975, "lng": -122.1526, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

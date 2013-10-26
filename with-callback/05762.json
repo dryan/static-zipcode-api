@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.768578, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Pittsfield", "lng": -72.83138, "zip_code": "05762"});
+zipapicallback({"locality": "Pittsfield", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Pittsfield"], "postal_code": "05762", "lat": 43.768578, "lng": -72.83138, "type": "STANDARD", "counties": [{"fips": "021", "name": "Rutland"}, {"fips": "027", "name": "Windsor"}]});

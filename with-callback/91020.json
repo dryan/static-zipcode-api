@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.211494, "region": {"abbr": "CA", "name": "California"}, "locality": "Montrose", "lng": -118.23104, "zip_code": "91020"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Montrose"], "postal_code": "91020", "lat": 34.211494, "lng": -118.23104, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

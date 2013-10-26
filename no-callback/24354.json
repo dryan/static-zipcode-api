@@ -1,1 +1,1 @@
-{"lat": 36.828526, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Marion", "lng": -81.53045, "zip_code": "24354"}
+{"locality": "Marion", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Marion", "Seven Mile Fd", "Seven Mile Ford"], "postal_code": "24354", "lat": 36.828526, "lng": -81.53045, "type": "STANDARD", "counties": [{"fips": "173", "name": "Smyth"}]}

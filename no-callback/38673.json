@@ -1,1 +1,1 @@
-{"lat": 34.279282, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Taylor", "lng": -89.601, "zip_code": "38673"}
+{"locality": "Taylor", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Taylor"], "postal_code": "38673", "lat": 34.279282, "lng": -89.601, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lafayette"}]}

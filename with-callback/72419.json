@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.755308, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Caraway", "lng": -90.32581, "zip_code": "72419"});
+zipapicallback({"locality": "Caraway", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Caraway"], "postal_code": "72419", "lat": 35.755308, "lng": -90.32581, "type": "STANDARD", "counties": [{"fips": "031", "name": "Craighead"}]});

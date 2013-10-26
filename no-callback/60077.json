@@ -1,1 +1,1 @@
-{"lat": 42.033313, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Skokie", "lng": -87.75764, "zip_code": "60077"}
+{"locality": "Skokie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Skokie"], "postal_code": "60077", "lat": 42.033313, "lng": -87.75764, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

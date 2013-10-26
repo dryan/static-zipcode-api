@@ -1,1 +1,1 @@
-{"lat": 36.919476, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Exeter", "lng": -82.78974, "zip_code": "24216"}
+{"locality": "Appalachia", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Appalachia", "Exeter", "Stonega"], "postal_code": "24216", "lat": 36.919476, "lng": -82.78974, "type": "STANDARD", "counties": [{"fips": "195", "name": "Wise"}]}

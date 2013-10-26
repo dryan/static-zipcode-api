@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.39213, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Newton Hamilton", "lng": -77.83649, "zip_code": "17075"});
+zipapicallback({"locality": "Newton Hamilton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Newton Hamilton", "Newton Hamltn"], "postal_code": "17075", "lat": 40.39213, "lng": -77.83649, "type": "POBOX", "counties": [{"fips": "087", "name": "Mifflin"}]});

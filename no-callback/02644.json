@@ -1,1 +1,1 @@
-{"lat": 41.683462, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Forestdale", "lng": -70.51211, "zip_code": "02644"}
+{"locality": "Forestdale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Forestdale"], "postal_code": "02644", "lat": 41.683462, "lng": -70.51211, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

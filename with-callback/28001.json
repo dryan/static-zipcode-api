@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.351477, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Albemarle", "lng": -80.19879, "zip_code": "28001"});
+zipapicallback({"locality": "Albemarle", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Albemarle"], "postal_code": "28001", "lat": 35.351477, "lng": -80.19879, "type": "STANDARD", "counties": [{"fips": "167", "name": "Stanly"}]});

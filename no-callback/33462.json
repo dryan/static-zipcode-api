@@ -1,1 +1,1 @@
-{"lat": 26.579714, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lantana", "lng": -80.07437, "zip_code": "33462"}
+{"locality": "Lake Worth", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Atlantis", "Hypoluxo", "Lake Worth", "Lantana", "Manalapan"], "postal_code": "33462", "lat": 26.579714, "lng": -80.07437, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

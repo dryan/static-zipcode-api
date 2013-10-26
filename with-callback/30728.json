@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.696201, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "La Fayette", "lng": -85.25824, "zip_code": "30728"});
+zipapicallback({"locality": "La Fayette", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["La Fayette"], "postal_code": "30728", "lat": 34.696201, "lng": -85.25824, "type": "STANDARD", "counties": [{"fips": "295", "name": "Walker"}]});

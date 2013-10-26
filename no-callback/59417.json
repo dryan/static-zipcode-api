@@ -1,1 +1,1 @@
-{"lat": 48.556986, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Saint Mary", "lng": -113.0698, "zip_code": "59417"}
+{"locality": "Browning", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Browning", "Saint Mary"], "postal_code": "59417", "lat": 48.556986, "lng": -113.0698, "type": "STANDARD", "counties": [{"fips": "035", "name": "Glacier"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.362812, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Berlin", "lng": -98.48404, "zip_code": "58415"});
+zipapicallback({"locality": "Berlin", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Berlin", "Lamoure"], "postal_code": "58415", "lat": 46.362812, "lng": -98.48404, "type": "STANDARD", "counties": [{"fips": "045", "name": "Lamoure"}]});

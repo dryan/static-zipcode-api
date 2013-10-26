@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.712338, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Dennis", "lng": -70.16165, "zip_code": "02660"});
+zipapicallback({"locality": "South Dennis", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["South Dennis"], "postal_code": "02660", "lat": 41.712338, "lng": -70.16165, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

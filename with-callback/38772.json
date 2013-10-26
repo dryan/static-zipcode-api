@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.569415, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Scott", "lng": -91.0742, "zip_code": "38772"});
+zipapicallback({"locality": "Scott", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Scott"], "postal_code": "38772", "lat": 33.569415, "lng": -91.0742, "type": "POBOX", "counties": [{"fips": "011", "name": "Bolivar"}]});

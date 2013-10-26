@@ -1,1 +1,1 @@
-{"lat": 35.800025, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Leslie", "lng": -92.57586, "zip_code": "72645"}
+{"locality": "Leslie", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Leslie"], "postal_code": "72645", "lat": 35.800025, "lng": -92.57586, "type": "STANDARD", "counties": [{"fips": "129", "name": "Searcy"}, {"fips": "137", "name": "Stone"}, {"fips": "115", "name": "Pope"}, {"fips": "141", "name": "Van Buren"}]}

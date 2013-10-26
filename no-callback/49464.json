@@ -1,1 +1,1 @@
-{"lat": 42.829252, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Zeeland", "lng": -85.99621, "zip_code": "49464"}
+{"locality": "Zeeland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Zeeland"], "postal_code": "49464", "lat": 42.829252, "lng": -85.99621, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}, {"fips": "005", "name": "Allegan"}]}

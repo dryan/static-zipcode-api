@@ -1,1 +1,1 @@
-{"lat": 33.361766, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Girard", "lng": -100.6895, "zip_code": "79518"}
+{"locality": "Girard", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Girard"], "postal_code": "79518", "lat": 33.361766, "lng": -100.6895, "type": "STANDARD", "counties": [{"fips": "263", "name": "Kent"}]}

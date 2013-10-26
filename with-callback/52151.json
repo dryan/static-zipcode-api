@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.358764, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lansing", "lng": -91.25436, "zip_code": "52151"});
+zipapicallback({"locality": "Lansing", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lansing"], "postal_code": "52151", "lat": 43.358764, "lng": -91.25436, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allamakee"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.983639, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pamplico", "lng": -79.57018, "zip_code": "29583"}
+{"locality": "Pamplico", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pamplico"], "postal_code": "29583", "lat": 33.983639, "lng": -79.57018, "type": "STANDARD", "counties": [{"fips": "041", "name": "Florence"}]}

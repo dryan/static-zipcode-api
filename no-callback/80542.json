@@ -1,1 +1,1 @@
-{"lat": 40.234505, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mead", "lng": -104.99747, "zip_code": "80542"}
+{"locality": "Mead", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mead"], "postal_code": "80542", "lat": 40.234505, "lng": -104.99747, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

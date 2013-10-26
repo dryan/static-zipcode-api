@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.792636, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kensington", "lng": -99.03877, "zip_code": "66951"});
+zipapicallback({"locality": "Kensington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kensington"], "postal_code": "66951", "lat": 39.792636, "lng": -99.03877, "type": "STANDARD", "counties": [{"fips": "183", "name": "Smith"}, {"fips": "147", "name": "Phillips"}]});

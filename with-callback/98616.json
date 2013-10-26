@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.06517, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Cougar", "lng": -122.29411, "zip_code": "98616"});
+zipapicallback({"locality": "Cougar", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Cougar"], "postal_code": "98616", "lat": 46.06517, "lng": -122.29411, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cowlitz"}]});

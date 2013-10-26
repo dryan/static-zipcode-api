@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.139244, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Egan", "lng": -89.3968, "zip_code": "61047"});
+zipapicallback({"locality": "Leaf River", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Egan", "Leaf River"], "postal_code": "61047", "lat": 42.139244, "lng": -89.3968, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}, {"fips": "177", "name": "Stephenson"}, {"fips": "201", "name": "Winnebago"}]});

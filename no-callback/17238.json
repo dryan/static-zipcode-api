@@ -1,1 +1,1 @@
-{"lat": 39.847933, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Needmore", "lng": -78.12821, "zip_code": "17238"}
+{"locality": "Needmore", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Needmore"], "postal_code": "17238", "lat": 39.847933, "lng": -78.12821, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}]}

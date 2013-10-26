@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.219699, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Leo", "lng": -85.02486, "zip_code": "46765"});
+zipapicallback({"locality": "Leo", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Leo", "Leo-cedarville", "Leo-cedarvle"], "postal_code": "46765", "lat": 41.219699, "lng": -85.02486, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]});

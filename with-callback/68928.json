@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.320042, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bladen", "lng": -98.59331, "zip_code": "68928"});
+zipapicallback({"locality": "Bladen", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bladen"], "postal_code": "68928", "lat": 40.320042, "lng": -98.59331, "type": "STANDARD", "counties": [{"fips": "181", "name": "Webster"}, {"fips": "001", "name": "Adams"}, {"fips": "109", "name": "Lancaster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.165359, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Belzoni", "lng": -90.50127, "zip_code": "39038"});
+zipapicallback({"locality": "Belzoni", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Belzoni"], "postal_code": "39038", "lat": 33.165359, "lng": -90.50127, "type": "STANDARD", "counties": [{"fips": "053", "name": "Humphreys"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.525275, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Allons", "lng": -85.36148, "zip_code": "38541"}
+{"locality": "Allons", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Allons"], "postal_code": "38541", "lat": 36.525275, "lng": -85.36148, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}, {"fips": "027", "name": "Clay"}]}

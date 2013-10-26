@@ -1,1 +1,1 @@
-{"lat": 42.530288, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Twin Falls", "lng": -114.47509, "zip_code": "83301"}
+{"locality": "Twin Falls", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Hollister", "Twin Falls"], "postal_code": "83301", "lat": 42.530288, "lng": -114.47509, "type": "STANDARD", "counties": [{"fips": "083", "name": "Twin Falls"}, {"fips": "081", "name": "Teton"}]}

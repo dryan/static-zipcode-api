@@ -1,1 +1,1 @@
-{"lat": 41.221629, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Strattanville", "lng": -79.28293, "zip_code": "16258"}
+{"locality": "Strattanville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Strattanville"], "postal_code": "16258", "lat": 41.221629, "lng": -79.28293, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]}

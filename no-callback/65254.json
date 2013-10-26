@@ -1,1 +1,1 @@
-{"lat": 39.235444, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Glasgow", "lng": -92.84612, "zip_code": "65254"}
+{"locality": "Glasgow", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Glasgow"], "postal_code": "65254", "lat": 39.235444, "lng": -92.84612, "type": "STANDARD", "counties": [{"fips": "089", "name": "Howard"}, {"fips": "041", "name": "Chariton"}]}

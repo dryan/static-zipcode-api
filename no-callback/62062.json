@@ -1,1 +1,1 @@
-{"lat": 38.726548, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Maryville", "lng": -89.9572, "zip_code": "62062"}
+{"locality": "Maryville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Maryville"], "postal_code": "62062", "lat": 38.726548, "lng": -89.9572, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]}

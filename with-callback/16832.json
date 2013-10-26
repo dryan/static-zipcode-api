@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.847255, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Coburn", "lng": -77.47633, "zip_code": "16832"});
+zipapicallback({"locality": "Coburn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coburn"], "postal_code": "16832", "lat": 40.847255, "lng": -77.47633, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]});

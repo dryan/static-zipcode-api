@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.804076, "region": {"abbr": "NY", "name": "New York"}, "locality": "Schenectady", "lng": -73.93571, "zip_code": "12307"});
+zipapicallback({"locality": "Schenectady", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Schenectady"], "postal_code": "12307", "lat": 42.804076, "lng": -73.93571, "type": "STANDARD", "counties": [{"fips": "093", "name": "Schenectady"}]});

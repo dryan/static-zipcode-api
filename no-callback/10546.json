@@ -1,1 +1,1 @@
-{"lat": 41.199502, "region": {"abbr": "NY", "name": "New York"}, "locality": "Millwood", "lng": -73.79269, "zip_code": "10546"}
+{"locality": "Millwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Millwood"], "postal_code": "10546", "lat": 41.199502, "lng": -73.79269, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

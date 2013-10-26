@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.049949, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Cohagen", "lng": -106.58157, "zip_code": "59322"});
+zipapicallback({"locality": "Cohagen", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Cohagen"], "postal_code": "59322", "lat": 47.049949, "lng": -106.58157, "type": "STANDARD", "counties": [{"fips": "033", "name": "Garfield"}]});

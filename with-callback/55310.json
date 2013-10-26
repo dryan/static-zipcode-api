@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.761856, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bird Island", "lng": -94.8845, "zip_code": "55310"});
+zipapicallback({"locality": "Bird Island", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bird Island"], "postal_code": "55310", "lat": 44.761856, "lng": -94.8845, "type": "STANDARD", "counties": [{"fips": "129", "name": "Renville"}, {"fips": "067", "name": "Kandiyohi"}]});

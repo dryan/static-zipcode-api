@@ -1,1 +1,1 @@
-{"lat": 48.470278, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Wolford", "lng": -99.67497, "zip_code": "58385"}
+{"locality": "Wolford", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Wolford"], "postal_code": "58385", "lat": 48.470278, "lng": -99.67497, "type": "STANDARD", "counties": [{"fips": "069", "name": "Pierce"}, {"fips": "079", "name": "Rolette"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.441008, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Monroe", "lng": -84.36582, "zip_code": "45050"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Liberty Tnsp", "Liberty Twnship", "Liberty Twp", "Monroe"], "postal_code": "45050", "lat": 39.441008, "lng": -84.36582, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]});

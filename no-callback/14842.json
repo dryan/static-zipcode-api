@@ -1,1 +1,1 @@
-{"lat": 42.595985, "region": {"abbr": "NY", "name": "New York"}, "locality": "Himrod", "lng": -76.94713, "zip_code": "14842"}
+{"locality": "Himrod", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Himrod"], "postal_code": "14842", "lat": 42.595985, "lng": -76.94713, "type": "STANDARD", "counties": [{"fips": "123", "name": "Yates"}]}

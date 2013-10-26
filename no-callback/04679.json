@@ -1,1 +1,1 @@
-{"lat": 44.278453, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Southwest Harbor", "lng": -68.32186, "zip_code": "04679"}
+{"locality": "Southwest Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Southwest Harbor", "Southwest Hbr"], "postal_code": "04679", "lat": 44.278453, "lng": -68.32186, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

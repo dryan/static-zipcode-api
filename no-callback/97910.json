@@ -1,1 +1,1 @@
-{"lat": 42.749306, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Jordan Valley", "lng": -116.8863, "zip_code": "97910"}
+{"locality": "Jordan Valley", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Jordan Valley", "South Mountain", "South Mtn"], "postal_code": "97910", "lat": 42.749306, "lng": -116.8863, "type": "STANDARD", "counties": [{"fips": "045", "name": "Malheur"}]}

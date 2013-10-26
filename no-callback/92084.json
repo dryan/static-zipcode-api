@@ -1,1 +1,1 @@
-{"lat": 33.213309, "region": {"abbr": "CA", "name": "California"}, "locality": "Vista", "lng": -117.21474, "zip_code": "92084"}
+{"locality": "Vista", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Vista"], "postal_code": "92084", "lat": 33.213309, "lng": -117.21474, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

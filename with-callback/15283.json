@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh"], "postal_code": "15283", "type": "UNIQUE", "counties": [{"fips": "003", "name": "Allegheny"}]});

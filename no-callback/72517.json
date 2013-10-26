@@ -1,1 +1,1 @@
-{"lat": 36.126021, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Brockwell", "lng": -91.96619, "zip_code": "72517"}
+{"locality": "Brockwell", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Brockwell"], "postal_code": "72517", "lat": 36.126021, "lng": -91.96619, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]}

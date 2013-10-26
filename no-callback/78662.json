@@ -1,1 +1,1 @@
-{"lat": 29.950887, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Red Rock", "lng": -97.42728, "zip_code": "78662"}
+{"locality": "Red Rock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Red Rock"], "postal_code": "78662", "lat": 29.950887, "lng": -97.42728, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bastrop"}]}

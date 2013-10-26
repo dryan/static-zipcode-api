@@ -1,1 +1,1 @@
-{"lat": 35.109207, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Campobello", "lng": -82.141, "zip_code": "29322"}
+{"locality": "Campobello", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Campobello"], "postal_code": "29322", "lat": 35.109207, "lng": -82.141, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}, {"fips": "045", "name": "Greenville"}]}

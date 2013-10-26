@@ -1,1 +1,1 @@
-{"lat": 35.250612, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Erick", "lng": -99.88029, "zip_code": "73645"}
+{"locality": "Erick", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Erick"], "postal_code": "73645", "lat": 35.250612, "lng": -99.88029, "type": "STANDARD", "counties": [{"fips": "009", "name": "Beckham"}]}

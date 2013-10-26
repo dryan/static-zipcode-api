@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.693787, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Connellys Spring", "lng": -81.51726, "zip_code": "28612"});
+zipapicallback({"locality": "Connellys Springs", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Connelly Spg", "Connellys Spg", "Connellys Springs"], "postal_code": "28612", "lat": 35.693787, "lng": -81.51726, "type": "STANDARD", "counties": [{"fips": "023", "name": "Burke"}, {"fips": "035", "name": "Catawba"}]});

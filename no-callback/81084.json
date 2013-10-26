@@ -1,1 +1,1 @@
-{"lat": 37.567773, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lycan", "lng": -102.39192, "zip_code": "81084"}
+{"locality": "Two Buttes", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Lycan", "Two Buttes"], "postal_code": "81084", "lat": 37.567773, "lng": -102.39192, "type": "STANDARD", "counties": [{"fips": "009", "name": "Baca"}]}

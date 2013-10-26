@@ -1,1 +1,1 @@
-{"lat": 28.187356, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Wesley Chapel", "lng": -82.31601, "zip_code": "33543"}
+{"locality": "Wesley Chapel", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Wesley Chapel", "Zephyrhills"], "postal_code": "33543", "lat": 28.187356, "lng": -82.31601, "type": "STANDARD", "counties": []}

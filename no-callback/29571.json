@@ -1,1 +1,1 @@
-{"lat": 34.164094, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Marion", "lng": -79.396, "zip_code": "29571"}
+{"locality": "Marion", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Marion"], "postal_code": "29571", "lat": 34.164094, "lng": -79.396, "type": "STANDARD", "counties": [{"fips": "067", "name": "Marion"}]}

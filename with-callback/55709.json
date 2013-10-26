@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.372262, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bovey", "lng": -93.38998, "zip_code": "55709"});
+zipapicallback({"locality": "Bovey", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bovey"], "postal_code": "55709", "lat": 47.372262, "lng": -93.38998, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]});

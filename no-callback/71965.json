@@ -1,1 +1,1 @@
-{"lat": 34.655204, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pencil Bluff", "lng": -93.73748, "zip_code": "71965"}
+{"locality": "Pencil Bluff", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pencil Bluff"], "postal_code": "71965", "lat": 34.655204, "lng": -93.73748, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}]}

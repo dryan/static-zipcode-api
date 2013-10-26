@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.551106, "region": {"abbr": "CA", "name": "California"}, "locality": "Sacramento", "lng": -121.45996, "zip_code": "95817"});
+zipapicallback({"locality": "Sacramento", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sacramento"], "postal_code": "95817", "lat": 38.551106, "lng": -121.45996, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

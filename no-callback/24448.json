@@ -1,1 +1,1 @@
-{"lat": 37.797214, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Iron Gate", "lng": -79.79002, "zip_code": "24448"}
+{"locality": "Iron Gate", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Iron Gate"], "postal_code": "24448", "lat": 37.797214, "lng": -79.79002, "type": "POBOX", "counties": [{"fips": "005", "name": "Alleghany"}]}

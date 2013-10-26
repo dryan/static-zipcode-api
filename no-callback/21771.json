@@ -1,1 +1,1 @@
-{"lat": 39.381295, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Mount Airy", "lng": -77.15867, "zip_code": "21771"}
+{"locality": "Mount Airy", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Mount Airy"], "postal_code": "21771", "lat": 39.381295, "lng": -77.15867, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}, {"fips": "027", "name": "Howard"}, {"fips": "031", "name": "Montgomery"}, {"fips": "021", "name": "Frederick"}]}

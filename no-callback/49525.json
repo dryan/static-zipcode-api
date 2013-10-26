@@ -1,1 +1,1 @@
-{"lat": 43.022199, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grand Rapids", "lng": -85.61168, "zip_code": "49525"}
+{"locality": "Grand Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Rapids"], "postal_code": "49525", "lat": 43.022199, "lng": -85.61168, "type": "STANDARD", "counties": []}

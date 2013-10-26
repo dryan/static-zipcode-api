@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.495983, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Nicholls", "lng": -82.62928, "zip_code": "31554"});
+zipapicallback({"locality": "Nicholls", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Nicholls"], "postal_code": "31554", "lat": 31.495983, "lng": -82.62928, "type": "STANDARD", "counties": [{"fips": "069", "name": "Coffee"}, {"fips": "299", "name": "Ware"}, {"fips": "005", "name": "Bacon"}]});

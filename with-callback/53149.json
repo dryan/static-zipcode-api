@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.872477, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mukwonago", "lng": -88.34409, "zip_code": "53149"});
+zipapicallback({"locality": "Mukwonago", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mukwonago"], "postal_code": "53149", "lat": 42.872477, "lng": -88.34409, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "101", "name": "Racine"}, {"fips": "127", "name": "Walworth"}]});

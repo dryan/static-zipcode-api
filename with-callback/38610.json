@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.659973, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Blue Mountain", "lng": -89.02625, "zip_code": "38610"});
+zipapicallback({"locality": "Blue Mountain", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Blue Mountain"], "postal_code": "38610", "lat": 34.659973, "lng": -89.02625, "type": "STANDARD", "counties": [{"fips": "139", "name": "Tippah"}, {"fips": "009", "name": "Benton"}, {"fips": "145", "name": "Union"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.245062, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Sinai", "lng": -97.04171, "zip_code": "57061"});
+zipapicallback({"locality": "Sinai", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Sinai"], "postal_code": "57061", "lat": 44.245062, "lng": -97.04171, "type": "POBOX", "counties": [{"fips": "011", "name": "Brookings"}]});

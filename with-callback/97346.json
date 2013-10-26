@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.754247, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Gates", "lng": -122.39736, "zip_code": "97346"});
+zipapicallback({"locality": "Gates", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Gates"], "postal_code": "97346", "lat": 44.754247, "lng": -122.39736, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}, {"fips": "043", "name": "Linn"}]});

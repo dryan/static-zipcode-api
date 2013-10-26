@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.012729, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dobbs Ferry", "lng": -73.86602, "zip_code": "10522"});
+zipapicallback({"locality": "Dobbs Ferry", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dobbs Ferry"], "postal_code": "10522", "lat": 41.012729, "lng": -73.86602, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

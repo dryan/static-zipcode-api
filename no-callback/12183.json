@@ -1,1 +1,1 @@
-{"lat": 42.743289, "region": {"abbr": "NY", "name": "New York"}, "locality": "Green Island", "lng": -73.69482, "zip_code": "12183"}
+{"locality": "Troy", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Green Island", "Troy"], "postal_code": "12183", "lat": 42.743289, "lng": -73.69482, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

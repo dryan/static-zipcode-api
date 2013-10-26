@@ -1,1 +1,1 @@
-{"lat": 32.457301, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Alto", "lng": -91.78754, "zip_code": "71269"}
+{"locality": "Rayville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Alto", "Girard", "Holly Ridge", "Rayville"], "postal_code": "71269", "lat": 32.457301, "lng": -91.78754, "type": "STANDARD", "counties": [{"fips": "083", "name": "Richland"}]}

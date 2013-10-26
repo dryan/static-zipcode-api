@@ -1,1 +1,1 @@
-{"lat": 38.149058, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glen Ferris", "lng": -81.21276, "zip_code": "25090"}
+{"locality": "Glen Ferris", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glen Ferris"], "postal_code": "25090", "lat": 38.149058, "lng": -81.21276, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]}

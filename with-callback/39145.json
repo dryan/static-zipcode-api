@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.335063, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pelahatchie", "lng": -89.80491, "zip_code": "39145"});
+zipapicallback({"locality": "Pelahatchie", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Pelahatchie"], "postal_code": "39145", "lat": 32.335063, "lng": -89.80491, "type": "STANDARD", "counties": [{"fips": "121", "name": "Rankin"}, {"fips": "123", "name": "Scott"}]});

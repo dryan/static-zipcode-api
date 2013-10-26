@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.666515, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Whitesville", "lng": -86.86454, "zip_code": "42378"});
+zipapicallback({"locality": "Whitesville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Whitesville"], "postal_code": "42378", "lat": 37.666515, "lng": -86.86454, "type": "STANDARD", "counties": [{"fips": "059", "name": "Daviess"}, {"fips": "183", "name": "Ohio"}]});

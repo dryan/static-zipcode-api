@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.310924, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sarasota", "lng": -82.5213, "zip_code": "34239"});
+zipapicallback({"locality": "Sarasota", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sarasota"], "postal_code": "34239", "lat": 27.310924, "lng": -82.5213, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}]});

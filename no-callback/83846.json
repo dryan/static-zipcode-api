@@ -1,1 +1,1 @@
-{"lat": 47.466971, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Mullan", "lng": -115.78377, "zip_code": "83846"}
+{"locality": "Mullan", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Mullan"], "postal_code": "83846", "lat": 47.466971, "lng": -115.78377, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]}

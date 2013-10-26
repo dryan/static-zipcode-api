@@ -1,1 +1,1 @@
-{"lat": 40.091196, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Salunga", "lng": -76.41582, "zip_code": "17538"}
+{"locality": "Landisville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Landisville", "Salunga"], "postal_code": "17538", "lat": 40.091196, "lng": -76.41582, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]}

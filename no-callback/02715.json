@@ -1,1 +1,1 @@
-{"lat": 41.811514, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Dighton", "lng": -71.13633, "zip_code": "02715"}
+{"locality": "Dighton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Dighton"], "postal_code": "02715", "lat": 41.811514, "lng": -71.13633, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]}

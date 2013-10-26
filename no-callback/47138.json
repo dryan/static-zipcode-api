@@ -1,1 +1,1 @@
-{"lat": 38.678365, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lexington", "lng": -85.6097, "zip_code": "47138"}
+{"locality": "Lexington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Blocher", "Lexington"], "postal_code": "47138", "lat": 38.678365, "lng": -85.6097, "type": "STANDARD", "counties": [{"fips": "143", "name": "Scott"}, {"fips": "019", "name": "Clark"}]}

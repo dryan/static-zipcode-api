@@ -1,1 +1,1 @@
-{"lat": 39.892676, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "London", "lng": -83.43643, "zip_code": "43140"}
+{"locality": "London", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["London", "Summerford"], "postal_code": "43140", "lat": 39.892676, "lng": -83.43643, "type": "STANDARD", "counties": [{"fips": "097", "name": "Madison"}, {"fips": "023", "name": "Clark"}, {"fips": "049", "name": "Franklin"}]}

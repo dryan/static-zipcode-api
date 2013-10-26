@@ -1,1 +1,1 @@
-{"lat": 31.663529, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Water Valley", "lng": -100.71789, "zip_code": "76958"}
+{"locality": "Water Valley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Water Valley"], "postal_code": "76958", "lat": 31.663529, "lng": -100.71789, "type": "POBOX", "counties": [{"fips": "451", "name": "Tom Green"}]}

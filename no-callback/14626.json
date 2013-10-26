@@ -1,1 +1,1 @@
-{"lat": 43.214613, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rochester", "lng": -77.70626, "zip_code": "14626"}
+{"locality": "Rochester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Greece", "Ridgemont", "Rochester"], "postal_code": "14626", "lat": 43.214613, "lng": -77.70626, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}]}

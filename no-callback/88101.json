@@ -1,1 +1,1 @@
-{"lat": 34.432846, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Clovis", "lng": -103.22589, "zip_code": "88101"}
+{"locality": "Clovis", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cannon Afb", "Clovis"], "postal_code": "88101", "lat": 34.432846, "lng": -103.22589, "type": "STANDARD", "counties": [{"fips": "009", "name": "Curry"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.425925, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Minden", "lng": -95.5461, "zip_code": "51553"}
+{"locality": "Minden", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Minden"], "postal_code": "51553", "lat": 41.425925, "lng": -95.5461, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]}

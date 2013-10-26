@@ -1,1 +1,1 @@
-{"lat": 30.86741, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Elizabeth", "lng": -92.79442, "zip_code": "70638"}
+{"locality": "Elizabeth", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Elizabeth"], "postal_code": "70638", "lat": 30.86741, "lng": -92.79442, "type": "POBOX", "counties": [{"fips": "003", "name": "Allen"}]}

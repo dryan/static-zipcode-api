@@ -1,1 +1,1 @@
-{"lat": 44.54141, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brier Hill", "lng": -75.70576, "zip_code": "13614"}
+{"locality": "Brier Hill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brier Hill"], "postal_code": "13614", "lat": 44.54141, "lng": -75.70576, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

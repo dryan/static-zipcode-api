@@ -1,1 +1,1 @@
-{"lat": 41.778651, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Coventry", "lng": -72.33137, "zip_code": "06238"}
+{"locality": "Coventry", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Coventry"], "postal_code": "06238", "lat": 41.778651, "lng": -72.33137, "type": "STANDARD", "counties": [{"fips": "013", "name": "Tolland"}]}

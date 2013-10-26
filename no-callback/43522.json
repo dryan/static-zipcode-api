@@ -1,1 +1,1 @@
-{"lat": 41.427352, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Grand Rapids", "lng": -83.84944, "zip_code": "43522"}
+{"locality": "Grand Rapids", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Grand Rapids"], "postal_code": "43522", "lat": 41.427352, "lng": -83.84944, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}, {"fips": "069", "name": "Henry"}, {"fips": "095", "name": "Lucas"}]}

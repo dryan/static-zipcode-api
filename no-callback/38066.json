@@ -1,1 +1,1 @@
-{"lat": 35.076213, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Rossville", "lng": -89.5329, "zip_code": "38066"}
+{"locality": "Rossville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Rossville", "Williston"], "postal_code": "38066", "lat": 35.076213, "lng": -89.5329, "type": "STANDARD", "counties": [{"fips": "047", "name": "Fayette"}]}

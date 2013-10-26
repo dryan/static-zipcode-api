@@ -1,1 +1,1 @@
-{"lat": 47.737028, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ardenvoir", "lng": -120.37126, "zip_code": "98811"}
+{"locality": "Ardenvoir", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ardenvoir"], "postal_code": "98811", "lat": 47.737028, "lng": -120.37126, "type": "POBOX", "counties": [{"fips": "007", "name": "Chelan"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.076708, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Vadnais Heights", "lng": -93.0828, "zip_code": "55127"}
+{"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Little Canada", "North Oaks", "Saint Paul", "Vadnais Heights", "Vadnais Hts", "White Bear Lk"], "postal_code": "55127", "lat": 45.076708, "lng": -93.0828, "type": "STANDARD", "counties": [{"fips": "123", "name": "Ramsey"}, {"fips": "127", "name": "Redwood"}, {"fips": "163", "name": "Washington"}]}

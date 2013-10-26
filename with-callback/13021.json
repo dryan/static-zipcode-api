@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.922273, "region": {"abbr": "NY", "name": "New York"}, "locality": "Auburn", "lng": -76.55882, "zip_code": "13021"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Auburn", "Owasco"], "postal_code": "13021", "lat": 42.922273, "lng": -76.55882, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cayuga"}, {"fips": "067", "name": "Onondaga"}]});

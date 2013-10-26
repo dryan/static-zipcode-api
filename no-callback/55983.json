@@ -1,1 +1,1 @@
-{"lat": 44.285672, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wanamingo", "lng": -92.79816, "zip_code": "55983"}
+{"locality": "Wanamingo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wanamingo"], "postal_code": "55983", "lat": 44.285672, "lng": -92.79816, "type": "STANDARD", "counties": [{"fips": "049", "name": "Goodhue"}]}

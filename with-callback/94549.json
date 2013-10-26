@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.895695, "region": {"abbr": "CA", "name": "California"}, "locality": "Lafayette", "lng": -122.11785, "zip_code": "94549"});
+zipapicallback({"locality": "Lafayette", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lafayette"], "postal_code": "94549", "lat": 37.895695, "lng": -122.11785, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

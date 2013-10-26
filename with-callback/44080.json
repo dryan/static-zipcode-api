@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.372452, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Parkman", "lng": -81.06617, "zip_code": "44080"});
+zipapicallback({"locality": "Parkman", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Parkman"], "postal_code": "44080", "lat": 41.372452, "lng": -81.06617, "type": "POBOX", "counties": [{"fips": "055", "name": "Geauga"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.082553, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Nettleton", "lng": -88.58797, "zip_code": "38858"}
+{"locality": "Nettleton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Nettleton"], "postal_code": "38858", "lat": 34.082553, "lng": -88.58797, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}, {"fips": "081", "name": "Lee"}, {"fips": "057", "name": "Itawamba"}]}

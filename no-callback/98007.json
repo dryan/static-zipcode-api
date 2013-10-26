@@ -1,1 +1,1 @@
-{"lat": 47.610935, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bellevue", "lng": -122.14104, "zip_code": "98007"}
+{"locality": "Bellevue", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bellevue"], "postal_code": "98007", "lat": 47.610935, "lng": -122.14104, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

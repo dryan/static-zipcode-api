@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.696621, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Pylesville", "lng": -76.42781, "zip_code": "21132"});
+zipapicallback({"locality": "Pylesville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Pylesville"], "postal_code": "21132", "lat": 39.696621, "lng": -76.42781, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}]});

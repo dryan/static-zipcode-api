@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.558073, "region": {"abbr": "CA", "name": "California"}, "locality": "Mather Afb", "lng": -121.28737, "zip_code": "95655"});
+zipapicallback({"locality": "Mather", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mather"], "postal_code": "95655", "lat": 38.558073, "lng": -121.28737, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

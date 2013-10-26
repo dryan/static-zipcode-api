@@ -1,1 +1,1 @@
-{"lat": 42.510364, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Declo", "lng": -113.41808, "zip_code": "83323"}
+{"locality": "Declo", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Declo"], "postal_code": "83323", "lat": 42.510364, "lng": -113.41808, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cassia"}]}

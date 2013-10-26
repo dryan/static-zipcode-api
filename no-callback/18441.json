@@ -1,1 +1,1 @@
-{"lat": 41.663906, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lenoxville", "lng": -75.62979, "zip_code": "18441"}
+{"locality": "Lenoxville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clifford Township", "Clifford Twp", "Lenoxville", "Nicholson"], "postal_code": "18441", "lat": 41.663906, "lng": -75.62979, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.440245, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wyatt", "lng": -80.35233, "zip_code": "26463"});
+zipapicallback({"locality": "Wyatt", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Wyatt"], "postal_code": "26463", "lat": 39.440245, "lng": -80.35233, "type": "POBOX", "counties": [{"fips": "033", "name": "Harrison"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.527681, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "North English", "lng": -92.09326, "zip_code": "52316"}
+{"locality": "North English", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["North English"], "postal_code": "52316", "lat": 41.527681, "lng": -92.09326, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]}

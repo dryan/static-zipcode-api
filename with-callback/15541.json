@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.053525, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Friedens", "lng": -78.99023, "zip_code": "15541"});
+zipapicallback({"locality": "Friedens", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Friedens"], "postal_code": "15541", "lat": 40.053525, "lng": -78.99023, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}]});

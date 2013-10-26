@@ -1,1 +1,1 @@
-{"lat": 41.020433, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Greenwich", "lng": -82.50097, "zip_code": "44837"}
+{"locality": "Greenwich", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Greenwich"], "postal_code": "44837", "lat": 41.020433, "lng": -82.50097, "type": "STANDARD", "counties": [{"fips": "077", "name": "Huron"}, {"fips": "005", "name": "Ashland"}, {"fips": "139", "name": "Richland"}]}

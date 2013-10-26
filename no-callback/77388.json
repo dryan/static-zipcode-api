@@ -1,1 +1,1 @@
-{"lat": 30.055195, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Spring", "lng": -95.46826, "zip_code": "77388"}
+{"locality": "Spring", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Spring"], "postal_code": "77388", "lat": 30.055195, "lng": -95.46826, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

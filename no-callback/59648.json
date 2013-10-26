@@ -1,1 +1,1 @@
-{"lat": 47.035168, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wolf Creek", "lng": -112.09073, "zip_code": "59648"}
+{"locality": "Wolf Creek", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Craig", "Wolf Creek"], "postal_code": "59648", "lat": 47.035168, "lng": -112.09073, "type": "STANDARD", "counties": [{"fips": "049", "name": "Lewis and Clark"}]}

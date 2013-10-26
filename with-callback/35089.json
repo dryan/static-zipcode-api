@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.941708, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Kellyton", "lng": -86.06098, "zip_code": "35089"});
+zipapicallback({"locality": "Kellyton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Kellyton"], "postal_code": "35089", "lat": 32.941708, "lng": -86.06098, "type": "STANDARD", "counties": [{"fips": "037", "name": "Coosa"}, {"fips": "123", "name": "Tallapoosa"}]});

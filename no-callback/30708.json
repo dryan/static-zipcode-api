@@ -1,1 +1,1 @@
-{"lat": 34.945576, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cisco", "lng": -84.7113, "zip_code": "30708"}
+{"locality": "Cisco", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cisco"], "postal_code": "30708", "lat": 34.945576, "lng": -84.7113, "type": "STANDARD", "counties": [{"fips": "213", "name": "Murray"}]}

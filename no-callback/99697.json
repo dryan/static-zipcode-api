@@ -1,1 +1,1 @@
-{"lat": 57.564289, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kodiak", "lng": -153.40755, "zip_code": "99697"}
+{"locality": "Kodiak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kodiak"], "postal_code": "99697", "lat": 57.564289, "lng": -153.40755, "type": "POBOX", "counties": [{"fips": "150", "name": "Kodiak Island"}]}

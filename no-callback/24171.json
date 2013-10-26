@@ -1,1 +1,1 @@
-{"lat": 36.655575, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Stuart", "lng": -80.23909, "zip_code": "24171"}
+{"locality": "Stuart", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Stuart"], "postal_code": "24171", "lat": 36.655575, "lng": -80.23909, "type": "STANDARD", "counties": [{"fips": "141", "name": "Patrick"}, {"fips": "169", "name": "Stokes"}]}

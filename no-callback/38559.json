@@ -1,1 +1,1 @@
-{"lat": 35.833271, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Doyle", "lng": -85.51921, "zip_code": "38559"}
+{"locality": "Doyle", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Doyle"], "postal_code": "38559", "lat": 35.833271, "lng": -85.51921, "type": "STANDARD", "counties": [{"fips": "185", "name": "White"}]}

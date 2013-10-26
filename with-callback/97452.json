@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.864671, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lowell", "lng": -122.70932, "zip_code": "97452"});
+zipapicallback({"locality": "Lowell", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lowell"], "postal_code": "97452", "lat": 43.864671, "lng": -122.70932, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

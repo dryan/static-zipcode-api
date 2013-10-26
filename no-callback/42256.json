@@ -1,1 +1,1 @@
-{"lat": 37.020366, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lewisburg", "lng": -86.94284, "zip_code": "42256"}
+{"locality": "Lewisburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lewisburg", "Quality"], "postal_code": "42256", "lat": 37.020366, "lng": -86.94284, "type": "STANDARD", "counties": [{"fips": "141", "name": "Logan"}, {"fips": "177", "name": "Muhlenberg"}, {"fips": "219", "name": "Todd"}, {"fips": "031", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.115156, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Emmetsburg", "lng": -94.6931, "zip_code": "50536"});
+zipapicallback({"locality": "Emmetsburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Emmetsburg"], "postal_code": "50536", "lat": 43.115156, "lng": -94.6931, "type": "STANDARD", "counties": [{"fips": "147", "name": "Palo Alto"}]});

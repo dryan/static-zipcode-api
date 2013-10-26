@@ -1,1 +1,1 @@
-{"lat": 32.560845, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Flora", "lng": -90.31338, "zip_code": "39071"}
+{"locality": "Flora", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Flora"], "postal_code": "39071", "lat": 32.560845, "lng": -90.31338, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "049", "name": "Hinds"}]}

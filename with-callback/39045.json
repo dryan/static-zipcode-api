@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.791408, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Camden", "lng": -89.82958, "zip_code": "39045"});
+zipapicallback({"locality": "Camden", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Camden"], "postal_code": "39045", "lat": 32.791408, "lng": -89.82958, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "079", "name": "Leake"}, {"fips": "007", "name": "Attala"}]});

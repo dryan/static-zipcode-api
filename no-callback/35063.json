@@ -1,1 +1,1 @@
-{"lat": 33.805216, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Empire", "lng": -87.00192, "zip_code": "35063"}
+{"locality": "Empire", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Empire"], "postal_code": "35063", "lat": 33.805216, "lng": -87.00192, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walker"}, {"fips": "009", "name": "Blount"}, {"fips": "073", "name": "Jefferson"}]}

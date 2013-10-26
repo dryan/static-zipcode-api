@@ -1,1 +1,1 @@
-{"lat": 33.640823, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "New Castle", "lng": -86.77574, "zip_code": "35119"}
+{"locality": "New Castle", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["New Castle"], "postal_code": "35119", "lat": 33.640823, "lng": -86.77574, "type": "POBOX", "counties": [{"fips": "073", "name": "Jefferson"}]}

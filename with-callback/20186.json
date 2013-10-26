@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.707135, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Warrenton", "lng": -77.8145, "zip_code": "20186"});
+zipapicallback({"locality": "Warrenton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Warrenton"], "postal_code": "20186", "lat": 38.707135, "lng": -77.8145, "type": "STANDARD", "counties": []});

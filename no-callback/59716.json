@@ -1,1 +1,1 @@
-{"lat": 45.268367, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Big Sky", "lng": -111.32651, "zip_code": "59716"}
+{"locality": "Big Sky", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Big Sky"], "postal_code": "59716", "lat": 45.268367, "lng": -111.32651, "type": "POBOX", "counties": [{"fips": "031", "name": "Gallatin"}]}

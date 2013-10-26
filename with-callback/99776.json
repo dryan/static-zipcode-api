@@ -1,1 +1,1 @@
-zipapicallback({"lat": 63.376206, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tanacross", "lng": -143.35699, "zip_code": "99776"});
+zipapicallback({"locality": "Tanacross", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Tanacross", "Tok"], "postal_code": "99776", "lat": 63.376206, "lng": -143.35699, "type": "POBOX", "counties": []});

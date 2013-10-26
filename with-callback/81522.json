@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.715101, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Gateway", "lng": -109.01087, "zip_code": "81522"});
+zipapicallback({"locality": "Gateway", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Gateway"], "postal_code": "81522", "lat": 38.715101, "lng": -109.01087, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]});

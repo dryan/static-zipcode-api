@@ -1,1 +1,1 @@
-{"lat": 39.046079, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Idaho", "lng": -83.06459, "zip_code": "45661"}
+{"locality": "Piketon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Idaho", "Piketon"], "postal_code": "45661", "lat": 39.046079, "lng": -83.06459, "type": "STANDARD", "counties": [{"fips": "131", "name": "Pike"}]}

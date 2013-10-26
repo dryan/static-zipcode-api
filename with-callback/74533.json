@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.217672, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Caney", "lng": -96.19634, "zip_code": "74533"});
+zipapicallback({"locality": "Caney", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Caney"], "postal_code": "74533", "lat": 34.217672, "lng": -96.19634, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atoka"}]});

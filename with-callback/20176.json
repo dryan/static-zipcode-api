@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.138978, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Leesburg", "lng": -77.54519, "zip_code": "20176"});
+zipapicallback({"locality": "Leesburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lansdowne", "Leesburg"], "postal_code": "20176", "lat": 39.138978, "lng": -77.54519, "type": "STANDARD", "counties": []});

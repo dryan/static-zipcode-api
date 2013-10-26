@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.670475, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Odum", "lng": -82.04944, "zip_code": "31555"});
+zipapicallback({"locality": "Odum", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Odum"], "postal_code": "31555", "lat": 31.670475, "lng": -82.04944, "type": "STANDARD", "counties": [{"fips": "305", "name": "Wayne"}, {"fips": "001", "name": "Appling"}]});

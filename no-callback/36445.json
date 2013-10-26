@@ -1,1 +1,1 @@
-{"lat": 31.429994, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Frisco City", "lng": -87.41631, "zip_code": "36445"}
+{"locality": "Frisco City", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Frisco City"], "postal_code": "36445", "lat": 31.429994, "lng": -87.41631, "type": "STANDARD", "counties": [{"fips": "099", "name": "Monroe"}]}

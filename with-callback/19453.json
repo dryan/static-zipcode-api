@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.137922, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mont Clare", "lng": -75.50218, "zip_code": "19453"});
+zipapicallback({"locality": "Mont Clare", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mont Clare", "Phoenixville"], "postal_code": "19453", "lat": 40.137922, "lng": -75.50218, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

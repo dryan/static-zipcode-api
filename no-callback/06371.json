@@ -1,1 +1,1 @@
-{"lat": 41.339421, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Old Lyme", "lng": -72.31008, "zip_code": "06371"}
+{"locality": "Old Lyme", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Lyme", "Old Lyme"], "postal_code": "06371", "lat": 41.339421, "lng": -72.31008, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

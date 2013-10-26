@@ -1,1 +1,1 @@
-{"lat": 36.263145, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Flippin", "lng": -92.57635, "zip_code": "72634"}
+{"locality": "Flippin", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Flippin"], "postal_code": "72634", "lat": 36.263145, "lng": -92.57635, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.710586, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Water View", "lng": -76.63179, "zip_code": "23180"});
+zipapicallback({"locality": "Water View", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Water View"], "postal_code": "23180", "lat": 37.710586, "lng": -76.63179, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.417337, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Milroy", "lng": -95.54999, "zip_code": "56263"});
+zipapicallback({"locality": "Milroy", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Milroy"], "postal_code": "56263", "lat": 44.417337, "lng": -95.54999, "type": "STANDARD", "counties": [{"fips": "127", "name": "Redwood"}, {"fips": "083", "name": "Lyon"}]});

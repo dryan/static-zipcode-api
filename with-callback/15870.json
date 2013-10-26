@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.587333, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wilcox", "lng": -78.65347, "zip_code": "15870"});
+zipapicallback({"locality": "Wilcox", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wilcox"], "postal_code": "15870", "lat": 41.587333, "lng": -78.65347, "type": "STANDARD", "counties": [{"fips": "047", "name": "Elk"}, {"fips": "083", "name": "McKean"}]});

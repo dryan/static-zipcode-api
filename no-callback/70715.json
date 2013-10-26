@@ -1,1 +1,1 @@
-{"lat": 30.822847, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Batchelor", "lng": -91.70531, "zip_code": "70715"}
+{"locality": "Batchelor", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Batchelor"], "postal_code": "70715", "lat": 30.822847, "lng": -91.70531, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pointe Coupee"}]}

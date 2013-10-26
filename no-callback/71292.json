@@ -1,1 +1,1 @@
-{"lat": 32.456034, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "West Monroe", "lng": -92.18276, "zip_code": "71292"}
+{"locality": "West Monroe", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["West Monroe"], "postal_code": "71292", "lat": 32.456034, "lng": -92.18276, "type": "STANDARD", "counties": []}

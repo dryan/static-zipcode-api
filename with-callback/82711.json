@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.706167, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Alva", "lng": -104.45138, "zip_code": "82711"});
+zipapicallback({"locality": "Alva", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Alva"], "postal_code": "82711", "lat": 44.706167, "lng": -104.45138, "type": "STANDARD", "counties": [{"fips": "011", "name": "Crook"}]});

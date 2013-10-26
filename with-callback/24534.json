@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.864697, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Clover", "lng": -78.76019, "zip_code": "24534"});
+zipapicallback({"locality": "Clover", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Clover"], "postal_code": "24534", "lat": 36.864697, "lng": -78.76019, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]});

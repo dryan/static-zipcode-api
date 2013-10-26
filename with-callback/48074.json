@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.948521, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kimball", "lng": -82.57049, "zip_code": "48074"});
+zipapicallback({"locality": "Smiths Creek", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kimball", "Smiths Creek"], "postal_code": "48074", "lat": 42.948521, "lng": -82.57049, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]});

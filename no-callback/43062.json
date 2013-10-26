@@ -1,1 +1,1 @@
-{"lat": 39.994001, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pataskala", "lng": -82.67652, "zip_code": "43062"}
+{"locality": "Pataskala", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Etna", "Pataskala"], "postal_code": "43062", "lat": 39.994001, "lng": -82.67652, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}, {"fips": "045", "name": "Fairfield"}, {"fips": "049", "name": "Franklin"}]}

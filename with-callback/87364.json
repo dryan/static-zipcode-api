@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.119846, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Sheep Springs", "lng": -108.71665, "zip_code": "87364"});
+zipapicallback({"locality": "Sheep Springs", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Sheep Springs"], "postal_code": "87364", "lat": 36.119846, "lng": -108.71665, "type": "POBOX", "counties": []});

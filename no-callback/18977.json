@@ -1,1 +1,1 @@
-{"lat": 40.289939, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Washington Cross", "lng": -74.87885, "zip_code": "18977"}
+{"locality": "Washington Crossing", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Washington Crossing", "Washington Xing", "Wshngtn Xing"], "postal_code": "18977", "lat": 40.289939, "lng": -74.87885, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

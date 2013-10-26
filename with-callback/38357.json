@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.051008, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Michie", "lng": -88.42611, "zip_code": "38357"});
+zipapicallback({"locality": "Michie", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Michie"], "postal_code": "38357", "lat": 35.051008, "lng": -88.42611, "type": "STANDARD", "counties": [{"fips": "109", "name": "McNairy"}]});

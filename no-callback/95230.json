@@ -1,1 +1,1 @@
-{"lat": 37.959439, "region": {"abbr": "CA", "name": "California"}, "locality": "Farmington", "lng": -120.82329, "zip_code": "95230"}
+{"locality": "Farmington", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Farmington"], "postal_code": "95230", "lat": 37.959439, "lng": -120.82329, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}, {"fips": "077", "name": "San Joaquin"}]}

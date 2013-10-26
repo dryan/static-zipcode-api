@@ -1,1 +1,1 @@
-{"lat": 36.523726, "region": {"abbr": "CA", "name": "California"}, "locality": "Helm", "lng": -120.10669, "zip_code": "93627"}
+{"locality": "Helm", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Helm"], "postal_code": "93627", "lat": 36.523726, "lng": -120.10669, "type": "POBOX", "counties": [{"fips": "019", "name": "Fresno"}]}

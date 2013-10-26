@@ -1,1 +1,1 @@
-{"lat": 33.793145, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Pep", "lng": -103.27741, "zip_code": "88126"}
+{"locality": "Pep", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Pep"], "postal_code": "88126", "lat": 33.793145, "lng": -103.27741, "type": "STANDARD", "counties": [{"fips": "041", "name": "Roosevelt"}]}

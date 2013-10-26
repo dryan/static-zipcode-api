@@ -1,1 +1,1 @@
-{"lat": 60.863764, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tatitlek", "lng": -146.68013, "zip_code": "99677"}
+{"locality": "Tatitlek", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Cordova", "Tatitlek"], "postal_code": "99677", "lat": 60.863764, "lng": -146.68013, "type": "POBOX", "counties": []}

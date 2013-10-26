@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.730077, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mass City", "lng": -89.02038, "zip_code": "49948"});
+zipapicallback({"locality": "Mass City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mass City"], "postal_code": "49948", "lat": 46.730077, "lng": -89.02038, "type": "STANDARD", "counties": [{"fips": "131", "name": "Ontonagon"}]});

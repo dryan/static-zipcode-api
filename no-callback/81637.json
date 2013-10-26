@@ -1,1 +1,1 @@
-{"lat": 39.690233, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Gypsum", "lng": -107.02552, "zip_code": "81637"}
+{"locality": "Gypsum", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Gypsum"], "postal_code": "81637", "lat": 39.690233, "lng": -107.02552, "type": "STANDARD", "counties": [{"fips": "037", "name": "Eagle"}, {"fips": "045", "name": "Garfield"}]}

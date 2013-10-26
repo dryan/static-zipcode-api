@@ -1,1 +1,1 @@
-{"lat": 37.21556, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Goodview", "lng": -79.73922, "zip_code": "24095"}
+{"locality": "Goodview", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Goodview"], "postal_code": "24095", "lat": 37.21556, "lng": -79.73922, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bedford"}]}

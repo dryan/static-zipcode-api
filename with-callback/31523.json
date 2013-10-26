@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.212705, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Brunswick", "lng": -81.60975, "zip_code": "31523"});
+zipapicallback({"locality": "Brunswick", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Brunswick"], "postal_code": "31523", "lat": 31.212705, "lng": -81.60975, "type": "STANDARD", "counties": [{"fips": "127", "name": "Glynn"}]});

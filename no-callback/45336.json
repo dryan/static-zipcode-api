@@ -1,1 +1,1 @@
-{"lat": 40.438744, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kettlersville", "lng": -84.26309, "zip_code": "45336"}
+{"locality": "Kettlersville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kettlersville"], "postal_code": "45336", "lat": 40.438744, "lng": -84.26309, "type": "POBOX", "counties": [{"fips": "149", "name": "Shelby"}]}

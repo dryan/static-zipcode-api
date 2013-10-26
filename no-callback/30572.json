@@ -1,1 +1,1 @@
-{"lat": 34.731084, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Suches", "lng": -84.07943, "zip_code": "30572"}
+{"locality": "Suches", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Suches"], "postal_code": "30572", "lat": 34.731084, "lng": -84.07943, "type": "STANDARD", "counties": [{"fips": "291", "name": "Union"}, {"fips": "111", "name": "Fannin"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.754555, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Anson", "lng": -99.89507, "zip_code": "79501"}
+{"locality": "Anson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Anson"], "postal_code": "79501", "lat": 32.754555, "lng": -99.89507, "type": "STANDARD", "counties": [{"fips": "253", "name": "Jones"}]}

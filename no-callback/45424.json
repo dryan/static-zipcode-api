@@ -1,1 +1,1 @@
-{"lat": 39.840308, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Huber Heights", "lng": -84.12227, "zip_code": "45424"}
+{"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dayton", "Huber Heights"], "postal_code": "45424", "lat": 39.840308, "lng": -84.12227, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}, {"fips": "057", "name": "Greene"}]}

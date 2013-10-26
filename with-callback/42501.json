@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.075624, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Alcalde", "lng": -84.54437, "zip_code": "42501"});
+zipapicallback({"locality": "Somerset", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Acorn", "Alcalde", "Elihu", "Poplarville", "Public", "Ruth", "Somerset", "Stab", "Walnut Grove"], "postal_code": "42501", "lat": 37.075624, "lng": -84.54437, "type": "STANDARD", "counties": [{"fips": "199", "name": "Pulaski"}]});

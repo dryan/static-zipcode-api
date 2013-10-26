@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.789223, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Blue Creek", "lng": -83.3192, "zip_code": "45616"});
+zipapicallback({"locality": "Blue Creek", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Blue Creek"], "postal_code": "45616", "lat": 38.789223, "lng": -83.3192, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "145", "name": "Scioto"}]});

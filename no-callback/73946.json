@@ -1,1 +1,1 @@
-{"lat": 36.922263, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kenton", "lng": -102.92339, "zip_code": "73946"}
+{"locality": "Kenton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Kenton"], "postal_code": "73946", "lat": 36.922263, "lng": -102.92339, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cimarron"}]}

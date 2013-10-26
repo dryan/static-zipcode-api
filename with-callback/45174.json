@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.161061, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Terrace Park", "lng": -84.30808, "zip_code": "45174"});
+zipapicallback({"locality": "Terrace Park", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Terrace Park"], "postal_code": "45174", "lat": 39.161061, "lng": -84.30808, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]});

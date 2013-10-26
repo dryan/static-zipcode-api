@@ -1,1 +1,1 @@
-{"lat": 43.437503, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Georges Mills", "lng": -72.07185, "zip_code": "03751"}
+{"locality": "Georges Mills", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Georges Mills"], "postal_code": "03751", "lat": 43.437503, "lng": -72.07185, "type": "POBOX", "counties": [{"fips": "019", "name": "Sullivan"}]}

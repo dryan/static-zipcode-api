@@ -1,1 +1,1 @@
-{"lat": 41.804848, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Collinston", "lng": -112.07009, "zip_code": "84306"}
+{"locality": "Collinston", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Beaverdam", "Collinston"], "postal_code": "84306", "lat": 41.804848, "lng": -112.07009, "type": "STANDARD", "counties": [{"fips": "003", "name": "Box Elder"}]}

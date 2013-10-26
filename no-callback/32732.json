@@ -1,1 +1,1 @@
-{"lat": 28.746588, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Geneva", "lng": -81.10985, "zip_code": "32732"}
+{"locality": "Geneva", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Geneva"], "postal_code": "32732", "lat": 28.746588, "lng": -81.10985, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

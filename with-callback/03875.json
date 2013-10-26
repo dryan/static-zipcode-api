@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.868287, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Silver Lake", "lng": -71.18267, "zip_code": "03875"});
+zipapicallback({"locality": "Silver Lake", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Silver Lake"], "postal_code": "03875", "lat": 43.868287, "lng": -71.18267, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]});

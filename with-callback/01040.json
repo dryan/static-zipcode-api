@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.201891, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Holyoke", "lng": -72.6242, "zip_code": "01040"});
+zipapicallback({"locality": "Holyoke", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Holyoke"], "postal_code": "01040", "lat": 42.201891, "lng": -72.6242, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]});

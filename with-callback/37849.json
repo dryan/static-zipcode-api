@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.044507, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Powell", "lng": -84.04192, "zip_code": "37849"});
+zipapicallback({"locality": "Powell", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Powell"], "postal_code": "37849", "lat": 36.044507, "lng": -84.04192, "type": "STANDARD", "counties": [{"fips": "093", "name": "Knox"}, {"fips": "001", "name": "Anderson"}]});

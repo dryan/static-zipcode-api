@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.256736, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "South Williamspo", "lng": -77.0108, "zip_code": "17701"});
+zipapicallback({"locality": "Williamsport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Williamsport"], "postal_code": "17701", "lat": 41.256736, "lng": -77.0108, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}, {"fips": "113", "name": "Sullivan"}]});

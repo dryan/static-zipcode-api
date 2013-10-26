@@ -1,1 +1,1 @@
-{"lat": 34.299569, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Umpire", "lng": -94.03479, "zip_code": "71971"}
+{"locality": "Umpire", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Umpire"], "postal_code": "71971", "lat": 34.299569, "lng": -94.03479, "type": "STANDARD", "counties": [{"fips": "061", "name": "Howard"}, {"fips": "109", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.920165, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cannon", "lng": -83.85699, "zip_code": "40923"}
+{"locality": "Cannon", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cannon"], "postal_code": "40923", "lat": 36.920165, "lng": -83.85699, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

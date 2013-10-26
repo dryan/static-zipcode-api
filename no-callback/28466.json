@@ -1,1 +1,1 @@
-{"lat": 34.738793, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Wallace", "lng": -77.97788, "zip_code": "28466"}
+{"locality": "Wallace", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Wallace"], "postal_code": "28466", "lat": 34.738793, "lng": -77.97788, "type": "STANDARD", "counties": [{"fips": "061", "name": "Duplin"}]}

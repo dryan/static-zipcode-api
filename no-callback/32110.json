@@ -1,1 +1,1 @@
-{"lat": 29.445826, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Bunnell", "lng": -81.30203, "zip_code": "32110"}
+{"locality": "Bunnell", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bunnell"], "postal_code": "32110", "lat": 29.445826, "lng": -81.30203, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 46.014164, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Zeeland", "lng": -99.83606, "zip_code": "58581"}
+{"locality": "Zeeland", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Zeeland"], "postal_code": "58581", "lat": 46.014164, "lng": -99.83606, "type": "STANDARD", "counties": [{"fips": "051", "name": "McIntosh"}]}

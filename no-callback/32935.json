@@ -1,1 +1,1 @@
-{"lat": 28.13926, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Melbourne", "lng": -80.65077, "zip_code": "32935"}
+{"locality": "Melbourne", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Melbourne"], "postal_code": "32935", "lat": 28.13926, "lng": -80.65077, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}, {"fips": "011", "name": "Broward"}]}

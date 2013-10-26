@@ -1,1 +1,1 @@
-{"lat": 33.660084, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Montague", "lng": -97.71727, "zip_code": "76251"}
+{"locality": "Montague", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Montague"], "postal_code": "76251", "lat": 33.660084, "lng": -97.71727, "type": "STANDARD", "counties": [{"fips": "337", "name": "Montague"}]}

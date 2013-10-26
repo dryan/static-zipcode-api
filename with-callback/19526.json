@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.545014, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hamburg", "lng": -75.98463, "zip_code": "19526"});
+zipapicallback({"locality": "Hamburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hamburg"], "postal_code": "19526", "lat": 40.545014, "lng": -75.98463, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.435446, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Harlowton", "lng": -109.86994, "zip_code": "59036"});
+zipapicallback({"locality": "Harlowton", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Harlowton"], "postal_code": "59036", "lat": 46.435446, "lng": -109.86994, "type": "POBOX", "counties": [{"fips": "107", "name": "Wheatland"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.778773, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Farwell", "lng": -95.60302, "zip_code": "56327"});
+zipapicallback({"locality": "Farwell", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Farwell"], "postal_code": "56327", "lat": 45.778773, "lng": -95.60302, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pope"}, {"fips": "041", "name": "Douglas"}]});

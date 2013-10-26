@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.135419, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Saint Anthony", "lng": -93.2024, "zip_code": "50239"});
+zipapicallback({"locality": "Saint Anthony", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Saint Anthony"], "postal_code": "50239", "lat": 42.135419, "lng": -93.2024, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]});

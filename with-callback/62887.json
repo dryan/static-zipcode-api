@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.185822, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Springerton", "lng": -88.36923, "zip_code": "62887"});
+zipapicallback({"locality": "Springerton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Springerton"], "postal_code": "62887", "lat": 38.185822, "lng": -88.36923, "type": "STANDARD", "counties": [{"fips": "193", "name": "White"}, {"fips": "065", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.356474, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lyons", "lng": -98.2025, "zip_code": "67554"}
+{"locality": "Lyons", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lyons"], "postal_code": "67554", "lat": 38.356474, "lng": -98.2025, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}]}

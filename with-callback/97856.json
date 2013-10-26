@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.743532, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Long Creek", "lng": -119.11886, "zip_code": "97856"});
+zipapicallback({"locality": "Long Creek", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Fox", "Long Creek", "Ritter"], "postal_code": "97856", "lat": 44.743532, "lng": -119.11886, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}]});

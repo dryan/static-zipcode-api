@@ -1,1 +1,1 @@
-{"lat": 41.836046, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Madison", "lng": -97.45212, "zip_code": "68748"}
+{"locality": "Madison", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Madison"], "postal_code": "68748", "lat": 41.836046, "lng": -97.45212, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}, {"fips": "167", "name": "Stanton"}]}

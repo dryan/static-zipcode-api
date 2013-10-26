@@ -1,1 +1,1 @@
-{"lat": 43.551783, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "New Era", "lng": -86.40265, "zip_code": "49446"}
+{"locality": "New Era", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["New Era"], "postal_code": "49446", "lat": 43.551783, "lng": -86.40265, "type": "STANDARD", "counties": [{"fips": "127", "name": "Oceana"}]}

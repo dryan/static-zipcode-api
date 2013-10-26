@@ -1,1 +1,1 @@
-{"lat": 37.123583, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Premium", "lng": -82.93216, "zip_code": "41845"}
+{"locality": "Premium", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Premium"], "postal_code": "41845", "lat": 37.123583, "lng": -82.93216, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]}

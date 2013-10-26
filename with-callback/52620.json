@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.697875, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bonaparte", "lng": -91.8051, "zip_code": "52620"});
+zipapicallback({"locality": "Bonaparte", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bonaparte"], "postal_code": "52620", "lat": 40.697875, "lng": -91.8051, "type": "STANDARD", "counties": [{"fips": "177", "name": "Van Buren"}]});

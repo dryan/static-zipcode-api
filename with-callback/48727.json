@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.314176, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Clifford", "lng": -83.18115, "zip_code": "48727"});
+zipapicallback({"locality": "Clifford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Clifford"], "postal_code": "48727", "lat": 43.314176, "lng": -83.18115, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}, {"fips": "157", "name": "Tuscola"}]});

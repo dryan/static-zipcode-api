@@ -1,1 +1,1 @@
-{"lat": 37.568611, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "New Albany", "lng": -95.93926, "zip_code": "66759"}
+{"locality": "New Albany", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["New Albany"], "postal_code": "66759", "lat": 37.568611, "lng": -95.93926, "type": "POBOX", "counties": [{"fips": "205", "name": "Wilson"}]}

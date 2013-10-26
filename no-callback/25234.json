@@ -1,1 +1,1 @@
-{"lat": 38.806907, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Arnoldsburg", "lng": -81.12827, "zip_code": "25234"}
+{"locality": "Arnoldsburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Arnoldsburg", "Sand Ridge"], "postal_code": "25234", "lat": 38.806907, "lng": -81.12827, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

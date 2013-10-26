@@ -1,1 +1,1 @@
-{"lat": 47.801194, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Nine Mile Falls", "lng": -117.59325, "zip_code": "99026"}
+{"locality": "Nine Mile Falls", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Nine Mile Falls", "Nine Mile Fls"], "postal_code": "99026", "lat": 47.801194, "lng": -117.59325, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}, {"fips": "065", "name": "Stevens"}]}

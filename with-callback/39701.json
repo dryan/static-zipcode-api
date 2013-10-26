@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.492107, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Columbus", "lng": -88.43746, "zip_code": "39701"});
+zipapicallback({"locality": "Columbus", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Columbus", "Columbus Afb"], "postal_code": "39701", "lat": 33.492107, "lng": -88.43746, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lowndes"}]});

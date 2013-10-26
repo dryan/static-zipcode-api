@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.187983, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Haubstadt", "lng": -87.5658, "zip_code": "47639"});
+zipapicallback({"locality": "Haubstadt", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Haubstadt"], "postal_code": "47639", "lat": 38.187983, "lng": -87.5658, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}, {"fips": "163", "name": "Vanderburgh"}, {"fips": "173", "name": "Warrick"}]});

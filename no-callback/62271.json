@@ -1,1 +1,1 @@
-{"lat": 38.439574, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Okawville", "lng": -89.5286, "zip_code": "62271"}
+{"locality": "Okawville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Okawville"], "postal_code": "62271", "lat": 38.439574, "lng": -89.5286, "type": "STANDARD", "counties": [{"fips": "189", "name": "Washington"}]}

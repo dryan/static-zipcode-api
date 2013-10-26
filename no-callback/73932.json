@@ -1,1 +1,1 @@
-{"lat": 36.710457, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Elmwood", "lng": -100.47888, "zip_code": "73932"}
+{"locality": "Beaver", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Beaver", "Elmwood"], "postal_code": "73932", "lat": 36.710457, "lng": -100.47888, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]}

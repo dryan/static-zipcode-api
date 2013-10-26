@@ -1,1 +1,1 @@
-{"lat": 42.258967, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dewittville", "lng": -79.43348, "zip_code": "14728"}
+{"locality": "Dewittville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dewittville"], "postal_code": "14728", "lat": 42.258967, "lng": -79.43348, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]}

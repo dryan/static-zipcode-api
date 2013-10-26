@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Albany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Albany"], "postal_code": "12220", "type": "POBOX", "counties": [{"fips": "001", "name": "Albany"}]});

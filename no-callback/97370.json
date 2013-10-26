@@ -1,1 +1,1 @@
-{"lat": 44.578526, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Philomath", "lng": -123.43709, "zip_code": "97370"}
+{"locality": "Philomath", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Philomath"], "postal_code": "97370", "lat": 44.578526, "lng": -123.43709, "type": "STANDARD", "counties": [{"fips": "003", "name": "Benton"}, {"fips": "053", "name": "Polk"}]}

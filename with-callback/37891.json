@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.277627, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Whitesburg", "lng": -83.13987, "zip_code": "37891"});
+zipapicallback({"locality": "Whitesburg", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Whitesburg"], "postal_code": "37891", "lat": 36.277627, "lng": -83.13987, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hamblen"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.14606, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ninety Six", "lng": -82.00203, "zip_code": "29666"});
+zipapicallback({"locality": "Ninety Six", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ninety Six"], "postal_code": "29666", "lat": 34.14606, "lng": -82.00203, "type": "STANDARD", "counties": [{"fips": "047", "name": "Greenwood"}, {"fips": "081", "name": "Saluda"}]});

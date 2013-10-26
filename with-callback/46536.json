@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.519839, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lakeville", "lng": -86.2795, "zip_code": "46536"});
+zipapicallback({"locality": "Lakeville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lakeville"], "postal_code": "46536", "lat": 41.519839, "lng": -86.2795, "type": "STANDARD", "counties": [{"fips": "141", "name": "Saint Joseph"}, {"fips": "099", "name": "Marshall"}]});

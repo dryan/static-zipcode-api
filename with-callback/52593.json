@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.777917, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Udell", "lng": -92.73565, "zip_code": "52593"});
+zipapicallback({"locality": "Udell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Udell"], "postal_code": "52593", "lat": 40.777917, "lng": -92.73565, "type": "STANDARD", "counties": [{"fips": "007", "name": "Appanoose"}]});

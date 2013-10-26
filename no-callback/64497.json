@@ -1,1 +1,1 @@
-{"lat": 39.933989, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Weatherby", "lng": -94.22274, "zip_code": "64497"}
+{"locality": "Weatherby", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Weatherby"], "postal_code": "64497", "lat": 39.933989, "lng": -94.22274, "type": "STANDARD", "counties": [{"fips": "063", "name": "Dekalb"}, {"fips": "061", "name": "Daviess"}]}

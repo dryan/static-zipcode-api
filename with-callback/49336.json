@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.494361, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Morley", "lng": -85.43184, "zip_code": "49336"});
+zipapicallback({"locality": "Morley", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Morley"], "postal_code": "49336", "lat": 43.494361, "lng": -85.43184, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "117", "name": "Montcalm"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.029641, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Shawnee", "lng": -94.84844, "zip_code": "66226"}
+{"locality": "Shawnee", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Shawnee", "Shawnee Mission", "Shawnee Msn"], "postal_code": "66226", "lat": 39.029641, "lng": -94.84844, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}]}

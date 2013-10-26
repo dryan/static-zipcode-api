@@ -1,1 +1,1 @@
-{"lat": 34.713441, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Helen", "lng": -83.74189, "zip_code": "30545"}
+{"locality": "Helen", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Helen"], "postal_code": "30545", "lat": 34.713441, "lng": -83.74189, "type": "STANDARD", "counties": [{"fips": "311", "name": "White"}]}

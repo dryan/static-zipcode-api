@@ -1,1 +1,1 @@
-{"lat": 47.761982, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Crookston", "lng": -96.58055, "zip_code": "56716"}
+{"locality": "Crookston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Crookston"], "postal_code": "56716", "lat": 47.761982, "lng": -96.58055, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}, {"fips": "125", "name": "Red Lake"}]}

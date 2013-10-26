@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.522968, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Kingsport", "lng": -82.51162, "zip_code": "37664"});
+zipapicallback({"locality": "Kingsport", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Kingsport"], "postal_code": "37664", "lat": 36.522968, "lng": -82.51162, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sullivan"}]});

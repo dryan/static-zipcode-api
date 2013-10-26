@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.447003, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Countyline", "lng": -97.55801, "zip_code": "73425"});
+zipapicallback({"locality": "Countyline", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Countyline"], "postal_code": "73425", "lat": 34.447003, "lng": -97.55801, "type": "POBOX", "counties": []});

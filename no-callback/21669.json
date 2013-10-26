@@ -1,1 +1,1 @@
-{"lat": 38.458374, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Taylors Island", "lng": -76.30203, "zip_code": "21669"}
+{"locality": "Taylors Island", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Taylors Is", "Taylors Island"], "postal_code": "21669", "lat": 38.458374, "lng": -76.30203, "type": "POBOX", "counties": [{"fips": "019", "name": "Dorchester"}]}

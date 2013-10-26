@@ -1,1 +1,1 @@
-{"lat": 35.243585, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mooresboro", "lng": -81.75656, "zip_code": "28114"}
+{"locality": "Mooresboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mooresboro"], "postal_code": "28114", "lat": 35.243585, "lng": -81.75656, "type": "STANDARD", "counties": [{"fips": "045", "name": "Cleveland"}]}

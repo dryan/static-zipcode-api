@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.070706, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Antimony", "lng": -111.97354, "zip_code": "84712"});
+zipapicallback({"locality": "Antimony", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Antimony"], "postal_code": "84712", "lat": 38.070706, "lng": -111.97354, "type": "STANDARD", "counties": [{"fips": "017", "name": "Garfield"}]});

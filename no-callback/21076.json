@@ -1,1 +1,1 @@
-{"lat": 39.167708, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Hanover", "lng": -76.71706, "zip_code": "21076"}
+{"locality": "Hanover", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hanover"], "postal_code": "21076", "lat": 39.167708, "lng": -76.71706, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}, {"fips": "027", "name": "Howard"}]}

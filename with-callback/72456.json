@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.438645, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pollard", "lng": -90.30302, "zip_code": "72456"});
+zipapicallback({"locality": "Pollard", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pollard"], "postal_code": "72456", "lat": 36.438645, "lng": -90.30302, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]});

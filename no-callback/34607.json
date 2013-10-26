@@ -1,1 +1,1 @@
-{"lat": 28.516609, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Spring Hill", "lng": -82.61302, "zip_code": "34607"}
+{"locality": "Spring Hill", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brooksville", "Hernando Bch", "Hernando Beach", "Spring Hill", "Weeki Wachee"], "postal_code": "34607", "lat": 28.516609, "lng": -82.61302, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hernando"}, {"fips": "101", "name": "Pasco"}]}

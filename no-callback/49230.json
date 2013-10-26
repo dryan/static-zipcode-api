@@ -1,1 +1,1 @@
-{"lat": 42.089891, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Brooklyn", "lng": -84.22768, "zip_code": "49230"}
+{"locality": "Brooklyn", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Brooklyn"], "postal_code": "49230", "lat": 42.089891, "lng": -84.22768, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]}

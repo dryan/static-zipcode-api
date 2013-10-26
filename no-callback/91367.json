@@ -1,1 +1,1 @@
-{"lat": 34.176238, "region": {"abbr": "CA", "name": "California"}, "locality": "Woodland Hills", "lng": -118.61992, "zip_code": "91367"}
+{"locality": "Woodland Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Woodland Hills", "Woodland Hls"], "postal_code": "91367", "lat": 34.176238, "lng": -118.61992, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.08157, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Partlow", "lng": -77.66795, "zip_code": "22534"});
+zipapicallback({"locality": "Partlow", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Partlow"], "postal_code": "22534", "lat": 38.08157, "lng": -77.66795, "type": "STANDARD", "counties": [{"fips": "177", "name": "Spotsylvania"}]});

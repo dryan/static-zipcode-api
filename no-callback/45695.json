@@ -1,1 +1,1 @@
-{"lat": 39.137773, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wilkesville", "lng": -82.36543, "zip_code": "45695"}
+{"locality": "Wilkesville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Radcliff", "Wilkesville"], "postal_code": "45695", "lat": 39.137773, "lng": -82.36543, "type": "STANDARD", "counties": [{"fips": "163", "name": "Vinton"}]}

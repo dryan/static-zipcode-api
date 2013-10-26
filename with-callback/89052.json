@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.979863, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Henderson", "lng": -115.09895, "zip_code": "89052"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Henderson"], "postal_code": "89052", "lat": 35.979863, "lng": -115.09895, "type": "STANDARD", "counties": []});

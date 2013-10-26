@@ -1,1 +1,1 @@
-{"lat": 45.272117, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Forest Lake", "lng": -92.9911, "zip_code": "55025"}
+{"locality": "Forest Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Columbus", "Forest Lake"], "postal_code": "55025", "lat": 45.272117, "lng": -92.9911, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}, {"fips": "025", "name": "Chisago"}, {"fips": "003", "name": "Anoka"}]}

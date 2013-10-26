@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.279474, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Yetter", "lng": -94.88642, "zip_code": "51433"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Auburn", "Yetter"], "postal_code": "51433", "lat": 42.279474, "lng": -94.88642, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]});

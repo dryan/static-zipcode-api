@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.768452, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kinmundy", "lng": -88.82814, "zip_code": "62854"});
+zipapicallback({"locality": "Kinmundy", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kinmundy"], "postal_code": "62854", "lat": 38.768452, "lng": -88.82814, "type": "STANDARD", "counties": [{"fips": "121", "name": "Marion"}, {"fips": "051", "name": "Fayette"}, {"fips": "025", "name": "Clay"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.587769, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Niota", "lng": -91.26301, "zip_code": "62358"}
+{"locality": "Niota", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Niota"], "postal_code": "62358", "lat": 40.587769, "lng": -91.26301, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}]}

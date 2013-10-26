@@ -1,1 +1,1 @@
-{"lat": 41.074738, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fair Oaks", "lng": -87.26193, "zip_code": "47943"}
+{"locality": "Fair Oaks", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fair Oaks"], "postal_code": "47943", "lat": 41.074738, "lng": -87.26193, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jasper"}, {"fips": "111", "name": "Newton"}]}

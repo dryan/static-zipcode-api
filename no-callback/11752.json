@@ -1,1 +1,1 @@
-{"lat": 40.754386, "region": {"abbr": "NY", "name": "New York"}, "locality": "Islip Terrace", "lng": -73.18326, "zip_code": "11752"}
+{"locality": "Islip Terrace", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Islip Terrace"], "postal_code": "11752", "lat": 40.754386, "lng": -73.18326, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

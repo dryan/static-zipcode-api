@@ -1,1 +1,1 @@
-{"lat": 46.090506, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Guelph", "lng": -98.11584, "zip_code": "58474"}
+{"locality": "Oakes", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Guelph", "Ludden", "Oakes"], "postal_code": "58474", "lat": 46.090506, "lng": -98.11584, "type": "STANDARD", "counties": [{"fips": "021", "name": "Dickey"}, {"fips": "045", "name": "Lamoure"}, {"fips": "081", "name": "Sargent"}]}

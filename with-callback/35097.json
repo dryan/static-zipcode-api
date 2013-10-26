@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.896526, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Locust Fork", "lng": -86.63056, "zip_code": "35097"});
+zipapicallback({"locality": "Locust Fork", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Locust Fork"], "postal_code": "35097", "lat": 33.896526, "lng": -86.63056, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}]});

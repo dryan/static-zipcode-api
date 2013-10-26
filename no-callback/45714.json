@@ -1,1 +1,1 @@
-{"lat": 39.297622, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Belpre", "lng": -81.5958, "zip_code": "45714"}
+{"locality": "Belpre", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Belpre"], "postal_code": "45714", "lat": 39.297622, "lng": -81.5958, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]}

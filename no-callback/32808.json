@@ -1,1 +1,1 @@
-{"lat": 28.576028, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pine Hills", "lng": -81.44369, "zip_code": "32808"}
+{"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Orlando", "Pine Hills"], "postal_code": "32808", "lat": 28.576028, "lng": -81.44369, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]}

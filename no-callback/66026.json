@@ -1,1 +1,1 @@
-{"lat": 38.404804, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Fontana", "lng": -94.85125, "zip_code": "66026"}
+{"locality": "Fontana", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Fontana"], "postal_code": "66026", "lat": 38.404804, "lng": -94.85125, "type": "STANDARD", "counties": [{"fips": "121", "name": "Miami"}, {"fips": "107", "name": "Linn"}]}

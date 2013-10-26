@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.041578, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pickton", "lng": -95.39527, "zip_code": "75471"});
+zipapicallback({"locality": "Pickton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pickton"], "postal_code": "75471", "lat": 33.041578, "lng": -95.39527, "type": "STANDARD", "counties": [{"fips": "223", "name": "Hopkins"}]});

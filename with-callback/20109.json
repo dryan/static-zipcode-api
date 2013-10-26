@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.790202, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Manassas", "lng": -77.51294, "zip_code": "20109"});
+zipapicallback({"locality": "Manassas", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Manassas", "Sudley Spgs", "Sudley Springs"], "postal_code": "20109", "lat": 38.790202, "lng": -77.51294, "type": "STANDARD", "counties": []});

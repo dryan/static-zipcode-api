@@ -1,1 +1,1 @@
-{"lat": 36.507554, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tonalea", "lng": -110.86804, "zip_code": "86044"}
+{"locality": "Tonalea", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tonalea"], "postal_code": "86044", "lat": 36.507554, "lng": -110.86804, "type": "STANDARD", "counties": [{"fips": "005", "name": "Coconino"}]}

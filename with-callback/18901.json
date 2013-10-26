@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.317473, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Britain", "lng": -75.12854, "zip_code": "18901"});
+zipapicallback({"locality": "Doylestown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Doylestown", "New Britain"], "postal_code": "18901", "lat": 40.317473, "lng": -75.12854, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]});

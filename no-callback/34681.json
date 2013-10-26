@@ -1,1 +1,1 @@
-{"lat": 28.088443, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Crystal Beach", "lng": -82.77834, "zip_code": "34681"}
+{"locality": "Crystal Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Crystal Beach"], "postal_code": "34681", "lat": 28.088443, "lng": -82.77834, "type": "POBOX", "counties": [{"fips": "103", "name": "Pinellas"}]}

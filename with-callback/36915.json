@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.970871, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Needham", "lng": -88.34902, "zip_code": "36915"});
+zipapicallback({"locality": "Needham", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Needham"], "postal_code": "36915", "lat": 31.970871, "lng": -88.34902, "type": "STANDARD", "counties": [{"fips": "023", "name": "Choctaw"}]});

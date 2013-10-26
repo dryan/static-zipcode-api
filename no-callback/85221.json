@@ -1,1 +1,1 @@
-{"lat": 33.126134, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Bapchule", "lng": -111.90545, "zip_code": "85221"}
+{"locality": "Bapchule", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bapchule"], "postal_code": "85221", "lat": 33.126134, "lng": -111.90545, "type": "POBOX", "counties": [{"fips": "021", "name": "Pinal"}, {"fips": "013", "name": "Maricopa"}]}

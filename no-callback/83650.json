@@ -1,1 +1,1 @@
-{"lat": 43.135267, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Oreana", "lng": -116.46584, "zip_code": "83650"}
+{"locality": "Murphy", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Murphy", "Oreana"], "postal_code": "83650", "lat": 43.135267, "lng": -116.46584, "type": "STANDARD", "counties": [{"fips": "073", "name": "Owyhee"}]}

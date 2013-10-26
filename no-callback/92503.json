@@ -1,1 +1,1 @@
-{"lat": 33.91355, "region": {"abbr": "CA", "name": "California"}, "locality": "Riverside", "lng": -117.46052, "zip_code": "92503"}
+{"locality": "Riverside", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Riverside"], "postal_code": "92503", "lat": 33.91355, "lng": -117.46052, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.698253, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Given", "lng": -81.75416, "zip_code": "25245"}
+{"locality": "Given", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Given", "Rock Castle"], "postal_code": "25245", "lat": 38.698253, "lng": -81.75416, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}, {"fips": "053", "name": "Mason"}, {"fips": "079", "name": "Putnam"}]}

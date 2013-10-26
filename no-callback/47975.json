@@ -1,1 +1,1 @@
-{"lat": 40.448708, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Pine Village", "lng": -87.25568, "zip_code": "47975"}
+{"locality": "Pine Village", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Pine Village"], "postal_code": "47975", "lat": 40.448708, "lng": -87.25568, "type": "STANDARD", "counties": [{"fips": "171", "name": "Warren"}, {"fips": "007", "name": "Benton"}]}

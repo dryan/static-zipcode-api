@@ -1,1 +1,1 @@
-{"lat": 42.565907, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fultonham", "lng": -74.41457, "zip_code": "12071"}
+{"locality": "Fultonham", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fultonham"], "postal_code": "12071", "lat": 42.565907, "lng": -74.41457, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]}

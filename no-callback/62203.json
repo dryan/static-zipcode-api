@@ -1,1 +1,1 @@
-{"lat": 38.598175, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Saint Louis", "lng": -90.07575, "zip_code": "62203"}
+{"locality": "East Saint Louis", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Centreville", "E Saint Louis", "East Saint Louis"], "postal_code": "62203", "lat": 38.598175, "lng": -90.07575, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

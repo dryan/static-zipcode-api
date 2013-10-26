@@ -1,1 +1,1 @@
-{"lat": 27.291694, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Port Saint Lucie", "lng": -80.29691, "zip_code": "34952"}
+{"locality": "Port Saint Lucie", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Pierce", "Port Saint Lucie", "Port St Lucie"], "postal_code": "34952", "lat": 27.291694, "lng": -80.29691, "type": "STANDARD", "counties": [{"fips": "111", "name": "St. Lucie"}]}

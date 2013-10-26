@@ -1,1 +1,1 @@
-{"lat": 30.238563, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Grangerland", "lng": -95.38927, "zip_code": "77302"}
+{"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe", "Grangerland", "Woodloch"], "postal_code": "77302", "lat": 30.238563, "lng": -95.38927, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]}

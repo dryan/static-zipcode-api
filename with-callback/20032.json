@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.836145, "region": {"abbr": "DC", "name": "District of Columbia"}, "locality": "Washington", "lng": -77.00058, "zip_code": "20032"});
+zipapicallback({"locality": "Washington", "region": {"fips": "11", "abbr": "DC", "name": "District of Columbia"}, "localities": ["Bolling Afb", "Washington"], "postal_code": "20032", "lat": 38.836145, "lng": -77.00058, "type": "STANDARD", "counties": [{"fips": "001", "name": "District of Columbia"}]});

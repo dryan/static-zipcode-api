@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.244095, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bettsville", "lng": -83.23348, "zip_code": "44815"});
+zipapicallback({"locality": "Bettsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bettsville"], "postal_code": "44815", "lat": 41.244095, "lng": -83.23348, "type": "POBOX", "counties": [{"fips": "147", "name": "Seneca"}]});

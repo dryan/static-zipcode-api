@@ -1,1 +1,1 @@
-{"lat": 31.840191, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Notrees", "lng": -102.74709, "zip_code": "79759"}
+{"locality": "Notrees", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Notrees"], "postal_code": "79759", "lat": 31.840191, "lng": -102.74709, "type": "POBOX", "counties": [{"fips": "135", "name": "Ector"}]}

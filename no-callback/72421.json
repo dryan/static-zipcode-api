@@ -1,1 +1,1 @@
-{"lat": 35.786094, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cash", "lng": -90.97073, "zip_code": "72421"}
+{"locality": "Cash", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cash"], "postal_code": "72421", "lat": 35.786094, "lng": -90.97073, "type": "STANDARD", "counties": [{"fips": "031", "name": "Craighead"}]}

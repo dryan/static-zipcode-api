@@ -1,1 +1,1 @@
-{"lat": 41.126476, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Clearfield", "lng": -112.04427, "zip_code": "84015"}
+{"locality": "Clearfield", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Clearfield", "Clinton", "Sunset", "West Point"], "postal_code": "84015", "lat": 41.126476, "lng": -112.04427, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]}

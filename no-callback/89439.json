@@ -1,1 +1,1 @@
-{"lat": 39.523693, "region": {"abbr": "CA", "name": "California"}, "locality": "Verdi", "lng": -120.03012, "zip_code": "89439"}
+{"locality": "Verdi", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Verdi"], "postal_code": "89439", "lat": 39.523693, "lng": -120.03012, "type": "POBOX", "counties": [{"fips": "031", "name": "Washoe"}, {"fips": "091", "name": "Sierra"}]}

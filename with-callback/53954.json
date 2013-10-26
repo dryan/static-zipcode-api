@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.522529, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pardeeville", "lng": -89.32342, "zip_code": "53954"});
+zipapicallback({"locality": "Pardeeville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pardeeville"], "postal_code": "53954", "lat": 43.522529, "lng": -89.32342, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}, {"fips": "077", "name": "Marquette"}]});

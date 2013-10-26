@@ -1,1 +1,1 @@
-{"lat": 40.769633, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Giltner", "lng": -98.16372, "zip_code": "68841"}
+{"locality": "Giltner", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Giltner"], "postal_code": "68841", "lat": 40.769633, "lng": -98.16372, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hamilton"}]}

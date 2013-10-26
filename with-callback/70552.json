@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.076638, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Loreauville", "lng": -91.71294, "zip_code": "70552"});
+zipapicallback({"locality": "Loreauville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Loreauville"], "postal_code": "70552", "lat": 30.076638, "lng": -91.71294, "type": "STANDARD", "counties": [{"fips": "045", "name": "Iberia"}]});

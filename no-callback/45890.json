@@ -1,1 +1,1 @@
-{"lat": 40.973064, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Vanlue", "lng": -83.48845, "zip_code": "45890"}
+{"locality": "Vanlue", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Vanlue"], "postal_code": "45890", "lat": 40.973064, "lng": -83.48845, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hancock"}]}

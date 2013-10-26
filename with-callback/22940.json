@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.197583, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mission Home", "lng": -78.59304, "zip_code": "22940"});
+zipapicallback({"locality": "Free Union", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Free Union", "Mission Home"], "postal_code": "22940", "lat": 38.197583, "lng": -78.59304, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}, {"fips": "079", "name": "Greene"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.513182, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Davenport", "lng": -90.61672, "zip_code": "52802"});
+zipapicallback({"locality": "Davenport", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Davenport"], "postal_code": "52802", "lat": 41.513182, "lng": -90.61672, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]});

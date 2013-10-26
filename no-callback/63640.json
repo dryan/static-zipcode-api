@@ -1,1 +1,1 @@
-{"lat": 37.779206, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Farmington", "lng": -90.41404, "zip_code": "63640"}
+{"locality": "Farmington", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Farmington"], "postal_code": "63640", "lat": 37.779206, "lng": -90.41404, "type": "STANDARD", "counties": [{"fips": "187", "name": "St Francois"}, {"fips": "045", "name": "Clark"}, {"fips": "186", "name": "Sainte Genevieve"}, {"fips": "123", "name": "Madison"}]}

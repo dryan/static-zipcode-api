@@ -1,1 +1,1 @@
-{"lat": 44.888566, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Maple City", "lng": -85.89914, "zip_code": "49664"}
+{"locality": "Maple City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Maple City"], "postal_code": "49664", "lat": 44.888566, "lng": -85.89914, "type": "STANDARD", "counties": [{"fips": "089", "name": "Leelanau"}]}

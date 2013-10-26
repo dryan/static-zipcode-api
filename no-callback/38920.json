@@ -1,1 +1,1 @@
-{"lat": 33.875369, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Cascilla", "lng": -90.10215, "zip_code": "38920"}
+{"locality": "Cascilla", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Cascilla"], "postal_code": "38920", "lat": 33.875369, "lng": -90.10215, "type": "STANDARD", "counties": [{"fips": "135", "name": "Tallahatchie"}]}

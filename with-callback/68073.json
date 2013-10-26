@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.249536, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Yutan", "lng": -96.40258, "zip_code": "68073"});
+zipapicallback({"locality": "Yutan", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Yutan"], "postal_code": "68073", "lat": 41.249536, "lng": -96.40258, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]});

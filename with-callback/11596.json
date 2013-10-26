@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.758283, "region": {"abbr": "NY", "name": "New York"}, "locality": "Williston Park", "lng": -73.64259, "zip_code": "11596"});
+zipapicallback({"locality": "Williston Park", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["E Williston", "East Williston", "Williston Park", "Williston Pk"], "postal_code": "11596", "lat": 40.758283, "lng": -73.64259, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

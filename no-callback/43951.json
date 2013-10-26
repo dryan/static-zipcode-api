@@ -1,1 +1,1 @@
-{"lat": 40.109149, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lafferty", "lng": -81.01773, "zip_code": "43951"}
+{"locality": "Lafferty", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lafferty"], "postal_code": "43951", "lat": 40.109149, "lng": -81.01773, "type": "POBOX", "counties": [{"fips": "013", "name": "Belmont"}]}

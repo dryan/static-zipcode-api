@@ -1,1 +1,1 @@
-{"lat": 45.846697, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Goldendale", "lng": -120.75703, "zip_code": "98620"}
+{"locality": "Goldendale", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Goldendale"], "postal_code": "98620", "lat": 45.846697, "lng": -120.75703, "type": "STANDARD", "counties": [{"fips": "039", "name": "Klickitat"}]}

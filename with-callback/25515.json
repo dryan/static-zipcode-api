@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.764623, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gallipolis Ferry", "lng": -82.16003, "zip_code": "25515"});
+zipapicallback({"locality": "Gallipolis Ferry", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Galipolis Fry", "Gallipolis Ferry"], "postal_code": "25515", "lat": 38.764623, "lng": -82.16003, "type": "STANDARD", "counties": [{"fips": "053", "name": "Mason"}]});

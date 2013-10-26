@@ -1,1 +1,1 @@
-{"lat": 37.410099, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Centertown", "lng": -87.03433, "zip_code": "42328"}
+{"locality": "Centertown", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Centertown"], "postal_code": "42328", "lat": 37.410099, "lng": -87.03433, "type": "STANDARD", "counties": [{"fips": "183", "name": "Ohio"}]}

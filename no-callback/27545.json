@@ -1,1 +1,1 @@
-{"lat": 35.790516, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Knightdale", "lng": -78.48345, "zip_code": "27545"}
+{"locality": "Knightdale", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Knightdale"], "postal_code": "27545", "lat": 35.790516, "lng": -78.48345, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}]}

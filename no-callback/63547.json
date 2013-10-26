@@ -1,1 +1,1 @@
-{"lat": 40.145396, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hurdland", "lng": -92.30285, "zip_code": "63547"}
+{"locality": "Hurdland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hurdland"], "postal_code": "63547", "lat": 40.145396, "lng": -92.30285, "type": "STANDARD", "counties": [{"fips": "103", "name": "Knox"}, {"fips": "001", "name": "Adair"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.998074, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Cedarville", "lng": -84.32615, "zip_code": "49719"}
+{"locality": "Cedarville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Cedarville"], "postal_code": "49719", "lat": 45.998074, "lng": -84.32615, "type": "STANDARD", "counties": [{"fips": "097", "name": "MacKinac"}]}

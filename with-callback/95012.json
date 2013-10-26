@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.768856, "region": {"abbr": "CA", "name": "California"}, "locality": "Castroville", "lng": -121.75105, "zip_code": "95012"});
+zipapicallback({"locality": "Castroville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Castroville"], "postal_code": "95012", "lat": 36.768856, "lng": -121.75105, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]});

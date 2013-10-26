@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.274108, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "La Jara", "lng": -106.05178, "zip_code": "81140"});
+zipapicallback({"locality": "La Jara", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["La Jara"], "postal_code": "81140", "lat": 37.274108, "lng": -106.05178, "type": "STANDARD", "counties": [{"fips": "021", "name": "Conejos"}, {"fips": "105", "name": "Rio Grande"}, {"fips": "003", "name": "Alamosa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.000193, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Corunna", "lng": -84.0634, "zip_code": "48817"});
+zipapicallback({"locality": "Corunna", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Corunna"], "postal_code": "48817", "lat": 43.000193, "lng": -84.0634, "type": "STANDARD", "counties": [{"fips": "155", "name": "Shiawassee"}]});

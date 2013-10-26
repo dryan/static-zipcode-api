@@ -1,1 +1,1 @@
-{"lat": 39.34446, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Leesburg", "lng": -83.54825, "zip_code": "45135"}
+{"locality": "Leesburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fayette County", "Hglnd County", "Highland County", "Leesburg"], "postal_code": "45135", "lat": 39.34446, "lng": -83.54825, "type": "STANDARD", "counties": [{"fips": "071", "name": "Highland"}]}

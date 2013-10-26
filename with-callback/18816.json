@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.747232, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dimock", "lng": -75.89424, "zip_code": "18816"});
+zipapicallback({"locality": "Dimock", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dimock"], "postal_code": "18816", "lat": 41.747232, "lng": -75.89424, "type": "POBOX", "counties": [{"fips": "115", "name": "Susquehanna"}]});

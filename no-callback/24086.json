@@ -1,1 +1,1 @@
-{"lat": 37.287326, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Eggleston", "lng": -80.62194, "zip_code": "24086"}
+{"locality": "Eggleston", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Eggleston"], "postal_code": "24086", "lat": 37.287326, "lng": -80.62194, "type": "STANDARD", "counties": [{"fips": "071", "name": "Giles"}]}

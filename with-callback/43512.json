@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.29037, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Defiance", "lng": -84.36539, "zip_code": "43512"});
+zipapicallback({"locality": "Defiance", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Defiance"], "postal_code": "43512", "lat": 41.29037, "lng": -84.36539, "type": "STANDARD", "counties": [{"fips": "039", "name": "Defiance"}, {"fips": "125", "name": "Paulding"}, {"fips": "137", "name": "Putnam"}, {"fips": "171", "name": "Williams"}, {"fips": "069", "name": "Henry"}]});

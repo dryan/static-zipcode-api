@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.85389, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Crawford", "lng": -80.40589, "zip_code": "26343"});
+zipapicallback({"locality": "Crawford", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Crawford"], "postal_code": "26343", "lat": 38.85389, "lng": -80.40589, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}, {"fips": "097", "name": "Upshur"}]});

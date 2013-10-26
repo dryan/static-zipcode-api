@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.317242, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pittston", "lng": -75.77942, "zip_code": "18640"});
+zipapicallback({"locality": "Pittston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hughestown", "Inkerman", "Jenkins Township", "Jenkins Twp", "Pittston", "Pittston Township", "Pittston Twp", "Port Griffith", "Yatesville"], "postal_code": "18640", "lat": 41.317242, "lng": -75.77942, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

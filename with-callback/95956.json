@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.93935, "region": {"abbr": "CA", "name": "California"}, "locality": "Meadow Valley", "lng": -121.06047, "zip_code": "95956"});
+zipapicallback({"locality": "Meadow Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Meadow Valley"], "postal_code": "95956", "lat": 39.93935, "lng": -121.06047, "type": "POBOX", "counties": [{"fips": "063", "name": "Plumas"}]});

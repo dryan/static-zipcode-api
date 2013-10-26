@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.183424, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Naples", "lng": -81.70643, "zip_code": "34116"});
+zipapicallback({"locality": "Naples", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Naples"], "postal_code": "34116", "lat": 26.183424, "lng": -81.70643, "type": "STANDARD", "counties": []});

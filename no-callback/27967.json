@@ -1,1 +1,1 @@
-{"lat": 36.234231, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Powellsville", "lng": -76.94686, "zip_code": "27967"}
+{"locality": "Powellsville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Powellsville"], "postal_code": "27967", "lat": 36.234231, "lng": -76.94686, "type": "POBOX", "counties": [{"fips": "015", "name": "Bertie"}]}

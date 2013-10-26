@@ -1,1 +1,1 @@
-{"lat": 28.868986, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Oak Hill", "lng": -80.85374, "zip_code": "32759"}
+{"locality": "Oak Hill", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Oak Hill"], "postal_code": "32759", "lat": 28.868986, "lng": -80.85374, "type": "STANDARD", "counties": [{"fips": "127", "name": "Volusia"}]}

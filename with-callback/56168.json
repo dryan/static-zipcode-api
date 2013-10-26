@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.608503, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rushmore", "lng": -95.80946, "zip_code": "56168"});
+zipapicallback({"locality": "Rushmore", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rushmore"], "postal_code": "56168", "lat": 43.608503, "lng": -95.80946, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}]});

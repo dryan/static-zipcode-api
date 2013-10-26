@@ -1,1 +1,1 @@
-{"lat": 40.553971, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Sewaren", "lng": -74.25938, "zip_code": "07077"}
+{"locality": "Sewaren", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Sewaren"], "postal_code": "07077", "lat": 40.553971, "lng": -74.25938, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

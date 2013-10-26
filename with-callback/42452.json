@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.674669, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Robards", "lng": -87.54291, "zip_code": "42452"});
+zipapicallback({"locality": "Robards", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Robards"], "postal_code": "42452", "lat": 37.674669, "lng": -87.54291, "type": "STANDARD", "counties": [{"fips": "101", "name": "Henderson"}]});

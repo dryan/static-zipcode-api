@@ -1,1 +1,1 @@
-{"lat": 40.533806, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glenshaw", "lng": -79.96303, "zip_code": "15116"}
+{"locality": "Glenshaw", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Glenshaw"], "postal_code": "15116", "lat": 40.533806, "lng": -79.96303, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

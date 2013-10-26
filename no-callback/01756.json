@@ -1,1 +1,1 @@
-{"lat": 42.092006, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mendon", "lng": -71.54474, "zip_code": "01756"}
+{"locality": "Mendon", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Mendon"], "postal_code": "01756", "lat": 42.092006, "lng": -71.54474, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

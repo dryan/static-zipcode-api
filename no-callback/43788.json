@@ -1,1 +1,1 @@
-{"lat": 39.799978, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Summerfield", "lng": -81.33548, "zip_code": "43788"}
+{"locality": "Summerfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Summerfield"], "postal_code": "43788", "lat": 39.799978, "lng": -81.33548, "type": "STANDARD", "counties": [{"fips": "121", "name": "Noble"}, {"fips": "111", "name": "Monroe"}]}

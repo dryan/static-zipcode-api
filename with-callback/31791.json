@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.536886, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Sylvester", "lng": -83.86041, "zip_code": "31791"});
+zipapicallback({"locality": "Sylvester", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Sylvester"], "postal_code": "31791", "lat": 31.536886, "lng": -83.86041, "type": "STANDARD", "counties": [{"fips": "321", "name": "Worth"}, {"fips": "095", "name": "Dougherty"}]});

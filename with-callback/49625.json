@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.44905, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Copemish", "lng": -85.88908, "zip_code": "49625"});
+zipapicallback({"locality": "Copemish", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Copemish"], "postal_code": "49625", "lat": 44.44905, "lng": -85.88908, "type": "STANDARD", "counties": [{"fips": "101", "name": "Manistee"}, {"fips": "165", "name": "Wexford"}]});

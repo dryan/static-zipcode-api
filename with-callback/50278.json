@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.158866, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Zearing", "lng": -93.29673, "zip_code": "50278"});
+zipapicallback({"locality": "Zearing", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Zearing"], "postal_code": "50278", "lat": 42.158866, "lng": -93.29673, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}]});

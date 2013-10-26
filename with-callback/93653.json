@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.236305, "region": {"abbr": "CA", "name": "California"}, "locality": "Raymond", "lng": -119.92498, "zip_code": "93653"});
+zipapicallback({"locality": "Raymond", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Raymond"], "postal_code": "93653", "lat": 37.236305, "lng": -119.92498, "type": "STANDARD", "counties": [{"fips": "039", "name": "Madera"}, {"fips": "043", "name": "Mariposa"}]});

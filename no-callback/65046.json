@@ -1,1 +1,1 @@
-{"lat": 38.77066, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jamestown", "lng": -92.48206, "zip_code": "65046"}
+{"locality": "Jamestown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Jamestown"], "postal_code": "65046", "lat": 38.77066, "lng": -92.48206, "type": "STANDARD", "counties": [{"fips": "135", "name": "Moniteau"}, {"fips": "053", "name": "Cooper"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.947335, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cedar Rapids", "lng": -91.68819, "zip_code": "52404"}
+{"locality": "Cedar Rapids", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cedar Rapids"], "postal_code": "52404", "lat": 41.947335, "lng": -91.68819, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}, {"fips": "103", "name": "Johnson"}]}

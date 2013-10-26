@@ -1,1 +1,1 @@
-{"lat": 33.752213, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Caledonia", "lng": -88.30989, "zip_code": "39740"}
+{"locality": "Caledonia", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Caledonia"], "postal_code": "39740", "lat": 33.752213, "lng": -88.30989, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]}

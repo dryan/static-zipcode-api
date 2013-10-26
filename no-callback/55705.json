@@ -1,1 +1,1 @@
-{"lat": 47.45225, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Aurora", "lng": -92.24109, "zip_code": "55705"}
+{"locality": "Aurora", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Aurora"], "postal_code": "55705", "lat": 47.45225, "lng": -92.24109, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.954293, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Carey", "lng": -83.38068, "zip_code": "43316"}
+{"locality": "Carey", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Adrian", "Carey"], "postal_code": "43316", "lat": 40.954293, "lng": -83.38068, "type": "STANDARD", "counties": [{"fips": "175", "name": "Wyandot"}, {"fips": "063", "name": "Hancock"}, {"fips": "147", "name": "Seneca"}]}

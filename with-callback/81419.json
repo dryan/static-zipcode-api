@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.819199, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hotchkiss", "lng": -107.73704, "zip_code": "81419"});
+zipapicallback({"locality": "Hotchkiss", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hotchkiss"], "postal_code": "81419", "lat": 38.819199, "lng": -107.73704, "type": "STANDARD", "counties": [{"fips": "029", "name": "Delta"}]});

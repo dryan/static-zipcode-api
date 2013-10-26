@@ -1,1 +1,1 @@
-{"lat": 39.183164, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Woodbridge", "lng": -86.50293, "zip_code": "47408"}
+{"locality": "Bloomington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bloomington", "Woodbridge"], "postal_code": "47408", "lat": 39.183164, "lng": -86.50293, "type": "STANDARD", "counties": [{"fips": "105", "name": "Monroe"}, {"fips": "013", "name": "Brown"}]}

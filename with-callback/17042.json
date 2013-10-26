@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.31977, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cleona", "lng": -76.42344, "zip_code": "17042"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cleona", "Colebrook", "Cornwall Boro", "Cornwall Borough", "Lebanon"], "postal_code": "17042", "lat": 40.31977, "lng": -76.42344, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lebanon"}]});

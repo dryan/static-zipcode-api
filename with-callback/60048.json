@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.290922, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Libertyville", "lng": -87.95169, "zip_code": "60048"});
+zipapicallback({"locality": "Libertyville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Libertyville"], "postal_code": "60048", "lat": 42.290922, "lng": -87.95169, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]});

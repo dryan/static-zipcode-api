@@ -1,1 +1,1 @@
-{"lat": 30.587852, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lakeland", "lng": -91.39994, "zip_code": "70752"}
+{"locality": "Lakeland", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lakeland"], "postal_code": "70752", "lat": 30.587852, "lng": -91.39994, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pointe Coupee"}]}

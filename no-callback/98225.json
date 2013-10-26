@@ -1,1 +1,1 @@
-{"lat": 48.747578, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bellingham", "lng": -122.48508, "zip_code": "98225"}
+{"locality": "Bellingham", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bellingham"], "postal_code": "98225", "lat": 48.747578, "lng": -122.48508, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}, {"fips": "033", "name": "King"}]}

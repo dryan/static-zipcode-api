@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.11627, "region": {"abbr": "NY", "name": "New York"}, "locality": "Whitesboro", "lng": -75.31182, "zip_code": "13492"});
+zipapicallback({"locality": "Whitesboro", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Whitesboro"], "postal_code": "13492", "lat": 43.11627, "lng": -75.31182, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]});

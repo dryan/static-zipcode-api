@@ -1,1 +1,1 @@
-{"lat": 44.178746, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Mc Kenzie Bridge", "lng": -122.14591, "zip_code": "97413"}
+{"locality": "Blue River", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Blue River", "Ckenzie Bridge", "Mc Kenzie Brg", "Mckenzie Bridge"], "postal_code": "97413", "lat": 44.178746, "lng": -122.14591, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

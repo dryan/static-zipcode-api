@@ -1,1 +1,1 @@
-{"lat": 37.931216, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wallops Island", "lng": -75.47192, "zip_code": "23337"}
+{"locality": "Wallops Island", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chincoteague", "Chincoteague Island", "Wallops Is", "Wallops Island"], "postal_code": "23337", "lat": 37.931216, "lng": -75.47192, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]}

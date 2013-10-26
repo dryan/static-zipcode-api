@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.907563, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Linn Grove", "lng": -95.25334, "zip_code": "51033"});
+zipapicallback({"locality": "Linn Grove", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Linn Grove"], "postal_code": "51033", "lat": 42.907563, "lng": -95.25334, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buena Vista"}]});

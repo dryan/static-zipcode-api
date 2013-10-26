@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.23092, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Smithland", "lng": -95.94724, "zip_code": "51056"});
+zipapicallback({"locality": "Smithland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Smithland"], "postal_code": "51056", "lat": 42.23092, "lng": -95.94724, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]});

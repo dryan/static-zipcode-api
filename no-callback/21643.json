@@ -1,1 +1,1 @@
-{"lat": 38.641666, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Williamsburg", "lng": -75.86418, "zip_code": "21643"}
+{"locality": "Hurlock", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hurlock"], "postal_code": "21643", "lat": 38.641666, "lng": -75.86418, "type": "STANDARD", "counties": [{"fips": "019", "name": "Dorchester"}]}

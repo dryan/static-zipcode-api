@@ -1,1 +1,1 @@
-{"lat": 42.60027, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Darien", "lng": -88.74978, "zip_code": "53114"}
+{"locality": "Darien", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Darien"], "postal_code": "53114", "lat": 42.60027, "lng": -88.74978, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walworth"}, {"fips": "105", "name": "Rock"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.738226, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lawrenceville", "lng": -87.65984, "zip_code": "62439"});
+zipapicallback({"locality": "Lawrenceville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lawrenceville"], "postal_code": "62439", "lat": 38.738226, "lng": -87.65984, "type": "STANDARD", "counties": [{"fips": "101", "name": "Lawrence"}]});

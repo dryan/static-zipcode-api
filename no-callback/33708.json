@@ -1,1 +1,1 @@
-{"lat": 27.811626, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Madeira Beach", "lng": -82.79321, "zip_code": "33708"}
+{"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Madeira Beach", "N Redngtn Bch", "North Redington Beach", "Redingtn Shor", "Redington Bch", "Redington Beach", "Redington Shores", "Saint Petersburg", "St Petersburg"], "postal_code": "33708", "lat": 27.811626, "lng": -82.79321, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

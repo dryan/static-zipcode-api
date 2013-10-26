@@ -1,1 +1,1 @@
-{"lat": 34.258054, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Maysville", "lng": -83.56058, "zip_code": "30558"}
+{"locality": "Maysville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Maysville"], "postal_code": "30558", "lat": 34.258054, "lng": -83.56058, "type": "STANDARD", "counties": [{"fips": "011", "name": "Banks"}, {"fips": "157", "name": "Jackson"}]}

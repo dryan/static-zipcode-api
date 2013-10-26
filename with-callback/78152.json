@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.432262, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Saint Hedwig", "lng": -98.20151, "zip_code": "78152"});
+zipapicallback({"locality": "Saint Hedwig", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Saint Hedwig"], "postal_code": "78152", "lat": 29.432262, "lng": -98.20151, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]});

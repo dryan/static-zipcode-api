@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.14348, "region": {"abbr": "CA", "name": "California"}, "locality": "Westlake Village", "lng": -118.85608, "zip_code": "91361"});
+zipapicallback({"locality": "Westlake Village", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hidden Valley", "Lake Sherwood", "Thousand Oaks", "Westlake Village", "Westlake Vlg"], "postal_code": "91361", "lat": 34.14348, "lng": -118.85608, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}, {"fips": "037", "name": "Los Angeles"}]});

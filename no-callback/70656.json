@@ -1,1 +1,1 @@
-{"lat": 30.937089, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pitkin", "lng": -92.94802, "zip_code": "70656"}
+{"locality": "Pitkin", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fullerton", "Pitkin"], "postal_code": "70656", "lat": 30.937089, "lng": -92.94802, "type": "STANDARD", "counties": [{"fips": "115", "name": "Vernon"}, {"fips": "003", "name": "Allen"}, {"fips": "079", "name": "Rapides"}]}

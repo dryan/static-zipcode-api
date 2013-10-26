@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.021086, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ozark", "lng": -93.21541, "zip_code": "65721"});
+zipapicallback({"locality": "Ozark", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ozark"], "postal_code": "65721", "lat": 37.021086, "lng": -93.21541, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "077", "name": "Greene"}]});

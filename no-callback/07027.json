@@ -1,1 +1,1 @@
-{"lat": 40.650802, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Garwood", "lng": -74.32351, "zip_code": "07027"}
+{"locality": "Garwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Garwood"], "postal_code": "07027", "lat": 40.650802, "lng": -74.32351, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.383366, "region": {"abbr": "CA", "name": "California"}, "locality": "Clarksburg", "lng": -121.57819, "zip_code": "95612"}
+{"locality": "Clarksburg", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clarksburg"], "postal_code": "95612", "lat": 38.383366, "lng": -121.57819, "type": "STANDARD", "counties": [{"fips": "113", "name": "Yolo"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.813571, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Menoken", "lng": -100.53101, "zip_code": "58558"}
+{"locality": "Menoken", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Menoken"], "postal_code": "58558", "lat": 46.813571, "lng": -100.53101, "type": "STANDARD", "counties": [{"fips": "015", "name": "Burleigh"}]}

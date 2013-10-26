@@ -1,1 +1,1 @@
-{"lat": 29.765329, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Florahome", "lng": -81.85602, "zip_code": "32140"}
+{"locality": "Florahome", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Florahome"], "postal_code": "32140", "lat": 29.765329, "lng": -81.85602, "type": "STANDARD", "counties": []}

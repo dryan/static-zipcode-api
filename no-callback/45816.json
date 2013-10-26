@@ -1,1 +1,1 @@
-{"lat": 41.00433, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Benton Ridge", "lng": -83.79265, "zip_code": "45816"}
+{"locality": "Benton Ridge", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Benton Ridge"], "postal_code": "45816", "lat": 41.00433, "lng": -83.79265, "type": "POBOX", "counties": [{"fips": "063", "name": "Hancock"}]}

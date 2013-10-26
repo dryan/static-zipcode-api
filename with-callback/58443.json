@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.435273, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Juanita", "lng": -98.63842, "zip_code": "58443"});
+zipapicallback({"locality": "Glenfield", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Glenfield", "Juanita"], "postal_code": "58443", "lat": 47.435273, "lng": -98.63842, "type": "STANDARD", "counties": [{"fips": "031", "name": "Foster"}, {"fips": "039", "name": "Griggs"}]});

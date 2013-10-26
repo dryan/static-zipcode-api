@@ -1,1 +1,1 @@
-{"lat": 39.111094, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Coalton", "lng": -82.61105, "zip_code": "45621"}
+{"locality": "Coalton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Coalton"], "postal_code": "45621", "lat": 39.111094, "lng": -82.61105, "type": "POBOX", "counties": [{"fips": "079", "name": "Jackson"}]}

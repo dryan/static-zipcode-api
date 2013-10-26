@@ -1,1 +1,1 @@
-{"lat": 42.939915, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Kilgore", "lng": -100.92827, "zip_code": "69216"}
+{"locality": "Kilgore", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Kilgore"], "postal_code": "69216", "lat": 42.939915, "lng": -100.92827, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cherry"}]}

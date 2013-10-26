@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.323799, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Tennessee Ridge", "lng": -87.77676, "zip_code": "37178"});
+zipapicallback({"locality": "Tennessee Ridge", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Tennessee Rdg", "Tennessee Ridge"], "postal_code": "37178", "lat": 36.323799, "lng": -87.77676, "type": "STANDARD", "counties": [{"fips": "083", "name": "Houston"}, {"fips": "161", "name": "Stewart"}]});

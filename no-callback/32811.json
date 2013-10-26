@@ -1,1 +1,1 @@
-{"lat": 28.52493, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Orlo Vista", "lng": -81.43994, "zip_code": "32811"}
+{"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Orlando", "Orlo Vista"], "postal_code": "32811", "lat": 28.52493, "lng": -81.43994, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]}

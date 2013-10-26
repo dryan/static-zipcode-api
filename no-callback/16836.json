@@ -1,1 +1,1 @@
-{"lat": 41.104737, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Frenchville", "lng": -78.2344, "zip_code": "16836"}
+{"locality": "Frenchville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Frenchville"], "postal_code": "16836", "lat": 41.104737, "lng": -78.2344, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]}

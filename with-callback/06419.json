@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.380594, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Killingworth", "lng": -72.57637, "zip_code": "06419"});
+zipapicallback({"locality": "Killingworth", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Deep River", "Killingworth"], "postal_code": "06419", "lat": 41.380594, "lng": -72.57637, "type": "STANDARD", "counties": []});

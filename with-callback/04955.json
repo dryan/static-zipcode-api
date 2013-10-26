@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.638255, "region": {"abbr": "ME", "name": "Maine"}, "locality": "New Sharon", "lng": -70.01525, "zip_code": "04955"});
+zipapicallback({"locality": "New Sharon", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["New Sharon"], "postal_code": "04955", "lat": 44.638255, "lng": -70.01525, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}, {"fips": "025", "name": "Somerset"}, {"fips": "011", "name": "Kennebec"}]});

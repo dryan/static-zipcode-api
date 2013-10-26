@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.199221, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dardanelle", "lng": -93.17973, "zip_code": "72834"});
+zipapicallback({"locality": "Dardanelle", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Dardanelle"], "postal_code": "72834", "lat": 35.199221, "lng": -93.17973, "type": "STANDARD", "counties": [{"fips": "149", "name": "Yell"}, {"fips": "115", "name": "Pope"}, {"fips": "083", "name": "Logan"}]});

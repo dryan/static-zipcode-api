@@ -1,1 +1,1 @@
-{"lat": 42.041999, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Morton Grove", "lng": -87.78882, "zip_code": "60053"}
+{"locality": "Morton Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Morton Grove"], "postal_code": "60053", "lat": 42.041999, "lng": -87.78882, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

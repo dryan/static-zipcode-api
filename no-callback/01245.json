@@ -1,1 +1,1 @@
-{"lat": 42.180659, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Otis", "lng": -73.20849, "zip_code": "01245"}
+{"locality": "Monterey", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Monterey", "West Otis"], "postal_code": "01245", "lat": 42.180659, "lng": -73.20849, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

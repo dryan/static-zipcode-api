@@ -1,1 +1,1 @@
-{"lat": 44.265633, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Montpelier", "lng": -72.59686, "zip_code": "05602"}
+{"locality": "Montpelier", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Berlin", "Middlesex", "Middlesex Center", "Middlesex Ctr", "Montpelier"], "postal_code": "05602", "lat": 44.265633, "lng": -72.59686, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}]}

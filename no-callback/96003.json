@@ -1,1 +1,1 @@
-{"lat": 40.641389, "region": {"abbr": "CA", "name": "California"}, "locality": "Redding", "lng": -122.34206, "zip_code": "96003"}
+{"locality": "Redding", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Redding"], "postal_code": "96003", "lat": 40.641389, "lng": -122.34206, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]}

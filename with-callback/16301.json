@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.439658, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oil City", "lng": -79.69044, "zip_code": "16301"});
+zipapicallback({"locality": "Oil City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oil City"], "postal_code": "16301", "lat": 41.439658, "lng": -79.69044, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]});

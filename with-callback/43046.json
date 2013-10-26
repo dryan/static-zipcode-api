@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.900063, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Millersport", "lng": -82.53696, "zip_code": "43046"});
+zipapicallback({"locality": "Millersport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Etna", "Millersport"], "postal_code": "43046", "lat": 39.900063, "lng": -82.53696, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fairfield"}, {"fips": "089", "name": "Licking"}]});

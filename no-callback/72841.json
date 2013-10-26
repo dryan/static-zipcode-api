@@ -1,1 +1,1 @@
-{"lat": 34.866017, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Harvey", "lng": -93.77678, "zip_code": "72841"}
+{"locality": "Harvey", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Harvey"], "postal_code": "72841", "lat": 34.866017, "lng": -93.77678, "type": "STANDARD", "counties": [{"fips": "127", "name": "Scott"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.169066, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ammon", "lng": -77.74358, "zip_code": "23850"}
+{"locality": "Ford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ford"], "postal_code": "23850", "lat": 37.169066, "lng": -77.74358, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dinwiddie"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.037218, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kiowa", "lng": -98.49342, "zip_code": "67070"}
+{"locality": "Kiowa", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kiowa"], "postal_code": "67070", "lat": 37.037218, "lng": -98.49342, "type": "STANDARD", "counties": [{"fips": "007", "name": "Barber"}]}

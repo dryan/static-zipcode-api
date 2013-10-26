@@ -1,1 +1,1 @@
-{"lat": 37.561722, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Gravel Switch", "lng": -85.0227, "zip_code": "40328"}
+{"locality": "Gravel Switch", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gravel Switch"], "postal_code": "40328", "lat": 37.561722, "lng": -85.0227, "type": "STANDARD", "counties": [{"fips": "155", "name": "Marion"}, {"fips": "045", "name": "Casey"}, {"fips": "021", "name": "Boyle"}]}

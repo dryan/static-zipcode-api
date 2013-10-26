@@ -1,1 +1,1 @@
-{"lat": 41.305178, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kouts", "lng": -87.01522, "zip_code": "46347"}
+{"locality": "Kouts", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kouts"], "postal_code": "46347", "lat": 41.305178, "lng": -87.01522, "type": "STANDARD", "counties": [{"fips": "127", "name": "Porter"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.127895, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Willard", "lng": -104.45228, "zip_code": "59354"});
+zipapicallback({"locality": "Willard", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Willard"], "postal_code": "59354", "lat": 46.127895, "lng": -104.45228, "type": "POBOX", "counties": [{"fips": "025", "name": "Fallon"}]});

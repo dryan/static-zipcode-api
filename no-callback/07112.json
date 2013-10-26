@@ -1,1 +1,1 @@
-{"lat": 40.711651, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Newark", "lng": -74.21303, "zip_code": "07112"}
+{"locality": "Newark", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Newark"], "postal_code": "07112", "lat": 40.711651, "lng": -74.21303, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

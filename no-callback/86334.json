@@ -1,1 +1,1 @@
-{"lat": 34.910591, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Paulden", "lng": -112.46252, "zip_code": "86334"}
+{"locality": "Paulden", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Paulden"], "postal_code": "86334", "lat": 34.910591, "lng": -112.46252, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]}

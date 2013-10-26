@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.886474, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Great Meadows", "lng": -74.90089, "zip_code": "07838"});
+zipapicallback({"locality": "Great Meadows", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Great Meadows"], "postal_code": "07838", "lat": 40.886474, "lng": -74.90089, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]});

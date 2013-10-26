@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.10014, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wendover", "lng": -83.34647, "zip_code": "41775"});
+zipapicallback({"locality": "Wendover", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Wendover"], "postal_code": "41775", "lat": 37.10014, "lng": -83.34647, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}]});

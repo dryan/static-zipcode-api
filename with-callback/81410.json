@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.79053, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Austin", "lng": -107.97404, "zip_code": "81410"});
+zipapicallback({"locality": "Austin", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Austin", "Orchard City"], "postal_code": "81410", "lat": 38.79053, "lng": -107.97404, "type": "STANDARD", "counties": [{"fips": "029", "name": "Delta"}]});

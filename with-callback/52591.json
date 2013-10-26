@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.328837, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sigourney", "lng": -92.19641, "zip_code": "52591"});
+zipapicallback({"locality": "Sigourney", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sigourney"], "postal_code": "52591", "lat": 41.328837, "lng": -92.19641, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}]});

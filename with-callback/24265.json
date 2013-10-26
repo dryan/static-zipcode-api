@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.851769, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Keokee", "lng": -82.93593, "zip_code": "24265"});
+zipapicallback({"locality": "Keokee", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Keokee"], "postal_code": "24265", "lat": 36.851769, "lng": -82.93593, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}]});

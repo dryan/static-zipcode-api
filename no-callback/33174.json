@@ -1,1 +1,1 @@
-{"lat": 25.763044, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Miami", "lng": -80.35919, "zip_code": "33174"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami"], "postal_code": "33174", "lat": 25.763044, "lng": -80.35919, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.48358, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Halifax", "lng": -76.8727, "zip_code": "17032"}
+{"locality": "Halifax", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Halifax"], "postal_code": "17032", "lat": 40.48358, "lng": -76.8727, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}]}

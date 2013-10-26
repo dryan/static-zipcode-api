@@ -1,1 +1,1 @@
-{"lat": 45.391241, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Wilmot", "lng": -96.82332, "zip_code": "57279"}
+{"locality": "Wilmot", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Wilmot"], "postal_code": "57279", "lat": 45.391241, "lng": -96.82332, "type": "STANDARD", "counties": [{"fips": "109", "name": "Roberts"}, {"fips": "051", "name": "Grant"}]}

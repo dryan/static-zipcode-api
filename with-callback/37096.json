@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.61432, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Flatwoods", "lng": -87.87486, "zip_code": "37096"});
+zipapicallback({"locality": "Linden", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Flatwoods", "Linden"], "postal_code": "37096", "lat": 35.61432, "lng": -87.87486, "type": "STANDARD", "counties": [{"fips": "135", "name": "Perry"}, {"fips": "181", "name": "Wayne"}]});

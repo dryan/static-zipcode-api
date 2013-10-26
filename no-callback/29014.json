@@ -1,1 +1,1 @@
-{"lat": 34.552119, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Blackstock", "lng": -81.13542, "zip_code": "29014"}
+{"locality": "Blackstock", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Blackstock"], "postal_code": "29014", "lat": 34.552119, "lng": -81.13542, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chester"}, {"fips": "039", "name": "Fairfield"}]}

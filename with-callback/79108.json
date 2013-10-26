@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.296948, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Amarillo", "lng": -101.78641, "zip_code": "79108"});
+zipapicallback({"locality": "Amarillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Amarillo"], "postal_code": "79108", "lat": 35.296948, "lng": -101.78641, "type": "STANDARD", "counties": [{"fips": "375", "name": "Potter"}]});

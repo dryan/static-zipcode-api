@@ -1,1 +1,1 @@
-{"lat": 41.124546, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Norwalk", "lng": -73.43658, "zip_code": "06850"}
+{"locality": "Norwalk", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Norwalk"], "postal_code": "06850", "lat": 41.124546, "lng": -73.43658, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

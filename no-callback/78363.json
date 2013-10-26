@@ -1,1 +1,1 @@
-{"lat": 27.496472, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kingsville Naval", "lng": -97.86808, "zip_code": "78363"}
+{"locality": "Kingsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kingsville", "Kingsville Naval Air Station", "Kingsvl Naval", "Kingsvlle Nas"], "postal_code": "78363", "lat": 27.496472, "lng": -97.86808, "type": "STANDARD", "counties": [{"fips": "273", "name": "Kleberg"}, {"fips": "355", "name": "Nueces"}]}

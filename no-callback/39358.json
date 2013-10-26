@@ -1,1 +1,1 @@
-{"lat": 32.838485, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Scooba", "lng": -88.48707, "zip_code": "39358"}
+{"locality": "Scooba", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Scooba"], "postal_code": "39358", "lat": 32.838485, "lng": -88.48707, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kemper"}]}

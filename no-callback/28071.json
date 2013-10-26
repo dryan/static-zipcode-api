@@ -1,1 +1,1 @@
-{"lat": 35.513974, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gold Hill", "lng": -80.32779, "zip_code": "28071"}
+{"locality": "Gold Hill", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gold Hill"], "postal_code": "28071", "lat": 35.513974, "lng": -80.32779, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rowan"}]}

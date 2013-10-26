@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.250363, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Pilgrims Knob", "lng": -81.89766, "zip_code": "24634"});
+zipapicallback({"locality": "Pilgrims Knob", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Pilgrims Knob"], "postal_code": "24634", "lat": 37.250363, "lng": -81.89766, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}]});

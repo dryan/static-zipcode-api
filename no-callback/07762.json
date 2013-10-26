@@ -1,1 +1,1 @@
-{"lat": 40.153024, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Spring Lake", "lng": -74.03372, "zip_code": "07762"}
+{"locality": "Spring Lake", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Spring Lake"], "postal_code": "07762", "lat": 40.153024, "lng": -74.03372, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

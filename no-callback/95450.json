@@ -1,1 +1,1 @@
-{"lat": 38.506229, "region": {"abbr": "CA", "name": "California"}, "locality": "Jenner", "lng": -123.22938, "zip_code": "95450"}
+{"locality": "Jenner", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Jenner"], "postal_code": "95450", "lat": 38.506229, "lng": -123.22938, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

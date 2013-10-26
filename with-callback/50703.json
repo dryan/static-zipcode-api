@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.513636, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Waterloo", "lng": -92.32418, "zip_code": "50703"});
+zipapicallback({"locality": "Waterloo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Waterloo"], "postal_code": "50703", "lat": 42.513636, "lng": -92.32418, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}]});

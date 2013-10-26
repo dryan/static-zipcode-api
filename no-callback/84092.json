@@ -1,1 +1,1 @@
-{"lat": 40.558748, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Alta", "lng": -111.80902, "zip_code": "84092"}
+{"locality": "Sandy", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Alta", "Sandy", "Snowbird"], "postal_code": "84092", "lat": 40.558748, "lng": -111.80902, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

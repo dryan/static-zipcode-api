@@ -1,1 +1,1 @@
-{"lat": 35.82635, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Saint Paul", "lng": -93.73715, "zip_code": "72760"}
+{"locality": "Saint Paul", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Saint Paul"], "postal_code": "72760", "lat": 35.82635, "lng": -93.73715, "type": "STANDARD", "counties": [{"fips": "087", "name": "Madison"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.819206, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Madison", "lng": -69.82782, "zip_code": "04950"}
+{"locality": "Madison", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Madison"], "postal_code": "04950", "lat": 44.819206, "lng": -69.82782, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]}

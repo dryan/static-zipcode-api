@@ -1,1 +1,1 @@
-{"lat": 45.164248, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Blaine", "lng": -93.2531, "zip_code": "55434"}
+{"locality": "Minneapolis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Blaine", "Minneapolis"], "postal_code": "55434", "lat": 45.164248, "lng": -93.2531, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anoka"}, {"fips": "123", "name": "Ramsey"}, {"fips": "053", "name": "Hennepin"}]}

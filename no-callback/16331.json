@@ -1,1 +1,1 @@
-{"lat": 41.306317, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kossuth", "lng": -79.57486, "zip_code": "16331"}
+{"locality": "Kossuth", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kossuth"], "postal_code": "16331", "lat": 41.306317, "lng": -79.57486, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]}

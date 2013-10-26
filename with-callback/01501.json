@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.20361, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Auburn", "lng": -71.83843, "zip_code": "01501"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Auburn"], "postal_code": "01501", "lat": 42.20361, "lng": -71.83843, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

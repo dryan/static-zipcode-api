@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.769173, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sanford", "lng": -81.27631, "zip_code": "32773"});
+zipapicallback({"locality": "Sanford", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sanford"], "postal_code": "32773", "lat": 28.769173, "lng": -81.27631, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]});

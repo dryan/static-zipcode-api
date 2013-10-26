@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.787512, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Dayton", "lng": -107.48172, "zip_code": "82836"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Dayton"], "postal_code": "82836", "lat": 44.787512, "lng": -107.48172, "type": "STANDARD", "counties": [{"fips": "033", "name": "Sheridan"}]});

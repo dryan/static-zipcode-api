@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.591846, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Nekoma", "lng": -98.36827, "zip_code": "58355"});
+zipapicallback({"locality": "Nekoma", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Nekoma"], "postal_code": "58355", "lat": 48.591846, "lng": -98.36827, "type": "POBOX", "counties": [{"fips": "019", "name": "Cavalier"}]});

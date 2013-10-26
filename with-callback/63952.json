@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.028626, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Mill Spring", "lng": -90.65619, "zip_code": "63952"});
+zipapicallback({"locality": "Mill Spring", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Mill Spring"], "postal_code": "63952", "lat": 37.028626, "lng": -90.65619, "type": "STANDARD", "counties": [{"fips": "223", "name": "Wayne"}]});

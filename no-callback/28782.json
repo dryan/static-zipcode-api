@@ -1,1 +1,1 @@
-{"lat": 35.221428, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Tryon", "lng": -82.21712, "zip_code": "28782"}
+{"locality": "Tryon", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Tryon"], "postal_code": "28782", "lat": 35.221428, "lng": -82.21712, "type": "STANDARD", "counties": [{"fips": "149", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.494878, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Midway", "lng": -84.46259, "zip_code": "32343"});
+zipapicallback({"locality": "Midway", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Midway"], "postal_code": "32343", "lat": 30.494878, "lng": -84.46259, "type": "STANDARD", "counties": [{"fips": "039", "name": "Gadsden"}]});

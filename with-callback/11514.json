@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.750132, "region": {"abbr": "NY", "name": "New York"}, "locality": "Carle Place", "lng": -73.61328, "zip_code": "11514"});
+zipapicallback({"locality": "Carle Place", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Carle Place"], "postal_code": "11514", "lat": 40.750132, "lng": -73.61328, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

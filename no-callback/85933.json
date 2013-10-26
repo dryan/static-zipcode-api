@@ -1,1 +1,1 @@
-{"lat": 34.392829, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Overgaard", "lng": -110.52048, "zip_code": "85933"}
+{"locality": "Overgaard", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Overgaard"], "postal_code": "85933", "lat": 34.392829, "lng": -110.52048, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.195606, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Marine On Saint", "lng": -92.81649, "zip_code": "55047"});
+zipapicallback({"locality": "Marine On Saint Croix", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Marine On Saint Croix", "Marine St Crx"], "postal_code": "55047", "lat": 45.195606, "lng": -92.81649, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]});

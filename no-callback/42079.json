@@ -1,1 +1,1 @@
-{"lat": 36.574074, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sedalia", "lng": -88.56359, "zip_code": "42079"}
+{"locality": "Sedalia", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sedalia"], "postal_code": "42079", "lat": 36.574074, "lng": -88.56359, "type": "STANDARD", "counties": [{"fips": "083", "name": "Graves"}]}

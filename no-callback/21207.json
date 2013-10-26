@@ -1,1 +1,1 @@
-{"lat": 39.324406, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Gwynn Oak", "lng": -76.7176, "zip_code": "21207"}
+{"locality": "Gwynn Oak", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Gwynn Oak", "Woodlawn"], "postal_code": "21207", "lat": 39.324406, "lng": -76.7176, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}, {"fips": "025", "name": "Harford"}, {"fips": "510", "name": "Baltimore (City)"}]}

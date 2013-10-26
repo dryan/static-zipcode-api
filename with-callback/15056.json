@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.565367, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Leetsdale", "lng": -80.20977, "zip_code": "15056"});
+zipapicallback({"locality": "Leetsdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leetsdale"], "postal_code": "15056", "lat": 40.565367, "lng": -80.20977, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

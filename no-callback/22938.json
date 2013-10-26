@@ -1,1 +1,1 @@
-{"lat": 37.85583, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Faber", "lng": -78.77546, "zip_code": "22938"}
+{"locality": "Faber", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Faber"], "postal_code": "22938", "lat": 37.85583, "lng": -78.77546, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}, {"fips": "003", "name": "Albemarle"}]}

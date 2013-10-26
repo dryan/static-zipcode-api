@@ -1,1 +1,1 @@
-{"lat": 39.655722, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Smithsburg", "lng": -77.5672, "zip_code": "21783"}
+{"locality": "Smithsburg", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Smithsburg"], "postal_code": "21783", "lat": 39.655722, "lng": -77.5672, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}, {"fips": "021", "name": "Frederick"}]}

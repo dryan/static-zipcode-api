@@ -1,1 +1,1 @@
-{"lat": 42.659404, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Mc Cammon", "lng": -112.21484, "zip_code": "83250"}
+{"locality": "Mccammon", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Mccammon"], "postal_code": "83250", "lat": 42.659404, "lng": -112.21484, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bannock"}]}

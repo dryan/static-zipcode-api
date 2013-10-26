@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.562925, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Blanding", "lng": -109.46245, "zip_code": "84511"});
+zipapicallback({"locality": "Blanding", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Blanding", "White Mesa"], "postal_code": "84511", "lat": 37.562925, "lng": -109.46245, "type": "STANDARD", "counties": [{"fips": "037", "name": "San Juan"}]});

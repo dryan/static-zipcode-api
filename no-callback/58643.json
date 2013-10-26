@@ -1,1 +1,1 @@
-{"lat": 46.2715, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Marmarth", "lng": -103.93203, "zip_code": "58643"}
+{"locality": "Marmarth", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Marmarth"], "postal_code": "58643", "lat": 46.2715, "lng": -103.93203, "type": "STANDARD", "counties": [{"fips": "087", "name": "Slope"}, {"fips": "011", "name": "Bowman"}]}

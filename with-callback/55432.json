@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.095674, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Fridley", "lng": -93.25336, "zip_code": "55432"});
+zipapicallback({"locality": "Minneapolis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Fridley", "Minneapolis", "Spring Lake Park", "Spring Lk Pk"], "postal_code": "55432", "lat": 45.095674, "lng": -93.25336, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anoka"}, {"fips": "123", "name": "Ramsey"}, {"fips": "053", "name": "Hennepin"}]});

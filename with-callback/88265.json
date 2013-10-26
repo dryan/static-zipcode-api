@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.590107, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Monument", "lng": -103.30857, "zip_code": "88265"});
+zipapicallback({"locality": "Monument", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Monument"], "postal_code": "88265", "lat": 32.590107, "lng": -103.30857, "type": "STANDARD", "counties": [{"fips": "025", "name": "Lea"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.710231, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Tiffin", "lng": -91.66955, "zip_code": "52340"});
+zipapicallback({"locality": "Tiffin", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Tiffin"], "postal_code": "52340", "lat": 41.710231, "lng": -91.66955, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]});

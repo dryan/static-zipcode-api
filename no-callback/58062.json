@@ -1,1 +1,1 @@
-{"lat": 46.669107, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Nome", "lng": -97.81842, "zip_code": "58062"}
+{"locality": "Nome", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Nome"], "postal_code": "58062", "lat": 46.669107, "lng": -97.81842, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}, {"fips": "073", "name": "Ransom"}]}

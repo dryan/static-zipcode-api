@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.057089, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elmsford", "lng": -73.81658, "zip_code": "10523"});
+zipapicallback({"locality": "Elmsford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elmsford"], "postal_code": "10523", "lat": 41.057089, "lng": -73.81658, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

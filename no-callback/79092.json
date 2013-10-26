@@ -1,1 +1,1 @@
-{"lat": 35.209649, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Vega", "lng": -102.42611, "zip_code": "79092"}
+{"locality": "Vega", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Vega"], "postal_code": "79092", "lat": 35.209649, "lng": -102.42611, "type": "STANDARD", "counties": [{"fips": "359", "name": "Oldham"}, {"fips": "117", "name": "Deaf Smith"}]}

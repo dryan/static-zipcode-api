@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.827158, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tunas", "lng": -92.98423, "zip_code": "65764"});
+zipapicallback({"locality": "Tunas", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tunas"], "postal_code": "65764", "lat": 37.827158, "lng": -92.98423, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dallas"}]});

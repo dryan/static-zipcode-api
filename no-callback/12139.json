@@ -1,1 +1,1 @@
-{"lat": 43.40276, "region": {"abbr": "NY", "name": "New York"}, "locality": "Piseco", "lng": -74.56972, "zip_code": "12139"}
+{"locality": "Piseco", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Piseco"], "postal_code": "12139", "lat": 43.40276, "lng": -74.56972, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hamilton"}]}

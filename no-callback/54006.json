@@ -1,1 +1,1 @@
-{"lat": 45.586187, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cushing", "lng": -92.64165, "zip_code": "54006"}
+{"locality": "Cushing", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cushing"], "postal_code": "54006", "lat": 45.586187, "lng": -92.64165, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}]}

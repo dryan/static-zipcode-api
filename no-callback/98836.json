@@ -1,1 +1,1 @@
-{"lat": 47.481133, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Monitor", "lng": -120.41354, "zip_code": "98836"}
+{"locality": "Monitor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Monitor"], "postal_code": "98836", "lat": 47.481133, "lng": -120.41354, "type": "POBOX", "counties": [{"fips": "007", "name": "Chelan"}]}

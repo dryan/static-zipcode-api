@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.129274, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Woodburn", "lng": -84.86982, "zip_code": "46797"});
+zipapicallback({"locality": "Woodburn", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Woodburn"], "postal_code": "46797", "lat": 41.129274, "lng": -84.86982, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]});

@@ -1,1 +1,1 @@
-{"lat": 28.982714, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Edgewater", "lng": -80.911, "zip_code": "32132"}
+{"locality": "Edgewater", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Edgewater"], "postal_code": "32132", "lat": 28.982714, "lng": -80.911, "type": "STANDARD", "counties": []}

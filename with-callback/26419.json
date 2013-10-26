@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.551892, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hastings", "lng": -80.67076, "zip_code": "26419"});
+zipapicallback({"locality": "Pine Grove", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hastings", "Pine Grove"], "postal_code": "26419", "lat": 39.551892, "lng": -80.67076, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.811566, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Raub", "lng": -101.86084, "zip_code": "58779"}
+{"locality": "Ryder", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Raub", "Ryder"], "postal_code": "58779", "lat": 47.811566, "lng": -101.86084, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}, {"fips": "055", "name": "McLean"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.645419, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bristol", "lng": -82.18137, "zip_code": "24202"}
+{"locality": "Bristol", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bristol"], "postal_code": "24202", "lat": 36.645419, "lng": -82.18137, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 37.969673, "region": {"abbr": "CA", "name": "California"}, "locality": "El Sobrante", "lng": -122.29413, "zip_code": "94803"}
+{"locality": "El Sobrante", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Sobrante", "Richmond", "San Pablo"], "postal_code": "94803", "lat": 37.969673, "lng": -122.29413, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]}

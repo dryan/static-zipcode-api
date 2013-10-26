@@ -1,1 +1,1 @@
-{"lat": 38.593202, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "White Plains", "lng": -76.97063, "zip_code": "20695"}
+{"locality": "White Plains", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["White Plains"], "postal_code": "20695", "lat": 38.593202, "lng": -76.97063, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.682882, "region": {"abbr": "CA", "name": "California"}, "locality": "Brisbane", "lng": -122.40422, "zip_code": "94005"});
+zipapicallback({"locality": "Brisbane", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Brisbane"], "postal_code": "94005", "lat": 37.682882, "lng": -122.40422, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]});

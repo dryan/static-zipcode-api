@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.407301, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Daleville", "lng": -79.91761, "zip_code": "24083"});
+zipapicallback({"locality": "Daleville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Daleville"], "postal_code": "24083", "lat": 37.407301, "lng": -79.91761, "type": "STANDARD", "counties": [{"fips": "023", "name": "Botetourt"}]});

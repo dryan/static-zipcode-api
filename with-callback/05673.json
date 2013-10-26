@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.184704, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Waitsfield", "lng": -72.8367, "zip_code": "05673"});
+zipapicallback({"locality": "Waitsfield", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Waitsfield"], "postal_code": "05673", "lat": 44.184704, "lng": -72.8367, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}]});

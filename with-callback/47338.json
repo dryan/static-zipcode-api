@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.339779, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Eaton", "lng": -85.34956, "zip_code": "47338"});
+zipapicallback({"locality": "Eaton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Eaton"], "postal_code": "47338", "lat": 40.339779, "lng": -85.34956, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]});

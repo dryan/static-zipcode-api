@@ -1,1 +1,1 @@
-{"lat": 42.086887, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Keno", "lng": -121.98101, "zip_code": "97627"}
+{"locality": "Keno", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Keno"], "postal_code": "97627", "lat": 42.086887, "lng": -121.98101, "type": "STANDARD", "counties": [{"fips": "035", "name": "Klamath"}]}

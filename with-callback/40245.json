@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.270855, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Louisville", "lng": -85.48322, "zip_code": "40245"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Coldstream", "Louisville", "Worthington Hills", "Worthngtn Hls"], "postal_code": "40245", "lat": 38.270855, "lng": -85.48322, "type": "STANDARD", "counties": []});

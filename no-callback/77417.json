@@ -1,1 +1,1 @@
-{"lat": 29.483573, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Beasley", "lng": -95.93931, "zip_code": "77417"}
+{"locality": "Beasley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Beasley"], "postal_code": "77417", "lat": 29.483573, "lng": -95.93931, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}]}

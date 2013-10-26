@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.143908, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Center", "lng": -85.66945, "zip_code": "42214"});
+zipapicallback({"locality": "Center", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Center"], "postal_code": "42214", "lat": 37.143908, "lng": -85.66945, "type": "STANDARD", "counties": [{"fips": "169", "name": "Metcalfe"}, {"fips": "087", "name": "Green"}]});

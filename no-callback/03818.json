@@ -1,1 +1,1 @@
-{"lat": 43.966958, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Conway", "lng": -71.15892, "zip_code": "03818"}
+{"locality": "Conway", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Albany", "Conway"], "postal_code": "03818", "lat": 43.966958, "lng": -71.15892, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]}

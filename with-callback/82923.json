@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.75073, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Boulder", "lng": -109.61933, "zip_code": "82923"});
+zipapicallback({"locality": "Boulder", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Boulder"], "postal_code": "82923", "lat": 42.75073, "lng": -109.61933, "type": "STANDARD", "counties": [{"fips": "035", "name": "Sublette"}]});

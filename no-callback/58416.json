@@ -1,1 +1,1 @@
-{"lat": 47.555709, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Binford", "lng": -98.34567, "zip_code": "58416"}
+{"locality": "Binford", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Binford"], "postal_code": "58416", "lat": 47.555709, "lng": -98.34567, "type": "STANDARD", "counties": [{"fips": "039", "name": "Griggs"}]}

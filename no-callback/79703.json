@@ -1,1 +1,1 @@
-{"lat": 31.984823, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Midland", "lng": -102.13015, "zip_code": "79703"}
+{"locality": "Midland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Midland"], "postal_code": "79703", "lat": 31.984823, "lng": -102.13015, "type": "STANDARD", "counties": [{"fips": "329", "name": "Midland"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.561031, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Cascade", "lng": -79.79533, "zip_code": "26542"}
+{"locality": "Masontown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Cascade", "Masontown"], "postal_code": "26542", "lat": 39.561031, "lng": -79.79533, "type": "STANDARD", "counties": [{"fips": "077", "name": "Preston"}, {"fips": "061", "name": "Monongalia"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.057708, "region": {"abbr": "CA", "name": "California"}, "locality": "Felton", "lng": -122.05967, "zip_code": "95018"}
+{"locality": "Felton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Felton"], "postal_code": "95018", "lat": 37.057708, "lng": -122.05967, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}]}

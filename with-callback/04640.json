@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.524526, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Hancock", "lng": -68.28298, "zip_code": "04640"});
+zipapicallback({"locality": "Hancock", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Hancock"], "postal_code": "04640", "lat": 44.524526, "lng": -68.28298, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]});

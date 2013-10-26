@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.605861, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Essexville", "lng": -83.81298, "zip_code": "48732"});
+zipapicallback({"locality": "Essexville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Essexville"], "postal_code": "48732", "lat": 43.605861, "lng": -83.81298, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}]});

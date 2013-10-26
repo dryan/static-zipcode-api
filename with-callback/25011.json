@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.508675, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bancroft", "lng": -81.84134, "zip_code": "25011"});
+zipapicallback({"locality": "Bancroft", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bancroft"], "postal_code": "25011", "lat": 38.508675, "lng": -81.84134, "type": "POBOX", "counties": [{"fips": "079", "name": "Putnam"}]});

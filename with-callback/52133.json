@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.119538, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Castalia", "lng": -91.66528, "zip_code": "52133"});
+zipapicallback({"locality": "Castalia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Castalia"], "postal_code": "52133", "lat": 43.119538, "lng": -91.66528, "type": "STANDARD", "counties": [{"fips": "191", "name": "Winneshiek"}]});

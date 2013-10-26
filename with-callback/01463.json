@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.665686, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Pepperell", "lng": -71.5929, "zip_code": "01463"});
+zipapicallback({"locality": "Pepperell", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Pepperell"], "postal_code": "01463", "lat": 42.665686, "lng": -71.5929, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]});

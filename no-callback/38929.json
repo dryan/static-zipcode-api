@@ -1,1 +1,1 @@
-{"lat": 33.748508, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Gore Springs", "lng": -89.54482, "zip_code": "38929"}
+{"locality": "Gore Springs", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Gore Springs"], "postal_code": "38929", "lat": 33.748508, "lng": -89.54482, "type": "STANDARD", "counties": [{"fips": "155", "name": "Webster"}, {"fips": "013", "name": "Calhoun"}, {"fips": "043", "name": "Grenada"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.044936, "region": {"abbr": "WA", "name": "Washington"}, "locality": "College Place", "lng": -118.38466, "zip_code": "99324"});
+zipapicallback({"locality": "College Place", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["College Place"], "postal_code": "99324", "lat": 46.044936, "lng": -118.38466, "type": "STANDARD", "counties": [{"fips": "071", "name": "Walla Walla"}]});

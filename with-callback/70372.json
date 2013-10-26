@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.829135, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Labadieville", "lng": -90.9636, "zip_code": "70372"});
+zipapicallback({"locality": "Labadieville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Labadieville"], "postal_code": "70372", "lat": 29.829135, "lng": -90.9636, "type": "STANDARD", "counties": [{"fips": "007", "name": "Assumption"}]});

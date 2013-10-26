@@ -1,1 +1,1 @@
-{"lat": 37.837136, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Stollings", "lng": -81.95921, "zip_code": "25646"}
+{"locality": "Stollings", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mc Connell", "Stollings"], "postal_code": "25646", "lat": 37.837136, "lng": -81.95921, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.601635, "region": {"abbr": "NY", "name": "New York"}, "locality": "Glenwood", "lng": -78.64273, "zip_code": "14069"}
+{"locality": "Glenwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glenwood"], "postal_code": "14069", "lat": 42.601635, "lng": -78.64273, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.500604, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Mountainair", "lng": -106.27612, "zip_code": "87036"}
+{"locality": "Mountainair", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Mountainair"], "postal_code": "87036", "lat": 34.500604, "lng": -106.27612, "type": "STANDARD", "counties": [{"fips": "057", "name": "Torrance"}]}

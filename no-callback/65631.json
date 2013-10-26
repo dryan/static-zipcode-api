@@ -1,1 +1,1 @@
-{"lat": 37.015404, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clever", "lng": -93.43738, "zip_code": "65631"}
+{"locality": "Clever", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clever"], "postal_code": "65631", "lat": 37.015404, "lng": -93.43738, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "209", "name": "Stone"}]}

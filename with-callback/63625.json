@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.538148, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Black", "lng": -90.96827, "zip_code": "63625"});
+zipapicallback({"locality": "Black", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Black"], "postal_code": "63625", "lat": 37.538148, "lng": -90.96827, "type": "STANDARD", "counties": [{"fips": "179", "name": "Reynolds"}, {"fips": "093", "name": "Iron"}]});

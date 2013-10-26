@@ -1,1 +1,1 @@
-{"lat": 31.176563, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ellenton", "lng": -83.58801, "zip_code": "31747"}
+{"locality": "Ellenton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ellenton"], "postal_code": "31747", "lat": 31.176563, "lng": -83.58801, "type": "POBOX", "counties": [{"fips": "071", "name": "Colquitt"}]}

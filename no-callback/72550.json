@@ -1,1 +1,1 @@
-{"lat": 35.710614, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Locust Grove", "lng": -91.7639, "zip_code": "72550"}
+{"locality": "Locust Grove", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Locust Grove"], "postal_code": "72550", "lat": 35.710614, "lng": -91.7639, "type": "STANDARD", "counties": [{"fips": "063", "name": "Independence"}]}

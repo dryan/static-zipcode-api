@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.241685, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Millers Creek", "lng": -81.27076, "zip_code": "28651"});
+zipapicallback({"locality": "Millers Creek", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Millers Creek", "Wilbar"], "postal_code": "28651", "lat": 36.241685, "lng": -81.27076, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}]});

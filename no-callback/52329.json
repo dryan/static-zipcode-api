@@ -1,1 +1,1 @@
-{"lat": 42.349458, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rowley", "lng": -91.84325, "zip_code": "52329"}
+{"locality": "Rowley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rowley"], "postal_code": "52329", "lat": 42.349458, "lng": -91.84325, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buchanan"}]}

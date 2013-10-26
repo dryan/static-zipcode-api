@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.857503, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Van Wert", "lng": -93.79945, "zip_code": "50262"});
+zipapicallback({"locality": "Van Wert", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Van Wert"], "postal_code": "50262", "lat": 40.857503, "lng": -93.79945, "type": "STANDARD", "counties": [{"fips": "053", "name": "Decatur"}]});

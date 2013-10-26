@@ -1,1 +1,1 @@
-{"lat": 35.219532, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cleveland", "lng": -84.86489, "zip_code": "37312"}
+{"locality": "Cleveland", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cleveland"], "postal_code": "37312", "lat": 35.219532, "lng": -84.86489, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bradley"}, {"fips": "139", "name": "Polk"}]}

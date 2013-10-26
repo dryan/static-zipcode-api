@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.211491, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Gardiner", "lng": -69.80866, "zip_code": "04345"});
+zipapicallback({"locality": "Gardiner", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Gardiner", "Pittston", "West Gardiner"], "postal_code": "04345", "lat": 44.211491, "lng": -69.80866, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

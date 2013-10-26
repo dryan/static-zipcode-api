@@ -1,1 +1,1 @@
-{"lat": 43.407616, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Harris", "lng": -95.43752, "zip_code": "51345"}
+{"locality": "Harris", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Harris"], "postal_code": "51345", "lat": 43.407616, "lng": -95.43752, "type": "STANDARD", "counties": [{"fips": "143", "name": "Osceola"}]}

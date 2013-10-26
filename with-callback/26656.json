@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.244559, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Belva", "lng": -81.16153, "zip_code": "26656"});
+zipapicallback({"locality": "Belva", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Belva"], "postal_code": "26656", "lat": 38.244559, "lng": -81.16153, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}, {"fips": "019", "name": "Fayette"}]});

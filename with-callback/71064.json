@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.913383, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Plain Dealing", "lng": -93.68912, "zip_code": "71064"});
+zipapicallback({"locality": "Plain Dealing", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Plain Dealing"], "postal_code": "71064", "lat": 32.913383, "lng": -93.68912, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bossier"}]});

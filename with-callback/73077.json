@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.308588, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Perry", "lng": -97.28809, "zip_code": "73077"});
+zipapicallback({"locality": "Perry", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Perry"], "postal_code": "73077", "lat": 36.308588, "lng": -97.28809, "type": "STANDARD", "counties": [{"fips": "103", "name": "Noble"}]});

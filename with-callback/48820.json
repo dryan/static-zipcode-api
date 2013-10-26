@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.842438, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dewitt", "lng": -84.58612, "zip_code": "48820"});
+zipapicallback({"locality": "Dewitt", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["De Witt", "Dewitt"], "postal_code": "48820", "lat": 42.842438, "lng": -84.58612, "type": "STANDARD", "counties": [{"fips": "037", "name": "Clinton"}]});

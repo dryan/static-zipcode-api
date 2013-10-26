@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.897807, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Chadwick", "lng": -93.00082, "zip_code": "65629"});
+zipapicallback({"locality": "Chadwick", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Chadwick"], "postal_code": "65629", "lat": 36.897807, "lng": -93.00082, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "213", "name": "Taney"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.769743, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lobelville", "lng": -87.80286, "zip_code": "37097"}
+{"locality": "Lobelville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lobelville"], "postal_code": "37097", "lat": 35.769743, "lng": -87.80286, "type": "STANDARD", "counties": [{"fips": "135", "name": "Perry"}, {"fips": "085", "name": "Humphreys"}]}

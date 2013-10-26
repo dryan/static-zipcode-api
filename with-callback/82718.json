@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.939968, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Gillette", "lng": -105.52445, "zip_code": "82718"});
+zipapicallback({"locality": "Gillette", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Gillette"], "postal_code": "82718", "lat": 43.939968, "lng": -105.52445, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 44.333183, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hortonville", "lng": -88.6167, "zip_code": "54944"}
+{"locality": "Hortonville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hortonville", "Medina"], "postal_code": "54944", "lat": 44.333183, "lng": -88.6167, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}, {"fips": "139", "name": "Winnebago"}]}

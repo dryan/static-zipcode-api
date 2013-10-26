@@ -1,1 +1,1 @@
-{"lat": 29.923718, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Augustine", "lng": -81.33962, "zip_code": "32095"}
+{"locality": "Saint Augustine", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Augustine", "St Augustine"], "postal_code": "32095", "lat": 29.923718, "lng": -81.33962, "type": "STANDARD", "counties": []}

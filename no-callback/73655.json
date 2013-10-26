@@ -1,1 +1,1 @@
-{"lat": 35.006152, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lone Wolf", "lng": -99.24851, "zip_code": "73655"}
+{"locality": "Lone Wolf", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lone Wolf"], "postal_code": "73655", "lat": 35.006152, "lng": -99.24851, "type": "STANDARD", "counties": [{"fips": "075", "name": "Kiowa"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.265328, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cayuta", "lng": -76.71263, "zip_code": "14824"}
+{"locality": "Cayuta", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cayuta"], "postal_code": "14824", "lat": 42.265328, "lng": -76.71263, "type": "STANDARD", "counties": [{"fips": "097", "name": "Schuyler"}, {"fips": "015", "name": "Chemung"}]}

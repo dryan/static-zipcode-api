@@ -1,1 +1,1 @@
-{"lat": 40.792365, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kulpmont", "lng": -76.47131, "zip_code": "17834"}
+{"locality": "Kulpmont", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kulpmont"], "postal_code": "17834", "lat": 40.792365, "lng": -76.47131, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]}

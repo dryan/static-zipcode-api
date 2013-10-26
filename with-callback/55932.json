@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.135053, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Elgin", "lng": -92.28314, "zip_code": "55932"});
+zipapicallback({"locality": "Elgin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elgin"], "postal_code": "55932", "lat": 44.135053, "lng": -92.28314, "type": "STANDARD", "counties": [{"fips": "157", "name": "Wabasha"}, {"fips": "109", "name": "Olmsted"}]});

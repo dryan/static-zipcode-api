@@ -1,1 +1,1 @@
-{"lat": 43.549862, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Ethan", "lng": -97.99713, "zip_code": "57334"}
+{"locality": "Ethan", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Ethan"], "postal_code": "57334", "lat": 43.549862, "lng": -97.99713, "type": "STANDARD", "counties": [{"fips": "035", "name": "Davison"}, {"fips": "067", "name": "Hutchinson"}, {"fips": "061", "name": "Hanson"}]}

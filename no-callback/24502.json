@@ -1,1 +1,1 @@
-{"lat": 37.362109, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Timberlake", "lng": -79.21525, "zip_code": "24502"}
+{"locality": "Lynchburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lynchburg", "Timberlake"], "postal_code": "24502", "lat": 37.362109, "lng": -79.21525, "type": "STANDARD", "counties": [{"fips": "031", "name": "Campbell"}, {"fips": "680", "name": "Lynchburg (City)"}]}

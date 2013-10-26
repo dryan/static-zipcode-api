@@ -1,1 +1,1 @@
-{"lat": 40.003997, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Everett", "lng": -78.36456, "zip_code": "15537"}
+{"locality": "Everett", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Everett"], "postal_code": "15537", "lat": 40.003997, "lng": -78.36456, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]}

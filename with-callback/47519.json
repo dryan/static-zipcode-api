@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.619866, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Cannelburg", "lng": -86.98761, "zip_code": "47519"});
+zipapicallback({"locality": "Cannelburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Cannelburg"], "postal_code": "47519", "lat": 38.619866, "lng": -86.98761, "type": "STANDARD", "counties": [{"fips": "027", "name": "Daviess"}]});

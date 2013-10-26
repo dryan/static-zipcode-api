@@ -1,1 +1,1 @@
-{"lat": 40.569731, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Sweetser", "lng": -85.76697, "zip_code": "46987"}
+{"locality": "Sweetser", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Sweetser"], "postal_code": "46987", "lat": 40.569731, "lng": -85.76697, "type": "POBOX", "counties": [{"fips": "053", "name": "Grant"}]}

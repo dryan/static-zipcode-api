@@ -1,1 +1,1 @@
-{"lat": 30.875453, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Tangipahoa", "lng": -90.51254, "zip_code": "70465"}
+{"locality": "Tangipahoa", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Tangipahoa"], "postal_code": "70465", "lat": 30.875453, "lng": -90.51254, "type": "POBOX", "counties": [{"fips": "105", "name": "Tangipahoa"}]}

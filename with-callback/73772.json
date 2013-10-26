@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.870276, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Watonga", "lng": -98.43772, "zip_code": "73772"});
+zipapicallback({"locality": "Watonga", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Watonga"], "postal_code": "73772", "lat": 35.870276, "lng": -98.43772, "type": "STANDARD", "counties": [{"fips": "011", "name": "Blaine"}]});

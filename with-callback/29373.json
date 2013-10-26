@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.925281, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pacolet Mills", "lng": -81.74321, "zip_code": "29373"});
+zipapicallback({"locality": "Pacolet Mills", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pacolet Mills"], "postal_code": "29373", "lat": 34.925281, "lng": -81.74321, "type": "POBOX", "counties": [{"fips": "083", "name": "Spartanburg"}]});

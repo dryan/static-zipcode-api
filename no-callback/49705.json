@@ -1,1 +1,1 @@
-{"lat": 45.355074, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Afton", "lng": -84.47898, "zip_code": "49705"}
+{"locality": "Afton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Afton"], "postal_code": "49705", "lat": 45.355074, "lng": -84.47898, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cheboygan"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.95232, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mason", "lng": -88.62883, "zip_code": "62443"}
+{"locality": "Mason", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mason"], "postal_code": "62443", "lat": 38.95232, "lng": -88.62883, "type": "STANDARD", "counties": [{"fips": "049", "name": "Effingham"}, {"fips": "025", "name": "Clay"}]}

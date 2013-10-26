@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.624507, "region": {"abbr": "NY", "name": "New York"}, "locality": "Warnerville", "lng": -74.46772, "zip_code": "12187"});
+zipapicallback({"locality": "Warnerville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Warnerville"], "postal_code": "12187", "lat": 42.624507, "lng": -74.46772, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]});

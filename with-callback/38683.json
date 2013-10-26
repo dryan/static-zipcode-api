@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.937606, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Walnut", "lng": -88.85572, "zip_code": "38683"});
+zipapicallback({"locality": "Walnut", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Walnut"], "postal_code": "38683", "lat": 34.937606, "lng": -88.85572, "type": "STANDARD", "counties": [{"fips": "139", "name": "Tippah"}]});

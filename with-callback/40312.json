@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.846536, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Westbend", "lng": -83.9343, "zip_code": "40312"});
+zipapicallback({"locality": "Clay City", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Clay City", "Westbend"], "postal_code": "40312", "lat": 37.846536, "lng": -83.9343, "type": "STANDARD", "counties": [{"fips": "197", "name": "Powell"}, {"fips": "065", "name": "Estill"}]});

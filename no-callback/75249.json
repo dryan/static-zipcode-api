@@ -1,1 +1,1 @@
-{"lat": 32.639661, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dallas", "lng": -96.95317, "zip_code": "75249"}
+{"locality": "Dallas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dallas"], "postal_code": "75249", "lat": 32.639661, "lng": -96.95317, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

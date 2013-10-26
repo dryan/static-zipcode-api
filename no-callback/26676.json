@@ -1,1 +1,1 @@
-{"lat": 38.153472, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Leivasy", "lng": -80.66112, "zip_code": "26676"}
+{"locality": "Leivasy", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Leivasy"], "postal_code": "26676", "lat": 38.153472, "lng": -80.66112, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}]}

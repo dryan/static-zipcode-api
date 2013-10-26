@@ -1,1 +1,1 @@
-{"lat": 35.654827, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Piedmont", "lng": -97.76238, "zip_code": "73078"}
+{"locality": "Piedmont", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Piedmont"], "postal_code": "73078", "lat": 35.654827, "lng": -97.76238, "type": "STANDARD", "counties": [{"fips": "017", "name": "Canadian"}]}

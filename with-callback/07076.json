@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.637152, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Scotch Plains", "lng": -74.37493, "zip_code": "07076"});
+zipapicallback({"locality": "Scotch Plains", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Scotch Plains"], "postal_code": "07076", "lat": 40.637152, "lng": -74.37493, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}, {"fips": "035", "name": "Somerset"}]});

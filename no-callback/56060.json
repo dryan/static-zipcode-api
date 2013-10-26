@@ -1,1 +1,1 @@
-{"lat": 43.930032, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lewisville", "lng": -94.43935, "zip_code": "56060"}
+{"locality": "Lewisville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lewisville"], "postal_code": "56060", "lat": 43.930032, "lng": -94.43935, "type": "STANDARD", "counties": [{"fips": "165", "name": "Watonwan"}, {"fips": "013", "name": "Blue Earth"}]}

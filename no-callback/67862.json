@@ -1,1 +1,1 @@
-{"lat": 37.585473, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Manter", "lng": -101.91157, "zip_code": "67862"}
+{"locality": "Manter", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Manter"], "postal_code": "67862", "lat": 37.585473, "lng": -101.91157, "type": "STANDARD", "counties": [{"fips": "187", "name": "Stanton"}, {"fips": "129", "name": "Morton"}]}

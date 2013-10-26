@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.756347, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Fort Washington", "lng": -76.99034, "zip_code": "20744"});
+zipapicallback({"locality": "Fort Washington", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Fort Washington", "Ft Washington"], "postal_code": "20744", "lat": 38.756347, "lng": -76.99034, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}, {"fips": "031", "name": "Montgomery"}]});

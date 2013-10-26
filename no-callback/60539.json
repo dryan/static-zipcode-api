@@ -1,1 +1,1 @@
-{"lat": 41.823478, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mooseheart", "lng": -88.3332, "zip_code": "60539"}
+{"locality": "Mooseheart", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Batavia", "Mooseheart"], "postal_code": "60539", "lat": 41.823478, "lng": -88.3332, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]}

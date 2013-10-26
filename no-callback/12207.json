@@ -1,1 +1,1 @@
-{"lat": 42.653979, "region": {"abbr": "NY", "name": "New York"}, "locality": "Albany", "lng": -73.74833, "zip_code": "12207"}
+{"locality": "Albany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Albany"], "postal_code": "12207", "lat": 42.653979, "lng": -73.74833, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

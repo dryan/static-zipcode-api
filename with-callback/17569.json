@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.264733, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Reinholds", "lng": -76.09645, "zip_code": "17569"});
+zipapicallback({"locality": "Reinholds", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reinholds"], "postal_code": "17569", "lat": 40.264733, "lng": -76.09645, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}, {"fips": "011", "name": "Berks"}]});

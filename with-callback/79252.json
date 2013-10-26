@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.297126, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Quanah", "lng": -99.77713, "zip_code": "79252"});
+zipapicallback({"locality": "Quanah", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Quanah"], "postal_code": "79252", "lat": 34.297126, "lng": -99.77713, "type": "STANDARD", "counties": [{"fips": "197", "name": "Hardeman"}, {"fips": "101", "name": "Cottle"}]});

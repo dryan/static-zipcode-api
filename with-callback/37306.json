@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.106467, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Belvidere", "lng": -86.2035, "zip_code": "37306"});
+zipapicallback({"locality": "Belvidere", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Belvidere"], "postal_code": "37306", "lat": 35.106467, "lng": -86.2035, "type": "STANDARD", "counties": [{"fips": "051", "name": "Franklin"}]});

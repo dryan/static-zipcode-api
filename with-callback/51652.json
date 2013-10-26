@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.76261, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sidney", "lng": -95.60679, "zip_code": "51652"});
+zipapicallback({"locality": "Sidney", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sidney"], "postal_code": "51652", "lat": 40.76261, "lng": -95.60679, "type": "STANDARD", "counties": [{"fips": "071", "name": "Fremont"}]});

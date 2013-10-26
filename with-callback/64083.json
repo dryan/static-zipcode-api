@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.803528, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Raymore", "lng": -94.45103, "zip_code": "64083"});
+zipapicallback({"locality": "Raymore", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lees Summit", "Raymore"], "postal_code": "64083", "lat": 38.803528, "lng": -94.45103, "type": "STANDARD", "counties": [{"fips": "037", "name": "Cass"}]});

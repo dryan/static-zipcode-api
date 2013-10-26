@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.802232, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bluejacket", "lng": -95.07782, "zip_code": "74333"});
+zipapicallback({"locality": "Bluejacket", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bluejacket"], "postal_code": "74333", "lat": 36.802232, "lng": -95.07782, "type": "STANDARD", "counties": [{"fips": "035", "name": "Craig"}, {"fips": "115", "name": "Ottawa"}]});

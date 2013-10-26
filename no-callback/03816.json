@@ -1,1 +1,1 @@
-{"lat": 43.685171, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Center Tuftonbor", "lng": -71.28404, "zip_code": "03816"}
+{"locality": "Center Tuftonboro", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Center Tuftonboro", "Ctr Tuftnboro"], "postal_code": "03816", "lat": 43.685171, "lng": -71.28404, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]}

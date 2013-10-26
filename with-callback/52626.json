@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.655336, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Farmington", "lng": -91.72385, "zip_code": "52626"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Farmington"], "postal_code": "52626", "lat": 40.655336, "lng": -91.72385, "type": "STANDARD", "counties": [{"fips": "177", "name": "Van Buren"}]});

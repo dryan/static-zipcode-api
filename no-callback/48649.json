@@ -1,1 +1,1 @@
-{"lat": 43.150386, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Oakley", "lng": -84.1976, "zip_code": "48649"}
+{"locality": "Oakley", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Oakley"], "postal_code": "48649", "lat": 43.150386, "lng": -84.1976, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "155", "name": "Shiawassee"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.90529, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ward", "lng": -81.70607, "zip_code": "29166"}
+{"locality": "Ward", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ward"], "postal_code": "29166", "lat": 33.90529, "lng": -81.70607, "type": "STANDARD", "counties": [{"fips": "081", "name": "Saluda"}]}

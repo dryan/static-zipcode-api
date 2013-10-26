@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.1915, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Colfax", "lng": -86.67137, "zip_code": "46035"});
+zipapicallback({"locality": "Colfax", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Colfax"], "postal_code": "46035", "lat": 40.1915, "lng": -86.67137, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clinton"}, {"fips": "107", "name": "Montgomery"}, {"fips": "011", "name": "Boone"}]});

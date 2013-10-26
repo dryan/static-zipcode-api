@@ -1,1 +1,1 @@
-{"lat": 43.542822, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fairgrove", "lng": -83.61267, "zip_code": "48733"}
+{"locality": "Fairgrove", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fairgrove"], "postal_code": "48733", "lat": 43.542822, "lng": -83.61267, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}]}

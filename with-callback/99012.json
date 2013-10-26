@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.383651, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Fairfield", "lng": -117.18568, "zip_code": "99012"});
+zipapicallback({"locality": "Fairfield", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Fairfield"], "postal_code": "99012", "lat": 47.383651, "lng": -117.18568, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.926696, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Pleasant Valley", "lng": -72.96783, "zip_code": "06063"});
+zipapicallback({"locality": "Barkhamsted", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Barkhamsted", "Pleasant Valley", "Pleasant Vly", "Winsted"], "postal_code": "06063", "lat": 41.926696, "lng": -72.96783, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

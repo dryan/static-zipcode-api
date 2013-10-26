@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.387358, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Soft Shell", "lng": -82.95633, "zip_code": "41831"});
+zipapicallback({"locality": "Leburn", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Leburn", "Soft Shell"], "postal_code": "41831", "lat": 37.387358, "lng": -82.95633, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]});

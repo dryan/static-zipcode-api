@@ -1,1 +1,1 @@
-{"lat": 44.615442, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Maiden Rock", "lng": -92.30798, "zip_code": "54750"}
+{"locality": "Maiden Rock", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Maiden Rock"], "postal_code": "54750", "lat": 44.615442, "lng": -92.30798, "type": "STANDARD", "counties": [{"fips": "093", "name": "Pierce"}]}

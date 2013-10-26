@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.691006, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dry Ridge", "lng": -84.6418, "zip_code": "41035"});
+zipapicallback({"locality": "Dry Ridge", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dry Ridge"], "postal_code": "41035", "lat": 38.691006, "lng": -84.6418, "type": "STANDARD", "counties": [{"fips": "081", "name": "Grant"}]});

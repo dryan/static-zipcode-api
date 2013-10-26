@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.467905, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bluffton", "lng": -95.25532, "zip_code": "56518"});
+zipapicallback({"locality": "Bluffton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bluffton"], "postal_code": "56518", "lat": 46.467905, "lng": -95.25532, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]});

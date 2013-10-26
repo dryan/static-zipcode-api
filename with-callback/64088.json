@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.15207, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sibley", "lng": -94.18355, "zip_code": "64088"});
+zipapicallback({"locality": "Sibley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sibley"], "postal_code": "64088", "lat": 39.15207, "lng": -94.18355, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]});

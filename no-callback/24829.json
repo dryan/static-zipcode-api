@@ -1,1 +1,1 @@
-{"lat": 37.40273, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Eckman", "lng": -81.4629, "zip_code": "24829"}
+{"locality": "Eckman", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Eckman"], "postal_code": "24829", "lat": 37.40273, "lng": -81.4629, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]}

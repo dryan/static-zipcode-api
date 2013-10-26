@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.108672, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Cocolalla", "lng": -116.64794, "zip_code": "83813"});
+zipapicallback({"locality": "Cocolalla", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Cocolalla"], "postal_code": "83813", "lat": 48.108672, "lng": -116.64794, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]});

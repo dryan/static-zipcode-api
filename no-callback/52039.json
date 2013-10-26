@@ -1,1 +1,1 @@
-{"lat": 42.558403, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Durango", "lng": -90.86042, "zip_code": "52039"}
+{"locality": "Durango", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Durango"], "postal_code": "52039", "lat": 42.558403, "lng": -90.86042, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]}

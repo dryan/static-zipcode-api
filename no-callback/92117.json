@@ -1,1 +1,1 @@
-{"lat": 32.823865, "region": {"abbr": "CA", "name": "California"}, "locality": "San Diego", "lng": -117.19966, "zip_code": "92117"}
+{"locality": "San Diego", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Diego"], "postal_code": "92117", "lat": 32.823865, "lng": -117.19966, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

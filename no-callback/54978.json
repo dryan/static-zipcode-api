@@ -1,1 +1,1 @@
-{"lat": 44.805167, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Tilleda", "lng": -88.9006, "zip_code": "54978"}
+{"locality": "Tilleda", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tilleda"], "postal_code": "54978", "lat": 44.805167, "lng": -88.9006, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}]}

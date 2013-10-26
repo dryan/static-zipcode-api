@@ -1,1 +1,1 @@
-{"lat": 39.930756, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Biglerville", "lng": -77.2917, "zip_code": "17307"}
+{"locality": "Biglerville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Biglerville"], "postal_code": "17307", "lat": 39.930756, "lng": -77.2917, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "041", "name": "Cumberland"}]}

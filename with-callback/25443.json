@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.434479, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Shepherdstown", "lng": -77.81132, "zip_code": "25443"});
+zipapicallback({"locality": "Shepherdstown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Shepherdstown"], "postal_code": "25443", "lat": 39.434479, "lng": -77.81132, "type": "STANDARD", "counties": [{"fips": "037", "name": "Jefferson"}, {"fips": "003", "name": "Berkeley"}]});

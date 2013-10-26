@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.275225, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Crescent Beach", "lng": -82.54934, "zip_code": "34242"});
+zipapicallback({"locality": "Sarasota", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sarasota", "Siesta Key"], "postal_code": "34242", "lat": 27.275225, "lng": -82.54934, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}]});

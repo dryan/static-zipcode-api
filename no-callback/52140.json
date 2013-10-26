@@ -1,1 +1,1 @@
-{"lat": 43.442183, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dorchester", "lng": -91.53338, "zip_code": "52140"}
+{"locality": "Dorchester", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dorchester"], "postal_code": "52140", "lat": 43.442183, "lng": -91.53338, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allamakee"}]}

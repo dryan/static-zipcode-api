@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.80095, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Springfield", "lng": -89.64999, "zip_code": "62701"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Springfield"], "postal_code": "62701", "lat": 39.80095, "lng": -89.64999, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]});

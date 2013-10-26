@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.11127, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dawson", "lng": -95.83868, "zip_code": "68337"});
+zipapicallback({"locality": "Dawson", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dawson"], "postal_code": "68337", "lat": 40.11127, "lng": -95.83868, "type": "STANDARD", "counties": [{"fips": "147", "name": "Richardson"}]});

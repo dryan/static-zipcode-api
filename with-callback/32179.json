@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.071931, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ocklawaha", "lng": -81.89073, "zip_code": "32179"});
+zipapicallback({"locality": "Ocklawaha", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ocklawaha"], "postal_code": "32179", "lat": 29.071931, "lng": -81.89073, "type": "STANDARD", "counties": []});

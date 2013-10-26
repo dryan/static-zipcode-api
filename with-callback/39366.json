@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.931474, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Vossburg", "lng": -88.922, "zip_code": "39366"});
+zipapicallback({"locality": "Vossburg", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Vossburg"], "postal_code": "39366", "lat": 31.931474, "lng": -88.922, "type": "STANDARD", "counties": [{"fips": "061", "name": "Jasper"}, {"fips": "023", "name": "Clarke"}]});

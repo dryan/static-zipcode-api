@@ -1,1 +1,1 @@
-{"lat": 37.65778, "region": {"abbr": "CA", "name": "California"}, "locality": "Livermore", "lng": -121.73011, "zip_code": "94550"}
+{"locality": "Livermore", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Livermore"], "postal_code": "94550", "lat": 37.65778, "lng": -121.73011, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}, {"fips": "085", "name": "Santa Clara"}]}

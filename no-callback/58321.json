@@ -1,1 +1,1 @@
-{"lat": 48.204745, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Brocket", "lng": -98.31437, "zip_code": "58321"}
+{"locality": "Brocket", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Brocket"], "postal_code": "58321", "lat": 48.204745, "lng": -98.31437, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}, {"fips": "063", "name": "Nelson"}, {"fips": "099", "name": "Walsh"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.400837, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sheffield", "lng": -89.74444, "zip_code": "61361"}
+{"locality": "Sheffield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sheffield"], "postal_code": "61361", "lat": 41.400837, "lng": -89.74444, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}, {"fips": "073", "name": "Henry"}]}

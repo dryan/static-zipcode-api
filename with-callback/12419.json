@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.852449, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cottekill", "lng": -74.10605, "zip_code": "12419"});
+zipapicallback({"locality": "Cottekill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cottekill"], "postal_code": "12419", "lat": 41.852449, "lng": -74.10605, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

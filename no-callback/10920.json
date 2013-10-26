@@ -1,1 +1,1 @@
-{"lat": 41.149245, "region": {"abbr": "NY", "name": "New York"}, "locality": "Congers", "lng": -73.94287, "zip_code": "10920"}
+{"locality": "Congers", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Congers"], "postal_code": "10920", "lat": 41.149245, "lng": -73.94287, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.018746, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ponemah", "lng": -94.87594, "zip_code": "56666"});
+zipapicallback({"locality": "Ponemah", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ponemah"], "postal_code": "56666", "lat": 48.018746, "lng": -94.87594, "type": "POBOX", "counties": [{"fips": "007", "name": "Beltrami"}]});

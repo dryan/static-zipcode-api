@@ -1,1 +1,1 @@
-{"lat": 42.271385, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Winnebago", "lng": -89.25099, "zip_code": "61088"}
+{"locality": "Winnebago", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Winnebago"], "postal_code": "61088", "lat": 42.271385, "lng": -89.25099, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}, {"fips": "141", "name": "Ogle"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.778497, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milton", "lng": -88.95595, "zip_code": "53563"}
+{"locality": "Milton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Milton"], "postal_code": "53563", "lat": 42.778497, "lng": -88.95595, "type": "STANDARD", "counties": [{"fips": "105", "name": "Rock"}, {"fips": "055", "name": "Jefferson"}]}

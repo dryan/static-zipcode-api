@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.203946, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Tacoma", "lng": -122.52996, "zip_code": "98467"});
+zipapicallback({"locality": "University Place", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Tacoma", "University Pl", "University Place"], "postal_code": "98467", "lat": 47.203946, "lng": -122.52996, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]});

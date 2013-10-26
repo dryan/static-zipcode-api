@@ -1,1 +1,1 @@
-{"lat": 40.042191, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Byron", "lng": -97.76979, "zip_code": "68325"}
+{"locality": "Byron", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Byron"], "postal_code": "68325", "lat": 40.042191, "lng": -97.76979, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}, {"fips": "129", "name": "Nuckolls"}]}

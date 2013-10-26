@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.192829, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Winchester", "lng": -86.14045, "zip_code": "37398"});
+zipapicallback({"locality": "Winchester", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Winchester"], "postal_code": "37398", "lat": 35.192829, "lng": -86.14045, "type": "STANDARD", "counties": [{"fips": "051", "name": "Franklin"}]});

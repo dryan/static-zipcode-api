@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.970666, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Warden", "lng": -119.0672, "zip_code": "98857"});
+zipapicallback({"locality": "Warden", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Warden"], "postal_code": "98857", "lat": 46.970666, "lng": -119.0672, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]});

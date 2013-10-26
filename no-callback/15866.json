@@ -1,1 +1,1 @@
-{"lat": 41.023829, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Troutville", "lng": -78.78711, "zip_code": "15866"}
+{"locality": "Troutville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Troutville"], "postal_code": "15866", "lat": 41.023829, "lng": -78.78711, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]}

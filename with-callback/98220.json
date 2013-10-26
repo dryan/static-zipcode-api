@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.681582, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Acme", "lng": -122.1977, "zip_code": "98220"});
+zipapicallback({"locality": "Acme", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Acme"], "postal_code": "98220", "lat": 48.681582, "lng": -122.1977, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.479916, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Union Mills", "lng": -86.77328, "zip_code": "46382"});
+zipapicallback({"locality": "Union Mills", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Union Mills"], "postal_code": "46382", "lat": 41.479916, "lng": -86.77328, "type": "STANDARD", "counties": [{"fips": "091", "name": "La Porte"}]});

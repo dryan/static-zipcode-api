@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.387446, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rosebud", "lng": -91.39332, "zip_code": "63091"});
+zipapicallback({"locality": "Rosebud", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rosebud"], "postal_code": "63091", "lat": 38.387446, "lng": -91.39332, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gasconade"}]});

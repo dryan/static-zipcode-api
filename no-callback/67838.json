@@ -1,1 +1,1 @@
-{"lat": 38.039676, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Deerfield", "lng": -101.12571, "zip_code": "67838"}
+{"locality": "Deerfield", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Deerfield"], "postal_code": "67838", "lat": 38.039676, "lng": -101.12571, "type": "STANDARD", "counties": [{"fips": "093", "name": "Kearny"}, {"fips": "055", "name": "Finney"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.013936, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Eddyville", "lng": -99.6325, "zip_code": "68834"}
+{"locality": "Eddyville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Eddyville"], "postal_code": "68834", "lat": 41.013936, "lng": -99.6325, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dawson"}, {"fips": "041", "name": "Custer"}]}

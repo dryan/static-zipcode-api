@@ -1,1 +1,1 @@
-{"lat": 41.020868, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Maxwell", "lng": -100.54009, "zip_code": "69151"}
+{"locality": "Maxwell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Maxwell"], "postal_code": "69151", "lat": 41.020868, "lng": -100.54009, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}]}

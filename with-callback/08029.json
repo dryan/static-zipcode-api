@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.840463, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Glendora", "lng": -75.0687, "zip_code": "08029"});
+zipapicallback({"locality": "Glendora", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Glendora"], "postal_code": "08029", "lat": 39.840463, "lng": -75.0687, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]});

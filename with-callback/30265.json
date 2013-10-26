@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.400875, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Newnan", "lng": -84.71206, "zip_code": "30265"});
+zipapicallback({"locality": "Newnan", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Newnan"], "postal_code": "30265", "lat": 33.400875, "lng": -84.71206, "type": "STANDARD", "counties": [{"fips": "077", "name": "Coweta"}]});

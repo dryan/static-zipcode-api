@@ -1,1 +1,1 @@
-{"lat": 37.326341, "region": {"abbr": "CA", "name": "California"}, "locality": "San Jose", "lng": -121.9178, "zip_code": "95126"}
+{"locality": "San Jose", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Jose"], "postal_code": "95126", "lat": 37.326341, "lng": -121.9178, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}]}

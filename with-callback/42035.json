@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.911107, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cunningham", "lng": -88.84412, "zip_code": "42035"});
+zipapicallback({"locality": "Cunningham", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cunningham"], "postal_code": "42035", "lat": 36.911107, "lng": -88.84412, "type": "STANDARD", "counties": [{"fips": "039", "name": "Carlisle"}]});

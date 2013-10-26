@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.224089, "region": {"abbr": "CA", "name": "California"}, "locality": "Sun Valley", "lng": -118.37563, "zip_code": "91352"});
+zipapicallback({"locality": "Sun Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sun Valley"], "postal_code": "91352", "lat": 34.224089, "lng": -118.37563, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

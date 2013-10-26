@@ -1,1 +1,1 @@
-{"lat": 38.040395, "region": {"abbr": "CA", "name": "California"}, "locality": "Bethel Island", "lng": -121.63852, "zip_code": "94511"}
+{"locality": "Bethel Island", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bethel Island"], "postal_code": "94511", "lat": 38.040395, "lng": -121.63852, "type": "POBOX", "counties": [{"fips": "013", "name": "Contra Costa"}, {"fips": "001", "name": "Alameda"}]}

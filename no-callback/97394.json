@@ -1,1 +1,1 @@
-{"lat": 44.424255, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Waldport", "lng": -124.04868, "zip_code": "97394"}
+{"locality": "Waldport", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Waldport"], "postal_code": "97394", "lat": 44.424255, "lng": -124.04868, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]}

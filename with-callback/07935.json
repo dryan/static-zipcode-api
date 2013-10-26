@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.739333, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Green Village", "lng": -74.45631, "zip_code": "07935"});
+zipapicallback({"locality": "Green Village", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Green Village"], "postal_code": "07935", "lat": 40.739333, "lng": -74.45631, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]});

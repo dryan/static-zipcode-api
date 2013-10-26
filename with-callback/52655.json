@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.830534, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "West Burlington", "lng": -91.17849, "zip_code": "52655"});
+zipapicallback({"locality": "West Burlington", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["W Burlington", "West Burlington"], "postal_code": "52655", "lat": 40.830534, "lng": -91.17849, "type": "STANDARD", "counties": [{"fips": "057", "name": "Des Moines"}]});

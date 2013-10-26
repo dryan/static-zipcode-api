@@ -1,1 +1,1 @@
-{"lat": 41.072139, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mc Ewensville", "lng": -76.81871, "zip_code": "17749"}
+{"locality": "Mc Ewensville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mc Ewensville"], "postal_code": "17749", "lat": 41.072139, "lng": -76.81871, "type": "POBOX", "counties": [{"fips": "097", "name": "Northumberland"}]}

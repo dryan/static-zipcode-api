@@ -1,1 +1,1 @@
-{"lat": 40.89609, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ridge", "lng": -72.87824, "zip_code": "11961"}
+{"locality": "Ridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ridge"], "postal_code": "11961", "lat": 40.89609, "lng": -72.87824, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

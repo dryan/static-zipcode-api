@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.314449, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Becket", "lng": -73.09335, "zip_code": "01223"});
+zipapicallback({"locality": "Becket", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Becket", "Washington"], "postal_code": "01223", "lat": 42.314449, "lng": -73.09335, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.733657, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Modoc", "lng": -82.19251, "zip_code": "29838"}
+{"locality": "Modoc", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Modoc"], "postal_code": "29838", "lat": 33.733657, "lng": -82.19251, "type": "STANDARD", "counties": [{"fips": "065", "name": "McCormick"}, {"fips": "037", "name": "Edgefield"}]}

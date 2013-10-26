@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.751804, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Louisburg", "lng": -93.16513, "zip_code": "65685"});
+zipapicallback({"locality": "Louisburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Louisburg"], "postal_code": "65685", "lat": 37.751804, "lng": -93.16513, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dallas"}, {"fips": "167", "name": "Polk"}]});

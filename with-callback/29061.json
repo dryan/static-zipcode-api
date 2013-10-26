@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.920721, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Hopkins", "lng": -80.84535, "zip_code": "29061"});
+zipapicallback({"locality": "Hopkins", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Hopkins"], "postal_code": "29061", "lat": 33.920721, "lng": -80.84535, "type": "STANDARD", "counties": [{"fips": "079", "name": "Richland"}]});

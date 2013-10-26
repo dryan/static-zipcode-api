@@ -1,1 +1,1 @@
-{"lat": 35.03492, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Saint Joseph", "lng": -87.50215, "zip_code": "38481"}
+{"locality": "Saint Joseph", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Saint Joseph"], "postal_code": "38481", "lat": 35.03492, "lng": -87.50215, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.66415, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Highland", "lng": -83.58982, "zip_code": "48356"}
+{"locality": "Highland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Highland"], "postal_code": "48356", "lat": 42.66415, "lng": -83.58982, "type": "STANDARD", "counties": []}

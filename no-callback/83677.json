@@ -1,1 +1,1 @@
-{"lat": 45.01781, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Yellow Pine", "lng": -115.55397, "zip_code": "83677"}
+{"locality": "Yellow Pine", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Yellow Pine"], "postal_code": "83677", "lat": 45.01781, "lng": -115.55397, "type": "STANDARD", "counties": [{"fips": "085", "name": "Valley"}]}

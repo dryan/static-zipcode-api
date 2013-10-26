@@ -1,1 +1,1 @@
-{"lat": 37.813869, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Rosalia", "lng": -96.57856, "zip_code": "67132"}
+{"locality": "Rosalia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Rosalia"], "postal_code": "67132", "lat": 37.813869, "lng": -96.57856, "type": "STANDARD", "counties": [{"fips": "015", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.645974, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Boynton", "lng": -95.66931, "zip_code": "74422"}
+{"locality": "Boynton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Boynton"], "postal_code": "74422", "lat": 35.645974, "lng": -95.66931, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "111", "name": "Okmulgee"}]}

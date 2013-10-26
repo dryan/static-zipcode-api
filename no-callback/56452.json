@@ -1,1 +1,1 @@
-{"lat": 46.963355, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hackensack", "lng": -94.4646, "zip_code": "56452"}
+{"locality": "Hackensack", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hackensack"], "postal_code": "56452", "lat": 46.963355, "lng": -94.4646, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.410687, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lindenhurst", "lng": -88.05462, "zip_code": "60046"});
+zipapicallback({"locality": "Lake Villa", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lake Villa", "Lindenhurst", "Old Mill Creek", "Old Mill Crk"], "postal_code": "60046", "lat": 42.410687, "lng": -88.05462, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]});

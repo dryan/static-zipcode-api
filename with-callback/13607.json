@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.328698, "region": {"abbr": "NY", "name": "New York"}, "locality": "Point Vivian", "lng": -75.93103, "zip_code": "13607"});
+zipapicallback({"locality": "Alexandria Bay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Alex Bay", "Alexandria Bay", "Point Vivian"], "postal_code": "13607", "lat": 44.328698, "lng": -75.93103, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]});

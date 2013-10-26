@@ -1,1 +1,1 @@
-{"lat": 41.397147, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hanna", "lng": -86.76103, "zip_code": "46340"}
+{"locality": "Hanna", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hanna"], "postal_code": "46340", "lat": 41.397147, "lng": -86.76103, "type": "STANDARD", "counties": [{"fips": "091", "name": "La Porte"}]}

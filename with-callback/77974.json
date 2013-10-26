@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.897693, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Meyersville", "lng": -97.29589, "zip_code": "77974"});
+zipapicallback({"locality": "Meyersville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Meyersville"], "postal_code": "77974", "lat": 28.897693, "lng": -97.29589, "type": "STANDARD", "counties": [{"fips": "123", "name": "De Witt"}]});

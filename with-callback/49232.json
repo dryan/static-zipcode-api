@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.731009, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Camden", "lng": -84.65993, "zip_code": "49232"});
+zipapicallback({"locality": "Camden", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Camden"], "postal_code": "49232", "lat": 41.731009, "lng": -84.65993, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hillsdale"}]});

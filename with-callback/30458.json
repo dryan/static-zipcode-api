@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.423083, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Statesboro", "lng": -81.80677, "zip_code": "30458"});
+zipapicallback({"locality": "Statesboro", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Statesboro"], "postal_code": "30458", "lat": 32.423083, "lng": -81.80677, "type": "STANDARD", "counties": [{"fips": "031", "name": "Bulloch"}, {"fips": "043", "name": "Candler"}]});

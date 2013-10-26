@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.940288, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shinglehouse", "lng": -78.16186, "zip_code": "16748"});
+zipapicallback({"locality": "Shinglehouse", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shinglehouse"], "postal_code": "16748", "lat": 41.940288, "lng": -78.16186, "type": "STANDARD", "counties": [{"fips": "105", "name": "Potter"}, {"fips": "083", "name": "McKean"}]});

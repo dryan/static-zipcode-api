@@ -1,1 +1,1 @@
-{"lat": 42.738313, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clarion", "lng": -93.7385, "zip_code": "50525"}
+{"locality": "Clarion", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clarion"], "postal_code": "50525", "lat": 42.738313, "lng": -93.7385, "type": "STANDARD", "counties": [{"fips": "197", "name": "Wright"}]}

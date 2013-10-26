@@ -1,1 +1,1 @@
-{"lat": 45.749908, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Holdingford", "lng": -94.45647, "zip_code": "56340"}
+{"locality": "Holdingford", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Holdingford"], "postal_code": "56340", "lat": 45.749908, "lng": -94.45647, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "097", "name": "Morrison"}]}

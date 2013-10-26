@@ -1,1 +1,1 @@
-{"lat": 25.813786, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Chokoloskee", "lng": -81.36291, "zip_code": "34138"}
+{"locality": "Chokoloskee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Chokoloskee"], "postal_code": "34138", "lat": 25.813786, "lng": -81.36291, "type": "POBOX", "counties": []}

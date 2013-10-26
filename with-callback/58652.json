@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.891017, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Richardton", "lng": -102.28356, "zip_code": "58652"});
+zipapicallback({"locality": "Richardton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Richardton"], "postal_code": "58652", "lat": 46.891017, "lng": -102.28356, "type": "STANDARD", "counties": [{"fips": "089", "name": "Stark"}, {"fips": "025", "name": "Dunn"}]});

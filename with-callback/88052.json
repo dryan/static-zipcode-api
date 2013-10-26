@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.437435, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Organ", "lng": -106.60256, "zip_code": "88052"});
+zipapicallback({"locality": "Organ", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Organ"], "postal_code": "88052", "lat": 32.437435, "lng": -106.60256, "type": "POBOX", "counties": [{"fips": "013", "name": "Dona Ana"}]});

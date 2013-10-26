@@ -1,1 +1,1 @@
-{"lat": 35.45544, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Foss", "lng": -99.1744, "zip_code": "73647"}
+{"locality": "Foss", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Foss"], "postal_code": "73647", "lat": 35.45544, "lng": -99.1744, "type": "STANDARD", "counties": [{"fips": "149", "name": "Washita"}, {"fips": "039", "name": "Custer"}]}

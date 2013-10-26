@@ -1,1 +1,1 @@
-{"lat": 34.776306, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Carlisle", "lng": -91.74635, "zip_code": "72024"}
+{"locality": "Carlisle", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Carlisle"], "postal_code": "72024", "lat": 34.776306, "lng": -91.74635, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lonoke"}, {"fips": "117", "name": "Prairie"}]}

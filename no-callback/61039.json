@@ -1,1 +1,1 @@
-{"lat": 42.213851, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "German Valley", "lng": -89.47449, "zip_code": "61039"}
+{"locality": "German Valley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["German Valley"], "postal_code": "61039", "lat": 42.213851, "lng": -89.47449, "type": "STANDARD", "counties": [{"fips": "177", "name": "Stephenson"}, {"fips": "141", "name": "Ogle"}]}

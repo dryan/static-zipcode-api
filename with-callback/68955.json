@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.595599, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Juniata", "lng": -98.53981, "zip_code": "68955"});
+zipapicallback({"locality": "Juniata", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Juniata"], "postal_code": "68955", "lat": 40.595599, "lng": -98.53981, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

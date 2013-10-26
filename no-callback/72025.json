@@ -1,1 +1,1 @@
-{"lat": 35.043093, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Casa", "lng": -93.00689, "zip_code": "72025"}
+{"locality": "Casa", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Casa"], "postal_code": "72025", "lat": 35.043093, "lng": -93.00689, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perry"}]}

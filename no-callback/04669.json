@@ -1,1 +1,1 @@
-{"lat": 44.408699, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Prospect Harbor", "lng": -68.01142, "zip_code": "04669"}
+{"locality": "Prospect Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Prospect Harbor", "Prospect Hbr"], "postal_code": "04669", "lat": 44.408699, "lng": -68.01142, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.25398, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Oneida", "lng": -83.61901, "zip_code": "40972"}
+{"locality": "Oneida", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Oneida"], "postal_code": "40972", "lat": 37.25398, "lng": -83.61901, "type": "STANDARD", "counties": [{"fips": "051", "name": "Clay"}]}

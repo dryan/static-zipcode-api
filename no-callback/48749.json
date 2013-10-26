@@ -1,1 +1,1 @@
-{"lat": 44.046475, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Omer", "lng": -83.87572, "zip_code": "48749"}
+{"locality": "Omer", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Omer"], "postal_code": "48749", "lat": 44.046475, "lng": -83.87572, "type": "STANDARD", "counties": [{"fips": "011", "name": "Arenac"}]}

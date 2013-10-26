@@ -1,1 +1,1 @@
-{"lat": 42.21196, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fort Sheridan", "lng": -87.80808, "zip_code": "60037"}
+{"locality": "Fort Sheridan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fort Sheridan", "Highland Park"], "postal_code": "60037", "lat": 42.21196, "lng": -87.80808, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

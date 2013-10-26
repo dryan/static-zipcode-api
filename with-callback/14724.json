@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.066681, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clymer", "lng": -79.66612, "zip_code": "14724"});
+zipapicallback({"locality": "Clymer", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clymer"], "postal_code": "14724", "lat": 42.066681, "lng": -79.66612, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

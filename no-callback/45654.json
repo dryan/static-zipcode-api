@@ -1,1 +1,1 @@
-{"lat": 39.376504, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Plymouth", "lng": -82.39503, "zip_code": "45654"}
+{"locality": "New Plymouth", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Plymouth"], "postal_code": "45654", "lat": 39.376504, "lng": -82.39503, "type": "STANDARD", "counties": [{"fips": "163", "name": "Vinton"}, {"fips": "073", "name": "Hocking"}]}

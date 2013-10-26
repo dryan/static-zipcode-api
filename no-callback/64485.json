@@ -1,1 +1,1 @@
-{"lat": 39.94728, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Savannah", "lng": -94.8358, "zip_code": "64485"}
+{"locality": "Savannah", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Savannah"], "postal_code": "64485", "lat": 39.94728, "lng": -94.8358, "type": "STANDARD", "counties": [{"fips": "003", "name": "Andrew"}, {"fips": "087", "name": "Holt"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.05992, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Mosby", "lng": -107.80028, "zip_code": "59058"});
+zipapicallback({"locality": "Mosby", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Mosby"], "postal_code": "59058", "lat": 47.05992, "lng": -107.80028, "type": "STANDARD", "counties": [{"fips": "033", "name": "Garfield"}]});

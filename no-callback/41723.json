@@ -1,1 +1,1 @@
-{"lat": 37.257714, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Busy", "lng": -83.31253, "zip_code": "41723"}
+{"locality": "Busy", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Busy"], "postal_code": "41723", "lat": 37.257714, "lng": -83.31253, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}, {"fips": "131", "name": "Leslie"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.015223, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Beaver", "lng": -82.84927, "zip_code": "45613"}
+{"locality": "Beaver", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Beaver"], "postal_code": "45613", "lat": 39.015223, "lng": -82.84927, "type": "STANDARD", "counties": [{"fips": "131", "name": "Pike"}, {"fips": "079", "name": "Jackson"}]}

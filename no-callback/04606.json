@@ -1,1 +1,1 @@
-{"lat": 44.556073, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Addison", "lng": -67.70122, "zip_code": "04606"}
+{"locality": "Addison", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Addison"], "postal_code": "04606", "lat": 44.556073, "lng": -67.70122, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.493783, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Ione", "lng": -119.87071, "zip_code": "97843"});
+zipapicallback({"locality": "Ione", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Ione"], "postal_code": "97843", "lat": 45.493783, "lng": -119.87071, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.268344, "region": {"abbr": "CA", "name": "California"}, "locality": "Fawnskin", "lng": -116.93842, "zip_code": "92333"});
+zipapicallback({"locality": "Fawnskin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fawnskin"], "postal_code": "92333", "lat": 34.268344, "lng": -116.93842, "type": "POBOX", "counties": [{"fips": "071", "name": "San Bernardino"}]});

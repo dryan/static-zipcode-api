@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.756509, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Leakey", "lng": -99.76665, "zip_code": "78873"});
+zipapicallback({"locality": "Leakey", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Leakey"], "postal_code": "78873", "lat": 29.756509, "lng": -99.76665, "type": "STANDARD", "counties": [{"fips": "385", "name": "Real"}]});

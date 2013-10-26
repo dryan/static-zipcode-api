@@ -1,1 +1,1 @@
-{"lat": 39.194497, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Boyds", "lng": -77.321, "zip_code": "20841"}
+{"locality": "Boyds", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Boyds"], "postal_code": "20841", "lat": 39.194497, "lng": -77.321, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

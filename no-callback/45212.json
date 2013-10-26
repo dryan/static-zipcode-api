@@ -1,1 +1,1 @@
-{"lat": 39.160693, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Norwood", "lng": -84.4545, "zip_code": "45212"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Norwood"], "postal_code": "45212", "lat": 39.160693, "lng": -84.4545, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

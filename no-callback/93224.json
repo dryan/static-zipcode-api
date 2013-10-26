@@ -1,1 +1,1 @@
-{"lat": 35.202535, "region": {"abbr": "CA", "name": "California"}, "locality": "Fellows", "lng": -119.56093, "zip_code": "93224"}
+{"locality": "Fellows", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fellows"], "postal_code": "93224", "lat": 35.202535, "lng": -119.56093, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

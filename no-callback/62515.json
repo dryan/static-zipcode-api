@@ -1,1 +1,1 @@
-{"lat": 39.861289, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Buffalo Hart", "lng": -89.37836, "zip_code": "62515"}
+{"locality": "Buffalo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Buffalo", "Buffalo Hart", "Lanesville"], "postal_code": "62515", "lat": 39.861289, "lng": -89.37836, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]}

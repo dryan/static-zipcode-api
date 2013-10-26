@@ -1,1 +1,1 @@
-{"lat": 39.983573, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Timewell", "lng": -90.8842, "zip_code": "62375"}
+{"locality": "Timewell", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Timewell"], "postal_code": "62375", "lat": 39.983573, "lng": -90.8842, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}, {"fips": "001", "name": "Adams"}]}

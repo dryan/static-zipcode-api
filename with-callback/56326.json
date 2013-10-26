@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.011931, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Evansville", "lng": -95.68104, "zip_code": "56326"});
+zipapicallback({"locality": "Evansville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Evansville"], "postal_code": "56326", "lat": 46.011931, "lng": -95.68104, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "111", "name": "Otter Tail"}, {"fips": "051", "name": "Grant"}]});

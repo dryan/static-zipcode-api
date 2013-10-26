@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.129489, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ashland", "lng": -93.08273, "zip_code": "71002"});
+zipapicallback({"locality": "Ashland", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ashland"], "postal_code": "71002", "lat": 32.129489, "lng": -93.08273, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}]});

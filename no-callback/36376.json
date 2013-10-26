@@ -1,1 +1,1 @@
-{"lat": 31.243717, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Webb", "lng": -85.27681, "zip_code": "36376"}
+{"locality": "Webb", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Webb"], "postal_code": "36376", "lat": 31.243717, "lng": -85.27681, "type": "STANDARD", "counties": [{"fips": "069", "name": "Houston"}]}

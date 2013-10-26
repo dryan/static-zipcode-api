@@ -1,1 +1,1 @@
-{"lat": 40.200347, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Limerick", "lng": -75.53236, "zip_code": "19468"}
+{"locality": "Royersford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Limerick", "Linfield", "Royersford"], "postal_code": "19468", "lat": 40.200347, "lng": -75.53236, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

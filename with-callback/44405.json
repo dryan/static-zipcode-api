@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.078058, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Campbell", "lng": -80.59243, "zip_code": "44405"});
+zipapicallback({"locality": "Campbell", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Campbell"], "postal_code": "44405", "lat": 41.078058, "lng": -80.59243, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]});

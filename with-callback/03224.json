@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.346137, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Canterbury", "lng": -71.54434, "zip_code": "03224"});
+zipapicallback({"locality": "Canterbury", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Canterbury"], "postal_code": "03224", "lat": 43.346137, "lng": -71.54434, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}, {"fips": "001", "name": "Belknap"}]});

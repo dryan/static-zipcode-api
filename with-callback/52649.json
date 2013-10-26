@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.848485, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Salem", "lng": -91.61691, "zip_code": "52649"});
+zipapicallback({"locality": "Salem", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Salem"], "postal_code": "52649", "lat": 40.848485, "lng": -91.61691, "type": "STANDARD", "counties": [{"fips": "087", "name": "Henry"}]});

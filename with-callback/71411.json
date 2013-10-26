@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.903462, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Campti", "lng": -93.09805, "zip_code": "71411"});
+zipapicallback({"locality": "Campti", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Campti"], "postal_code": "71411", "lat": 31.903462, "lng": -93.09805, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}]});

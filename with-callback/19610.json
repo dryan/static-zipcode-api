@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.335023, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wyomissing", "lng": -75.97099, "zip_code": "19610"});
+zipapicallback({"locality": "Reading", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reading", "Wyomissing"], "postal_code": "19610", "lat": 40.335023, "lng": -75.97099, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}, {"fips": "071", "name": "Lancaster"}]});

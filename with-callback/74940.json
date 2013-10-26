@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.956272, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Howe", "lng": -94.63333, "zip_code": "74940"});
+zipapicallback({"locality": "Howe", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Howe"], "postal_code": "74940", "lat": 34.956272, "lng": -94.63333, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Flore"}]});

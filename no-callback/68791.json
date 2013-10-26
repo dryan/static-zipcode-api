@@ -1,1 +1,1 @@
-{"lat": 42.000682, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wisner", "lng": -96.9295, "zip_code": "68791"}
+{"locality": "Wisner", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wisner"], "postal_code": "68791", "lat": 42.000682, "lng": -96.9295, "type": "STANDARD", "counties": [{"fips": "039", "name": "Cuming"}, {"fips": "179", "name": "Wayne"}, {"fips": "167", "name": "Stanton"}]}

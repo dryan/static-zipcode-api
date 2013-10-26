@@ -1,1 +1,1 @@
-{"lat": 38.411845, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lignum", "lng": -77.82208, "zip_code": "22726"}
+{"locality": "Lignum", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lignum"], "postal_code": "22726", "lat": 38.411845, "lng": -77.82208, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}]}

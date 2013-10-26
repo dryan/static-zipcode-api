@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.503224, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Mount Hood Parkd", "lng": -121.59252, "zip_code": "97041"});
+zipapicallback({"locality": "Mount Hood Parkdale", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Mount Hood Parkdale", "Mt Hood Prkdl"], "postal_code": "97041", "lat": 45.503224, "lng": -121.59252, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hood River"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.865194, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Smithville", "lng": -81.85967, "zip_code": "44677"}
+{"locality": "Smithville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Smithville"], "postal_code": "44677", "lat": 40.865194, "lng": -81.85967, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}]}

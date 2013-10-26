@@ -1,1 +1,1 @@
-{"lat": 35.835374, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Louisville", "lng": -84.01196, "zip_code": "37777"}
+{"locality": "Louisville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Louisville"], "postal_code": "37777", "lat": 35.835374, "lng": -84.01196, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}]}

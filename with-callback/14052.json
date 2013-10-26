@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.770859, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Aurora", "lng": -78.59804, "zip_code": "14052"});
+zipapicallback({"locality": "East Aurora", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Aurora"], "postal_code": "14052", "lat": 42.770859, "lng": -78.59804, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}, {"fips": "121", "name": "Wyoming"}]});

@@ -1,1 +1,1 @@
-{"lat": 29.564347, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Missouri City", "lng": -95.54762, "zip_code": "77459"}
+{"locality": "Missouri City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Missouri City", "Sienna Plant", "Sienna Plantation"], "postal_code": "77459", "lat": 29.564347, "lng": -95.54762, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}, {"fips": "057", "name": "Calhoun"}]}

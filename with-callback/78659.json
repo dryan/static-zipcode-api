@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.210685, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Paige", "lng": -97.11662, "zip_code": "78659"});
+zipapicallback({"locality": "Paige", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Paige"], "postal_code": "78659", "lat": 30.210685, "lng": -97.11662, "type": "STANDARD", "counties": [{"fips": "287", "name": "Lee"}, {"fips": "021", "name": "Bastrop"}]});

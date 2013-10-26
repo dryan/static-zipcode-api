@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.218341, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Pahrump", "lng": -116.00994, "zip_code": "89048"});
+zipapicallback({"locality": "Pahrump", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Pahrump"], "postal_code": "89048", "lat": 36.218341, "lng": -116.00994, "type": "STANDARD", "counties": []});

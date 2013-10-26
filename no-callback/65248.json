@@ -1,1 +1,1 @@
-{"lat": 39.148876, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fayette", "lng": -92.67027, "zip_code": "65248"}
+{"locality": "Fayette", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fayette"], "postal_code": "65248", "lat": 39.148876, "lng": -92.67027, "type": "STANDARD", "counties": [{"fips": "089", "name": "Howard"}]}

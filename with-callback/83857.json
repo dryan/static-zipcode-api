@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.871275, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Princeton", "lng": -116.82431, "zip_code": "83857"});
+zipapicallback({"locality": "Princeton", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Princeton"], "postal_code": "83857", "lat": 46.871275, "lng": -116.82431, "type": "STANDARD", "counties": [{"fips": "057", "name": "Latah"}]});

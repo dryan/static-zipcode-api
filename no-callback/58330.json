@@ -1,1 +1,1 @@
-{"lat": 48.427738, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Edmore", "lng": -98.52492, "zip_code": "58330"}
+{"locality": "Edmore", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Edmore"], "postal_code": "58330", "lat": 48.427738, "lng": -98.52492, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}, {"fips": "099", "name": "Walsh"}, {"fips": "019", "name": "Cavalier"}]}

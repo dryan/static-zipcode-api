@@ -1,1 +1,1 @@
-{"lat": 21.997746, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Waimea", "lng": -159.7187, "zip_code": "96796"}
+{"locality": "Waimea", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Waimea"], "postal_code": "96796", "lat": 21.997746, "lng": -159.7187, "type": "POBOX", "counties": [{"fips": "007", "name": "Kauai"}]}

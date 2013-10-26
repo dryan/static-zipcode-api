@@ -1,1 +1,1 @@
-{"lat": 38.247883, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Burnt Prairie", "lng": -88.22944, "zip_code": "62820"}
+{"locality": "Burnt Prairie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Burnt Prairie"], "postal_code": "62820", "lat": 38.247883, "lng": -88.22944, "type": "STANDARD", "counties": [{"fips": "193", "name": "White"}, {"fips": "191", "name": "Wayne"}]}

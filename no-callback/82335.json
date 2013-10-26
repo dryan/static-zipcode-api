@@ -1,1 +1,1 @@
-{"lat": 41.804594, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Walcott", "lng": -106.78063, "zip_code": "82335"}
+{"locality": "Walcott", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Walcott"], "postal_code": "82335", "lat": 41.804594, "lng": -106.78063, "type": "POBOX", "counties": [{"fips": "007", "name": "Carbon"}]}

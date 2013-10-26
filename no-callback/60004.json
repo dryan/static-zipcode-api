@@ -1,1 +1,1 @@
-{"lat": 42.108428, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Arlington Height", "lng": -87.97723, "zip_code": "60004"}
+{"locality": "Arlington Heights", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Arlington Heights", "Arlington Hts"], "postal_code": "60004", "lat": 42.108428, "lng": -87.97723, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

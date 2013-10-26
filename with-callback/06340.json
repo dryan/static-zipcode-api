@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.345331, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Groton", "lng": -72.04524, "zip_code": "06340"});
+zipapicallback({"locality": "Groton", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Groton"], "postal_code": "06340", "lat": 41.345331, "lng": -72.04524, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]});

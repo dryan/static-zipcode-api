@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.495234, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Anacortes", "lng": -122.61976, "zip_code": "98221"});
+zipapicallback({"locality": "Anacortes", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Anacortes"], "postal_code": "98221", "lat": 48.495234, "lng": -122.61976, "type": "STANDARD", "counties": [{"fips": "057", "name": "Skagit"}, {"fips": "055", "name": "San Juan"}]});

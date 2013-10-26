@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.223573, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gleason", "lng": -88.60614, "zip_code": "38229"});
+zipapicallback({"locality": "Gleason", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gleason"], "postal_code": "38229", "lat": 36.223573, "lng": -88.60614, "type": "STANDARD", "counties": [{"fips": "183", "name": "Weakley"}]});

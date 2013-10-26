@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.974857, "region": {"abbr": "NY", "name": "New York"}, "locality": "Shokan", "lng": -74.20686, "zip_code": "12481"});
+zipapicallback({"locality": "Shokan", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Shokan"], "postal_code": "12481", "lat": 41.974857, "lng": -74.20686, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

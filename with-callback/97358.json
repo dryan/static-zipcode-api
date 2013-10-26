@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.794701, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Lyons", "lng": -122.53703, "zip_code": "97358"});
+zipapicallback({"locality": "Lyons", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Lyons"], "postal_code": "97358", "lat": 44.794701, "lng": -122.53703, "type": "STANDARD", "counties": [{"fips": "043", "name": "Linn"}, {"fips": "047", "name": "Marion"}]});

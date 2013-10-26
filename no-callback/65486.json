@@ -1,1 +1,1 @@
-{"lat": 38.10273, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Iberia", "lng": -92.30496, "zip_code": "65486"}
+{"locality": "Iberia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Iberia"], "postal_code": "65486", "lat": 38.10273, "lng": -92.30496, "type": "STANDARD", "counties": [{"fips": "131", "name": "Miller"}]}

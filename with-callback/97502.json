@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.387399, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Central Point", "lng": -122.92154, "zip_code": "97502"});
+zipapicallback({"locality": "Central Point", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Central Point", "Medford"], "postal_code": "97502", "lat": 42.387399, "lng": -122.92154, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]});

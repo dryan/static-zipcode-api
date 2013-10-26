@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.949142, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Goshen", "lng": -111.89623, "zip_code": "84633"});
+zipapicallback({"locality": "Goshen", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Goshen"], "postal_code": "84633", "lat": 39.949142, "lng": -111.89623, "type": "POBOX", "counties": [{"fips": "049", "name": "Utah"}]});

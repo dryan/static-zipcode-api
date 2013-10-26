@@ -1,1 +1,1 @@
-{"lat": 39.654773, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Big Pool", "lng": -78.01823, "zip_code": "21711"}
+{"locality": "Big Pool", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Big Pool"], "postal_code": "21711", "lat": 39.654773, "lng": -78.01823, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}]}

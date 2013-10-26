@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.750269, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Fordyce", "lng": -97.3801, "zip_code": "68736"});
+zipapicallback({"locality": "Fordyce", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Fordyce"], "postal_code": "68736", "lat": 42.750269, "lng": -97.3801, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cedar"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.754064, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Stockertown", "lng": -75.26477, "zip_code": "18083"});
+zipapicallback({"locality": "Stockertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Stockertown"], "postal_code": "18083", "lat": 40.754064, "lng": -75.26477, "type": "POBOX", "counties": [{"fips": "095", "name": "Northampton"}]});

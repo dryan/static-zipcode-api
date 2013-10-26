@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.132161, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Culbertson", "lng": -104.51429, "zip_code": "59218"});
+zipapicallback({"locality": "Culbertson", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Culbertson", "Mccabe"], "postal_code": "59218", "lat": 48.132161, "lng": -104.51429, "type": "STANDARD", "counties": [{"fips": "085", "name": "Roosevelt"}]});

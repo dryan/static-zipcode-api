@@ -1,1 +1,1 @@
-{"lat": 44.794723, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Granite Falls", "lng": -95.56737, "zip_code": "56241"}
+{"locality": "Granite Falls", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Granite Falls", "Hazel Run"], "postal_code": "56241", "lat": 44.794723, "lng": -95.56737, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chippewa"}, {"fips": "173", "name": "Yellow Medicine"}, {"fips": "053", "name": "Hennepin"}, {"fips": "129", "name": "Renville"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.087513, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rockford", "lng": -93.73548, "zip_code": "55373"});
+zipapicallback({"locality": "Rockford", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rockford"], "postal_code": "55373", "lat": 45.087513, "lng": -93.73548, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}, {"fips": "053", "name": "Hennepin"}]});

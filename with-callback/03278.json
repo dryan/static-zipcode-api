@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.283838, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Warner", "lng": -71.82537, "zip_code": "03278"});
+zipapicallback({"locality": "Warner", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Warner"], "postal_code": "03278", "lat": 43.283838, "lng": -71.82537, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]});

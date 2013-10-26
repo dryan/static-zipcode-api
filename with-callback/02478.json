@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.391546, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Belmont", "lng": -71.17471, "zip_code": "02478"});
+zipapicallback({"locality": "Belmont", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Belmont"], "postal_code": "02478", "lat": 42.391546, "lng": -71.17471, "type": "STANDARD", "counties": []});

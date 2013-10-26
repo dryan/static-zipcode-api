@@ -1,1 +1,1 @@
-{"lat": 25.893372, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Miami", "lng": -80.18164, "zip_code": "33161"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Biscayne Park", "Miami", "Miami Shores", "North Miami"], "postal_code": "33161", "lat": 25.893372, "lng": -80.18164, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.909732, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cantrall", "lng": -89.68831, "zip_code": "62625"});
+zipapicallback({"locality": "Cantrall", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cantrall"], "postal_code": "62625", "lat": 39.909732, "lng": -89.68831, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]});

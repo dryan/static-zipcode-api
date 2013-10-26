@@ -1,1 +1,1 @@
-{"lat": 32.618475, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Canton", "lng": -90.01041, "zip_code": "39046"}
+{"locality": "Canton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Canton"], "postal_code": "39046", "lat": 32.618475, "lng": -90.01041, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "049", "name": "Hinds"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.889863, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Central Falls", "lng": -71.3926, "zip_code": "02863"});
+zipapicallback({"locality": "Central Falls", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Central Falls"], "postal_code": "02863", "lat": 41.889863, "lng": -71.3926, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]});

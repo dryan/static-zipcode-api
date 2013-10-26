@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.058507, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Easton", "lng": -71.11309, "zip_code": "02356"});
+zipapicallback({"locality": "North Easton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["North Easton"], "postal_code": "02356", "lat": 42.058507, "lng": -71.11309, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

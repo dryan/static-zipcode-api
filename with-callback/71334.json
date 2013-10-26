@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.667978, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Frogmore", "lng": -91.51382, "zip_code": "71334"});
+zipapicallback({"locality": "Ferriday", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ferriday", "Frogmore", "Ridgecrest"], "postal_code": "71334", "lat": 31.667978, "lng": -91.51382, "type": "STANDARD", "counties": [{"fips": "029", "name": "Concordia"}]});

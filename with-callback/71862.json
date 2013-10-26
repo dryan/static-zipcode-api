@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.761309, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Washington", "lng": -93.71273, "zip_code": "71862"});
+zipapicallback({"locality": "Washington", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Washington"], "postal_code": "71862", "lat": 33.761309, "lng": -93.71273, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hempstead"}]});

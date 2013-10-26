@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.740158, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Muscadine", "lng": -85.37813, "zip_code": "36269"});
+zipapicallback({"locality": "Muscadine", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Muscadine"], "postal_code": "36269", "lat": 33.740158, "lng": -85.37813, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cleburne"}]});

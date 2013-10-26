@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.294648, "region": {"abbr": "CA", "name": "California"}, "locality": "Red Top", "lng": -120.47474, "zip_code": "95340"});
+zipapicallback({"locality": "Merced", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Merced"], "postal_code": "95340", "lat": 37.294648, "lng": -120.47474, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]});

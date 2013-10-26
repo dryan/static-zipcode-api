@@ -1,1 +1,1 @@
-{"lat": 34.972309, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ardmore", "lng": -86.81352, "zip_code": "35739"}
+{"locality": "Ardmore", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ardmore"], "postal_code": "35739", "lat": 34.972309, "lng": -86.81352, "type": "STANDARD", "counties": [{"fips": "083", "name": "Limestone"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.52217, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mays Lick", "lng": -83.85894, "zip_code": "41055"});
+zipapicallback({"locality": "Mayslick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mayslick"], "postal_code": "41055", "lat": 38.52217, "lng": -83.85894, "type": "STANDARD", "counties": [{"fips": "161", "name": "Mason"}]});

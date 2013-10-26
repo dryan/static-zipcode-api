@@ -1,1 +1,1 @@
-{"lat": 40.933429, "region": {"abbr": "NY", "name": "New York"}, "locality": "Calverton", "lng": -72.74646, "zip_code": "11933"}
+{"locality": "Calverton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Baiting Hollo", "Baiting Hollow", "Calverton"], "postal_code": "11933", "lat": 40.933429, "lng": -72.74646, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

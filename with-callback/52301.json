@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.790216, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Marengo", "lng": -92.07684, "zip_code": "52301"});
+zipapicallback({"locality": "Marengo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Marengo"], "postal_code": "52301", "lat": 41.790216, "lng": -92.07684, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.122683, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Marydel", "lng": -75.76427, "zip_code": "21649"});
+zipapicallback({"locality": "Marydel", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Marydel"], "postal_code": "21649", "lat": 39.122683, "lng": -75.76427, "type": "STANDARD", "counties": [{"fips": "011", "name": "Caroline"}]});

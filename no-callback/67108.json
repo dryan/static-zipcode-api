@@ -1,1 +1,1 @@
-{"lat": 37.831684, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mount Hope", "lng": -97.67462, "zip_code": "67108"}
+{"locality": "Mount Hope", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mount Hope"], "postal_code": "67108", "lat": 37.831684, "lng": -97.67462, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "155", "name": "Reno"}]}

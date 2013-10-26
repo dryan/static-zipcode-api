@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.587718, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hammond", "lng": -87.45528, "zip_code": "46323"});
+zipapicallback({"locality": "Hammond", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hammond"], "postal_code": "46323", "lat": 41.587718, "lng": -87.45528, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]});

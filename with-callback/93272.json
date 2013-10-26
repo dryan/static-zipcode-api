@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.059363, "region": {"abbr": "CA", "name": "California"}, "locality": "Tipton", "lng": -119.32025, "zip_code": "93272"});
+zipapicallback({"locality": "Tipton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tipton"], "postal_code": "93272", "lat": 36.059363, "lng": -119.32025, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.321298, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cranberry", "lng": -79.6478, "zip_code": "16319"}
+{"locality": "Cranberry", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cranberry"], "postal_code": "16319", "lat": 41.321298, "lng": -79.6478, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]}

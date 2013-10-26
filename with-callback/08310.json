@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.522686, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Buena", "lng": -74.89684, "zip_code": "08310"});
+zipapicallback({"locality": "Buena", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Buena"], "postal_code": "08310", "lat": 39.522686, "lng": -74.89684, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.183288, "region": {"abbr": "CA", "name": "California"}, "locality": "Burson", "lng": -120.89487, "zip_code": "95225"});
+zipapicallback({"locality": "Burson", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Burson"], "postal_code": "95225", "lat": 38.183288, "lng": -120.89487, "type": "POBOX", "counties": [{"fips": "009", "name": "Calaveras"}]});

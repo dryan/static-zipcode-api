@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.389813, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hudson", "lng": -71.55791, "zip_code": "01749"});
+zipapicallback({"locality": "Hudson", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hudson"], "postal_code": "01749", "lat": 42.389813, "lng": -71.55791, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

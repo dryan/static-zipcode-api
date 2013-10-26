@@ -1,1 +1,1 @@
-{"lat": 44.530527, "region": {"abbr": "NY", "name": "New York"}, "locality": "Au Sable Chasm", "lng": -73.46734, "zip_code": "12911"}
+{"locality": "Keeseville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Au Sable Chasm", "Ausable Chasm", "Keeseville"], "postal_code": "12911", "lat": 44.530527, "lng": -73.46734, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}, {"fips": "019", "name": "Clinton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.064734, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Goetzville", "lng": -84.15477, "zip_code": "49736"});
+zipapicallback({"locality": "Goetzville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Goetzville", "Stalwart"], "postal_code": "49736", "lat": 46.064734, "lng": -84.15477, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]});

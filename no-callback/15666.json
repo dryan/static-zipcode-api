@@ -1,1 +1,1 @@
-{"lat": 40.150143, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Pleasant", "lng": -79.52492, "zip_code": "15666"}
+{"locality": "Mount Pleasant", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "15666", "lat": 40.150143, "lng": -79.52492, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}, {"fips": "051", "name": "Fayette"}]}

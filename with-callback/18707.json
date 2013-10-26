@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.133482, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mountain Top", "lng": -75.9194, "zip_code": "18707"});
+zipapicallback({"locality": "Mountain Top", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mountain Top", "Nuangola", "Wilkes Barre"], "postal_code": "18707", "lat": 41.133482, "lng": -75.9194, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

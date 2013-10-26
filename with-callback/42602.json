@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.72024, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Albany", "lng": -85.13539, "zip_code": "42602"});
+zipapicallback({"locality": "Albany", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Aaron", "Albany", "Browns Crossroads", "Browns Xroads", "Highway", "Seminary", "Seventy Six", "Snow", "Static"], "postal_code": "42602", "lat": 36.72024, "lng": -85.13539, "type": "STANDARD", "counties": [{"fips": "053", "name": "Clinton"}]});

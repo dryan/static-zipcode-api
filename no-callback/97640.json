@@ -1,1 +1,1 @@
-{"lat": 42.961806, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Summer Lake", "lng": -120.77072, "zip_code": "97640"}
+{"locality": "Summer Lake", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Summer Lake"], "postal_code": "97640", "lat": 42.961806, "lng": -120.77072, "type": "STANDARD", "counties": [{"fips": "037", "name": "Lake"}]}

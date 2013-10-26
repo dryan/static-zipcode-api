@@ -1,1 +1,1 @@
-{"lat": 37.118352, "region": {"abbr": "UT", "name": "Utah"}, "locality": "St George", "lng": -113.5987, "zip_code": "84770"}
+{"locality": "Saint George", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Saint George", "St George"], "postal_code": "84770", "lat": 37.118352, "lng": -113.5987, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]}

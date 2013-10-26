@@ -1,1 +1,1 @@
-{"lat": 43.909576, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Nyssa", "lng": -116.97103, "zip_code": "97913"}
+{"locality": "Nyssa", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Nyssa"], "postal_code": "97913", "lat": 43.909576, "lng": -116.97103, "type": "STANDARD", "counties": [{"fips": "045", "name": "Malheur"}]}

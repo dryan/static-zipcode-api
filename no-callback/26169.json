@@ -1,1 +1,1 @@
-{"lat": 39.076628, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rockport", "lng": -81.55299, "zip_code": "26169"}
+{"locality": "Rockport", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rockport"], "postal_code": "26169", "lat": 39.076628, "lng": -81.55299, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wood"}]}

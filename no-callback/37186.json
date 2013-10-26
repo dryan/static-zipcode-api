@@ -1,1 +1,1 @@
-{"lat": 36.579247, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Westmoreland", "lng": -86.23954, "zip_code": "37186"}
+{"locality": "Westmoreland", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Westmoreland"], "postal_code": "37186", "lat": 36.579247, "lng": -86.23954, "type": "STANDARD", "counties": [{"fips": "165", "name": "Sumner"}, {"fips": "111", "name": "MacOn"}]}

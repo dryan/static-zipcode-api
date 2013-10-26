@@ -1,1 +1,1 @@
-{"lat": 41.853498, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bagley", "lng": -94.43912, "zip_code": "50026"}
+{"locality": "Bagley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bagley"], "postal_code": "50026", "lat": 41.853498, "lng": -94.43912, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}, {"fips": "073", "name": "Greene"}]}

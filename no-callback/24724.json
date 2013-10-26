@@ -1,1 +1,1 @@
-{"lat": 37.32767, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Freeman", "lng": -81.29994, "zip_code": "24724"}
+{"locality": "Freeman", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Coaldale", "Freeman"], "postal_code": "24724", "lat": 37.32767, "lng": -81.29994, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]}

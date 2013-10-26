@@ -1,1 +1,1 @@
-{"lat": 41.429411, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lakeville", "lng": -75.24702, "zip_code": "18438"}
+{"locality": "Lakeville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hawley", "Lakeville"], "postal_code": "18438", "lat": 41.429411, "lng": -75.24702, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.059668, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Baileys Harbor", "lng": -87.13196, "zip_code": "54202"});
+zipapicallback({"locality": "Baileys Harbor", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Baileys Harbor", "Baileys Hbr"], "postal_code": "54202", "lat": 45.059668, "lng": -87.13196, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]});

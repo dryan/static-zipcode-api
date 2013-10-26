@@ -1,1 +1,1 @@
-{"lat": 34.856283, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Roebuck", "lng": -81.95444, "zip_code": "29376"}
+{"locality": "Roebuck", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Roebuck"], "postal_code": "29376", "lat": 34.856283, "lng": -81.95444, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}]}

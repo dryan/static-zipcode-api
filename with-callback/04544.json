@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.832642, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Boothbay", "lng": -69.58903, "zip_code": "04544"});
+zipapicallback({"locality": "East Boothbay", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["East Boothbay"], "postal_code": "04544", "lat": 43.832642, "lng": -69.58903, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]});

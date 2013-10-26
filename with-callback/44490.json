@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.899731, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Washingtonville", "lng": -80.76333, "zip_code": "44490"});
+zipapicallback({"locality": "Washingtonville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Washingtonville", "Washingtonvle"], "postal_code": "44490", "lat": 40.899731, "lng": -80.76333, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.140056, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sanborn", "lng": -78.88297, "zip_code": "14132"});
+zipapicallback({"locality": "Sanborn", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sanborn"], "postal_code": "14132", "lat": 43.140056, "lng": -78.88297, "type": "STANDARD", "counties": [{"fips": "063", "name": "Niagara"}]});

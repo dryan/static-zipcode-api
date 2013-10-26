@@ -1,1 +1,1 @@
-{"lat": 39.026033, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Goldsboro", "lng": -75.7936, "zip_code": "21636"}
+{"locality": "Goldsboro", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Goldsboro"], "postal_code": "21636", "lat": 39.026033, "lng": -75.7936, "type": "STANDARD", "counties": [{"fips": "011", "name": "Caroline"}]}

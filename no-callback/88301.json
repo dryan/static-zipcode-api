@@ -1,1 +1,1 @@
-{"lat": 33.710312, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Carrizozo", "lng": -105.88218, "zip_code": "88301"}
+{"locality": "Carrizozo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Ancho", "Carrizozo", "Duran", "Oscuro", "White Oaks"], "postal_code": "88301", "lat": 33.710312, "lng": -105.88218, "type": "STANDARD", "counties": [{"fips": "027", "name": "Lincoln"}]}

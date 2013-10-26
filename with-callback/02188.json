@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.212866, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Weymouth", "lng": -70.95872, "zip_code": "02188"});
+zipapicallback({"locality": "Weymouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Weymouth"], "postal_code": "02188", "lat": 42.212866, "lng": -70.95872, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

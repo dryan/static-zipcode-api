@@ -1,1 +1,1 @@
-{"lat": 46.947243, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Oriska", "lng": -97.81827, "zip_code": "58063"}
+{"locality": "Oriska", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Oriska"], "postal_code": "58063", "lat": 46.947243, "lng": -97.81827, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}]}

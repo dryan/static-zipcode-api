@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.816575, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Boardman", "lng": -119.76236, "zip_code": "97818"});
+zipapicallback({"locality": "Boardman", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Boardman"], "postal_code": "97818", "lat": 45.816575, "lng": -119.76236, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]});

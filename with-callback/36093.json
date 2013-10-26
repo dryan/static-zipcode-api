@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.505741, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Wetumpka", "lng": -86.15644, "zip_code": "36093"});
+zipapicallback({"locality": "Wetumpka", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Wetumpka"], "postal_code": "36093", "lat": 32.505741, "lng": -86.15644, "type": "STANDARD", "counties": []});

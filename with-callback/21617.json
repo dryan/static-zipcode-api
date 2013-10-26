@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.049697, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Centreville", "lng": -76.05309, "zip_code": "21617"});
+zipapicallback({"locality": "Centreville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Centreville"], "postal_code": "21617", "lat": 39.049697, "lng": -76.05309, "type": "STANDARD", "counties": [{"fips": "035", "name": "Queen Anne's"}]});

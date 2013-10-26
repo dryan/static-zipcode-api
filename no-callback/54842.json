@@ -1,1 +1,1 @@
-{"lat": 46.513247, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hawthorne", "lng": -91.84824, "zip_code": "54842"}
+{"locality": "Hawthorne", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hawthorne"], "postal_code": "54842", "lat": 46.513247, "lng": -91.84824, "type": "POBOX", "counties": [{"fips": "031", "name": "Douglas"}]}

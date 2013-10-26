@@ -1,1 +1,1 @@
-{"lat": 37.711278, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Rogers", "lng": -83.63647, "zip_code": "41365"}
+{"locality": "Rogers", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Rogers"], "postal_code": "41365", "lat": 37.711278, "lng": -83.63647, "type": "STANDARD", "counties": [{"fips": "237", "name": "Wolfe"}]}

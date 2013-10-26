@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.047996, "region": {"abbr": "NY", "name": "New York"}, "locality": "Orangeburg", "lng": -73.96215, "zip_code": "10962"});
+zipapicallback({"locality": "Orangeburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Orangeburg"], "postal_code": "10962", "lat": 41.047996, "lng": -73.96215, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.028945, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Raymond", "lng": -95.22418, "zip_code": "56282"}
+{"locality": "Raymond", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Raymond"], "postal_code": "56282", "lat": 45.028945, "lng": -95.22418, "type": "STANDARD", "counties": [{"fips": "067", "name": "Kandiyohi"}, {"fips": "023", "name": "Chippewa"}]}

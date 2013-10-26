@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.477445, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ladysmith", "lng": -91.105, "zip_code": "54848"});
+zipapicallback({"locality": "Ladysmith", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ladysmith"], "postal_code": "54848", "lat": 45.477445, "lng": -91.105, "type": "STANDARD", "counties": [{"fips": "107", "name": "Rusk"}]});

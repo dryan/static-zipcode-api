@@ -1,1 +1,1 @@
-{"lat": 38.428609, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Versailles", "lng": -92.84968, "zip_code": "65084"}
+{"locality": "Versailles", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Versailles"], "postal_code": "65084", "lat": 38.428609, "lng": -92.84968, "type": "STANDARD", "counties": [{"fips": "141", "name": "Morgan"}, {"fips": "135", "name": "Moniteau"}]}

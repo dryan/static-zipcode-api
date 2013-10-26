@@ -1,1 +1,1 @@
-{"lat": 40.414128, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carthage", "lng": -91.11577, "zip_code": "62321"}
+{"locality": "Carthage", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carthage"], "postal_code": "62321", "lat": 40.414128, "lng": -91.11577, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}]}

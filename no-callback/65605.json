@@ -1,1 +1,1 @@
-{"lat": 36.918018, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jenkins", "lng": -93.71063, "zip_code": "65605"}
+{"locality": "Aurora", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Aurora", "Jenkins"], "postal_code": "65605", "lat": 36.918018, "lng": -93.71063, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lawrence"}, {"fips": "009", "name": "Barry"}, {"fips": "209", "name": "Stone"}]}

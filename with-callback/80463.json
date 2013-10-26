@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.912186, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mc Coy", "lng": -106.74302, "zip_code": "80463"});
+zipapicallback({"locality": "Mc Coy", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mc Coy"], "postal_code": "80463", "lat": 39.912186, "lng": -106.74302, "type": "STANDARD", "counties": [{"fips": "037", "name": "Eagle"}]});

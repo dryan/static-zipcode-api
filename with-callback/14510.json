@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.692608, "region": {"abbr": "NY", "name": "New York"}, "locality": "Tuscarora", "lng": -77.87663, "zip_code": "14510"});
+zipapicallback({"locality": "Mount Morris", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mount Morris", "Tuscarora"], "postal_code": "14510", "lat": 42.692608, "lng": -77.87663, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]});

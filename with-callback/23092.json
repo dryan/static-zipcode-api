@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.593059, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Locust Hill", "lng": -76.50694, "zip_code": "23092"});
+zipapicallback({"locality": "Locust Hill", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Locust Hill"], "postal_code": "23092", "lat": 37.593059, "lng": -76.50694, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

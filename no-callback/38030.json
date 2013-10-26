@@ -1,1 +1,1 @@
-{"lat": 35.980206, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Finley", "lng": -89.60112, "zip_code": "38030"}
+{"locality": "Finley", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Finley"], "postal_code": "38030", "lat": 35.980206, "lng": -89.60112, "type": "STANDARD", "counties": [{"fips": "045", "name": "Dyer"}]}

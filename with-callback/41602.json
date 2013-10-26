@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.73696, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Auxier", "lng": -82.74012, "zip_code": "41602"});
+zipapicallback({"locality": "Auxier", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Auxier"], "postal_code": "41602", "lat": 37.73696, "lng": -82.74012, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.809908, "region": {"abbr": "NY", "name": "New York"}, "locality": "Livonia", "lng": -77.65301, "zip_code": "14487"});
+zipapicallback({"locality": "Livonia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Livonia"], "postal_code": "14487", "lat": 42.809908, "lng": -77.65301, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}, {"fips": "069", "name": "Ontario"}]});

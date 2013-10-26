@@ -1,1 +1,1 @@
-{"lat": 40.717399, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dixonville", "lng": -79.00688, "zip_code": "15734"}
+{"locality": "Dixonville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dixonville"], "postal_code": "15734", "lat": 40.717399, "lng": -79.00688, "type": "POBOX", "counties": [{"fips": "063", "name": "Indiana"}]}

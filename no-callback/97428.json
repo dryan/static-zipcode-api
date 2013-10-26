@@ -1,1 +1,1 @@
-{"lat": 43.745797, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Curtin", "lng": -123.18191, "zip_code": "97428"}
+{"locality": "Curtin", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Curtin"], "postal_code": "97428", "lat": 43.745797, "lng": -123.18191, "type": "POBOX", "counties": [{"fips": "019", "name": "Douglas"}]}

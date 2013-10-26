@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.033426, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Overbrook", "lng": -97.24379, "zip_code": "73453"});
+zipapicallback({"locality": "Overbrook", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Overbrook"], "postal_code": "73453", "lat": 34.033426, "lng": -97.24379, "type": "STANDARD", "counties": [{"fips": "085", "name": "Love"}]});

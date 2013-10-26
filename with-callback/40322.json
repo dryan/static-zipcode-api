@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.937105, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Scranton", "lng": -83.63429, "zip_code": "40322"});
+zipapicallback({"locality": "Frenchburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Frenchburg", "Mariba", "Scranton"], "postal_code": "40322", "lat": 37.937105, "lng": -83.63429, "type": "STANDARD", "counties": [{"fips": "165", "name": "Menifee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.119972, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Elberton", "lng": -82.825, "zip_code": "30635"});
+zipapicallback({"locality": "Elberton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Elberton"], "postal_code": "30635", "lat": 34.119972, "lng": -82.825, "type": "STANDARD", "counties": [{"fips": "105", "name": "Elbert"}, {"fips": "147", "name": "Hart"}]});

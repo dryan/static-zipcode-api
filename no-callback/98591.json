@@ -1,1 +1,1 @@
-{"lat": 46.433226, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Toledo", "lng": -122.80083, "zip_code": "98591"}
+{"locality": "Toledo", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Toledo"], "postal_code": "98591", "lat": 46.433226, "lng": -122.80083, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]}

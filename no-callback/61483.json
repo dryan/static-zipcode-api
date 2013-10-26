@@ -1,1 +1,1 @@
-{"lat": 41.09638, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Toulon", "lng": -89.86649, "zip_code": "61483"}
+{"locality": "Toulon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Toulon"], "postal_code": "61483", "lat": 41.09638, "lng": -89.86649, "type": "STANDARD", "counties": [{"fips": "175", "name": "Stark"}]}

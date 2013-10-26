@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.234591, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mercer", "lng": -80.2364, "zip_code": "16137"});
+zipapicallback({"locality": "Mercer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mercer"], "postal_code": "16137", "lat": 41.234591, "lng": -80.2364, "type": "STANDARD", "counties": [{"fips": "085", "name": "Mercer"}]});

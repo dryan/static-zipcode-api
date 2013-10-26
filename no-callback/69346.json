@@ -1,1 +1,1 @@
-{"lat": 42.624764, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Harrison", "lng": -103.83101, "zip_code": "69346"}
+{"locality": "Harrison", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Harrison"], "postal_code": "69346", "lat": 42.624764, "lng": -103.83101, "type": "STANDARD", "counties": [{"fips": "165", "name": "Sioux"}]}

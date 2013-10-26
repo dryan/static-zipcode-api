@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.700523, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Little York", "lng": -85.90405, "zip_code": "47139"});
+zipapicallback({"locality": "Little York", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Little York"], "postal_code": "47139", "lat": 38.700523, "lng": -85.90405, "type": "POBOX", "counties": [{"fips": "175", "name": "Washington"}]});

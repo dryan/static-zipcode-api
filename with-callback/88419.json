@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.896078, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Folsom", "lng": -103.56942, "zip_code": "88419"});
+zipapicallback({"locality": "Folsom", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Folsom"], "postal_code": "88419", "lat": 36.896078, "lng": -103.56942, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]});

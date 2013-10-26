@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.797677, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Sargeant", "lng": -92.7799, "zip_code": "55973"});
+zipapicallback({"locality": "Sargeant", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Sargeant"], "postal_code": "55973", "lat": 43.797677, "lng": -92.7799, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}, {"fips": "039", "name": "Dodge"}]});

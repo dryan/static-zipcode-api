@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.306396, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Shelton", "lng": -73.1292, "zip_code": "06484"});
+zipapicallback({"locality": "Shelton", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Huntington", "Shelton"], "postal_code": "06484", "lat": 41.306396, "lng": -73.1292, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}, {"fips": "009", "name": "New Haven"}]});

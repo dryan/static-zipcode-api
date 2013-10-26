@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.789291, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "West Van Lear", "lng": -82.78437, "zip_code": "41268"});
+zipapicallback({"locality": "West Van Lear", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["West Van Lear"], "postal_code": "41268", "lat": 37.789291, "lng": -82.78437, "type": "POBOX", "counties": [{"fips": "115", "name": "Johnson"}]});

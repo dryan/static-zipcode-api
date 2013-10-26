@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.806956, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "University Park", "lng": -77.86281, "zip_code": "16802"});
+zipapicallback({"locality": "University Park", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Penn St Univ", "Penn State University", "State College", "University Park", "University Pk"], "postal_code": "16802", "lat": 40.806956, "lng": -77.86281, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]});

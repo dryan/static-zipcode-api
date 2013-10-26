@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.089871, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Matheson", "lng": -103.89534, "zip_code": "80830"});
+zipapicallback({"locality": "Matheson", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Matheson"], "postal_code": "80830", "lat": 39.089871, "lng": -103.89534, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elbert"}]});

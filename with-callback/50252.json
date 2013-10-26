@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.449489, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Swan", "lng": -93.31782, "zip_code": "50252"});
+zipapicallback({"locality": "Swan", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Swan"], "postal_code": "50252", "lat": 41.449489, "lng": -93.31782, "type": "STANDARD", "counties": [{"fips": "125", "name": "Marion"}, {"fips": "181", "name": "Warren"}]});

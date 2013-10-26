@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.192176, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Richmond", "lng": -86.98346, "zip_code": "47967"});
+zipapicallback({"locality": "New Richmond", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Richmond"], "postal_code": "47967", "lat": 40.192176, "lng": -86.98346, "type": "STANDARD", "counties": [{"fips": "107", "name": "Montgomery"}, {"fips": "157", "name": "Tippecanoe"}]});

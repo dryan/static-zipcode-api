@@ -1,1 +1,1 @@
-{"lat": 46.463827, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Holyoke", "lng": -92.40766, "zip_code": "55749"}
+{"locality": "Holyoke", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Holyoke", "Wrenshall"], "postal_code": "55749", "lat": 46.463827, "lng": -92.40766, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pine"}, {"fips": "017", "name": "Carlton"}]}

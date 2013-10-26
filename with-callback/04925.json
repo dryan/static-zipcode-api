@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.249363, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Caratunk", "lng": -69.9433, "zip_code": "04925"});
+zipapicallback({"locality": "Caratunk", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Caratunk"], "postal_code": "04925", "lat": 45.249363, "lng": -69.9433, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]});

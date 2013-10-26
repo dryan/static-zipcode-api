@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.444242, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hammond", "lng": -75.69227, "zip_code": "13646"});
+zipapicallback({"locality": "Hammond", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hammond"], "postal_code": "13646", "lat": 44.444242, "lng": -75.69227, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}, {"fips": "045", "name": "Jefferson"}]});

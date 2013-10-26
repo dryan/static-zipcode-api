@@ -1,1 +1,1 @@
-{"lat": 36.655006, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Gamaliel", "lng": -85.80866, "zip_code": "42140"}
+{"locality": "Gamaliel", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gamaliel"], "postal_code": "42140", "lat": 36.655006, "lng": -85.80866, "type": "STANDARD", "counties": [{"fips": "171", "name": "Monroe"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.454046, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Battiest", "lng": -94.94148, "zip_code": "74722"});
+zipapicallback({"locality": "Battiest", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Battiest"], "postal_code": "74722", "lat": 34.454046, "lng": -94.94148, "type": "POBOX", "counties": [{"fips": "089", "name": "McCurtain"}]});

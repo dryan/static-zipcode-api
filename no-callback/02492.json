@@ -1,1 +1,1 @@
-{"lat": 42.278247, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Needham", "lng": -71.23388, "zip_code": "02492"}
+{"locality": "Needham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Needham"], "postal_code": "02492", "lat": 42.278247, "lng": -71.23388, "type": "STANDARD", "counties": []}

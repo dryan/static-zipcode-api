@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.451496, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Epworth", "lng": -90.92851, "zip_code": "52045"});
+zipapicallback({"locality": "Epworth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Epworth"], "postal_code": "52045", "lat": 42.451496, "lng": -90.92851, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]});

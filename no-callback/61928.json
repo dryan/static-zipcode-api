@@ -1,1 +1,1 @@
-{"lat": 39.45274, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gays", "lng": -88.5144, "zip_code": "61928"}
+{"locality": "Gays", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gays"], "postal_code": "61928", "lat": 39.45274, "lng": -88.5144, "type": "STANDARD", "counties": [{"fips": "139", "name": "Moultrie"}, {"fips": "029", "name": "Coles"}, {"fips": "173", "name": "Shelby"}]}

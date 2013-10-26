@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.891218, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Byars", "lng": -97.06278, "zip_code": "74831"});
+zipapicallback({"locality": "Byars", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Byars", "Rosedale"], "postal_code": "74831", "lat": 34.891218, "lng": -97.06278, "type": "STANDARD", "counties": [{"fips": "087", "name": "McClain"}, {"fips": "123", "name": "Pontotoc"}, {"fips": "049", "name": "Garvin"}]});

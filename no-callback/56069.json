@@ -1,1 +1,1 @@
-{"lat": 44.429956, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Montgomery", "lng": -93.56982, "zip_code": "56069"}
+{"locality": "Montgomery", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Montgomery"], "postal_code": "56069", "lat": 44.429956, "lng": -93.56982, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}, {"fips": "131", "name": "Rice"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.245851, "region": {"abbr": "CA", "name": "California"}, "locality": "Tomales", "lng": -122.90644, "zip_code": "94971"});
+zipapicallback({"locality": "Tomales", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tomales"], "postal_code": "94971", "lat": 38.245851, "lng": -122.90644, "type": "POBOX", "counties": [{"fips": "041", "name": "Marin"}]});

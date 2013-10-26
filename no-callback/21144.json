@@ -1,1 +1,1 @@
-{"lat": 39.130224, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Severn", "lng": -76.69142, "zip_code": "21144"}
+{"locality": "Severn", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Severn"], "postal_code": "21144", "lat": 39.130224, "lng": -76.69142, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

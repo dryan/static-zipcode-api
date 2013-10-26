@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.48806, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hayden", "lng": -107.26093, "zip_code": "81639"});
+zipapicallback({"locality": "Hayden", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hayden"], "postal_code": "81639", "lat": 40.48806, "lng": -107.26093, "type": "STANDARD", "counties": [{"fips": "107", "name": "Routt"}]});

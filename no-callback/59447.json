@@ -1,1 +1,1 @@
-{"lat": 47.268612, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Geyser", "lng": -110.44229, "zip_code": "59447"}
+{"locality": "Geyser", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Geyser"], "postal_code": "59447", "lat": 47.268612, "lng": -110.44229, "type": "STANDARD", "counties": [{"fips": "045", "name": "Judith Basin"}]}

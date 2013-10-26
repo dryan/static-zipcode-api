@@ -1,1 +1,1 @@
-{"lat": 37.728417, "region": {"abbr": "CA", "name": "California"}, "locality": "Tracy", "lng": -121.42399, "zip_code": "95376"}
+{"locality": "Tracy", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tracy"], "postal_code": "95376", "lat": 37.728417, "lng": -121.42399, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.534866, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Randolph", "lng": -93.02959, "zip_code": "55065"});
+zipapicallback({"locality": "Randolph", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Randolph"], "postal_code": "55065", "lat": 44.534866, "lng": -93.02959, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "049", "name": "Goodhue"}]});

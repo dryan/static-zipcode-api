@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.994597, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Springhill", "lng": -93.45992, "zip_code": "71075"});
+zipapicallback({"locality": "Springhill", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Springhill"], "postal_code": "71075", "lat": 32.994597, "lng": -93.45992, "type": "STANDARD", "counties": [{"fips": "119", "name": "Webster"}]});

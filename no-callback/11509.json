@@ -1,1 +1,1 @@
-{"lat": 40.589538, "region": {"abbr": "NY", "name": "New York"}, "locality": "Atlantic Beach", "lng": -73.72915, "zip_code": "11509"}
+{"locality": "Atlantic Beach", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Atlantic Bch", "Atlantic Beach"], "postal_code": "11509", "lat": 40.589538, "lng": -73.72915, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

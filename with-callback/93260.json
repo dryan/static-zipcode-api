@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.846291, "region": {"abbr": "CA", "name": "California"}, "locality": "Posey", "lng": -118.63298, "zip_code": "93260"});
+zipapicallback({"locality": "Posey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Posey"], "postal_code": "93260", "lat": 35.846291, "lng": -118.63298, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]});

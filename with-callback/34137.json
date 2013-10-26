@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.03569, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Copeland", "lng": -81.46799, "zip_code": "34137"});
+zipapicallback({"locality": "Copeland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Copeland"], "postal_code": "34137", "lat": 26.03569, "lng": -81.46799, "type": "POBOX", "counties": []});

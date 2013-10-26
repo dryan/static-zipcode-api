@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.897971, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Norcross", "lng": -96.24441, "zip_code": "56274"});
+zipapicallback({"locality": "Norcross", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Norcross"], "postal_code": "56274", "lat": 45.897971, "lng": -96.24441, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grant"}, {"fips": "155", "name": "Traverse"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.976427, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Piermont", "lng": -72.04409, "zip_code": "03779"}
+{"locality": "Piermont", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Piermont"], "postal_code": "03779", "lat": 43.976427, "lng": -72.04409, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]}

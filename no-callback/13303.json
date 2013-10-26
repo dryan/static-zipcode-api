@@ -1,1 +1,1 @@
-{"lat": 43.368235, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ava", "lng": -75.4688, "zip_code": "13303"}
+{"locality": "Ava", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ava"], "postal_code": "13303", "lat": 43.368235, "lng": -75.4688, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]}

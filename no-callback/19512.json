@@ -1,1 +1,1 @@
-{"lat": 40.338497, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Boyertown", "lng": -75.6632, "zip_code": "19512"}
+{"locality": "Boyertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Boyertown"], "postal_code": "19512", "lat": 40.338497, "lng": -75.6632, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}, {"fips": "091", "name": "Montgomery"}]}

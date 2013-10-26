@@ -1,1 +1,1 @@
-{"lat": 47.333821, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Malaga", "lng": -120.19929, "zip_code": "98828"}
+{"locality": "Malaga", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Malaga"], "postal_code": "98828", "lat": 47.333821, "lng": -120.19929, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}]}

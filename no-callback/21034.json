@@ -1,1 +1,1 @@
-{"lat": 39.638039, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Darlington", "lng": -76.22398, "zip_code": "21034"}
+{"locality": "Darlington", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Darlington"], "postal_code": "21034", "lat": 39.638039, "lng": -76.22398, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}]}

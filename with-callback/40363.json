@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.522034, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Perry Park", "lng": -85.00607, "zip_code": "40363"});
+zipapicallback({"locality": "Perry Park", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Perry Park"], "postal_code": "40363", "lat": 38.522034, "lng": -85.00607, "type": "POBOX", "counties": [{"fips": "187", "name": "Owen"}]});

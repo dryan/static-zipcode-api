@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.783844, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Guffey", "lng": -105.63616, "zip_code": "80820"});
+zipapicallback({"locality": "Guffey", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Guffey"], "postal_code": "80820", "lat": 38.783844, "lng": -105.63616, "type": "STANDARD", "counties": [{"fips": "093", "name": "Park"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.75979, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Accoville", "lng": -81.82027, "zip_code": "25606"});
+zipapicallback({"locality": "Accoville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Accoville"], "postal_code": "25606", "lat": 37.75979, "lng": -81.82027, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]});

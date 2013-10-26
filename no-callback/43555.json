@@ -1,1 +1,1 @@
-{"lat": 41.437905, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ridgeville Corners", "lng": -84.255, "zip_code": "43555"}
+{"locality": "Ridgeville Corners", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rdgville Cors", "Ridgeville Corners"], "postal_code": "43555", "lat": 41.437905, "lng": -84.255, "type": "POBOX", "counties": [{"fips": "069", "name": "Henry"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.818844, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Luray", "lng": -81.30864, "zip_code": "29932"});
+zipapicallback({"locality": "Luray", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Luray"], "postal_code": "29932", "lat": 32.818844, "lng": -81.30864, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hampton"}, {"fips": "005", "name": "Allendale"}]});

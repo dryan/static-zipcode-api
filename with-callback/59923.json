@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.309374, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Libby", "lng": -115.3286, "zip_code": "59923"});
+zipapicallback({"locality": "Libby", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Libby"], "postal_code": "59923", "lat": 48.309374, "lng": -115.3286, "type": "STANDARD", "counties": [{"fips": "053", "name": "Lincoln"}]});

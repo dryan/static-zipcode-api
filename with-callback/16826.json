@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.059172, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Blanchard", "lng": -77.60029, "zip_code": "16826"});
+zipapicallback({"locality": "Blanchard", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Blanchard"], "postal_code": "16826", "lat": 41.059172, "lng": -77.60029, "type": "POBOX", "counties": [{"fips": "027", "name": "Centre"}]});

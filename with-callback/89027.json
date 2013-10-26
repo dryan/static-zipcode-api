@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.804651, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Mesquite", "lng": -114.08749, "zip_code": "89027"});
+zipapicallback({"locality": "Mesquite", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Mesquite"], "postal_code": "89027", "lat": 36.804651, "lng": -114.08749, "type": "STANDARD", "counties": []});

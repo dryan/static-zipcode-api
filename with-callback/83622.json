@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.103121, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Garden Valley", "lng": -115.9354, "zip_code": "83622"});
+zipapicallback({"locality": "Garden Valley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Garden Valley"], "postal_code": "83622", "lat": 44.103121, "lng": -115.9354, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boise"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.585908, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Naylor", "lng": -90.61875, "zip_code": "63953"}
+{"locality": "Naylor", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Naylor"], "postal_code": "63953", "lat": 36.585908, "lng": -90.61875, "type": "STANDARD", "counties": [{"fips": "181", "name": "Ripley"}, {"fips": "023", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.450972, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Beowawe", "lng": -116.51585, "zip_code": "89821"}
+{"locality": "Crescent Valley", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Beowawe", "Crescent Valley", "Crescent Vly", "Emigrant Pass"], "postal_code": "89821", "lat": 40.450972, "lng": -116.51585, "type": "STANDARD", "counties": [{"fips": "011", "name": "Eureka"}]}

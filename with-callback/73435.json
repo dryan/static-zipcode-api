@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.354547, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fox", "lng": -97.4843, "zip_code": "73435"});
+zipapicallback({"locality": "Fox", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fox"], "postal_code": "73435", "lat": 34.354547, "lng": -97.4843, "type": "POBOX", "counties": [{"fips": "019", "name": "Carter"}]});

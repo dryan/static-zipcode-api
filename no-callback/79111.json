@@ -1,1 +1,1 @@
-{"lat": 35.226552, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Amarillo", "lng": -101.67875, "zip_code": "79111"}
+{"locality": "Amarillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Amarillo"], "postal_code": "79111", "lat": 35.226552, "lng": -101.67875, "type": "STANDARD", "counties": [{"fips": "375", "name": "Potter"}]}

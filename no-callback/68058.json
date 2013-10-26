@@ -1,1 +1,1 @@
-{"lat": 41.003188, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "South Bend", "lng": -96.24529, "zip_code": "68058"}
+{"locality": "South Bend", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["South Bend"], "postal_code": "68058", "lat": 41.003188, "lng": -96.24529, "type": "POBOX", "counties": [{"fips": "025", "name": "Cass"}]}

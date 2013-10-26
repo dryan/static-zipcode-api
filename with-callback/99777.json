@@ -1,1 +1,1 @@
-zipapicallback({"lat": 65.172029, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tanana", "lng": -152.08258, "zip_code": "99777"});
+zipapicallback({"locality": "Tanana", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Tanana"], "postal_code": "99777", "lat": 65.172029, "lng": -152.08258, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

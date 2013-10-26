@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.904209, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Buffalo Mills", "lng": -78.70159, "zip_code": "15534"});
+zipapicallback({"locality": "Buffalo Mills", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Buffalo Mills"], "postal_code": "15534", "lat": 39.904209, "lng": -78.70159, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "111", "name": "Somerset"}]});

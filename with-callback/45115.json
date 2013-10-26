@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.815056, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Decatur", "lng": -83.7039, "zip_code": "45115"});
+zipapicallback({"locality": "Decatur", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Decatur"], "postal_code": "45115", "lat": 38.815056, "lng": -83.7039, "type": "POBOX", "counties": [{"fips": "015", "name": "Brown"}]});

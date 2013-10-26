@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.399499, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Culloden", "lng": -82.06562, "zip_code": "25510"});
+zipapicallback({"locality": "Culloden", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Culloden"], "postal_code": "25510", "lat": 38.399499, "lng": -82.06562, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}, {"fips": "079", "name": "Putnam"}]});

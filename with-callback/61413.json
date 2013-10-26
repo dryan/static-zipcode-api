@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.189123, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Alpha", "lng": -90.36813, "zip_code": "61413"});
+zipapicallback({"locality": "Alpha", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Alpha"], "postal_code": "61413", "lat": 41.189123, "lng": -90.36813, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}, {"fips": "095", "name": "Knox"}]});

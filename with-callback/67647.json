@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.947283, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Long Island", "lng": -99.53467, "zip_code": "67647"});
+zipapicallback({"locality": "Long Island", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Long Island"], "postal_code": "67647", "lat": 39.947283, "lng": -99.53467, "type": "STANDARD", "counties": [{"fips": "147", "name": "Phillips"}, {"fips": "137", "name": "Norton"}]});

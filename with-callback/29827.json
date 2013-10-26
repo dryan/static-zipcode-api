@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.963048, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Fairfax", "lng": -81.24052, "zip_code": "29827"});
+zipapicallback({"locality": "Fairfax", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Fairfax"], "postal_code": "29827", "lat": 32.963048, "lng": -81.24052, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allendale"}, {"fips": "049", "name": "Hampton"}]});

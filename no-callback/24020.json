@@ -1,1 +1,1 @@
-{"lat": 37.357149, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Roanoke", "lng": -79.94541, "zip_code": "24020"}
+{"locality": "Roanoke", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hollins Clg", "Hollins College", "Roanoke"], "postal_code": "24020", "lat": 37.357149, "lng": -79.94541, "type": "POBOX", "counties": [{"fips": "161", "name": "Roanoke"}]}

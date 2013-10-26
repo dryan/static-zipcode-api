@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.72921, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Islip", "lng": -73.18073, "zip_code": "11730"});
+zipapicallback({"locality": "East Islip", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Islip"], "postal_code": "11730", "lat": 40.72921, "lng": -73.18073, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

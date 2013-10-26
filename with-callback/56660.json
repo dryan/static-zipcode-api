@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.954759, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mizpah", "lng": -94.20965, "zip_code": "56660"});
+zipapicallback({"locality": "Mizpah", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mizpah"], "postal_code": "56660", "lat": 47.954759, "lng": -94.20965, "type": "STANDARD", "counties": [{"fips": "071", "name": "Koochiching"}]});

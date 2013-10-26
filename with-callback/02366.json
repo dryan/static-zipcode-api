@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.854063, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Carver", "lng": -70.66088, "zip_code": "02366"});
+zipapicallback({"locality": "South Carver", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["South Carver"], "postal_code": "02366", "lat": 41.854063, "lng": -70.66088, "type": "POBOX", "counties": [{"fips": "023", "name": "Plymouth"}]});

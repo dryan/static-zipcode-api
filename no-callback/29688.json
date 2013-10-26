@@ -1,1 +1,1 @@
-{"lat": 35.068914, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Tigerville", "lng": -82.37061, "zip_code": "29688"}
+{"locality": "Tigerville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Tigerville"], "postal_code": "29688", "lat": 35.068914, "lng": -82.37061, "type": "POBOX", "counties": [{"fips": "045", "name": "Greenville"}]}

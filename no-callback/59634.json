@@ -1,1 +1,1 @@
-{"lat": 46.479732, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Montana City", "lng": -111.97496, "zip_code": "59634"}
+{"locality": "Clancy", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Clancy", "Montana City"], "postal_code": "59634", "lat": 46.479732, "lng": -111.97496, "type": "STANDARD", "counties": [{"fips": "043", "name": "Jefferson"}]}

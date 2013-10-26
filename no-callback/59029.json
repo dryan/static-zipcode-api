@@ -1,1 +1,1 @@
-{"lat": 45.391138, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fromberg", "lng": -108.89916, "zip_code": "59029"}
+{"locality": "Fromberg", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fromberg"], "postal_code": "59029", "lat": 45.391138, "lng": -108.89916, "type": "STANDARD", "counties": [{"fips": "009", "name": "Carbon"}]}

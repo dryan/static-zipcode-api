@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.447856, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rockton", "lng": -89.08485, "zip_code": "61072"});
+zipapicallback({"locality": "Rockton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Rockton"], "postal_code": "61072", "lat": 42.447856, "lng": -89.08485, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}]});

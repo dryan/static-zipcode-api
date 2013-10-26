@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.459383, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clinton", "lng": -96.44694, "zip_code": "56225"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clinton"], "postal_code": "56225", "lat": 45.459383, "lng": -96.44694, "type": "STANDARD", "counties": [{"fips": "011", "name": "Big Stone"}]});

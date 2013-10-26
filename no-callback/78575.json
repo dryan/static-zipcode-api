@@ -1,1 +1,1 @@
-{"lat": 26.023905, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Olmito", "lng": -97.54457, "zip_code": "78575"}
+{"locality": "Olmito", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Olmito", "Rancho Viejo"], "postal_code": "78575", "lat": 26.023905, "lng": -97.54457, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]}

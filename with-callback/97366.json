@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.567998, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "South Beach", "lng": -124.05401, "zip_code": "97366"});
+zipapicallback({"locality": "South Beach", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Newport", "South Beach"], "postal_code": "97366", "lat": 44.567998, "lng": -124.05401, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]});

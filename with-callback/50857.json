@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.944133, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Nodaway", "lng": -94.87537, "zip_code": "50857"});
+zipapicallback({"locality": "Nodaway", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Nodaway"], "postal_code": "50857", "lat": 40.944133, "lng": -94.87537, "type": "STANDARD", "counties": [{"fips": "003", "name": "Adams"}, {"fips": "137", "name": "Montgomery"}, {"fips": "173", "name": "Taylor"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.660742, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Natchez", "lng": -92.98886, "zip_code": "71456"}
+{"locality": "Natchez", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Natchez"], "postal_code": "71456", "lat": 31.660742, "lng": -92.98886, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}]}

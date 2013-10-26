@@ -1,1 +1,1 @@
-{"lat": 39.0509, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Rockville", "lng": -77.12261, "zip_code": "20852"}
+{"locality": "Rockville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["N Bethesda", "North Bethesda", "Rockville"], "postal_code": "20852", "lat": 39.0509, "lng": -77.12261, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.335904, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "East Tawas", "lng": -83.48516, "zip_code": "48730"});
+zipapicallback({"locality": "East Tawas", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["East Tawas"], "postal_code": "48730", "lat": 44.335904, "lng": -83.48516, "type": "STANDARD", "counties": [{"fips": "069", "name": "Iosco"}, {"fips": "029", "name": "Charlevoix"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.197932, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Perley", "lng": -96.72953, "zip_code": "56574"}
+{"locality": "Perley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Perley"], "postal_code": "56574", "lat": 47.197932, "lng": -96.72953, "type": "STANDARD", "counties": [{"fips": "107", "name": "Norman"}, {"fips": "027", "name": "Clay"}]}

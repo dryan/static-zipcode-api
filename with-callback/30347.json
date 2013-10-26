@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atl", "Atlanta", "Executive Park"], "postal_code": "30347", "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "121", "name": "Fulton"}]});

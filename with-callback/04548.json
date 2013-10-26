@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.810548, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Mac Mahan", "lng": -69.74325, "zip_code": "04548"});
+zipapicallback({"locality": "Georgetown", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Georgetown", "Mac Mahan"], "postal_code": "04548", "lat": 43.810548, "lng": -69.74325, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]});

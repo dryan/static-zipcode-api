@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.866236, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Chanhassen", "lng": -93.54487, "zip_code": "55317"});
+zipapicallback({"locality": "Chanhassen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Chanhassen"], "postal_code": "55317", "lat": 44.866236, "lng": -93.54487, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}, {"fips": "053", "name": "Hennepin"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.695782, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Springville", "lng": -75.91836, "zip_code": "18844"}
+{"locality": "Springville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Springville"], "postal_code": "18844", "lat": 41.695782, "lng": -75.91836, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}, {"fips": "131", "name": "Wyoming"}]}

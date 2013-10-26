@@ -1,1 +1,1 @@
-{"lat": 40.134957, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Layton", "lng": -90.55222, "zip_code": "62681"}
+{"locality": "Rushville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Pleasant View", "Ray", "Rushville"], "postal_code": "62681", "lat": 40.134957, "lng": -90.55222, "type": "STANDARD", "counties": [{"fips": "169", "name": "Schuyler"}, {"fips": "009", "name": "Brown"}]}

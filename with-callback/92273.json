@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.792631, "region": {"abbr": "CA", "name": "California"}, "locality": "Seeley", "lng": -115.69162, "zip_code": "92273"});
+zipapicallback({"locality": "Seeley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Seeley"], "postal_code": "92273", "lat": 32.792631, "lng": -115.69162, "type": "POBOX", "counties": [{"fips": "025", "name": "Imperial"}]});

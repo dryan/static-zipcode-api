@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.40137, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Avoca", "lng": -94.07106, "zip_code": "72711"});
+zipapicallback({"locality": "Avoca", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Avoca"], "postal_code": "72711", "lat": 36.40137, "lng": -94.07106, "type": "POBOX", "counties": [{"fips": "007", "name": "Benton"}]});

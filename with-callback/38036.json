@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.320487, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gallaway", "lng": -89.6215, "zip_code": "38036"});
+zipapicallback({"locality": "Gallaway", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gallaway"], "postal_code": "38036", "lat": 35.320487, "lng": -89.6215, "type": "POBOX", "counties": [{"fips": "047", "name": "Fayette"}]});

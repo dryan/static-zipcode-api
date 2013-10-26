@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.629735, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Camden", "lng": -84.67557, "zip_code": "45311"});
+zipapicallback({"locality": "Camden", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Camden"], "postal_code": "45311", "lat": 39.629735, "lng": -84.67557, "type": "STANDARD", "counties": [{"fips": "135", "name": "Preble"}]});

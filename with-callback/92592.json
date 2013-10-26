@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.495343, "region": {"abbr": "CA", "name": "California"}, "locality": "Temecula", "lng": -117.07657, "zip_code": "92592"});
+zipapicallback({"locality": "Temecula", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Temecula"], "postal_code": "92592", "lat": 33.495343, "lng": -117.07657, "type": "STANDARD", "counties": []});

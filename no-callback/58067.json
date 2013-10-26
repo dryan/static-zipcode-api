@@ -1,1 +1,1 @@
-{"lat": 46.072821, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Rutland", "lng": -97.49872, "zip_code": "58067"}
+{"locality": "Rutland", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Rutland"], "postal_code": "58067", "lat": 46.072821, "lng": -97.49872, "type": "STANDARD", "counties": [{"fips": "081", "name": "Sargent"}]}

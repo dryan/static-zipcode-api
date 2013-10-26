@@ -1,1 +1,1 @@
-{"lat": 39.356075, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Edson", "lng": -101.51227, "zip_code": "67733"}
+{"locality": "Edson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Edson"], "postal_code": "67733", "lat": 39.356075, "lng": -101.51227, "type": "STANDARD", "counties": [{"fips": "181", "name": "Sherman"}]}

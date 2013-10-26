@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.994849, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Felch", "lng": -87.81615, "zip_code": "49831"});
+zipapicallback({"locality": "Felch", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Felch", "Iron Mountain"], "postal_code": "49831", "lat": 45.994849, "lng": -87.81615, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickinson"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.544549, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Highlands Ranch", "lng": -104.96808, "zip_code": "80126"}
+{"locality": "Littleton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hghlnds Ranch", "Highlands Ranch", "Littleton"], "postal_code": "80126", "lat": 39.544549, "lng": -104.96808, "type": "STANDARD", "counties": [{"fips": "035", "name": "Douglas"}]}

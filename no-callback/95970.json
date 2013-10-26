@@ -1,1 +1,1 @@
-{"lat": 39.415041, "region": {"abbr": "CA", "name": "California"}, "locality": "Princeton", "lng": -122.02487, "zip_code": "95970"}
+{"locality": "Princeton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Princeton"], "postal_code": "95970", "lat": 39.415041, "lng": -122.02487, "type": "STANDARD", "counties": [{"fips": "011", "name": "Colusa"}, {"fips": "021", "name": "Glenn"}]}

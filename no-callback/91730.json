@@ -1,1 +1,1 @@
-{"lat": 34.104555, "region": {"abbr": "CA", "name": "California"}, "locality": "Rancho Cucamonga", "lng": -117.58734, "zip_code": "91730"}
+{"locality": "Rancho Cucamonga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rancho Cucamonga", "Rch Cucamonga"], "postal_code": "91730", "lat": 34.104555, "lng": -117.58734, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}, {"fips": "021", "name": "Glenn"}]}

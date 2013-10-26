@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.451314, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lake Lure", "lng": -82.185, "zip_code": "28746"});
+zipapicallback({"locality": "Lake Lure", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lake Lure"], "postal_code": "28746", "lat": 35.451314, "lng": -82.185, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rutherford"}]});

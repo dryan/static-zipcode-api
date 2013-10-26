@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.289162, "region": {"abbr": "NY", "name": "New York"}, "locality": "Waccabuc", "lng": -73.58834, "zip_code": "10597"});
+zipapicallback({"locality": "Waccabuc", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Waccabuc"], "postal_code": "10597", "lat": 41.289162, "lng": -73.58834, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

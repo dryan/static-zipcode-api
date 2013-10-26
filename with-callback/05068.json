@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.808623, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "South Royalton", "lng": -72.53208, "zip_code": "05068"});
+zipapicallback({"locality": "South Royalton", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["S Royalton", "South Royalton"], "postal_code": "05068", "lat": 43.808623, "lng": -72.53208, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

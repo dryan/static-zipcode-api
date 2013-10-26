@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.53619, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Glenoma", "lng": -122.11766, "zip_code": "98336"});
+zipapicallback({"locality": "Glenoma", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Glenoma"], "postal_code": "98336", "lat": 46.53619, "lng": -122.11766, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]});

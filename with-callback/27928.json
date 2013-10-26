@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.849234, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Creswell", "lng": -76.4067, "zip_code": "27928"});
+zipapicallback({"locality": "Creswell", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Creswell"], "postal_code": "27928", "lat": 35.849234, "lng": -76.4067, "type": "STANDARD", "counties": [{"fips": "187", "name": "Washington"}, {"fips": "177", "name": "Tyrrell"}]});

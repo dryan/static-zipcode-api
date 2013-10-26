@@ -1,1 +1,1 @@
-{"lat": 40.381613, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Alexandria", "lng": -91.50598, "zip_code": "63430"}
+{"locality": "Alexandria", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Alexandria"], "postal_code": "63430", "lat": 40.381613, "lng": -91.50598, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}]}

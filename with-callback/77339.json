@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.053368, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Humble", "lng": -95.21807, "zip_code": "77339"});
+zipapicallback({"locality": "Kingwood", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Humble", "Kingwood"], "postal_code": "77339", "lat": 30.053368, "lng": -95.21807, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}, {"fips": "339", "name": "Montgomery"}]});

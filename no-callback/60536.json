@@ -1,1 +1,1 @@
-{"lat": 41.598631, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Millbrook", "lng": -88.55317, "zip_code": "60536"}
+{"locality": "Millbrook", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Millbrook"], "postal_code": "60536", "lat": 41.598631, "lng": -88.55317, "type": "POBOX", "counties": [{"fips": "093", "name": "Kendall"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.158935, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Bluff", "lng": -109.52773, "zip_code": "84512"});
+zipapicallback({"locality": "Bluff", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bluff"], "postal_code": "84512", "lat": 37.158935, "lng": -109.52773, "type": "POBOX", "counties": [{"fips": "037", "name": "San Juan"}]});

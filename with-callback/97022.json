@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.349244, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Eagle Creek", "lng": -122.33554, "zip_code": "97022"});
+zipapicallback({"locality": "Eagle Creek", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Eagle Creek"], "postal_code": "97022", "lat": 45.349244, "lng": -122.33554, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]});

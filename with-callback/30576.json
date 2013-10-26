@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.846806, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Tiger", "lng": -83.48178, "zip_code": "30576"});
+zipapicallback({"locality": "Tiger", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Tiger"], "postal_code": "30576", "lat": 34.846806, "lng": -83.48178, "type": "STANDARD", "counties": [{"fips": "241", "name": "Rabun"}]});

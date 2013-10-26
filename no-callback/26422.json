@@ -1,1 +1,1 @@
-{"lat": 39.285303, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Reynoldsville", "lng": -80.44628, "zip_code": "26422"}
+{"locality": "Reynoldsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Reynoldsville"], "postal_code": "26422", "lat": 39.285303, "lng": -80.44628, "type": "POBOX", "counties": [{"fips": "033", "name": "Harrison"}]}

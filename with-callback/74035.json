@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.417205, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hominy", "lng": -96.38379, "zip_code": "74035"});
+zipapicallback({"locality": "Hominy", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hominy"], "postal_code": "74035", "lat": 36.417205, "lng": -96.38379, "type": "STANDARD", "counties": [{"fips": "113", "name": "Osage"}]});

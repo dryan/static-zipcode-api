@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.984412, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wyeville", "lng": -90.48416, "zip_code": "54660"});
+zipapicallback({"locality": "Tomah", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tomah", "Wyeville"], "postal_code": "54660", "lat": 43.984412, "lng": -90.48416, "type": "STANDARD", "counties": [{"fips": "081", "name": "Monroe"}]});

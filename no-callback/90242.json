@@ -1,1 +1,1 @@
-{"lat": 33.92018, "region": {"abbr": "CA", "name": "California"}, "locality": "Downey", "lng": -118.14291, "zip_code": "90242"}
+{"locality": "Downey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Downey"], "postal_code": "90242", "lat": 33.92018, "lng": -118.14291, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

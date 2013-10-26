@@ -1,1 +1,1 @@
-{"lat": 46.866805, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Benge", "lng": -118.13247, "zip_code": "99105"}
+{"locality": "Benge", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Benge"], "postal_code": "99105", "lat": 46.866805, "lng": -118.13247, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

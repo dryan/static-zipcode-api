@@ -1,1 +1,1 @@
-{"lat": 19.447717, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Volcano", "lng": -155.21012, "zip_code": "96785"}
+{"locality": "Volcano", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Volcano"], "postal_code": "96785", "lat": 19.447717, "lng": -155.21012, "type": "POBOX", "counties": [{"fips": "001", "name": "Hawaii"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.729239, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Kent", "lng": -73.45553, "zip_code": "06757"}
+{"locality": "Kent", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Kent"], "postal_code": "06757", "lat": 41.729239, "lng": -73.45553, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

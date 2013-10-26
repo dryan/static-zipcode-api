@@ -1,1 +1,1 @@
-{"lat": 37.163412, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Rolla", "lng": -101.61909, "zip_code": "67954"}
+{"locality": "Rolla", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Rolla"], "postal_code": "67954", "lat": 37.163412, "lng": -101.61909, "type": "STANDARD", "counties": [{"fips": "129", "name": "Morton"}, {"fips": "189", "name": "Stevens"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.14004, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sussex", "lng": -88.22641, "zip_code": "53089"});
+zipapicallback({"locality": "Sussex", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lisbon", "Sussex"], "postal_code": "53089", "lat": 43.14004, "lng": -88.22641, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}]});

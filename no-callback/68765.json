@@ -1,1 +1,1 @@
-{"lat": 42.35077, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Osmond", "lng": -97.61574, "zip_code": "68765"}
+{"locality": "Osmond", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Foster", "Osmond"], "postal_code": "68765", "lat": 42.35077, "lng": -97.61574, "type": "STANDARD", "counties": [{"fips": "139", "name": "Pierce"}]}

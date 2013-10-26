@@ -1,1 +1,1 @@
-{"lat": 37.667594, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pickaway", "lng": -80.54184, "zip_code": "24976"}
+{"locality": "Sinks Grove", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pickaway", "Sinks Grove"], "postal_code": "24976", "lat": 37.667594, "lng": -80.54184, "type": "STANDARD", "counties": [{"fips": "063", "name": "Monroe"}, {"fips": "025", "name": "Greenbrier"}]}

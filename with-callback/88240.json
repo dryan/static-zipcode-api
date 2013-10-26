@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.70778, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Hobbs", "lng": -103.16616, "zip_code": "88240"});
+zipapicallback({"locality": "Hobbs", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Hobbs", "Oil Center"], "postal_code": "88240", "lat": 32.70778, "lng": -103.16616, "type": "STANDARD", "counties": [{"fips": "025", "name": "Lea"}]});

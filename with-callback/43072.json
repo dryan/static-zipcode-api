@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.123455, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Saint Paris", "lng": -83.95416, "zip_code": "43072"});
+zipapicallback({"locality": "Saint Paris", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Saint Paris"], "postal_code": "43072", "lat": 40.123455, "lng": -83.95416, "type": "STANDARD", "counties": [{"fips": "021", "name": "Champaign"}, {"fips": "109", "name": "Miami"}]});

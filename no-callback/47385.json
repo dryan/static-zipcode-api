@@ -1,1 +1,1 @@
-{"lat": 39.832904, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Spiceland", "lng": -85.44117, "zip_code": "47385"}
+{"locality": "Spiceland", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Spiceland"], "postal_code": "47385", "lat": 39.832904, "lng": -85.44117, "type": "STANDARD", "counties": [{"fips": "065", "name": "Henry"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.12515, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Fiskdale", "lng": -72.12393, "zip_code": "01518"}
+{"locality": "Fiskdale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Fiskdale", "Sturbridge"], "postal_code": "01518", "lat": 42.12515, "lng": -72.12393, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.909491, "region": {"abbr": "CA", "name": "California"}, "locality": "Yermo", "lng": -116.84058, "zip_code": "92398"}
+{"locality": "Yermo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yermo"], "postal_code": "92398", "lat": 34.909491, "lng": -116.84058, "type": "POBOX", "counties": [{"fips": "071", "name": "San Bernardino"}]}

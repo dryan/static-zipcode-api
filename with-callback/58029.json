@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.118212, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Erie", "lng": -97.38881, "zip_code": "58029"});
+zipapicallback({"locality": "Erie", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Erie"], "postal_code": "58029", "lat": 47.118212, "lng": -97.38881, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]});

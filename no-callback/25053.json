@@ -1,1 +1,1 @@
-{"lat": 38.05738, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Danville", "lng": -81.86082, "zip_code": "25053"}
+{"locality": "Danville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Danville"], "postal_code": "25053", "lat": 38.05738, "lng": -81.86082, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.935197, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hughes", "lng": -90.44153, "zip_code": "72348"}
+{"locality": "Hughes", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Horseshoe Lake", "Horseshoe Lk", "Hughes"], "postal_code": "72348", "lat": 34.935197, "lng": -90.44153, "type": "STANDARD", "counties": [{"fips": "123", "name": "St. Francis"}]}

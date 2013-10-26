@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.13702, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pineview", "lng": -83.52604, "zip_code": "31071"});
+zipapicallback({"locality": "Pineview", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pineview"], "postal_code": "31071", "lat": 32.13702, "lng": -83.52604, "type": "STANDARD", "counties": [{"fips": "235", "name": "Pulaski"}, {"fips": "315", "name": "Wilcox"}]});

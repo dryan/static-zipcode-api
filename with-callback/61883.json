@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.040115, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Westville", "lng": -87.63685, "zip_code": "61883"});
+zipapicallback({"locality": "Westville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Westville"], "postal_code": "61883", "lat": 40.040115, "lng": -87.63685, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.798406, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Green Sulphur Sp", "lng": -80.77039, "zip_code": "25966"});
+zipapicallback({"locality": "Green Sulphur Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Green Sulphur Springs", "Grn Sphr Spgs", "Meadow Bridge"], "postal_code": "25966", "lat": 37.798406, "lng": -80.77039, "type": "POBOX", "counties": [{"fips": "089", "name": "Summers"}]});

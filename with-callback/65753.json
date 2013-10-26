@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.000766, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sparta", "lng": -93.07945, "zip_code": "65753"});
+zipapicallback({"locality": "Sparta", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sparta"], "postal_code": "65753", "lat": 37.000766, "lng": -93.07945, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}]});

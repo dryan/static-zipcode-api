@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.254188, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ashcamp", "lng": -82.47961, "zip_code": "41512"});
+zipapicallback({"locality": "Ashcamp", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ashcamp"], "postal_code": "41512", "lat": 37.254188, "lng": -82.47961, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

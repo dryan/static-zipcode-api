@@ -1,1 +1,1 @@
-{"lat": 47.702563, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Mandaree", "lng": -102.58745, "zip_code": "58757"}
+{"locality": "Mandaree", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Mandaree"], "postal_code": "58757", "lat": 47.702563, "lng": -102.58745, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}, {"fips": "025", "name": "Dunn"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.985274, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Helen", "lng": -81.23495, "zip_code": "32744"});
+zipapicallback({"locality": "Lake Helen", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Helen"], "postal_code": "32744", "lat": 28.985274, "lng": -81.23495, "type": "STANDARD", "counties": [{"fips": "127", "name": "Volusia"}]});

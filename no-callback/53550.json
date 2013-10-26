@@ -1,1 +1,1 @@
-{"lat": 42.567333, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Juda", "lng": -89.49397, "zip_code": "53550"}
+{"locality": "Juda", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Juda"], "postal_code": "53550", "lat": 42.567333, "lng": -89.49397, "type": "STANDARD", "counties": [{"fips": "045", "name": "Green"}]}

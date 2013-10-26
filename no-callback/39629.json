@@ -1,1 +1,1 @@
-{"lat": 31.441613, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Bogue Chitto", "lng": -90.45281, "zip_code": "39629"}
+{"locality": "Bogue Chitto", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bogue Chitto"], "postal_code": "39629", "lat": 31.441613, "lng": -90.45281, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lincoln"}, {"fips": "113", "name": "Pike"}, {"fips": "091", "name": "Marion"}]}

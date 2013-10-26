@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.991859, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hahira", "lng": -83.36415, "zip_code": "31632"});
+zipapicallback({"locality": "Hahira", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hahira"], "postal_code": "31632", "lat": 30.991859, "lng": -83.36415, "type": "STANDARD", "counties": [{"fips": "185", "name": "Lowndes"}, {"fips": "075", "name": "Cook"}]});

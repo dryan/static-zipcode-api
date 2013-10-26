@@ -1,1 +1,1 @@
-{"lat": 36.02239, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Wagon Mound", "lng": -104.65018, "zip_code": "87752"}
+{"locality": "Wagon Mound", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Wagon Mound"], "postal_code": "87752", "lat": 36.02239, "lng": -104.65018, "type": "STANDARD", "counties": [{"fips": "033", "name": "Mora"}]}

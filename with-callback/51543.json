@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.6485, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kimballton", "lng": -95.08334, "zip_code": "51543"});
+zipapicallback({"locality": "Kimballton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kimballton"], "postal_code": "51543", "lat": 41.6485, "lng": -95.08334, "type": "STANDARD", "counties": [{"fips": "009", "name": "Audubon"}, {"fips": "165", "name": "Shelby"}]});

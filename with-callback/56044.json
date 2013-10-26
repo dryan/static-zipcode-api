@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.555899, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Henderson", "lng": -93.95354, "zip_code": "56044"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Henderson"], "postal_code": "56044", "lat": 44.555899, "lng": -93.95354, "type": "STANDARD", "counties": [{"fips": "143", "name": "Sibley"}]});

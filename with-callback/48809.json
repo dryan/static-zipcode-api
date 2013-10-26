@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.085313, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Belding", "lng": -85.24478, "zip_code": "48809"});
+zipapicallback({"locality": "Belding", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Belding"], "postal_code": "48809", "lat": 43.085313, "lng": -85.24478, "type": "STANDARD", "counties": [{"fips": "067", "name": "Ionia"}]});

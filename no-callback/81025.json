@@ -1,1 +1,1 @@
-{"lat": 38.243711, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Boone", "lng": -104.23282, "zip_code": "81025"}
+{"locality": "Boone", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Boone"], "postal_code": "81025", "lat": 38.243711, "lng": -104.23282, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pueblo"}]}

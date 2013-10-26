@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.899778, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "New Richland", "lng": -93.53178, "zip_code": "56072"});
+zipapicallback({"locality": "New Richland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["New Richland"], "postal_code": "56072", "lat": 43.899778, "lng": -93.53178, "type": "STANDARD", "counties": [{"fips": "161", "name": "Waseca"}, {"fips": "043", "name": "Faribault"}, {"fips": "047", "name": "Freeborn"}, {"fips": "147", "name": "Steele"}]});

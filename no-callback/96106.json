@@ -1,1 +1,1 @@
-{"lat": 39.743835, "region": {"abbr": "CA", "name": "California"}, "locality": "Clio", "lng": -120.58114, "zip_code": "96106"}
+{"locality": "Clio", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clio"], "postal_code": "96106", "lat": 39.743835, "lng": -120.58114, "type": "POBOX", "counties": [{"fips": "063", "name": "Plumas"}]}

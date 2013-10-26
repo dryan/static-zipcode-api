@@ -1,1 +1,1 @@
-{"lat": 47.374343, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Allyn", "lng": -122.8388, "zip_code": "98524"}
+{"locality": "Allyn", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Allyn"], "postal_code": "98524", "lat": 47.374343, "lng": -122.8388, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mason"}]}

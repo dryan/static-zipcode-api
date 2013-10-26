@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.566197, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Midland", "lng": -84.84122, "zip_code": "31820"});
+zipapicallback({"locality": "Midland", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Midland"], "postal_code": "31820", "lat": 32.566197, "lng": -84.84122, "type": "STANDARD", "counties": [{"fips": "215", "name": "Muscogee"}, {"fips": "145", "name": "Harris"}]});

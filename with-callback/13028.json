@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.279405, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bernhards Bay", "lng": -75.93107, "zip_code": "13028"});
+zipapicallback({"locality": "Bernhards Bay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bernhards Bay"], "postal_code": "13028", "lat": 43.279405, "lng": -75.93107, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}]});

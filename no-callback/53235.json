@@ -1,1 +1,1 @@
-{"lat": 42.971156, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milwaukee", "lng": -87.87452, "zip_code": "53235"}
+{"locality": "Saint Francis", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Milwaukee", "Saint Francis", "St Francis"], "postal_code": "53235", "lat": 42.971156, "lng": -87.87452, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.082894, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Batavia", "lng": -84.15319, "zip_code": "45103"});
+zipapicallback({"locality": "Batavia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Batavia"], "postal_code": "45103", "lat": 39.082894, "lng": -84.15319, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}]});

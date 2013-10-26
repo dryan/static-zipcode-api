@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.470746, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ramsay", "lng": -89.99603, "zip_code": "49959"});
+zipapicallback({"locality": "Ramsay", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ramsay"], "postal_code": "49959", "lat": 46.470746, "lng": -89.99603, "type": "POBOX", "counties": [{"fips": "053", "name": "Gogebic"}]});

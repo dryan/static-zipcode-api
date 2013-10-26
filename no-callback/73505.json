@@ -1,1 +1,1 @@
-{"lat": 34.613973, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lawton", "lng": -98.46255, "zip_code": "73505"}
+{"locality": "Lawton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lawton"], "postal_code": "73505", "lat": 34.613973, "lng": -98.46255, "type": "STANDARD", "counties": [{"fips": "031", "name": "Comanche"}]}

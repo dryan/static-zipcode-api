@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.734171, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Swansea", "lng": -81.07563, "zip_code": "29160"});
+zipapicallback({"locality": "Swansea", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Swansea"], "postal_code": "29160", "lat": 33.734171, "lng": -81.07563, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lexington"}, {"fips": "017", "name": "Calhoun"}, {"fips": "075", "name": "Orangeburg"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.31346, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tucson", "lng": -110.92282, "zip_code": "85718"}
+{"locality": "Tucson", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tucson"], "postal_code": "85718", "lat": 32.31346, "lng": -110.92282, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}]}

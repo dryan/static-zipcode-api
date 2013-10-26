@@ -1,1 +1,1 @@
-{"lat": 43.967306, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ludington", "lng": -86.43044, "zip_code": "49431"}
+{"locality": "Ludington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ludington"], "postal_code": "49431", "lat": 43.967306, "lng": -86.43044, "type": "STANDARD", "counties": [{"fips": "105", "name": "Mason"}, {"fips": "081", "name": "Kent"}]}

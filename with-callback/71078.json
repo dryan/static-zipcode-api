@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.278422, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Stonewall", "lng": -93.79469, "zip_code": "71078"});
+zipapicallback({"locality": "Stonewall", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Stonewall"], "postal_code": "71078", "lat": 32.278422, "lng": -93.79469, "type": "STANDARD", "counties": [{"fips": "031", "name": "De Soto"}]});

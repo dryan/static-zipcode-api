@@ -1,1 +1,1 @@
-{"lat": 40.89095, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bronx", "lng": -73.84702, "zip_code": "10466"}
+{"locality": "Bronx", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bronx"], "postal_code": "10466", "lat": 40.89095, "lng": -73.84702, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bronx"}, {"fips": "061", "name": "New York"}]}

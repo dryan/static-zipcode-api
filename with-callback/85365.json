@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.700018, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Yuma Proving Gro", "lng": -114.52671, "zip_code": "85365"});
+zipapicallback({"locality": "Yuma", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Martinez Lake", "Ypg", "Yuma", "Yuma Proving Ground"], "postal_code": "85365", "lat": 32.700018, "lng": -114.52671, "type": "STANDARD", "counties": [{"fips": "027", "name": "Yuma"}]});

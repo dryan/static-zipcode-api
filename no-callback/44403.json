@@ -1,1 +1,1 @@
-{"lat": 41.239987, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Brookfield", "lng": -80.58346, "zip_code": "44403"}
+{"locality": "Brookfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Brookfield"], "postal_code": "44403", "lat": 41.239987, "lng": -80.58346, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

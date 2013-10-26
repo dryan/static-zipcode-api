@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.192102, "region": {"abbr": "CA", "name": "California"}, "locality": "Altadena", "lng": -118.14206, "zip_code": "91001"});
+zipapicallback({"locality": "Altadena", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Altadena"], "postal_code": "91001", "lat": 34.192102, "lng": -118.14206, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

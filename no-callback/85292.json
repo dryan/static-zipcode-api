@@ -1,1 +1,1 @@
-{"lat": 32.945838, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Winkelman", "lng": -110.72198, "zip_code": "85292"}
+{"locality": "Winkelman", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Dudleyville", "Winkelman"], "postal_code": "85292", "lat": 32.945838, "lng": -110.72198, "type": "STANDARD", "counties": [{"fips": "007", "name": "Gila"}, {"fips": "013", "name": "Maricopa"}]}

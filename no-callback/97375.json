@@ -1,1 +1,1 @@
-{"lat": 45.004218, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Scotts Mills", "lng": -122.59658, "zip_code": "97375"}
+{"locality": "Scotts Mills", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Scotts Mills"], "postal_code": "97375", "lat": 45.004218, "lng": -122.59658, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}, {"fips": "005", "name": "Clackamas"}]}

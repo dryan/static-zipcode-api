@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.769334, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Aimwell", "lng": -91.97998, "zip_code": "71401"});
+zipapicallback({"locality": "Aimwell", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Aimwell"], "postal_code": "71401", "lat": 31.769334, "lng": -91.97998, "type": "STANDARD", "counties": [{"fips": "025", "name": "Catahoula"}]});

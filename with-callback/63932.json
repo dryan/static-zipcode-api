@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.687259, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Broseley", "lng": -90.23594, "zip_code": "63932"});
+zipapicallback({"locality": "Broseley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Broseley"], "postal_code": "63932", "lat": 36.687259, "lng": -90.23594, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]});

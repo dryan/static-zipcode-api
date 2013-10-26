@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.61546, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wainwright", "lng": -95.56851, "zip_code": "74468"});
+zipapicallback({"locality": "Wainwright", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wainwright"], "postal_code": "74468", "lat": 35.61546, "lng": -95.56851, "type": "POBOX", "counties": [{"fips": "101", "name": "Muskogee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.648631, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fitzhugh", "lng": -96.73885, "zip_code": "74843"});
+zipapicallback({"locality": "Fitzhugh", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fitzhugh"], "postal_code": "74843", "lat": 34.648631, "lng": -96.73885, "type": "STANDARD", "counties": [{"fips": "123", "name": "Pontotoc"}]});

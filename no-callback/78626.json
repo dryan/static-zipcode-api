@@ -1,1 +1,1 @@
-{"lat": 30.643058, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Georgetown", "lng": -97.64713, "zip_code": "78626"}
+{"locality": "Georgetown", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Georgetown"], "postal_code": "78626", "lat": 30.643058, "lng": -97.64713, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}, {"fips": "493", "name": "Wilson"}]}

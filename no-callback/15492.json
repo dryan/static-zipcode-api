@@ -1,1 +1,1 @@
-{"lat": 40.120876, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wickhaven", "lng": -79.77089, "zip_code": "15492"}
+{"locality": "Wickhaven", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wickhaven"], "postal_code": "15492", "lat": 40.120876, "lng": -79.77089, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]}

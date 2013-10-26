@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.452556, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Bremen", "lng": -84.38731, "zip_code": "45869"});
+zipapicallback({"locality": "New Bremen", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Bremen"], "postal_code": "45869", "lat": 40.452556, "lng": -84.38731, "type": "STANDARD", "counties": [{"fips": "011", "name": "Auglaize"}, {"fips": "149", "name": "Shelby"}, {"fips": "107", "name": "Mercer"}]});

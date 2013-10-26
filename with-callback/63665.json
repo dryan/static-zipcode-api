@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.313752, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Redford", "lng": -90.84892, "zip_code": "63665"});
+zipapicallback({"locality": "Redford", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Redford"], "postal_code": "63665", "lat": 37.313752, "lng": -90.84892, "type": "STANDARD", "counties": [{"fips": "179", "name": "Reynolds"}]});

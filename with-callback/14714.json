@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.279786, "region": {"abbr": "NY", "name": "New York"}, "locality": "Black Creek", "lng": -78.23769, "zip_code": "14714"});
+zipapicallback({"locality": "Black Creek", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Black Creek"], "postal_code": "14714", "lat": 42.279786, "lng": -78.23769, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]});

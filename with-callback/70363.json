@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.560581, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Houma", "lng": -90.6903, "zip_code": "70363"});
+zipapicallback({"locality": "Houma", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Houma"], "postal_code": "70363", "lat": 29.560581, "lng": -90.6903, "type": "STANDARD", "counties": [{"fips": "109", "name": "Terrebonne"}]});

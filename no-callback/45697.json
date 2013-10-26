@@ -1,1 +1,1 @@
-{"lat": 38.939364, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Winchester", "lng": -83.67195, "zip_code": "45697"}
+{"locality": "Winchester", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Winchester"], "postal_code": "45697", "lat": 38.939364, "lng": -83.67195, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "071", "name": "Highland"}, {"fips": "015", "name": "Brown"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.22948, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hudson", "lng": -73.75846, "zip_code": "12534"}
+{"locality": "Hudson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hudson"], "postal_code": "12534", "lat": 42.22948, "lng": -73.75846, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

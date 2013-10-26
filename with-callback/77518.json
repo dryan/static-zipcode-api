@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.504389, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bacliff", "lng": -94.98779, "zip_code": "77518"});
+zipapicallback({"locality": "Bacliff", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bacliff"], "postal_code": "77518", "lat": 29.504389, "lng": -94.98779, "type": "STANDARD", "counties": [{"fips": "167", "name": "Galveston"}]});

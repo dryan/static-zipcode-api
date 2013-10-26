@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.612253, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Zoar", "lng": -81.42168, "zip_code": "44697"});
+zipapicallback({"locality": "Zoar", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Zoar"], "postal_code": "44697", "lat": 40.612253, "lng": -81.42168, "type": "POBOX", "counties": [{"fips": "157", "name": "Tuscarawas"}]});

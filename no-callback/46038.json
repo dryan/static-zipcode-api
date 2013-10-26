@@ -1,1 +1,1 @@
-{"lat": 39.95645, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fishers", "lng": -86.00872, "zip_code": "46038"}
+{"locality": "Fishers", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fishers"], "postal_code": "46038", "lat": 39.95645, "lng": -86.00872, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamilton"}]}

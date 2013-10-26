@@ -1,1 +1,1 @@
-{"lat": 42.393206, "region": {"abbr": "NY", "name": "New York"}, "locality": "Machias", "lng": -78.52655, "zip_code": "14101"}
+{"locality": "Machias", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Machias"], "postal_code": "14101", "lat": 42.393206, "lng": -78.52655, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

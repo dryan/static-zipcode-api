@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.273028, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bernard", "lng": -90.81319, "zip_code": "52032"});
+zipapicallback({"locality": "Bernard", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bernard"], "postal_code": "52032", "lat": 42.273028, "lng": -90.81319, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]});

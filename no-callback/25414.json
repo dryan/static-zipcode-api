@@ -1,1 +1,1 @@
-{"lat": 39.279965, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Charles Town", "lng": -77.86203, "zip_code": "25414"}
+{"locality": "Charles Town", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Charles Town"], "postal_code": "25414", "lat": 39.279965, "lng": -77.86203, "type": "STANDARD", "counties": [{"fips": "037", "name": "Jefferson"}]}

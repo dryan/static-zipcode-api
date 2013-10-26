@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.638481, "region": {"abbr": "NY", "name": "New York"}, "locality": "Voorheesville", "lng": -73.95946, "zip_code": "12186"});
+zipapicallback({"locality": "Voorheesville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Voorheesville"], "postal_code": "12186", "lat": 42.638481, "lng": -73.95946, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

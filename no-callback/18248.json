@@ -1,1 +1,1 @@
-{"lat": 40.89707, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sheppton", "lng": -76.11711, "zip_code": "18248"}
+{"locality": "Sheppton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sheppton"], "postal_code": "18248", "lat": 40.89707, "lng": -76.11711, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.566735, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cambridge", "lng": -93.24381, "zip_code": "55008"});
+zipapicallback({"locality": "Cambridge", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cambridge"], "postal_code": "55008", "lat": 45.566735, "lng": -93.24381, "type": "STANDARD", "counties": [{"fips": "059", "name": "Isanti"}, {"fips": "025", "name": "Chisago"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.312232, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Charleston", "lng": -94.0371, "zip_code": "72933"}
+{"locality": "Charleston", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Charleston"], "postal_code": "72933", "lat": 35.312232, "lng": -94.0371, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}, {"fips": "083", "name": "Logan"}, {"fips": "031", "name": "Craighead"}, {"fips": "047", "name": "Franklin"}]}

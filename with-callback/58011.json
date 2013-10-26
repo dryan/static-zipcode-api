@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.920174, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Buffalo", "lng": -97.54484, "zip_code": "58011"});
+zipapicallback({"locality": "Buffalo", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Buffalo"], "postal_code": "58011", "lat": 46.920174, "lng": -97.54484, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]});

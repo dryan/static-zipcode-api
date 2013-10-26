@@ -1,1 +1,1 @@
-{"lat": 37.901441, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Vergennes", "lng": -89.33485, "zip_code": "62994"}
+{"locality": "Vergennes", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Vergennes"], "postal_code": "62994", "lat": 37.901441, "lng": -89.33485, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.709742, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ashburn", "lng": -83.66519, "zip_code": "31714"});
+zipapicallback({"locality": "Ashburn", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ashburn"], "postal_code": "31714", "lat": 31.709742, "lng": -83.66519, "type": "STANDARD", "counties": [{"fips": "287", "name": "Turner"}, {"fips": "321", "name": "Worth"}, {"fips": "315", "name": "Wilcox"}]});

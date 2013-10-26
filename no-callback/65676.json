@@ -1,1 +1,1 @@
-{"lat": 36.569901, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Isabella", "lng": -92.62804, "zip_code": "65676"}
+{"locality": "Isabella", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Isabella"], "postal_code": "65676", "lat": 36.569901, "lng": -92.62804, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

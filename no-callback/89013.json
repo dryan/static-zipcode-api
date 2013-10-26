@@ -1,1 +1,1 @@
-{"lat": 37.571495, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Goldfield", "lng": -117.31507, "zip_code": "89013"}
+{"locality": "Goldfield", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Goldfield"], "postal_code": "89013", "lat": 37.571495, "lng": -117.31507, "type": "STANDARD", "counties": [{"fips": "009", "name": "Esmeralda"}]}

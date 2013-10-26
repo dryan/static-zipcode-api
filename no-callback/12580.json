@@ -1,1 +1,1 @@
-{"lat": 41.854465, "region": {"abbr": "NY", "name": "New York"}, "locality": "Staatsburg", "lng": -73.89922, "zip_code": "12580"}
+{"locality": "Staatsburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Staatsburg"], "postal_code": "12580", "lat": 41.854465, "lng": -73.89922, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}]}

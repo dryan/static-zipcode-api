@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.614647, "region": {"abbr": "TX", "name": "Texas"}, "locality": "College Station", "lng": -96.32641, "zip_code": "77840"});
+zipapicallback({"locality": "College Station", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["College Sta", "College Station"], "postal_code": "77840", "lat": 30.614647, "lng": -96.32641, "type": "STANDARD", "counties": [{"fips": "041", "name": "Brazos"}, {"fips": "201", "name": "Harris"}]});

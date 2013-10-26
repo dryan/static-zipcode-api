@@ -1,1 +1,1 @@
-{"lat": 46.460895, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sault Sainte Mar", "lng": -84.32485, "zip_code": "49783"}
+{"locality": "Sault Sainte Marie", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sault S Marie", "Sault Sainte Marie"], "postal_code": "49783", "lat": 46.460895, "lng": -84.32485, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]}

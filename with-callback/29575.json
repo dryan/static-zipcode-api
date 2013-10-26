@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.627763, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Surfside Beach", "lng": -78.98126, "zip_code": "29575"});
+zipapicallback({"locality": "Myrtle Beach", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Myrtle Beach", "Surfside Bch", "Surfside Beach"], "postal_code": "29575", "lat": 33.627763, "lng": -78.98126, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}]});

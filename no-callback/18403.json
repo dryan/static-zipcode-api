@@ -1,1 +1,1 @@
-{"lat": 41.493381, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Eynon", "lng": -75.54909, "zip_code": "18403"}
+{"locality": "Archbald", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Archbald", "Eynon"], "postal_code": "18403", "lat": 41.493381, "lng": -75.54909, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]}

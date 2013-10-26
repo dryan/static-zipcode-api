@@ -1,1 +1,1 @@
-{"lat": 38.523408, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Hughesville", "lng": -76.75435, "zip_code": "20637"}
+{"locality": "Hughesville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hughesville"], "postal_code": "20637", "lat": 38.523408, "lng": -76.75435, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

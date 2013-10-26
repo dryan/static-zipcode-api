@@ -1,1 +1,1 @@
-{"lat": 34.261878, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Albertville", "lng": -86.22835, "zip_code": "35950"}
+{"locality": "Albertville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Albertville"], "postal_code": "35950", "lat": 34.261878, "lng": -86.22835, "type": "STANDARD", "counties": [{"fips": "095", "name": "Marshall"}, {"fips": "049", "name": "De Kalb"}]}

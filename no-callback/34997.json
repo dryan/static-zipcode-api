@@ -1,1 +1,1 @@
-{"lat": 27.136003, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Stuart", "lng": -80.21686, "zip_code": "34997"}
+{"locality": "Stuart", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Stuart"], "postal_code": "34997", "lat": 27.136003, "lng": -80.21686, "type": "STANDARD", "counties": [{"fips": "085", "name": "Martin"}, {"fips": "095", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.947157, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fulton", "lng": -86.26393, "zip_code": "46931"});
+zipapicallback({"locality": "Fulton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fulton"], "postal_code": "46931", "lat": 40.947157, "lng": -86.26393, "type": "POBOX", "counties": [{"fips": "049", "name": "Fulton"}]});

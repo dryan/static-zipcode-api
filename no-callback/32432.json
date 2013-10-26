@@ -1,1 +1,1 @@
-{"lat": 30.713868, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cypress", "lng": -85.0779, "zip_code": "32432"}
+{"locality": "Cypress", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cypress"], "postal_code": "32432", "lat": 30.713868, "lng": -85.0779, "type": "POBOX", "counties": [{"fips": "063", "name": "Jackson"}]}

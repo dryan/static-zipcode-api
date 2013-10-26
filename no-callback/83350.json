@@ -1,1 +1,1 @@
-{"lat": 42.671054, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Acequia", "lng": -113.62976, "zip_code": "83350"}
+{"locality": "Rupert", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Acequia", "Jackson", "Minidoka", "Rupert"], "postal_code": "83350", "lat": 42.671054, "lng": -113.62976, "type": "STANDARD", "counties": [{"fips": "067", "name": "Minidoka"}]}

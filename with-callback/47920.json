@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.543522, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Battle Ground", "lng": -86.81628, "zip_code": "47920"});
+zipapicallback({"locality": "Battle Ground", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Battle Ground"], "postal_code": "47920", "lat": 40.543522, "lng": -86.81628, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tippecanoe"}]});

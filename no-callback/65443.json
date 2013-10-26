@@ -1,1 +1,1 @@
-{"lat": 38.125349, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Brinktown", "lng": -92.08435, "zip_code": "65443"}
+{"locality": "Brinktown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brinktown"], "postal_code": "65443", "lat": 38.125349, "lng": -92.08435, "type": "STANDARD", "counties": [{"fips": "125", "name": "Maries"}]}

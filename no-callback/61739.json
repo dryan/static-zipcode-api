@@ -1,1 +1,1 @@
-{"lat": 40.741158, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fairbury", "lng": -88.51546, "zip_code": "61739"}
+{"locality": "Fairbury", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fairbury"], "postal_code": "61739", "lat": 40.741158, "lng": -88.51546, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}, {"fips": "113", "name": "McLean"}]}

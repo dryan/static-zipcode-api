@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.84836, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Colbert", "lng": -96.5029, "zip_code": "74733"});
+zipapicallback({"locality": "Colbert", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Colbert"], "postal_code": "74733", "lat": 33.84836, "lng": -96.5029, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bryan"}]});

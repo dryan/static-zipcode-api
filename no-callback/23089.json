@@ -1,1 +1,1 @@
-{"lat": 37.435153, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lanexa", "lng": -76.90719, "zip_code": "23089"}
+{"locality": "Lanexa", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lanexa"], "postal_code": "23089", "lat": 37.435153, "lng": -76.90719, "type": "STANDARD", "counties": [{"fips": "127", "name": "New Kent"}]}

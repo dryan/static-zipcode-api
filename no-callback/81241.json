@@ -1,1 +1,1 @@
-{"lat": 38.607617, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Pitkin", "lng": -106.52037, "zip_code": "81241"}
+{"locality": "Pitkin", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Pitkin"], "postal_code": "81241", "lat": 38.607617, "lng": -106.52037, "type": "POBOX", "counties": [{"fips": "051", "name": "Gunnison"}]}

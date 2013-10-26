@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.712257, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Monroe", "lng": -72.97629, "zip_code": "01350"});
+zipapicallback({"locality": "Monroe Bridge", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Monroe", "Monroe Bridge"], "postal_code": "01350", "lat": 42.712257, "lng": -72.97629, "type": "POBOX", "counties": [{"fips": "011", "name": "Franklin"}]});

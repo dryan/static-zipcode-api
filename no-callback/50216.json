@@ -1,1 +1,1 @@
-{"lat": 41.701873, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Panora", "lng": -94.36488, "zip_code": "50216"}
+{"locality": "Panora", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Panora"], "postal_code": "50216", "lat": 41.701873, "lng": -94.36488, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}]}

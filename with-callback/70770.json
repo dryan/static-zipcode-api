@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.642585, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pride", "lng": -90.99489, "zip_code": "70770"});
+zipapicallback({"locality": "Pride", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pride"], "postal_code": "70770", "lat": 30.642585, "lng": -90.99489, "type": "STANDARD", "counties": [{"fips": "033", "name": "East Baton Rouge"}]});

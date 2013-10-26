@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.437683, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Catano", "lng": -66.13847, "zip_code": "00962"});
+zipapicallback({"locality": "Catano", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Catano"], "postal_code": "00962", "lat": 18.437683, "lng": -66.13847, "type": "STANDARD", "counties": []});

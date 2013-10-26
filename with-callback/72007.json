@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.998573, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Austin", "lng": -91.98417, "zip_code": "72007"});
+zipapicallback({"locality": "Austin", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Austin"], "postal_code": "72007", "lat": 34.998573, "lng": -91.98417, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lonoke"}]});

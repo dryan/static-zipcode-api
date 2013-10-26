@@ -1,1 +1,1 @@
-{"lat": 29.697038, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mathews", "lng": -90.55223, "zip_code": "70375"}
+{"locality": "Mathews", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mathews"], "postal_code": "70375", "lat": 29.697038, "lng": -90.55223, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]}

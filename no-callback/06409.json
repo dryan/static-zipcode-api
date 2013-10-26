@@ -1,1 +1,1 @@
-{"lat": 41.353453, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Centerbrook", "lng": -72.41604, "zip_code": "06409"}
+{"locality": "Centerbrook", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Centerbrook"], "postal_code": "06409", "lat": 41.353453, "lng": -72.41604, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]}

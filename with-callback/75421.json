@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.642542, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brookston", "lng": -95.69761, "zip_code": "75421"});
+zipapicallback({"locality": "Brookston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brookston"], "postal_code": "75421", "lat": 33.642542, "lng": -95.69761, "type": "STANDARD", "counties": [{"fips": "277", "name": "Lamar"}]});

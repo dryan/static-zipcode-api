@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.457573, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Borden", "lng": -85.91774, "zip_code": "47106"});
+zipapicallback({"locality": "Borden", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Borden", "Starlight"], "postal_code": "47106", "lat": 38.457573, "lng": -85.91774, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "043", "name": "Floyd"}, {"fips": "175", "name": "Washington"}]});

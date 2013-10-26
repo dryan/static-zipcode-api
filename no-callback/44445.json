@@ -1,1 +1,1 @@
-{"lat": 40.842848, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Waterford", "lng": -80.61956, "zip_code": "44445"}
+{"locality": "New Waterford", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Waterford"], "postal_code": "44445", "lat": 40.842848, "lng": -80.61956, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}]}

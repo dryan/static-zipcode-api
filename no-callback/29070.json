@@ -1,1 +1,1 @@
-{"lat": 33.931279, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Leesville", "lng": -81.465, "zip_code": "29070"}
+{"locality": "Leesville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Batesburg-leesville", "Batsbrg-levil", "Leesville"], "postal_code": "29070", "lat": 33.931279, "lng": -81.465, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lexington"}, {"fips": "081", "name": "Saluda"}]}

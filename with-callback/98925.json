@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.3042, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Easton", "lng": -121.24849, "zip_code": "98925"});
+zipapicallback({"locality": "Easton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Easton"], "postal_code": "98925", "lat": 47.3042, "lng": -121.24849, "type": "POBOX", "counties": [{"fips": "037", "name": "Kittitas"}]});

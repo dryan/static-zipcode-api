@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.128262, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Altura", "lng": -91.95965, "zip_code": "55910"});
+zipapicallback({"locality": "Altura", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Altura", "Minneiska"], "postal_code": "55910", "lat": 44.128262, "lng": -91.95965, "type": "STANDARD", "counties": [{"fips": "169", "name": "Winona"}, {"fips": "157", "name": "Wabasha"}]});

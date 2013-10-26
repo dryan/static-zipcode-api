@@ -1,1 +1,1 @@
-{"lat": 19.942301, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Ninole", "lng": -155.18112, "zip_code": "96773"}
+{"locality": "Ninole", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Ninole"], "postal_code": "96773", "lat": 19.942301, "lng": -155.18112, "type": "POBOX", "counties": [{"fips": "001", "name": "Hawaii"}]}

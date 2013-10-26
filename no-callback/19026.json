@@ -1,1 +1,1 @@
-{"lat": 39.949962, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pilgrim Gardens", "lng": -75.30184, "zip_code": "19026"}
+{"locality": "Drexel Hill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Drexel Hill", "Pilgrim Gardens", "Pilgrim Gdns"], "postal_code": "19026", "lat": 39.949962, "lng": -75.30184, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

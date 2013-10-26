@@ -1,1 +1,1 @@
-{"lat": 36.445205, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mammoth Spring", "lng": -91.5553, "zip_code": "72554"}
+{"locality": "Mammoth Spring", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mammoth Spg", "Mammoth Spring"], "postal_code": "72554", "lat": 36.445205, "lng": -91.5553, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fulton"}]}

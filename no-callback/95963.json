@@ -1,1 +1,1 @@
-{"lat": 39.760968, "region": {"abbr": "CA", "name": "California"}, "locality": "Orland", "lng": -122.218, "zip_code": "95963"}
+{"locality": "Orland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orland"], "postal_code": "95963", "lat": 39.760968, "lng": -122.218, "type": "STANDARD", "counties": [{"fips": "021", "name": "Glenn"}, {"fips": "103", "name": "Tehama"}]}

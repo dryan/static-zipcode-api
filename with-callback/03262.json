@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.0285, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "North Woodstock", "lng": -71.68701, "zip_code": "03262"});
+zipapicallback({"locality": "North Woodstock", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["N Woodstock", "North Woodstock"], "postal_code": "03262", "lat": 44.0285, "lng": -71.68701, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]});

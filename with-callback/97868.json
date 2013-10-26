@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.402303, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Pilot Rock", "lng": -118.76751, "zip_code": "97868"});
+zipapicallback({"locality": "Pilot Rock", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Pilot Rock"], "postal_code": "97868", "lat": 45.402303, "lng": -118.76751, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]});

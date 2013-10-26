@@ -1,1 +1,1 @@
-{"lat": 32.781205, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Arenas Valley", "lng": -108.15795, "zip_code": "88022"}
+{"locality": "Arenas Valley", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Arenas Valley", "Silver City"], "postal_code": "88022", "lat": 32.781205, "lng": -108.15795, "type": "STANDARD", "counties": [{"fips": "017", "name": "Grant"}]}

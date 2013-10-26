@@ -1,1 +1,1 @@
-{"lat": 38.851872, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Cottageville", "lng": -81.84501, "zip_code": "25239"}
+{"locality": "Cottageville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Cottageville"], "postal_code": "25239", "lat": 38.851872, "lng": -81.84501, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}, {"fips": "053", "name": "Mason"}]}

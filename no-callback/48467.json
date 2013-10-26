@@ -1,1 +1,1 @@
-{"lat": 44.023181, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Port Austin", "lng": -83.00241, "zip_code": "48467"}
+{"locality": "Port Austin", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Port Austin"], "postal_code": "48467", "lat": 44.023181, "lng": -83.00241, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]}

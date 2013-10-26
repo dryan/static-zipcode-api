@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.007112, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Halstead", "lng": -97.5139, "zip_code": "67056"});
+zipapicallback({"locality": "Halstead", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Halstead"], "postal_code": "67056", "lat": 38.007112, "lng": -97.5139, "type": "STANDARD", "counties": [{"fips": "079", "name": "Harvey"}]});

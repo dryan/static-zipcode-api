@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.037696, "region": {"abbr": "CA", "name": "California"}, "locality": "Tahoma", "lng": -120.12438, "zip_code": "96142"});
+zipapicallback({"locality": "Tahoma", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tahoma"], "postal_code": "96142", "lat": 39.037696, "lng": -120.12438, "type": "POBOX", "counties": []});

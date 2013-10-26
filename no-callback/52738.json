@@ -1,1 +1,1 @@
-{"lat": 41.265956, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Columbus Junctio", "lng": -91.3677, "zip_code": "52738"}
+{"locality": "Columbus Junction", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Columbus Jct", "Columbus Junction"], "postal_code": "52738", "lat": 41.265956, "lng": -91.3677, "type": "STANDARD", "counties": [{"fips": "115", "name": "Louisa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.017309, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mason", "lng": -82.03031, "zip_code": "25260"});
+zipapicallback({"locality": "Mason", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Clifton", "Mason"], "postal_code": "25260", "lat": 39.017309, "lng": -82.03031, "type": "STANDARD", "counties": [{"fips": "053", "name": "Mason"}]});

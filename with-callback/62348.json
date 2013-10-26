@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.180236, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lima", "lng": -91.37791, "zip_code": "62348"});
+zipapicallback({"locality": "Lima", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lima"], "postal_code": "62348", "lat": 40.180236, "lng": -91.37791, "type": "POBOX", "counties": [{"fips": "001", "name": "Adams"}]});

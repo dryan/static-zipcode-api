@@ -1,1 +1,1 @@
-{"lat": 28.932403, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Beverly Hills", "lng": -82.47641, "zip_code": "34465"}
+{"locality": "Beverly Hills", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Beverly Hills", "Pine Ridge"], "postal_code": "34465", "lat": 28.932403, "lng": -82.47641, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 33.325951, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jenkinsburg", "lng": -84.03346, "zip_code": "30234"}
+{"locality": "Jenkinsburg", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Jenkinsburg"], "postal_code": "30234", "lat": 33.325951, "lng": -84.03346, "type": "STANDARD", "counties": [{"fips": "035", "name": "Butts"}, {"fips": "151", "name": "Henry"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.85303, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Burtrum", "lng": -94.67459, "zip_code": "56318"}
+{"locality": "Burtrum", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Burtrum"], "postal_code": "56318", "lat": 45.85303, "lng": -94.67459, "type": "STANDARD", "counties": [{"fips": "153", "name": "Todd"}, {"fips": "097", "name": "Morrison"}]}

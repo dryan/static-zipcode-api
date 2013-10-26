@@ -1,1 +1,1 @@
-{"lat": 39.889544, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Sabetha", "lng": -95.82289, "zip_code": "66534"}
+{"locality": "Sabetha", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Sabetha"], "postal_code": "66534", "lat": 39.889544, "lng": -95.82289, "type": "STANDARD", "counties": [{"fips": "131", "name": "Nemaha"}, {"fips": "013", "name": "Brown"}]}

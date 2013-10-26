@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.232452, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hallett", "lng": -96.56882, "zip_code": "74034"});
+zipapicallback({"locality": "Hallett", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hallett"], "postal_code": "74034", "lat": 36.232452, "lng": -96.56882, "type": "POBOX", "counties": [{"fips": "117", "name": "Pawnee"}]});

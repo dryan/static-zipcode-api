@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.221875, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Star Prairie", "lng": -92.53507, "zip_code": "54026"});
+zipapicallback({"locality": "Star Prairie", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Star Prairie"], "postal_code": "54026", "lat": 45.221875, "lng": -92.53507, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}, {"fips": "095", "name": "Polk"}]});

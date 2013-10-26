@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.091783, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Venice", "lng": -82.44846, "zip_code": "34285"});
+zipapicallback({"locality": "Venice", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Venice"], "postal_code": "34285", "lat": 27.091783, "lng": -82.44846, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}]});

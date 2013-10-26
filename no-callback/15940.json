@@ -1,1 +1,1 @@
-{"lat": 40.506799, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Loretto", "lng": -78.62996, "zip_code": "15940"}
+{"locality": "Loretto", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Loretto"], "postal_code": "15940", "lat": 40.506799, "lng": -78.62996, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

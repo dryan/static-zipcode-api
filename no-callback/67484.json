@@ -1,1 +1,1 @@
-{"lat": 38.998387, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Culver", "lng": -97.83261, "zip_code": "67484"}
+{"locality": "Tescott", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Culver", "Tescott"], "postal_code": "67484", "lat": 38.998387, "lng": -97.83261, "type": "STANDARD", "counties": [{"fips": "143", "name": "Ottawa"}, {"fips": "169", "name": "Saline"}, {"fips": "105", "name": "Lincoln"}]}

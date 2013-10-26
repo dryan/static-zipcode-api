@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.330683, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cornersville", "lng": -86.8406, "zip_code": "37047"});
+zipapicallback({"locality": "Cornersville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cornersville"], "postal_code": "37047", "lat": 35.330683, "lng": -86.8406, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}, {"fips": "055", "name": "Giles"}, {"fips": "103", "name": "Lincoln"}]});

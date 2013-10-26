@@ -1,1 +1,1 @@
-{"lat": 32.331239, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ennis", "lng": -96.61962, "zip_code": "75119"}
+{"locality": "Ennis", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ennis"], "postal_code": "75119", "lat": 32.331239, "lng": -96.61962, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ellis"}]}

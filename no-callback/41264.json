@@ -1,1 +1,1 @@
-{"lat": 37.935529, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ulysses", "lng": -82.68331, "zip_code": "41264"}
+{"locality": "Ulysses", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ulysses"], "postal_code": "41264", "lat": 37.935529, "lng": -82.68331, "type": "STANDARD", "counties": [{"fips": "127", "name": "Lawrence"}]}

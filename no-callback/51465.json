@@ -1,1 +1,1 @@
-{"lat": 42.072884, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Vail", "lng": -95.20261, "zip_code": "51465"}
+{"locality": "Vail", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Vail"], "postal_code": "51465", "lat": 42.072884, "lng": -95.20261, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]}

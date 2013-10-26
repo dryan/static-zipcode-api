@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.48863, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Peru", "lng": -95.73152, "zip_code": "68421"});
+zipapicallback({"locality": "Peru", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Peru"], "postal_code": "68421", "lat": 40.48863, "lng": -95.73152, "type": "STANDARD", "counties": [{"fips": "127", "name": "Nemaha"}, {"fips": "131", "name": "Otoe"}]});

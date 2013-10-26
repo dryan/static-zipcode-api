@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.814856, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Keldron", "lng": -101.85821, "zip_code": "57634"});
+zipapicallback({"locality": "Keldron", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Keldron"], "postal_code": "57634", "lat": 45.814856, "lng": -101.85821, "type": "STANDARD", "counties": [{"fips": "031", "name": "Corson"}]});

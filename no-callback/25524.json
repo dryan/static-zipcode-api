@@ -1,1 +1,1 @@
-{"lat": 38.02644, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ferrellsburg", "lng": -82.1086, "zip_code": "25524"}
+{"locality": "Harts", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ferrellsburg", "Harts", "Leet"], "postal_code": "25524", "lat": 38.02644, "lng": -82.1086, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "099", "name": "Wayne"}, {"fips": "045", "name": "Logan"}]}

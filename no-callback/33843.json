@@ -1,1 +1,1 @@
-{"lat": 27.757986, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Frostproof", "lng": -81.5088, "zip_code": "33843"}
+{"locality": "Frostproof", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Frostproof"], "postal_code": "33843", "lat": 27.757986, "lng": -81.5088, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

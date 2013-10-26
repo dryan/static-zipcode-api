@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.589553, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Auburn", "lng": -85.53991, "zip_code": "36832"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Auburn"], "postal_code": "36832", "lat": 32.589553, "lng": -85.53991, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.429932, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Gile", "lng": -90.22247, "zip_code": "54525"});
+zipapicallback({"locality": "Gile", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gile"], "postal_code": "54525", "lat": 46.429932, "lng": -90.22247, "type": "STANDARD", "counties": [{"fips": "051", "name": "Iron"}]});

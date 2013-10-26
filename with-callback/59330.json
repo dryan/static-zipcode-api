@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.107345, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Glendive", "lng": -104.72683, "zip_code": "59330"});
+zipapicallback({"locality": "Glendive", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Glendive"], "postal_code": "59330", "lat": 47.107345, "lng": -104.72683, "type": "STANDARD", "counties": [{"fips": "021", "name": "Dawson"}]});

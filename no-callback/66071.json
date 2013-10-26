@@ -1,1 +1,1 @@
-{"lat": 38.574804, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Paola", "lng": -94.86706, "zip_code": "66071"}
+{"locality": "Paola", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Paola"], "postal_code": "66071", "lat": 38.574804, "lng": -94.86706, "type": "STANDARD", "counties": [{"fips": "121", "name": "Miami"}]}

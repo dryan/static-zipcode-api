@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.813437, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Sixes", "lng": -124.35756, "zip_code": "97476"});
+zipapicallback({"locality": "Sixes", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Sixes"], "postal_code": "97476", "lat": 42.813437, "lng": -124.35756, "type": "STANDARD", "counties": [{"fips": "015", "name": "Curry"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.92358, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Saxis", "lng": -75.72178, "zip_code": "23427"}
+{"locality": "Saxis", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Saxis"], "postal_code": "23427", "lat": 37.92358, "lng": -75.72178, "type": "POBOX", "counties": [{"fips": "001", "name": "Accomack"}]}

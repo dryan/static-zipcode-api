@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.701692, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Saint Jo", "lng": -97.53029, "zip_code": "76265"});
+zipapicallback({"locality": "Saint Jo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Saint Jo"], "postal_code": "76265", "lat": 33.701692, "lng": -97.53029, "type": "STANDARD", "counties": [{"fips": "337", "name": "Montague"}, {"fips": "097", "name": "Cooke"}]});

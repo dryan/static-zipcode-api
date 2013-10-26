@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.285188, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wicomico", "lng": -76.5298, "zip_code": "23184"});
+zipapicallback({"locality": "Wicomico", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Wicomico"], "postal_code": "23184", "lat": 37.285188, "lng": -76.5298, "type": "POBOX", "counties": [{"fips": "073", "name": "Gloucester"}]});

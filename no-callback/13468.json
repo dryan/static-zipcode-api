@@ -1,1 +1,1 @@
-{"lat": 42.843002, "region": {"abbr": "NY", "name": "New York"}, "locality": "Springfield Cent", "lng": -74.86479, "zip_code": "13468"}
+{"locality": "Springfield Center", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Springfield Center", "Springfld Ctr"], "postal_code": "13468", "lat": 42.843002, "lng": -74.86479, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]}

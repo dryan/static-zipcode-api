@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.983824, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Sterling", "lng": -90.74134, "zip_code": "62353"});
+zipapicallback({"locality": "Mount Sterling", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Sterling", "Mt Sterling"], "postal_code": "62353", "lat": 39.983824, "lng": -90.74134, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}, {"fips": "149", "name": "Pike"}, {"fips": "169", "name": "Schuyler"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.763048, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lavelle", "lng": -76.38158, "zip_code": "17943"});
+zipapicallback({"locality": "Lavelle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lavelle"], "postal_code": "17943", "lat": 40.763048, "lng": -76.38158, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

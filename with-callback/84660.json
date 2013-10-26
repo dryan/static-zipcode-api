@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.10637, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Spanish Fork", "lng": -111.65408, "zip_code": "84660"});
+zipapicallback({"locality": "Spanish Fork", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Benjamin", "Spanish Fork"], "postal_code": "84660", "lat": 40.10637, "lng": -111.65408, "type": "STANDARD", "counties": [{"fips": "049", "name": "Utah"}, {"fips": "041", "name": "Sevier"}]});

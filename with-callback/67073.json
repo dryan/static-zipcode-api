@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.376681, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lehigh", "lng": -97.31611, "zip_code": "67073"});
+zipapicallback({"locality": "Lehigh", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lehigh"], "postal_code": "67073", "lat": 38.376681, "lng": -97.31611, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]});

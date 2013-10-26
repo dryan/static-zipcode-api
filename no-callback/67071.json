@@ -1,1 +1,1 @@
-{"lat": 37.316336, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lake City", "lng": -98.83859, "zip_code": "67071"}
+{"locality": "Lake City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lake City"], "postal_code": "67071", "lat": 37.316336, "lng": -98.83859, "type": "STANDARD", "counties": [{"fips": "007", "name": "Barber"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.527648, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Glenmont", "lng": -82.14312, "zip_code": "44628"});
+zipapicallback({"locality": "Glenmont", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Glenmont"], "postal_code": "44628", "lat": 40.527648, "lng": -82.14312, "type": "STANDARD", "counties": [{"fips": "075", "name": "Holmes"}, {"fips": "083", "name": "Knox"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.648976, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cochiti Lake", "lng": -106.33885, "zip_code": "87083"}
+{"locality": "Cochiti Lake", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cochiti Lake"], "postal_code": "87083", "lat": 35.648976, "lng": -106.33885, "type": "STANDARD", "counties": []}

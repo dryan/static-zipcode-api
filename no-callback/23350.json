@@ -1,1 +1,1 @@
-{"lat": 37.522269, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Exmore", "lng": -75.86132, "zip_code": "23350"}
+{"locality": "Exmore", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Exmore"], "postal_code": "23350", "lat": 37.522269, "lng": -75.86132, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]}

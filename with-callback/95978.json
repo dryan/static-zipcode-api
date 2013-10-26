@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.904478, "region": {"abbr": "CA", "name": "California"}, "locality": "Stirling City", "lng": -121.52805, "zip_code": "95978"});
+zipapicallback({"locality": "Stirling City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stirling City"], "postal_code": "95978", "lat": 39.904478, "lng": -121.52805, "type": "POBOX", "counties": [{"fips": "007", "name": "Butte"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.793293, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mercersburg", "lng": -77.92889, "zip_code": "17236"});
+zipapicallback({"locality": "Mercersburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mercersburg"], "postal_code": "17236", "lat": 39.793293, "lng": -77.92889, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}, {"fips": "057", "name": "Fulton"}]});

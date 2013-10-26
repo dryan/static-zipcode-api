@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.029538, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Halleck", "lng": -115.4113, "zip_code": "89824"});
+zipapicallback({"locality": "Halleck", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Elburz", "Elko", "Halleck"], "postal_code": "89824", "lat": 41.029538, "lng": -115.4113, "type": "POBOX", "counties": [{"fips": "007", "name": "Elko"}]});

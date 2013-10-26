@@ -1,1 +1,1 @@
-{"lat": 36.752802, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Olmstead", "lng": -87.02003, "zip_code": "42265"}
+{"locality": "Olmstead", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Olmstead"], "postal_code": "42265", "lat": 36.752802, "lng": -87.02003, "type": "STANDARD", "counties": [{"fips": "141", "name": "Logan"}, {"fips": "219", "name": "Todd"}]}

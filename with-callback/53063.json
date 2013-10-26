@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.97207, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Newton", "lng": -87.7766, "zip_code": "53063"});
+zipapicallback({"locality": "Newton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Newton"], "postal_code": "53063", "lat": 43.97207, "lng": -87.7766, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}]});

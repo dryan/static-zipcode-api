@@ -1,1 +1,1 @@
-{"lat": 37.116716, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Boones Mill", "lng": -79.95528, "zip_code": "24065"}
+{"locality": "Boones Mill", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Boones Mill"], "postal_code": "24065", "lat": 37.116716, "lng": -79.95528, "type": "STANDARD", "counties": [{"fips": "067", "name": "Franklin"}, {"fips": "161", "name": "Roanoke"}]}

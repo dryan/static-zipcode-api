@@ -1,1 +1,1 @@
-{"lat": 44.462149, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Higgins Lake", "lng": -84.747, "zip_code": "48627"}
+{"locality": "Higgins Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Higgins Lake"], "postal_code": "48627", "lat": 44.462149, "lng": -84.747, "type": "POBOX", "counties": [{"fips": "143", "name": "Roscommon"}]}

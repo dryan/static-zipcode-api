@@ -1,1 +1,1 @@
-{"lat": 42.326227, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Loves Park", "lng": -89.02573, "zip_code": "61111"}
+{"locality": "Loves Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Loves Park", "Machesney Park", "Machesney Pk"], "postal_code": "61111", "lat": 42.326227, "lng": -89.02573, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}, {"fips": "007", "name": "Boone"}]}

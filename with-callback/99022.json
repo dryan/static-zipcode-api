@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.583754, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Espanola", "lng": -117.68812, "zip_code": "99022"});
+zipapicallback({"locality": "Medical Lake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Espanola", "Medical Lake"], "postal_code": "99022", "lat": 47.583754, "lng": -117.68812, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]});

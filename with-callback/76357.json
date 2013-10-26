@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.06722, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Byers", "lng": -98.18119, "zip_code": "76357"});
+zipapicallback({"locality": "Byers", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Byers"], "postal_code": "76357", "lat": 34.06722, "lng": -98.18119, "type": "STANDARD", "counties": [{"fips": "077", "name": "Clay"}]});

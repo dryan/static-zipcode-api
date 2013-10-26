@@ -1,1 +1,1 @@
-{"lat": 37.731272, "region": {"abbr": "CA", "name": "California"}, "locality": "Riverbank", "lng": -120.94365, "zip_code": "95367"}
+{"locality": "Riverbank", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Riverbank"], "postal_code": "95367", "lat": 37.731272, "lng": -120.94365, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}, {"fips": "077", "name": "San Joaquin"}]}

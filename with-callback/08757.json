@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.975967, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Toms River", "lng": -74.25296, "zip_code": "08757"});
+zipapicallback({"locality": "Toms River", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Toms River"], "postal_code": "08757", "lat": 39.975967, "lng": -74.25296, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

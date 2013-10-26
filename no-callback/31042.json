@@ -1,1 +1,1 @@
-{"lat": 32.7615, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Irwinton", "lng": -83.1612, "zip_code": "31042"}
+{"locality": "Irwinton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Irwinton"], "postal_code": "31042", "lat": 32.7615, "lng": -83.1612, "type": "STANDARD", "counties": [{"fips": "319", "name": "Wilkinson"}]}

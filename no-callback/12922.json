@@ -1,1 +1,1 @@
-{"lat": 44.224185, "region": {"abbr": "NY", "name": "New York"}, "locality": "Childwold", "lng": -74.76539, "zip_code": "12922"}
+{"locality": "Childwold", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Childwold"], "postal_code": "12922", "lat": 44.224185, "lng": -74.76539, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

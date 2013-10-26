@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.061694, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Savoy", "lng": -88.25023, "zip_code": "61874"});
+zipapicallback({"locality": "Savoy", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Savoy"], "postal_code": "61874", "lat": 40.061694, "lng": -88.25023, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]});

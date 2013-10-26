@@ -1,1 +1,1 @@
-{"lat": 26.663097, "region": {"abbr": "FL", "name": "Florida"}, "locality": "South Bay", "lng": -80.71827, "zip_code": "33493"}
+{"locality": "South Bay", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["South Bay"], "postal_code": "33493", "lat": 26.663097, "lng": -80.71827, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.327126, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lacombe", "lng": -89.93118, "zip_code": "70445"}
+{"locality": "Lacombe", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lacombe"], "postal_code": "70445", "lat": 30.327126, "lng": -89.93118, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]}

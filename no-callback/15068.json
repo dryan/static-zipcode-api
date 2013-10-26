@@ -1,1 +1,1 @@
-{"lat": 40.571108, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Arnold", "lng": -79.74226, "zip_code": "15068"}
+{"locality": "New Kensington", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Arnold", "Barking", "Lower Burrell", "New Kensingtn", "New Kensington", "Parnassus"], "postal_code": "15068", "lat": 40.571108, "lng": -79.74226, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}, {"fips": "003", "name": "Allegheny"}]}

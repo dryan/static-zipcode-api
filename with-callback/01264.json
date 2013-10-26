@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.224905, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Tyringham", "lng": -73.20394, "zip_code": "01264"});
+zipapicallback({"locality": "Tyringham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Lee", "Tyringham"], "postal_code": "01264", "lat": 42.224905, "lng": -73.20394, "type": "POBOX", "counties": [{"fips": "003", "name": "Berkshire"}]});

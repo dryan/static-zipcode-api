@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.882284, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Buffalo", "lng": -86.74363, "zip_code": "47925"});
+zipapicallback({"locality": "Buffalo", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Buffalo"], "postal_code": "47925", "lat": 40.882284, "lng": -86.74363, "type": "POBOX", "counties": [{"fips": "181", "name": "White"}]});

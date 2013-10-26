@@ -1,1 +1,1 @@
-{"lat": 35.843486, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bristow", "lng": -96.38183, "zip_code": "74010"}
+{"locality": "Bristow", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bristow"], "postal_code": "74010", "lat": 35.843486, "lng": -96.38183, "type": "STANDARD", "counties": [{"fips": "037", "name": "Creek"}, {"fips": "107", "name": "Okfuskee"}]}

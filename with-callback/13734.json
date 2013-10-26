@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.063671, "region": {"abbr": "NY", "name": "New York"}, "locality": "Barton", "lng": -76.40638, "zip_code": "13734"});
+zipapicallback({"locality": "Barton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Barton"], "postal_code": "13734", "lat": 42.063671, "lng": -76.40638, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}]});

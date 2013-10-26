@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.588243, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Brule", "lng": -91.55208, "zip_code": "54820"});
+zipapicallback({"locality": "Brule", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brule"], "postal_code": "54820", "lat": 46.588243, "lng": -91.55208, "type": "STANDARD", "counties": [{"fips": "031", "name": "Douglas"}, {"fips": "007", "name": "Bayfield"}]});

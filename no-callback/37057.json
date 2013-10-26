@@ -1,1 +1,1 @@
-{"lat": 36.389736, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Dixon Springs", "lng": -86.04135, "zip_code": "37057"}
+{"locality": "Dixon Springs", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Dixon Springs"], "postal_code": "37057", "lat": 36.389736, "lng": -86.04135, "type": "STANDARD", "counties": [{"fips": "159", "name": "Smith"}, {"fips": "111", "name": "MacOn"}, {"fips": "169", "name": "Trousdale"}]}

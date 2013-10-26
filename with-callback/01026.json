@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.465041, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Cummington", "lng": -72.91813, "zip_code": "01026"});
+zipapicallback({"locality": "Cummington", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Cummington"], "postal_code": "01026", "lat": 42.465041, "lng": -72.91813, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]});

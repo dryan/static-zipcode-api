@@ -1,1 +1,1 @@
-{"lat": 32.8201, "region": {"abbr": "CA", "name": "California"}, "locality": "El Cajon", "lng": -116.91234, "zip_code": "92021"}
+{"locality": "El Cajon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Cajon"], "postal_code": "92021", "lat": 32.8201, "lng": -116.91234, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

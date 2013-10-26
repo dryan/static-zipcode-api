@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.183689, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Vinton", "lng": -93.59815, "zip_code": "70668"});
+zipapicallback({"locality": "Vinton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Vinton"], "postal_code": "70668", "lat": 30.183689, "lng": -93.59815, "type": "STANDARD", "counties": [{"fips": "019", "name": "Calcasieu"}]});

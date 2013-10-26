@@ -1,1 +1,1 @@
-{"lat": 39.874612, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Woodlyn", "lng": -75.34542, "zip_code": "19094"}
+{"locality": "Woodlyn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Woodlyn"], "postal_code": "19094", "lat": 39.874612, "lng": -75.34542, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.074757, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Scotrun", "lng": -75.36259, "zip_code": "18355"});
+zipapicallback({"locality": "Scotrun", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Scotrun"], "postal_code": "18355", "lat": 41.074757, "lng": -75.36259, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

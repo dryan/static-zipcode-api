@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.786324, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Stanfield", "lng": -119.21099, "zip_code": "97875"});
+zipapicallback({"locality": "Stanfield", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Stanfield"], "postal_code": "97875", "lat": 45.786324, "lng": -119.21099, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.798454, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Laguna Park", "lng": -97.52516, "zip_code": "76634"}
+{"locality": "Clifton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Clifton", "Laguna Park"], "postal_code": "76634", "lat": 31.798454, "lng": -97.52516, "type": "STANDARD", "counties": [{"fips": "035", "name": "Bosque"}, {"fips": "099", "name": "Coryell"}]}

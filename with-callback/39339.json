@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.109635, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Louisville", "lng": -89.02849, "zip_code": "39339"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Louisville"], "postal_code": "39339", "lat": 33.109635, "lng": -89.02849, "type": "STANDARD", "counties": [{"fips": "159", "name": "Winston"}]});

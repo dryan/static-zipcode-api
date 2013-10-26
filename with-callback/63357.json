@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.647611, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lake Sherwood", "lng": -91.09159, "zip_code": "63357"});
+zipapicallback({"locality": "Marthasville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lake Sherwood", "Marthasville"], "postal_code": "63357", "lat": 38.647611, "lng": -91.09159, "type": "STANDARD", "counties": [{"fips": "219", "name": "Warren"}]});

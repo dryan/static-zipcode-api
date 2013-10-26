@@ -1,1 +1,1 @@
-{"lat": 41.316316, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marble", "lng": -79.44164, "zip_code": "16334"}
+{"locality": "Marble", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marble"], "postal_code": "16334", "lat": 41.316316, "lng": -79.44164, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.17462, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ruffs Dale", "lng": -79.63584, "zip_code": "15679"});
+zipapicallback({"locality": "Ruffs Dale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ruffs Dale"], "postal_code": "15679", "lat": 40.17462, "lng": -79.63584, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

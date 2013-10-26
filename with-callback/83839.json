@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.566703, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Kingston", "lng": -116.20774, "zip_code": "83839"});
+zipapicallback({"locality": "Kingston", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Kingston"], "postal_code": "83839", "lat": 47.566703, "lng": -116.20774, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]});

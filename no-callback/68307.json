@@ -1,1 +1,1 @@
-{"lat": 40.789284, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Avoca", "lng": -96.13068, "zip_code": "68307"}
+{"locality": "Avoca", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Avoca"], "postal_code": "68307", "lat": 40.789284, "lng": -96.13068, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}, {"fips": "131", "name": "Otoe"}]}

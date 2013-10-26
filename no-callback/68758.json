@@ -1,1 +1,1 @@
-{"lat": 41.769497, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Newman Grove", "lng": -97.79839, "zip_code": "68758"}
+{"locality": "Newman Grove", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Newman Grove"], "postal_code": "68758", "lat": 41.769497, "lng": -97.79839, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}, {"fips": "011", "name": "Boone"}, {"fips": "141", "name": "Platte"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.821937, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Northome", "lng": -94.18727, "zip_code": "56661"}
+{"locality": "Northome", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Northome"], "postal_code": "56661", "lat": 47.821937, "lng": -94.18727, "type": "STANDARD", "counties": [{"fips": "071", "name": "Koochiching"}, {"fips": "007", "name": "Beltrami"}, {"fips": "061", "name": "Itasca"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.090341, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Red Cloud", "lng": -98.52808, "zip_code": "68970"});
+zipapicallback({"locality": "Red Cloud", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Red Cloud"], "postal_code": "68970", "lat": 40.090341, "lng": -98.52808, "type": "STANDARD", "counties": [{"fips": "181", "name": "Webster"}]});

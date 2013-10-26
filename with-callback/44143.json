@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.550318, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Richmond Heights", "lng": -81.48175, "zip_code": "44143"});
+zipapicallback({"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Euclid", "Highland Heights", "Highland Hgts", "Highland Hts", "Mayfield", "Mayfield Hts", "Mayfield Village", "Mayfield Vlg", "Richmond Heights", "Richmond Hts"], "postal_code": "44143", "lat": 41.550318, "lng": -81.48175, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

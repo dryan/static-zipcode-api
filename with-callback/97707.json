@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.84783, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Sunriver", "lng": -121.46569, "zip_code": "97707"});
+zipapicallback({"locality": "Bend", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bend", "Sunriver"], "postal_code": "97707", "lat": 43.84783, "lng": -121.46569, "type": "STANDARD", "counties": [{"fips": "017", "name": "Deschutes"}]});

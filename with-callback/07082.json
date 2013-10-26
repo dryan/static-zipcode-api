@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.92241, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Towaco", "lng": -74.34625, "zip_code": "07082"});
+zipapicallback({"locality": "Towaco", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Towaco"], "postal_code": "07082", "lat": 40.92241, "lng": -74.34625, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]});

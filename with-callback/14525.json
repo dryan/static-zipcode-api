@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.876222, "region": {"abbr": "NY", "name": "New York"}, "locality": "Linwood", "lng": -78.00056, "zip_code": "14525"});
+zipapicallback({"locality": "Pavilion", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Pavilion"], "postal_code": "14525", "lat": 42.876222, "lng": -78.00056, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}, {"fips": "037", "name": "Genesee"}, {"fips": "051", "name": "Livingston"}]});

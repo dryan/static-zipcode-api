@@ -1,1 +1,1 @@
-{"lat": 39.648325, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cope", "lng": -102.88722, "zip_code": "80812"}
+{"locality": "Cope", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cope"], "postal_code": "80812", "lat": 39.648325, "lng": -102.88722, "type": "STANDARD", "counties": [{"fips": "121", "name": "Washington"}, {"fips": "125", "name": "Yuma"}]}

@@ -1,1 +1,1 @@
-{"lat": 18.457453, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Garrochales", "lng": -66.61217, "zip_code": "00652"}
+{"locality": "Garrochales", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Garrochales"], "postal_code": "00652", "lat": 18.457453, "lng": -66.61217, "type": "STANDARD", "counties": [{"fips": "013", "name": "Arecibo"}]}

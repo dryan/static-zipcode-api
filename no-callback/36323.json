@@ -1,1 +1,1 @@
-{"lat": 31.428389, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Elba", "lng": -86.07271, "zip_code": "36323"}
+{"locality": "Elba", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Elba"], "postal_code": "36323", "lat": 31.428389, "lng": -86.07271, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}, {"fips": "041", "name": "Crenshaw"}]}

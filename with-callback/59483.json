@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.465072, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Sun River", "lng": -111.79735, "zip_code": "59483"});
+zipapicallback({"locality": "Sun River", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Sun River"], "postal_code": "59483", "lat": 47.465072, "lng": -111.79735, "type": "STANDARD", "counties": [{"fips": "013", "name": "Cascade"}]});

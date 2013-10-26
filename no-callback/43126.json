@@ -1,1 +1,1 @@
-{"lat": 39.810093, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Harrisburg", "lng": -83.17085, "zip_code": "43126"}
+{"locality": "Harrisburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Harrisburg"], "postal_code": "43126", "lat": 39.810093, "lng": -83.17085, "type": "POBOX", "counties": [{"fips": "049", "name": "Franklin"}]}

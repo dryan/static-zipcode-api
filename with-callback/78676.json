@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.022492, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wimberley", "lng": -98.13294, "zip_code": "78676"});
+zipapicallback({"locality": "Wimberley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wimberley", "Woodcreek"], "postal_code": "78676", "lat": 30.022492, "lng": -98.13294, "type": "STANDARD", "counties": [{"fips": "209", "name": "Hays"}]});

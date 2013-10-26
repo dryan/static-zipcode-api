@@ -1,1 +1,1 @@
-{"lat": 36.615944, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Boydton", "lng": -78.3102, "zip_code": "23917"}
+{"locality": "Boydton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Boydton"], "postal_code": "23917", "lat": 36.615944, "lng": -78.3102, "type": "STANDARD", "counties": [{"fips": "117", "name": "Mecklenburg"}]}

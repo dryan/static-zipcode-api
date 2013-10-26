@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.993405, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Richardson", "lng": -96.65901, "zip_code": "75082"});
+zipapicallback({"locality": "Richardson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Richardson"], "postal_code": "75082", "lat": 32.993405, "lng": -96.65901, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}, {"fips": "113", "name": "Dallas"}]});

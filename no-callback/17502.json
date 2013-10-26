@@ -1,1 +1,1 @@
-{"lat": 40.095995, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bainbridge", "lng": -76.66707, "zip_code": "17502"}
+{"locality": "Bainbridge", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bainbridge"], "postal_code": "17502", "lat": 40.095995, "lng": -76.66707, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}, {"fips": "043", "name": "Dauphin"}]}

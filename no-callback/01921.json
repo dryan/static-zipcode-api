@@ -1,1 +1,1 @@
-{"lat": 42.677869, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Boxford", "lng": -71.00844, "zip_code": "01921"}
+{"locality": "Boxford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boxford"], "postal_code": "01921", "lat": 42.677869, "lng": -71.00844, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

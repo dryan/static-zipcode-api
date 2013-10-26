@@ -1,1 +1,1 @@
-{"lat": 38.217377, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Minersville", "lng": -112.93204, "zip_code": "84752"}
+{"locality": "Minersville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Minersville"], "postal_code": "84752", "lat": 38.217377, "lng": -112.93204, "type": "POBOX", "counties": [{"fips": "001", "name": "Beaver"}]}

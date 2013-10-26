@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.516034, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Geneva", "lng": -97.60056, "zip_code": "68361"});
+zipapicallback({"locality": "Geneva", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Geneva"], "postal_code": "68361", "lat": 40.516034, "lng": -97.60056, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fillmore"}]});

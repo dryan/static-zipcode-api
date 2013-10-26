@@ -1,1 +1,1 @@
-{"lat": 42.994932, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rockwell", "lng": -93.20192, "zip_code": "50469"}
+{"locality": "Rockwell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rockwell"], "postal_code": "50469", "lat": 42.994932, "lng": -93.20192, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cerro Gordo"}]}

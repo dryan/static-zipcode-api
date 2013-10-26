@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.751374, "region": {"abbr": "TX", "name": "Texas"}, "locality": "New Deal", "lng": -101.83672, "zip_code": "79350"});
+zipapicallback({"locality": "New Deal", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["New Deal"], "postal_code": "79350", "lat": 33.751374, "lng": -101.83672, "type": "POBOX", "counties": [{"fips": "303", "name": "Lubbock"}]});

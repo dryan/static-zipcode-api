@@ -1,1 +1,1 @@
-{"lat": 38.221179, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Georgetown", "lng": -84.55465, "zip_code": "40324"}
+{"locality": "Georgetown", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Georgetown"], "postal_code": "40324", "lat": 38.221179, "lng": -84.55465, "type": "STANDARD", "counties": [{"fips": "209", "name": "Scott"}, {"fips": "067", "name": "Fayette"}, {"fips": "017", "name": "Bourbon"}]}

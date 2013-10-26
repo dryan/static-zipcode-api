@@ -1,1 +1,1 @@
-{"lat": 47.783028, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Ruso", "lng": -100.93423, "zip_code": "58778"}
+{"locality": "Ruso", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Ruso"], "postal_code": "58778", "lat": 47.783028, "lng": -100.93423, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}, {"fips": "049", "name": "McHenry"}]}

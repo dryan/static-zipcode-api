@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.258447, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Moorefield", "lng": -81.00415, "zip_code": "43907"});
+zipapicallback({"locality": "Cadiz", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cadiz", "Moorefield"], "postal_code": "43907", "lat": 40.258447, "lng": -81.00415, "type": "STANDARD", "counties": [{"fips": "067", "name": "Harrison"}]});

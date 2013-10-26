@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.621928, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Southmayd", "lng": -96.7649, "zip_code": "76268"});
+zipapicallback({"locality": "Southmayd", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Southmayd"], "postal_code": "76268", "lat": 33.621928, "lng": -96.7649, "type": "POBOX", "counties": [{"fips": "181", "name": "Grayson"}]});

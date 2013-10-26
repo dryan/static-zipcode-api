@@ -1,1 +1,1 @@
-{"lat": 39.651145, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Acton", "lng": -85.98073, "zip_code": "46259"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Acton", "Indianapolis"], "postal_code": "46259", "lat": 39.651145, "lng": -85.98073, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}, {"fips": "145", "name": "Shelby"}, {"fips": "081", "name": "Johnson"}]}

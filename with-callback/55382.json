@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.299358, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "South Haven", "lng": -94.19821, "zip_code": "55382"});
+zipapicallback({"locality": "South Haven", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Augusta", "South Haven"], "postal_code": "55382", "lat": 45.299358, "lng": -94.19821, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}, {"fips": "093", "name": "Meeker"}, {"fips": "145", "name": "Stearns"}]});

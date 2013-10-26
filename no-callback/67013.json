@@ -1,1 +1,1 @@
-{"lat": 37.390809, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Belle Plaine", "lng": -97.29152, "zip_code": "67013"}
+{"locality": "Belle Plaine", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Belle Plaine"], "postal_code": "67013", "lat": 37.390809, "lng": -97.29152, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}]}

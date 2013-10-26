@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.303222, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Radcliffe", "lng": -93.45343, "zip_code": "50230"});
+zipapicallback({"locality": "Radcliffe", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Radcliffe"], "postal_code": "50230", "lat": 42.303222, "lng": -93.45343, "type": "STANDARD", "counties": [{"fips": "083", "name": "Hardin"}, {"fips": "169", "name": "Story"}, {"fips": "151", "name": "Pocahontas"}]});

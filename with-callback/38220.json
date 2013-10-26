@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.98269, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Atwood", "lng": -88.66966, "zip_code": "38220"});
+zipapicallback({"locality": "Atwood", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Atwood"], "postal_code": "38220", "lat": 35.98269, "lng": -88.66966, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.47997, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Windsor", "lng": -104.90227, "zip_code": "80550"}
+{"locality": "Windsor", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Severance", "Windsor"], "postal_code": "80550", "lat": 40.47997, "lng": -104.90227, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

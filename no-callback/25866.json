@@ -1,1 +1,1 @@
-{"lat": 38.007725, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lochgelly", "lng": -81.1391, "zip_code": "25866"}
+{"locality": "Lochgelly", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lochgelly"], "postal_code": "25866", "lat": 38.007725, "lng": -81.1391, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]}

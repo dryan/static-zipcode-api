@@ -1,1 +1,1 @@
-{"lat": 40.905647, "region": {"abbr": "NY", "name": "New York"}, "locality": "Northport", "lng": -73.33114, "zip_code": "11768"}
+{"locality": "Northport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fort Salonga", "Northport"], "postal_code": "11768", "lat": 40.905647, "lng": -73.33114, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

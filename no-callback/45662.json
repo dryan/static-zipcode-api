@@ -1,1 +1,1 @@
-{"lat": 38.762824, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Boston", "lng": -82.94294, "zip_code": "45662"}
+{"locality": "Portsmouth", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Boston", "Portsmouth", "Sciotoville"], "postal_code": "45662", "lat": 38.762824, "lng": -82.94294, "type": "STANDARD", "counties": [{"fips": "145", "name": "Scioto"}, {"fips": "049", "name": "Franklin"}]}

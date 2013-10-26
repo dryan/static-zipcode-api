@@ -1,1 +1,1 @@
-{"lat": 43.331433, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Porcupine", "lng": -102.38093, "zip_code": "57772"}
+{"locality": "Porcupine", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Porcupine"], "postal_code": "57772", "lat": 43.331433, "lng": -102.38093, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}]}

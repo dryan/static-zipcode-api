@@ -1,1 +1,1 @@
-{"lat": 37.342538, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Grantsburg", "lng": -88.73381, "zip_code": "62943"}
+{"locality": "Grantsburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Grantsburg"], "postal_code": "62943", "lat": 37.342538, "lng": -88.73381, "type": "STANDARD", "counties": [{"fips": "087", "name": "Johnson"}, {"fips": "127", "name": "Massac"}, {"fips": "151", "name": "Pope"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.083579, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Milledgeville", "lng": -83.23397, "zip_code": "31061"}
+{"locality": "Milledgeville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Milledgeville"], "postal_code": "31061", "lat": 33.083579, "lng": -83.23397, "type": "STANDARD", "counties": [{"fips": "009", "name": "Baldwin"}, {"fips": "169", "name": "Jones"}, {"fips": "237", "name": "Putnam"}, {"fips": "319", "name": "Wilkinson"}, {"fips": "141", "name": "Hancock"}]}

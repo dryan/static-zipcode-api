@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.484756, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Baton Rouge", "lng": -91.06862, "zip_code": "70814"});
+zipapicallback({"locality": "Baton Rouge", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Baton Rouge"], "postal_code": "70814", "lat": 30.484756, "lng": -91.06862, "type": "STANDARD", "counties": [{"fips": "033", "name": "East Baton Rouge"}]});

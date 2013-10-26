@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.961233, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lake City", "lng": -107.29953, "zip_code": "81235"});
+zipapicallback({"locality": "Lake City", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Lake City"], "postal_code": "81235", "lat": 37.961233, "lng": -107.29953, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hinsdale"}, {"fips": "051", "name": "Gunnison"}]});

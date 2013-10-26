@@ -1,1 +1,1 @@
-{"lat": 38.282255, "region": {"abbr": "CA", "name": "California"}, "locality": "Bear Valley", "lng": -120.28875, "zip_code": "95223"}
+{"locality": "Arnold", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Arnold", "Bear Valley", "Camp Connell"], "postal_code": "95223", "lat": 38.282255, "lng": -120.28875, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}, {"fips": "077", "name": "San Joaquin"}]}

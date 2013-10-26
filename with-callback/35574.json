@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.586897, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Kennedy", "lng": -87.97695, "zip_code": "35574"});
+zipapicallback({"locality": "Kennedy", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Kennedy"], "postal_code": "35574", "lat": 33.586897, "lng": -87.97695, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lamar"}, {"fips": "125", "name": "Tuscaloosa"}, {"fips": "107", "name": "Pickens"}, {"fips": "057", "name": "Fayette"}]});

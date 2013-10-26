@@ -1,1 +1,1 @@
-{"lat": 44.541415, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Lake Elmore", "lng": -72.52693, "zip_code": "05657"}
+{"locality": "Lake Elmore", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Lake Elmore"], "postal_code": "05657", "lat": 44.541415, "lng": -72.52693, "type": "POBOX", "counties": [{"fips": "015", "name": "Lamoille"}]}

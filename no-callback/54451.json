@@ -1,1 +1,1 @@
-{"lat": 45.171131, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Medford", "lng": -90.40527, "zip_code": "54451"}
+{"locality": "Medford", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Chelsea", "Medford"], "postal_code": "54451", "lat": 45.171131, "lng": -90.40527, "type": "STANDARD", "counties": [{"fips": "119", "name": "Taylor"}, {"fips": "073", "name": "Marathon"}]}

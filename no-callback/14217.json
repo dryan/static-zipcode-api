@@ -1,1 +1,1 @@
-{"lat": 42.968707, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kenmore", "lng": -78.8745, "zip_code": "14217"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buffalo", "Kenmore", "Tn Of Tona", "Tonawanda", "Town Of Tonawanda"], "postal_code": "14217", "lat": 42.968707, "lng": -78.8745, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

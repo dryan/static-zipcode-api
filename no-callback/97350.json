@@ -1,1 +1,1 @@
-{"lat": 44.696507, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Idanha", "lng": -122.07246, "zip_code": "97350"}
+{"locality": "Idanha", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Idanha"], "postal_code": "97350", "lat": 44.696507, "lng": -122.07246, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}, {"fips": "043", "name": "Linn"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.206624, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Springfield", "lng": -93.29923, "zip_code": "65806"}
+{"locality": "Springfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Springfield"], "postal_code": "65806", "lat": 37.206624, "lng": -93.29923, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "007", "name": "Audrain"}]}

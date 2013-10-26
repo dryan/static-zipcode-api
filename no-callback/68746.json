@@ -1,1 +1,1 @@
-{"lat": 42.787371, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lynch", "lng": -98.43592, "zip_code": "68746"}
+{"locality": "Lynch", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lynch", "Monowi"], "postal_code": "68746", "lat": 42.787371, "lng": -98.43592, "type": "STANDARD", "counties": [{"fips": "089", "name": "Holt"}, {"fips": "015", "name": "Boyd"}]}

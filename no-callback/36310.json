@@ -1,1 +1,1 @@
-{"lat": 31.599256, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Abbeville", "lng": -85.2094, "zip_code": "36310"}
+{"locality": "Abbeville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Abbeville"], "postal_code": "36310", "lat": 31.599256, "lng": -85.2094, "type": "STANDARD", "counties": [{"fips": "067", "name": "Henry"}]}

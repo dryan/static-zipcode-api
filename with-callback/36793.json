@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.838805, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Lawley", "lng": -86.99911, "zip_code": "36793"});
+zipapicallback({"locality": "Lawley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Lawley"], "postal_code": "36793", "lat": 32.838805, "lng": -86.99911, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bibb"}, {"fips": "105", "name": "Perry"}, {"fips": "021", "name": "Chilton"}]});

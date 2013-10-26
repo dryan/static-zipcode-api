@@ -1,1 +1,1 @@
-{"lat": 36.415102, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Leasburg", "lng": -79.14221, "zip_code": "27291"}
+{"locality": "Leasburg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Leasburg"], "postal_code": "27291", "lat": 36.415102, "lng": -79.14221, "type": "STANDARD", "counties": [{"fips": "033", "name": "Caswell"}, {"fips": "145", "name": "Person"}]}

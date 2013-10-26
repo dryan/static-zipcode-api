@@ -1,1 +1,1 @@
-{"lat": 35.921811, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Franklin", "lng": -86.7952, "zip_code": "37067"}
+{"locality": "Franklin", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Franklin"], "postal_code": "37067", "lat": 35.921811, "lng": -86.7952, "type": "STANDARD", "counties": []}

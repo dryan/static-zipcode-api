@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.951518, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Millerton", "lng": -76.94413, "zip_code": "16936"});
+zipapicallback({"locality": "Millerton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Millerton"], "postal_code": "16936", "lat": 41.951518, "lng": -76.94413, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "015", "name": "Bradford"}]});

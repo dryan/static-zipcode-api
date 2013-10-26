@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.584014, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "New Wells", "lng": -89.6032, "zip_code": "63732"});
+zipapicallback({"locality": "Altenburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Altenburg", "New Wells"], "postal_code": "63732", "lat": 37.584014, "lng": -89.6032, "type": "STANDARD", "counties": [{"fips": "157", "name": "Perry"}, {"fips": "031", "name": "Cape Girardeau"}]});

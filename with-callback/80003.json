@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.825357, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Arvada", "lng": -105.06439, "zip_code": "80003"});
+zipapicallback({"locality": "Arvada", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Arvada", "Westminster"], "postal_code": "80003", "lat": 39.825357, "lng": -105.06439, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}, {"fips": "001", "name": "Adams"}]});

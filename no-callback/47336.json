@@ -1,1 +1,1 @@
-{"lat": 40.38509, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dunkirk", "lng": -85.2115, "zip_code": "47336"}
+{"locality": "Dunkirk", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dunkirk"], "postal_code": "47336", "lat": 40.38509, "lng": -85.2115, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jay"}, {"fips": "009", "name": "Blackford"}]}

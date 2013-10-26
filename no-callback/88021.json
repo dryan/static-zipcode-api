@@ -1,1 +1,1 @@
-{"lat": 32.013822, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Chaparral", "lng": -106.5443, "zip_code": "88021"}
+{"locality": "Anthony", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Anthony", "Chaparral"], "postal_code": "88021", "lat": 32.013822, "lng": -106.5443, "type": "STANDARD", "counties": [{"fips": "013", "name": "Dona Ana"}]}

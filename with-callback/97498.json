@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.326381, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Yachats", "lng": -124.0557, "zip_code": "97498"});
+zipapicallback({"locality": "Yachats", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Yachats"], "postal_code": "97498", "lat": 44.326381, "lng": -124.0557, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]});

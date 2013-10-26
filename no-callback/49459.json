@@ -1,1 +1,1 @@
-{"lat": 43.733491, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Walkerville", "lng": -86.11462, "zip_code": "49459"}
+{"locality": "Walkerville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Walkerville"], "postal_code": "49459", "lat": 43.733491, "lng": -86.11462, "type": "STANDARD", "counties": [{"fips": "127", "name": "Oceana"}, {"fips": "123", "name": "Newaygo"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.051916, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dania", "lng": -80.14526, "zip_code": "33004"});
+zipapicallback({"locality": "Dania", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dania", "Dania Beach"], "postal_code": "33004", "lat": 26.051916, "lng": -80.14526, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]});

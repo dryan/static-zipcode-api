@@ -1,1 +1,1 @@
-{"lat": 41.154329, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cresco", "lng": -75.27865, "zip_code": "18326"}
+{"locality": "Cresco", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cresco", "Paradise Valley", "Paradise Vly"], "postal_code": "18326", "lat": 41.154329, "lng": -75.27865, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}, {"fips": "127", "name": "Wayne"}, {"fips": "103", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.618879, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Palms", "lng": -82.6874, "zip_code": "48465"});
+zipapicallback({"locality": "Palms", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Minden City", "Palms"], "postal_code": "48465", "lat": 43.618879, "lng": -82.6874, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}]});

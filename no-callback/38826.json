@@ -1,1 +1,1 @@
-{"lat": 34.306239, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Belden", "lng": -88.81668, "zip_code": "38826"}
+{"locality": "Belden", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Belden"], "postal_code": "38826", "lat": 34.306239, "lng": -88.81668, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lee"}, {"fips": "115", "name": "Pontotoc"}]}

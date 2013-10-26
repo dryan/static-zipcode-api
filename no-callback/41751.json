@@ -1,1 +1,1 @@
-{"lat": 37.207333, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Jeff", "lng": -83.13361, "zip_code": "41751"}
+{"locality": "Jeff", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Jeff"], "postal_code": "41751", "lat": 37.207333, "lng": -83.13361, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]}

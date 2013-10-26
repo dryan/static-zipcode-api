@@ -1,1 +1,1 @@
-{"lat": 42.519739, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Village Of Nagog", "lng": -71.42721, "zip_code": "01718"}
+{"locality": "Village Of Nagog Woods", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Acton", "Village Of Nagog Woods", "Vlg Nagog Wds"], "postal_code": "01718", "lat": 42.519739, "lng": -71.42721, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

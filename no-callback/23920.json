@@ -1,1 +1,1 @@
-{"lat": 36.732859, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Brodnax", "lng": -77.99591, "zip_code": "23920"}
+{"locality": "Brodnax", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Brodnax"], "postal_code": "23920", "lat": 36.732859, "lng": -77.99591, "type": "STANDARD", "counties": [{"fips": "025", "name": "Brunswick"}]}

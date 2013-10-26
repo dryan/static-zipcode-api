@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.321712, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Box Elder", "lng": -109.9578, "zip_code": "59521"});
+zipapicallback({"locality": "Box Elder", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Box Elder"], "postal_code": "59521", "lat": 48.321712, "lng": -109.9578, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hill"}]});

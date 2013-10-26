@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.365318, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kearney", "lng": -94.3578, "zip_code": "64060"});
+zipapicallback({"locality": "Kearney", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kearney"], "postal_code": "64060", "lat": 39.365318, "lng": -94.3578, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}]});

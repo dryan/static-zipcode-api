@@ -1,1 +1,1 @@
-{"lat": 45.116325, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pound", "lng": -88.16811, "zip_code": "54161"}
+{"locality": "Pound", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pound"], "postal_code": "54161", "lat": 45.116325, "lng": -88.16811, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}, {"fips": "083", "name": "Oconto"}]}

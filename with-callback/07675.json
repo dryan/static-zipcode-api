@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.99904, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Old Tappan", "lng": -74.03291, "zip_code": "07675"});
+zipapicallback({"locality": "Westwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Old Tappan", "River Vale", "Rivervale", "Westwood"], "postal_code": "07675", "lat": 40.99904, "lng": -74.03291, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

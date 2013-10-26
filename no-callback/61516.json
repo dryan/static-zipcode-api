@@ -1,1 +1,1 @@
-{"lat": 40.850381, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Benson", "lng": -89.11878, "zip_code": "61516"}
+{"locality": "Benson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Benson"], "postal_code": "61516", "lat": 40.850381, "lng": -89.11878, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}]}

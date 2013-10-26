@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.766603, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Atmautluak", "lng": -161.88006, "zip_code": "99559"});
+zipapicallback({"locality": "Bethel", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Atmautluak", "Bethel", "Napaskiak", "Newtok"], "postal_code": "99559", "lat": 60.766603, "lng": -161.88006, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

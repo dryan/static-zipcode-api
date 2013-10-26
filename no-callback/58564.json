@@ -1,1 +1,1 @@
-{"lat": 46.291855, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Raleigh", "lng": -101.34592, "zip_code": "58564"}
+{"locality": "Raleigh", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Raleigh"], "postal_code": "58564", "lat": 46.291855, "lng": -101.34592, "type": "STANDARD", "counties": [{"fips": "037", "name": "Grant"}]}

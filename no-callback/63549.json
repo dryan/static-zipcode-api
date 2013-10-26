@@ -1,1 +1,1 @@
-{"lat": 40.018881, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "La Plata", "lng": -92.50308, "zip_code": "63549"}
+{"locality": "La Plata", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["La Plata"], "postal_code": "63549", "lat": 40.018881, "lng": -92.50308, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}, {"fips": "001", "name": "Adair"}, {"fips": "103", "name": "Knox"}]}

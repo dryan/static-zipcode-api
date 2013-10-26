@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.626278, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Adrian", "lng": -95.93973, "zip_code": "56110"});
+zipapicallback({"locality": "Adrian", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Adrian"], "postal_code": "56110", "lat": 43.626278, "lng": -95.93973, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}]});

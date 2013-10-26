@@ -1,1 +1,1 @@
-{"lat": 39.656474, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Big Spring", "lng": -77.9152, "zip_code": "21722"}
+{"locality": "Clear Spring", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Big Spring", "Clear Spring"], "postal_code": "21722", "lat": 39.656474, "lng": -77.9152, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}]}

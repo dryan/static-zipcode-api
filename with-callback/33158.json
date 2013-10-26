@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.637132, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Miami", "lng": -80.31641, "zip_code": "33158"});
+zipapicallback({"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Coral Gables", "Miami", "Palmetto Bay", "Village Of Palmetto Bay"], "postal_code": "33158", "lat": 25.637132, "lng": -80.31641, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]});

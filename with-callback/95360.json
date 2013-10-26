@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.312014, "region": {"abbr": "CA", "name": "California"}, "locality": "Newman", "lng": -121.0314, "zip_code": "95360"});
+zipapicallback({"locality": "Newman", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Newman"], "postal_code": "95360", "lat": 37.312014, "lng": -121.0314, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.308798, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bangor", "lng": -86.12201, "zip_code": "49013"}
+{"locality": "Bangor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bangor"], "postal_code": "49013", "lat": 42.308798, "lng": -86.12201, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}]}

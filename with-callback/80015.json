@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.623896, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Aurora", "lng": -104.77723, "zip_code": "80015"});
+zipapicallback({"locality": "Aurora", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Aurora", "Centennial"], "postal_code": "80015", "lat": 39.623896, "lng": -104.77723, "type": "STANDARD", "counties": [{"fips": "005", "name": "Arapahoe"}]});

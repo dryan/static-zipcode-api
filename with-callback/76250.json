@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.62109, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lindsay", "lng": -97.20652, "zip_code": "76250"});
+zipapicallback({"locality": "Lindsay", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lindsay"], "postal_code": "76250", "lat": 33.62109, "lng": -97.20652, "type": "STANDARD", "counties": [{"fips": "097", "name": "Cooke"}]});

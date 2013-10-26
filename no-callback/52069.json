@@ -1,1 +1,1 @@
-{"lat": 42.051619, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Preston", "lng": -90.40762, "zip_code": "52069"}
+{"locality": "Preston", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Preston"], "postal_code": "52069", "lat": 42.051619, "lng": -90.40762, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}]}

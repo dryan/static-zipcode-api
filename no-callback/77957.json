@@ -1,1 +1,1 @@
-{"lat": 28.966755, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Edna", "lng": -96.65939, "zip_code": "77957"}
+{"locality": "Edna", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Edna"], "postal_code": "77957", "lat": 28.966755, "lng": -96.65939, "type": "STANDARD", "counties": [{"fips": "239", "name": "Jackson"}, {"fips": "237", "name": "Jack"}]}

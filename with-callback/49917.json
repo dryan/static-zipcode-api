@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.283086, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Copper City", "lng": -88.38434, "zip_code": "49917"});
+zipapicallback({"locality": "Copper City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Copper City"], "postal_code": "49917", "lat": 47.283086, "lng": -88.38434, "type": "POBOX", "counties": [{"fips": "061", "name": "Houghton"}]});

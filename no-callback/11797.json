@@ -1,1 +1,1 @@
-{"lat": 40.813801, "region": {"abbr": "NY", "name": "New York"}, "locality": "Woodbury", "lng": -73.46912, "zip_code": "11797"}
+{"locality": "Woodbury", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Woodbury"], "postal_code": "11797", "lat": 40.813801, "lng": -73.46912, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

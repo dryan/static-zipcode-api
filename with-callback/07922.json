@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.675112, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Berkeley Heights", "lng": -74.43459, "zip_code": "07922"});
+zipapicallback({"locality": "Berkeley Heights", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Berkeley Heights", "Berkeley Hts"], "postal_code": "07922", "lat": 40.675112, "lng": -74.43459, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}, {"fips": "027", "name": "Morris"}, {"fips": "035", "name": "Somerset"}]});

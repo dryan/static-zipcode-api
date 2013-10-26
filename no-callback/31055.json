@@ -1,1 +1,1 @@
-{"lat": 32.045313, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mc Rae", "lng": -82.8916, "zip_code": "31055"}
+{"locality": "Mc Rae", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mc Rae"], "postal_code": "31055", "lat": 32.045313, "lng": -82.8916, "type": "STANDARD", "counties": [{"fips": "271", "name": "Telfair"}]}

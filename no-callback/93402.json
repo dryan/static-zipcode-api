@@ -1,1 +1,1 @@
-{"lat": 35.313222, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Osos", "lng": -120.83468, "zip_code": "93402"}
+{"locality": "Los Osos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Osos", "San Luis Obispo", "Sn Luis Obisp"], "postal_code": "93402", "lat": 35.313222, "lng": -120.83468, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

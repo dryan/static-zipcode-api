@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.324644, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Thaxton", "lng": -89.20057, "zip_code": "38871"});
+zipapicallback({"locality": "Thaxton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Thaxton"], "postal_code": "38871", "lat": 34.324644, "lng": -89.20057, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pontotoc"}, {"fips": "145", "name": "Union"}, {"fips": "071", "name": "Lafayette"}]});

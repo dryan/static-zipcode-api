@@ -1,1 +1,1 @@
-{"lat": 37.49947, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Argo", "lng": -82.05643, "zip_code": "41568"}
+{"locality": "Stopover", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Argo", "Stopover", "Woodman"], "postal_code": "41568", "lat": 37.49947, "lng": -82.05643, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

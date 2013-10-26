@@ -1,1 +1,1 @@
-{"lat": 45.305113, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Timberline Lodge", "lng": -121.78441, "zip_code": "97028"}
+{"locality": "Government Camp", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Government Camp", "Government Cp", "Timberline Lodge", "Timbrline Ldg"], "postal_code": "97028", "lat": 45.305113, "lng": -121.78441, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}]}

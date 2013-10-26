@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.887372, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Malone", "lng": -88.28802, "zip_code": "53049"});
+zipapicallback({"locality": "Malone", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Malone"], "postal_code": "53049", "lat": 43.887372, "lng": -88.28802, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}, {"fips": "015", "name": "Calumet"}]});

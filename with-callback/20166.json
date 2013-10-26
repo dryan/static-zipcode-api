@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.004276, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sterling", "lng": -77.43442, "zip_code": "20166"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dulles", "Sterling"], "postal_code": "20166", "lat": 39.004276, "lng": -77.43442, "type": "STANDARD", "counties": []});

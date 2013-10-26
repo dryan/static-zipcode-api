@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.057969, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Quitman", "lng": -88.67069, "zip_code": "39355"});
+zipapicallback({"locality": "Quitman", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Quitman"], "postal_code": "39355", "lat": 32.057969, "lng": -88.67069, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clarke"}]});

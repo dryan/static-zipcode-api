@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.832943, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Benton", "lng": -90.21951, "zip_code": "39039"});
+zipapicallback({"locality": "Benton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Benton"], "postal_code": "39039", "lat": 32.832943, "lng": -90.21951, "type": "STANDARD", "counties": [{"fips": "163", "name": "Yazoo"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.435618, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Trenton", "lng": -96.3324, "zip_code": "75490"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Trenton"], "postal_code": "75490", "lat": 33.435618, "lng": -96.3324, "type": "STANDARD", "counties": [{"fips": "147", "name": "Fannin"}, {"fips": "181", "name": "Grayson"}]});

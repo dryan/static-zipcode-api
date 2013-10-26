@@ -1,1 +1,1 @@
-{"lat": 39.426551, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Marietta", "lng": -81.44373, "zip_code": "45750"}
+{"locality": "Marietta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Marietta"], "postal_code": "45750", "lat": 39.426551, "lng": -81.44373, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.877628, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Omaha", "lng": -88.29114, "zip_code": "62871"}
+{"locality": "Omaha", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Omaha"], "postal_code": "62871", "lat": 37.877628, "lng": -88.29114, "type": "STANDARD", "counties": [{"fips": "059", "name": "Gallatin"}, {"fips": "193", "name": "White"}]}

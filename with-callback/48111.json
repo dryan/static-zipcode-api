@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.194865, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Belleville", "lng": -83.49083, "zip_code": "48111"});
+zipapicallback({"locality": "Belleville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Belleville", "Sumpter Twp", "Van Buren Twp"], "postal_code": "48111", "lat": 42.194865, "lng": -83.49083, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.377741, "region": {"abbr": "CA", "name": "California"}, "locality": "Wilseyville", "lng": -120.45741, "zip_code": "95257"}
+{"locality": "Wilseyville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Wilseyville"], "postal_code": "95257", "lat": 38.377741, "lng": -120.45741, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]}

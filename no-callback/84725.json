@@ -1,1 +1,1 @@
-{"lat": 37.533546, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Enterprise", "lng": -113.76108, "zip_code": "84725"}
+{"locality": "Enterprise", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Enterprise"], "postal_code": "84725", "lat": 37.533546, "lng": -113.76108, "type": "POBOX", "counties": [{"fips": "053", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.448532, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Athens", "lng": -81.0032, "zip_code": "24712"}
+{"locality": "Athens", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Athens"], "postal_code": "24712", "lat": 37.448532, "lng": -81.0032, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.107548, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Seymour", "lng": -88.42487, "zip_code": "61875"});
+zipapicallback({"locality": "Seymour", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Seymour"], "postal_code": "61875", "lat": 40.107548, "lng": -88.42487, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.803814, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ripley", "lng": -81.70763, "zip_code": "25271"});
+zipapicallback({"locality": "Ripley", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ripley", "Statts Mills"], "postal_code": "25271", "lat": 38.803814, "lng": -81.70763, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}]});

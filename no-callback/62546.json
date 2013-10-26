@@ -1,1 +1,1 @@
-{"lat": 39.430427, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Morrisonville", "lng": -89.44719, "zip_code": "62546"}
+{"locality": "Morrisonville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Morrisonville"], "postal_code": "62546", "lat": 39.430427, "lng": -89.44719, "type": "STANDARD", "counties": [{"fips": "021", "name": "Christian"}, {"fips": "135", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.987925, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Seffner", "lng": -82.28819, "zip_code": "33584"});
+zipapicallback({"locality": "Seffner", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Seffner"], "postal_code": "33584", "lat": 27.987925, "lng": -82.28819, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.238084, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Junction", "lng": -112.23014, "zip_code": "84740"});
+zipapicallback({"locality": "Junction", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Junction"], "postal_code": "84740", "lat": 38.238084, "lng": -112.23014, "type": "POBOX", "counties": [{"fips": "031", "name": "Piute"}]});

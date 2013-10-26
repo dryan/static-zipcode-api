@@ -1,1 +1,1 @@
-{"lat": 39.103735, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fieldon", "lng": -90.54252, "zip_code": "62031"}
+{"locality": "Fieldon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fieldon"], "postal_code": "62031", "lat": 39.103735, "lng": -90.54252, "type": "STANDARD", "counties": [{"fips": "083", "name": "Jersey"}, {"fips": "061", "name": "Greene"}]}

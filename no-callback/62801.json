@@ -1,1 +1,1 @@
-{"lat": 38.523736, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Centralia", "lng": -89.1257, "zip_code": "62801"}
+{"locality": "Centralia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Centralia"], "postal_code": "62801", "lat": 38.523736, "lng": -89.1257, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}, {"fips": "121", "name": "Marion"}, {"fips": "189", "name": "Washington"}, {"fips": "081", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.084108, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Killeen", "lng": -97.79149, "zip_code": "76549"});
+zipapicallback({"locality": "Killeen", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Killeen"], "postal_code": "76549", "lat": 31.084108, "lng": -97.79149, "type": "STANDARD", "counties": []});

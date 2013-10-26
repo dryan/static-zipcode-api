@@ -1,1 +1,1 @@
-{"lat": 29.316606, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ormond Beach", "lng": -81.05611, "zip_code": "32176"}
+{"locality": "Ormond Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ormond Beach"], "postal_code": "32176", "lat": 29.316606, "lng": -81.05611, "type": "STANDARD", "counties": []}

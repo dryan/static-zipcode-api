@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.003762, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Merion Station", "lng": -75.2493, "zip_code": "19066"});
+zipapicallback({"locality": "Merion Station", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Merion Sta", "Merion Station"], "postal_code": "19066", "lat": 40.003762, "lng": -75.2493, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

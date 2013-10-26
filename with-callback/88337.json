@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.001397, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "La Luz", "lng": -105.91512, "zip_code": "88337"});
+zipapicallback({"locality": "La Luz", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["La Luz"], "postal_code": "88337", "lat": 33.001397, "lng": -105.91512, "type": "STANDARD", "counties": [{"fips": "035", "name": "Otero"}]});

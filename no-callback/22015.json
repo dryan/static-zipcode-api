@@ -1,1 +1,1 @@
-{"lat": 38.788646, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Burke", "lng": -77.27888, "zip_code": "22015"}
+{"locality": "Burke", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Burke", "Springfield"], "postal_code": "22015", "lat": 38.788646, "lng": -77.27888, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

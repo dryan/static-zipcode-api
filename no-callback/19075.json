@@ -1,1 +1,1 @@
-{"lat": 40.11461, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oreland", "lng": -75.18632, "zip_code": "19075"}
+{"locality": "Oreland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oreland"], "postal_code": "19075", "lat": 40.11461, "lng": -75.18632, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

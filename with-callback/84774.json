@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.250749, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Toquerville", "lng": -113.27491, "zip_code": "84774"});
+zipapicallback({"locality": "Toquerville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Toquerville"], "postal_code": "84774", "lat": 37.250749, "lng": -113.27491, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]});

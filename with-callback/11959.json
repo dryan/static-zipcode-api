@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.825411, "region": {"abbr": "NY", "name": "New York"}, "locality": "Quogue", "lng": -72.60506, "zip_code": "11959"});
+zipapicallback({"locality": "Quogue", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Quogue"], "postal_code": "11959", "lat": 40.825411, "lng": -72.60506, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]});

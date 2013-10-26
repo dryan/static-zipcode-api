@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.774869, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Vanadium", "lng": -108.10736, "zip_code": "88023"});
+zipapicallback({"locality": "Bayard", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bayard", "Vanadium"], "postal_code": "88023", "lat": 32.774869, "lng": -108.10736, "type": "STANDARD", "counties": [{"fips": "017", "name": "Grant"}]});

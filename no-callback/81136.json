@@ -1,1 +1,1 @@
-{"lat": 37.779885, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hooper", "lng": -105.81264, "zip_code": "81136"}
+{"locality": "Hooper", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hooper"], "postal_code": "81136", "lat": 37.779885, "lng": -105.81264, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alamosa"}]}

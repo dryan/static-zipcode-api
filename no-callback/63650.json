@@ -1,1 +1,1 @@
-{"lat": 37.614822, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Iron Mountain", "lng": -90.63284, "zip_code": "63650"}
+{"locality": "Ironton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ironton"], "postal_code": "63650", "lat": 37.614822, "lng": -90.63284, "type": "STANDARD", "counties": [{"fips": "093", "name": "Iron"}, {"fips": "187", "name": "St Francois"}, {"fips": "123", "name": "Madison"}]}

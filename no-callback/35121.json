@@ -1,1 +1,1 @@
-{"lat": 33.944897, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Oneonta", "lng": -86.45813, "zip_code": "35121"}
+{"locality": "Oneonta", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Highland Lake", "Oneonta", "Rosa"], "postal_code": "35121", "lat": 33.944897, "lng": -86.45813, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}, {"fips": "115", "name": "St. Clair"}, {"fips": "055", "name": "Etowah"}]}

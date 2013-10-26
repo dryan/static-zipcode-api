@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.363777, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Kersey", "lng": -104.51964, "zip_code": "80644"});
+zipapicallback({"locality": "Kersey", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Kersey"], "postal_code": "80644", "lat": 40.363777, "lng": -104.51964, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]});

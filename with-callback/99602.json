@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.198048, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Holy", "lng": -159.77341, "zip_code": "99602"});
+zipapicallback({"locality": "Holy Cross", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Holy Cross"], "postal_code": "99602", "lat": 62.198048, "lng": -159.77341, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

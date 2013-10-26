@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.401622, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cameron", "lng": -91.72727, "zip_code": "54822"});
+zipapicallback({"locality": "Cameron", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cameron"], "postal_code": "54822", "lat": 45.401622, "lng": -91.72727, "type": "STANDARD", "counties": [{"fips": "005", "name": "Barron"}]});

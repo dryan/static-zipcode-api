@@ -1,1 +1,1 @@
-{"lat": 37.799021, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Elsmore", "lng": -95.18806, "zip_code": "66732"}
+{"locality": "Elsmore", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Elsmore"], "postal_code": "66732", "lat": 37.799021, "lng": -95.18806, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allen"}]}

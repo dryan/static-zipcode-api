@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.24793, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Gretna", "lng": -76.46847, "zip_code": "17064"});
+zipapicallback({"locality": "Mount Gretna", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Gretna"], "postal_code": "17064", "lat": 40.24793, "lng": -76.46847, "type": "POBOX", "counties": [{"fips": "075", "name": "Lebanon"}]});

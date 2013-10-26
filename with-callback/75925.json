@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.626263, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Forest", "lng": -95.05495, "zip_code": "75925"});
+zipapicallback({"locality": "Alto", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alto", "Forest"], "postal_code": "75925", "lat": 31.626263, "lng": -95.05495, "type": "STANDARD", "counties": [{"fips": "073", "name": "Cherokee"}]});

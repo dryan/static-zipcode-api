@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.695247, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Osnabrock", "lng": -98.17672, "zip_code": "58269"});
+zipapicallback({"locality": "Osnabrock", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Osnabrock", "Union"], "postal_code": "58269", "lat": 48.695247, "lng": -98.17672, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cavalier"}]});

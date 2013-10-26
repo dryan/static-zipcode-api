@@ -1,1 +1,1 @@
-{"lat": 40.428735, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lafayette", "lng": -86.8768, "zip_code": "47904"}
+{"locality": "Lafayette", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["La Fayette", "Lafayette"], "postal_code": "47904", "lat": 40.428735, "lng": -86.8768, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tippecanoe"}]}

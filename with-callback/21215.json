@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.345456, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Baltimore", "lng": -76.68038, "zip_code": "21215"});
+zipapicallback({"locality": "Baltimore", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Arlington", "Baltimore"], "postal_code": "21215", "lat": 39.345456, "lng": -76.68038, "type": "STANDARD", "counties": [{"fips": "510", "name": "Baltimore (City)"}, {"fips": "005", "name": "Baltimore"}]});

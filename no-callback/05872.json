@@ -1,1 +1,1 @@
-{"lat": 44.865723, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "West Charleston", "lng": -72.04647, "zip_code": "05872"}
+{"locality": "West Charleston", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["W Charleston", "West Charleston"], "postal_code": "05872", "lat": 44.865723, "lng": -72.04647, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]}

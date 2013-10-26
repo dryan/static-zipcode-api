@@ -1,1 +1,1 @@
-{"lat": 43.234753, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wolcott", "lng": -76.8252, "zip_code": "14590"}
+{"locality": "Wolcott", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wolcott"], "postal_code": "14590", "lat": 43.234753, "lng": -76.8252, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}]}

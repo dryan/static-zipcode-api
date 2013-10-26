@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.31144, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Galvez", "lng": -90.93955, "zip_code": "70769"});
+zipapicallback({"locality": "Prairieville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Galvez", "Prairieville"], "postal_code": "70769", "lat": 30.31144, "lng": -90.93955, "type": "STANDARD", "counties": [{"fips": "005", "name": "Ascension"}]});

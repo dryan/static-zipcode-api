@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.834172, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Osteen", "lng": -81.0948, "zip_code": "32764"});
+zipapicallback({"locality": "Osteen", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Osteen"], "postal_code": "32764", "lat": 28.834172, "lng": -81.0948, "type": "STANDARD", "counties": [{"fips": "127", "name": "Volusia"}]});

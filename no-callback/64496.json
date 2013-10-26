@@ -1,1 +1,1 @@
-{"lat": 40.497797, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Watson", "lng": -95.63121, "zip_code": "64496"}
+{"locality": "Watson", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Watson"], "postal_code": "64496", "lat": 40.497797, "lng": -95.63121, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}]}

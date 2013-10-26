@@ -1,1 +1,1 @@
-{"lat": 40.820012, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "East Hanover", "lng": -74.36474, "zip_code": "07936"}
+{"locality": "East Hanover", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["East Hanover"], "postal_code": "07936", "lat": 40.820012, "lng": -74.36474, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

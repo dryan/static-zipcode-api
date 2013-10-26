@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.954239, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Phoneton", "lng": -84.17685, "zip_code": "45371"});
+zipapicallback({"locality": "Tipp City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Phoneton", "Tipp City"], "postal_code": "45371", "lat": 39.954239, "lng": -84.17685, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}, {"fips": "113", "name": "Montgomery"}]});

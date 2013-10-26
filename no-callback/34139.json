@@ -1,1 +1,1 @@
-{"lat": 25.856771, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Everglades City", "lng": -81.38412, "zip_code": "34139"}
+{"locality": "Everglades City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Everglades", "Everglades City"], "postal_code": "34139", "lat": 25.856771, "lng": -81.38412, "type": "POBOX", "counties": []}

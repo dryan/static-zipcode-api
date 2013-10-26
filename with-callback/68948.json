@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.34435, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Holbrook", "lng": -100.03595, "zip_code": "68948"});
+zipapicallback({"locality": "Holbrook", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Holbrook"], "postal_code": "68948", "lat": 40.34435, "lng": -100.03595, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}, {"fips": "063", "name": "Frontier"}, {"fips": "073", "name": "Gosper"}]});

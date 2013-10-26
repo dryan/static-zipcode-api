@@ -1,1 +1,1 @@
-{"lat": 43.798251, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Cumberland Cente", "lng": -70.26554, "zip_code": "04021"}
+{"locality": "Cumberland Center", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cumberland", "Cumberland Center", "Cumberlnd Ctr"], "postal_code": "04021", "lat": 43.798251, "lng": -70.26554, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

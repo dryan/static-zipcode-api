@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.628105, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Goodfield", "lng": -89.28004, "zip_code": "61742"});
+zipapicallback({"locality": "Goodfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Goodfield"], "postal_code": "61742", "lat": 40.628105, "lng": -89.28004, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}]});

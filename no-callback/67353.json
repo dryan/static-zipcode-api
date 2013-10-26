@@ -1,1 +1,1 @@
-{"lat": 37.337559, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Moline", "lng": -96.29965, "zip_code": "67353"}
+{"locality": "Moline", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Moline"], "postal_code": "67353", "lat": 37.337559, "lng": -96.29965, "type": "STANDARD", "counties": [{"fips": "049", "name": "Elk"}, {"fips": "019", "name": "Chautauqua"}]}

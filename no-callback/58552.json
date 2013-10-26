@@ -1,1 +1,1 @@
-{"lat": 46.257466, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Temvik", "lng": -100.23833, "zip_code": "58552"}
+{"locality": "Linton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Linton", "Temvik"], "postal_code": "58552", "lat": 46.257466, "lng": -100.23833, "type": "STANDARD", "counties": [{"fips": "029", "name": "Emmons"}]}

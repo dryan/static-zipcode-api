@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.312211, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Pavillion", "lng": -108.56038, "zip_code": "82523"});
+zipapicallback({"locality": "Pavillion", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Pavillion"], "postal_code": "82523", "lat": 43.312211, "lng": -108.56038, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]});

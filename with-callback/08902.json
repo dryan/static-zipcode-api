@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.453131, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "North Brunswick", "lng": -74.48287, "zip_code": "08902"});
+zipapicallback({"locality": "North Brunswick", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["N Brunswick", "New Brunswick", "North Brunswick"], "postal_code": "08902", "lat": 40.453131, "lng": -74.48287, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]});

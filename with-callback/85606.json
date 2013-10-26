@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.054694, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Cochise", "lng": -109.81342, "zip_code": "85606"});
+zipapicallback({"locality": "Cochise", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Cochise"], "postal_code": "85606", "lat": 32.054694, "lng": -109.81342, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]});

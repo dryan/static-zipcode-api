@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.821149, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cedar Knolls", "lng": -74.45121, "zip_code": "07927"});
+zipapicallback({"locality": "Cedar Knolls", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cedar Knolls"], "postal_code": "07927", "lat": 40.821149, "lng": -74.45121, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}, {"fips": "039", "name": "Union"}]});

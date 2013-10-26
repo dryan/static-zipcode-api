@@ -1,1 +1,1 @@
-{"lat": 37.420016, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Neodesha", "lng": -95.683, "zip_code": "66757"}
+{"locality": "Neodesha", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Neodesha"], "postal_code": "66757", "lat": 37.420016, "lng": -95.683, "type": "STANDARD", "counties": [{"fips": "205", "name": "Wilson"}, {"fips": "125", "name": "Montgomery"}]}

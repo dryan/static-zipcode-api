@@ -1,1 +1,1 @@
-{"lat": 42.944346, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Gooding", "lng": -114.70605, "zip_code": "83330"}
+{"locality": "Gooding", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Gooding"], "postal_code": "83330", "lat": 42.944346, "lng": -114.70605, "type": "STANDARD", "counties": [{"fips": "047", "name": "Gooding"}]}

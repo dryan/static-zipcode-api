@@ -1,1 +1,1 @@
-{"lat": 39.352687, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Okeana", "lng": -84.78591, "zip_code": "45053"}
+{"locality": "Okeana", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Okeana"], "postal_code": "45053", "lat": 39.352687, "lng": -84.78591, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]}

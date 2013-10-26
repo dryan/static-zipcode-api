@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.876177, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lebanon", "lng": -82.11083, "zip_code": "24266"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lebanon"], "postal_code": "24266", "lat": 36.876177, "lng": -82.11083, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}]});

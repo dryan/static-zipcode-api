@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.681156, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Sun Valley", "lng": -114.33214, "zip_code": "83354"});
+zipapicallback({"locality": "Sun Valley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Elk Horn", "Sun Valley"], "postal_code": "83354", "lat": 43.681156, "lng": -114.33214, "type": "POBOX", "counties": [{"fips": "013", "name": "Blaine"}]});

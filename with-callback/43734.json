@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.876997, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Duncan Falls", "lng": -81.90909, "zip_code": "43734"});
+zipapicallback({"locality": "Duncan Falls", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Duncan Falls"], "postal_code": "43734", "lat": 39.876997, "lng": -81.90909, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}]});

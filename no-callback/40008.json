@@ -1,1 +1,1 @@
-{"lat": 37.923734, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bloomfield", "lng": -85.28257, "zip_code": "40008"}
+{"locality": "Bloomfield", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bloomfield"], "postal_code": "40008", "lat": 37.923734, "lng": -85.28257, "type": "STANDARD", "counties": [{"fips": "179", "name": "Nelson"}, {"fips": "215", "name": "Spencer"}, {"fips": "229", "name": "Washington"}]}

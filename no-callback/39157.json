@@ -1,1 +1,1 @@
-{"lat": 32.420814, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ridgeland", "lng": -90.13134, "zip_code": "39157"}
+{"locality": "Ridgeland", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ridgeland"], "postal_code": "39157", "lat": 32.420814, "lng": -90.13134, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.849327, "region": {"abbr": "CA", "name": "California"}, "locality": "Cerritos", "lng": -118.04395, "zip_code": "90623"});
+zipapicallback({"locality": "La Palma", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Buena Park", "La Palma"], "postal_code": "90623", "lat": 33.849327, "lng": -118.04395, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]});

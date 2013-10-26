@@ -1,1 +1,1 @@
-{"lat": 36.345919, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Reidsville", "lng": -79.67075, "zip_code": "27320"}
+{"locality": "Reidsville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Reidsville"], "postal_code": "27320", "lat": 36.345919, "lng": -79.67075, "type": "STANDARD", "counties": [{"fips": "157", "name": "Rockingham"}, {"fips": "033", "name": "Caswell"}, {"fips": "081", "name": "Guilford"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.720016, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dornsife", "lng": -76.73738, "zip_code": "17823"});
+zipapicallback({"locality": "Dornsife", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dornsife"], "postal_code": "17823", "lat": 40.720016, "lng": -76.73738, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]});

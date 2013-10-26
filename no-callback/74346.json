@@ -1,1 +1,1 @@
-{"lat": 36.444215, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Jay", "lng": -94.78345, "zip_code": "74346"}
+{"locality": "Jay", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Jay"], "postal_code": "74346", "lat": 36.444215, "lng": -94.78345, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delaware"}]}

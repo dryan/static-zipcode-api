@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.329565, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Rhame", "lng": -103.68539, "zip_code": "58651"});
+zipapicallback({"locality": "Rhame", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Rhame"], "postal_code": "58651", "lat": 46.329565, "lng": -103.68539, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bowman"}, {"fips": "087", "name": "Slope"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.871728, "region": {"abbr": "NY", "name": "New York"}, "locality": "Adams Center", "lng": -76.00793, "zip_code": "13606"}
+{"locality": "Adams Center", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Adams Center"], "postal_code": "13606", "lat": 43.871728, "lng": -76.00793, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]}

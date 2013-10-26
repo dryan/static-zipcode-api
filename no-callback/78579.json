@@ -1,1 +1,1 @@
-{"lat": 26.087777, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Progreso", "lng": -97.9719, "zip_code": "78579"}
+{"locality": "Progreso", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Progreso"], "postal_code": "78579", "lat": 26.087777, "lng": -97.9719, "type": "POBOX", "counties": [{"fips": "215", "name": "Hidalgo"}]}

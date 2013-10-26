@@ -1,1 +1,1 @@
-{"lat": 41.732418, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Long Grove", "lng": -90.53286, "zip_code": "52756"}
+{"locality": "Long Grove", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Long Grove"], "postal_code": "52756", "lat": 41.732418, "lng": -90.53286, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]}

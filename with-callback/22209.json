@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.893241, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Arlington", "lng": -77.07453, "zip_code": "22209"});
+zipapicallback({"locality": "Arlington", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Arlington", "Rosslyn"], "postal_code": "22209", "lat": 38.893241, "lng": -77.07453, "type": "STANDARD", "counties": [{"fips": "013", "name": "Arlington"}]});

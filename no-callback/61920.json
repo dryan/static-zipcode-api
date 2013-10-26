@@ -1,1 +1,1 @@
-{"lat": 39.496547, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Charleston", "lng": -88.17348, "zip_code": "61920"}
+{"locality": "Charleston", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Charleston"], "postal_code": "61920", "lat": 39.496547, "lng": -88.17348, "type": "STANDARD", "counties": [{"fips": "029", "name": "Coles"}]}

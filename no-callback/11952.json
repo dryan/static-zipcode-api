@@ -1,1 +1,1 @@
-{"lat": 40.994649, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mattituck", "lng": -72.53731, "zip_code": "11952"}
+{"locality": "Mattituck", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mattituck"], "postal_code": "11952", "lat": 40.994649, "lng": -72.53731, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

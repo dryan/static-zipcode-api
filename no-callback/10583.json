@@ -1,1 +1,1 @@
-{"lat": 40.98845, "region": {"abbr": "NY", "name": "New York"}, "locality": "Heathcote", "lng": -73.79716, "zip_code": "10583"}
+{"locality": "Scarsdale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Heathcote", "Scarsdale"], "postal_code": "10583", "lat": 40.98845, "lng": -73.79716, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.100353, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "North Henderson", "lng": -90.46726, "zip_code": "61466"});
+zipapicallback({"locality": "North Henderson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["N Henderson", "North Henderson"], "postal_code": "61466", "lat": 41.100353, "lng": -90.46726, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}, {"fips": "095", "name": "Knox"}, {"fips": "187", "name": "Warren"}]});

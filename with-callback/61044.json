@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.320303, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kent", "lng": -89.91237, "zip_code": "61044"});
+zipapicallback({"locality": "Kent", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kent"], "postal_code": "61044", "lat": 42.320303, "lng": -89.91237, "type": "STANDARD", "counties": [{"fips": "177", "name": "Stephenson"}, {"fips": "085", "name": "Jo Daviess"}]});

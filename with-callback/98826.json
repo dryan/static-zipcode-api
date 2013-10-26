@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.728186, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Leavenworth", "lng": -120.73874, "zip_code": "98826"});
+zipapicallback({"locality": "Leavenworth", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Leavenworth"], "postal_code": "98826", "lat": 47.728186, "lng": -120.73874, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}]});

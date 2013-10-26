@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.001124, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Trout", "lng": -80.48027, "zip_code": "24991"});
+zipapicallback({"locality": "Williamsburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Trout", "Williamsburg"], "postal_code": "24991", "lat": 38.001124, "lng": -80.48027, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]});

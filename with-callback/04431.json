@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.56801, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Orland", "lng": -68.68116, "zip_code": "04431"});
+zipapicallback({"locality": "East Orland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["East Orland"], "postal_code": "04431", "lat": 44.56801, "lng": -68.68116, "type": "POBOX", "counties": [{"fips": "009", "name": "Hancock"}]});

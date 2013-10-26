@@ -1,1 +1,1 @@
-{"lat": 44.967565, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Paul", "lng": -93.05001, "zip_code": "55106"}
+{"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Paul"], "postal_code": "55106", "lat": 44.967565, "lng": -93.05001, "type": "STANDARD", "counties": [{"fips": "123", "name": "Ramsey"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.392104, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mount Upton", "lng": -75.41093, "zip_code": "13809"});
+zipapicallback({"locality": "Mount Upton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mount Upton"], "postal_code": "13809", "lat": 42.392104, "lng": -75.41093, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}, {"fips": "077", "name": "Otsego"}]});

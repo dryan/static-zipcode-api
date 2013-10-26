@@ -1,1 +1,1 @@
-{"lat": 30.249994, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pearlington", "lng": -89.60493, "zip_code": "39572"}
+{"locality": "Pearlington", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Pearlington"], "postal_code": "39572", "lat": 30.249994, "lng": -89.60493, "type": "STANDARD", "counties": [{"fips": "045", "name": "Hancock"}]}

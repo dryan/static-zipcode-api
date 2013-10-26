@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.481674, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mascoutah", "lng": -89.79432, "zip_code": "62258"});
+zipapicallback({"locality": "Mascoutah", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fayetteville", "Mascoutah"], "postal_code": "62258", "lat": 38.481674, "lng": -89.79432, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}, {"fips": "027", "name": "Clinton"}]});

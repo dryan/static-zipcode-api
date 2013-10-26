@@ -1,1 +1,1 @@
-{"lat": 44.230421, "region": {"abbr": "NY", "name": "New York"}, "locality": "Frontenac", "lng": -76.09312, "zip_code": "13624"}
+{"locality": "Clayton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clayton", "Frontenac", "Grenell", "Murray Isle"], "postal_code": "13624", "lat": 44.230421, "lng": -76.09312, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]}

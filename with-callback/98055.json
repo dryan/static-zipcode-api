@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.467422, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Renton", "lng": -122.21005, "zip_code": "98055"});
+zipapicallback({"locality": "Renton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Renton"], "postal_code": "98055", "lat": 47.467422, "lng": -122.21005, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

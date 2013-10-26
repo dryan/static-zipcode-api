@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.371519, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Clifton", "lng": -92.97318, "zip_code": "71455"});
+zipapicallback({"locality": "Mora", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mora"], "postal_code": "71455", "lat": 31.371519, "lng": -92.97318, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

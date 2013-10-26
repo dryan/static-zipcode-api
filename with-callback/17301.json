@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.891548, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Abbottstown", "lng": -76.98359, "zip_code": "17301"});
+zipapicallback({"locality": "Abbottstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Abbottstown"], "postal_code": "17301", "lat": 39.891548, "lng": -76.98359, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "133", "name": "York"}]});

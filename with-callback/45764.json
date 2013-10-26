@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.450463, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Nelsonville", "lng": -82.22975, "zip_code": "45764"});
+zipapicallback({"locality": "Nelsonville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Nelsonville"], "postal_code": "45764", "lat": 39.450463, "lng": -82.22975, "type": "STANDARD", "counties": [{"fips": "009", "name": "Athens"}, {"fips": "073", "name": "Hocking"}]});

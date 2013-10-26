@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.68627, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Emporia", "lng": -77.56121, "zip_code": "23847"});
+zipapicallback({"locality": "Emporia", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Emporia"], "postal_code": "23847", "lat": 36.68627, "lng": -77.56121, "type": "STANDARD", "counties": [{"fips": "595", "name": "Emporia (City)"}, {"fips": "081", "name": "Greensville"}, {"fips": "025", "name": "Brunswick"}, {"fips": "183", "name": "Sussex"}, {"fips": "175", "name": "Southampton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.561512, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Irondale", "lng": -80.71859, "zip_code": "43932"});
+zipapicallback({"locality": "Irondale", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Irondale"], "postal_code": "43932", "lat": 40.561512, "lng": -80.71859, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}, {"fips": "029", "name": "Columbiana"}]});

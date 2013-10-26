@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.188074, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Prairie View", "lng": -87.92717, "zip_code": "60069"});
+zipapicallback({"locality": "Lincolnshire", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lincolnshire", "Prairie View", "Prairieview"], "postal_code": "60069", "lat": 42.188074, "lng": -87.92717, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}, {"fips": "031", "name": "Cook"}]});

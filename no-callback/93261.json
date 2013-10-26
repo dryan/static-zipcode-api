@@ -1,1 +1,1 @@
-{"lat": 35.801627, "region": {"abbr": "CA", "name": "California"}, "locality": "Richgrove", "lng": -119.11699, "zip_code": "93261"}
+{"locality": "Richgrove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Richgrove"], "postal_code": "93261", "lat": 35.801627, "lng": -119.11699, "type": "POBOX", "counties": [{"fips": "107", "name": "Tulare"}]}

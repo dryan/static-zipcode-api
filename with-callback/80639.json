@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Greeley", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Greeley"], "postal_code": "80639", "type": "UNIQUE", "counties": [{"fips": "123", "name": "Weld"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.662116, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Iowa City", "lng": -91.54143, "zip_code": "52242"}
+{"locality": "Iowa City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Iowa City"], "postal_code": "52242", "lat": 41.662116, "lng": -91.54143, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]}

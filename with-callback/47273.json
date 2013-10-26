@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.085027, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Scipio", "lng": -85.7316, "zip_code": "47273"});
+zipapicallback({"locality": "Scipio", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Scipio"], "postal_code": "47273", "lat": 39.085027, "lng": -85.7316, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jennings"}, {"fips": "005", "name": "Bartholomew"}]});

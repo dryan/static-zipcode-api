@@ -1,1 +1,1 @@
-{"lat": 37.3946, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bohannon", "lng": -76.36571, "zip_code": "23021"}
+{"locality": "Bohannon", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bohannon"], "postal_code": "23021", "lat": 37.3946, "lng": -76.36571, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]}

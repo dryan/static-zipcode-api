@@ -1,1 +1,1 @@
-{"lat": 39.908163, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Oaklyn", "lng": -75.08618, "zip_code": "08107"}
+{"locality": "Oaklyn", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Collingswood", "Haddon Township", "Haddon Twp", "Oaklyn", "W Colls", "West Collingswood", "Woodlynne"], "postal_code": "08107", "lat": 39.908163, "lng": -75.08618, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

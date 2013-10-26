@@ -1,1 +1,1 @@
-{"lat": 27.741505, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Petersburg", "lng": -82.75179, "zip_code": "33706"}
+{"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pass A Grille", "Pass A Grille Beach", "Saint Pete Beach", "Saint Petersburg", "St Pete Bch", "St Pete Beach", "St Petersburg", "St Petersburg Beach", "Treasure Is", "Treasure Island"], "postal_code": "33706", "lat": 27.741505, "lng": -82.75179, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

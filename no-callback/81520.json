@@ -1,1 +1,1 @@
-{"lat": 39.085981, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Clifton", "lng": -108.44444, "zip_code": "81520"}
+{"locality": "Clifton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Clifton"], "postal_code": "81520", "lat": 39.085981, "lng": -108.44444, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]}

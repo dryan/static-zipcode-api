@@ -1,1 +1,1 @@
-{"lat": 36.076635, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Alexandria", "lng": -86.01978, "zip_code": "37012"}
+{"locality": "Alexandria", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Alexandria"], "postal_code": "37012", "lat": 36.076635, "lng": -86.01978, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dekalb"}, {"fips": "159", "name": "Smith"}, {"fips": "189", "name": "Wilson"}]}

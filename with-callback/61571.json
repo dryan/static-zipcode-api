@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.701037, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sunnyland", "lng": -89.44294, "zip_code": "61571"});
+zipapicallback({"locality": "Washington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Washington"], "postal_code": "61571", "lat": 40.701037, "lng": -89.44294, "type": "STANDARD", "counties": [{"fips": "179", "name": "Tazewell"}]});

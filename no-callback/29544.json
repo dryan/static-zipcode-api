@@ -1,1 +1,1 @@
-{"lat": 34.002167, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Galivants Ferry", "lng": -79.19325, "zip_code": "29544"}
+{"locality": "Galivants Ferry", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Aynor", "Galivants Ferry", "Galivants Fry"], "postal_code": "29544", "lat": 34.002167, "lng": -79.19325, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}]}

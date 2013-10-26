@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.983665, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Friendship", "lng": -69.33885, "zip_code": "04547"});
+zipapicallback({"locality": "Friendship", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Friendship"], "postal_code": "04547", "lat": 43.983665, "lng": -69.33885, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]});

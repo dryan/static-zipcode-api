@@ -1,1 +1,1 @@
-{"lat": 35.058503, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Adona", "lng": -92.88762, "zip_code": "72001"}
+{"locality": "Adona", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Adona"], "postal_code": "72001", "lat": 35.058503, "lng": -92.88762, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perry"}, {"fips": "029", "name": "Conway"}]}

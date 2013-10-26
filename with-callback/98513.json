@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.00581, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Olympia", "lng": -122.75285, "zip_code": "98513"});
+zipapicallback({"locality": "Olympia", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lacey", "Olympia"], "postal_code": "98513", "lat": 47.00581, "lng": -122.75285, "type": "STANDARD", "counties": []});

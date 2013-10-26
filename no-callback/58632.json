@@ -1,1 +1,1 @@
-{"lat": 46.713628, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Golva", "lng": -103.94995, "zip_code": "58632"}
+{"locality": "Golva", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Golva"], "postal_code": "58632", "lat": 46.713628, "lng": -103.94995, "type": "STANDARD", "counties": [{"fips": "033", "name": "Golden Valley"}]}

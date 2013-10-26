@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.946746, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Hyattsville", "lng": -76.9356, "zip_code": "20781"});
+zipapicallback({"locality": "Hyattsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hyattsville"], "postal_code": "20781", "lat": 38.946746, "lng": -76.9356, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

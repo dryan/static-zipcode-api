@@ -1,1 +1,1 @@
-{"lat": 36.99497, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Battery Park", "lng": -76.56901, "zip_code": "23304"}
+{"locality": "Battery Park", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Battery Park"], "postal_code": "23304", "lat": 36.99497, "lng": -76.56901, "type": "POBOX", "counties": [{"fips": "093", "name": "Isle of Wight"}]}

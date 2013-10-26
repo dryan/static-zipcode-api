@@ -1,1 +1,1 @@
-{"lat": 36.245162, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dolph", "lng": -92.12962, "zip_code": "72528"}
+{"locality": "Dolph", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Dolph"], "postal_code": "72528", "lat": 36.245162, "lng": -92.12962, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]}

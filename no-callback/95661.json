@@ -1,1 +1,1 @@
-{"lat": 38.731976, "region": {"abbr": "CA", "name": "California"}, "locality": "Roseville", "lng": -121.2531, "zip_code": "95661"}
+{"locality": "Roseville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Roseville"], "postal_code": "95661", "lat": 38.731976, "lng": -121.2531, "type": "STANDARD", "counties": [{"fips": "061", "name": "Placer"}, {"fips": "067", "name": "Sacramento"}]}

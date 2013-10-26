@@ -1,1 +1,1 @@
-{"lat": 38.072309, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Robson", "lng": -81.2457, "zip_code": "25173"}
+{"locality": "Robson", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Beards Fork", "Robson"], "postal_code": "25173", "lat": 38.072309, "lng": -81.2457, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]}

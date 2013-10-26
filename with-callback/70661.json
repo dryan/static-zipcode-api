@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.338939, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Starks", "lng": -93.66472, "zip_code": "70661"});
+zipapicallback({"locality": "Starks", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Starks"], "postal_code": "70661", "lat": 30.338939, "lng": -93.66472, "type": "STANDARD", "counties": [{"fips": "019", "name": "Calcasieu"}]});

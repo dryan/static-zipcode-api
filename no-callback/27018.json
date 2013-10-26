@@ -1,1 +1,1 @@
-{"lat": 36.198622, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "East Bend", "lng": -80.52694, "zip_code": "27018"}
+{"locality": "East Bend", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["East Bend"], "postal_code": "27018", "lat": 36.198622, "lng": -80.52694, "type": "STANDARD", "counties": [{"fips": "197", "name": "Yadkin"}]}

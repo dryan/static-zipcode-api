@@ -1,1 +1,1 @@
-{"lat": 42.985613, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Corwith", "lng": -93.96138, "zip_code": "50430"}
+{"locality": "Corwith", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Corwith"], "postal_code": "50430", "lat": 42.985613, "lng": -93.96138, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.507527, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hallsville", "lng": -94.55839, "zip_code": "75650"}
+{"locality": "Hallsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hallsville"], "postal_code": "75650", "lat": 32.507527, "lng": -94.55839, "type": "STANDARD", "counties": [{"fips": "203", "name": "Harrison"}]}

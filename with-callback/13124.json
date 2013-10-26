@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.639288, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Pitcher", "lng": -75.82012, "zip_code": "13124"});
+zipapicallback({"locality": "North Pitcher", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North Pitcher"], "postal_code": "13124", "lat": 42.639288, "lng": -75.82012, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}]});

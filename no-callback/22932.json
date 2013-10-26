@@ -1,1 +1,1 @@
-{"lat": 38.116217, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Yancey Mills", "lng": -78.71396, "zip_code": "22932"}
+{"locality": "Crozet", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Crozet", "Yancey Mills"], "postal_code": "22932", "lat": 38.116217, "lng": -78.71396, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}]}

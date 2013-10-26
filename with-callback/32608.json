@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.611545, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Gainesville", "lng": -82.3941, "zip_code": "32608"});
+zipapicallback({"locality": "Gainesville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Gainesville"], "postal_code": "32608", "lat": 29.611545, "lng": -82.3941, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alachua"}]});

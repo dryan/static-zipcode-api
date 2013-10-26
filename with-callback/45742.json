@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.273206, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Little Hocking", "lng": -81.70889, "zip_code": "45742"});
+zipapicallback({"locality": "Little Hocking", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Little Hocking", "Little Hockng"], "postal_code": "45742", "lat": 39.273206, "lng": -81.70889, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}, {"fips": "009", "name": "Athens"}]});

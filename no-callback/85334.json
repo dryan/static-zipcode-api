@@ -1,1 +1,1 @@
-{"lat": 33.631915, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Ehrenberg", "lng": -114.49095, "zip_code": "85334"}
+{"locality": "Ehrenberg", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Ehrenberg"], "postal_code": "85334", "lat": 33.631915, "lng": -114.49095, "type": "POBOX", "counties": [{"fips": "012", "name": "La Paz"}]}

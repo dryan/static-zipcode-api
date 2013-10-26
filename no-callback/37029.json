@@ -1,1 +1,1 @@
-{"lat": 36.047742, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Burns", "lng": -87.28938, "zip_code": "37029"}
+{"locality": "Burns", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Burns"], "postal_code": "37029", "lat": 36.047742, "lng": -87.28938, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickson"}]}

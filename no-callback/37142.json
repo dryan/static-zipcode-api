@@ -1,1 +1,1 @@
-{"lat": 36.421075, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Palmyra", "lng": -87.49893, "zip_code": "37142"}
+{"locality": "Palmyra", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Palmyra"], "postal_code": "37142", "lat": 36.421075, "lng": -87.49893, "type": "STANDARD", "counties": [{"fips": "125", "name": "Montgomery"}]}

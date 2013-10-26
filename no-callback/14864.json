@@ -1,1 +1,1 @@
-{"lat": 42.271938, "region": {"abbr": "NY", "name": "New York"}, "locality": "Millport", "lng": -76.83926, "zip_code": "14864"}
+{"locality": "Millport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Millport"], "postal_code": "14864", "lat": 42.271938, "lng": -76.83926, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chemung"}, {"fips": "097", "name": "Schuyler"}]}

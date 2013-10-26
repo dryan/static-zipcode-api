@@ -1,1 +1,1 @@
-{"lat": 41.814385, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Frontier", "lng": -110.53743, "zip_code": "83121"}
+{"locality": "Frontier", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Frontier"], "postal_code": "83121", "lat": 41.814385, "lng": -110.53743, "type": "POBOX", "counties": [{"fips": "023", "name": "Lincoln"}]}

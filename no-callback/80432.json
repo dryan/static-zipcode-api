@@ -1,1 +1,1 @@
-{"lat": 39.24344, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Como", "lng": -105.79431, "zip_code": "80432"}
+{"locality": "Como", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Como", "Fairplay"], "postal_code": "80432", "lat": 39.24344, "lng": -105.79431, "type": "POBOX", "counties": [{"fips": "093", "name": "Park"}]}

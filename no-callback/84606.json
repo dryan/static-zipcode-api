@@ -1,1 +1,1 @@
-{"lat": 40.226302, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Provo", "lng": -111.64439, "zip_code": "84606"}
+{"locality": "Provo", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Provo"], "postal_code": "84606", "lat": 40.226302, "lng": -111.64439, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.809993, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Solon", "lng": -91.50849, "zip_code": "52333"});
+zipapicallback({"locality": "Solon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Solon"], "postal_code": "52333", "lat": 41.809993, "lng": -91.50849, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]});

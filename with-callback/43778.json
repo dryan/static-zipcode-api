@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.995987, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Salesville", "lng": -81.36641, "zip_code": "43778"});
+zipapicallback({"locality": "Salesville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Salesville"], "postal_code": "43778", "lat": 39.995987, "lng": -81.36641, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "121", "name": "Noble"}]});

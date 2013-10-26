@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.926595, "region": {"abbr": "NY", "name": "New York"}, "locality": "Riverhead", "lng": -72.65327, "zip_code": "11901"});
+zipapicallback({"locality": "Riverhead", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Flanders", "Riverhead"], "postal_code": "11901", "lat": 40.926595, "lng": -72.65327, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

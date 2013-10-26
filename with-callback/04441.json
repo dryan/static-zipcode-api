@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.517693, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Greenville", "lng": -69.5223, "zip_code": "04441"});
+zipapicallback({"locality": "Greenville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Beaver Cove", "Frenchtown Twp", "Frenchtwn Twp", "Greenville", "Lily Bay Twp"], "postal_code": "04441", "lat": 45.517693, "lng": -69.5223, "type": "STANDARD", "counties": [{"fips": "021", "name": "Piscataquis"}]});

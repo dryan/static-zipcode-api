@@ -1,1 +1,1 @@
-{"lat": 37.761356, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Van Lear", "lng": -82.72165, "zip_code": "41265"}
+{"locality": "Van Lear", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Van Lear"], "postal_code": "41265", "lat": 37.761356, "lng": -82.72165, "type": "STANDARD", "counties": [{"fips": "115", "name": "Johnson"}, {"fips": "071", "name": "Floyd"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.270994, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Williamsburg", "lng": -76.71722, "zip_code": "23186"});
+zipapicallback({"locality": "Williamsburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Williamsburg"], "postal_code": "23186", "lat": 37.270994, "lng": -76.71722, "type": "UNIQUE", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 29.466781, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Balcones Heights", "lng": -98.52519, "zip_code": "78201"}
+{"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Balcones Heights", "Balcones Hts", "San Antonio"], "postal_code": "78201", "lat": 29.466781, "lng": -98.52519, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.78288, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Homer", "lng": -93.03176, "zip_code": "71040"}
+{"locality": "Homer", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Homer"], "postal_code": "71040", "lat": 32.78288, "lng": -93.03176, "type": "STANDARD", "counties": [{"fips": "027", "name": "Claiborne"}]}

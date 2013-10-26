@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.111937, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Creedmoor", "lng": -78.69122, "zip_code": "27522"});
+zipapicallback({"locality": "Creedmoor", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Creedmoor"], "postal_code": "27522", "lat": 36.111937, "lng": -78.69122, "type": "STANDARD", "counties": [{"fips": "077", "name": "Granville"}, {"fips": "183", "name": "Wake"}]});

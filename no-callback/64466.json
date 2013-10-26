@@ -1,1 +1,1 @@
-{"lat": 40.17606, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Maitland", "lng": -95.08755, "zip_code": "64466"}
+{"locality": "Maitland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Maitland"], "postal_code": "64466", "lat": 40.17606, "lng": -95.08755, "type": "STANDARD", "counties": [{"fips": "087", "name": "Holt"}]}

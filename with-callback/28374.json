@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.195417, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Pinehurst", "lng": -79.46496, "zip_code": "28374"});
+zipapicallback({"locality": "Pinehurst", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Pinehurst"], "postal_code": "28374", "lat": 35.195417, "lng": -79.46496, "type": "STANDARD", "counties": [{"fips": "125", "name": "Moore"}]});

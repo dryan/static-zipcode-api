@@ -1,1 +1,1 @@
-{"lat": 41.931753, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rippey", "lng": -94.20565, "zip_code": "50235"}
+{"locality": "Rippey", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rippey"], "postal_code": "50235", "lat": 41.931753, "lng": -94.20565, "type": "STANDARD", "counties": [{"fips": "073", "name": "Greene"}]}

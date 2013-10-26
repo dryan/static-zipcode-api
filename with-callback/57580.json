@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.289115, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Clearfield", "lng": -99.97143, "zip_code": "57580"});
+zipapicallback({"locality": "Winner", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Carter", "Clearfield", "Keyapaha", "Millboro", "Wewela", "Winner"], "postal_code": "57580", "lat": 43.289115, "lng": -99.97143, "type": "STANDARD", "counties": [{"fips": "123", "name": "Tripp"}]});

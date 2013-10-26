@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.557035, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Marbleton", "lng": -110.11482, "zip_code": "83113"});
+zipapicallback({"locality": "Big Piney", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Big Piney", "Marbleton"], "postal_code": "83113", "lat": 42.557035, "lng": -110.11482, "type": "STANDARD", "counties": [{"fips": "035", "name": "Sublette"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.355531, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fruitland", "lng": -91.12994, "zip_code": "52749"}
+{"locality": "Fruitland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fruitland"], "postal_code": "52749", "lat": 41.355531, "lng": -91.12994, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}]}

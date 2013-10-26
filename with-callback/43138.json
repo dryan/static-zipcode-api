@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.530972, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Logan", "lng": -82.40801, "zip_code": "43138"});
+zipapicallback({"locality": "Logan", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Logan"], "postal_code": "43138", "lat": 39.530972, "lng": -82.40801, "type": "STANDARD", "counties": [{"fips": "073", "name": "Hocking"}, {"fips": "127", "name": "Perry"}, {"fips": "163", "name": "Vinton"}]});

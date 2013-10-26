@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.366833, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Littlefork", "lng": -93.56367, "zip_code": "56653"});
+zipapicallback({"locality": "Littlefork", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Littlefork"], "postal_code": "56653", "lat": 48.366833, "lng": -93.56367, "type": "STANDARD", "counties": [{"fips": "071", "name": "Koochiching"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.378447, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "North Haven", "lng": -72.85897, "zip_code": "06473"});
+zipapicallback({"locality": "North Haven", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["North Haven"], "postal_code": "06473", "lat": 41.378447, "lng": -72.85897, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}, {"fips": "001", "name": "Fairfield"}]});

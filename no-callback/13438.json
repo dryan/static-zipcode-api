@@ -1,1 +1,1 @@
-{"lat": 43.349682, "region": {"abbr": "NY", "name": "New York"}, "locality": "Remsen", "lng": -75.15821, "zip_code": "13438"}
+{"locality": "Remsen", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Remsen"], "postal_code": "13438", "lat": 43.349682, "lng": -75.15821, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}, {"fips": "065", "name": "Oneida"}]}

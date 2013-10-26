@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.049908, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Darfur", "lng": -94.83877, "zip_code": "56022"});
+zipapicallback({"locality": "Darfur", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Darfur"], "postal_code": "56022", "lat": 44.049908, "lng": -94.83877, "type": "POBOX", "counties": [{"fips": "165", "name": "Watonwan"}]});

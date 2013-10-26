@@ -1,1 +1,1 @@
-{"lat": 32.051618, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Preston", "lng": -84.53419, "zip_code": "31824"}
+{"locality": "Preston", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Preston"], "postal_code": "31824", "lat": 32.051618, "lng": -84.53419, "type": "STANDARD", "counties": [{"fips": "307", "name": "Webster"}, {"fips": "197", "name": "Marion"}]}

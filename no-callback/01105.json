@@ -1,1 +1,1 @@
-{"lat": 42.096644, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Springfield", "lng": -72.5798, "zip_code": "01105"}
+{"locality": "Springfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Springfield"], "postal_code": "01105", "lat": 42.096644, "lng": -72.5798, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

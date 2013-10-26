@@ -1,1 +1,1 @@
-{"lat": 44.951551, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Old Town", "lng": -68.67889, "zip_code": "04468"}
+{"locality": "Old Town", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Alton", "Argyle Twp", "Indian Island", "Old Town"], "postal_code": "04468", "lat": 44.951551, "lng": -68.67889, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]}

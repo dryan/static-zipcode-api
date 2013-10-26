@@ -1,1 +1,1 @@
-{"lat": 35.045196, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Gotebo", "lng": -98.87586, "zip_code": "73041"}
+{"locality": "Gotebo", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Gotebo"], "postal_code": "73041", "lat": 35.045196, "lng": -98.87586, "type": "STANDARD", "counties": [{"fips": "075", "name": "Kiowa"}]}

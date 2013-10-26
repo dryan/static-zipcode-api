@@ -1,1 +1,1 @@
-{"lat": 36.981495, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Big Laurel", "lng": -83.25264, "zip_code": "40808"}
+{"locality": "Big Laurel", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Big Laurel"], "postal_code": "40808", "lat": 36.981495, "lng": -83.25264, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}, {"fips": "131", "name": "Leslie"}]}

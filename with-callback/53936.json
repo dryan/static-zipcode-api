@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.868852, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Grand Marsh", "lng": -89.70736, "zip_code": "53936"});
+zipapicallback({"locality": "Grand Marsh", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Grand Marsh"], "postal_code": "53936", "lat": 43.868852, "lng": -89.70736, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

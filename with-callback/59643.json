@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.186442, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Toston", "lng": -111.56253, "zip_code": "59643"});
+zipapicallback({"locality": "Toston", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Toston"], "postal_code": "59643", "lat": 46.186442, "lng": -111.56253, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broadwater"}]});

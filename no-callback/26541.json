@@ -1,1 +1,1 @@
-{"lat": 39.69234, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Maidsville", "lng": -79.97335, "zip_code": "26541"}
+{"locality": "Maidsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Core", "Maidsville"], "postal_code": "26541", "lat": 39.69234, "lng": -79.97335, "type": "STANDARD", "counties": [{"fips": "061", "name": "Monongalia"}]}

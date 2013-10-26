@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.601355, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Long Neck", "lng": -75.2411, "zip_code": "19966"});
+zipapicallback({"locality": "Millsboro", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Long Neck", "Millsboro"], "postal_code": "19966", "lat": 38.601355, "lng": -75.2411, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

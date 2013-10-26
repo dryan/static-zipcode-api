@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.413734, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Saint Henry", "lng": -84.6325, "zip_code": "45883"});
+zipapicallback({"locality": "Saint Henry", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Saint Henry"], "postal_code": "45883", "lat": 40.413734, "lng": -84.6325, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mercer"}, {"fips": "037", "name": "Darke"}]});

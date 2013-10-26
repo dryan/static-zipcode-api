@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.195927, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Stuart", "lng": -80.21143, "zip_code": "34996"});
+zipapicallback({"locality": "Stuart", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sewalls Point", "Stuart"], "postal_code": "34996", "lat": 27.195927, "lng": -80.21143, "type": "STANDARD", "counties": [{"fips": "085", "name": "Martin"}]});

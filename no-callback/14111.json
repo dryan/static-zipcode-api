@@ -1,1 +1,1 @@
-{"lat": 42.593148, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Collins", "lng": -78.91498, "zip_code": "14111"}
+{"locality": "North Collins", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North Collins"], "postal_code": "14111", "lat": 42.593148, "lng": -78.91498, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

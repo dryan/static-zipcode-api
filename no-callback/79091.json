@@ -1,1 +1,1 @@
-{"lat": 34.938094, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Umbarger", "lng": -102.11087, "zip_code": "79091"}
+{"locality": "Umbarger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Umbarger"], "postal_code": "79091", "lat": 34.938094, "lng": -102.11087, "type": "POBOX", "counties": [{"fips": "381", "name": "Randall"}]}

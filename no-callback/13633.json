@@ -1,1 +1,1 @@
-{"lat": 44.469527, "region": {"abbr": "NY", "name": "New York"}, "locality": "De Peyster", "lng": -75.50293, "zip_code": "13633"}
+{"locality": "De Peyster", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["De Peyster"], "postal_code": "13633", "lat": 44.469527, "lng": -75.50293, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

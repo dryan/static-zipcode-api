@@ -1,1 +1,1 @@
-{"lat": 34.046992, "region": {"abbr": "CA", "name": "California"}, "locality": "Fontana", "lng": -117.481, "zip_code": "92337"}
+{"locality": "Fontana", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fontana"], "postal_code": "92337", "lat": 34.046992, "lng": -117.481, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

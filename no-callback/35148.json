@@ -1,1 +1,1 @@
-{"lat": 33.753474, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Sumiton", "lng": -87.04756, "zip_code": "35148"}
+{"locality": "Sumiton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Sumiton"], "postal_code": "35148", "lat": 33.753474, "lng": -87.04756, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walker"}, {"fips": "073", "name": "Jefferson"}]}

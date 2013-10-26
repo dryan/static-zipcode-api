@@ -1,1 +1,1 @@
-{"lat": 40.431982, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Palm", "lng": -75.53852, "zip_code": "18070"}
+{"locality": "Palm", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Palm"], "postal_code": "18070", "lat": 40.431982, "lng": -75.53852, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "011", "name": "Berks"}]}

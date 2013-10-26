@@ -1,1 +1,1 @@
-{"lat": 35.03653, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Gaffney", "lng": -81.62497, "zip_code": "29340"}
+{"locality": "Gaffney", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Gaffney"], "postal_code": "29340", "lat": 35.03653, "lng": -81.62497, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}]}

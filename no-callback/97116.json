@@ -1,1 +1,1 @@
-{"lat": 45.541009, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Glenwood", "lng": -123.13043, "zip_code": "97116"}
+{"locality": "Forest Grove", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Forest Grove", "Glenwood"], "postal_code": "97116", "lat": 45.541009, "lng": -123.13043, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}]}

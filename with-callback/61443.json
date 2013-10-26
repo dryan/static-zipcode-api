@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.247536, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kewanee", "lng": -89.92848, "zip_code": "61443"});
+zipapicallback({"locality": "Kewanee", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kewanee"], "postal_code": "61443", "lat": 41.247536, "lng": -89.92848, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}]});

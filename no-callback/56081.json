@@ -1,1 +1,1 @@
-{"lat": 43.986563, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint James", "lng": -94.63345, "zip_code": "56081"}
+{"locality": "Saint James", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint James"], "postal_code": "56081", "lat": 43.986563, "lng": -94.63345, "type": "STANDARD", "counties": [{"fips": "165", "name": "Watonwan"}, {"fips": "015", "name": "Brown"}]}

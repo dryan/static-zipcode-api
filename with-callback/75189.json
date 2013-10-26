@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.960512, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Royse City", "lng": -96.31278, "zip_code": "75189"});
+zipapicallback({"locality": "Royse City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Royse City"], "postal_code": "75189", "lat": 32.960512, "lng": -96.31278, "type": "STANDARD", "counties": []});

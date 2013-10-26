@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.533868, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ramona", "lng": -95.90865, "zip_code": "74061"});
+zipapicallback({"locality": "Ramona", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ramona"], "postal_code": "74061", "lat": 36.533868, "lng": -95.90865, "type": "STANDARD", "counties": [{"fips": "147", "name": "Washington"}]});

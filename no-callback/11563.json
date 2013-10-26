@@ -1,1 +1,1 @@
-{"lat": 40.656974, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lynbrook", "lng": -73.67306, "zip_code": "11563"}
+{"locality": "Lynbrook", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lynbrook"], "postal_code": "11563", "lat": 40.656974, "lng": -73.67306, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

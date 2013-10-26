@@ -1,1 +1,1 @@
-zipapicallback({"lat": 64.854937, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Fairbanks", "lng": -147.87406, "zip_code": "99709"});
+zipapicallback({"locality": "Fairbanks", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Fairbanks"], "postal_code": "99709", "lat": 64.854937, "lng": -147.87406, "type": "STANDARD", "counties": [{"fips": "090", "name": "Fairbanks North Star"}]});

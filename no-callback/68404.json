@@ -1,1 +1,1 @@
-{"lat": 40.617147, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Martell", "lng": -96.7559, "zip_code": "68404"}
+{"locality": "Martell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Martell"], "postal_code": "68404", "lat": 40.617147, "lng": -96.7559, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}, {"fips": "067", "name": "Gage"}]}

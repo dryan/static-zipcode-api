@@ -1,1 +1,1 @@
-{"lat": 42.266805, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lake City", "lng": -94.73571, "zip_code": "51449"}
+{"locality": "Lake City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lake City"], "postal_code": "51449", "lat": 42.266805, "lng": -94.73571, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]}

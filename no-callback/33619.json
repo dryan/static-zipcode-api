@@ -1,1 +1,1 @@
-{"lat": 27.94605, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tampa", "lng": -82.37525, "zip_code": "33619"}
+{"locality": "Tampa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Clair Mel", "Clair Mel City", "Tampa"], "postal_code": "33619", "lat": 27.94605, "lng": -82.37525, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

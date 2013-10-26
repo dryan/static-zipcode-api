@@ -1,1 +1,1 @@
-{"lat": 37.640938, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bays", "lng": -83.24466, "zip_code": "41310"}
+{"locality": "Bays", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bays"], "postal_code": "41310", "lat": 37.640938, "lng": -83.24466, "type": "STANDARD", "counties": [{"fips": "025", "name": "Breathitt"}]}

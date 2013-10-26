@@ -1,1 +1,1 @@
-{"lat": 41.135335, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Eau Claire", "lng": -79.79791, "zip_code": "16030"}
+{"locality": "Eau Claire", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Eau Claire"], "postal_code": "16030", "lat": 41.135335, "lng": -79.79791, "type": "POBOX", "counties": [{"fips": "019", "name": "Butler"}]}

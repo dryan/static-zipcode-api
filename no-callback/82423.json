@@ -1,1 +1,1 @@
-{"lat": 44.979667, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Frannie", "lng": -108.64076, "zip_code": "82423"}
+{"locality": "Frannie", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Frannie"], "postal_code": "82423", "lat": 44.979667, "lng": -108.64076, "type": "POBOX", "counties": [{"fips": "029", "name": "Park"}]}

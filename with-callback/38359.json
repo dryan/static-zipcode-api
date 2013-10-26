@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.37046, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Milledgeville", "lng": -88.36434, "zip_code": "38359"});
+zipapicallback({"locality": "Milledgeville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Milledgeville"], "postal_code": "38359", "lat": 35.37046, "lng": -88.36434, "type": "STANDARD", "counties": [{"fips": "109", "name": "McNairy"}]});

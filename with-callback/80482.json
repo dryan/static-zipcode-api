@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.915508, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Winter Park", "lng": -105.78359, "zip_code": "80482"});
+zipapicallback({"locality": "Winter Park", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Winter Park"], "postal_code": "80482", "lat": 39.915508, "lng": -105.78359, "type": "POBOX", "counties": [{"fips": "049", "name": "Grand"}]});

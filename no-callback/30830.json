@@ -1,1 +1,1 @@
-{"lat": 33.080965, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Waynesboro", "lng": -81.9944, "zip_code": "30830"}
+{"locality": "Waynesboro", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Waynesboro"], "postal_code": "30830", "lat": 33.080965, "lng": -81.9944, "type": "STANDARD", "counties": [{"fips": "033", "name": "Burke"}, {"fips": "245", "name": "Richmond"}, {"fips": "165", "name": "Jenkins"}]}

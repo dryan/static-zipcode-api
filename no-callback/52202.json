@@ -1,1 +1,1 @@
-{"lat": 42.158477, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Alburnett", "lng": -91.63859, "zip_code": "52202"}
+{"locality": "Alburnett", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Alburnett"], "postal_code": "52202", "lat": 42.158477, "lng": -91.63859, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}]}

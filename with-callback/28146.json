@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.614422, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Salisbury", "lng": -80.43115, "zip_code": "28146"});
+zipapicallback({"locality": "Salisbury", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Granite Qry", "Granite Quarry", "Salisbury"], "postal_code": "28146", "lat": 35.614422, "lng": -80.43115, "type": "STANDARD", "counties": []});

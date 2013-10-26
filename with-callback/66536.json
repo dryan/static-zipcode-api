@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.200733, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Saint Marys", "lng": -96.07148, "zip_code": "66536"});
+zipapicallback({"locality": "Saint Marys", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Saint Marys"], "postal_code": "66536", "lat": 39.200733, "lng": -96.07148, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pottawatomie"}, {"fips": "197", "name": "Wabaunsee"}, {"fips": "085", "name": "Jackson"}, {"fips": "177", "name": "Shawnee"}]});

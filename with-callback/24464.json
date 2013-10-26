@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.897702, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Montebello", "lng": -79.08939, "zip_code": "24464"});
+zipapicallback({"locality": "Montebello", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Montebello"], "postal_code": "24464", "lat": 37.897702, "lng": -79.08939, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}]});

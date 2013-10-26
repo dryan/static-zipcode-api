@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.421594, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Burton", "lng": -80.67505, "zip_code": "29902"});
+zipapicallback({"locality": "Beaufort", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Beaufort"], "postal_code": "29902", "lat": 32.421594, "lng": -80.67505, "type": "STANDARD", "counties": [{"fips": "013", "name": "Beaufort"}]});

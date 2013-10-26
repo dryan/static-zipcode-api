@@ -1,1 +1,1 @@
-{"lat": 36.726258, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Miracle", "lng": -83.54969, "zip_code": "40856"}
+{"locality": "Miracle", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Miracle"], "postal_code": "40856", "lat": 36.726258, "lng": -83.54969, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bell"}]}

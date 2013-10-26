@@ -1,1 +1,1 @@
-{"lat": 41.673094, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Alvordton", "lng": -84.44711, "zip_code": "43501"}
+{"locality": "Alvordton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Alvordton"], "postal_code": "43501", "lat": 41.673094, "lng": -84.44711, "type": "STANDARD", "counties": [{"fips": "171", "name": "Williams"}]}

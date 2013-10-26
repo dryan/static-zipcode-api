@@ -1,1 +1,1 @@
-{"lat": 41.00232, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Anita", "lng": -78.96306, "zip_code": "15711"}
+{"locality": "Anita", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Anita"], "postal_code": "15711", "lat": 41.00232, "lng": -78.96306, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]}

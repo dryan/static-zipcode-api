@@ -1,1 +1,1 @@
-{"lat": 40.563073, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hallam", "lng": -96.78914, "zip_code": "68368"}
+{"locality": "Hallam", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hallam"], "postal_code": "68368", "lat": 40.563073, "lng": -96.78914, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}, {"fips": "067", "name": "Gage"}]}

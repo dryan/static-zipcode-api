@@ -1,1 +1,1 @@
-{"lat": 38.677306, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Delavan", "lng": -96.92129, "zip_code": "67449"}
+{"locality": "Herington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Delavan", "Herington", "Latimer"], "postal_code": "67449", "lat": 38.677306, "lng": -96.92129, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dickinson"}, {"fips": "127", "name": "Morris"}, {"fips": "115", "name": "Marion"}]}

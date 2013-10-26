@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.354403, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bowman", "lng": -80.65134, "zip_code": "29018"});
+zipapicallback({"locality": "Bowman", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bowman"], "postal_code": "29018", "lat": 33.354403, "lng": -80.65134, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.257364, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lebanon", "lng": -88.62873, "zip_code": "53047"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lebanon"], "postal_code": "53047", "lat": 43.257364, "lng": -88.62873, "type": "POBOX", "counties": [{"fips": "027", "name": "Dodge"}]});

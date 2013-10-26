@@ -1,1 +1,1 @@
-{"lat": 29.550223, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Randolph A F B", "lng": -98.29936, "zip_code": "78148"}
+{"locality": "Universal City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Universal City", "Universal Cty"], "postal_code": "78148", "lat": 29.550223, "lng": -98.29936, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

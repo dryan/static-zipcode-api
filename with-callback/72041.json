@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.745671, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "De Valls Bluff", "lng": -91.46945, "zip_code": "72041"});
+zipapicallback({"locality": "De Valls Bluff", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["De Valls Blf", "De Valls Bluff", "Devalls Bluff"], "postal_code": "72041", "lat": 34.745671, "lng": -91.46945, "type": "STANDARD", "counties": [{"fips": "117", "name": "Prairie"}]});

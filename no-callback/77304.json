@@ -1,1 +1,1 @@
-{"lat": 30.33146, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Panorama Village", "lng": -95.50703, "zip_code": "77304"}
+{"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe", "Panorama Village", "Panorama Vlg"], "postal_code": "77304", "lat": 30.33146, "lng": -95.50703, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]}

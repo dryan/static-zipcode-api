@@ -1,1 +1,1 @@
-{"lat": 40.954583, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Munson", "lng": -78.1668, "zip_code": "16860"}
+{"locality": "Munson", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Munson"], "postal_code": "16860", "lat": 40.954583, "lng": -78.1668, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}, {"fips": "027", "name": "Centre"}]}

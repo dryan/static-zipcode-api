@@ -1,1 +1,1 @@
-{"lat": 40.776151, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Negley", "lng": -80.54967, "zip_code": "44441"}
+{"locality": "Negley", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Negley"], "postal_code": "44441", "lat": 40.776151, "lng": -80.54967, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}]}

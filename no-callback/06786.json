@@ -1,1 +1,1 @@
-{"lat": 41.676415, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Terryville", "lng": -73.00836, "zip_code": "06786"}
+{"locality": "Terryville", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Terryville"], "postal_code": "06786", "lat": 41.676415, "lng": -73.00836, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

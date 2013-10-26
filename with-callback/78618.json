@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.486818, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Doss", "lng": -99.17526, "zip_code": "78618"});
+zipapicallback({"locality": "Doss", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Doss"], "postal_code": "78618", "lat": 30.486818, "lng": -99.17526, "type": "STANDARD", "counties": [{"fips": "171", "name": "Gillespie"}]});

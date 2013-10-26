@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.158737, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Bent", "lng": -105.85196, "zip_code": "88314"});
+zipapicallback({"locality": "Bent", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bent"], "postal_code": "88314", "lat": 33.158737, "lng": -105.85196, "type": "STANDARD", "counties": [{"fips": "035", "name": "Otero"}]});

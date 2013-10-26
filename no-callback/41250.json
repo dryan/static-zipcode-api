@@ -1,1 +1,1 @@
-{"lat": 37.758445, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Laura", "lng": -82.48919, "zip_code": "41250"}
+{"locality": "Pilgrim", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Laura", "Pilgrim"], "postal_code": "41250", "lat": 37.758445, "lng": -82.48919, "type": "STANDARD", "counties": [{"fips": "159", "name": "Martin"}]}

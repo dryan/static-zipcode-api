@@ -1,1 +1,1 @@
-{"lat": 37.312972, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Evergreen", "lng": -78.77203, "zip_code": "23939"}
+{"locality": "Evergreen", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Evergreen"], "postal_code": "23939", "lat": 37.312972, "lng": -78.77203, "type": "POBOX", "counties": [{"fips": "011", "name": "Appomattox"}]}

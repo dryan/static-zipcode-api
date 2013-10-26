@@ -1,1 +1,1 @@
-{"lat": 39.328784, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Kennedyville", "lng": -75.9666, "zip_code": "21645"}
+{"locality": "Kennedyville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Kennedyville"], "postal_code": "21645", "lat": 39.328784, "lng": -75.9666, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kent"}]}

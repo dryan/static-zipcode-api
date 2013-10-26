@@ -1,1 +1,1 @@
-{"lat": 61.629635, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Houston", "lng": -149.79507, "zip_code": "99694"}
+{"locality": "Houston", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Houston"], "postal_code": "99694", "lat": 61.629635, "lng": -149.79507, "type": "POBOX", "counties": [{"fips": "170", "name": "Matanuska-Susitna"}]}

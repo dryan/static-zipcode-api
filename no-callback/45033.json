@@ -1,1 +1,1 @@
-{"lat": 39.177002, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hooven", "lng": -84.76337, "zip_code": "45033"}
+{"locality": "Hooven", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hooven"], "postal_code": "45033", "lat": 39.177002, "lng": -84.76337, "type": "POBOX", "counties": [{"fips": "061", "name": "Hamilton"}]}

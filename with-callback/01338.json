@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.569498, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Buckland", "lng": -72.802, "zip_code": "01338"});
+zipapicallback({"locality": "Buckland", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Buckland"], "postal_code": "01338", "lat": 42.569498, "lng": -72.802, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

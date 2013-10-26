@@ -1,1 +1,1 @@
-{"lat": 48.732852, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Bronson", "lng": -96.63392, "zip_code": "56734"}
+{"locality": "Lake Bronson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Bronson"], "postal_code": "56734", "lat": 48.732852, "lng": -96.63392, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kittson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.294532, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Alexandria", "lng": -92.46015, "zip_code": "71301"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Alexandria"], "postal_code": "71301", "lat": 31.294532, "lng": -92.46015, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.975736, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "La Rose", "lng": -89.23943, "zip_code": "61541"}
+{"locality": "La Rose", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["La Rose"], "postal_code": "61541", "lat": 40.975736, "lng": -89.23943, "type": "POBOX", "counties": [{"fips": "123", "name": "Marshall"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.01528, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Swink", "lng": -95.20104, "zip_code": "74761"});
+zipapicallback({"locality": "Swink", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Swink"], "postal_code": "74761", "lat": 34.01528, "lng": -95.20104, "type": "POBOX", "counties": [{"fips": "023", "name": "Choctaw"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.162818, "region": {"abbr": "CA", "name": "California"}, "locality": "Lockeford", "lng": -121.14855, "zip_code": "95237"}
+{"locality": "Lockeford", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lockeford"], "postal_code": "95237", "lat": 38.162818, "lng": -121.14855, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

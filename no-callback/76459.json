@@ -1,1 +1,1 @@
-{"lat": 33.277727, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Jermyn", "lng": -98.39461, "zip_code": "76459"}
+{"locality": "Jermyn", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Jermyn"], "postal_code": "76459", "lat": 33.277727, "lng": -98.39461, "type": "STANDARD", "counties": []}

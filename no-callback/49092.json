@@ -1,1 +1,1 @@
-{"lat": 42.09724, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Tekonsha", "lng": -84.97543, "zip_code": "49092"}
+{"locality": "Tekonsha", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Tekonsha"], "postal_code": "49092", "lat": 42.09724, "lng": -84.97543, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}, {"fips": "023", "name": "Branch"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.192483, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Payne Gap", "lng": -82.6235, "zip_code": "41537"});
+zipapicallback({"locality": "Jenkins", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Jenkins", "Payne Gap"], "postal_code": "41537", "lat": 37.192483, "lng": -82.6235, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}, {"fips": "195", "name": "Pike"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.600062, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dundee", "lng": -81.65174, "zip_code": "44624"}
+{"locality": "Dundee", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dundee"], "postal_code": "44624", "lat": 40.600062, "lng": -81.65174, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}, {"fips": "075", "name": "Holmes"}, {"fips": "169", "name": "Wayne"}]}

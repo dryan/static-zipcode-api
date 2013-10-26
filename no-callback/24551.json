@@ -1,1 +1,1 @@
-{"lat": 37.366744, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Forest", "lng": -79.29977, "zip_code": "24551"}
+{"locality": "Forest", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Forest"], "postal_code": "24551", "lat": 37.366744, "lng": -79.29977, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bedford"}, {"fips": "031", "name": "Campbell"}]}

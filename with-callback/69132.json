@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.808779, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dickens", "lng": -100.96318, "zip_code": "69132"});
+zipapicallback({"locality": "Dickens", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dickens"], "postal_code": "69132", "lat": 40.808779, "lng": -100.96318, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}]});

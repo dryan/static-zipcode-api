@@ -1,1 +1,1 @@
-{"lat": 40.854751, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "West Wendover", "lng": -114.14713, "zip_code": "89883"}
+{"locality": "West Wendover", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["W Wendover", "Wendover", "West Wendover"], "postal_code": "89883", "lat": 40.854751, "lng": -114.14713, "type": "POBOX", "counties": [{"fips": "007", "name": "Elko"}]}

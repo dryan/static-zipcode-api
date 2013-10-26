@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.367258, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Dobson", "lng": -80.72296, "zip_code": "27017"});
+zipapicallback({"locality": "Dobson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Dobson"], "postal_code": "27017", "lat": 36.367258, "lng": -80.72296, "type": "STANDARD", "counties": [{"fips": "171", "name": "Surry"}]});

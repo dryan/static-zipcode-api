@@ -1,1 +1,1 @@
-{"lat": 39.102266, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mesa", "lng": -108.16033, "zip_code": "81643"}
+{"locality": "Mesa", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mesa"], "postal_code": "81643", "lat": 39.102266, "lng": -108.16033, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]}

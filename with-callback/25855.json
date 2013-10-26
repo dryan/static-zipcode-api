@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.94251, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hilltop", "lng": -81.14995, "zip_code": "25855"});
+zipapicallback({"locality": "Hilltop", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hilltop"], "postal_code": "25855", "lat": 37.94251, "lng": -81.14995, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]});

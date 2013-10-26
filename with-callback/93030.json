@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.21707, "region": {"abbr": "CA", "name": "California"}, "locality": "Oxnard", "lng": -119.1769, "zip_code": "93030"});
+zipapicallback({"locality": "Oxnard", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oxnard"], "postal_code": "93030", "lat": 34.21707, "lng": -119.1769, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}]});

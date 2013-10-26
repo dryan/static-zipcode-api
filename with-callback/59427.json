@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.680309, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Cut Bank", "lng": -112.47009, "zip_code": "59427"});
+zipapicallback({"locality": "Cut Bank", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Cut Bank", "Santa Rita"], "postal_code": "59427", "lat": 48.680309, "lng": -112.47009, "type": "STANDARD", "counties": [{"fips": "035", "name": "Glacier"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.810894, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Wauconda", "lng": -118.93303, "zip_code": "98859"}
+{"locality": "Wauconda", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Wauconda"], "postal_code": "98859", "lat": 48.810894, "lng": -118.93303, "type": "STANDARD", "counties": [{"fips": "047", "name": "Okanogan"}]}

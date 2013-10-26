@@ -1,1 +1,1 @@
-{"lat": 42.113042, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Deloit", "lng": -95.31482, "zip_code": "51441"}
+{"locality": "Deloit", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Deloit"], "postal_code": "51441", "lat": 42.113042, "lng": -95.31482, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]}

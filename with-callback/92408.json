@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.080662, "region": {"abbr": "CA", "name": "California"}, "locality": "San Bernardino", "lng": -117.27357, "zip_code": "92408"});
+zipapicallback({"locality": "San Bernardino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Bernardino", "Sn Bernrdno"], "postal_code": "92408", "lat": 34.080662, "lng": -117.27357, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

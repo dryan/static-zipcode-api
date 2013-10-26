@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.596716, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Elk Horn", "lng": -95.0716, "zip_code": "51531"});
+zipapicallback({"locality": "Elk Horn", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Elk Horn"], "postal_code": "51531", "lat": 41.596716, "lng": -95.0716, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}, {"fips": "009", "name": "Audubon"}]});

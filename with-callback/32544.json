@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.464755, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hurlburt Field", "lng": -86.64643, "zip_code": "32544"});
+zipapicallback({"locality": "Hurlburt Field", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hurlburt Field", "Hurlburt Fld"], "postal_code": "32544", "lat": 30.464755, "lng": -86.64643, "type": "STANDARD", "counties": [{"fips": "091", "name": "Okaloosa"}]});

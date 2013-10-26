@@ -1,1 +1,1 @@
-{"lat": 41.018168, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Woodland", "lng": -78.32112, "zip_code": "16881"}
+{"locality": "Woodland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Woodland"], "postal_code": "16881", "lat": 41.018168, "lng": -78.32112, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]}

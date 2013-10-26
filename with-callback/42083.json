@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.150978, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Tiline", "lng": -88.29191, "zip_code": "42083"});
+zipapicallback({"locality": "Tiline", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Tiline"], "postal_code": "42083", "lat": 37.150978, "lng": -88.29191, "type": "STANDARD", "counties": [{"fips": "139", "name": "Livingston"}]});

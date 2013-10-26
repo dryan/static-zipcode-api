@@ -1,1 +1,1 @@
-{"lat": 44.127179, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Swisshome", "lng": -123.83519, "zip_code": "97480"}
+{"locality": "Swisshome", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Swisshome"], "postal_code": "97480", "lat": 44.127179, "lng": -123.83519, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

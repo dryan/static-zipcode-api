@@ -1,1 +1,1 @@
-{"lat": 30.798697, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bartlett", "lng": -97.42363, "zip_code": "76511"}
+{"locality": "Bartlett", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bartlett"], "postal_code": "76511", "lat": 30.798697, "lng": -97.42363, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}, {"fips": "331", "name": "Milam"}, {"fips": "491", "name": "Williamson"}]}

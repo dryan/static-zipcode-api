@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.663234, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Winding Gulf", "lng": -81.23911, "zip_code": "25908"});
+zipapicallback({"locality": "Princewick", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Princewick", "Winding Gulf"], "postal_code": "25908", "lat": 37.663234, "lng": -81.23911, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

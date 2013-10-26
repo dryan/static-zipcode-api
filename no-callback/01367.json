@@ -1,1 +1,1 @@
-{"lat": 42.694883, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Rowe", "lng": -72.90962, "zip_code": "01367"}
+{"locality": "Rowe", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Rowe"], "postal_code": "01367", "lat": 42.694883, "lng": -72.90962, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

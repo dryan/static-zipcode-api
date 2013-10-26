@@ -1,1 +1,1 @@
-{"lat": 43.797567, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Howards Grove", "lng": -87.75664, "zip_code": "53083"}
+{"locality": "Sheboygan", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Haven", "Howards Grove", "Sheboygan"], "postal_code": "53083", "lat": 43.797567, "lng": -87.75664, "type": "STANDARD", "counties": [{"fips": "117", "name": "Sheboygan"}]}

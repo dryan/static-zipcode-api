@@ -1,1 +1,1 @@
-{"lat": 41.526679, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cooperstown", "lng": -79.86027, "zip_code": "16317"}
+{"locality": "Cooperstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cooperstown"], "postal_code": "16317", "lat": 41.526679, "lng": -79.86027, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}, {"fips": "039", "name": "Crawford"}]}

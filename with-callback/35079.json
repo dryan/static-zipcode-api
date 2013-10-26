@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.922179, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hayden", "lng": -86.7607, "zip_code": "35079"});
+zipapicallback({"locality": "Hayden", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hayden"], "postal_code": "35079", "lat": 33.922179, "lng": -86.7607, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}, {"fips": "073", "name": "Jefferson"}]});

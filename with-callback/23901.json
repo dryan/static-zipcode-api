@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.307946, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Farmville", "lng": -78.40144, "zip_code": "23901"});
+zipapicallback({"locality": "Farmville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Farmville"], "postal_code": "23901", "lat": 37.307946, "lng": -78.40144, "type": "STANDARD", "counties": [{"fips": "147", "name": "Prince Edward"}, {"fips": "049", "name": "Cumberland"}, {"fips": "029", "name": "Buckingham"}]});

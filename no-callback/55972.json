@@ -1,1 +1,1 @@
-{"lat": 43.977555, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Charles", "lng": -92.06276, "zip_code": "55972"}
+{"locality": "Saint Charles", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Charles"], "postal_code": "55972", "lat": 43.977555, "lng": -92.06276, "type": "STANDARD", "counties": [{"fips": "169", "name": "Winona"}, {"fips": "109", "name": "Olmsted"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.094313, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Phenix", "lng": -78.77182, "zip_code": "23959"});
+zipapicallback({"locality": "Phenix", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Phenix"], "postal_code": "23959", "lat": 37.094313, "lng": -78.77182, "type": "STANDARD", "counties": [{"fips": "037", "name": "Charlotte"}]});

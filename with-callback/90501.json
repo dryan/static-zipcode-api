@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.828766, "region": {"abbr": "CA", "name": "California"}, "locality": "Torrance", "lng": -118.31367, "zip_code": "90501"});
+zipapicallback({"locality": "Torrance", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Torrance"], "postal_code": "90501", "lat": 33.828766, "lng": -118.31367, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

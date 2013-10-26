@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.598845, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wilmer", "lng": -96.6831, "zip_code": "75172"});
+zipapicallback({"locality": "Wilmer", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wilmer"], "postal_code": "75172", "lat": 32.598845, "lng": -96.6831, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.012868, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cutchogue", "lng": -72.4723, "zip_code": "11935"});
+zipapicallback({"locality": "Cutchogue", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cutchogue"], "postal_code": "11935", "lat": 41.012868, "lng": -72.4723, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

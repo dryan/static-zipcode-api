@@ -1,1 +1,1 @@
-{"lat": 48.944324, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sherwood", "lng": -101.72643, "zip_code": "58782"}
+{"locality": "Sherwood", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sherwood"], "postal_code": "58782", "lat": 48.944324, "lng": -101.72643, "type": "STANDARD", "counties": [{"fips": "075", "name": "Renville"}, {"fips": "009", "name": "Bottineau"}]}

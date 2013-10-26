@@ -1,1 +1,1 @@
-{"lat": 39.536856, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Harmony", "lng": -87.0721, "zip_code": "47853"}
+{"locality": "Harmony", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Harmony"], "postal_code": "47853", "lat": 39.536856, "lng": -87.0721, "type": "POBOX", "counties": [{"fips": "021", "name": "Clay"}]}

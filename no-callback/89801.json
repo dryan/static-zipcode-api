@@ -1,1 +1,1 @@
-{"lat": 40.883028, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Jiggs", "lng": -115.75016, "zip_code": "89801"}
+{"locality": "Elko", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Elko", "Halleck", "Lee"], "postal_code": "89801", "lat": 40.883028, "lng": -115.75016, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]}

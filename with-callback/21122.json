@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.125776, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Riviera Beach", "lng": -76.51863, "zip_code": "21122"});
+zipapicallback({"locality": "Pasadena", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Lake Shore", "Millersville", "Pasadena", "Riviera Beach"], "postal_code": "21122", "lat": 39.125776, "lng": -76.51863, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

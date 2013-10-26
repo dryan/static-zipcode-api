@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.186837, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hershey", "lng": -101.03117, "zip_code": "69143"});
+zipapicallback({"locality": "Hershey", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hershey"], "postal_code": "69143", "lat": 41.186837, "lng": -101.03117, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}]});

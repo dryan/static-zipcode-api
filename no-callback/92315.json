@@ -1,1 +1,1 @@
-{"lat": 34.241295, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Bear Lake", "lng": -116.90328, "zip_code": "92315"}
+{"locality": "Big Bear Lake", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Bear Lake"], "postal_code": "92315", "lat": 34.241295, "lng": -116.90328, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

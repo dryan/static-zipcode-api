@@ -1,1 +1,1 @@
-{"lat": 32.952736, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lone Oak", "lng": -95.94594, "zip_code": "75453"}
+{"locality": "Lone Oak", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lone Oak"], "postal_code": "75453", "lat": 32.952736, "lng": -95.94594, "type": "STANDARD", "counties": [{"fips": "231", "name": "Hunt"}, {"fips": "379", "name": "Rains"}, {"fips": "223", "name": "Hopkins"}]}

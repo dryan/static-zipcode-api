@@ -1,1 +1,1 @@
-{"lat": 30.525121, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Greenwood", "lng": -91.13185, "zip_code": "70811"}
+{"locality": "Baton Rouge", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Baton Rouge", "Scotlandville"], "postal_code": "70811", "lat": 30.525121, "lng": -91.13185, "type": "STANDARD", "counties": [{"fips": "033", "name": "East Baton Rouge"}]}

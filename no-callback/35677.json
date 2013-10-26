@@ -1,1 +1,1 @@
-{"lat": 34.950648, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Waterloo", "lng": -88.02603, "zip_code": "35677"}
+{"locality": "Waterloo", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Waterloo"], "postal_code": "35677", "lat": 34.950648, "lng": -88.02603, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lauderdale"}]}

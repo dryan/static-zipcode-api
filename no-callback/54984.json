@@ -1,1 +1,1 @@
-{"lat": 44.186455, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wild Rose", "lng": -89.20231, "zip_code": "54984"}
+{"locality": "Wild Rose", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wild Rose"], "postal_code": "54984", "lat": 44.186455, "lng": -89.20231, "type": "STANDARD", "counties": [{"fips": "137", "name": "Waushara"}, {"fips": "097", "name": "Portage"}]}

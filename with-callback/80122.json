@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.582604, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Littleton", "lng": -104.95834, "zip_code": "80122"});
+zipapicallback({"locality": "Littleton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Centennial", "Littleton"], "postal_code": "80122", "lat": 39.582604, "lng": -104.95834, "type": "STANDARD", "counties": [{"fips": "005", "name": "Arapahoe"}]});

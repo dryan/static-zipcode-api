@@ -1,1 +1,1 @@
-{"lat": 31.302432, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Alexandria", "lng": -92.50515, "zip_code": "71303"}
+{"locality": "Alexandria", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Alexandria"], "postal_code": "71303", "lat": 31.302432, "lng": -92.50515, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]}

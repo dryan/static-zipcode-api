@@ -1,1 +1,1 @@
-{"lat": 43.171707, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cicero", "lng": -76.09505, "zip_code": "13039"}
+{"locality": "Cicero", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cicero"], "postal_code": "13039", "lat": 43.171707, "lng": -76.09505, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]}

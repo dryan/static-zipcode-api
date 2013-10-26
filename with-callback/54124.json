@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.904959, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Gillett", "lng": -88.37822, "zip_code": "54124"});
+zipapicallback({"locality": "Gillett", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gillett", "Pulcifer", "Underhill"], "postal_code": "54124", "lat": 44.904959, "lng": -88.37822, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}, {"fips": "115", "name": "Shawano"}, {"fips": "078", "name": "Menominee"}]});

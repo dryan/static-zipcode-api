@@ -1,1 +1,1 @@
-{"lat": 43.30288, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Melvin", "lng": -95.59597, "zip_code": "51350"}
+{"locality": "Melvin", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Melvin"], "postal_code": "51350", "lat": 43.30288, "lng": -95.59597, "type": "STANDARD", "counties": [{"fips": "143", "name": "Osceola"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.731628, "region": {"abbr": "NY", "name": "New York"}, "locality": "Troy", "lng": -73.66465, "zip_code": "12180"}
+{"locality": "Troy", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Troy"], "postal_code": "12180", "lat": 42.731628, "lng": -73.66465, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]}

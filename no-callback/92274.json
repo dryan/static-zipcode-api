@@ -1,1 +1,1 @@
-{"lat": 33.466287, "region": {"abbr": "CA", "name": "California"}, "locality": "Salton City", "lng": -116.0688, "zip_code": "92274"}
+{"locality": "Thermal", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Thermal"], "postal_code": "92274", "lat": 33.466287, "lng": -116.0688, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}, {"fips": "025", "name": "Imperial"}]}

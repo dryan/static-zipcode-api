@@ -1,1 +1,1 @@
-{"lat": 44.376421, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Sundance", "lng": -104.398, "zip_code": "82729"}
+{"locality": "Sundance", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Sundance"], "postal_code": "82729", "lat": 44.376421, "lng": -104.398, "type": "STANDARD", "counties": [{"fips": "011", "name": "Crook"}]}

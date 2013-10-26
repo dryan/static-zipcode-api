@@ -1,1 +1,1 @@
-{"lat": 42.4631, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Grants Pass", "lng": -123.33162, "zip_code": "97526"}
+{"locality": "Grants Pass", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Grants Pass"], "postal_code": "97526", "lat": 42.4631, "lng": -123.33162, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}]}

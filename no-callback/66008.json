@@ -1,1 +1,1 @@
-{"lat": 39.703642, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bendena", "lng": -95.18541, "zip_code": "66008"}
+{"locality": "Bendena", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bendena"], "postal_code": "66008", "lat": 39.703642, "lng": -95.18541, "type": "STANDARD", "counties": [{"fips": "043", "name": "Doniphan"}]}

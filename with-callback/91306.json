@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.209407, "region": {"abbr": "CA", "name": "California"}, "locality": "Winnetka", "lng": -118.57735, "zip_code": "91306"});
+zipapicallback({"locality": "Winnetka", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Canoga Park", "Winnetka"], "postal_code": "91306", "lat": 34.209407, "lng": -118.57735, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]});

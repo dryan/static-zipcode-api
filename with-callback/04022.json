@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.969, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Denmark", "lng": -70.78804, "zip_code": "04022"});
+zipapicallback({"locality": "Denmark", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Denmark"], "postal_code": "04022", "lat": 43.969, "lng": -70.78804, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

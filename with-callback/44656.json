@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.569177, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Zoarville", "lng": -81.3359, "zip_code": "44656"});
+zipapicallback({"locality": "Mineral City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mineral City", "Zoarville"], "postal_code": "44656", "lat": 40.569177, "lng": -81.3359, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.887447, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Westby", "lng": -104.20951, "zip_code": "59275"}
+{"locality": "Westby", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Westby"], "postal_code": "59275", "lat": 48.887447, "lng": -104.20951, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sheridan"}]}

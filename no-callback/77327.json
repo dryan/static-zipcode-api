@@ -1,1 +1,1 @@
-{"lat": 30.35469, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cleveland", "lng": -95.04514, "zip_code": "77327"}
+{"locality": "Cleveland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cleveland"], "postal_code": "77327", "lat": 30.35469, "lng": -95.04514, "type": "STANDARD", "counties": [{"fips": "291", "name": "Liberty"}, {"fips": "339", "name": "Montgomery"}, {"fips": "407", "name": "San Jacinto"}]}

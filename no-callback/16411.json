@@ -1,1 +1,1 @@
-{"lat": 41.981289, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Springfield", "lng": -80.44277, "zip_code": "16411"}
+{"locality": "East Springfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Springfield", "East Springfield"], "postal_code": "16411", "lat": 41.981289, "lng": -80.44277, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]}

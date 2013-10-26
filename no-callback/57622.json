@@ -1,1 +1,1 @@
-{"lat": 44.617992, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Cherry Creek", "lng": -101.53458, "zip_code": "57622"}
+{"locality": "Cherry Creek", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Cherry Creek"], "postal_code": "57622", "lat": 44.617992, "lng": -101.53458, "type": "POBOX", "counties": [{"fips": "137", "name": "Ziebach"}]}

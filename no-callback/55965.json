@@ -1,1 +1,1 @@
-{"lat": 43.646355, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Preston", "lng": -92.12329, "zip_code": "55965"}
+{"locality": "Preston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Preston"], "postal_code": "55965", "lat": 43.646355, "lng": -92.12329, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}]}

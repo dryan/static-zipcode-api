@@ -1,1 +1,1 @@
-{"lat": 30.419571, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Grand Coteau", "lng": -92.04753, "zip_code": "70541"}
+{"locality": "Grand Coteau", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Grand Coteau"], "postal_code": "70541", "lat": 30.419571, "lng": -92.04753, "type": "POBOX", "counties": [{"fips": "097", "name": "St. Landry"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.920803, "region": {"abbr": "CA", "name": "California"}, "locality": "Banning", "lng": -116.87897, "zip_code": "92220"}
+{"locality": "Banning", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Banning"], "postal_code": "92220", "lat": 33.920803, "lng": -116.87897, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

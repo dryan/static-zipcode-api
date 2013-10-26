@@ -1,1 +1,1 @@
-{"lat": 38.011587, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Dunlow", "lng": -82.38072, "zip_code": "25511"}
+{"locality": "Dunlow", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Dunlow"], "postal_code": "25511", "lat": 38.011587, "lng": -82.38072, "type": "STANDARD", "counties": [{"fips": "099", "name": "Wayne"}]}

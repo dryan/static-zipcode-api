@@ -1,1 +1,1 @@
-{"lat": 32.68309, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fruitvale", "lng": -95.79436, "zip_code": "75127"}
+{"locality": "Fruitvale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fruitvale"], "postal_code": "75127", "lat": 32.68309, "lng": -95.79436, "type": "STANDARD", "counties": [{"fips": "467", "name": "Van Zandt"}]}

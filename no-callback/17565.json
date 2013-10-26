@@ -1,1 +1,1 @@
-{"lat": 39.902788, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pequea", "lng": -76.32496, "zip_code": "17565"}
+{"locality": "Pequea", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pequea"], "postal_code": "17565", "lat": 39.902788, "lng": -76.32496, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]}

@@ -1,1 +1,1 @@
-{"lat": 22.077472, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Kapaa", "lng": -159.34463, "zip_code": "96746"}
+{"locality": "Kapaa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Kapaa"], "postal_code": "96746", "lat": 22.077472, "lng": -159.34463, "type": "STANDARD", "counties": [{"fips": "007", "name": "Kauai"}]}

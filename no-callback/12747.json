@@ -1,1 +1,1 @@
-{"lat": 41.752458, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hurleyville", "lng": -74.66996, "zip_code": "12747"}
+{"locality": "Hurleyville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hurleyville"], "postal_code": "12747", "lat": 41.752458, "lng": -74.66996, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

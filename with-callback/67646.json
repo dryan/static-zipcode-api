@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.65573, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Logan", "lng": -99.59094, "zip_code": "67646"});
+zipapicallback({"locality": "Logan", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Logan"], "postal_code": "67646", "lat": 39.65573, "lng": -99.59094, "type": "STANDARD", "counties": [{"fips": "147", "name": "Phillips"}, {"fips": "137", "name": "Norton"}, {"fips": "065", "name": "Graham"}, {"fips": "163", "name": "Rooks"}]});

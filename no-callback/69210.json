@@ -1,1 +1,1 @@
-{"lat": 42.530382, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ainsworth", "lng": -99.88206, "zip_code": "69210"}
+{"locality": "Ainsworth", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ainsworth"], "postal_code": "69210", "lat": 42.530382, "lng": -99.88206, "type": "STANDARD", "counties": [{"fips": "017", "name": "Brown"}, {"fips": "103", "name": "Keya Paha"}]}

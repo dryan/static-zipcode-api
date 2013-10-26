@@ -1,1 +1,1 @@
-{"lat": 38.60286, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Diana", "lng": -80.4595, "zip_code": "26217"}
+{"locality": "Diana", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Diana"], "postal_code": "26217", "lat": 38.60286, "lng": -80.4595, "type": "STANDARD", "counties": [{"fips": "101", "name": "Webster"}]}

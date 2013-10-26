@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.088921, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Evening Shade", "lng": -91.59919, "zip_code": "72532"});
+zipapicallback({"locality": "Evening Shade", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Evening Shade"], "postal_code": "72532", "lat": 36.088921, "lng": -91.59919, "type": "STANDARD", "counties": [{"fips": "135", "name": "Sharp"}]});

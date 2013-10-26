@@ -1,1 +1,1 @@
-{"lat": 45.947509, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Earl", "lng": -91.67526, "zip_code": "54875"}
+{"locality": "Springbrook", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Springbrook"], "postal_code": "54875", "lat": 45.947509, "lng": -91.67526, "type": "STANDARD", "counties": [{"fips": "129", "name": "Washburn"}]}

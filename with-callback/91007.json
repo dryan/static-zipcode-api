@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.126957, "region": {"abbr": "CA", "name": "California"}, "locality": "Arcadia", "lng": -118.05216, "zip_code": "91007"});
+zipapicallback({"locality": "Arcadia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Arcadia"], "postal_code": "91007", "lat": 34.126957, "lng": -118.05216, "type": "STANDARD", "counties": []});

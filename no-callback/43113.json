@@ -1,1 +1,1 @@
-{"lat": 39.598236, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Circleville", "lng": -82.94285, "zip_code": "43113"}
+{"locality": "Circleville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Circleville"], "postal_code": "43113", "lat": 39.598236, "lng": -82.94285, "type": "STANDARD", "counties": [{"fips": "129", "name": "Pickaway"}]}

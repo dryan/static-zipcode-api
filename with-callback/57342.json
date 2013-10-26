@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.257067, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Geddes", "lng": -98.69907, "zip_code": "57342"});
+zipapicallback({"locality": "Geddes", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Geddes"], "postal_code": "57342", "lat": 43.257067, "lng": -98.69907, "type": "STANDARD", "counties": [{"fips": "023", "name": "Charles Mix"}, {"fips": "043", "name": "Douglas"}]});

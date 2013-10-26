@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.099635, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Savanna", "lng": -90.12858, "zip_code": "61074"});
+zipapicallback({"locality": "Savanna", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Savanna"], "postal_code": "61074", "lat": 42.099635, "lng": -90.12858, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "085", "name": "Jo Daviess"}]});

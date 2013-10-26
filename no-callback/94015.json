@@ -1,1 +1,1 @@
-{"lat": 37.682583, "region": {"abbr": "CA", "name": "California"}, "locality": "Daly City", "lng": -122.48209, "zip_code": "94015"}
+{"locality": "Daly City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Broadmoor Vlg", "Daly City"], "postal_code": "94015", "lat": 37.682583, "lng": -122.48209, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

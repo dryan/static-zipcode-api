@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.275808, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Charleston", "lng": -84.76927, "zip_code": "37310"});
+zipapicallback({"locality": "Charleston", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Charleston"], "postal_code": "37310", "lat": 35.275808, "lng": -84.76927, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bradley"}]});

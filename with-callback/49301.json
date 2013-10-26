@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.97252, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ada", "lng": -85.47798, "zip_code": "49301"});
+zipapicallback({"locality": "Ada", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ada"], "postal_code": "49301", "lat": 42.97252, "lng": -85.47798, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]});

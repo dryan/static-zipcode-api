@@ -1,1 +1,1 @@
-{"lat": 33.12635, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lake Dallas", "lng": -97.02525, "zip_code": "75065"}
+{"locality": "Lake Dallas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hickory Creek", "Lake Dallas"], "postal_code": "75065", "lat": 33.12635, "lng": -97.02525, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]}

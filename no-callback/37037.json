@@ -1,1 +1,1 @@
-{"lat": 35.702877, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Christiana", "lng": -86.35134, "zip_code": "37037"}
+{"locality": "Christiana", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Christiana"], "postal_code": "37037", "lat": 35.702877, "lng": -86.35134, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rutherford"}]}

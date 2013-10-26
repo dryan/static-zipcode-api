@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.779838, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Leopolis", "lng": -88.87123, "zip_code": "54948"});
+zipapicallback({"locality": "Leopolis", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Leopolis"], "postal_code": "54948", "lat": 44.779838, "lng": -88.87123, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}]});

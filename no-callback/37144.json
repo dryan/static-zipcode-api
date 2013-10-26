@@ -1,1 +1,1 @@
-{"lat": 35.301331, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Petersburg", "lng": -86.63337, "zip_code": "37144"}
+{"locality": "Petersburg", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Petersburg"], "postal_code": "37144", "lat": 35.301331, "lng": -86.63337, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lincoln"}, {"fips": "117", "name": "Marshall"}, {"fips": "055", "name": "Giles"}, {"fips": "127", "name": "Moore"}, {"fips": "003", "name": "Bedford"}]}

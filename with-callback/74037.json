@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.012562, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Jenks", "lng": -95.98241, "zip_code": "74037"});
+zipapicallback({"locality": "Jenks", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Jenks"], "postal_code": "74037", "lat": 36.012562, "lng": -95.98241, "type": "STANDARD", "counties": [{"fips": "143", "name": "Tulsa"}]});

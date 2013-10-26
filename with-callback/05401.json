@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.484038, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Burlington", "lng": -73.22126, "zip_code": "05401"});
+zipapicallback({"locality": "Burlington", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Burlington"], "postal_code": "05401", "lat": 44.484038, "lng": -73.22126, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}]});

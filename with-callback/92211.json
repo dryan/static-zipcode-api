@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.759409, "region": {"abbr": "CA", "name": "California"}, "locality": "Palm Desert", "lng": -116.32317, "zip_code": "92211"});
+zipapicallback({"locality": "Palm Desert", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palm Desert"], "postal_code": "92211", "lat": 33.759409, "lng": -116.32317, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 33.268471, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Childersburg", "lng": -86.35582, "zip_code": "35044"}
+{"locality": "Childersburg", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Childersburg", "Coosa Pines"], "postal_code": "35044", "lat": 33.268471, "lng": -86.35582, "type": "STANDARD", "counties": [{"fips": "121", "name": "Talladega"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.901909, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Keshena", "lng": -88.59535, "zip_code": "54135"});
+zipapicallback({"locality": "Keshena", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Keshena"], "postal_code": "54135", "lat": 44.901909, "lng": -88.59535, "type": "STANDARD", "counties": [{"fips": "078", "name": "Menominee"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.675741, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Schnecksville", "lng": -75.61626, "zip_code": "18078"}
+{"locality": "Schnecksville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Schnecksville"], "postal_code": "18078", "lat": 40.675741, "lng": -75.61626, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]}

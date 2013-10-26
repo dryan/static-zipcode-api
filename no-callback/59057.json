@@ -1,1 +1,1 @@
-{"lat": 45.846359, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Molt", "lng": -108.95391, "zip_code": "59057"}
+{"locality": "Molt", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Molt"], "postal_code": "59057", "lat": 45.846359, "lng": -108.95391, "type": "STANDARD", "counties": [{"fips": "095", "name": "Stillwater"}, {"fips": "111", "name": "Yellowstone"}]}

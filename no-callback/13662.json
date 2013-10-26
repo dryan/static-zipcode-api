@@ -1,1 +1,1 @@
-{"lat": 44.937212, "region": {"abbr": "NY", "name": "New York"}, "locality": "Massena", "lng": -74.87693, "zip_code": "13662"}
+{"locality": "Massena", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Massena"], "postal_code": "13662", "lat": 44.937212, "lng": -74.87693, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

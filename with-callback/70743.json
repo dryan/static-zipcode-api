@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.019278, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hester", "lng": -90.77619, "zip_code": "70743"});
+zipapicallback({"locality": "Hester", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hester"], "postal_code": "70743", "lat": 30.019278, "lng": -90.77619, "type": "POBOX", "counties": [{"fips": "093", "name": "St. James"}]});

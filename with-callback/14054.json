@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.903676, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Bethany", "lng": -78.13481, "zip_code": "14054"});
+zipapicallback({"locality": "East Bethany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Bethany"], "postal_code": "14054", "lat": 42.903676, "lng": -78.13481, "type": "STANDARD", "counties": [{"fips": "037", "name": "Genesee"}, {"fips": "121", "name": "Wyoming"}]});

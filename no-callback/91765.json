@@ -1,1 +1,1 @@
-{"lat": 34.004172, "region": {"abbr": "CA", "name": "California"}, "locality": "Diamond Bar", "lng": -117.81673, "zip_code": "91765"}
+{"locality": "Diamond Bar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Diamond Bar", "Pomona"], "postal_code": "91765", "lat": 34.004172, "lng": -117.81673, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

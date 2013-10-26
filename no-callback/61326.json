@@ -1,1 +1,1 @@
-{"lat": 41.264159, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Granville", "lng": -89.23655, "zip_code": "61326"}
+{"locality": "Granville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Granville"], "postal_code": "61326", "lat": 41.264159, "lng": -89.23655, "type": "STANDARD", "counties": [{"fips": "155", "name": "Putnam"}, {"fips": "099", "name": "La Salle"}]}

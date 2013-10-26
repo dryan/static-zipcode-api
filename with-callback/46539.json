@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.168118, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mentone", "lng": -86.01203, "zip_code": "46539"});
+zipapicallback({"locality": "Mentone", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mentone"], "postal_code": "46539", "lat": 41.168118, "lng": -86.01203, "type": "STANDARD", "counties": [{"fips": "085", "name": "Kosciusko"}, {"fips": "099", "name": "Marshall"}, {"fips": "049", "name": "Fulton"}]});

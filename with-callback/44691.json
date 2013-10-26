@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.800086, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wooster", "lng": -81.95726, "zip_code": "44691"});
+zipapicallback({"locality": "Wooster", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wooster"], "postal_code": "44691", "lat": 40.800086, "lng": -81.95726, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}, {"fips": "005", "name": "Ashland"}]});

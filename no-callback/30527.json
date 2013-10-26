@@ -1,1 +1,1 @@
-{"lat": 34.481514, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Clermont", "lng": -83.78599, "zip_code": "30527"}
+{"locality": "Clermont", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Clermont"], "postal_code": "30527", "lat": 34.481514, "lng": -83.78599, "type": "STANDARD", "counties": [{"fips": "139", "name": "Hall"}, {"fips": "311", "name": "White"}]}

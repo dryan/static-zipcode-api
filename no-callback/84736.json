@@ -1,1 +1,1 @@
-{"lat": 37.565311, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Henrieville", "lng": -111.99144, "zip_code": "84736"}
+{"locality": "Henrieville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Henrieville"], "postal_code": "84736", "lat": 37.565311, "lng": -111.99144, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]}

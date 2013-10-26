@@ -1,1 +1,1 @@
-{"lat": 40.535304, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Fords", "lng": -74.31104, "zip_code": "08863"}
+{"locality": "Fords", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fords", "Perth Amboy"], "postal_code": "08863", "lat": 40.535304, "lng": -74.31104, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

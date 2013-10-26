@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.452071, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Plains", "lng": -114.8171, "zip_code": "59859"});
+zipapicallback({"locality": "Plains", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Plains"], "postal_code": "59859", "lat": 47.452071, "lng": -114.8171, "type": "STANDARD", "counties": [{"fips": "089", "name": "Sanders"}]});

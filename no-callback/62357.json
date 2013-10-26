@@ -1,1 +1,1 @@
-{"lat": 39.696523, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Salem", "lng": -90.84253, "zip_code": "62357"}
+{"locality": "New Salem", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Salem"], "postal_code": "62357", "lat": 39.696523, "lng": -90.84253, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pike"}]}

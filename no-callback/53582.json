@@ -1,1 +1,1 @@
-{"lat": 43.020516, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ridgeway", "lng": -89.97928, "zip_code": "53582"}
+{"locality": "Ridgeway", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ridgeway"], "postal_code": "53582", "lat": 43.020516, "lng": -89.97928, "type": "STANDARD", "counties": [{"fips": "049", "name": "Iowa"}]}

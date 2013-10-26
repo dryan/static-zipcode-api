@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.003717, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Newark", "lng": -97.48974, "zip_code": "76071"});
+zipapicallback({"locality": "Newark", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Newark"], "postal_code": "76071", "lat": 33.003717, "lng": -97.48974, "type": "STANDARD", "counties": [{"fips": "497", "name": "Wise"}]});

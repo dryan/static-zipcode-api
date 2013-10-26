@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.71239, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Hemingway", "lng": -79.40387, "zip_code": "29554"});
+zipapicallback({"locality": "Hemingway", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Hemingway"], "postal_code": "29554", "lat": 33.71239, "lng": -79.40387, "type": "STANDARD", "counties": [{"fips": "089", "name": "Williamsburg"}, {"fips": "041", "name": "Florence"}, {"fips": "043", "name": "Georgetown"}]});

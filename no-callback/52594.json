@@ -1,1 +1,1 @@
-{"lat": 40.833045, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Unionville", "lng": -92.6867, "zip_code": "52594"}
+{"locality": "Unionville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Unionville"], "postal_code": "52594", "lat": 40.833045, "lng": -92.6867, "type": "STANDARD", "counties": [{"fips": "007", "name": "Appanoose"}]}

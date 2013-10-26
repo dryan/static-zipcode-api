@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.398142, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Tougaloo", "lng": -90.16072, "zip_code": "39174"});
+zipapicallback({"locality": "Tougaloo", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Tougaloo"], "postal_code": "39174", "lat": 32.398142, "lng": -90.16072, "type": "POBOX", "counties": [{"fips": "049", "name": "Hinds"}]});

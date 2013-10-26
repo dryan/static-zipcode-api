@@ -1,1 +1,1 @@
-{"lat": 39.695772, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Littleton", "lng": -80.53077, "zip_code": "26581"}
+{"locality": "Littleton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Knob Fork", "Littleton", "Wileyville"], "postal_code": "26581", "lat": 39.695772, "lng": -80.53077, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}]}

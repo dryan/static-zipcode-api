@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.204045, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Happy", "lng": -83.09845, "zip_code": "41746"});
+zipapicallback({"locality": "Happy", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Happy"], "postal_code": "41746", "lat": 37.204045, "lng": -83.09845, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]});

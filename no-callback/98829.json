@@ -1,1 +1,1 @@
-{"lat": 48.267188, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Malott", "lng": -119.73538, "zip_code": "98829"}
+{"locality": "Malott", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Malott"], "postal_code": "98829", "lat": 48.267188, "lng": -119.73538, "type": "POBOX", "counties": [{"fips": "047", "name": "Okanogan"}]}

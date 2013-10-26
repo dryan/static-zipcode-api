@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.322411, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Etty", "lng": -82.61598, "zip_code": "41572"});
+zipapicallback({"locality": "Virgie", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Etty", "Speight", "Virgie"], "postal_code": "41572", "lat": 37.322411, "lng": -82.61598, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

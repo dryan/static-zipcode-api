@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.105691, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fort Wayne", "lng": -85.06509, "zip_code": "46815"});
+zipapicallback({"locality": "Fort Wayne", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fort Wayne"], "postal_code": "46815", "lat": 41.105691, "lng": -85.06509, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]});

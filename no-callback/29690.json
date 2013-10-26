@@ -1,1 +1,1 @@
-{"lat": 35.018511, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Travelers Rest", "lng": -82.43224, "zip_code": "29690"}
+{"locality": "Travelers Rest", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Travelers Rest", "Travelers Rst"], "postal_code": "29690", "lat": 35.018511, "lng": -82.43224, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}]}

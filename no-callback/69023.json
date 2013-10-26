@@ -1,1 +1,1 @@
-{"lat": 40.489063, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Champion", "lng": -101.88349, "zip_code": "69023"}
+{"locality": "Champion", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Champion", "Lamar"], "postal_code": "69023", "lat": 40.489063, "lng": -101.88349, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chase"}]}

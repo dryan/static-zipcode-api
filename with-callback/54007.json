@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.189667, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Deer Park", "lng": -92.37018, "zip_code": "54007"});
+zipapicallback({"locality": "Deer Park", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Deer Park"], "postal_code": "54007", "lat": 45.189667, "lng": -92.37018, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}, {"fips": "095", "name": "Polk"}]});

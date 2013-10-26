@@ -1,1 +1,1 @@
-{"lat": 26.621145, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Worth", "lng": -80.08976, "zip_code": "33461"}
+{"locality": "Lake Worth", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Worth", "Palm Springs"], "postal_code": "33461", "lat": 26.621145, "lng": -80.08976, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

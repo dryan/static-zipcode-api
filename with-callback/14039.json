@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.829129, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dale", "lng": -78.17657, "zip_code": "14039"});
+zipapicallback({"locality": "Dale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dale"], "postal_code": "14039", "lat": 42.829129, "lng": -78.17657, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]});

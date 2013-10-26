@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.294316, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Attica", "lng": -87.21957, "zip_code": "47918"});
+zipapicallback({"locality": "Attica", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Attica"], "postal_code": "47918", "lat": 40.294316, "lng": -87.21957, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fountain"}, {"fips": "171", "name": "Warren"}, {"fips": "157", "name": "Tippecanoe"}]});

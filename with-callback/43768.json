@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.038503, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Old Washington", "lng": -81.44232, "zip_code": "43768"});
+zipapicallback({"locality": "Old Washington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Old Washingtn", "Old Washington"], "postal_code": "43768", "lat": 40.038503, "lng": -81.44232, "type": "POBOX", "counties": [{"fips": "059", "name": "Guernsey"}]});

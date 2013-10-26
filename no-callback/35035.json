@@ -1,1 +1,1 @@
-{"lat": 33.041166, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Brierfield", "lng": -86.95117, "zip_code": "35035"}
+{"locality": "Brierfield", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Brierfield"], "postal_code": "35035", "lat": 33.041166, "lng": -86.95117, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bibb"}, {"fips": "117", "name": "Shelby"}]}

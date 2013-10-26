@@ -1,1 +1,1 @@
-{"lat": 42.376423, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Caledonia", "lng": -88.9325, "zip_code": "61011"}
+{"locality": "Caledonia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Caledonia"], "postal_code": "61011", "lat": 42.376423, "lng": -88.9325, "type": "STANDARD", "counties": [{"fips": "007", "name": "Boone"}, {"fips": "201", "name": "Winnebago"}]}

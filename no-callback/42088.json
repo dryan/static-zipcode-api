@@ -1,1 +1,1 @@
-{"lat": 36.627427, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wingo", "lng": -88.74845, "zip_code": "42088"}
+{"locality": "Wingo", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Wingo"], "postal_code": "42088", "lat": 36.627427, "lng": -88.74845, "type": "STANDARD", "counties": [{"fips": "083", "name": "Graves"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.146249, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Reeds", "lng": -94.16048, "zip_code": "64859"}
+{"locality": "Reeds", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Reeds"], "postal_code": "64859", "lat": 37.146249, "lng": -94.16048, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jasper"}]}

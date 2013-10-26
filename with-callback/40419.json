@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.455879, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Crab Orchard", "lng": -84.48753, "zip_code": "40419"});
+zipapicallback({"locality": "Crab Orchard", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Crab Orchard"], "postal_code": "40419", "lat": 37.455879, "lng": -84.48753, "type": "STANDARD", "counties": [{"fips": "137", "name": "Lincoln"}]});

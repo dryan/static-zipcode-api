@@ -1,1 +1,1 @@
-{"lat": 39.847077, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Grays Landing", "lng": -79.90196, "zip_code": "15461"}
+{"locality": "Masontown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Masontown"], "postal_code": "15461", "lat": 39.847077, "lng": -79.90196, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

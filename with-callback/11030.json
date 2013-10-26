@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.796752, "region": {"abbr": "NY", "name": "New York"}, "locality": "Plandome", "lng": -73.68935, "zip_code": "11030"});
+zipapicallback({"locality": "Manhasset", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Manhasset", "Plandome"], "postal_code": "11030", "lat": 40.796752, "lng": -73.68935, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.703008, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Weatherford", "lng": -97.74814, "zip_code": "76087"}
+{"locality": "Weatherford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brock", "Hudson Oaks", "Weatherford", "Willow Park"], "postal_code": "76087", "lat": 32.703008, "lng": -97.74814, "type": "STANDARD", "counties": [{"fips": "367", "name": "Parker"}, {"fips": "221", "name": "Hood"}]}

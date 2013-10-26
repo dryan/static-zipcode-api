@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.495306, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Silverton", "lng": -115.9555, "zip_code": "83867"});
+zipapicallback({"locality": "Silverton", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Silverton"], "postal_code": "83867", "lat": 47.495306, "lng": -115.9555, "type": "POBOX", "counties": [{"fips": "079", "name": "Shoshone"}]});

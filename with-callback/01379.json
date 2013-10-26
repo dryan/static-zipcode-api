@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.547274, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wendell", "lng": -72.41724, "zip_code": "01379"});
+zipapicallback({"locality": "Wendell", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wendell"], "postal_code": "01379", "lat": 42.547274, "lng": -72.41724, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

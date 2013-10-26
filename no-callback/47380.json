@@ -1,1 +1,1 @@
-{"lat": 40.285505, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Ridgeville", "lng": -85.02063, "zip_code": "47380"}
+{"locality": "Ridgeville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Ridgeville"], "postal_code": "47380", "lat": 40.285505, "lng": -85.02063, "type": "STANDARD", "counties": [{"fips": "135", "name": "Randolph"}, {"fips": "075", "name": "Jay"}]}

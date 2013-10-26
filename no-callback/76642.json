@@ -1,1 +1,1 @@
-{"lat": 31.510726, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Groesbeck", "lng": -96.51529, "zip_code": "76642"}
+{"locality": "Groesbeck", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Groesbeck", "Lake Limestone", "Lk Limestone"], "postal_code": "76642", "lat": 31.510726, "lng": -96.51529, "type": "STANDARD", "counties": [{"fips": "293", "name": "Limestone"}]}

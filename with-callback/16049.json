@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.097836, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Parker", "lng": -79.66317, "zip_code": "16049"});
+zipapicallback({"locality": "Parker", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Parker"], "postal_code": "16049", "lat": 41.097836, "lng": -79.66317, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}, {"fips": "019", "name": "Butler"}, {"fips": "031", "name": "Clarion"}, {"fips": "121", "name": "Venango"}]});

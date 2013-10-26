@@ -1,1 +1,1 @@
-{"lat": 32.108676, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Chauncey", "lng": -83.06006, "zip_code": "31011"}
+{"locality": "Chauncey", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Chauncey"], "postal_code": "31011", "lat": 32.108676, "lng": -83.06006, "type": "STANDARD", "counties": [{"fips": "091", "name": "Dodge"}, {"fips": "175", "name": "Laurens"}]}

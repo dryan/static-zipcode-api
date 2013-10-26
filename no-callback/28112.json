@@ -1,1 +1,1 @@
-{"lat": 34.936388, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Monroe", "lng": -80.5382, "zip_code": "28112"}
+{"locality": "Monroe", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Monroe"], "postal_code": "28112", "lat": 34.936388, "lng": -80.5382, "type": "STANDARD", "counties": []}

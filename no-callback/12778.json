@@ -1,1 +1,1 @@
-{"lat": 41.65974, "region": {"abbr": "NY", "name": "New York"}, "locality": "Smallwood", "lng": -74.812, "zip_code": "12778"}
+{"locality": "Smallwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Smallwood"], "postal_code": "12778", "lat": 41.65974, "lng": -74.812, "type": "POBOX", "counties": [{"fips": "105", "name": "Sullivan"}]}

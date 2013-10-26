@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.44005, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Barbara", "lng": -119.75496, "zip_code": "93105"});
+zipapicallback({"locality": "Santa Barbara", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Barbara"], "postal_code": "93105", "lat": 34.44005, "lng": -119.75496, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]});

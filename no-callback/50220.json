@@ -1,1 +1,1 @@
-{"lat": 41.846679, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Perry", "lng": -94.10961, "zip_code": "50220"}
+{"locality": "Perry", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Perry"], "postal_code": "50220", "lat": 41.846679, "lng": -94.10961, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]}

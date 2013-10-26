@@ -1,1 +1,1 @@
-{"lat": 42.906219, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Livingston", "lng": -90.42574, "zip_code": "53554"}
+{"locality": "Livingston", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Livingston"], "postal_code": "53554", "lat": 42.906219, "lng": -90.42574, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "049", "name": "Iowa"}]}

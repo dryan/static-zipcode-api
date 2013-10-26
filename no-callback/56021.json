@@ -1,1 +1,1 @@
-{"lat": 44.277333, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Courtland", "lng": -94.31424, "zip_code": "56021"}
+{"locality": "Courtland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Courtland"], "postal_code": "56021", "lat": 44.277333, "lng": -94.31424, "type": "STANDARD", "counties": [{"fips": "103", "name": "Nicollet"}]}

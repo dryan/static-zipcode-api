@@ -1,1 +1,1 @@
-{"lat": 19.307543, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Captain Cook", "lng": -155.88338, "zip_code": "96704"}
+{"locality": "Captain Cook", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Captain Cook", "Ocean View"], "postal_code": "96704", "lat": 19.307543, "lng": -155.88338, "type": "STANDARD", "counties": [{"fips": "001", "name": "Hawaii"}]}

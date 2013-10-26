@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.099562, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Noti", "lng": -123.46265, "zip_code": "97461"});
+zipapicallback({"locality": "Noti", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Noti"], "postal_code": "97461", "lat": 44.099562, "lng": -123.46265, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

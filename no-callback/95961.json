@@ -1,1 +1,1 @@
-{"lat": 39.089929, "region": {"abbr": "CA", "name": "California"}, "locality": "Olivehurst", "lng": -121.55053, "zip_code": "95961"}
+{"locality": "Olivehurst", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Arboga", "Olivehurst", "Plumas Lake", "West Linda"], "postal_code": "95961", "lat": 39.089929, "lng": -121.55053, "type": "STANDARD", "counties": [{"fips": "115", "name": "Yuba"}]}

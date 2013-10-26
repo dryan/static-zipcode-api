@@ -1,1 +1,1 @@
-{"lat": 45.800687, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kingsford", "lng": -88.08323, "zip_code": "49802"}
+{"locality": "Kingsford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Iron Mountain", "Kingsford"], "postal_code": "49802", "lat": 45.800687, "lng": -88.08323, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.397067, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lorida", "lng": -81.1411, "zip_code": "33857"});
+zipapicallback({"locality": "Lorida", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lorida"], "postal_code": "33857", "lat": 27.397067, "lng": -81.1411, "type": "STANDARD", "counties": [{"fips": "055", "name": "Highlands"}]});

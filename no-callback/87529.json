@@ -1,1 +1,1 @@
-{"lat": 36.468402, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "El Prado", "lng": -105.60547, "zip_code": "87529"}
+{"locality": "El Prado", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["El Prado"], "postal_code": "87529", "lat": 36.468402, "lng": -105.60547, "type": "STANDARD", "counties": [{"fips": "055", "name": "Taos"}]}

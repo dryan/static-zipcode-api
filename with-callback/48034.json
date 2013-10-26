@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.474234, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Southfield", "lng": -83.29078, "zip_code": "48034"});
+zipapicallback({"locality": "Southfield", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Southfield"], "postal_code": "48034", "lat": 42.474234, "lng": -83.29078, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.054433, "region": {"abbr": "CA", "name": "California"}, "locality": "Olema", "lng": -122.77762, "zip_code": "94950"});
+zipapicallback({"locality": "Olema", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Olema"], "postal_code": "94950", "lat": 38.054433, "lng": -122.77762, "type": "POBOX", "counties": [{"fips": "041", "name": "Marin"}]});

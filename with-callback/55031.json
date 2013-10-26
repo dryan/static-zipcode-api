@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.607553, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hampton", "lng": -92.98548, "zip_code": "55031"});
+zipapicallback({"locality": "Hampton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hampton", "New Trier"], "postal_code": "55031", "lat": 44.607553, "lng": -92.98548, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}]});

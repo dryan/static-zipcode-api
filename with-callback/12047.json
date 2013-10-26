@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.773777, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cohoes", "lng": -73.70793, "zip_code": "12047"});
+zipapicallback({"locality": "Cohoes", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cohoes"], "postal_code": "12047", "lat": 42.773777, "lng": -73.70793, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

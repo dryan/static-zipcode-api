@@ -1,1 +1,1 @@
-{"lat": 32.84681, "region": {"abbr": "CA", "name": "California"}, "locality": "Santee", "lng": -116.98983, "zip_code": "92071"}
+{"locality": "Santee", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santee"], "postal_code": "92071", "lat": 32.84681, "lng": -116.98983, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

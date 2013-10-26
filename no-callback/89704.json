@@ -1,1 +1,1 @@
-{"lat": 39.27521, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Carson City", "lng": -119.7908, "zip_code": "89704"}
+{"locality": "Washoe Valley", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Carson City", "Washoe Valley"], "postal_code": "89704", "lat": 39.27521, "lng": -119.7908, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]}

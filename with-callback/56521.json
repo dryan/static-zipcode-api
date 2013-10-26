@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.015728, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Callaway", "lng": -95.87008, "zip_code": "56521"});
+zipapicallback({"locality": "Callaway", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Callaway"], "postal_code": "56521", "lat": 47.015728, "lng": -95.87008, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.490162, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Snook", "lng": -96.4698, "zip_code": "77878"}
+{"locality": "Snook", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Snook"], "postal_code": "77878", "lat": 30.490162, "lng": -96.4698, "type": "POBOX", "counties": [{"fips": "051", "name": "Burleson"}]}

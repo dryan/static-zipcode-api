@@ -1,1 +1,1 @@
-{"lat": 43.713365, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rosebush", "lng": -84.77731, "zip_code": "48878"}
+{"locality": "Rosebush", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rosebush"], "postal_code": "48878", "lat": 43.713365, "lng": -84.77731, "type": "STANDARD", "counties": [{"fips": "073", "name": "Isabella"}]}

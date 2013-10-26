@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.210461, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ellington", "lng": -91.00798, "zip_code": "63638"});
+zipapicallback({"locality": "Ellington", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ellington"], "postal_code": "63638", "lat": 37.210461, "lng": -91.00798, "type": "STANDARD", "counties": [{"fips": "179", "name": "Reynolds"}, {"fips": "035", "name": "Carter"}, {"fips": "203", "name": "Shannon"}]});

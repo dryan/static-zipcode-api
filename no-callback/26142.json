@@ -1,1 +1,1 @@
-{"lat": 39.2059, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Davisville", "lng": -81.46549, "zip_code": "26142"}
+{"locality": "Davisville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Davisville"], "postal_code": "26142", "lat": 39.2059, "lng": -81.46549, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wood"}]}

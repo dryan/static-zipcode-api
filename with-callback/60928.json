@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.766096, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Crescent City", "lng": -87.85474, "zip_code": "60928"});
+zipapicallback({"locality": "Crescent City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Crescent City"], "postal_code": "60928", "lat": 40.766096, "lng": -87.85474, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}]});

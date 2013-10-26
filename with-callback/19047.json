@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.173563, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Penndel", "lng": -74.91203, "zip_code": "19047"});
+zipapicallback({"locality": "Langhorne", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hulmeville", "Langhorne", "Penndel", "Upper Holland"], "postal_code": "19047", "lat": 40.173563, "lng": -74.91203, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]});

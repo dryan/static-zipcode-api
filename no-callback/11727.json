@@ -1,1 +1,1 @@
-{"lat": 40.884895, "region": {"abbr": "NY", "name": "New York"}, "locality": "Coram", "lng": -73.00501, "zip_code": "11727"}
+{"locality": "Coram", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Coram"], "postal_code": "11727", "lat": 40.884895, "lng": -73.00501, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

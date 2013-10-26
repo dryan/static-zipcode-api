@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.459869, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Arden", "lng": -82.54142, "zip_code": "28704"});
+zipapicallback({"locality": "Arden", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Arden"], "postal_code": "28704", "lat": 35.459869, "lng": -82.54142, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buncombe"}, {"fips": "173", "name": "Swain"}, {"fips": "089", "name": "Henderson"}]});

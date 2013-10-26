@@ -1,1 +1,1 @@
-{"lat": 40.574936, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Towanda", "lng": -88.88696, "zip_code": "61776"}
+{"locality": "Towanda", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Towanda"], "postal_code": "61776", "lat": 40.574936, "lng": -88.88696, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

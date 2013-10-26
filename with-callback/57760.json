@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.854326, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Newell", "lng": -103.32109, "zip_code": "57760"});
+zipapicallback({"locality": "Newell", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Newell"], "postal_code": "57760", "lat": 44.854326, "lng": -103.32109, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butte"}, {"fips": "093", "name": "Meade"}]});

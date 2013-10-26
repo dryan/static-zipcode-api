@@ -1,1 +1,1 @@
-{"lat": 44.212448, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Menasha", "lng": -88.40959, "zip_code": "54952"}
+{"locality": "Menasha", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Menasha"], "postal_code": "54952", "lat": 44.212448, "lng": -88.40959, "type": "STANDARD", "counties": [{"fips": "139", "name": "Winnebago"}, {"fips": "015", "name": "Calumet"}]}

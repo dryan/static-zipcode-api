@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.469945, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Lake Havasu City", "lng": -114.27861, "zip_code": "86406"});
+zipapicallback({"locality": "Lake Havasu City", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Lake Havasu City", "Lk Havasu Cty"], "postal_code": "86406", "lat": 34.469945, "lng": -114.27861, "type": "STANDARD", "counties": []});

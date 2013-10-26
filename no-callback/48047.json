@@ -1,1 +1,1 @@
-{"lat": 42.670932, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Chesterfield", "lng": -82.77754, "zip_code": "48047"}
+{"locality": "New Baltimore", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Chesterfield", "New Baltimore"], "postal_code": "48047", "lat": 42.670932, "lng": -82.77754, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}, {"fips": "147", "name": "Saint Clair"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.38584, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Pleasant Grove", "lng": -111.73333, "zip_code": "84062"}
+{"locality": "Pleasant Grove", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Cedar Hills", "Pleasant Grove", "Pleasant Grv"], "postal_code": "84062", "lat": 40.38584, "lng": -111.73333, "type": "STANDARD", "counties": [{"fips": "049", "name": "Utah"}]}

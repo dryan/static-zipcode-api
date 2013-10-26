@@ -1,1 +1,1 @@
-{"lat": 37.265686, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Newhall", "lng": -81.6155, "zip_code": "24866"}
+{"locality": "Newhall", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Newhall"], "postal_code": "24866", "lat": 37.265686, "lng": -81.6155, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]}

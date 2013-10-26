@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.237582, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sutersville", "lng": -79.80038, "zip_code": "15083"});
+zipapicallback({"locality": "Sutersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sutersville"], "postal_code": "15083", "lat": 40.237582, "lng": -79.80038, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

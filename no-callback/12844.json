@@ -1,1 +1,1 @@
-{"lat": 43.495335, "region": {"abbr": "NY", "name": "New York"}, "locality": "Pilot Knob", "lng": -73.62987, "zip_code": "12844"}
+{"locality": "Kattskill Bay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kattskill Bay", "Pilot Knob"], "postal_code": "12844", "lat": 43.495335, "lng": -73.62987, "type": "STANDARD", "counties": [{"fips": "115", "name": "Washington"}]}

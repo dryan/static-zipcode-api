@@ -1,1 +1,1 @@
-{"lat": 41.089405, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Akron", "lng": -81.53973, "zip_code": "44302"}
+{"locality": "Akron", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Akron"], "postal_code": "44302", "lat": 41.089405, "lng": -81.53973, "type": "STANDARD", "counties": [{"fips": "153", "name": "Summit"}]}

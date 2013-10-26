@@ -1,1 +1,1 @@
-{"lat": 41.476534, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lone Tree", "lng": -91.43307, "zip_code": "52755"}
+{"locality": "Lone Tree", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lone Tree"], "postal_code": "52755", "lat": 41.476534, "lng": -91.43307, "type": "STANDARD", "counties": [{"fips": "103", "name": "Johnson"}]}

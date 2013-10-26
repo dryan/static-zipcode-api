@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.702827, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Loogootee", "lng": -86.89775, "zip_code": "47553"});
+zipapicallback({"locality": "Loogootee", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Loogootee"], "postal_code": "47553", "lat": 38.702827, "lng": -86.89775, "type": "STANDARD", "counties": [{"fips": "101", "name": "Martin"}, {"fips": "027", "name": "Daviess"}]});

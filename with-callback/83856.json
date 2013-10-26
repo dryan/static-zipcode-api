@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.315799, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Priest River", "lng": -116.90904, "zip_code": "83856"});
+zipapicallback({"locality": "Priest River", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Priest Lake", "Priest River"], "postal_code": "83856", "lat": 48.315799, "lng": -116.90904, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]});

@@ -1,1 +1,1 @@
-{"lat": 29.810193, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Des Allemands", "lng": -90.44769, "zip_code": "70030"}
+{"locality": "Des Allemands", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Des Allemands"], "postal_code": "70030", "lat": 29.810193, "lng": -90.44769, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Charles"}]}

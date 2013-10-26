@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.331689, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Plainview", "lng": -97.80618, "zip_code": "68769"});
+zipapicallback({"locality": "Plainview", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Plainview"], "postal_code": "68769", "lat": 42.331689, "lng": -97.80618, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}, {"fips": "139", "name": "Pierce"}, {"fips": "107", "name": "Knox"}]});

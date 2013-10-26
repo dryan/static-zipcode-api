@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.193688, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Halltown", "lng": -93.62758, "zip_code": "65664"});
+zipapicallback({"locality": "Halltown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Halltown"], "postal_code": "65664", "lat": 37.193688, "lng": -93.62758, "type": "POBOX", "counties": [{"fips": "109", "name": "Lawrence"}]});

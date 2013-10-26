@@ -1,1 +1,1 @@
-{"lat": 37.155108, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Webb City", "lng": -94.47465, "zip_code": "64870"}
+{"locality": "Webb City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Webb City"], "postal_code": "64870", "lat": 37.155108, "lng": -94.47465, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jasper"}]}

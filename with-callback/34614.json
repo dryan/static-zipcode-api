@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.632101, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Brooksville", "lng": -82.52181, "zip_code": "34614"});
+zipapicallback({"locality": "Brooksville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brooksville", "Weeki Wachee"], "postal_code": "34614", "lat": 28.632101, "lng": -82.52181, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hernando"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.000861, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ardmore", "lng": -75.29694, "zip_code": "19003"});
+zipapicallback({"locality": "Ardmore", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ardmore"], "postal_code": "19003", "lat": 40.000861, "lng": -75.29694, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}, {"fips": "091", "name": "Montgomery"}]});

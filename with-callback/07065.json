@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.607103, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Rahway", "lng": -74.28099, "zip_code": "07065"});
+zipapicallback({"locality": "Rahway", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Rahway"], "postal_code": "07065", "lat": 40.607103, "lng": -74.28099, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.321688, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Romney", "lng": -78.74815, "zip_code": "26757"}
+{"locality": "Romney", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Romney", "Three Chrs", "Three Churches"], "postal_code": "26757", "lat": 39.321688, "lng": -78.74815, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hampshire"}]}

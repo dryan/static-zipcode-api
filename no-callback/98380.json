@@ -1,1 +1,1 @@
-{"lat": 47.596122, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Seabeck", "lng": -122.89456, "zip_code": "98380"}
+{"locality": "Seabeck", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Seabeck"], "postal_code": "98380", "lat": 47.596122, "lng": -122.89456, "type": "STANDARD", "counties": [{"fips": "035", "name": "Kitsap"}]}

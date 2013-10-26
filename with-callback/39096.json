@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.825143, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lorman", "lng": -91.07877, "zip_code": "39096"});
+zipapicallback({"locality": "Lorman", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lorman"], "postal_code": "39096", "lat": 31.825143, "lng": -91.07877, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jefferson"}, {"fips": "021", "name": "Claiborne"}]});

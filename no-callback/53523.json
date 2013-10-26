@@ -1,1 +1,1 @@
-{"lat": 42.99273, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cambridge", "lng": -89.02274, "zip_code": "53523"}
+{"locality": "Cambridge", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cambridge"], "postal_code": "53523", "lat": 42.99273, "lng": -89.02274, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}, {"fips": "055", "name": "Jefferson"}]}

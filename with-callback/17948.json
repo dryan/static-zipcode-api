@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.813869, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mahanoy City", "lng": -76.13737, "zip_code": "17948"});
+zipapicallback({"locality": "Mahanoy City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mahanoy City", "Morea", "New Boston"], "postal_code": "17948", "lat": 40.813869, "lng": -76.13737, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.544596, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Paradise Valley", "lng": -111.95645, "zip_code": "85253"}
+{"locality": "Paradise Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Paradise Valley", "Paradise Vly", "Scottsdale"], "postal_code": "85253", "lat": 33.544596, "lng": -111.95645, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

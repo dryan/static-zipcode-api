@@ -1,1 +1,1 @@
-{"lat": 42.338392, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Boylston", "lng": -71.73026, "zip_code": "01505"}
+{"locality": "Boylston", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boylston"], "postal_code": "01505", "lat": 42.338392, "lng": -71.73026, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

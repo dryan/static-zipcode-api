@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.251054, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Strabane", "lng": -80.19917, "zip_code": "15363"});
+zipapicallback({"locality": "Strabane", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Strabane"], "postal_code": "15363", "lat": 40.251054, "lng": -80.19917, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]});

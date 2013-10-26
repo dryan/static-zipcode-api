@@ -1,1 +1,1 @@
-{"lat": 41.642549, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Oregon", "lng": -83.5104, "zip_code": "43605"}
+{"locality": "Toledo", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Northwood", "Oregon", "Toledo"], "postal_code": "43605", "lat": 41.642549, "lng": -83.5104, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lucas"}, {"fips": "173", "name": "Wood"}]}

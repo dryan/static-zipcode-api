@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.388311, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Richardsville", "lng": -77.68111, "zip_code": "22736"});
+zipapicallback({"locality": "Richardsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Richardsville"], "postal_code": "22736", "lat": 38.388311, "lng": -77.68111, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}]});

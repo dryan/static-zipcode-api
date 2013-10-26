@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.786271, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hulen", "lng": -83.52009, "zip_code": "40845"});
+zipapicallback({"locality": "Hulen", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hulen"], "postal_code": "40845", "lat": 36.786271, "lng": -83.52009, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bell"}]});

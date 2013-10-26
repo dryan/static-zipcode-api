@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.756567, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hokah", "lng": -91.36126, "zip_code": "55941"});
+zipapicallback({"locality": "Hokah", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hokah"], "postal_code": "55941", "lat": 43.756567, "lng": -91.36126, "type": "STANDARD", "counties": [{"fips": "055", "name": "Houston"}]});

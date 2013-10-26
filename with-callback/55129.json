@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.896938, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Paul", "lng": -92.90241, "zip_code": "55129"});
+zipapicallback({"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Paul", "Woodbury"], "postal_code": "55129", "lat": 44.896938, "lng": -92.90241, "type": "STANDARD", "counties": []});

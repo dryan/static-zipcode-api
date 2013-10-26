@@ -1,1 +1,1 @@
-{"lat": 39.63298, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Avon", "lng": -106.51534, "zip_code": "81620"}
+{"locality": "Avon", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Avon", "Beaver Creek"], "postal_code": "81620", "lat": 39.63298, "lng": -106.51534, "type": "POBOX", "counties": [{"fips": "037", "name": "Eagle"}]}

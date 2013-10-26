@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.162731, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Guilford", "lng": -94.68236, "zip_code": "64457"});
+zipapicallback({"locality": "Guilford", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Guilford"], "postal_code": "64457", "lat": 40.162731, "lng": -94.68236, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}, {"fips": "003", "name": "Andrew"}]});

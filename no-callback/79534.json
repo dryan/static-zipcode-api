@@ -1,1 +1,1 @@
-{"lat": 32.766833, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mc Caulley", "lng": -100.21048, "zip_code": "79534"}
+{"locality": "Mc Caulley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mc Caulley"], "postal_code": "79534", "lat": 32.766833, "lng": -100.21048, "type": "STANDARD", "counties": [{"fips": "151", "name": "Fisher"}]}

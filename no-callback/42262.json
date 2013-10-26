@@ -1,1 +1,1 @@
-{"lat": 36.664334, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Oak Grove", "lng": -87.42789, "zip_code": "42262"}
+{"locality": "Oak Grove", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Oak Grove"], "postal_code": "42262", "lat": 36.664334, "lng": -87.42789, "type": "STANDARD", "counties": [{"fips": "047", "name": "Christian"}]}

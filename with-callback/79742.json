@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.34197, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Grandfalls", "lng": -102.8564, "zip_code": "79742"});
+zipapicallback({"locality": "Grandfalls", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Grandfalls"], "postal_code": "79742", "lat": 31.34197, "lng": -102.8564, "type": "POBOX", "counties": [{"fips": "475", "name": "Ward"}]});

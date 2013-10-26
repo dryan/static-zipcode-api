@@ -1,1 +1,1 @@
-{"lat": 46.528282, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Silver Creek", "lng": -122.57616, "zip_code": "98585"}
+{"locality": "Silver Creek", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Silver Creek"], "postal_code": "98585", "lat": 46.528282, "lng": -122.57616, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]}

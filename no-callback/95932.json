@@ -1,1 +1,1 @@
-{"lat": 39.254875, "region": {"abbr": "CA", "name": "California"}, "locality": "Colusa", "lng": -122.04572, "zip_code": "95932"}
+{"locality": "Colusa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Colusa"], "postal_code": "95932", "lat": 39.254875, "lng": -122.04572, "type": "STANDARD", "counties": [{"fips": "011", "name": "Colusa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.526277, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Grambling", "lng": -92.71794, "zip_code": "71245"});
+zipapicallback({"locality": "Grambling", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Grambling"], "postal_code": "71245", "lat": 32.526277, "lng": -92.71794, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lincoln"}]});

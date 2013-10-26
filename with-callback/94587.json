@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.592184, "region": {"abbr": "CA", "name": "California"}, "locality": "Union City", "lng": -122.04577, "zip_code": "94587"});
+zipapicallback({"locality": "Union City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Union City"], "postal_code": "94587", "lat": 37.592184, "lng": -122.04577, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

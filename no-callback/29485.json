@@ -1,1 +1,1 @@
-{"lat": 32.983408, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Summerville", "lng": -80.17627, "zip_code": "29485"}
+{"locality": "Summerville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ladson", "Lincolnville", "Summerville"], "postal_code": "29485", "lat": 32.983408, "lng": -80.17627, "type": "STANDARD", "counties": [{"fips": "035", "name": "Dorchester"}, {"fips": "015", "name": "Berkeley"}, {"fips": "019", "name": "Charleston"}]}

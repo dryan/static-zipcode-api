@@ -1,1 +1,1 @@
-{"lat": 44.974538, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clara City", "lng": -95.36594, "zip_code": "56222"}
+{"locality": "Clara City", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clara City"], "postal_code": "56222", "lat": 44.974538, "lng": -95.36594, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chippewa"}, {"fips": "067", "name": "Kandiyohi"}]}

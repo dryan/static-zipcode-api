@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.852363, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Groveport", "lng": -82.89589, "zip_code": "43125"});
+zipapicallback({"locality": "Groveport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Groveport"], "postal_code": "43125", "lat": 39.852363, "lng": -82.89589, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}, {"fips": "099", "name": "Mahoning"}, {"fips": "129", "name": "Pickaway"}]});

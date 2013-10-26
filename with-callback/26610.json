@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.465291, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Birch River", "lng": -80.72323, "zip_code": "26610"});
+zipapicallback({"locality": "Birch River", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Birch River"], "postal_code": "26610", "lat": 38.465291, "lng": -80.72323, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}, {"fips": "101", "name": "Webster"}]});

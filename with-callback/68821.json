@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.976053, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Brewster", "lng": -99.81717, "zip_code": "68821"});
+zipapicallback({"locality": "Brewster", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Brewster"], "postal_code": "68821", "lat": 41.976053, "lng": -99.81717, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blaine"}, {"fips": "017", "name": "Brown"}]});

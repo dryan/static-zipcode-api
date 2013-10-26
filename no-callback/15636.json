@@ -1,1 +1,1 @@
-{"lat": 40.359353, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harrison City", "lng": -79.65576, "zip_code": "15636"}
+{"locality": "Harrison City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harrison City"], "postal_code": "15636", "lat": 40.359353, "lng": -79.65576, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

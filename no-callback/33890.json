@@ -1,1 +1,1 @@
-{"lat": 27.485551, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Zolfo Springs", "lng": -81.72528, "zip_code": "33890"}
+{"locality": "Zolfo Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Zolfo Springs"], "postal_code": "33890", "lat": 27.485551, "lng": -81.72528, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hardee"}]}

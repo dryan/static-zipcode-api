@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.610314, "region": {"abbr": "NY", "name": "New York"}, "locality": "Worcester", "lng": -74.72401, "zip_code": "12197"});
+zipapicallback({"locality": "Worcester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Worcester"], "postal_code": "12197", "lat": 42.610314, "lng": -74.72401, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.700818, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cookson", "lng": -94.92552, "zip_code": "74427"}
+{"locality": "Cookson", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cookson"], "postal_code": "74427", "lat": 35.700818, "lng": -94.92552, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}]}

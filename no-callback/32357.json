@@ -1,1 +1,1 @@
-{"lat": 30.28163, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Shady Grove", "lng": -83.63082, "zip_code": "32357"}
+{"locality": "Shady Grove", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Shady Grove"], "postal_code": "32357", "lat": 30.28163, "lng": -83.63082, "type": "POBOX", "counties": [{"fips": "123", "name": "Taylor"}]}

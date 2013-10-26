@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.574299, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kaufman", "lng": -96.30377, "zip_code": "75142"});
+zipapicallback({"locality": "Kaufman", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kaufman"], "postal_code": "75142", "lat": 32.574299, "lng": -96.30377, "type": "STANDARD", "counties": [{"fips": "257", "name": "Kaufman"}]});

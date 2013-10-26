@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.476959, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ivanhoe", "lng": -96.23, "zip_code": "56142"});
+zipapicallback({"locality": "Ivanhoe", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ivanhoe"], "postal_code": "56142", "lat": 44.476959, "lng": -96.23, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}]});

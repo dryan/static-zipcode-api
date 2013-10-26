@@ -1,1 +1,1 @@
-{"lat": 39.730234, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Arcadia", "lng": -90.22941, "zip_code": "62650"}
+{"locality": "Jacksonville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Arcadia", "Arnold", "Jacksonville", "Lynnville", "Merritt", "Pisgah", "Sinclair"], "postal_code": "62650", "lat": 39.730234, "lng": -90.22941, "type": "STANDARD", "counties": [{"fips": "137", "name": "Morgan"}, {"fips": "171", "name": "Scott"}]}

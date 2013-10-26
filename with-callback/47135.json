@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.038838, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Laconia", "lng": -86.07212, "zip_code": "47135"});
+zipapicallback({"locality": "Laconia", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Laconia"], "postal_code": "47135", "lat": 38.038838, "lng": -86.07212, "type": "STANDARD", "counties": [{"fips": "061", "name": "Harrison"}]});

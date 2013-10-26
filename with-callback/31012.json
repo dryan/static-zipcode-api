@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.396381, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Chester", "lng": -83.16892, "zip_code": "31012"});
+zipapicallback({"locality": "Chester", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Chester"], "postal_code": "31012", "lat": 32.396381, "lng": -83.16892, "type": "STANDARD", "counties": [{"fips": "091", "name": "Dodge"}, {"fips": "023", "name": "Bleckley"}, {"fips": "175", "name": "Laurens"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.87798, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Carbon Hill", "lng": -87.52728, "zip_code": "35549"});
+zipapicallback({"locality": "Carbon Hill", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Carbon Hill"], "postal_code": "35549", "lat": 33.87798, "lng": -87.52728, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walker"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.28965, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ethel", "lng": -91.13632, "zip_code": "72048"}
+{"locality": "Ethel", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ethel"], "postal_code": "72048", "lat": 34.28965, "lng": -91.13632, "type": "STANDARD", "counties": [{"fips": "001", "name": "Arkansas"}]}

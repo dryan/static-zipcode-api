@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.175926, "region": {"abbr": "CA", "name": "California"}, "locality": "Joshua Tree", "lng": -116.29137, "zip_code": "92252"});
+zipapicallback({"locality": "Joshua Tree", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Joshua Tree"], "postal_code": "92252", "lat": 34.175926, "lng": -116.29137, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

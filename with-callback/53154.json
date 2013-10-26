@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.884347, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oak Creek", "lng": -87.8992, "zip_code": "53154"});
+zipapicallback({"locality": "Oak Creek", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oak Creek"], "postal_code": "53154", "lat": 42.884347, "lng": -87.8992, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]});

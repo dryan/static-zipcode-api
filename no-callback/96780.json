@@ -1,1 +1,1 @@
-{"lat": 19.946758, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Papaaloa", "lng": -155.2086, "zip_code": "96780"}
+{"locality": "Papaaloa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Papaaloa"], "postal_code": "96780", "lat": 19.946758, "lng": -155.2086, "type": "POBOX", "counties": [{"fips": "001", "name": "Hawaii"}]}

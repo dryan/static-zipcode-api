@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.098017, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Turtletown", "lng": -84.36195, "zip_code": "37391"});
+zipapicallback({"locality": "Turtletown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Turtletown"], "postal_code": "37391", "lat": 35.098017, "lng": -84.36195, "type": "STANDARD", "counties": [{"fips": "139", "name": "Polk"}]});

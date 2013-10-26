@@ -1,1 +1,1 @@
-{"lat": 37.276218, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Stewartsville", "lng": -79.8524, "zip_code": "24179"}
+{"locality": "Vinton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Vinton"], "postal_code": "24179", "lat": 37.276218, "lng": -79.8524, "type": "STANDARD", "counties": [{"fips": "161", "name": "Roanoke"}, {"fips": "019", "name": "Bedford"}, {"fips": "770", "name": "Roanoke (City)"}]}

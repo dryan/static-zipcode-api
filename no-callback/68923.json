@@ -1,1 +1,1 @@
-{"lat": 40.370382, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Atlanta", "lng": -99.47144, "zip_code": "68923"}
+{"locality": "Atlanta", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Atlanta"], "postal_code": "68923", "lat": 40.370382, "lng": -99.47144, "type": "POBOX", "counties": [{"fips": "137", "name": "Phelps"}]}

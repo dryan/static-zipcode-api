@@ -1,1 +1,1 @@
-{"lat": 37.667872, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Emma", "lng": -82.75876, "zip_code": "41653"}
+{"locality": "Prestonsburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Emma", "Endicott", "Hippo", "Prestonsburg"], "postal_code": "41653", "lat": 37.667872, "lng": -82.75876, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

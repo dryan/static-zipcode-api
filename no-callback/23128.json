@@ -1,1 +1,1 @@
-{"lat": 37.456363, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "North", "lng": -76.43298, "zip_code": "23128"}
+{"locality": "North", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["James Store", "North"], "postal_code": "23128", "lat": 37.456363, "lng": -76.43298, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.697651, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Big Rapids", "lng": -85.47815, "zip_code": "49307"}
+{"locality": "Big Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Big Rapids"], "postal_code": "49307", "lat": 43.697651, "lng": -85.47815, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "123", "name": "Newaygo"}]}

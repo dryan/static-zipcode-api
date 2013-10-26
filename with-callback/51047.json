@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.934345, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Peterson", "lng": -95.34343, "zip_code": "51047"});
+zipapicallback({"locality": "Peterson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Peterson"], "postal_code": "51047", "lat": 42.934345, "lng": -95.34343, "type": "STANDARD", "counties": [{"fips": "041", "name": "Clay"}]});

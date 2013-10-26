@@ -1,1 +1,1 @@
-{"lat": 42.779239, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Washington", "lng": -83.02605, "zip_code": "48095"}
+{"locality": "Washington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Washingtn Twp", "Washington", "Washington Township", "Washington Twp"], "postal_code": "48095", "lat": 42.779239, "lng": -83.02605, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

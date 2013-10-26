@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.08583, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Alpena", "lng": -83.46411, "zip_code": "49707"});
+zipapicallback({"locality": "Alpena", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Alpena"], "postal_code": "49707", "lat": 45.08583, "lng": -83.46411, "type": "STANDARD", "counties": [{"fips": "007", "name": "Alpena"}, {"fips": "141", "name": "Presque Isle"}]});

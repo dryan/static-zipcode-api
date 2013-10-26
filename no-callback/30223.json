@@ -1,1 +1,1 @@
-{"lat": 33.268185, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Griffin", "lng": -84.27306, "zip_code": "30223"}
+{"locality": "Griffin", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Griffin"], "postal_code": "30223", "lat": 33.268185, "lng": -84.27306, "type": "STANDARD", "counties": [{"fips": "255", "name": "Spalding"}, {"fips": "151", "name": "Henry"}, {"fips": "231", "name": "Pike"}, {"fips": "171", "name": "Lamar"}, {"fips": "035", "name": "Butts"}]}

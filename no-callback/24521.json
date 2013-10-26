@@ -1,1 +1,1 @@
-{"lat": 37.616606, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Amherst", "lng": -79.08763, "zip_code": "24521"}
+{"locality": "Amherst", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Amherst"], "postal_code": "24521", "lat": 37.616606, "lng": -79.08763, "type": "STANDARD", "counties": [{"fips": "009", "name": "Amherst"}, {"fips": "125", "name": "Nelson"}]}

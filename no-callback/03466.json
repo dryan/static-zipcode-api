@@ -1,1 +1,1 @@
-{"lat": 42.899338, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "West Chesterfiel", "lng": -72.51629, "zip_code": "03466"}
+{"locality": "West Chesterfield", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["W Chesterfld", "West Chesterfield"], "postal_code": "03466", "lat": 42.899338, "lng": -72.51629, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]}

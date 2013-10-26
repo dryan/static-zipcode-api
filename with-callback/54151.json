@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.732689, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Niagara", "lng": -87.96996, "zip_code": "54151"});
+zipapicallback({"locality": "Niagara", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Niagara"], "postal_code": "54151", "lat": 45.732689, "lng": -87.96996, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}, {"fips": "037", "name": "Florence"}]});

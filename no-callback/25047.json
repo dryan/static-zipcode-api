@@ -1,1 +1,1 @@
-{"lat": 37.950033, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Clothier", "lng": -81.78924, "zip_code": "25047"}
+{"locality": "Clothier", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Clothier"], "postal_code": "25047", "lat": 37.950033, "lng": -81.78924, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]}

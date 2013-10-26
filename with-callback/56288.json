@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.238936, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Spicer", "lng": -94.95001, "zip_code": "56288"});
+zipapicallback({"locality": "Spicer", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Spicer"], "postal_code": "56288", "lat": 45.238936, "lng": -94.95001, "type": "STANDARD", "counties": [{"fips": "067", "name": "Kandiyohi"}]});

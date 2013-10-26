@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.07672, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Glenview", "lng": -87.81922, "zip_code": "60025"});
+zipapicallback({"locality": "Glenview", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Glenview"], "postal_code": "60025", "lat": 42.07672, "lng": -87.81922, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

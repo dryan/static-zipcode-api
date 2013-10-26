@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.891486, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ezel", "lng": -83.44413, "zip_code": "41425"});
+zipapicallback({"locality": "Ezel", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ezel"], "postal_code": "41425", "lat": 37.891486, "lng": -83.44413, "type": "STANDARD", "counties": [{"fips": "175", "name": "Morgan"}]});

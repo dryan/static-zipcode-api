@@ -1,1 +1,1 @@
-{"lat": 43.006529, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Avon", "lng": -98.04587, "zip_code": "57315"}
+{"locality": "Avon", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Avon"], "postal_code": "57315", "lat": 43.006529, "lng": -98.04587, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bon Homme"}, {"fips": "023", "name": "Charles Mix"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.951705, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "New Orleans", "lng": -90.10411, "zip_code": "70125"}
+{"locality": "New Orleans", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["New Orleans"], "postal_code": "70125", "lat": 29.951705, "lng": -90.10411, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orleans"}]}

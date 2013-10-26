@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.271422, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bailey", "lng": -85.84023, "zip_code": "49303"});
+zipapicallback({"locality": "Bailey", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bailey"], "postal_code": "49303", "lat": 43.271422, "lng": -85.84023, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}, {"fips": "081", "name": "Kent"}, {"fips": "123", "name": "Newaygo"}]});

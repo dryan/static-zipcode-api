@@ -1,1 +1,1 @@
-{"lat": 43.146907, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mayfield", "lng": -74.23466, "zip_code": "12117"}
+{"locality": "Mayfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mayfield"], "postal_code": "12117", "lat": 43.146907, "lng": -74.23466, "type": "STANDARD", "counties": [{"fips": "035", "name": "Fulton"}]}

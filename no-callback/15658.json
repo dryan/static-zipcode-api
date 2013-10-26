@@ -1,1 +1,1 @@
-{"lat": 40.247351, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wilpen", "lng": -79.22882, "zip_code": "15658"}
+{"locality": "Ligonier", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ligonier", "Wilpen"], "postal_code": "15658", "lat": 40.247351, "lng": -79.22882, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.237928, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Evington", "lng": -79.28268, "zip_code": "24550"});
+zipapicallback({"locality": "Evington", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Evington"], "postal_code": "24550", "lat": 37.237928, "lng": -79.28268, "type": "STANDARD", "counties": [{"fips": "031", "name": "Campbell"}, {"fips": "019", "name": "Bedford"}]});

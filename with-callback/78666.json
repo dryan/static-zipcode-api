@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.876944, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Marcos", "lng": -97.94668, "zip_code": "78666"});
+zipapicallback({"locality": "San Marcos", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Marcos"], "postal_code": "78666", "lat": 29.876944, "lng": -97.94668, "type": "STANDARD", "counties": [{"fips": "209", "name": "Hays"}, {"fips": "091", "name": "Comal"}, {"fips": "187", "name": "Guadalupe"}]});

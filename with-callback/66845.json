@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.344157, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cottonwood Falls", "lng": -96.52969, "zip_code": "66845"});
+zipapicallback({"locality": "Cottonwood Falls", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cottonwd Fls", "Cottonwood Falls"], "postal_code": "66845", "lat": 38.344157, "lng": -96.52969, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chase"}]});

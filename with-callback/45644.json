@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.459353, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kingston", "lng": -82.87777, "zip_code": "45644"});
+zipapicallback({"locality": "Kingston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kingston"], "postal_code": "45644", "lat": 39.459353, "lng": -82.87777, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ross"}, {"fips": "129", "name": "Pickaway"}]});

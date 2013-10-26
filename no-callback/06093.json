@@ -1,1 +1,1 @@
-{"lat": 42.019907, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "West Suffield", "lng": -72.73357, "zip_code": "06093"}
+{"locality": "West Suffield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["West Suffield"], "postal_code": "06093", "lat": 42.019907, "lng": -72.73357, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

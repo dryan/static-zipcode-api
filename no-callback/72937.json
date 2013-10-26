@@ -1,1 +1,1 @@
-{"lat": 35.15875, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hackett", "lng": -94.39462, "zip_code": "72937"}
+{"locality": "Hackett", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hackett"], "postal_code": "72937", "lat": 35.15875, "lng": -94.39462, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}]}

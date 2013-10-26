@@ -1,1 +1,1 @@
-{"lat": 40.223935, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Allenspark", "lng": -105.52421, "zip_code": "80510"}
+{"locality": "Allenspark", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Allenspark"], "postal_code": "80510", "lat": 40.223935, "lng": -105.52421, "type": "STANDARD", "counties": [{"fips": "013", "name": "Boulder"}]}

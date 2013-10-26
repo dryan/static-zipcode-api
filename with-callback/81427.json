@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.016388, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Ouray", "lng": -107.67438, "zip_code": "81427"});
+zipapicallback({"locality": "Ouray", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Ouray"], "postal_code": "81427", "lat": 38.016388, "lng": -107.67438, "type": "POBOX", "counties": [{"fips": "091", "name": "Ouray"}]});

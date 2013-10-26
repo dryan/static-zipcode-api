@@ -1,1 +1,1 @@
-{"lat": 39.278949, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clark", "lng": -92.36456, "zip_code": "65243"}
+{"locality": "Clark", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clark"], "postal_code": "65243", "lat": 39.278949, "lng": -92.36456, "type": "STANDARD", "counties": [{"fips": "175", "name": "Randolph"}, {"fips": "137", "name": "Monroe"}, {"fips": "089", "name": "Howard"}, {"fips": "019", "name": "Boone"}, {"fips": "007", "name": "Audrain"}]}

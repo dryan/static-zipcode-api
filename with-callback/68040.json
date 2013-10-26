@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.285973, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Malmo", "lng": -96.73951, "zip_code": "68040"});
+zipapicallback({"locality": "Malmo", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Malmo"], "postal_code": "68040", "lat": 41.285973, "lng": -96.73951, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]});

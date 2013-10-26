@@ -1,1 +1,1 @@
-{"lat": 41.907756, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Yoder", "lng": -104.3721, "zip_code": "82244"}
+{"locality": "Yoder", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Yoder"], "postal_code": "82244", "lat": 41.907756, "lng": -104.3721, "type": "STANDARD", "counties": [{"fips": "015", "name": "Goshen"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.555885, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Crawford", "lng": -97.41024, "zip_code": "76638"}
+{"locality": "Crawford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Crawford"], "postal_code": "76638", "lat": 31.555885, "lng": -97.41024, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}, {"fips": "099", "name": "Coryell"}]}

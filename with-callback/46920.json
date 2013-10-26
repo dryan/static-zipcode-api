@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.472125, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Cutler", "lng": -86.47781, "zip_code": "46920"});
+zipapicallback({"locality": "Cutler", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Cutler"], "postal_code": "46920", "lat": 40.472125, "lng": -86.47781, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "023", "name": "Clinton"}]});

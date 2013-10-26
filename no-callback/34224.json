@@ -1,1 +1,1 @@
-{"lat": 26.925265, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Grove City", "lng": -82.29693, "zip_code": "34224"}
+{"locality": "Englewood", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Englewood", "Grove City"], "postal_code": "34224", "lat": 26.925265, "lng": -82.29693, "type": "STANDARD", "counties": [{"fips": "015", "name": "Charlotte"}, {"fips": "115", "name": "Sarasota"}]}

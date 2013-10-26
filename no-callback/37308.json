@@ -1,1 +1,1 @@
-{"lat": 35.357001, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Birchwood", "lng": -84.99288, "zip_code": "37308"}
+{"locality": "Birchwood", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Birchwood"], "postal_code": "37308", "lat": 35.357001, "lng": -84.99288, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}, {"fips": "121", "name": "Meigs"}]}

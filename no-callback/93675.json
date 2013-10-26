@@ -1,1 +1,1 @@
-{"lat": 36.713181, "region": {"abbr": "CA", "name": "California"}, "locality": "Squaw Valley", "lng": -119.18327, "zip_code": "93675"}
+{"locality": "Squaw Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orange Cove", "Squaw Valley"], "postal_code": "93675", "lat": 36.713181, "lng": -119.18327, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

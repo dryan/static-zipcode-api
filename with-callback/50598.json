@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.077787, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Whittemore", "lng": -94.41061, "zip_code": "50598"});
+zipapicallback({"locality": "Whittemore", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Whittemore"], "postal_code": "50598", "lat": 43.077787, "lng": -94.41061, "type": "STANDARD", "counties": [{"fips": "109", "name": "Kossuth"}]});

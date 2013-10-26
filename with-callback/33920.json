@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.711362, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Alva", "lng": -81.61684, "zip_code": "33920"});
+zipapicallback({"locality": "Alva", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Alva"], "postal_code": "33920", "lat": 26.711362, "lng": -81.61684, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}, {"fips": "051", "name": "Hendry"}]});

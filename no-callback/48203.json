@@ -1,1 +1,1 @@
-{"lat": 42.421936, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Highland Park", "lng": -83.09981, "zip_code": "48203"}
+{"locality": "Highland Park", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Highland Park"], "postal_code": "48203", "lat": 42.421936, "lng": -83.09981, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

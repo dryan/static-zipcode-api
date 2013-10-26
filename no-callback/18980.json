@@ -1,1 +1,1 @@
-{"lat": 40.28083, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wycombe", "lng": -75.01422, "zip_code": "18980"}
+{"locality": "Wycombe", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wycombe"], "postal_code": "18980", "lat": 40.28083, "lng": -75.01422, "type": "POBOX", "counties": [{"fips": "017", "name": "Bucks"}]}

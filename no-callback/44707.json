@@ -1,1 +1,1 @@
-{"lat": 40.784158, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Industry", "lng": -81.36566, "zip_code": "44707"}
+{"locality": "Canton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canton", "N Industry", "North Industry"], "postal_code": "44707", "lat": 40.784158, "lng": -81.36566, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.696264, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Martinsville", "lng": -79.86879, "zip_code": "24112"}
+{"locality": "Martinsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Martinsville"], "postal_code": "24112", "lat": 36.696264, "lng": -79.86879, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henry"}, {"fips": "690", "name": "Martinsville (City)"}, {"fips": "067", "name": "Franklin"}]}

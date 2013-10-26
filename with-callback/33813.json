@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.965469, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Southside", "lng": -81.92215, "zip_code": "33813"});
+zipapicallback({"locality": "Lakeland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lakeland"], "postal_code": "33813", "lat": 27.965469, "lng": -81.92215, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]});

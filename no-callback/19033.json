@@ -1,1 +1,1 @@
-{"lat": 39.890462, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Folsom", "lng": -75.32755, "zip_code": "19033"}
+{"locality": "Folsom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Folsom", "Milmont Park"], "postal_code": "19033", "lat": 39.890462, "lng": -75.32755, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

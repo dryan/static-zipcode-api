@@ -1,1 +1,1 @@
-{"lat": 40.840256, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Lawrence", "lng": -81.62724, "zip_code": "44666"}
+{"locality": "North Lawrence", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["N Lawrence", "North Lawrence"], "postal_code": "44666", "lat": 40.840256, "lng": -81.62724, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "169", "name": "Wayne"}]}

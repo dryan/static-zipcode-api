@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.879712, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Santa Teresa", "lng": -106.71763, "zip_code": "88008"});
+zipapicallback({"locality": "Santa Teresa", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Santa Teresa"], "postal_code": "88008", "lat": 31.879712, "lng": -106.71763, "type": "STANDARD", "counties": [{"fips": "013", "name": "Dona Ana"}]});

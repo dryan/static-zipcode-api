@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.193953, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Eastman", "lng": -83.1848, "zip_code": "31023"});
+zipapicallback({"locality": "Eastman", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Eastman", "Plainfield"], "postal_code": "31023", "lat": 32.193953, "lng": -83.1848, "type": "STANDARD", "counties": [{"fips": "091", "name": "Dodge"}, {"fips": "175", "name": "Laurens"}, {"fips": "235", "name": "Pulaski"}]});

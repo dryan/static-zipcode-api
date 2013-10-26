@@ -1,1 +1,1 @@
-{"lat": 37.245041, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mallie", "lng": -82.8955, "zip_code": "41836"}
+{"locality": "Mallie", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mallie"], "postal_code": "41836", "lat": 37.245041, "lng": -82.8955, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]}

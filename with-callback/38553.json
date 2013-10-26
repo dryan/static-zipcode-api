@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.209271, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Clarkrange", "lng": -85.00757, "zip_code": "38553"});
+zipapicallback({"locality": "Clarkrange", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Clarkrange"], "postal_code": "38553", "lat": 36.209271, "lng": -85.00757, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fentress"}]});

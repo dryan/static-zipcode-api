@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.34937, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Waldo", "lng": -93.31176, "zip_code": "71770"});
+zipapicallback({"locality": "Waldo", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Waldo"], "postal_code": "71770", "lat": 33.34937, "lng": -93.31176, "type": "STANDARD", "counties": [{"fips": "027", "name": "Columbia"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.059992, "region": {"abbr": "NY", "name": "New York"}, "locality": "Chittenango", "lng": -75.87116, "zip_code": "13037"}
+{"locality": "Chittenango", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Chittenango"], "postal_code": "13037", "lat": 43.059992, "lng": -75.87116, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}, {"fips": "067", "name": "Onondaga"}]}

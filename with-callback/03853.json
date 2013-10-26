@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.642398, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Mirror Lake", "lng": -71.28614, "zip_code": "03853"});
+zipapicallback({"locality": "Mirror Lake", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Mirror Lake"], "postal_code": "03853", "lat": 43.642398, "lng": -71.28614, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]});

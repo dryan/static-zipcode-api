@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.396411, "region": {"abbr": "CA", "name": "California"}, "locality": "Bakersfield", "lng": -118.92268, "zip_code": "93306"});
+zipapicallback({"locality": "Bakersfield", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bakersfield"], "postal_code": "93306", "lat": 35.396411, "lng": -118.92268, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

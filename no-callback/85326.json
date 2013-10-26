@@ -1,1 +1,1 @@
-{"lat": 33.354418, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Buckeye", "lng": -112.56941, "zip_code": "85326"}
+{"locality": "Buckeye", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Buckeye"], "postal_code": "85326", "lat": 33.354418, "lng": -112.56941, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

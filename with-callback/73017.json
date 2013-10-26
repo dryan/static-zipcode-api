@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.932493, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cement", "lng": -98.11946, "zip_code": "73017"});
+zipapicallback({"locality": "Cement", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cement"], "postal_code": "73017", "lat": 34.932493, "lng": -98.11946, "type": "STANDARD", "counties": [{"fips": "015", "name": "Caddo"}, {"fips": "031", "name": "Comanche"}, {"fips": "051", "name": "Grady"}]});

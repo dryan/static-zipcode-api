@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.906164, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Northpoint", "lng": -79.13757, "zip_code": "15763"});
+zipapicallback({"locality": "Northpoint", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Northpoint"], "postal_code": "15763", "lat": 40.906164, "lng": -79.13757, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}, {"fips": "063", "name": "Indiana"}]});

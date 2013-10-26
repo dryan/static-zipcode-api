@@ -1,1 +1,1 @@
-{"lat": 35.665899, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Phillips", "lng": -101.40666, "zip_code": "79007"}
+{"locality": "Borger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Borger", "Phillips"], "postal_code": "79007", "lat": 35.665899, "lng": -101.40666, "type": "STANDARD", "counties": [{"fips": "233", "name": "Hutchinson"}]}

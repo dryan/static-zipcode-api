@@ -1,1 +1,1 @@
-{"lat": 39.610945, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Dresden", "lng": -100.45129, "zip_code": "67635"}
+{"locality": "Dresden", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Dresden"], "postal_code": "67635", "lat": 39.610945, "lng": -100.45129, "type": "STANDARD", "counties": [{"fips": "039", "name": "Decatur"}, {"fips": "179", "name": "Sheridan"}]}

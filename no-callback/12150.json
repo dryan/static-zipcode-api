@@ -1,1 +1,1 @@
-{"lat": 42.876756, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rotterdam Juncti", "lng": -74.05452, "zip_code": "12150"}
+{"locality": "Rotterdam Junction", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rotterdam Jct", "Rotterdam Junction"], "postal_code": "12150", "lat": 42.876756, "lng": -74.05452, "type": "STANDARD", "counties": [{"fips": "093", "name": "Schenectady"}]}

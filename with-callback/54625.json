@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.130528, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Dodge", "lng": -91.52601, "zip_code": "54625"});
+zipapicallback({"locality": "Dodge", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dodge"], "postal_code": "54625", "lat": 44.130528, "lng": -91.52601, "type": "STANDARD", "counties": [{"fips": "121", "name": "Trempealeau"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.857038, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ludell", "lng": -100.93866, "zip_code": "67744"});
+zipapicallback({"locality": "Ludell", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ludell"], "postal_code": "67744", "lat": 39.857038, "lng": -100.93866, "type": "STANDARD", "counties": [{"fips": "153", "name": "Rawlins"}]});

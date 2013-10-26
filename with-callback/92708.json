@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.708618, "region": {"abbr": "CA", "name": "California"}, "locality": "Fountain Valley", "lng": -117.95629, "zip_code": "92708"});
+zipapicallback({"locality": "Fountain Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fountain Valley", "Fountain Vly", "Santa Ana"], "postal_code": "92708", "lat": 33.708618, "lng": -117.95629, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

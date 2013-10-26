@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.001365, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Iredell", "lng": -97.88196, "zip_code": "76649"});
+zipapicallback({"locality": "Iredell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Iredell"], "postal_code": "76649", "lat": 32.001365, "lng": -97.88196, "type": "STANDARD", "counties": [{"fips": "035", "name": "Bosque"}, {"fips": "143", "name": "Erath"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.78737, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Trosper", "lng": -83.81508, "zip_code": "40995"}
+{"locality": "Trosper", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Trosper"], "postal_code": "40995", "lat": 36.78737, "lng": -83.81508, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

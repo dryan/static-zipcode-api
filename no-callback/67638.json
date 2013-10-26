@@ -1,1 +1,1 @@
-{"lat": 39.640967, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Gaylord", "lng": -98.84528, "zip_code": "67638"}
+{"locality": "Gaylord", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Gaylord"], "postal_code": "67638", "lat": 39.640967, "lng": -98.84528, "type": "STANDARD", "counties": [{"fips": "183", "name": "Smith"}, {"fips": "141", "name": "Osborne"}]}

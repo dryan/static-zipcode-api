@@ -1,1 +1,1 @@
-{"lat": 37.191882, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Jansen", "lng": -104.47809, "zip_code": "81082"}
+{"locality": "Trinidad", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cokedale", "Jansen", "Sopris", "Starkville", "Trinidad"], "postal_code": "81082", "lat": 37.191882, "lng": -104.47809, "type": "STANDARD", "counties": [{"fips": "071", "name": "Las Animas"}]}

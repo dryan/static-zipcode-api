@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.375691, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dayton", "lng": -86.76703, "zip_code": "47941"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dayton"], "postal_code": "47941", "lat": 40.375691, "lng": -86.76703, "type": "POBOX", "counties": [{"fips": "157", "name": "Tippecanoe"}]});

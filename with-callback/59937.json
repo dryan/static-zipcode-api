@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.409454, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Whitefish", "lng": -114.43069, "zip_code": "59937"});
+zipapicallback({"locality": "Whitefish", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Whitefish"], "postal_code": "59937", "lat": 48.409454, "lng": -114.43069, "type": "STANDARD", "counties": [{"fips": "029", "name": "Flathead"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.298407, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "White Earth", "lng": -102.76645, "zip_code": "58794"}
+{"locality": "White Earth", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["White Earth"], "postal_code": "58794", "lat": 48.298407, "lng": -102.76645, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mountrail"}]}

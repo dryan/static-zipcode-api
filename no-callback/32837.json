@@ -1,1 +1,1 @@
-{"lat": 28.385906, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Orlando", "lng": -81.41182, "zip_code": "32837"}
+{"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Orlando"], "postal_code": "32837", "lat": 28.385906, "lng": -81.41182, "type": "STANDARD", "counties": []}

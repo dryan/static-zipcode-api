@@ -1,1 +1,1 @@
-{"lat": 39.077557, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Olive", "lng": -89.73423, "zip_code": "62069"}
+{"locality": "Mount Olive", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Olive"], "postal_code": "62069", "lat": 39.077557, "lng": -89.73423, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}, {"fips": "135", "name": "Montgomery"}]}

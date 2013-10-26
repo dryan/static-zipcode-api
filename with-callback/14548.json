@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.97342, "region": {"abbr": "NY", "name": "New York"}, "locality": "Shortsville", "lng": -77.2434, "zip_code": "14548"});
+zipapicallback({"locality": "Shortsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Shortsville"], "postal_code": "14548", "lat": 42.97342, "lng": -77.2434, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}]});

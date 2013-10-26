@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.554988, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Westboro", "lng": -95.34418, "zip_code": "64498"});
+zipapicallback({"locality": "Westboro", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Westboro"], "postal_code": "64498", "lat": 40.554988, "lng": -95.34418, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}]});

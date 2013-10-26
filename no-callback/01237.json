@@ -1,1 +1,1 @@
-{"lat": 42.557346, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hancock", "lng": -73.24364, "zip_code": "01237"}
+{"locality": "Lanesboro", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hancock", "Lanesboro", "New Ashford"], "postal_code": "01237", "lat": 42.557346, "lng": -73.24364, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

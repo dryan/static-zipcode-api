@@ -1,1 +1,1 @@
-{"lat": 33.592575, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Monticello", "lng": -91.81237, "zip_code": "71656"}
+{"locality": "Monticello", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Monticello"], "postal_code": "71656", "lat": 33.592575, "lng": -91.81237, "type": "POBOX", "counties": []}

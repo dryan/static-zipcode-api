@@ -1,1 +1,1 @@
-{"lat": 33.380359, "region": {"abbr": "CA", "name": "California"}, "locality": "Fallbrook", "lng": -117.20605, "zip_code": "92028"}
+{"locality": "Fallbrook", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fallbrook"], "postal_code": "92028", "lat": 33.380359, "lng": -117.20605, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

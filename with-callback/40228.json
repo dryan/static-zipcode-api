@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.137586, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Buechel", "lng": -85.62741, "zip_code": "40228"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hollow Creek", "Louisville", "Spring Mill"], "postal_code": "40228", "lat": 38.137586, "lng": -85.62741, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]});

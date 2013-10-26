@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.546172, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Quinton", "lng": -75.41367, "zip_code": "08072"});
+zipapicallback({"locality": "Quinton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Quinton"], "postal_code": "08072", "lat": 39.546172, "lng": -75.41367, "type": "POBOX", "counties": [{"fips": "033", "name": "Salem"}]});

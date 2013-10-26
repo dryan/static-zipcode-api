@@ -1,1 +1,1 @@
-{"lat": 37.889125, "region": {"abbr": "CA", "name": "California"}, "locality": "Albany", "lng": -122.29371, "zip_code": "94706"}
+{"locality": "Albany", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Albany", "Berkeley", "Kensington"], "postal_code": "94706", "lat": 37.889125, "lng": -122.29371, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

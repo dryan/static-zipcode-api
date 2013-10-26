@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.393113, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gruver", "lng": -94.70471, "zip_code": "51344"});
+zipapicallback({"locality": "Gruver", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gruver"], "postal_code": "51344", "lat": 43.393113, "lng": -94.70471, "type": "POBOX", "counties": [{"fips": "063", "name": "Emmet"}]});

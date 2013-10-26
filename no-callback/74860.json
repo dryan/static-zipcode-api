@@ -1,1 +1,1 @@
-{"lat": 35.514019, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Paden", "lng": -96.56969, "zip_code": "74860"}
+{"locality": "Paden", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Paden"], "postal_code": "74860", "lat": 35.514019, "lng": -96.56969, "type": "STANDARD", "counties": [{"fips": "107", "name": "Okfuskee"}]}

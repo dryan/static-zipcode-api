@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.879287, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Falkner", "lng": -88.99516, "zip_code": "38629"});
+zipapicallback({"locality": "Falkner", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Falkner"], "postal_code": "38629", "lat": 34.879287, "lng": -88.99516, "type": "STANDARD", "counties": [{"fips": "139", "name": "Tippah"}, {"fips": "009", "name": "Benton"}]});

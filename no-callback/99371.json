@@ -1,1 +1,1 @@
-{"lat": 46.782783, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Washtucna", "lng": -118.2869, "zip_code": "99371"}
+{"locality": "Washtucna", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Washtucna"], "postal_code": "99371", "lat": 46.782783, "lng": -118.2869, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

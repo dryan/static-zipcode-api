@@ -1,1 +1,1 @@
-{"lat": 30.360887, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pensacola", "lng": -87.33451, "zip_code": "32507"}
+{"locality": "Pensacola", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pensacola"], "postal_code": "32507", "lat": 30.360887, "lng": -87.33451, "type": "STANDARD", "counties": [{"fips": "033", "name": "Escambia"}, {"fips": "003", "name": "Baker"}]}

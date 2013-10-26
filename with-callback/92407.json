@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.198189, "region": {"abbr": "CA", "name": "California"}, "locality": "San Bernardino", "lng": -117.35826, "zip_code": "92407"});
+zipapicallback({"locality": "San Bernardino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Arrowhead Farms", "Arrowhed Farm", "Devore Heights", "Devore Hghts", "Muscoy", "San Bernardino", "Sn Bernrdno", "Verdemont"], "postal_code": "92407", "lat": 34.198189, "lng": -117.35826, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

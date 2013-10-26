@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.316288, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Battle Creek", "lng": -95.61045, "zip_code": "51006"});
+zipapicallback({"locality": "Battle Creek", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Battle Creek"], "postal_code": "51006", "lat": 42.316288, "lng": -95.61045, "type": "STANDARD", "counties": [{"fips": "093", "name": "Ida"}]});

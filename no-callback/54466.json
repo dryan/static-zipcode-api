@@ -1,1 +1,1 @@
-{"lat": 44.404914, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pittsville", "lng": -90.24246, "zip_code": "54466"}
+{"locality": "Pittsville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pittsville"], "postal_code": "54466", "lat": 44.404914, "lng": -90.24246, "type": "STANDARD", "counties": [{"fips": "141", "name": "Wood"}, {"fips": "053", "name": "Jackson"}, {"fips": "019", "name": "Clark"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.970099, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mohawk", "lng": -74.96051, "zip_code": "13407"}
+{"locality": "Mohawk", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mohawk"], "postal_code": "13407", "lat": 42.970099, "lng": -74.96051, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}]}

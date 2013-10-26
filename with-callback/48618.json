@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.747084, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Coleman", "lng": -84.55669, "zip_code": "48618"});
+zipapicallback({"locality": "Coleman", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Coleman"], "postal_code": "48618", "lat": 43.747084, "lng": -84.55669, "type": "STANDARD", "counties": [{"fips": "111", "name": "Midland"}, {"fips": "051", "name": "Gladwin"}, {"fips": "073", "name": "Isabella"}]});

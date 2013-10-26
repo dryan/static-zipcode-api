@@ -1,1 +1,1 @@
-{"lat": 21.501722, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Wahiawa", "lng": -158.03543, "zip_code": "96786"}
+{"locality": "Wahiawa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Wahiawa"], "postal_code": "96786", "lat": 21.501722, "lng": -158.03543, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}]}

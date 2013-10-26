@@ -1,1 +1,1 @@
-{"lat": 40.730182, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Easton", "lng": -75.22349, "zip_code": "18040"}
+{"locality": "Easton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Easton", "Forks Township", "Forks Twp", "Stockertown Township", "Stockrtwn Twp"], "postal_code": "18040", "lat": 40.730182, "lng": -75.22349, "type": "STANDARD", "counties": []}

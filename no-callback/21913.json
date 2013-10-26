@@ -1,1 +1,1 @@
-{"lat": 39.402919, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Cecilton", "lng": -75.86943, "zip_code": "21913"}
+{"locality": "Cecilton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Cecilton"], "postal_code": "21913", "lat": 39.402919, "lng": -75.86943, "type": "POBOX", "counties": [{"fips": "015", "name": "Cecil"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.070936, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Matador", "lng": -100.82488, "zip_code": "79244"}
+{"locality": "Matador", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Matador"], "postal_code": "79244", "lat": 34.070936, "lng": -100.82488, "type": "STANDARD", "counties": [{"fips": "345", "name": "Motley"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.997509, "region": {"abbr": "CA", "name": "California"}, "locality": "Pinole", "lng": -122.29208, "zip_code": "94564"}
+{"locality": "Pinole", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pinole"], "postal_code": "94564", "lat": 37.997509, "lng": -122.29208, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]}

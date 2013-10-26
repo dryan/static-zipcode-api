@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.156858, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Fruitland", "lng": -110.95449, "zip_code": "84027"});
+zipapicallback({"locality": "Fruitland", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fruitland"], "postal_code": "84027", "lat": 40.156858, "lng": -110.95449, "type": "POBOX", "counties": [{"fips": "013", "name": "Duchesne"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.63205, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Olga", "lng": -122.81372, "zip_code": "98279"}
+{"locality": "Olga", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Olga"], "postal_code": "98279", "lat": 48.63205, "lng": -122.81372, "type": "STANDARD", "counties": [{"fips": "055", "name": "San Juan"}]}

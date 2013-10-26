@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.707118, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Naperville", "lng": -88.19634, "zip_code": "60564"});
+zipapicallback({"locality": "Naperville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Naperville"], "postal_code": "60564", "lat": 41.707118, "lng": -88.19634, "type": "STANDARD", "counties": []});

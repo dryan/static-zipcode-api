@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.038149, "region": {"abbr": "NY", "name": "New York"}, "locality": "Herkimer", "lng": -74.9846, "zip_code": "13350"});
+zipapicallback({"locality": "Herkimer", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Herkimer"], "postal_code": "13350", "lat": 43.038149, "lng": -74.9846, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}]});

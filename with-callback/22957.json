@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.221405, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Montpelier Station", "lng": -78.19026, "zip_code": "22957"});
+zipapicallback({"locality": "Montpelier Station", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mntpelier Sta", "Montpelier Station"], "postal_code": "22957", "lat": 38.221405, "lng": -78.19026, "type": "POBOX", "counties": [{"fips": "137", "name": "Orange"}]});

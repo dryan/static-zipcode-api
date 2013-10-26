@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.832007, "region": {"abbr": "NY", "name": "New York"}, "locality": "Union Springs", "lng": -76.66641, "zip_code": "13160"});
+zipapicallback({"locality": "Union Springs", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Union Springs"], "postal_code": "13160", "lat": 42.832007, "lng": -76.66641, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cayuga"}]});

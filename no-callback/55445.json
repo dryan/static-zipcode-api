@@ -1,1 +1,1 @@
-{"lat": 45.112742, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brooklyn Park", "lng": -93.3789, "zip_code": "55445"}
+{"locality": "Minneapolis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brooklyn Park", "Minneapolis"], "postal_code": "55445", "lat": 45.112742, "lng": -93.3789, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]}

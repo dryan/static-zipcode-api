@@ -1,1 +1,1 @@
-{"lat": 28.751024, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Floral City", "lng": -82.28449, "zip_code": "34436"}
+{"locality": "Floral City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Floral City"], "postal_code": "34436", "lat": 28.751024, "lng": -82.28449, "type": "STANDARD", "counties": []}

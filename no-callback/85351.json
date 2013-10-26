@@ -1,1 +1,1 @@
-{"lat": 33.60642, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sun City", "lng": -112.28316, "zip_code": "85351"}
+{"locality": "Sun City", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sun City"], "postal_code": "85351", "lat": 33.60642, "lng": -112.28316, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

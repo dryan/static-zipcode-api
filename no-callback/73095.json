@@ -1,1 +1,1 @@
-{"lat": 34.913215, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wayne", "lng": -97.30452, "zip_code": "73095"}
+{"locality": "Wayne", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wayne"], "postal_code": "73095", "lat": 34.913215, "lng": -97.30452, "type": "STANDARD", "counties": [{"fips": "087", "name": "McClain"}]}

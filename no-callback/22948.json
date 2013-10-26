@@ -1,1 +1,1 @@
-{"lat": 38.349795, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Locust Dale", "lng": -78.11747, "zip_code": "22948"}
+{"locality": "Locust Dale", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Locust Dale"], "postal_code": "22948", "lat": 38.349795, "lng": -78.11747, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]}

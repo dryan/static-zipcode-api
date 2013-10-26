@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.541756, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Huntsburg", "lng": -81.08063, "zip_code": "44046"});
+zipapicallback({"locality": "Huntsburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Huntsburg"], "postal_code": "44046", "lat": 41.541756, "lng": -81.08063, "type": "STANDARD", "counties": [{"fips": "055", "name": "Geauga"}, {"fips": "007", "name": "Ashtabula"}]});

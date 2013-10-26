@@ -1,1 +1,1 @@
-{"lat": 45.486818, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "North Fork", "lng": -114.07866, "zip_code": "83466"}
+{"locality": "North Fork", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["North Fork"], "postal_code": "83466", "lat": 45.486818, "lng": -114.07866, "type": "STANDARD", "counties": [{"fips": "059", "name": "Lemhi"}]}

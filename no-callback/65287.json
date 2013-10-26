@@ -1,1 +1,1 @@
-{"lat": 38.884926, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wooldridge", "lng": -92.52188, "zip_code": "65287"}
+{"locality": "Wooldridge", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wooldridge"], "postal_code": "65287", "lat": 38.884926, "lng": -92.52188, "type": "STANDARD", "counties": [{"fips": "053", "name": "Cooper"}, {"fips": "135", "name": "Moniteau"}]}

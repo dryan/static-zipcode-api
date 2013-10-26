@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.150754, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Independence", "lng": -94.34502, "zip_code": "64058"});
+zipapicallback({"locality": "Independence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Independence", "Sugar Creek"], "postal_code": "64058", "lat": 39.150754, "lng": -94.34502, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]});

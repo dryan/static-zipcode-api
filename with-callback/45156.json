@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.810072, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Neville", "lng": -84.21176, "zip_code": "45156"});
+zipapicallback({"locality": "Neville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Neville"], "postal_code": "45156", "lat": 38.810072, "lng": -84.21176, "type": "POBOX", "counties": [{"fips": "025", "name": "Clermont"}]});

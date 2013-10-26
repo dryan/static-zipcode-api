@@ -1,1 +1,1 @@
-{"lat": 30.316847, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Evadale", "lng": -94.07395, "zip_code": "77615"}
+{"locality": "Evadale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Evadale"], "postal_code": "77615", "lat": 30.316847, "lng": -94.07395, "type": "POBOX", "counties": [{"fips": "241", "name": "Jasper"}]}

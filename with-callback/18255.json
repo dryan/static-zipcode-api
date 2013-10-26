@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.945334, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Weatherly", "lng": -75.8265, "zip_code": "18255"});
+zipapicallback({"locality": "Weatherly", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Weatherly"], "postal_code": "18255", "lat": 40.945334, "lng": -75.8265, "type": "STANDARD", "counties": [{"fips": "025", "name": "Carbon"}, {"fips": "079", "name": "Luzerne"}, {"fips": "107", "name": "Schuylkill"}]});

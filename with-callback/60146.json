@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.100571, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kirkland", "lng": -88.87665, "zip_code": "60146"});
+zipapicallback({"locality": "Kirkland", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kirkland"], "postal_code": "60146", "lat": 42.100571, "lng": -88.87665, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}, {"fips": "141", "name": "Ogle"}, {"fips": "007", "name": "Boone"}]});

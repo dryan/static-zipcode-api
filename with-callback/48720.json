@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.831509, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bay Port", "lng": -83.34887, "zip_code": "48720"});
+zipapicallback({"locality": "Bay Port", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bay Port"], "postal_code": "48720", "lat": 43.831509, "lng": -83.34887, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]});

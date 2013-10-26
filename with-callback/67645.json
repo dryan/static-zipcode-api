@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.609655, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Densmore", "lng": -99.91904, "zip_code": "67645"});
+zipapicallback({"locality": "Lenora", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Densmore", "Edmond", "Lenora", "New Almelo"], "postal_code": "67645", "lat": 39.609655, "lng": -99.91904, "type": "STANDARD", "counties": [{"fips": "137", "name": "Norton"}, {"fips": "065", "name": "Graham"}]});

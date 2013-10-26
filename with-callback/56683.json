@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.690018, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Tenstrike", "lng": -94.71889, "zip_code": "56683"});
+zipapicallback({"locality": "Tenstrike", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Tenstrike"], "postal_code": "56683", "lat": 47.690018, "lng": -94.71889, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beltrami"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.765401, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Stamford", "lng": -73.06025, "zip_code": "05352"});
+zipapicallback({"locality": "Stamford", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Readsboro", "Stamford"], "postal_code": "05352", "lat": 42.765401, "lng": -73.06025, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bennington"}]});

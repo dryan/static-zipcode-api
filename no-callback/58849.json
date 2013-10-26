@@ -1,1 +1,1 @@
-{"lat": 48.326813, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Wheelock", "lng": -103.19462, "zip_code": "58849"}
+{"locality": "Ray", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Ray", "Wheelock"], "postal_code": "58849", "lat": 48.326813, "lng": -103.19462, "type": "STANDARD", "counties": [{"fips": "105", "name": "Williams"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.611317, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rowena", "lng": -100.033, "zip_code": "76875"}
+{"locality": "Rowena", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rowena"], "postal_code": "76875", "lat": 31.611317, "lng": -100.033, "type": "STANDARD", "counties": [{"fips": "399", "name": "Runnels"}, {"fips": "095", "name": "Concho"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.928761, "region": {"abbr": "DC", "name": "District of Columbia"}, "locality": "Washington", "lng": -76.97523, "zip_code": "20018"}
+{"locality": "Washington", "region": {"fips": "11", "abbr": "DC", "name": "District of Columbia"}, "localities": ["Washington"], "postal_code": "20018", "lat": 38.928761, "lng": -76.97523, "type": "STANDARD", "counties": [{"fips": "001", "name": "District of Columbia"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.370075, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Naselle", "lng": -123.76506, "zip_code": "98638"});
+zipapicallback({"locality": "Naselle", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Naselle"], "postal_code": "98638", "lat": 46.370075, "lng": -123.76506, "type": "STANDARD", "counties": [{"fips": "049", "name": "Pacific"}, {"fips": "069", "name": "Wahkiakum"}]});

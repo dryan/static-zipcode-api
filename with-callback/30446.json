@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.567281, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Newington", "lng": -81.48627, "zip_code": "30446"});
+zipapicallback({"locality": "Newington", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Newington"], "postal_code": "30446", "lat": 32.567281, "lng": -81.48627, "type": "STANDARD", "counties": [{"fips": "251", "name": "Screven"}, {"fips": "103", "name": "Effingham"}]});

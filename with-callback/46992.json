@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.795068, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wabash", "lng": -85.82953, "zip_code": "46992"});
+zipapicallback({"locality": "Wabash", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wabash"], "postal_code": "46992", "lat": 40.795068, "lng": -85.82953, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wabash"}]});

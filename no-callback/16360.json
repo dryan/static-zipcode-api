@@ -1,1 +1,1 @@
-{"lat": 41.684627, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Townville", "lng": -79.88684, "zip_code": "16360"}
+{"locality": "Townville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Townville"], "postal_code": "16360", "lat": 41.684627, "lng": -79.88684, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}]}

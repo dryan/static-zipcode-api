@@ -1,1 +1,1 @@
-{"lat": 45.197646, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rogers", "lng": -93.57104, "zip_code": "55374"}
+{"locality": "Rogers", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Otsego", "Rogers"], "postal_code": "55374", "lat": 45.197646, "lng": -93.57104, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}, {"fips": "171", "name": "Wright"}]}

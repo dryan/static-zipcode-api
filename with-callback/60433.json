@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.511644, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Joliet", "lng": -88.05698, "zip_code": "60433"});
+zipapicallback({"locality": "Joliet", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Joliet"], "postal_code": "60433", "lat": 41.511644, "lng": -88.05698, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}, {"fips": "199", "name": "Williamson"}]});

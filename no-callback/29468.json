@@ -1,1 +1,1 @@
-{"lat": 33.418106, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pineville", "lng": -80.07822, "zip_code": "29468"}
+{"locality": "Pineville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pineville"], "postal_code": "29468", "lat": 33.418106, "lng": -80.07822, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]}

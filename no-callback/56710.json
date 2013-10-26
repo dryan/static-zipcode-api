@@ -1,1 +1,1 @@
-{"lat": 48.192532, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Alvarado", "lng": -96.9986, "zip_code": "56710"}
+{"locality": "Alvarado", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Alvarado"], "postal_code": "56710", "lat": 48.192532, "lng": -96.9986, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}, {"fips": "119", "name": "Polk"}]}

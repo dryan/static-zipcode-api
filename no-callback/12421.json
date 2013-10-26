@@ -1,1 +1,1 @@
-{"lat": 42.249541, "region": {"abbr": "NY", "name": "New York"}, "locality": "Denver", "lng": -74.54558, "zip_code": "12421"}
+{"locality": "Denver", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Denver"], "postal_code": "12421", "lat": 42.249541, "lng": -74.54558, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.989357, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Harrington Park", "lng": -73.97958, "zip_code": "07640"});
+zipapicallback({"locality": "Harrington Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Harrington Park", "Harrington Pk"], "postal_code": "07640", "lat": 40.989357, "lng": -73.97958, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

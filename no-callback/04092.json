@@ -1,1 +1,1 @@
-{"lat": 43.682148, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Westbrook", "lng": -70.35823, "zip_code": "04092"}
+{"locality": "Westbrook", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Westbrook"], "postal_code": "04092", "lat": 43.682148, "lng": -70.35823, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

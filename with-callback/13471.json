@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.346517, "region": {"abbr": "NY", "name": "New York"}, "locality": "Taberg", "lng": -75.60493, "zip_code": "13471"});
+zipapicallback({"locality": "Taberg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Taberg"], "postal_code": "13471", "lat": 43.346517, "lng": -75.60493, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}, {"fips": "049", "name": "Lewis"}]});

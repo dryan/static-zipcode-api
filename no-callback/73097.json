@@ -1,1 +1,1 @@
-{"lat": 35.397259, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wheatland", "lng": -97.65189, "zip_code": "73097"}
+{"locality": "Wheatland", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wheatland"], "postal_code": "73097", "lat": 35.397259, "lng": -97.65189, "type": "POBOX", "counties": [{"fips": "109", "name": "Oklahoma"}]}

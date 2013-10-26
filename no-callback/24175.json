@@ -1,1 +1,1 @@
-{"lat": 37.427597, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Troutville", "lng": -79.90595, "zip_code": "24175"}
+{"locality": "Troutville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Troutville"], "postal_code": "24175", "lat": 37.427597, "lng": -79.90595, "type": "STANDARD", "counties": [{"fips": "023", "name": "Botetourt"}, {"fips": "167", "name": "Russell"}]}

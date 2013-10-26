@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.873017, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Little River", "lng": -78.64282, "zip_code": "29566"});
+zipapicallback({"locality": "Little River", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Little River"], "postal_code": "29566", "lat": 33.873017, "lng": -78.64282, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}]});

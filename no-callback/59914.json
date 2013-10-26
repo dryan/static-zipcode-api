@@ -1,1 +1,1 @@
-{"lat": 47.868708, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Dayton", "lng": -114.2778, "zip_code": "59914"}
+{"locality": "Dayton", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Dayton"], "postal_code": "59914", "lat": 47.868708, "lng": -114.2778, "type": "STANDARD", "counties": [{"fips": "047", "name": "Lake"}]}

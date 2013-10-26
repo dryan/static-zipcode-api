@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.759283, "region": {"abbr": "CA", "name": "California"}, "locality": "Seal Beach", "lng": -118.08239, "zip_code": "90740"});
+zipapicallback({"locality": "Seal Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Seal Beach"], "postal_code": "90740", "lat": 33.759283, "lng": -118.08239, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]});

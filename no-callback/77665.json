@@ -1,1 +1,1 @@
-{"lat": 29.820542, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Winnie", "lng": -94.39965, "zip_code": "77665"}
+{"locality": "Winnie", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Winnie"], "postal_code": "77665", "lat": 29.820542, "lng": -94.39965, "type": "STANDARD", "counties": [{"fips": "071", "name": "Chambers"}, {"fips": "245", "name": "Jefferson"}]}

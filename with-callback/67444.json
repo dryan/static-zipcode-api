@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.527035, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Geneseo", "lng": -98.1392, "zip_code": "67444"});
+zipapicallback({"locality": "Geneseo", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Geneseo"], "postal_code": "67444", "lat": 38.527035, "lng": -98.1392, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}, {"fips": "053", "name": "Ellsworth"}]});

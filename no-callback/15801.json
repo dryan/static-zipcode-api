@@ -1,1 +1,1 @@
-{"lat": 41.125563, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Du Bois", "lng": -78.74648, "zip_code": "15801"}
+{"locality": "Du Bois", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Du Bois", "Dubois"], "postal_code": "15801", "lat": 41.125563, "lng": -78.74648, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}, {"fips": "065", "name": "Jefferson"}]}

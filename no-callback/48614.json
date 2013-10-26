@@ -1,1 +1,1 @@
-{"lat": 43.25118, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Brant", "lng": -84.29816, "zip_code": "48614"}
+{"locality": "Brant", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Brant"], "postal_code": "48614", "lat": 43.25118, "lng": -84.29816, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "057", "name": "Gratiot"}]}

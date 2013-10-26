@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.921816, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chester", "lng": -89.82842, "zip_code": "62233"});
+zipapicallback({"locality": "Chester", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chester"], "postal_code": "62233", "lat": 37.921816, "lng": -89.82842, "type": "STANDARD", "counties": [{"fips": "157", "name": "Randolph"}]});

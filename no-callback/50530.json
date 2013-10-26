@@ -1,1 +1,1 @@
-{"lat": 42.26594, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dayton", "lng": -94.0518, "zip_code": "50530"}
+{"locality": "Dayton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dayton"], "postal_code": "50530", "lat": 42.26594, "lng": -94.0518, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]}

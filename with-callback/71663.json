@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.236401, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Portland", "lng": -91.47982, "zip_code": "71663"});
+zipapicallback({"locality": "Portland", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Portland"], "postal_code": "71663", "lat": 33.236401, "lng": -91.47982, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashley"}, {"fips": "017", "name": "Chicot"}]});

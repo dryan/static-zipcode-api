@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.378121, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Gig Harbor", "lng": -122.7222, "zip_code": "98329"});
+zipapicallback({"locality": "Gig Harbor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Gig Harbor"], "postal_code": "98329", "lat": 47.378121, "lng": -122.7222, "type": "STANDARD", "counties": []});

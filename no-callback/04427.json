@@ -1,1 +1,1 @@
-{"lat": 44.979986, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Corinth", "lng": -69.00746, "zip_code": "04427"}
+{"locality": "Corinth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Corinth"], "postal_code": "04427", "lat": 44.979986, "lng": -69.00746, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]}

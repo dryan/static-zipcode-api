@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.186932, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Gilman", "lng": -90.81846, "zip_code": "54433"});
+zipapicallback({"locality": "Gilman", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gilman"], "postal_code": "54433", "lat": 45.186932, "lng": -90.81846, "type": "STANDARD", "counties": [{"fips": "119", "name": "Taylor"}, {"fips": "017", "name": "Chippewa"}]});

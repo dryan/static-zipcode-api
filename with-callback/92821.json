@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.923463, "region": {"abbr": "CA", "name": "California"}, "locality": "Brea", "lng": -117.89559, "zip_code": "92821"});
+zipapicallback({"locality": "Brea", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Brea"], "postal_code": "92821", "lat": 33.923463, "lng": -117.89559, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 37.168568, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "White Plains", "lng": -87.37879, "zip_code": "42464"}
+{"locality": "White Plains", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["White Plains"], "postal_code": "42464", "lat": 37.168568, "lng": -87.37879, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}, {"fips": "177", "name": "Muhlenberg"}, {"fips": "047", "name": "Christian"}]}

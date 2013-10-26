@@ -1,1 +1,1 @@
-{"lat": 35.751778, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Sapello", "lng": -105.2258, "zip_code": "87745"}
+{"locality": "Sapello", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Las Vegas", "Sapello"], "postal_code": "87745", "lat": 35.751778, "lng": -105.2258, "type": "STANDARD", "counties": [{"fips": "047", "name": "San Miguel"}]}

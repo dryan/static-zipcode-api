@@ -1,1 +1,1 @@
-{"lat": 42.119328, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Torrington", "lng": -104.19228, "zip_code": "82240"}
+{"locality": "Torrington", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Prairie Center", "Prairie Ctr", "Torrington"], "postal_code": "82240", "lat": 42.119328, "lng": -104.19228, "type": "STANDARD", "counties": [{"fips": "015", "name": "Goshen"}]}

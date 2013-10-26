@@ -1,1 +1,1 @@
-{"lat": 29.33906, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brooks A F B", "lng": -98.42793, "zip_code": "78235"}
+{"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brooks Afb", "Brooks Cb", "Brooks City Base", "San Antonio"], "postal_code": "78235", "lat": 29.33906, "lng": -98.42793, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.04117, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grand Haven", "lng": -86.19013, "zip_code": "49417"});
+zipapicallback({"locality": "Grand Haven", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Haven"], "postal_code": "49417", "lat": 43.04117, "lng": -86.19013, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}]});

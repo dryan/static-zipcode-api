@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.383158, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Shawmut", "lng": -109.49616, "zip_code": "59078"});
+zipapicallback({"locality": "Shawmut", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Shawmut"], "postal_code": "59078", "lat": 46.383158, "lng": -109.49616, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wheatland"}]});

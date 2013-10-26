@@ -1,1 +1,1 @@
-{"lat": 36.580451, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Carmen", "lng": -98.47567, "zip_code": "73726"}
+{"locality": "Carmen", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Carmen"], "postal_code": "73726", "lat": 36.580451, "lng": -98.47567, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}, {"fips": "151", "name": "Woods"}]}

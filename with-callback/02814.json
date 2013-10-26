@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.896002, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Chepachet", "lng": -71.70335, "zip_code": "02814"});
+zipapicallback({"locality": "Chepachet", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Chepachet"], "postal_code": "02814", "lat": 41.896002, "lng": -71.70335, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]});

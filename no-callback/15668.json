@@ -1,1 +1,1 @@
-{"lat": 40.451664, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Murrysville", "lng": -79.67948, "zip_code": "15668"}
+{"locality": "Murrysville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Murrysville"], "postal_code": "15668", "lat": 40.451664, "lng": -79.67948, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}, {"fips": "125", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.097599, "region": {"abbr": "CA", "name": "California"}, "locality": "Oceano", "lng": -120.61327, "zip_code": "93445"}
+{"locality": "Oceano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oceano"], "postal_code": "93445", "lat": 35.097599, "lng": -120.61327, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}, {"fips": "111", "name": "Ventura"}]}

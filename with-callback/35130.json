@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.640629, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Quinton", "lng": -87.11584, "zip_code": "35130"});
+zipapicallback({"locality": "Quinton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Quinton", "W Jefferson", "West Jefferson"], "postal_code": "35130", "lat": 33.640629, "lng": -87.11584, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walker"}, {"fips": "073", "name": "Jefferson"}]});

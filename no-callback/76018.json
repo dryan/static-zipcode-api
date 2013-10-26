@@ -1,1 +1,1 @@
-{"lat": 32.65392, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Arlington", "lng": -97.08724, "zip_code": "76018"}
+{"locality": "Arlington", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Arlington"], "postal_code": "76018", "lat": 32.65392, "lng": -97.08724, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]}

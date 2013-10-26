@@ -1,1 +1,1 @@
-{"lat": 41.017522, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Norton", "lng": -81.61616, "zip_code": "44203"}
+{"locality": "Barberton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Barberton", "Norton"], "postal_code": "44203", "lat": 41.017522, "lng": -81.61616, "type": "STANDARD", "counties": [{"fips": "153", "name": "Summit"}, {"fips": "103", "name": "Medina"}, {"fips": "169", "name": "Wayne"}]}

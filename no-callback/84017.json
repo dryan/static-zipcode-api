@@ -1,1 +1,1 @@
-{"lat": 40.88097, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Coalville", "lng": -111.37752, "zip_code": "84017"}
+{"locality": "Coalville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Coalville", "Wanship"], "postal_code": "84017", "lat": 40.88097, "lng": -111.37752, "type": "STANDARD", "counties": [{"fips": "043", "name": "Summit"}]}

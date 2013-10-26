@@ -1,1 +1,1 @@
-{"lat": 44.121825, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "New Haven", "lng": -73.166, "zip_code": "05472"}
+{"locality": "New Haven", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["New Haven"], "postal_code": "05472", "lat": 44.121825, "lng": -73.166, "type": "STANDARD", "counties": [{"fips": "001", "name": "Addison"}]}

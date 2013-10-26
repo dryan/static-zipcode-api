@@ -1,1 +1,1 @@
-{"lat": 39.197119, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Elkridge", "lng": -76.75178, "zip_code": "21075"}
+{"locality": "Elkridge", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Elkridge"], "postal_code": "21075", "lat": 39.197119, "lng": -76.75178, "type": "STANDARD", "counties": []}

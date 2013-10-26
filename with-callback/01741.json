@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.5286, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Carlisle", "lng": -71.35084, "zip_code": "01741"});
+zipapicallback({"locality": "Carlisle", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Carlisle"], "postal_code": "01741", "lat": 42.5286, "lng": -71.35084, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

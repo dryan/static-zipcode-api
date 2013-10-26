@@ -1,1 +1,1 @@
-{"lat": 41.103664, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hawthorne", "lng": -73.7958, "zip_code": "10532"}
+{"locality": "Hawthorne", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hawthorne"], "postal_code": "10532", "lat": 41.103664, "lng": -73.7958, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

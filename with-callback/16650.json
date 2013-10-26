@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.132345, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hopewell", "lng": -78.26845, "zip_code": "16650"});
+zipapicallback({"locality": "Hopewell", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hopewell"], "postal_code": "16650", "lat": 40.132345, "lng": -78.26845, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "057", "name": "Fulton"}]});

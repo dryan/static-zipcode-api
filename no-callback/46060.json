@@ -1,1 +1,1 @@
-{"lat": 40.050109, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Noblesville", "lng": -85.99815, "zip_code": "46060"}
+{"locality": "Noblesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Noblesville"], "postal_code": "46060", "lat": 40.050109, "lng": -85.99815, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamilton"}]}

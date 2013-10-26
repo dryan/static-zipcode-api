@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.429478, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Aripeka", "lng": -82.66315, "zip_code": "34679"});
+zipapicallback({"locality": "Aripeka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Aripeka"], "postal_code": "34679", "lat": 28.429478, "lng": -82.66315, "type": "POBOX", "counties": [{"fips": "101", "name": "Pasco"}]});

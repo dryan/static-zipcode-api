@@ -1,1 +1,1 @@
-{"lat": 34.201191, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Crown King", "lng": -112.3501, "zip_code": "86343"}
+{"locality": "Crown King", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Crown King"], "postal_code": "86343", "lat": 34.201191, "lng": -112.3501, "type": "POBOX", "counties": [{"fips": "025", "name": "Yavapai"}]}

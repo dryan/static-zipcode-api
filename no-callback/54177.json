@@ -1,1 +1,1 @@
-{"lat": 45.370117, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wausaukee", "lng": -87.87769, "zip_code": "54177"}
+{"locality": "Wausaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wausaukee"], "postal_code": "54177", "lat": 45.370117, "lng": -87.87769, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}]}

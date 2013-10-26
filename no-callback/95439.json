@@ -1,1 +1,1 @@
-{"lat": 38.494643, "region": {"abbr": "CA", "name": "California"}, "locality": "Fulton", "lng": -122.77226, "zip_code": "95439"}
+{"locality": "Fulton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fulton"], "postal_code": "95439", "lat": 38.494643, "lng": -122.77226, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.861532, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Fulda", "lng": -95.59378, "zip_code": "56131"}
+{"locality": "Fulda", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dundee", "Fulda", "Kinbrae"], "postal_code": "56131", "lat": 43.861532, "lng": -95.59378, "type": "STANDARD", "counties": [{"fips": "101", "name": "Murray"}, {"fips": "105", "name": "Nobles"}]}

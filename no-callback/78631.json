@@ -1,1 +1,1 @@
-{"lat": 30.334152, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Harper", "lng": -99.2956, "zip_code": "78631"}
+{"locality": "Harper", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Harper"], "postal_code": "78631", "lat": 30.334152, "lng": -99.2956, "type": "STANDARD", "counties": [{"fips": "171", "name": "Gillespie"}]}

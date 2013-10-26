@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.352343, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Talmage", "lng": -110.46935, "zip_code": "84073"});
+zipapicallback({"locality": "Talmage", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Talmage"], "postal_code": "84073", "lat": 40.352343, "lng": -110.46935, "type": "STANDARD", "counties": [{"fips": "013", "name": "Duchesne"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.185712, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Altamahaw", "lng": -79.50496, "zip_code": "27202"});
+zipapicallback({"locality": "Altamahaw", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Altamahaw"], "postal_code": "27202", "lat": 36.185712, "lng": -79.50496, "type": "POBOX", "counties": [{"fips": "001", "name": "Alamance"}]});

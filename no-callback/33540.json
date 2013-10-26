@@ -1,1 +1,1 @@
-{"lat": 28.235313, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Zephyrhills", "lng": -82.16868, "zip_code": "33540"}
+{"locality": "Zephyrhills", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Zephyrhills"], "postal_code": "33540", "lat": 28.235313, "lng": -82.16868, "type": "STANDARD", "counties": []}

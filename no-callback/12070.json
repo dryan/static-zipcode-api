@@ -1,1 +1,1 @@
-{"lat": 42.970827, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fort Johnson", "lng": -74.24778, "zip_code": "12070"}
+{"locality": "Fort Johnson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fort Johnson"], "postal_code": "12070", "lat": 42.970827, "lng": -74.24778, "type": "STANDARD", "counties": [{"fips": "057", "name": "Montgomery"}, {"fips": "035", "name": "Fulton"}]}

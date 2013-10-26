@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.044352, "region": {"abbr": "CA", "name": "California"}, "locality": "North Edwards", "lng": -117.8578, "zip_code": "93523"});
+zipapicallback({"locality": "Edwards", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Aerial Acres", "Edwards", "North Edwards"], "postal_code": "93523", "lat": 35.044352, "lng": -117.8578, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

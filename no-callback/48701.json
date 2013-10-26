@@ -1,1 +1,1 @@
-{"lat": 43.587817, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Akron", "lng": -83.53468, "zip_code": "48701"}
+{"locality": "Akron", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Akron"], "postal_code": "48701", "lat": 43.587817, "lng": -83.53468, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}]}

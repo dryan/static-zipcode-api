@@ -1,1 +1,1 @@
-{"lat": 30.483791, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ramah", "lng": -91.51619, "zip_code": "70757"}
+{"locality": "Maringouin", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Maringouin", "Ramah"], "postal_code": "70757", "lat": 30.483791, "lng": -91.51619, "type": "STANDARD", "counties": [{"fips": "047", "name": "Iberville"}, {"fips": "077", "name": "Pointe Coupee"}]}

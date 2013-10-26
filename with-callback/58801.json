@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.20496, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Bonetraill", "lng": -103.71908, "zip_code": "58801"});
+zipapicallback({"locality": "Williston", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bonetraill", "Buford", "Williston"], "postal_code": "58801", "lat": 48.20496, "lng": -103.71908, "type": "STANDARD", "counties": [{"fips": "105", "name": "Williams"}, {"fips": "053", "name": "McKenzie"}]});

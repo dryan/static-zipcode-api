@@ -1,1 +1,1 @@
-{"lat": 39.038732, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wheeler", "lng": -88.31569, "zip_code": "62479"}
+{"locality": "Wheeler", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wheeler"], "postal_code": "62479", "lat": 39.038732, "lng": -88.31569, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jasper"}, {"fips": "049", "name": "Effingham"}]}

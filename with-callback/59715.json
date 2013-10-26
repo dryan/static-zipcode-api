@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.707153, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Bozeman", "lng": -110.9878, "zip_code": "59715"});
+zipapicallback({"locality": "Bozeman", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Bozeman"], "postal_code": "59715", "lat": 45.707153, "lng": -110.9878, "type": "STANDARD", "counties": [{"fips": "031", "name": "Gallatin"}]});

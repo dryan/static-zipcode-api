@@ -1,1 +1,1 @@
-{"lat": 35.297936, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Branch", "lng": -93.94723, "zip_code": "72928"}
+{"locality": "Branch", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Branch"], "postal_code": "72928", "lat": 35.297936, "lng": -93.94723, "type": "STANDARD", "counties": [{"fips": "047", "name": "Franklin"}, {"fips": "083", "name": "Logan"}]}

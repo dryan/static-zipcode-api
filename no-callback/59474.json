@@ -1,1 +1,1 @@
-{"lat": 48.479975, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Shelby", "lng": -111.76863, "zip_code": "59474"}
+{"locality": "Shelby", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lothair", "Shelby"], "postal_code": "59474", "lat": 48.479975, "lng": -111.76863, "type": "STANDARD", "counties": [{"fips": "101", "name": "Toole"}]}

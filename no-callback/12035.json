@@ -1,1 +1,1 @@
-{"lat": 42.722477, "region": {"abbr": "NY", "name": "New York"}, "locality": "Central Bridge", "lng": -74.35064, "zip_code": "12035"}
+{"locality": "Central Bridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Central Brg", "Central Bridge"], "postal_code": "12035", "lat": 42.722477, "lng": -74.35064, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]}

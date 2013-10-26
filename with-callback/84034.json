@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.105506, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ibapah", "lng": -113.94372, "zip_code": "84034"});
+zipapicallback({"locality": "Ibapah", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Callao", "Ibapah"], "postal_code": "84034", "lat": 40.105506, "lng": -113.94372, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.527385, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Townville", "lng": -82.86993, "zip_code": "29689"}
+{"locality": "Townville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Townville"], "postal_code": "29689", "lat": 34.527385, "lng": -82.86993, "type": "STANDARD", "counties": [{"fips": "007", "name": "Anderson"}, {"fips": "073", "name": "Oconee"}]}

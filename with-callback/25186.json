@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.176382, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Smithers", "lng": -81.30575, "zip_code": "25186"});
+zipapicallback({"locality": "Smithers", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Longacre", "Smithers"], "postal_code": "25186", "lat": 38.176382, "lng": -81.30575, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]});

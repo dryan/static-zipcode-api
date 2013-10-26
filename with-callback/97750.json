@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.611941, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Mitchell", "lng": -120.11346, "zip_code": "97750"});
+zipapicallback({"locality": "Mitchell", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Mitchell"], "postal_code": "97750", "lat": 44.611941, "lng": -120.11346, "type": "STANDARD", "counties": [{"fips": "069", "name": "Wheeler"}]});

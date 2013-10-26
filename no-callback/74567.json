@@ -1,1 +1,1 @@
-{"lat": 34.454702, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Snow", "lng": -95.41013, "zip_code": "74567"}
+{"locality": "Snow", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Snow"], "postal_code": "74567", "lat": 34.454702, "lng": -95.41013, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}]}

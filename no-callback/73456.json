@@ -1,1 +1,1 @@
-{"lat": 34.165558, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ringling", "lng": -97.62121, "zip_code": "73456"}
+{"locality": "Ringling", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cornish", "Ringling"], "postal_code": "73456", "lat": 34.165558, "lng": -97.62121, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jefferson"}]}

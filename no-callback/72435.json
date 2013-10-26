@@ -1,1 +1,1 @@
-{"lat": 36.315305, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Knobel", "lng": -90.57906, "zip_code": "72435"}
+{"locality": "Knobel", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Knobel", "Peach Orchard"], "postal_code": "72435", "lat": 36.315305, "lng": -90.57906, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}]}

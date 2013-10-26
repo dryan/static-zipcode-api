@@ -1,1 +1,1 @@
-{"lat": 33.634675, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Greeleyville", "lng": -79.99205, "zip_code": "29056"}
+{"locality": "Greeleyville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Greeleyville"], "postal_code": "29056", "lat": 33.634675, "lng": -79.99205, "type": "STANDARD", "counties": [{"fips": "089", "name": "Williamsburg"}, {"fips": "027", "name": "Clarendon"}]}

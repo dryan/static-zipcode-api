@@ -1,1 +1,1 @@
-{"lat": 41.844087, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Eastham", "lng": -69.98921, "zip_code": "02642"}
+{"locality": "Eastham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Eastham"], "postal_code": "02642", "lat": 41.844087, "lng": -69.98921, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

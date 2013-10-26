@@ -1,1 +1,1 @@
-{"lat": 36.129822, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Llano", "lng": -105.66493, "zip_code": "87543"}
+{"locality": "Llano", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Llano"], "postal_code": "87543", "lat": 36.129822, "lng": -105.66493, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]}

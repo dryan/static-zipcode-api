@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.853663, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Manitou Springs", "lng": -104.93485, "zip_code": "80829"});
+zipapicallback({"locality": "Manitou Springs", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Manitou Spgs", "Manitou Springs"], "postal_code": "80829", "lat": 38.853663, "lng": -104.93485, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}]});

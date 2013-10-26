@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.378841, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Saint Albans", "lng": -81.82633, "zip_code": "25177"});
+zipapicallback({"locality": "Saint Albans", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Jefferson", "Saint Albans"], "postal_code": "25177", "lat": 38.378841, "lng": -81.82633, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]});

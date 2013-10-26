@@ -1,1 +1,1 @@
-{"lat": 45.695411, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Foley", "lng": -93.90417, "zip_code": "56329"}
+{"locality": "Foley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Foley", "Oak Park"], "postal_code": "56329", "lat": 45.695411, "lng": -93.90417, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benton"}, {"fips": "095", "name": "Mille Lacs"}, {"fips": "097", "name": "Morrison"}, {"fips": "141", "name": "Sherburne"}]}

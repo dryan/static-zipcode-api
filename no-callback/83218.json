@@ -1,1 +1,1 @@
-{"lat": 43.317823, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Basalt", "lng": -112.16356, "zip_code": "83218"}
+{"locality": "Basalt", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Basalt"], "postal_code": "83218", "lat": 43.317823, "lng": -112.16356, "type": "POBOX", "counties": [{"fips": "011", "name": "Bingham"}]}

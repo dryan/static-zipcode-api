@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.461944, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Clayhole", "lng": -83.18256, "zip_code": "41317"});
+zipapicallback({"locality": "Clayhole", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Clayhole"], "postal_code": "41317", "lat": 37.461944, "lng": -83.18256, "type": "STANDARD", "counties": [{"fips": "025", "name": "Breathitt"}]});

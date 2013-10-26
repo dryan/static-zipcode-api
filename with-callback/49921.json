@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.093922, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dodgeville", "lng": -88.57894, "zip_code": "49921"});
+zipapicallback({"locality": "Dodgeville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dodgeville", "Houghton"], "postal_code": "49921", "lat": 47.093922, "lng": -88.57894, "type": "STANDARD", "counties": [{"fips": "061", "name": "Houghton"}]});

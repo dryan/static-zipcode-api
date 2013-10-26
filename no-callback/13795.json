@@ -1,1 +1,1 @@
-{"lat": 42.056312, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kirkwood", "lng": -75.79275, "zip_code": "13795"}
+{"locality": "Kirkwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kirkwood"], "postal_code": "13795", "lat": 42.056312, "lng": -75.79275, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}]}

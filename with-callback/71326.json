@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.755985, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Clayton", "lng": -91.57852, "zip_code": "71326"});
+zipapicallback({"locality": "Clayton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Clayton"], "postal_code": "71326", "lat": 31.755985, "lng": -91.57852, "type": "STANDARD", "counties": [{"fips": "029", "name": "Concordia"}, {"fips": "107", "name": "Tensas"}, {"fips": "025", "name": "Catahoula"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.646373, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Montreat", "lng": -82.29968, "zip_code": "28757"});
+zipapicallback({"locality": "Montreat", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Montreat"], "postal_code": "28757", "lat": 35.646373, "lng": -82.29968, "type": "POBOX", "counties": [{"fips": "021", "name": "Buncombe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.866528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Glazier", "lng": -100.31313, "zip_code": "79014"});
+zipapicallback({"locality": "Canadian", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Canadian", "Glazier"], "postal_code": "79014", "lat": 35.866528, "lng": -100.31313, "type": "STANDARD", "counties": [{"fips": "211", "name": "Hemphill"}, {"fips": "295", "name": "Lipscomb"}, {"fips": "483", "name": "Wheeler"}]});

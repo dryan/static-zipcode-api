@@ -1,1 +1,1 @@
-{"lat": 33.79692, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Elida", "lng": -103.87575, "zip_code": "88116"}
+{"locality": "Elida", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Elida"], "postal_code": "88116", "lat": 33.79692, "lng": -103.87575, "type": "STANDARD", "counties": [{"fips": "041", "name": "Roosevelt"}]}

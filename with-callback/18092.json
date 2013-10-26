@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.465994, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Zionsville", "lng": -75.51958, "zip_code": "18092"});
+zipapicallback({"locality": "Zionsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Zionsville"], "postal_code": "18092", "lat": 40.465994, "lng": -75.51958, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "091", "name": "Montgomery"}, {"fips": "011", "name": "Berks"}]});

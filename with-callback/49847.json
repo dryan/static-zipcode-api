@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.709804, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hermansville", "lng": -87.61054, "zip_code": "49847"});
+zipapicallback({"locality": "Hermansville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hermansville"], "postal_code": "49847", "lat": 45.709804, "lng": -87.61054, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]});

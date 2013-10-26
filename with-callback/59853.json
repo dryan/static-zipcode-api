@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.017227, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Noxon", "lng": -115.81962, "zip_code": "59853"});
+zipapicallback({"locality": "Noxon", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Noxon"], "postal_code": "59853", "lat": 48.017227, "lng": -115.81962, "type": "STANDARD", "counties": [{"fips": "089", "name": "Sanders"}]});

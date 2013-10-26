@@ -1,1 +1,1 @@
-{"lat": 41.754298, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lambertville", "lng": -83.63047, "zip_code": "48144"}
+{"locality": "Lambertville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lambertville"], "postal_code": "48144", "lat": 41.754298, "lng": -83.63047, "type": "STANDARD", "counties": [{"fips": "115", "name": "Monroe"}]}

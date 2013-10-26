@@ -1,1 +1,1 @@
-{"lat": 39.940858, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Vernon", "lng": -102.36417, "zip_code": "80755"}
+{"locality": "Vernon", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Vernon"], "postal_code": "80755", "lat": 39.940858, "lng": -102.36417, "type": "STANDARD", "counties": [{"fips": "125", "name": "Yuma"}]}

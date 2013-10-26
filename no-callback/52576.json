@@ -1,1 +1,1 @@
-{"lat": 41.201922, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ollie", "lng": -92.1148, "zip_code": "52576"}
+{"locality": "Ollie", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ollie"], "postal_code": "52576", "lat": 41.201922, "lng": -92.1148, "type": "STANDARD", "counties": [{"fips": "107", "name": "Keokuk"}]}

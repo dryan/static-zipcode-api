@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.79781, "region": {"abbr": "ME", "name": "Maine"}, "locality": "New Vineyard", "lng": -70.12443, "zip_code": "04956"});
+zipapicallback({"locality": "New Vineyard", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["New Vineyard"], "postal_code": "04956", "lat": 44.79781, "lng": -70.12443, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]});

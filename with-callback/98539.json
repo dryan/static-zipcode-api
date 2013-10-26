@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.637787, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Doty", "lng": -123.2798, "zip_code": "98539"});
+zipapicallback({"locality": "Doty", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Doty"], "postal_code": "98539", "lat": 46.637787, "lng": -123.2798, "type": "POBOX", "counties": [{"fips": "041", "name": "Lewis"}]});

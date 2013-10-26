@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.039632, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fairmount", "lng": -87.83052, "zip_code": "61841"});
+zipapicallback({"locality": "Fairmount", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fairmount"], "postal_code": "61841", "lat": 40.039632, "lng": -87.83052, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]});

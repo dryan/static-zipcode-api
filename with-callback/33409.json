@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.709575, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Haverhill", "lng": -80.09443, "zip_code": "33409"});
+zipapicallback({"locality": "West Palm Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Haverhill", "West Palm Bch", "West Palm Beach"], "postal_code": "33409", "lat": 26.709575, "lng": -80.09443, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

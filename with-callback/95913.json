@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.633265, "region": {"abbr": "CA", "name": "California"}, "locality": "Artois", "lng": -122.21009, "zip_code": "95913"});
+zipapicallback({"locality": "Artois", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Artois"], "postal_code": "95913", "lat": 39.633265, "lng": -122.21009, "type": "POBOX", "counties": [{"fips": "021", "name": "Glenn"}]});

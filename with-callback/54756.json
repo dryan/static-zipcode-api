@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.451724, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Nelson", "lng": -91.95785, "zip_code": "54756"});
+zipapicallback({"locality": "Nelson", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Nelson"], "postal_code": "54756", "lat": 44.451724, "lng": -91.95785, "type": "STANDARD", "counties": [{"fips": "011", "name": "Buffalo"}]});

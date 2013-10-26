@@ -1,1 +1,1 @@
-{"lat": 36.547412, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Celina", "lng": -85.48904, "zip_code": "38551"}
+{"locality": "Celina", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Celina"], "postal_code": "38551", "lat": 36.547412, "lng": -85.48904, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "087", "name": "Jackson"}, {"fips": "133", "name": "Overton"}, {"fips": "057", "name": "Grainger"}]}

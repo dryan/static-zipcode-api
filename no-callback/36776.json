@@ -1,1 +1,1 @@
-{"lat": 32.739091, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Sawyerville", "lng": -87.7417, "zip_code": "36776"}
+{"locality": "Sawyerville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Sawyerville"], "postal_code": "36776", "lat": 32.739091, "lng": -87.7417, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hale"}]}

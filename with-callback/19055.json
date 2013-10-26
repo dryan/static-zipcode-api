@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.149009, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Levittown", "lng": -74.83617, "zip_code": "19055"});
+zipapicallback({"locality": "Levittown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Levittown"], "postal_code": "19055", "lat": 40.149009, "lng": -74.83617, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]});

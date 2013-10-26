@@ -1,1 +1,1 @@
-{"lat": 42.318695, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Framingham", "lng": -71.42344, "zip_code": "01701"}
+{"locality": "Framingham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Framingham"], "postal_code": "01701", "lat": 42.318695, "lng": -71.42344, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]}

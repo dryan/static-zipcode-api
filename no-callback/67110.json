@@ -1,1 +1,1 @@
-{"lat": 37.474542, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mulvane", "lng": -97.22812, "zip_code": "67110"}
+{"locality": "Mulvane", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mulvane"], "postal_code": "67110", "lat": 37.474542, "lng": -97.22812, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "191", "name": "Sumner"}, {"fips": "035", "name": "Cowley"}, {"fips": "015", "name": "Butler"}]}

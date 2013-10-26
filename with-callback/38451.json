@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.474034, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Culleoka", "lng": -86.98993, "zip_code": "38451"});
+zipapicallback({"locality": "Culleoka", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Culleoka"], "postal_code": "38451", "lat": 35.474034, "lng": -86.98993, "type": "STANDARD", "counties": [{"fips": "119", "name": "Maury"}, {"fips": "055", "name": "Giles"}, {"fips": "117", "name": "Marshall"}]});

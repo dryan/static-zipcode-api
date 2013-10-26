@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.309443, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Colon", "lng": -96.61679, "zip_code": "68018"});
+zipapicallback({"locality": "Colon", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Colon"], "postal_code": "68018", "lat": 41.309443, "lng": -96.61679, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]});

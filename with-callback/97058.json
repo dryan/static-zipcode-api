@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.594257, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "The Dalles", "lng": -121.18944, "zip_code": "97058"});
+zipapicallback({"locality": "The Dalles", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["The Dalles"], "postal_code": "97058", "lat": 45.594257, "lng": -121.18944, "type": "STANDARD", "counties": [{"fips": "065", "name": "Wasco"}]});

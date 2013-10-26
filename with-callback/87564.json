@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.610705, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "San Cristobal", "lng": -105.64442, "zip_code": "87564"});
+zipapicallback({"locality": "San Cristobal", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["San Cristobal"], "postal_code": "87564", "lat": 36.610705, "lng": -105.64442, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]});

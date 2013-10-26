@@ -1,1 +1,1 @@
-{"lat": 38.367298, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Conway", "lng": -97.67719, "zip_code": "67460"}
+{"locality": "Mcpherson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Conway", "Mc Pherson", "Mcpherson"], "postal_code": "67460", "lat": 38.367298, "lng": -97.67719, "type": "STANDARD", "counties": [{"fips": "113", "name": "McPherson"}]}

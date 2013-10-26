@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.20812, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Joppa", "lng": -88.84304, "zip_code": "62953"});
+zipapicallback({"locality": "Joppa", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Joppa"], "postal_code": "62953", "lat": 37.20812, "lng": -88.84304, "type": "POBOX", "counties": [{"fips": "127", "name": "Massac"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.112207, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stillman Valley", "lng": -89.18633, "zip_code": "61084"}
+{"locality": "Stillman Valley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stillman Valley", "Stillman Vly"], "postal_code": "61084", "lat": 42.112207, "lng": -89.18633, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}, {"fips": "201", "name": "Winnebago"}]}

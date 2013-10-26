@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.311257, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Covington", "lng": -97.5597, "zip_code": "73730"});
+zipapicallback({"locality": "Covington", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Covington"], "postal_code": "73730", "lat": 36.311257, "lng": -97.5597, "type": "STANDARD", "counties": [{"fips": "047", "name": "Garfield"}]});

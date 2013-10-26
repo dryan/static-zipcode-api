@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Otto", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Otto"], "postal_code": "14766", "type": "POBOX", "counties": [{"fips": "009", "name": "Cattaraugus"}]});

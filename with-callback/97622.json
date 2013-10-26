@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.334534, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bly", "lng": -120.97637, "zip_code": "97622"});
+zipapicallback({"locality": "Bly", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bly"], "postal_code": "97622", "lat": 42.334534, "lng": -120.97637, "type": "POBOX", "counties": [{"fips": "035", "name": "Klamath"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.568436, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Heartwell", "lng": -98.78434, "zip_code": "68945"}
+{"locality": "Heartwell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Heartwell"], "postal_code": "68945", "lat": 40.568436, "lng": -98.78434, "type": "STANDARD", "counties": [{"fips": "099", "name": "Kearney"}, {"fips": "001", "name": "Adams"}]}

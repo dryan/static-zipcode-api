@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.555958, "region": {"abbr": "FL", "name": "Florida"}, "locality": "College Parkway", "lng": -81.90174, "zip_code": "33919"});
+zipapicallback({"locality": "Fort Myers", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Myers"], "postal_code": "33919", "lat": 26.555958, "lng": -81.90174, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}]});

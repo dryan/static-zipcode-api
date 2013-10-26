@@ -1,1 +1,1 @@
-{"lat": 36.531076, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kerrick", "lng": -102.33198, "zip_code": "79051"}
+{"locality": "Kerrick", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kerrick"], "postal_code": "79051", "lat": 36.531076, "lng": -102.33198, "type": "POBOX", "counties": [{"fips": "111", "name": "Dallam"}]}

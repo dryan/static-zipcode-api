@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.326072, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Abbott Park", "lng": -87.85202, "zip_code": "60064"});
+zipapicallback({"locality": "North Chicago", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Abbott Park", "Downey", "North Chicago"], "postal_code": "60064", "lat": 42.326072, "lng": -87.85202, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]});

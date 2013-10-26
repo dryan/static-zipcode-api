@@ -1,1 +1,1 @@
-{"lat": 32.98975, "region": {"abbr": "CA", "name": "California"}, "locality": "Brawley", "lng": -115.50475, "zip_code": "92227"}
+{"locality": "Brawley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Brawley"], "postal_code": "92227", "lat": 32.98975, "lng": -115.50475, "type": "STANDARD", "counties": [{"fips": "025", "name": "Imperial"}]}

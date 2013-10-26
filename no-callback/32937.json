@@ -1,1 +1,1 @@
-{"lat": 28.172041, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Indian Harbor Be", "lng": -80.59957, "zip_code": "32937"}
+{"locality": "Satellite Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ind Hbr Bch", "Indian Harbour Beach", "Indn Hbr Bch", "Melbourne", "Satellite Bch", "Satellite Beach"], "postal_code": "32937", "lat": 28.172041, "lng": -80.59957, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]}

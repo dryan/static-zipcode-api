@@ -1,1 +1,1 @@
-{"lat": 33.09863, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Doddridge", "lng": -93.95261, "zip_code": "71834"}
+{"locality": "Doddridge", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Doddridge"], "postal_code": "71834", "lat": 33.09863, "lng": -93.95261, "type": "STANDARD", "counties": [{"fips": "091", "name": "Miller"}]}

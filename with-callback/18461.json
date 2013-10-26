@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.938498, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Starlight", "lng": -75.34499, "zip_code": "18461"});
+zipapicallback({"locality": "Starlight", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Starlight"], "postal_code": "18461", "lat": 41.938498, "lng": -75.34499, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}]});

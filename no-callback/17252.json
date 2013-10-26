@@ -1,1 +1,1 @@
-{"lat": 39.913537, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saint Thomas", "lng": -77.81001, "zip_code": "17252"}
+{"locality": "Saint Thomas", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saint Thomas"], "postal_code": "17252", "lat": 39.913537, "lng": -77.81001, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]}

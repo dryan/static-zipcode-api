@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.023442, "region": {"abbr": "NY", "name": "New York"}, "locality": "Waverly", "lng": -76.53404, "zip_code": "14892"});
+zipapicallback({"locality": "Waverly", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Waverly"], "postal_code": "14892", "lat": 42.023442, "lng": -76.53404, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}, {"fips": "015", "name": "Chemung"}]});

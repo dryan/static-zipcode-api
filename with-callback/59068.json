@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.241761, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Red Lodge", "lng": -109.32217, "zip_code": "59068"});
+zipapicallback({"locality": "Red Lodge", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Luther", "Red Lodge"], "postal_code": "59068", "lat": 45.241761, "lng": -109.32217, "type": "STANDARD", "counties": [{"fips": "009", "name": "Carbon"}]});

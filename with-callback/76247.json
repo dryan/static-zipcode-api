@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.08704, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Justin", "lng": -97.30384, "zip_code": "76247"});
+zipapicallback({"locality": "Justin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Justin", "Northlake"], "postal_code": "76247", "lat": 33.08704, "lng": -97.30384, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}, {"fips": "497", "name": "Wise"}]});

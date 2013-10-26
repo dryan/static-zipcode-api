@@ -1,1 +1,1 @@
-{"lat": 42.122957, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Erie", "lng": -80.08437, "zip_code": "16501"}
+{"locality": "Erie", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Erie"], "postal_code": "16501", "lat": 42.122957, "lng": -80.08437, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]}

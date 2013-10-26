@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.511241, "region": {"abbr": "CA", "name": "California"}, "locality": "Saint Helena", "lng": -122.45695, "zip_code": "94574"});
+zipapicallback({"locality": "Saint Helena", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Saint Helena"], "postal_code": "94574", "lat": 38.511241, "lng": -122.45695, "type": "STANDARD", "counties": [{"fips": "055", "name": "Napa"}]});

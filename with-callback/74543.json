@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.373618, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Finley", "lng": -95.43604, "zip_code": "74543"});
+zipapicallback({"locality": "Finley", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Finley"], "postal_code": "74543", "lat": 34.373618, "lng": -95.43604, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}]});

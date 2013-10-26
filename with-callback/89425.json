@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.656001, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Orovada", "lng": -117.95538, "zip_code": "89425"});
+zipapicallback({"locality": "Orovada", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Orovada"], "postal_code": "89425", "lat": 41.656001, "lng": -117.95538, "type": "STANDARD", "counties": [{"fips": "013", "name": "Humboldt"}]});

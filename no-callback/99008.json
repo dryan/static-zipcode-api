@@ -1,1 +1,1 @@
-{"lat": 47.50505, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Edwall", "lng": -117.93432, "zip_code": "99008"}
+{"locality": "Edwall", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Edwall"], "postal_code": "99008", "lat": 47.50505, "lng": -117.93432, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "063", "name": "Spokane"}]}

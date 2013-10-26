@@ -1,1 +1,1 @@
-{"lat": 40.70332, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kellerton", "lng": -94.08143, "zip_code": "50133"}
+{"locality": "Kellerton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kellerton"], "postal_code": "50133", "lat": 40.70332, "lng": -94.08143, "type": "STANDARD", "counties": [{"fips": "159", "name": "Ringgold"}, {"fips": "053", "name": "Decatur"}]}

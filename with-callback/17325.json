@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.827337, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gettysburg", "lng": -77.22904, "zip_code": "17325"});
+zipapicallback({"locality": "Gettysburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gettysburg"], "postal_code": "17325", "lat": 39.827337, "lng": -77.22904, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.302492, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shillington", "lng": -75.95565, "zip_code": "19607"}
+{"locality": "Reading", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reading", "Shillington"], "postal_code": "19607", "lat": 40.302492, "lng": -75.95565, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

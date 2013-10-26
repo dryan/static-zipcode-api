@@ -1,1 +1,1 @@
-{"lat": 40.176375, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Donora", "lng": -79.86138, "zip_code": "15033"}
+{"locality": "Donora", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Donora"], "postal_code": "15033", "lat": 40.176375, "lng": -79.86138, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

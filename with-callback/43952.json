@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.371185, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wintersville", "lng": -80.63426, "zip_code": "43952"});
+zipapicallback({"locality": "Steubenville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Steubenville", "Wintersville"], "postal_code": "43952", "lat": 40.371185, "lng": -80.63426, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]});

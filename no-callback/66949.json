@@ -1,1 +1,1 @@
-{"lat": 39.652106, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ionia", "lng": -98.18519, "zip_code": "66949"}
+{"locality": "Jewell", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ionia", "Jewell"], "postal_code": "66949", "lat": 39.652106, "lng": -98.18519, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jewell"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.808934, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Renfrew", "lng": -79.97811, "zip_code": "16053"}
+{"locality": "Renfrew", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Renfrew"], "postal_code": "16053", "lat": 40.808934, "lng": -79.97811, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]}

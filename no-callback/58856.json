@@ -1,1 +1,1 @@
-{"lat": 48.567291, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Zahl", "lng": -103.71711, "zip_code": "58856"}
+{"locality": "Zahl", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Zahl"], "postal_code": "58856", "lat": 48.567291, "lng": -103.71711, "type": "STANDARD", "counties": [{"fips": "105", "name": "Williams"}, {"fips": "023", "name": "Divide"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.252873, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Simpson", "lng": -93.02395, "zip_code": "71474"}
+{"locality": "Simpson", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Simpson", "Temple"], "postal_code": "71474", "lat": 31.252873, "lng": -93.02395, "type": "POBOX", "counties": [{"fips": "115", "name": "Vernon"}]}

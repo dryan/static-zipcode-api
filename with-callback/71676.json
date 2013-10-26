@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.059255, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wilmot", "lng": -91.55866, "zip_code": "71676"});
+zipapicallback({"locality": "Wilmot", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wilmot"], "postal_code": "71676", "lat": 33.059255, "lng": -91.55866, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashley"}, {"fips": "017", "name": "Chicot"}]});

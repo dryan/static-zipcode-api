@@ -1,1 +1,1 @@
-{"lat": 40.801913, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Promise City", "lng": -93.14736, "zip_code": "52583"}
+{"locality": "Promise City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Promise City"], "postal_code": "52583", "lat": 40.801913, "lng": -93.14736, "type": "STANDARD", "counties": [{"fips": "185", "name": "Wayne"}]}

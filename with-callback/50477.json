@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.97779, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Swaledale", "lng": -93.32768, "zip_code": "50477"});
+zipapicallback({"locality": "Swaledale", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Swaledale"], "postal_code": "50477", "lat": 42.97779, "lng": -93.32768, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cerro Gordo"}]});

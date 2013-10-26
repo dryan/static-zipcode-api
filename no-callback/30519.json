@@ -1,1 +1,1 @@
-{"lat": 34.089419, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Buford", "lng": -83.94701, "zip_code": "30519"}
+{"locality": "Buford", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Buford"], "postal_code": "30519", "lat": 34.089419, "lng": -83.94701, "type": "STANDARD", "counties": []}

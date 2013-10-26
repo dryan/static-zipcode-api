@@ -1,1 +1,1 @@
-{"lat": 33.628946, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Milnesand", "lng": -103.1837, "zip_code": "88125"}
+{"locality": "Milnesand", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Milnesand"], "postal_code": "88125", "lat": 33.628946, "lng": -103.1837, "type": "STANDARD", "counties": [{"fips": "041", "name": "Roosevelt"}]}

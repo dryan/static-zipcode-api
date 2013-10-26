@@ -1,1 +1,1 @@
-{"lat": 41.450602, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cleveland", "lng": -81.62216, "zip_code": "44105"}
+{"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Garfield Heights", "Garfield Hts", "Newburgh Heights", "Newburgh Hts"], "postal_code": "44105", "lat": 41.450602, "lng": -81.62216, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]}

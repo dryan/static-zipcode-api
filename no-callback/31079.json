@@ -1,1 +1,1 @@
-{"lat": 31.933079, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rochelle", "lng": -83.45722, "zip_code": "31079"}
+{"locality": "Rochelle", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Rochelle"], "postal_code": "31079", "lat": 31.933079, "lng": -83.45722, "type": "STANDARD", "counties": [{"fips": "315", "name": "Wilcox"}, {"fips": "017", "name": "Ben Hill"}]}

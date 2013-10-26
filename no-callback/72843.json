@@ -1,1 +1,1 @@
-{"lat": 35.517382, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hector", "lng": -92.95354, "zip_code": "72843"}
+{"locality": "Hector", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hector"], "postal_code": "72843", "lat": 35.517382, "lng": -92.95354, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pope"}]}

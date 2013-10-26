@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.801513, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Carson", "lng": -121.91147, "zip_code": "98610"});
+zipapicallback({"locality": "Carson", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Carson"], "postal_code": "98610", "lat": 45.801513, "lng": -121.91147, "type": "STANDARD", "counties": [{"fips": "059", "name": "Skamania"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.061875, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Swan River", "lng": -93.20456, "zip_code": "55784"});
+zipapicallback({"locality": "Swan River", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Swan River"], "postal_code": "55784", "lat": 47.061875, "lng": -93.20456, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]});

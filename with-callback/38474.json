@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.52478, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mount Pleasant", "lng": -87.22342, "zip_code": "38474"});
+zipapicallback({"locality": "Mount Pleasant", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "38474", "lat": 35.52478, "lng": -87.22342, "type": "STANDARD", "counties": [{"fips": "119", "name": "Maury"}, {"fips": "101", "name": "Lewis"}, {"fips": "099", "name": "Lawrence"}, {"fips": "055", "name": "Giles"}]});

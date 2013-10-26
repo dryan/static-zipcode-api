@@ -1,1 +1,1 @@
-{"lat": 36.236377, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sharon", "lng": -88.83586, "zip_code": "38255"}
+{"locality": "Sharon", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sharon"], "postal_code": "38255", "lat": 36.236377, "lng": -88.83586, "type": "STANDARD", "counties": [{"fips": "183", "name": "Weakley"}]}

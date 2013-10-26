@@ -1,1 +1,1 @@
-{"lat": 40.618619, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Redding", "lng": -94.33102, "zip_code": "50860"}
+{"locality": "Redding", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Delphos", "Redding"], "postal_code": "50860", "lat": 40.618619, "lng": -94.33102, "type": "STANDARD", "counties": [{"fips": "159", "name": "Ringgold"}]}

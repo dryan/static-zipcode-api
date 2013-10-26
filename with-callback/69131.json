@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.406407, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dalton", "lng": -103.00711, "zip_code": "69131"});
+zipapicallback({"locality": "Dalton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dalton"], "postal_code": "69131", "lat": 41.406407, "lng": -103.00711, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cheyenne"}]});

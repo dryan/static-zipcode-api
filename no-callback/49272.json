@@ -1,1 +1,1 @@
-{"lat": 42.398355, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pleasant Lake", "lng": -84.34471, "zip_code": "49272"}
+{"locality": "Pleasant Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pleasant Lake"], "postal_code": "49272", "lat": 42.398355, "lng": -84.34471, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]}

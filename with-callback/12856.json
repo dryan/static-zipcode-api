@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.722082, "region": {"abbr": "NY", "name": "New York"}, "locality": "North River", "lng": -74.10546, "zip_code": "12856"});
+zipapicallback({"locality": "North River", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North River"], "postal_code": "12856", "lat": 43.722082, "lng": -74.10546, "type": "POBOX", "counties": [{"fips": "113", "name": "Warren"}]});

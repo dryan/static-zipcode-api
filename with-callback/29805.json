@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.650812, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Aiken", "lng": -81.61561, "zip_code": "29805"});
+zipapicallback({"locality": "Aiken", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Aiken"], "postal_code": "29805", "lat": 33.650812, "lng": -81.61561, "type": "STANDARD", "counties": []});

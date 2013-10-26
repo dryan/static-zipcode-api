@@ -1,1 +1,1 @@
-{"lat": 30.620456, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Oberlin", "lng": -92.74582, "zip_code": "70655"}
+{"locality": "Oberlin", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Oberlin"], "postal_code": "70655", "lat": 30.620456, "lng": -92.74582, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]}

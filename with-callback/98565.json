@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.580105, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Napavine", "lng": -122.90699, "zip_code": "98565"});
+zipapicallback({"locality": "Napavine", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Napavine"], "postal_code": "98565", "lat": 46.580105, "lng": -122.90699, "type": "POBOX", "counties": [{"fips": "041", "name": "Lewis"}]});

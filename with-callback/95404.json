@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.457611, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Rosa", "lng": -122.69317, "zip_code": "95404"});
+zipapicallback({"locality": "Santa Rosa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Rosa"], "postal_code": "95404", "lat": 38.457611, "lng": -122.69317, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}, {"fips": "041", "name": "Marin"}]});

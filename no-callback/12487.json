@@ -1,1 +1,1 @@
-{"lat": 41.855761, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ulster Park", "lng": -73.99207, "zip_code": "12487"}
+{"locality": "Ulster Park", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ulster Park"], "postal_code": "12487", "lat": 41.855761, "lng": -73.99207, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

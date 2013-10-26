@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.00167, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Tabernash", "lng": -105.8686, "zip_code": "80478"});
+zipapicallback({"locality": "Tabernash", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Tabernash"], "postal_code": "80478", "lat": 40.00167, "lng": -105.8686, "type": "POBOX", "counties": [{"fips": "049", "name": "Grand"}]});

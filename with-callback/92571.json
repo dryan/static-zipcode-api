@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.822068, "region": {"abbr": "CA", "name": "California"}, "locality": "Perris", "lng": -117.21514, "zip_code": "92571"});
+zipapicallback({"locality": "Perris", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Perris"], "postal_code": "92571", "lat": 33.822068, "lng": -117.21514, "type": "STANDARD", "counties": []});

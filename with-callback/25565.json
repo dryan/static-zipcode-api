@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.106045, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Morrisvale", "lng": -81.99598, "zip_code": "25565"});
+zipapicallback({"locality": "Spurlockville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Morrisvale", "Spurlockville"], "postal_code": "25565", "lat": 38.106045, "lng": -81.99598, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "005", "name": "Boone"}]});

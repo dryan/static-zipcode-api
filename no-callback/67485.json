@@ -1,1 +1,1 @@
-{"lat": 39.32071, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Tipton", "lng": -98.50294, "zip_code": "67485"}
+{"locality": "Tipton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Tipton"], "postal_code": "67485", "lat": 39.32071, "lng": -98.50294, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mitchell"}, {"fips": "141", "name": "Osborne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.270684, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ash Grove", "lng": -93.59815, "zip_code": "65604"});
+zipapicallback({"locality": "Ash Grove", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ash Grove"], "postal_code": "65604", "lat": 37.270684, "lng": -93.59815, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "109", "name": "Lawrence"}, {"fips": "057", "name": "Dade"}]});

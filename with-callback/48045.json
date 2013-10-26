@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.582961, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Selfridge A N G", "lng": -82.83063, "zip_code": "48045"});
+zipapicallback({"locality": "Harrison Township", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Harrison Township", "Harrison Twp", "Selfridge", "Selfridge Angb"], "postal_code": "48045", "lat": 42.582961, "lng": -82.83063, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]});

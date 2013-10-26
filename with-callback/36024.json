@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.697561, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Eclectic", "lng": -86.016, "zip_code": "36024"});
+zipapicallback({"locality": "Eclectic", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Eclectic"], "postal_code": "36024", "lat": 32.697561, "lng": -86.016, "type": "STANDARD", "counties": [{"fips": "051", "name": "Elmore"}]});

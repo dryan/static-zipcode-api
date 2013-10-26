@@ -1,1 +1,1 @@
-{"lat": 43.605457, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Midland", "lng": -84.27234, "zip_code": "48640"}
+{"locality": "Midland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Midland"], "postal_code": "48640", "lat": 43.605457, "lng": -84.27234, "type": "STANDARD", "counties": [{"fips": "111", "name": "Midland"}, {"fips": "101", "name": "Manistee"}, {"fips": "017", "name": "Bay"}]}

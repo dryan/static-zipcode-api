@@ -1,1 +1,1 @@
-{"lat": 34.172474, "region": {"abbr": "CA", "name": "California"}, "locality": "Angelus Oaks", "lng": -116.87593, "zip_code": "92305"}
+{"locality": "Angelus Oaks", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Angelus Oaks"], "postal_code": "92305", "lat": 34.172474, "lng": -116.87593, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

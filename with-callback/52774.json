@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.907575, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Welton", "lng": -90.59624, "zip_code": "52774"});
+zipapicallback({"locality": "Welton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Welton"], "postal_code": "52774", "lat": 41.907575, "lng": -90.59624, "type": "POBOX", "counties": [{"fips": "045", "name": "Clinton"}]});

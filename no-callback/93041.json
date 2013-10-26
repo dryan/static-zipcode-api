@@ -1,1 +1,1 @@
-{"lat": 34.154072, "region": {"abbr": "CA", "name": "California"}, "locality": "Port Hueneme", "lng": -119.18829, "zip_code": "93041"}
+{"locality": "Port Hueneme", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Point Mugu Nawc", "Port Hueneme", "Pt Mugu Nawc"], "postal_code": "93041", "lat": 34.154072, "lng": -119.18829, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}]}

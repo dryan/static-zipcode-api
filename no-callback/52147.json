@@ -1,1 +1,1 @@
-{"lat": 42.960176, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hawkeye", "lng": -91.95858, "zip_code": "52147"}
+{"locality": "Hawkeye", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hawkeye"], "postal_code": "52147", "lat": 42.960176, "lng": -91.95858, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]}

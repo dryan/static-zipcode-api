@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.697268, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Scottsdale", "lng": -111.88321, "zip_code": "85255"});
+zipapicallback({"locality": "Scottsdale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Scottsdale"], "postal_code": "85255", "lat": 33.697268, "lng": -111.88321, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

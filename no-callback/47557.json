@@ -1,1 +1,1 @@
-{"lat": 38.588354, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Monroe City", "lng": -87.34174, "zip_code": "47557"}
+{"locality": "Monroe City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Monroe City"], "postal_code": "47557", "lat": 38.588354, "lng": -87.34174, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}]}

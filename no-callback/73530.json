@@ -1,1 +1,1 @@
-{"lat": 34.254376, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Davidson", "lng": -99.05182, "zip_code": "73530"}
+{"locality": "Davidson", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Davidson"], "postal_code": "73530", "lat": 34.254376, "lng": -99.05182, "type": "STANDARD", "counties": [{"fips": "141", "name": "Tillman"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.99201, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Point Roberts", "lng": -123.05047, "zip_code": "98281"}
+{"locality": "Point Roberts", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Point Roberts"], "postal_code": "98281", "lat": 48.99201, "lng": -123.05047, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]}

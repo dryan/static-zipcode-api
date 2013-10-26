@@ -1,1 +1,1 @@
-{"lat": 44.560479, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Orland", "lng": -68.69084, "zip_code": "04472"}
+{"locality": "Orland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Orland"], "postal_code": "04472", "lat": 44.560479, "lng": -68.69084, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

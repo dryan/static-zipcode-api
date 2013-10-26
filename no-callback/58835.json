@@ -1,1 +1,1 @@
-{"lat": 47.73943, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Arnegard", "lng": -103.46564, "zip_code": "58835"}
+{"locality": "Arnegard", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Arnegard"], "postal_code": "58835", "lat": 47.73943, "lng": -103.46564, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}]}

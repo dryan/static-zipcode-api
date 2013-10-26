@@ -1,1 +1,1 @@
-{"lat": 39.117212, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wellston", "lng": -82.54811, "zip_code": "45692"}
+{"locality": "Wellston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wellston"], "postal_code": "45692", "lat": 39.117212, "lng": -82.54811, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jackson"}, {"fips": "163", "name": "Vinton"}]}

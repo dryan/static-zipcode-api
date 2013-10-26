@@ -1,1 +1,1 @@
-{"lat": 30.47461, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Basile", "lng": -92.58568, "zip_code": "70515"}
+{"locality": "Basile", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Basile"], "postal_code": "70515", "lat": 30.47461, "lng": -92.58568, "type": "STANDARD", "counties": [{"fips": "039", "name": "Evangeline"}]}

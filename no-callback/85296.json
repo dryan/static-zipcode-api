@@ -1,1 +1,1 @@
-{"lat": 33.319722, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Gilbert", "lng": -111.76078, "zip_code": "85296"}
+{"locality": "Gilbert", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Gilbert"], "postal_code": "85296", "lat": 33.319722, "lng": -111.76078, "type": "STANDARD", "counties": []}

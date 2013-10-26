@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.199457, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Baileyville", "lng": -89.59662, "zip_code": "61007"});
+zipapicallback({"locality": "Baileyville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Baileyville"], "postal_code": "61007", "lat": 42.199457, "lng": -89.59662, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}, {"fips": "177", "name": "Stephenson"}]});

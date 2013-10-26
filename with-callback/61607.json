@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.642049, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bartonville", "lng": -89.67147, "zip_code": "61607"});
+zipapicallback({"locality": "Peoria", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bartonville", "Peoria"], "postal_code": "61607", "lat": 40.642049, "lng": -89.67147, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}]});

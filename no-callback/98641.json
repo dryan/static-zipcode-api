@@ -1,1 +1,1 @@
-{"lat": 46.554, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Oysterville", "lng": -124.02626, "zip_code": "98641"}
+{"locality": "Oysterville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Oysterville"], "postal_code": "98641", "lat": 46.554, "lng": -124.02626, "type": "POBOX", "counties": [{"fips": "049", "name": "Pacific"}]}

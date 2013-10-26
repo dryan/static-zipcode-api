@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.190713, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Three Springs", "lng": -77.98067, "zip_code": "17264"});
+zipapicallback({"locality": "Three Springs", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Three Springs"], "postal_code": "17264", "lat": 40.190713, "lng": -77.98067, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}, {"fips": "057", "name": "Fulton"}]});

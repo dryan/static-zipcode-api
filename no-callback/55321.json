@@ -1,1 +1,1 @@
-{"lat": 45.085142, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cokato", "lng": -94.18748, "zip_code": "55321"}
+{"locality": "Cokato", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cokato"], "postal_code": "55321", "lat": 45.085142, "lng": -94.18748, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]}

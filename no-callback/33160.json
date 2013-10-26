@@ -1,1 +1,1 @@
-{"lat": 25.941535, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Miami Beac", "lng": -80.13861, "zip_code": "33160"}
+{"locality": "North Miami Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Aventura", "Golden Beach", "Miami", "N Miami Beach", "North Miami Beach", "Sunny Isl Bch", "Sunny Isles Beach"], "postal_code": "33160", "lat": 25.941535, "lng": -80.13861, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}, {"fips": "065", "name": "Jefferson"}]}

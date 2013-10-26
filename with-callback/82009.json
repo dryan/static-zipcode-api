@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.275932, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Cheyenne", "lng": -104.88279, "zip_code": "82009"});
+zipapicallback({"locality": "Cheyenne", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Cheyenne", "Iron Mountain"], "postal_code": "82009", "lat": 41.275932, "lng": -104.88279, "type": "STANDARD", "counties": [{"fips": "021", "name": "Laramie"}]});

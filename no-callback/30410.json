@@ -1,1 +1,1 @@
-{"lat": 32.196136, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ailey", "lng": -82.50985, "zip_code": "30410"}
+{"locality": "Ailey", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ailey"], "postal_code": "30410", "lat": 32.196136, "lng": -82.50985, "type": "STANDARD", "counties": [{"fips": "209", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.54179, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Asheville", "lng": -82.52307, "zip_code": "28803"}
+{"locality": "Asheville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Asheville", "Biltmore Forest", "Biltmore Frst"], "postal_code": "28803", "lat": 35.54179, "lng": -82.52307, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buncombe"}, {"fips": "119", "name": "Mecklenburg"}]}

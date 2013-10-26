@@ -1,1 +1,1 @@
-zipapicallback({"lat": 59.992821, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Ninilchik", "lng": -151.54194, "zip_code": "99639"});
+zipapicallback({"locality": "Ninilchik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ninilchik"], "postal_code": "99639", "lat": 59.992821, "lng": -151.54194, "type": "STANDARD", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]});

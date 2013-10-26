@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.07506, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Carrollwood", "lng": -82.52355, "zip_code": "33624"});
+zipapicallback({"locality": "Tampa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Northdale", "Tampa"], "postal_code": "33624", "lat": 28.07506, "lng": -82.52355, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]});

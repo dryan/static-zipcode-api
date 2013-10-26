@@ -1,1 +1,1 @@
-{"lat": 40.220907, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lawn", "lng": -76.53769, "zip_code": "17041"}
+{"locality": "Lawn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lawn"], "postal_code": "17041", "lat": 40.220907, "lng": -76.53769, "type": "POBOX", "counties": [{"fips": "075", "name": "Lebanon"}]}

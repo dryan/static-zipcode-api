@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.423882, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Stow", "lng": -71.51086, "zip_code": "01775"});
+zipapicallback({"locality": "Stow", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Stow"], "postal_code": "01775", "lat": 42.423882, "lng": -71.51086, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

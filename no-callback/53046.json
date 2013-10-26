@@ -1,1 +1,1 @@
-{"lat": 43.153447, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lannon", "lng": -88.16124, "zip_code": "53046"}
+{"locality": "Lannon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lannon"], "postal_code": "53046", "lat": 43.153447, "lng": -88.16124, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}]}

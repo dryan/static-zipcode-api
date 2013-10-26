@@ -1,1 +1,1 @@
-{"lat": 40.969985, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Effort", "lng": -75.45726, "zip_code": "18330"}
+{"locality": "Effort", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Effort"], "postal_code": "18330", "lat": 40.969985, "lng": -75.45726, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]}

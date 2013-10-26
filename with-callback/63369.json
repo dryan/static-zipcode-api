@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.935776, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Old Monroe", "lng": -90.77801, "zip_code": "63369"});
+zipapicallback({"locality": "Old Monroe", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Old Monroe"], "postal_code": "63369", "lat": 38.935776, "lng": -90.77801, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}]});

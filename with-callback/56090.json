@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.95885, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Vernon Center", "lng": -94.22403, "zip_code": "56090"});
+zipapicallback({"locality": "Vernon Center", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Vernon Center"], "postal_code": "56090", "lat": 43.95885, "lng": -94.22403, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blue Earth"}]});

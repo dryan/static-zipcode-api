@@ -1,1 +1,1 @@
-{"lat": 36.904817, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Peckham", "lng": -97.06078, "zip_code": "74647"}
+{"locality": "Newkirk", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Newkirk", "Peckham"], "postal_code": "74647", "lat": 36.904817, "lng": -97.06078, "type": "STANDARD", "counties": [{"fips": "071", "name": "Kay"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.06461, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Glenwood City", "lng": -92.18504, "zip_code": "54013"});
+zipapicallback({"locality": "Glenwood City", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Emerald", "Glenwood City"], "postal_code": "54013", "lat": 45.06461, "lng": -92.18504, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}, {"fips": "033", "name": "Dunn"}]});

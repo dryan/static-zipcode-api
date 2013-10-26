@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.76916, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Hawk Springs", "lng": -104.24488, "zip_code": "82217"});
+zipapicallback({"locality": "Hawk Springs", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Hawk Springs"], "postal_code": "82217", "lat": 41.76916, "lng": -104.24488, "type": "STANDARD", "counties": [{"fips": "015", "name": "Goshen"}]});

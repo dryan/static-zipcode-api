@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.14711, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Kremmling", "lng": -106.42854, "zip_code": "80459"});
+zipapicallback({"locality": "Kremmling", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Kremmling"], "postal_code": "80459", "lat": 40.14711, "lng": -106.42854, "type": "STANDARD", "counties": [{"fips": "049", "name": "Grand"}, {"fips": "117", "name": "Summit"}]});

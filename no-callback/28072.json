@@ -1,1 +1,1 @@
-{"lat": 35.614966, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Granite Quarry", "lng": -80.44198, "zip_code": "28072"}
+{"locality": "Granite Quarry", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Granite Qry", "Granite Quarry"], "postal_code": "28072", "lat": 35.614966, "lng": -80.44198, "type": "POBOX", "counties": [{"fips": "159", "name": "Rowan"}]}

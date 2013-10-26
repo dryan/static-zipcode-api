@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.933384, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Artie", "lng": -81.36076, "zip_code": "25008"});
+zipapicallback({"locality": "Artie", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Artie"], "postal_code": "25008", "lat": 37.933384, "lng": -81.36076, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

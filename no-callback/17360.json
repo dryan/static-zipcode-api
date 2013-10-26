@@ -1,1 +1,1 @@
-{"lat": 39.84987, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Seven Valleys", "lng": -76.76403, "zip_code": "17360"}
+{"locality": "Seven Valleys", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Seven Valleys"], "postal_code": "17360", "lat": 39.84987, "lng": -76.76403, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

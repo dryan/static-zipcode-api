@@ -1,1 +1,1 @@
-{"lat": 40.850141, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Grant", "lng": -101.75824, "zip_code": "69140"}
+{"locality": "Grant", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Grant"], "postal_code": "69140", "lat": 40.850141, "lng": -101.75824, "type": "STANDARD", "counties": [{"fips": "135", "name": "Perkins"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.698168, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Magness", "lng": -91.48003, "zip_code": "72553"});
+zipapicallback({"locality": "Magness", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Magness"], "postal_code": "72553", "lat": 35.698168, "lng": -91.48003, "type": "POBOX", "counties": [{"fips": "063", "name": "Independence"}]});

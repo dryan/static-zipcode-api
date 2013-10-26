@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.193997, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Rozel", "lng": -99.40331, "zip_code": "67574"});
+zipapicallback({"locality": "Rozel", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Rozel"], "postal_code": "67574", "lat": 38.193997, "lng": -99.40331, "type": "STANDARD", "counties": [{"fips": "145", "name": "Pawnee"}]});

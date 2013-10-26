@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.665424, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Laurel", "lng": -108.75601, "zip_code": "59044"});
+zipapicallback({"locality": "Laurel", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Laurel"], "postal_code": "59044", "lat": 45.665424, "lng": -108.75601, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}, {"fips": "009", "name": "Carbon"}]});

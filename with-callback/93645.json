@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.146284, "region": {"abbr": "CA", "name": "California"}, "locality": "O Neals", "lng": -119.67379, "zip_code": "93645"});
+zipapicallback({"locality": "O Neals", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["O Neals"], "postal_code": "93645", "lat": 37.146284, "lng": -119.67379, "type": "STANDARD", "counties": [{"fips": "039", "name": "Madera"}]});

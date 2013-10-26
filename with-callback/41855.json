@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.156856, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Thornton", "lng": -82.76167, "zip_code": "41855"});
+zipapicallback({"locality": "Thornton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Thornton"], "postal_code": "41855", "lat": 37.156856, "lng": -82.76167, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

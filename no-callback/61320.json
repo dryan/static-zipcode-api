@@ -1,1 +1,1 @@
-{"lat": 41.350864, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dalzell", "lng": -89.17366, "zip_code": "61320"}
+{"locality": "Dalzell", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dalzell"], "postal_code": "61320", "lat": 41.350864, "lng": -89.17366, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bureau"}]}

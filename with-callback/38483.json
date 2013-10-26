@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.43506, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Summertown", "lng": -87.33748, "zip_code": "38483"});
+zipapicallback({"locality": "Summertown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Summertown"], "postal_code": "38483", "lat": 35.43506, "lng": -87.33748, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}, {"fips": "119", "name": "Maury"}, {"fips": "055", "name": "Giles"}, {"fips": "101", "name": "Lewis"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.22771, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Paris", "lng": -111.39651, "zip_code": "83261"});
+zipapicallback({"locality": "Paris", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Paris"], "postal_code": "83261", "lat": 42.22771, "lng": -111.39651, "type": "POBOX", "counties": [{"fips": "007", "name": "Bear Lake"}]});

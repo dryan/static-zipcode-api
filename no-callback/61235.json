@@ -1,1 +1,1 @@
-{"lat": 41.409646, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Atkinson", "lng": -90.01821, "zip_code": "61235"}
+{"locality": "Atkinson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Atkinson"], "postal_code": "61235", "lat": 41.409646, "lng": -90.01821, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}, {"fips": "161", "name": "Rock Island"}]}

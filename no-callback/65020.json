@@ -1,1 +1,1 @@
-{"lat": 38.032648, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Camdenton", "lng": -92.78269, "zip_code": "65020"}
+{"locality": "Camdenton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Camdenton"], "postal_code": "65020", "lat": 38.032648, "lng": -92.78269, "type": "STANDARD", "counties": [{"fips": "029", "name": "Camden"}]}

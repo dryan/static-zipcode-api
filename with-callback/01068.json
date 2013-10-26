@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.349769, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Oakham", "lng": -72.04413, "zip_code": "01068"});
+zipapicallback({"locality": "Oakham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Oakham"], "postal_code": "01068", "lat": 42.349769, "lng": -72.04413, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

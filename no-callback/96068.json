@@ -1,1 +1,1 @@
-{"lat": 41.102891, "region": {"abbr": "CA", "name": "California"}, "locality": "Nubieber", "lng": -121.19828, "zip_code": "96068"}
+{"locality": "Nubieber", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Nubieber"], "postal_code": "96068", "lat": 41.102891, "lng": -121.19828, "type": "POBOX", "counties": [{"fips": "035", "name": "Lassen"}]}

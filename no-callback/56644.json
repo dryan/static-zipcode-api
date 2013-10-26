@@ -1,1 +1,1 @@
-{"lat": 47.755904, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Gonvick", "lng": -95.5078, "zip_code": "56644"}
+{"locality": "Gonvick", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Gonvick"], "postal_code": "56644", "lat": 47.755904, "lng": -95.5078, "type": "STANDARD", "counties": [{"fips": "029", "name": "Clearwater"}, {"fips": "119", "name": "Polk"}]}

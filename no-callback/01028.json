@@ -1,1 +1,1 @@
-{"lat": 42.066795, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Longmeadow", "lng": -72.5102, "zip_code": "01028"}
+{"locality": "East Longmeadow", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Longmeadow", "East Longmeadow"], "postal_code": "01028", "lat": 42.066795, "lng": -72.5102, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

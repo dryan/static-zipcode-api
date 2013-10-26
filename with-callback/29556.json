@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.671678, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Kingstree", "lng": -79.78693, "zip_code": "29556"});
+zipapicallback({"locality": "Kingstree", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Kingstree"], "postal_code": "29556", "lat": 33.671678, "lng": -79.78693, "type": "STANDARD", "counties": [{"fips": "089", "name": "Williamsburg"}]});

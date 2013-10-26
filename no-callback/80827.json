@@ -1,1 +1,1 @@
-{"lat": 39.031989, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lake George", "lng": -105.46846, "zip_code": "80827"}
+{"locality": "Lake George", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Lake George"], "postal_code": "80827", "lat": 39.031989, "lng": -105.46846, "type": "STANDARD", "counties": [{"fips": "093", "name": "Park"}, {"fips": "119", "name": "Teller"}]}

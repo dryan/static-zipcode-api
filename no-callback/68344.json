@@ -1,1 +1,1 @@
-{"lat": 40.56985, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Douglas", "lng": -96.3806, "zip_code": "68344"}
+{"locality": "Douglas", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Douglas"], "postal_code": "68344", "lat": 40.56985, "lng": -96.3806, "type": "STANDARD", "counties": [{"fips": "131", "name": "Otoe"}]}

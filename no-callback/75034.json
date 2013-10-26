@@ -1,1 +1,1 @@
-{"lat": 33.143792, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Frisco", "lng": -96.83938, "zip_code": "75034"}
+{"locality": "Frisco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Frisco"], "postal_code": "75034", "lat": 33.143792, "lng": -96.83938, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}, {"fips": "121", "name": "Denton"}]}

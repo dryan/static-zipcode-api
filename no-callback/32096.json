@@ -1,1 +1,1 @@
-{"lat": 30.366085, "region": {"abbr": "FL", "name": "Florida"}, "locality": "White Springs", "lng": -82.76055, "zip_code": "32096"}
+{"locality": "White Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["White Springs"], "postal_code": "32096", "lat": 30.366085, "lng": -82.76055, "type": "STANDARD", "counties": [{"fips": "047", "name": "Hamilton"}, {"fips": "121", "name": "Suwannee"}, {"fips": "023", "name": "Columbia"}]}

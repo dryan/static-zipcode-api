@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.849418, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mount Gay", "lng": -82.02174, "zip_code": "25637"});
+zipapicallback({"locality": "Mount Gay", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mount Gay"], "postal_code": "25637", "lat": 37.849418, "lng": -82.02174, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]});

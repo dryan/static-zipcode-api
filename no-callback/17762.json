@@ -1,1 +1,1 @@
-{"lat": 41.280066, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Picture Rocks", "lng": -76.71173, "zip_code": "17762"}
+{"locality": "Picture Rocks", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Picture Rocks"], "postal_code": "17762", "lat": 41.280066, "lng": -76.71173, "type": "POBOX", "counties": [{"fips": "081", "name": "Lycoming"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.446623, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "West Bend", "lng": -88.17879, "zip_code": "53090"});
+zipapicallback({"locality": "West Bend", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["West Bend"], "postal_code": "53090", "lat": 43.446623, "lng": -88.17879, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.959188, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Dorcas", "lng": -79.13703, "zip_code": "26847"});
+zipapicallback({"locality": "Petersburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Arthur", "Dorcas", "Landes Sta", "Landes Station", "Petersburg"], "postal_code": "26847", "lat": 38.959188, "lng": -79.13703, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}, {"fips": "071", "name": "Pendleton"}, {"fips": "031", "name": "Hardy"}]});

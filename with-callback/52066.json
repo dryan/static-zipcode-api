@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.682337, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "North Buena Vist", "lng": -90.95239, "zip_code": "52066"});
+zipapicallback({"locality": "North Buena Vista", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["N Buena Vista", "North Buena Vista"], "postal_code": "52066", "lat": 42.682337, "lng": -90.95239, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clayton"}]});

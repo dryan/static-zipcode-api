@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.916397, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Zanesville", "lng": -85.28232, "zip_code": "46799"});
+zipapicallback({"locality": "Zanesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Zanesville"], "postal_code": "46799", "lat": 40.916397, "lng": -85.28232, "type": "POBOX", "counties": [{"fips": "003", "name": "Allen"}]});

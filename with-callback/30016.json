@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.542118, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Covington", "lng": -83.93372, "zip_code": "30016"});
+zipapicallback({"locality": "Covington", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Covington", "Porterdale"], "postal_code": "30016", "lat": 33.542118, "lng": -83.93372, "type": "STANDARD", "counties": []});

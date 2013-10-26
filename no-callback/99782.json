@@ -1,1 +1,1 @@
-{"lat": 70.640902, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Wainwright", "lng": -160.02481, "zip_code": "99782"}
+{"locality": "Wainwright", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Wainwright"], "postal_code": "99782", "lat": 70.640902, "lng": -160.02481, "type": "POBOX", "counties": [{"fips": "185", "name": "North Slope"}]}

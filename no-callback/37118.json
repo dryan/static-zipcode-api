@@ -1,1 +1,1 @@
-{"lat": 35.929221, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Milton", "lng": -86.18393, "zip_code": "37118"}
+{"locality": "Milton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Milton"], "postal_code": "37118", "lat": 35.929221, "lng": -86.18393, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rutherford"}]}

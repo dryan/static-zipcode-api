@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.409433, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Loraine", "lng": -100.71285, "zip_code": "79532"});
+zipapicallback({"locality": "Loraine", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Loraine"], "postal_code": "79532", "lat": 32.409433, "lng": -100.71285, "type": "STANDARD", "counties": [{"fips": "335", "name": "Mitchell"}, {"fips": "353", "name": "Nolan"}, {"fips": "415", "name": "Scurry"}]});

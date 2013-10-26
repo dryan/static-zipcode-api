@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.206754, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake George", "lng": -94.97109, "zip_code": "56458"});
+zipapicallback({"locality": "Lake George", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake George"], "postal_code": "56458", "lat": 47.206754, "lng": -94.97109, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hubbard"}]});

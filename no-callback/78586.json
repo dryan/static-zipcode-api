@@ -1,1 +1,1 @@
-{"lat": 26.111261, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Benito", "lng": -97.63519, "zip_code": "78586"}
+{"locality": "San Benito", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Benito"], "postal_code": "78586", "lat": 26.111261, "lng": -97.63519, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]}

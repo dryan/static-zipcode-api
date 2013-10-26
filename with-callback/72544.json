@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.388751, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Henderson", "lng": -92.20206, "zip_code": "72544"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Henderson"], "postal_code": "72544", "lat": 36.388751, "lng": -92.20206, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baxter"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.078189, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Centreville", "lng": -91.07723, "zip_code": "39631"});
+zipapicallback({"locality": "Centreville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Centreville"], "postal_code": "39631", "lat": 31.078189, "lng": -91.07723, "type": "STANDARD", "counties": [{"fips": "157", "name": "Wilkinson"}, {"fips": "005", "name": "Amite"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.569756, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Danvers", "lng": -70.94322, "zip_code": "01923"}
+{"locality": "Danvers", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Danvers"], "postal_code": "01923", "lat": 42.569756, "lng": -70.94322, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

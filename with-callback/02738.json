@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.706599, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Marion", "lng": -70.75086, "zip_code": "02738"});
+zipapicallback({"locality": "Marion", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Marion"], "postal_code": "02738", "lat": 41.706599, "lng": -70.75086, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]});

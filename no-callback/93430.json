@@ -1,1 +1,1 @@
-{"lat": 35.459347, "region": {"abbr": "CA", "name": "California"}, "locality": "Cayucos", "lng": -120.88947, "zip_code": "93430"}
+{"locality": "Cayucos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cayucos"], "postal_code": "93430", "lat": 35.459347, "lng": -120.88947, "type": "STANDARD", "counties": [{"fips": "079", "name": "San Luis Obispo"}]}

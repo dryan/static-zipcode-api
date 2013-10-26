@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.693219, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Rufus", "lng": -120.73221, "zip_code": "97050"});
+zipapicallback({"locality": "Rufus", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Rufus"], "postal_code": "97050", "lat": 45.693219, "lng": -120.73221, "type": "POBOX", "counties": [{"fips": "055", "name": "Sherman"}]});

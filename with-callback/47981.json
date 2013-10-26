@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.246558, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Romney", "lng": -86.91652, "zip_code": "47981"});
+zipapicallback({"locality": "Romney", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Romney"], "postal_code": "47981", "lat": 40.246558, "lng": -86.91652, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tippecanoe"}, {"fips": "107", "name": "Montgomery"}]});

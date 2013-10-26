@@ -1,1 +1,1 @@
-{"lat": 34.466226, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Murrayville", "lng": -83.88442, "zip_code": "30564"}
+{"locality": "Murrayville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Murrayville"], "postal_code": "30564", "lat": 34.466226, "lng": -83.88442, "type": "STANDARD", "counties": [{"fips": "139", "name": "Hall"}, {"fips": "311", "name": "White"}, {"fips": "187", "name": "Lumpkin"}]}

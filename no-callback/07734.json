@@ -1,1 +1,1 @@
-{"lat": 40.444407, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Keansburg", "lng": -74.13298, "zip_code": "07734"}
+{"locality": "Keansburg", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Keansburg"], "postal_code": "07734", "lat": 40.444407, "lng": -74.13298, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

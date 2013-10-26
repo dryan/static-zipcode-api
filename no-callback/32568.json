@@ -1,1 +1,1 @@
-{"lat": 30.878449, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Walnut Hill", "lng": -87.47861, "zip_code": "32568"}
+{"locality": "Mc David", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mc David", "Walnut Hill"], "postal_code": "32568", "lat": 30.878449, "lng": -87.47861, "type": "STANDARD", "counties": [{"fips": "033", "name": "Escambia"}]}

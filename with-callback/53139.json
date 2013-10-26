@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.691937, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Kansasville", "lng": -88.12599, "zip_code": "53139"});
+zipapicallback({"locality": "Kansasville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kansasville"], "postal_code": "53139", "lat": 42.691937, "lng": -88.12599, "type": "STANDARD", "counties": [{"fips": "101", "name": "Racine"}, {"fips": "059", "name": "Kenosha"}]});

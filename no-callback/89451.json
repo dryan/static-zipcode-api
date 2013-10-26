@@ -1,1 +1,1 @@
-{"lat": 39.245257, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Incline Village", "lng": -119.95204, "zip_code": "89451"}
+{"locality": "Incline Village", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Incline Village", "Incline Vlg"], "postal_code": "89451", "lat": 39.245257, "lng": -119.95204, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]}

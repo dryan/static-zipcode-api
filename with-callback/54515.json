@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.536545, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Catawba", "lng": -90.50935, "zip_code": "54515"});
+zipapicallback({"locality": "Catawba", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Catawba"], "postal_code": "54515", "lat": 45.536545, "lng": -90.50935, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.952724, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Moscow Mills", "lng": -90.89199, "zip_code": "63362"}
+{"locality": "Moscow Mills", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Moscow Mills"], "postal_code": "63362", "lat": 38.952724, "lng": -90.89199, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}]}

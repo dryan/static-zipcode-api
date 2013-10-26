@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.137661, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ocean Reef", "lng": -80.40735, "zip_code": "33037"});
+zipapicallback({"locality": "Key Largo", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Key Largo"], "postal_code": "33037", "lat": 25.137661, "lng": -80.40735, "type": "STANDARD", "counties": [{"fips": "087", "name": "Monroe"}]});

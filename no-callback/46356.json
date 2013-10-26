@@ -1,1 +1,1 @@
-{"lat": 41.269789, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lowell", "lng": -87.41353, "zip_code": "46356"}
+{"locality": "Lowell", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lowell"], "postal_code": "46356", "lat": 41.269789, "lng": -87.41353, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]}

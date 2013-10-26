@@ -1,1 +1,1 @@
-{"lat": 35.871, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Thomasville", "lng": -80.08603, "zip_code": "27360"}
+{"locality": "Thomasville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Thomasville"], "postal_code": "27360", "lat": 35.871, "lng": -80.08603, "type": "STANDARD", "counties": [{"fips": "057", "name": "Davidson"}, {"fips": "151", "name": "Randolph"}, {"fips": "081", "name": "Guilford"}]}

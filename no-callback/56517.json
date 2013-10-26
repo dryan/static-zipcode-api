@@ -1,1 +1,1 @@
-{"lat": 47.55171, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Beltrami", "lng": -96.53492, "zip_code": "56517"}
+{"locality": "Beltrami", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Beltrami"], "postal_code": "56517", "lat": 47.55171, "lng": -96.53492, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}, {"fips": "107", "name": "Norman"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.465251, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Lynn", "lng": -87.80112, "zip_code": "60932"}
+{"locality": "East Lynn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["East Lynn"], "postal_code": "60932", "lat": 40.465251, "lng": -87.80112, "type": "POBOX", "counties": [{"fips": "183", "name": "Vermilion"}]}

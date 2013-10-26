@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.056611, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Gaastra", "lng": -88.59396, "zip_code": "49927"});
+zipapicallback({"locality": "Gaastra", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Gaastra"], "postal_code": "49927", "lat": 46.056611, "lng": -88.59396, "type": "STANDARD", "counties": [{"fips": "071", "name": "Iron"}]});

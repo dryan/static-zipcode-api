@@ -1,1 +1,1 @@
-{"lat": 40.316876, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Marlboro", "lng": -74.26112, "zip_code": "07746"}
+{"locality": "Marlboro", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Marlboro"], "postal_code": "07746", "lat": 40.316876, "lng": -74.26112, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

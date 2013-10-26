@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.744844, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mc Cool Junction", "lng": -97.58296, "zip_code": "68401"});
+zipapicallback({"locality": "Mc Cool Junction", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mc Cool Jct", "Mc Cool Junction"], "postal_code": "68401", "lat": 40.744844, "lng": -97.58296, "type": "STANDARD", "counties": [{"fips": "185", "name": "York"}]});

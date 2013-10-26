@@ -1,1 +1,1 @@
-{"lat": 38.951694, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Fillmore", "lng": -112.31666, "zip_code": "84631"}
+{"locality": "Fillmore", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fillmore"], "postal_code": "84631", "lat": 38.951694, "lng": -112.31666, "type": "STANDARD", "counties": [{"fips": "027", "name": "Millard"}]}

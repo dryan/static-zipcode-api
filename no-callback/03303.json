@@ -1,1 +1,1 @@
-{"lat": 43.283796, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Boscawen", "lng": -71.63832, "zip_code": "03303"}
+{"locality": "Concord", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Boscawen", "Concord", "Penacook", "Webster"], "postal_code": "03303", "lat": 43.283796, "lng": -71.63832, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]}

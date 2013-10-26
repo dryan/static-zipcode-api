@@ -1,1 +1,1 @@
-{"lat": 40.749545, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cherryville", "lng": -75.53855, "zip_code": "18035"}
+{"locality": "Cherryville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cherryville"], "postal_code": "18035", "lat": 40.749545, "lng": -75.53855, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}]}

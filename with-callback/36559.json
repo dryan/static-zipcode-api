@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.564701, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Montrose", "lng": -87.90216, "zip_code": "36559"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Montrose"], "postal_code": "36559", "lat": 30.564701, "lng": -87.90216, "type": "POBOX", "counties": [{"fips": "003", "name": "Baldwin"}]});

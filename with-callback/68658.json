@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.192785, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Rising City", "lng": -97.29532, "zip_code": "68658"});
+zipapicallback({"locality": "Rising City", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Rising City"], "postal_code": "68658", "lat": 41.192785, "lng": -97.29532, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}, {"fips": "143", "name": "Polk"}]});

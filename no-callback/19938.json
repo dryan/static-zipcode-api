@@ -1,1 +1,1 @@
-{"lat": 39.265066, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Clayton", "lng": -75.6807, "zip_code": "19938"}
+{"locality": "Clayton", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Clayton"], "postal_code": "19938", "lat": 39.265066, "lng": -75.6807, "type": "STANDARD", "counties": [{"fips": "001", "name": "Kent"}]}

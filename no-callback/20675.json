@@ -1,1 +1,1 @@
-{"lat": 38.58215, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Pomfret", "lng": -77.01739, "zip_code": "20675"}
+{"locality": "Pomfret", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Pomfret"], "postal_code": "20675", "lat": 38.58215, "lng": -77.01739, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

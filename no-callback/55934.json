@@ -1,1 +1,1 @@
-{"lat": 44.006609, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Viola", "lng": -92.24856, "zip_code": "55934"}
+{"locality": "Eyota", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eyota", "Viola"], "postal_code": "55934", "lat": 44.006609, "lng": -92.24856, "type": "STANDARD", "counties": [{"fips": "109", "name": "Olmsted"}]}

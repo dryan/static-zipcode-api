@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.480151, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Monroe", "lng": -85.20656, "zip_code": "38573"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Monroe"], "postal_code": "38573", "lat": 36.480151, "lng": -85.20656, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}, {"fips": "137", "name": "Pickett"}]});

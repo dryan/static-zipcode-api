@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.509556, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Syria", "lng": -78.33721, "zip_code": "22743"});
+zipapicallback({"locality": "Syria", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Syria"], "postal_code": "22743", "lat": 38.509556, "lng": -78.33721, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

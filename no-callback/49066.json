@@ -1,1 +1,1 @@
-{"lat": 42.037422, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Leonidas", "lng": -85.35683, "zip_code": "49066"}
+{"locality": "Leonidas", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Leonidas"], "postal_code": "49066", "lat": 42.037422, "lng": -85.35683, "type": "STANDARD", "counties": [{"fips": "149", "name": "St. Joseph"}]}

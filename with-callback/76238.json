@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.491311, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Era", "lng": -97.39136, "zip_code": "76238"});
+zipapicallback({"locality": "Era", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Era"], "postal_code": "76238", "lat": 33.491311, "lng": -97.39136, "type": "STANDARD", "counties": [{"fips": "097", "name": "Cooke"}]});

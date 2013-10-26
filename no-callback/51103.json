@@ -1,1 +1,1 @@
-{"lat": 42.505387, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sioux City", "lng": -96.4293, "zip_code": "51103"}
+{"locality": "Sioux City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sioux City"], "postal_code": "51103", "lat": 42.505387, "lng": -96.4293, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]}

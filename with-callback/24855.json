@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.409655, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kyle", "lng": -81.42559, "zip_code": "24855"});
+zipapicallback({"locality": "Kyle", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kyle"], "postal_code": "24855", "lat": 37.409655, "lng": -81.42559, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]});

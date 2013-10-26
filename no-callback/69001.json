@@ -1,1 +1,1 @@
-{"lat": 40.225039, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mc Cook", "lng": -100.63052, "zip_code": "69001"}
+{"locality": "Mc Cook", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mc Cook", "Mccook"], "postal_code": "69001", "lat": 40.225039, "lng": -100.63052, "type": "STANDARD", "counties": [{"fips": "145", "name": "Red Willow"}, {"fips": "063", "name": "Frontier"}, {"fips": "085", "name": "Hayes"}, {"fips": "087", "name": "Hitchcock"}]}

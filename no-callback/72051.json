@@ -1,1 +1,1 @@
-{"lat": 35.814005, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Fox", "lng": -92.32243, "zip_code": "72051"}
+{"locality": "Fox", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Fox"], "postal_code": "72051", "lat": 35.814005, "lng": -92.32243, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stone"}]}

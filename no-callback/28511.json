@@ -1,1 +1,1 @@
-{"lat": 34.887266, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Atlantic", "lng": -76.33033, "zip_code": "28511"}
+{"locality": "Atlantic", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Atlantic"], "postal_code": "28511", "lat": 34.887266, "lng": -76.33033, "type": "STANDARD", "counties": [{"fips": "031", "name": "Carteret"}]}

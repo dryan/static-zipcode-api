@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.730747, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dover", "lng": -83.88762, "zip_code": "41034"});
+zipapicallback({"locality": "Dover", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dover"], "postal_code": "41034", "lat": 38.730747, "lng": -83.88762, "type": "STANDARD", "counties": [{"fips": "161", "name": "Mason"}]});

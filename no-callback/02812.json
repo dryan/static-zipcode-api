@@ -1,1 +1,1 @@
-{"lat": 41.46603, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Richmond", "lng": -71.66408, "zip_code": "02812"}
+{"locality": "Carolina", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Carolina", "Richmond"], "postal_code": "02812", "lat": 41.46603, "lng": -71.66408, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]}

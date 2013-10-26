@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.802821, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Dixie", "lng": -83.69126, "zip_code": "31629"});
+zipapicallback({"locality": "Dixie", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dixie"], "postal_code": "31629", "lat": 30.802821, "lng": -83.69126, "type": "STANDARD", "counties": [{"fips": "027", "name": "Brooks"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.798476, "region": {"abbr": "NY", "name": "New York"}, "locality": "Liberty", "lng": -74.7361, "zip_code": "12754"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Liberty"], "postal_code": "12754", "lat": 41.798476, "lng": -74.7361, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

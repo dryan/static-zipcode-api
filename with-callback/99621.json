@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.810509, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kwethluk", "lng": -161.4219, "zip_code": "99621"});
+zipapicallback({"locality": "Kwethluk", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kwethluk"], "postal_code": "99621", "lat": 60.810509, "lng": -161.4219, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

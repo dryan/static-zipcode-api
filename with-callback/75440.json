@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.882305, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Emory", "lng": -95.73842, "zip_code": "75440"});
+zipapicallback({"locality": "Emory", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Emory"], "postal_code": "75440", "lat": 32.882305, "lng": -95.73842, "type": "STANDARD", "counties": [{"fips": "379", "name": "Rains"}]});

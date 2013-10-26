@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.292582, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Inkster", "lng": -83.31414, "zip_code": "48141"});
+zipapicallback({"locality": "Inkster", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Inkster"], "postal_code": "48141", "lat": 42.292582, "lng": -83.31414, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]});

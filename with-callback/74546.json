@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.855223, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Haileyville", "lng": -95.57691, "zip_code": "74546"});
+zipapicallback({"locality": "Haileyville", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Haileyville"], "postal_code": "74546", "lat": 34.855223, "lng": -95.57691, "type": "POBOX", "counties": [{"fips": "121", "name": "Pittsburg"}]});

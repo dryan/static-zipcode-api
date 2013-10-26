@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.935483, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "West Olive", "lng": -86.14141, "zip_code": "49460"});
+zipapicallback({"locality": "West Olive", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["West Olive"], "postal_code": "49460", "lat": 42.935483, "lng": -86.14141, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}]});

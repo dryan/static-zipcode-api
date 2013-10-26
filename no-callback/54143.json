@@ -1,1 +1,1 @@
-{"lat": 45.092448, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Marinette", "lng": -87.64929, "zip_code": "54143"}
+{"locality": "Marinette", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Marinette"], "postal_code": "54143", "lat": 45.092448, "lng": -87.64929, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.046869, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Huger", "lng": -79.8097, "zip_code": "29450"}
+{"locality": "Huger", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Huger"], "postal_code": "29450", "lat": 33.046869, "lng": -79.8097, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]}

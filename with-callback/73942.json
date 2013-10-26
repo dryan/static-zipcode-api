@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.739447, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Guymon", "lng": -101.48851, "zip_code": "73942"});
+zipapicallback({"locality": "Guymon", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Guymon"], "postal_code": "73942", "lat": 36.739447, "lng": -101.48851, "type": "STANDARD", "counties": [{"fips": "139", "name": "Texas"}]});

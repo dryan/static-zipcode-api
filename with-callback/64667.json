@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.385432, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Newtown", "lng": -93.33102, "zip_code": "64667"});
+zipapicallback({"locality": "Newtown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Newtown"], "postal_code": "64667", "lat": 40.385432, "lng": -93.33102, "type": "STANDARD", "counties": [{"fips": "211", "name": "Sullivan"}, {"fips": "129", "name": "Mercer"}, {"fips": "171", "name": "Putnam"}]});

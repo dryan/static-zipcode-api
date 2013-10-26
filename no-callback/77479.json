@@ -1,1 +1,1 @@
-{"lat": 29.573345, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sugar Land", "lng": -95.63213, "zip_code": "77479"}
+{"locality": "Sugar Land", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sugar Land"], "postal_code": "77479", "lat": 29.573345, "lng": -95.63213, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}]}

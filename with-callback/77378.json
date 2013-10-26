@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.439428, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Willis", "lng": -95.44677, "zip_code": "77378"});
+zipapicallback({"locality": "Willis", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Willis"], "postal_code": "77378", "lat": 30.439428, "lng": -95.44677, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}, {"fips": "473", "name": "Waller"}, {"fips": "407", "name": "San Jacinto"}, {"fips": "471", "name": "Walker"}]});

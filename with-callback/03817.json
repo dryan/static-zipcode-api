@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.878112, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Chocorua", "lng": -71.22069, "zip_code": "03817"});
+zipapicallback({"locality": "Chocorua", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Chocorua"], "postal_code": "03817", "lat": 43.878112, "lng": -71.22069, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]});

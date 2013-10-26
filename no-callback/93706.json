@@ -1,1 +1,1 @@
-{"lat": 36.691036, "region": {"abbr": "CA", "name": "California"}, "locality": "Easton", "lng": -119.83321, "zip_code": "93706"}
+{"locality": "Fresno", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fresno"], "postal_code": "93706", "lat": 36.691036, "lng": -119.83321, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

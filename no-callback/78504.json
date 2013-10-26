@@ -1,1 +1,1 @@
-{"lat": 26.26273, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mcallen", "lng": -98.23082, "zip_code": "78504"}
+{"locality": "Mcallen", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mcallen"], "postal_code": "78504", "lat": 26.26273, "lng": -98.23082, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]}

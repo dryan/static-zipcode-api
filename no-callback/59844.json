@@ -1,1 +1,1 @@
-{"lat": 48.03036, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Heron", "lng": -115.96844, "zip_code": "59844"}
+{"locality": "Heron", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Heron"], "postal_code": "59844", "lat": 48.03036, "lng": -115.96844, "type": "STANDARD", "counties": [{"fips": "089", "name": "Sanders"}]}

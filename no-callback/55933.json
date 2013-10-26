@@ -1,1 +1,1 @@
-{"lat": 43.65099, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Elkton", "lng": -92.70596, "zip_code": "55933"}
+{"locality": "Elkton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elkton"], "postal_code": "55933", "lat": 43.65099, "lng": -92.70596, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.845229, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Madrid", "lng": -101.5378, "zip_code": "69150"}
+{"locality": "Madrid", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Madrid"], "postal_code": "69150", "lat": 40.845229, "lng": -101.5378, "type": "STANDARD", "counties": [{"fips": "135", "name": "Perkins"}]}

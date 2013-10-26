@@ -1,1 +1,1 @@
-{"lat": 29.369207, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Williston", "lng": -82.49831, "zip_code": "32696"}
+{"locality": "Williston", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Williston"], "postal_code": "32696", "lat": 29.369207, "lng": -82.49831, "type": "STANDARD", "counties": [{"fips": "075", "name": "Levy"}, {"fips": "083", "name": "Marion"}, {"fips": "001", "name": "Alachua"}]}

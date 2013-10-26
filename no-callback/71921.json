@@ -1,1 +1,1 @@
-{"lat": 34.257603, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Amity", "lng": -93.45822, "zip_code": "71921"}
+{"locality": "Amity", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Alpine", "Amity"], "postal_code": "71921", "lat": 34.257603, "lng": -93.45822, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]}

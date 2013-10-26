@@ -1,1 +1,1 @@
-{"lat": 32.042598, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pachuta", "lng": -88.91588, "zip_code": "39347"}
+{"locality": "Pachuta", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Pachuta"], "postal_code": "39347", "lat": 32.042598, "lng": -88.91588, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clarke"}, {"fips": "061", "name": "Jasper"}]}

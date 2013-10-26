@@ -1,1 +1,1 @@
-{"lat": 34.229335, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Antlers", "lng": -95.61603, "zip_code": "74523"}
+{"locality": "Antlers", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Antlers"], "postal_code": "74523", "lat": 34.229335, "lng": -95.61603, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}, {"fips": "023", "name": "Choctaw"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.154118, "region": {"abbr": "CA", "name": "California"}, "locality": "Woodbridge", "lng": -121.306, "zip_code": "95258"}
+{"locality": "Woodbridge", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Woodbridge"], "postal_code": "95258", "lat": 38.154118, "lng": -121.306, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

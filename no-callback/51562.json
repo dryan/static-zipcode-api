@@ -1,1 +1,1 @@
-{"lat": 41.725547, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Panama", "lng": -95.49415, "zip_code": "51562"}
+{"locality": "Panama", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Panama"], "postal_code": "51562", "lat": 41.725547, "lng": -95.49415, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}]}

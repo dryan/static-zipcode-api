@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.975495, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Attleboro", "lng": -71.33086, "zip_code": "02760"});
+zipapicallback({"locality": "North Attleboro", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["N Attleboro", "North Attleboro"], "postal_code": "02760", "lat": 41.975495, "lng": -71.33086, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

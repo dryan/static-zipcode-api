@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.055293, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Gilsum", "lng": -72.26149, "zip_code": "03448"});
+zipapicallback({"locality": "Gilsum", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Gilsum"], "postal_code": "03448", "lat": 43.055293, "lng": -72.26149, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]});

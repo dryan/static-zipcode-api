@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.810803, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pleasant Hill", "lng": -93.5082, "zip_code": "71065"});
+zipapicallback({"locality": "Pleasant Hill", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pleasant Hill"], "postal_code": "71065", "lat": 31.810803, "lng": -93.5082, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sabine"}, {"fips": "069", "name": "Natchitoches"}, {"fips": "031", "name": "De Soto"}]});

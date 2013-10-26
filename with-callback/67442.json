@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.660286, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Falun", "lng": -97.75005, "zip_code": "67442"});
+zipapicallback({"locality": "Falun", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Falun"], "postal_code": "67442", "lat": 38.660286, "lng": -97.75005, "type": "STANDARD", "counties": [{"fips": "169", "name": "Saline"}]});

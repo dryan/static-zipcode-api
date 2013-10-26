@@ -1,1 +1,1 @@
-{"lat": 40.188405, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Alum Bank", "lng": -78.63027, "zip_code": "15521"}
+{"locality": "Alum Bank", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Alum Bank"], "postal_code": "15521", "lat": 40.188405, "lng": -78.63027, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]}

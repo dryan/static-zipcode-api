@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.777647, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Orleans", "lng": -69.97312, "zip_code": "02653"});
+zipapicallback({"locality": "Orleans", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Orleans"], "postal_code": "02653", "lat": 41.777647, "lng": -69.97312, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

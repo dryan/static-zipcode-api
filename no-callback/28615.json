@@ -1,1 +1,1 @@
-{"lat": 36.455882, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Creston", "lng": -81.65141, "zip_code": "28615"}
+{"locality": "Creston", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Creston"], "postal_code": "28615", "lat": 36.455882, "lng": -81.65141, "type": "STANDARD", "counties": [{"fips": "009", "name": "Ashe"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.055467, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bird In Hand", "lng": -76.19149, "zip_code": "17505"});
+zipapicallback({"locality": "Bird In Hand", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bird In Hand"], "postal_code": "17505", "lat": 40.055467, "lng": -76.19149, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

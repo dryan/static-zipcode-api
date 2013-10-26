@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.430739, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Ree Heights", "lng": -99.22041, "zip_code": "57371"});
+zipapicallback({"locality": "Ree Heights", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Ree Heights"], "postal_code": "57371", "lat": 44.430739, "lng": -99.22041, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hand"}]});

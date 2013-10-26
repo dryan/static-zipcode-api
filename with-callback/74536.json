@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.590491, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Clayton", "lng": -95.36797, "zip_code": "74536"});
+zipapicallback({"locality": "Clayton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Clayton"], "postal_code": "74536", "lat": 34.590491, "lng": -95.36797, "type": "STANDARD", "counties": [{"fips": "127", "name": "Pushmataha"}, {"fips": "077", "name": "Latimer"}, {"fips": "121", "name": "Pittsburg"}]});

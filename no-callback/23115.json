@@ -1,1 +1,1 @@
-{"lat": 37.826347, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Millers Tavern", "lng": -76.87751, "zip_code": "23115"}
+{"locality": "Millers Tavern", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Millers Tavern", "Millers Tavrn"], "postal_code": "23115", "lat": 37.826347, "lng": -76.87751, "type": "POBOX", "counties": [{"fips": "057", "name": "Essex"}]}

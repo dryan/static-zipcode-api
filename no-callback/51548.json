@@ -1,1 +1,1 @@
-{"lat": 41.307465, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mc Clelland", "lng": -95.62675, "zip_code": "51548"}
+{"locality": "Mc Clelland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mc Clelland"], "postal_code": "51548", "lat": 41.307465, "lng": -95.62675, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]}

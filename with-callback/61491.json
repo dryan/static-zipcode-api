@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.068691, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wyoming", "lng": -89.76033, "zip_code": "61491"});
+zipapicallback({"locality": "Wyoming", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wyoming"], "postal_code": "61491", "lat": 41.068691, "lng": -89.76033, "type": "STANDARD", "counties": [{"fips": "175", "name": "Stark"}, {"fips": "123", "name": "Marshall"}]});

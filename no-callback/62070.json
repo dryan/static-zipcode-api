@@ -1,1 +1,1 @@
-{"lat": 39.328077, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mozier", "lng": -90.76896, "zip_code": "62070"}
+{"locality": "Mozier", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mozier"], "postal_code": "62070", "lat": 39.328077, "lng": -90.76896, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

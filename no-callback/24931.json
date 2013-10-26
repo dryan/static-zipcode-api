@@ -1,1 +1,1 @@
-{"lat": 37.901788, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Crawley", "lng": -80.59452, "zip_code": "24931"}
+{"locality": "Crawley", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Clintonville", "Crawley", "Kieffer", "Sam Black"], "postal_code": "24931", "lat": 37.901788, "lng": -80.59452, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]}

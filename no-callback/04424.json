@@ -1,1 +1,1 @@
-{"lat": 45.679453, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Danforth", "lng": -67.86208, "zip_code": "04424"}
+{"locality": "Danforth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Danforth", "Weston"], "postal_code": "04424", "lat": 45.679453, "lng": -67.86208, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}, {"fips": "029", "name": "Washington"}]}

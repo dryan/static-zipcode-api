@@ -1,1 +1,1 @@
-{"lat": 43.072732, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hospers", "lng": -95.89855, "zip_code": "51238"}
+{"locality": "Hospers", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hospers"], "postal_code": "51238", "lat": 43.072732, "lng": -95.89855, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sioux"}]}

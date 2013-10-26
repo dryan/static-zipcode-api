@@ -1,1 +1,1 @@
-{"lat": 30.082131, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Prairie View", "lng": -95.99178, "zip_code": "77446"}
+{"locality": "Prairie View", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Prairie View"], "postal_code": "77446", "lat": 30.082131, "lng": -95.99178, "type": "POBOX", "counties": [{"fips": "473", "name": "Waller"}]}

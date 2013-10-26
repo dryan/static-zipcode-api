@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.303414, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Uno", "lng": -78.28937, "zip_code": "22738"});
+zipapicallback({"locality": "Rochelle", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rochelle", "Uno"], "postal_code": "22738", "lat": 38.303414, "lng": -78.28937, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

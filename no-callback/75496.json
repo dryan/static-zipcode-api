@@ -1,1 +1,1 @@
-{"lat": 33.350543, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wolfe City", "lng": -96.05705, "zip_code": "75496"}
+{"locality": "Wolfe City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wolfe City"], "postal_code": "75496", "lat": 33.350543, "lng": -96.05705, "type": "STANDARD", "counties": [{"fips": "231", "name": "Hunt"}]}

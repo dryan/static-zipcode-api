@@ -1,1 +1,1 @@
-{"lat": 43.83178, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Thetford Center", "lng": -72.27125, "zip_code": "05075"}
+{"locality": "Thetford Center", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Thetford Center", "Thetford Ctr"], "postal_code": "05075", "lat": 43.83178, "lng": -72.27125, "type": "STANDARD", "counties": [{"fips": "017", "name": "Orange"}]}

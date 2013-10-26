@@ -1,1 +1,1 @@
-{"lat": 39.768218, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Landenberg", "lng": -75.78759, "zip_code": "19350"}
+{"locality": "Landenberg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Landenberg"], "postal_code": "19350", "lat": 39.768218, "lng": -75.78759, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]}

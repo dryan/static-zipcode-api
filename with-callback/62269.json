@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.589849, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Shiloh", "lng": -89.91207, "zip_code": "62269"});
+zipapicallback({"locality": "O Fallon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Belleville", "O Fallon", "Shiloh"], "postal_code": "62269", "lat": 38.589849, "lng": -89.91207, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]});

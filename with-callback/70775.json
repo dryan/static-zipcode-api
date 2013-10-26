@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.857355, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Bains", "lng": -91.37308, "zip_code": "70775"});
+zipapicallback({"locality": "Saint Francisville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bains", "Hardwood", "Saint Francisville", "St Francisvle"], "postal_code": "70775", "lat": 30.857355, "lng": -91.37308, "type": "STANDARD", "counties": [{"fips": "125", "name": "West Feliciana"}]});

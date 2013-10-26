@@ -1,1 +1,1 @@
-{"lat": 41.44996, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Genoa", "lng": -97.75199, "zip_code": "68640"}
+{"locality": "Genoa", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Genoa"], "postal_code": "68640", "lat": 41.44996, "lng": -97.75199, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nance"}, {"fips": "141", "name": "Platte"}, {"fips": "121", "name": "Merrick"}]}

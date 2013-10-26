@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.671826, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Madden", "lng": -89.3324, "zip_code": "39109"});
+zipapicallback({"locality": "Madden", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Madden"], "postal_code": "39109", "lat": 32.671826, "lng": -89.3324, "type": "POBOX", "counties": [{"fips": "079", "name": "Leake"}]});

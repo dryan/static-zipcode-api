@@ -1,1 +1,1 @@
-{"lat": 43.198014, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Melvin", "lng": -82.82558, "zip_code": "48454"}
+{"locality": "Melvin", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Melvin"], "postal_code": "48454", "lat": 43.198014, "lng": -82.82558, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}, {"fips": "157", "name": "Tuscola"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.093269, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Pendroy", "lng": -112.30254, "zip_code": "59467"}
+{"locality": "Pendroy", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Pendroy"], "postal_code": "59467", "lat": 48.093269, "lng": -112.30254, "type": "STANDARD", "counties": [{"fips": "099", "name": "Teton"}]}

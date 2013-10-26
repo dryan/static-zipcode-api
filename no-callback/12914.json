@@ -1,1 +1,1 @@
-{"lat": 44.927856, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bombay", "lng": -74.60211, "zip_code": "12914"}
+{"locality": "Bombay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bombay"], "postal_code": "12914", "lat": 44.927856, "lng": -74.60211, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}, {"fips": "089", "name": "St. Lawrence"}]}

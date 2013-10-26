@@ -1,1 +1,1 @@
-{"lat": 43.642631, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Maplewood", "lng": -70.91218, "zip_code": "04095"}
+{"locality": "West Newfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["West Newfield"], "postal_code": "04095", "lat": 43.642631, "lng": -70.91218, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.792118, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Elkhart", "lng": -93.52595, "zip_code": "50073"});
+zipapicallback({"locality": "Elkhart", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Elkhart"], "postal_code": "50073", "lat": 41.792118, "lng": -93.52595, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]});

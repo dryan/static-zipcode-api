@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.810757, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lovely", "lng": -82.39411, "zip_code": "41231"});
+zipapicallback({"locality": "Lovely", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lovely"], "postal_code": "41231", "lat": 37.810757, "lng": -82.39411, "type": "STANDARD", "counties": [{"fips": "159", "name": "Martin"}]});

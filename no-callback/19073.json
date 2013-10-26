@@ -1,1 +1,1 @@
-{"lat": 39.98451, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Newtown Square", "lng": -75.41265, "zip_code": "19073"}
+{"locality": "Newtown Square", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Newtown Sq", "Newtown Square"], "postal_code": "19073", "lat": 39.98451, "lng": -75.41265, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

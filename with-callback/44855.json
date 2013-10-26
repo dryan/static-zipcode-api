@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.100202, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Fairfield", "lng": -82.60887, "zip_code": "44855"});
+zipapicallback({"locality": "North Fairfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["N Fairfield", "North Fairfield"], "postal_code": "44855", "lat": 41.100202, "lng": -82.60887, "type": "STANDARD", "counties": [{"fips": "077", "name": "Huron"}, {"fips": "007", "name": "Ashtabula"}]});

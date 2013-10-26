@@ -1,1 +1,1 @@
-{"lat": 33.957713, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Statham", "lng": -83.58491, "zip_code": "30666"}
+{"locality": "Statham", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Statham"], "postal_code": "30666", "lat": 33.957713, "lng": -83.58491, "type": "STANDARD", "counties": [{"fips": "013", "name": "Barrow"}, {"fips": "219", "name": "Oconee"}, {"fips": "157", "name": "Jackson"}]}

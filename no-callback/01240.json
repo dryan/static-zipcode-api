@@ -1,1 +1,1 @@
-{"lat": 42.36237, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Lenox", "lng": -73.27683, "zip_code": "01240"}
+{"locality": "Lenox", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Lenox"], "postal_code": "01240", "lat": 42.36237, "lng": -73.27683, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

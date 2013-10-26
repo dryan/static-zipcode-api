@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.327307, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Glencoe", "lng": -91.72234, "zip_code": "72539"});
+zipapicallback({"locality": "Glencoe", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Glencoe"], "postal_code": "72539", "lat": 36.327307, "lng": -91.72234, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fulton"}]});

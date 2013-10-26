@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.727073, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Roxbury", "lng": -70.6478, "zip_code": "04275"});
+zipapicallback({"locality": "Roxbury", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Byron", "Roxbury"], "postal_code": "04275", "lat": 44.727073, "lng": -70.6478, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

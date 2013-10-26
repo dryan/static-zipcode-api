@@ -1,1 +1,1 @@
-{"lat": 40.430919, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Squirrel Hill", "lng": -79.92569, "zip_code": "15217"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh", "Squirrel Hill"], "postal_code": "15217", "lat": 40.430919, "lng": -79.92569, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.618822, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Pomona", "lng": -89.3617, "zip_code": "62975"}
+{"locality": "Pomona", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Pomona"], "postal_code": "62975", "lat": 37.618822, "lng": -89.3617, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]}

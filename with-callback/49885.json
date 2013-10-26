@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.356104, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Skandia", "lng": -87.25211, "zip_code": "49885"});
+zipapicallback({"locality": "Skandia", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Skandia"], "postal_code": "49885", "lat": 46.356104, "lng": -87.25211, "type": "STANDARD", "counties": [{"fips": "103", "name": "Marquette"}, {"fips": "003", "name": "Alger"}]});

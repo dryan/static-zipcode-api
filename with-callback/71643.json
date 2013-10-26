@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.004537, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gould", "lng": -91.5784, "zip_code": "71643"});
+zipapicallback({"locality": "Gould", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gould"], "postal_code": "71643", "lat": 34.004537, "lng": -91.5784, "type": "STANDARD", "counties": [{"fips": "079", "name": "Lincoln"}]});

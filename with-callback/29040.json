@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.029407, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Dalzell", "lng": -80.44405, "zip_code": "29040"});
+zipapicallback({"locality": "Dalzell", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Dalzell"], "postal_code": "29040", "lat": 34.029407, "lng": -80.44405, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sumter"}, {"fips": "061", "name": "Lee"}]});

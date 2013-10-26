@@ -1,1 +1,1 @@
-{"lat": 36.701855, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "South Boston", "lng": -78.92008, "zip_code": "24592"}
+{"locality": "South Boston", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["South Boston", "Turbeville"], "postal_code": "24592", "lat": 36.701855, "lng": -78.92008, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.429061, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Urich", "lng": -94.00494, "zip_code": "64788"});
+zipapicallback({"locality": "Urich", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Urich"], "postal_code": "64788", "lat": 38.429061, "lng": -94.00494, "type": "STANDARD", "counties": [{"fips": "083", "name": "Henry"}, {"fips": "013", "name": "Bates"}]});

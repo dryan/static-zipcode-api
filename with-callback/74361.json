@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.294174, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Pryor", "lng": -95.30295, "zip_code": "74361"});
+zipapicallback({"locality": "Pryor", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Pryor", "Sportsmen Acres", "Sprtsmn Acres"], "postal_code": "74361", "lat": 36.294174, "lng": -95.30295, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mayes"}]});

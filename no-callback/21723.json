@@ -1,1 +1,1 @@
-{"lat": 39.319271, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Cooksville", "lng": -77.02397, "zip_code": "21723"}
+{"locality": "Cooksville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Cooksville"], "postal_code": "21723", "lat": 39.319271, "lng": -77.02397, "type": "STANDARD", "counties": [{"fips": "027", "name": "Howard"}]}

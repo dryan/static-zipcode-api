@@ -1,1 +1,1 @@
-{"lat": 33.639658, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ellenwood", "lng": -84.26822, "zip_code": "30294"}
+{"locality": "Ellenwood", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ellenwood"], "postal_code": "30294", "lat": 33.639658, "lng": -84.26822, "type": "STANDARD", "counties": []}

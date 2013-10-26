@@ -1,1 +1,1 @@
-{"lat": 41.443244, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sheakleyville", "lng": -80.2073, "zip_code": "16151"}
+{"locality": "Sheakleyville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sheakleyville"], "postal_code": "16151", "lat": 41.443244, "lng": -80.2073, "type": "POBOX", "counties": [{"fips": "085", "name": "Mercer"}]}

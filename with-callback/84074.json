@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.560528, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Tooele", "lng": -112.29455, "zip_code": "84074"});
+zipapicallback({"locality": "Tooele", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Erda", "Lake Point", "Stansbury Park", "Stansbury Pk", "Tooele"], "postal_code": "84074", "lat": 40.560528, "lng": -112.29455, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]});

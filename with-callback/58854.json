@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.835713, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Watford City", "lng": -103.22565, "zip_code": "58854"});
+zipapicallback({"locality": "Watford City", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Watford City"], "postal_code": "58854", "lat": 47.835713, "lng": -103.22565, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}]});

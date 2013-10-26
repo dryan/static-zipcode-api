@@ -1,1 +1,1 @@
-{"lat": 47.702771, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Leonard", "lng": -95.22132, "zip_code": "56652"}
+{"locality": "Leonard", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Leonard"], "postal_code": "56652", "lat": 47.702771, "lng": -95.22132, "type": "STANDARD", "counties": [{"fips": "029", "name": "Clearwater"}, {"fips": "007", "name": "Beltrami"}]}

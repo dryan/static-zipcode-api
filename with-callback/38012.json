@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.590558, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Brownsville", "lng": -89.2609, "zip_code": "38012"});
+zipapicallback({"locality": "Brownsville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Brownsville"], "postal_code": "38012", "lat": 35.590558, "lng": -89.2609, "type": "STANDARD", "counties": [{"fips": "075", "name": "Haywood"}]});

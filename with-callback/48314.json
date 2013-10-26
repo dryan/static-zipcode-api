@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.609789, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sterling Heights", "lng": -83.04844, "zip_code": "48314"});
+zipapicallback({"locality": "Sterling Heights", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sterling Heights", "Sterling Hts"], "postal_code": "48314", "lat": 42.609789, "lng": -83.04844, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 47.735065, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Suquamish", "lng": -122.55751, "zip_code": "98392"}
+{"locality": "Suquamish", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Suquamish"], "postal_code": "98392", "lat": 47.735065, "lng": -122.55751, "type": "STANDARD", "counties": [{"fips": "035", "name": "Kitsap"}]}

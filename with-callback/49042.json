@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.847413, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Constantine", "lng": -85.66411, "zip_code": "49042"});
+zipapicallback({"locality": "Constantine", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Constantine"], "postal_code": "49042", "lat": 41.847413, "lng": -85.66411, "type": "STANDARD", "counties": [{"fips": "149", "name": "St. Joseph"}]});

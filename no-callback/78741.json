@@ -1,1 +1,1 @@
-{"lat": 30.231252, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Austin", "lng": -97.716, "zip_code": "78741"}
+{"locality": "Austin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Austin"], "postal_code": "78741", "lat": 30.231252, "lng": -97.716, "type": "STANDARD", "counties": [{"fips": "453", "name": "Travis"}]}

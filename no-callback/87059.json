@@ -1,1 +1,1 @@
-{"lat": 35.017604, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tijeras", "lng": -106.31044, "zip_code": "87059"}
+{"locality": "Tijeras", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tijeras"], "postal_code": "87059", "lat": 35.017604, "lng": -106.31044, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bernalillo"}]}

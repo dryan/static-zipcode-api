@@ -1,1 +1,1 @@
-{"lat": 38.997511, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Cape Saint Clair", "lng": -76.49803, "zip_code": "21401"}
+{"locality": "Annapolis", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Annapolis", "Cape Saint Claire", "Cpe St Claire"], "postal_code": "21401", "lat": 38.997511, "lng": -76.49803, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

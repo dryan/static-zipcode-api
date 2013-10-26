@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.686731, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Cherryfield", "lng": -67.99166, "zip_code": "04622"});
+zipapicallback({"locality": "Cherryfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Beddington", "Cherryfield", "Deblois"], "postal_code": "04622", "lat": 44.686731, "lng": -67.99166, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}, {"fips": "009", "name": "Hancock"}]});

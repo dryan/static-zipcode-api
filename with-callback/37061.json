@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.301089, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Erin", "lng": -87.68198, "zip_code": "37061"});
+zipapicallback({"locality": "Erin", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Erin"], "postal_code": "37061", "lat": 36.301089, "lng": -87.68198, "type": "STANDARD", "counties": [{"fips": "083", "name": "Houston"}, {"fips": "161", "name": "Stewart"}, {"fips": "085", "name": "Humphreys"}, {"fips": "125", "name": "Montgomery"}]});

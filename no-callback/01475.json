@@ -1,1 +1,1 @@
-{"lat": 42.675441, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Winchendon", "lng": -72.0467, "zip_code": "01475"}
+{"locality": "Winchendon", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Winchendon"], "postal_code": "01475", "lat": 42.675441, "lng": -72.0467, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

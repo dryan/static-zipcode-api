@@ -1,1 +1,1 @@
-{"lat": 40.777241, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Smithshire", "lng": -90.76454, "zip_code": "61478"}
+{"locality": "Smithshire", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Smithshire"], "postal_code": "61478", "lat": 40.777241, "lng": -90.76454, "type": "STANDARD", "counties": [{"fips": "187", "name": "Warren"}, {"fips": "071", "name": "Henderson"}]}

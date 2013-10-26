@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.93264, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Maywood", "lng": -91.63745, "zip_code": "63454"});
+zipapicallback({"locality": "Maywood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Maywood"], "postal_code": "63454", "lat": 39.93264, "lng": -91.63745, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lewis"}, {"fips": "127", "name": "Marion"}]});

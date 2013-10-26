@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.606697, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hampshire", "lng": -87.33058, "zip_code": "38461"});
+zipapicallback({"locality": "Hampshire", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hampshire"], "postal_code": "38461", "lat": 35.606697, "lng": -87.33058, "type": "STANDARD", "counties": [{"fips": "119", "name": "Maury"}, {"fips": "081", "name": "Hickman"}, {"fips": "101", "name": "Lewis"}]});

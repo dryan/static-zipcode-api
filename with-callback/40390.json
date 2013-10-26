@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.85743, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "High Bridge", "lng": -84.66069, "zip_code": "40390"});
+zipapicallback({"locality": "Wilmore", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Versailles", "Wilmore"], "postal_code": "40390", "lat": 37.85743, "lng": -84.66069, "type": "STANDARD", "counties": [{"fips": "113", "name": "Jessamine"}, {"fips": "239", "name": "Woodford"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.338132, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Nerstrand", "lng": -93.05543, "zip_code": "55053"});
+zipapicallback({"locality": "Nerstrand", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Nerstrand"], "postal_code": "55053", "lat": 44.338132, "lng": -93.05543, "type": "STANDARD", "counties": [{"fips": "131", "name": "Rice"}, {"fips": "049", "name": "Goodhue"}]});

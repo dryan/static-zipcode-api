@@ -1,1 +1,1 @@
-{"lat": 39.718922, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Blacksville", "lng": -80.21137, "zip_code": "26521"}
+{"locality": "Blacksville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Blacksville"], "postal_code": "26521", "lat": 39.718922, "lng": -80.21137, "type": "STANDARD", "counties": [{"fips": "061", "name": "Monongalia"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.86802, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oconto Falls", "lng": -88.16446, "zip_code": "54154"}
+{"locality": "Oconto Falls", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oconto Falls"], "postal_code": "54154", "lat": 44.86802, "lng": -88.16446, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}, {"fips": "115", "name": "Shawano"}]}

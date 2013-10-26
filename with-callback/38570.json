@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.376289, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Livingston", "lng": -85.32585, "zip_code": "38570"});
+zipapicallback({"locality": "Livingston", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Livingston"], "postal_code": "38570", "lat": 36.376289, "lng": -85.32585, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}]});

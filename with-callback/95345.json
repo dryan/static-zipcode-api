@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.576262, "region": {"abbr": "CA", "name": "California"}, "locality": "Midpines", "lng": -119.94865, "zip_code": "95345"});
+zipapicallback({"locality": "Midpines", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Midpines"], "postal_code": "95345", "lat": 37.576262, "lng": -119.94865, "type": "STANDARD", "counties": [{"fips": "043", "name": "Mariposa"}, {"fips": "040", "name": "Mariposa"}]});

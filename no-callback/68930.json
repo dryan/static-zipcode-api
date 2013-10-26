@@ -1,1 +1,1 @@
-{"lat": 40.284783, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Blue Hill", "lng": -98.43446, "zip_code": "68930"}
+{"locality": "Blue Hill", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Blue Hill", "Cowles", "Rosemont"], "postal_code": "68930", "lat": 40.284783, "lng": -98.43446, "type": "STANDARD", "counties": [{"fips": "181", "name": "Webster"}, {"fips": "001", "name": "Adams"}]}

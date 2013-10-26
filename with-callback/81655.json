@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.731182, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Wolcott", "lng": -106.62705, "zip_code": "81655"});
+zipapicallback({"locality": "Wolcott", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Wolcott"], "postal_code": "81655", "lat": 39.731182, "lng": -106.62705, "type": "POBOX", "counties": [{"fips": "037", "name": "Eagle"}]});

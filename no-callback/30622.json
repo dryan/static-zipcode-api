@@ -1,1 +1,1 @@
-{"lat": 33.927792, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bogart", "lng": -83.51552, "zip_code": "30622"}
+{"locality": "Bogart", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bogart"], "postal_code": "30622", "lat": 33.927792, "lng": -83.51552, "type": "STANDARD", "counties": [{"fips": "219", "name": "Oconee"}, {"fips": "059", "name": "Clarke"}, {"fips": "013", "name": "Barrow"}, {"fips": "157", "name": "Jackson"}]}

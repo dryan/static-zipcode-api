@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.641027, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rock View", "lng": -81.53625, "zip_code": "24880"});
+zipapicallback({"locality": "Rock View", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rock View"], "postal_code": "24880", "lat": 37.641027, "lng": -81.53625, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]});

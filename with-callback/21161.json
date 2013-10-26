@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.659671, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "White Hall", "lng": -76.56859, "zip_code": "21161"});
+zipapicallback({"locality": "White Hall", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["White Hall"], "postal_code": "21161", "lat": 39.659671, "lng": -76.56859, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}, {"fips": "005", "name": "Baltimore"}]});

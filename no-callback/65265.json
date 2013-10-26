@@ -1,1 +1,1 @@
-{"lat": 39.179316, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Mexico", "lng": -91.88404, "zip_code": "65265"}
+{"locality": "Mexico", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Mexico"], "postal_code": "65265", "lat": 39.179316, "lng": -91.88404, "type": "STANDARD", "counties": [{"fips": "007", "name": "Audrain"}, {"fips": "027", "name": "Callaway"}, {"fips": "137", "name": "Monroe"}]}

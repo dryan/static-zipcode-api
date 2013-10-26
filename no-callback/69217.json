@@ -1,1 +1,1 @@
-{"lat": 42.519402, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Long Pine", "lng": -99.70826, "zip_code": "69217"}
+{"locality": "Long Pine", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Long Pine"], "postal_code": "69217", "lat": 42.519402, "lng": -99.70826, "type": "STANDARD", "counties": [{"fips": "017", "name": "Brown"}]}

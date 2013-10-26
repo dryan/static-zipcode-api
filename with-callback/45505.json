@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.91086, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Springfield", "lng": -83.78579, "zip_code": "45505"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Springfield"], "postal_code": "45505", "lat": 39.91086, "lng": -83.78579, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "113", "name": "Montgomery"}]});

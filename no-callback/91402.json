@@ -1,1 +1,1 @@
-{"lat": 34.223753, "region": {"abbr": "CA", "name": "California"}, "locality": "Panorama City", "lng": -118.44322, "zip_code": "91402"}
+{"locality": "Panorama City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Panorama City", "Van Nuys"], "postal_code": "91402", "lat": 34.223753, "lng": -118.44322, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

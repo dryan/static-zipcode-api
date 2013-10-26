@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.860179, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Athens", "lng": -87.06231, "zip_code": "35614"});
+zipapicallback({"locality": "Athens", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Athens"], "postal_code": "35614", "lat": 34.860179, "lng": -87.06231, "type": "STANDARD", "counties": []});

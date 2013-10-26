@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.93345, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Preston", "lng": -93.17887, "zip_code": "65732"});
+zipapicallback({"locality": "Preston", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Preston"], "postal_code": "65732", "lat": 37.93345, "lng": -93.17887, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hickory"}, {"fips": "059", "name": "Dallas"}]});

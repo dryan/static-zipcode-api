@@ -1,1 +1,1 @@
-{"lat": 37.610331, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sidney", "lng": -82.36125, "zip_code": "41564"}
+{"locality": "Sidney", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sidney"], "postal_code": "41564", "lat": 37.610331, "lng": -82.36125, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.195361, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Andersonville", "lng": -84.137, "zip_code": "31711"});
+zipapicallback({"locality": "Andersonville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Andersonville"], "postal_code": "31711", "lat": 32.195361, "lng": -84.137, "type": "STANDARD", "counties": [{"fips": "261", "name": "Sumter"}, {"fips": "193", "name": "MacOn"}, {"fips": "249", "name": "Schley"}]});

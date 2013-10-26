@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.920815, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Dallas", "lng": -123.33432, "zip_code": "97338"});
+zipapicallback({"locality": "Dallas", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Dallas"], "postal_code": "97338", "lat": 44.920815, "lng": -123.33432, "type": "STANDARD", "counties": [{"fips": "053", "name": "Polk"}]});

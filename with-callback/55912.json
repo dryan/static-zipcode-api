@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.671988, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Austin", "lng": -92.97908, "zip_code": "55912"});
+zipapicallback({"locality": "Austin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Austin", "Mapleview", "Nicolville"], "postal_code": "55912", "lat": 43.671988, "lng": -92.97908, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}]});

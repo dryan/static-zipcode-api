@@ -1,1 +1,1 @@
-{"lat": 43.381133, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Sunapee", "lng": -72.09028, "zip_code": "03782"}
+{"locality": "Sunapee", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Sunapee"], "postal_code": "03782", "lat": 43.381133, "lng": -72.09028, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]}

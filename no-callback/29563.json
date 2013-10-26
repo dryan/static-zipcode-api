@@ -1,1 +1,1 @@
-{"lat": 34.345437, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Lake View", "lng": -79.18651, "zip_code": "29563"}
+{"locality": "Lake View", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Lake View"], "postal_code": "29563", "lat": 34.345437, "lng": -79.18651, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dillon"}]}

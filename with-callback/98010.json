@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.317802, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Black Diamond", "lng": -122.01479, "zip_code": "98010"});
+zipapicallback({"locality": "Black Diamond", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Black Diamond"], "postal_code": "98010", "lat": 47.317802, "lng": -122.01479, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

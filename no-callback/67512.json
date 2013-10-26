@@ -1,1 +1,1 @@
-{"lat": 38.238827, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Alden", "lng": -98.31957, "zip_code": "67512"}
+{"locality": "Alden", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Alden"], "postal_code": "67512", "lat": 38.238827, "lng": -98.31957, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}, {"fips": "155", "name": "Reno"}]}

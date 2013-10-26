@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.615276, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Bear River City", "lng": -112.12561, "zip_code": "84301"});
+zipapicallback({"locality": "Bear River City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bear River City", "Bear River Cy"], "postal_code": "84301", "lat": 41.615276, "lng": -112.12561, "type": "POBOX", "counties": [{"fips": "003", "name": "Box Elder"}]});

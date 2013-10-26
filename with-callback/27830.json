@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.552162, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Eureka", "lng": -77.9727, "zip_code": "27830"});
+zipapicallback({"locality": "Fremont", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Eureka", "Fremont"], "postal_code": "27830", "lat": 35.552162, "lng": -77.9727, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.888816, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hoosick Falls", "lng": -73.3555, "zip_code": "12090"});
+zipapicallback({"locality": "Hoosick Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hoosick Falls"], "postal_code": "12090", "lat": 42.888816, "lng": -73.3555, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]});

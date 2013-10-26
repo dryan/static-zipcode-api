@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.209815, "region": {"abbr": "CA", "name": "California"}, "locality": "Huron", "lng": -120.0847, "zip_code": "93234"});
+zipapicallback({"locality": "Huron", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Huron"], "postal_code": "93234", "lat": 36.209815, "lng": -120.0847, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

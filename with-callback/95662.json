@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.682803, "region": {"abbr": "CA", "name": "California"}, "locality": "Orangevale", "lng": -121.2231, "zip_code": "95662"});
+zipapicallback({"locality": "Orangevale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orangevale"], "postal_code": "95662", "lat": 38.682803, "lng": -121.2231, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

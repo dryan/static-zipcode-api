@@ -1,1 +1,1 @@
-{"lat": 39.588902, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Auburn", "lng": -89.75177, "zip_code": "62615"}
+{"locality": "Auburn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Auburn"], "postal_code": "62615", "lat": 39.588902, "lng": -89.75177, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]}

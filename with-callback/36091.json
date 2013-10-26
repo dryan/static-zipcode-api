@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.759543, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Verbena", "lng": -86.51111, "zip_code": "36091"});
+zipapicallback({"locality": "Verbena", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Verbena"], "postal_code": "36091", "lat": 32.759543, "lng": -86.51111, "type": "STANDARD", "counties": [{"fips": "021", "name": "Chilton"}, {"fips": "037", "name": "Coosa"}, {"fips": "001", "name": "Autauga"}]});

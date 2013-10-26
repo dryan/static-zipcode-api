@@ -1,1 +1,1 @@
-{"lat": 39.00391, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Greenbelt", "lng": -76.88005, "zip_code": "20770"}
+{"locality": "Greenbelt", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Greenbelt"], "postal_code": "20770", "lat": 39.00391, "lng": -76.88005, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]}

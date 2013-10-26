@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.565642, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Fall City", "lng": -121.88638, "zip_code": "98024"});
+zipapicallback({"locality": "Fall City", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Fall City"], "postal_code": "98024", "lat": 47.565642, "lng": -121.88638, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

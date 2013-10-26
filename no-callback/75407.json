@@ -1,1 +1,1 @@
-{"lat": 33.14572, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Princeton", "lng": -96.49664, "zip_code": "75407"}
+{"locality": "Princeton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Princeton"], "postal_code": "75407", "lat": 33.14572, "lng": -96.49664, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 40.929301, "region": {"abbr": "CA", "name": "California"}, "locality": "Cassel", "lng": -121.55711, "zip_code": "96016"}
+{"locality": "Cassel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cassel"], "postal_code": "96016", "lat": 40.929301, "lng": -121.55711, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]}

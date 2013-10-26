@@ -1,1 +1,1 @@
-{"lat": 41.544584, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Glenwood", "lng": -87.61289, "zip_code": "60425"}
+{"locality": "Glenwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Glenwood"], "postal_code": "60425", "lat": 41.544584, "lng": -87.61289, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

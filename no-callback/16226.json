@@ -1,1 +1,1 @@
-{"lat": 40.747985, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ford City", "lng": -79.51228, "zip_code": "16226"}
+{"locality": "Ford City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ford City"], "postal_code": "16226", "lat": 40.747985, "lng": -79.51228, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]}

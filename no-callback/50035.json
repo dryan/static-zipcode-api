@@ -1,1 +1,1 @@
-{"lat": 41.704455, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bondurant", "lng": -93.46171, "zip_code": "50035"}
+{"locality": "Bondurant", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bondurant"], "postal_code": "50035", "lat": 41.704455, "lng": -93.46171, "type": "STANDARD", "counties": [{"fips": "153", "name": "Polk"}]}

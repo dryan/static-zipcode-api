@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.11576, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milwaukee", "lng": -88.04121, "zip_code": "53225"});
+zipapicallback({"locality": "Milwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Milwaukee", "Wauwatosa"], "postal_code": "53225", "lat": 43.11576, "lng": -88.04121, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]});

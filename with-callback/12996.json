@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.373007, "region": {"abbr": "NY", "name": "New York"}, "locality": "Willsboro", "lng": -73.40668, "zip_code": "12996"});
+zipapicallback({"locality": "Willsboro", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Willsboro"], "postal_code": "12996", "lat": 44.373007, "lng": -73.40668, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]});

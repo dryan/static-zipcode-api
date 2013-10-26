@@ -1,1 +1,1 @@
-{"lat": 41.573818, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "West Liberty", "lng": -91.26586, "zip_code": "52776"}
+{"locality": "West Liberty", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["West Liberty"], "postal_code": "52776", "lat": 41.573818, "lng": -91.26586, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}, {"fips": "031", "name": "Cedar"}, {"fips": "103", "name": "Johnson"}]}

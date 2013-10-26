@@ -1,1 +1,1 @@
-{"lat": 38.778749, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Almont", "lng": -106.62831, "zip_code": "81210"}
+{"locality": "Almont", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Almont"], "postal_code": "81210", "lat": 38.778749, "lng": -106.62831, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gunnison"}]}

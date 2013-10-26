@@ -1,1 +1,1 @@
-{"lat": 38.934414, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Norton", "lng": -79.96518, "zip_code": "26285"}
+{"locality": "Norton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Norton"], "postal_code": "26285", "lat": 38.934414, "lng": -79.96518, "type": "POBOX", "counties": [{"fips": "083", "name": "Randolph"}]}

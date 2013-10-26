@@ -1,1 +1,1 @@
-{"lat": 36.21405, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Delaplaine", "lng": -90.74383, "zip_code": "72425"}
+{"locality": "Delaplaine", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Delaplaine"], "postal_code": "72425", "lat": 36.21405, "lng": -90.74383, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]}

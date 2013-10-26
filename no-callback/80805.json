@@ -1,1 +1,1 @@
-{"lat": 39.302035, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Bethune", "lng": -102.44357, "zip_code": "80805"}
+{"locality": "Bethune", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Bethune"], "postal_code": "80805", "lat": 39.302035, "lng": -102.44357, "type": "STANDARD", "counties": [{"fips": "063", "name": "Kit Carson"}]}

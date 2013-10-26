@@ -1,1 +1,1 @@
-{"lat": 45.271782, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ellison Bay", "lng": -87.04561, "zip_code": "54210"}
+{"locality": "Ellison Bay", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ellison Bay"], "postal_code": "54210", "lat": 45.271782, "lng": -87.04561, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]}

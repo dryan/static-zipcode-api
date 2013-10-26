@@ -1,1 +1,1 @@
-{"lat": 44.029269, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mindoro", "lng": -91.06484, "zip_code": "54644"}
+{"locality": "Mindoro", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mindoro"], "postal_code": "54644", "lat": 44.029269, "lng": -91.06484, "type": "STANDARD", "counties": [{"fips": "063", "name": "La Crosse"}, {"fips": "053", "name": "Jackson"}]}

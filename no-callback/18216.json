@@ -1,1 +1,1 @@
-{"lat": 40.931187, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Beaver Meadows", "lng": -75.91493, "zip_code": "18216"}
+{"locality": "Beaver Meadows", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Beaver Mdws", "Beaver Meadows"], "postal_code": "18216", "lat": 40.931187, "lng": -75.91493, "type": "STANDARD", "counties": [{"fips": "025", "name": "Carbon"}, {"fips": "079", "name": "Luzerne"}]}

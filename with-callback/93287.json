@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.702936, "region": {"abbr": "CA", "name": "California"}, "locality": "Woody", "lng": -118.8844, "zip_code": "93287"});
+zipapicallback({"locality": "Woody", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Woody"], "postal_code": "93287", "lat": 35.702936, "lng": -118.8844, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

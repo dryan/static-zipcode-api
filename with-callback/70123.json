@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.952605, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Harahan", "lng": -90.20536, "zip_code": "70123"});
+zipapicallback({"locality": "New Orleans", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Elmwood", "Harahan", "New Orleans", "River Ridge"], "postal_code": "70123", "lat": 29.952605, "lng": -90.20536, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}, {"fips": "071", "name": "Orleans"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.327984, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Zanesfield", "lng": -83.66884, "zip_code": "43360"});
+zipapicallback({"locality": "Zanesfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Zanesfield"], "postal_code": "43360", "lat": 40.327984, "lng": -83.66884, "type": "STANDARD", "counties": [{"fips": "091", "name": "Logan"}]});

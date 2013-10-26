@@ -1,1 +1,1 @@
-{"lat": 42.467945, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Novi", "lng": -83.51766, "zip_code": "48374"}
+{"locality": "Novi", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Novi"], "postal_code": "48374", "lat": 42.467945, "lng": -83.51766, "type": "STANDARD", "counties": []}

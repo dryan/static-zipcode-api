@@ -1,1 +1,1 @@
-{"lat": 37.844753, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Urbana", "lng": -93.17456, "zip_code": "65767"}
+{"locality": "Urbana", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Urbana"], "postal_code": "65767", "lat": 37.844753, "lng": -93.17456, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dallas"}, {"fips": "167", "name": "Polk"}, {"fips": "085", "name": "Hickory"}]}

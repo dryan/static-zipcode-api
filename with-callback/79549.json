@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.760229, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dermott", "lng": -100.95344, "zip_code": "79549"});
+zipapicallback({"locality": "Snyder", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dermott", "Snyder"], "postal_code": "79549", "lat": 32.760229, "lng": -100.95344, "type": "STANDARD", "counties": [{"fips": "415", "name": "Scurry"}, {"fips": "263", "name": "Kent"}]});

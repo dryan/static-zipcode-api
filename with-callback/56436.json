@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.143679, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Benedict", "lng": -94.68589, "zip_code": "56436"});
+zipapicallback({"locality": "Benedict", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Benedict"], "postal_code": "56436", "lat": 47.143679, "lng": -94.68589, "type": "POBOX", "counties": [{"fips": "057", "name": "Hubbard"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.125583, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mc Rae", "lng": -91.82508, "zip_code": "72102"});
+zipapicallback({"locality": "Mc Rae", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mc Rae"], "postal_code": "72102", "lat": 35.125583, "lng": -91.82508, "type": "STANDARD", "counties": [{"fips": "145", "name": "White"}]});

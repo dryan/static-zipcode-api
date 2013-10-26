@@ -1,1 +1,1 @@
-{"lat": 44.823502, "region": {"abbr": "NY", "name": "New York"}, "locality": "Norfolk", "lng": -74.96875, "zip_code": "13667"}
+{"locality": "Norfolk", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Norfolk"], "postal_code": "13667", "lat": 44.823502, "lng": -74.96875, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

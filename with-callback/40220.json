@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.214982, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Louisville", "lng": -85.62207, "zip_code": "40220"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cambridge", "Houston Acres", "Hurstbourne Acres", "Hurstbrne Acr", "Lincolnshire", "Louisville", "Meadowview Estates", "Meadowvw Ests", "Saint Regis Park", "St Regis Park"], "postal_code": "40220", "lat": 38.214982, "lng": -85.62207, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.378997, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sturgeon", "lng": -80.21184, "zip_code": "15082"});
+zipapicallback({"locality": "Sturgeon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sturgeon"], "postal_code": "15082", "lat": 40.378997, "lng": -80.21184, "type": "POBOX", "counties": [{"fips": "003", "name": "Allegheny"}]});

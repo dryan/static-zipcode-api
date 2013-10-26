@@ -1,1 +1,1 @@
-{"lat": 40.786544, "region": {"abbr": "NY", "name": "New York"}, "locality": "Jericho", "lng": -73.53675, "zip_code": "11753"}
+{"locality": "Jericho", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jericho"], "postal_code": "11753", "lat": 40.786544, "lng": -73.53675, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

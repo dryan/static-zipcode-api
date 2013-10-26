@@ -1,1 +1,1 @@
-{"lat": 39.835369, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Indianapolis", "lng": -85.98635, "zip_code": "46235"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "Oaklandon"], "postal_code": "46235", "lat": 39.835369, "lng": -85.98635, "type": "STANDARD", "counties": []}

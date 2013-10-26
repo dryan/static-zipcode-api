@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.624259, "region": {"abbr": "CA", "name": "California"}, "locality": "Durham", "lng": -121.79152, "zip_code": "95938"});
+zipapicallback({"locality": "Durham", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Durham"], "postal_code": "95938", "lat": 39.624259, "lng": -121.79152, "type": "STANDARD", "counties": [{"fips": "007", "name": "Butte"}]});

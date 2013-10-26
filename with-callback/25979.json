@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.49671, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pipestem", "lng": -80.91401, "zip_code": "25979"});
+zipapicallback({"locality": "Pipestem", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lovern", "Pipestem"], "postal_code": "25979", "lat": 37.49671, "lng": -80.91401, "type": "STANDARD", "counties": [{"fips": "089", "name": "Summers"}, {"fips": "055", "name": "Mercer"}]});

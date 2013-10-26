@@ -1,1 +1,1 @@
-{"lat": 34.242567, "region": {"abbr": "CA", "name": "California"}, "locality": "Crestline", "lng": -117.28654, "zip_code": "92325"}
+{"locality": "Crestline", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Crestline"], "postal_code": "92325", "lat": 34.242567, "lng": -117.28654, "type": "POBOX", "counties": [{"fips": "071", "name": "San Bernardino"}]}

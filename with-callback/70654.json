@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.710561, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mittie", "lng": -92.89081, "zip_code": "70654"});
+zipapicallback({"locality": "Mittie", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mittie"], "postal_code": "70654", "lat": 30.710561, "lng": -92.89081, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]});

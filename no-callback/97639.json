@@ -1,1 +1,1 @@
-{"lat": 42.440695, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Sprague River", "lng": -121.43464, "zip_code": "97639"}
+{"locality": "Sprague River", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Chiloquin", "Sprague River"], "postal_code": "97639", "lat": 42.440695, "lng": -121.43464, "type": "STANDARD", "counties": [{"fips": "035", "name": "Klamath"}]}

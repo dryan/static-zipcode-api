@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.186858, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ledbetter", "lng": -96.78185, "zip_code": "78946"});
+zipapicallback({"locality": "Ledbetter", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ledbetter"], "postal_code": "78946", "lat": 30.186858, "lng": -96.78185, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}, {"fips": "287", "name": "Lee"}, {"fips": "477", "name": "Washington"}]});

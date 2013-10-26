@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.718955, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ellsworth", "lng": -92.46651, "zip_code": "54011"});
+zipapicallback({"locality": "Ellsworth", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ellsworth"], "postal_code": "54011", "lat": 44.718955, "lng": -92.46651, "type": "STANDARD", "counties": [{"fips": "093", "name": "Pierce"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.6949, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Hempstead", "lng": -73.65394, "zip_code": "11552"}
+{"locality": "West Hempstead", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["W Hempstead", "West Hempstead"], "postal_code": "11552", "lat": 40.6949, "lng": -73.65394, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

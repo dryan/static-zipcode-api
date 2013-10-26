@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.578591, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Daleville", "lng": -88.66152, "zip_code": "39326"});
+zipapicallback({"locality": "Daleville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Daleville"], "postal_code": "39326", "lat": 32.578591, "lng": -88.66152, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lauderdale"}, {"fips": "069", "name": "Kemper"}]});

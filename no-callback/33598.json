@@ -1,1 +1,1 @@
-{"lat": 27.693924, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Wimauma", "lng": -82.32758, "zip_code": "33598"}
+{"locality": "Wimauma", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Wimauma"], "postal_code": "33598", "lat": 27.693924, "lng": -82.32758, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}, {"fips": "081", "name": "Manatee"}]}

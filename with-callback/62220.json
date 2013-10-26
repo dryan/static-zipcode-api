@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.50046, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Belleville", "lng": -89.97654, "zip_code": "62220"});
+zipapicallback({"locality": "Belleville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Belleville", "Swansea"], "postal_code": "62220", "lat": 38.50046, "lng": -89.97654, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]});

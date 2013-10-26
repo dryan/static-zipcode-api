@@ -1,1 +1,1 @@
-{"lat": 44.08857, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Lowman", "lng": -115.48797, "zip_code": "83637"}
+{"locality": "Lowman", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Lowman"], "postal_code": "83637", "lat": 44.08857, "lng": -115.48797, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boise"}]}

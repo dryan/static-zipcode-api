@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.346473, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jersey", "lng": -92.31954, "zip_code": "71651"});
+zipapicallback({"locality": "Jersey", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Jersey"], "postal_code": "71651", "lat": 33.346473, "lng": -92.31954, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bradley"}]});

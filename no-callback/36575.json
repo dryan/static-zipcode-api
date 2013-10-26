@@ -1,1 +1,1 @@
-{"lat": 30.76635, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Semmes", "lng": -88.26553, "zip_code": "36575"}
+{"locality": "Semmes", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Semmes"], "postal_code": "36575", "lat": 30.76635, "lng": -88.26553, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

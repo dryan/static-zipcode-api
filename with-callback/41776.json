@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.167173, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Frew", "lng": -83.2852, "zip_code": "41776"});
+zipapicallback({"locality": "Wooton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cinda", "Cutshin", "Frew", "Wooton"], "postal_code": "41776", "lat": 37.167173, "lng": -83.2852, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.127907, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ethel", "lng": -89.46704, "zip_code": "39067"});
+zipapicallback({"locality": "Ethel", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ethel"], "postal_code": "39067", "lat": 33.127907, "lng": -89.46704, "type": "STANDARD", "counties": [{"fips": "007", "name": "Attala"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.517145, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Lauderdale", "lng": -88.51801, "zip_code": "39335"}
+{"locality": "Lauderdale", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Lauderdale"], "postal_code": "39335", "lat": 32.517145, "lng": -88.51801, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lauderdale"}, {"fips": "069", "name": "Kemper"}]}

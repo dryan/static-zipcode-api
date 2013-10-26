@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.918042, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bement", "lng": -88.56139, "zip_code": "61813"});
+zipapicallback({"locality": "Bement", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bement"], "postal_code": "61813", "lat": 39.918042, "lng": -88.56139, "type": "STANDARD", "counties": [{"fips": "147", "name": "Piatt"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.060469, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Salem", "lng": -95.74181, "zip_code": "68433"});
+zipapicallback({"locality": "Salem", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Salem"], "postal_code": "68433", "lat": 40.060469, "lng": -95.74181, "type": "STANDARD", "counties": [{"fips": "147", "name": "Richardson"}]});

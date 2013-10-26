@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.426933, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Union City", "lng": -89.0727, "zip_code": "38261"});
+zipapicallback({"locality": "Union City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Union City"], "postal_code": "38261", "lat": 36.426933, "lng": -89.0727, "type": "STANDARD", "counties": [{"fips": "131", "name": "Obion"}]});

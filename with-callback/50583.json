@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.43142, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sac City", "lng": -94.99323, "zip_code": "50583"});
+zipapicallback({"locality": "Sac City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sac City"], "postal_code": "50583", "lat": 42.43142, "lng": -94.99323, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.190886, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Windsor Heights", "lng": -80.66613, "zip_code": "26075"});
+zipapicallback({"locality": "Windsor Heights", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Windsor Heights", "Windsor Hts"], "postal_code": "26075", "lat": 40.190886, "lng": -80.66613, "type": "POBOX", "counties": [{"fips": "009", "name": "Brooke"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.646779, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Boys Ranch", "lng": -106.7648, "zip_code": "87002"}
+{"locality": "Belen", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Belen"], "postal_code": "87002", "lat": 34.646779, "lng": -106.7648, "type": "STANDARD", "counties": [{"fips": "061", "name": "Valencia"}]}

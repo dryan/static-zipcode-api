@@ -1,1 +1,1 @@
-{"lat": 41.160521, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Falls Creek", "lng": -78.81129, "zip_code": "15840"}
+{"locality": "Falls Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Falls Creek"], "postal_code": "15840", "lat": 41.160521, "lng": -78.81129, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}, {"fips": "033", "name": "Clearfield"}]}

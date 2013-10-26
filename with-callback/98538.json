@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.483547, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Curtis", "lng": -123.1016, "zip_code": "98538"});
+zipapicallback({"locality": "Curtis", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Curtis"], "postal_code": "98538", "lat": 46.483547, "lng": -123.1016, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]});

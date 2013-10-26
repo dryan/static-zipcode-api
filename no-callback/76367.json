@@ -1,1 +1,1 @@
-{"lat": 33.958681, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Iowa Park", "lng": -98.68492, "zip_code": "76367"}
+{"locality": "Iowa Park", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Iowa Park"], "postal_code": "76367", "lat": 33.958681, "lng": -98.68492, "type": "STANDARD", "counties": [{"fips": "485", "name": "Wichita"}]}

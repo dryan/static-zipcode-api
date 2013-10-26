@@ -1,1 +1,1 @@
-{"lat": 40.970793, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Sumner", "lng": -99.48582, "zip_code": "68878"}
+{"locality": "Sumner", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Sumner"], "postal_code": "68878", "lat": 40.970793, "lng": -99.48582, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dawson"}, {"fips": "041", "name": "Custer"}]}

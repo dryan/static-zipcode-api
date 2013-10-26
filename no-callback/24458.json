@@ -1,1 +1,1 @@
-{"lat": 38.322663, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mc Dowell", "lng": -79.54418, "zip_code": "24458"}
+{"locality": "Mc Dowell", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mc Dowell"], "postal_code": "24458", "lat": 38.322663, "lng": -79.54418, "type": "STANDARD", "counties": [{"fips": "091", "name": "Highland"}]}

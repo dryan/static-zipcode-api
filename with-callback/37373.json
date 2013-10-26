@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.391643, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sale Creek", "lng": -85.10329, "zip_code": "37373"});
+zipapicallback({"locality": "Sale Creek", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bakewell", "Sale Creek"], "postal_code": "37373", "lat": 35.391643, "lng": -85.10329, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]});

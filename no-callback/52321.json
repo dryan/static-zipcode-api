@@ -1,1 +1,1 @@
-{"lat": 42.134893, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Onslow", "lng": -91.00372, "zip_code": "52321"}
+{"locality": "Onslow", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Onslow"], "postal_code": "52321", "lat": 42.134893, "lng": -91.00372, "type": "STANDARD", "counties": [{"fips": "105", "name": "Jones"}]}

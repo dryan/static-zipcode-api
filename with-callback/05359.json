@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.149377, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "West Townshend", "lng": -72.72492, "zip_code": "05359"});
+zipapicallback({"locality": "West Townshend", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["W Townshend", "West Townshend", "Windham"], "postal_code": "05359", "lat": 43.149377, "lng": -72.72492, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.372129, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bethel", "lng": -70.8175, "zip_code": "04217"});
+zipapicallback({"locality": "Bethel", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Albany Twp", "Bethel", "Gilead", "Mason Twp"], "postal_code": "04217", "lat": 44.372129, "lng": -70.8175, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

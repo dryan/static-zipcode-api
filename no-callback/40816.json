@@ -1,1 +1,1 @@
-{"lat": 36.987495, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Chappell", "lng": -83.32795, "zip_code": "40816"}
+{"locality": "Chappell", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Chappell"], "postal_code": "40816", "lat": 36.987495, "lng": -83.32795, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}]}

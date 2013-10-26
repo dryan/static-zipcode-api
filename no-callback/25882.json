@@ -1,1 +1,1 @@
-{"lat": 37.596209, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mullens", "lng": -81.38193, "zip_code": "25882"}
+{"locality": "Mullens", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mullens"], "postal_code": "25882", "lat": 37.596209, "lng": -81.38193, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.060092, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dunnellon", "lng": -82.35195, "zip_code": "34432"}
+{"locality": "Dunnellon", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dunnellon"], "postal_code": "34432", "lat": 29.060092, "lng": -82.35195, "type": "STANDARD", "counties": []}

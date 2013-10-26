@@ -1,1 +1,1 @@
-{"lat": 37.804876, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Colp", "lng": -89.08118, "zip_code": "62921"}
+{"locality": "Colp", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Colp"], "postal_code": "62921", "lat": 37.804876, "lng": -89.08118, "type": "POBOX", "counties": [{"fips": "199", "name": "Williamson"}]}

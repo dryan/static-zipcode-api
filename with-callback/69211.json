@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.838967, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cody", "lng": -101.36663, "zip_code": "69211"});
+zipapicallback({"locality": "Cody", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cody"], "postal_code": "69211", "lat": 42.838967, "lng": -101.36663, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cherry"}]});

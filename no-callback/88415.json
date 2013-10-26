@@ -1,1 +1,1 @@
-{"lat": 36.387827, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Clayton", "lng": -103.22216, "zip_code": "88415"}
+{"locality": "Clayton", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bueyeros", "Clayton", "Seneca", "Stead"], "postal_code": "88415", "lat": 36.387827, "lng": -103.22216, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]}

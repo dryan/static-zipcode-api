@@ -1,1 +1,1 @@
-zipapicallback({"lat": 66.259417, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Shishmaref", "lng": -165.73202, "zip_code": "99772"});
+zipapicallback({"locality": "Shishmaref", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Shishmaref"], "postal_code": "99772", "lat": 66.259417, "lng": -165.73202, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]});

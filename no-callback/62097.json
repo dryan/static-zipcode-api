@@ -1,1 +1,1 @@
-{"lat": 38.932347, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Worden", "lng": -89.84608, "zip_code": "62097"}
+{"locality": "Worden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Worden"], "postal_code": "62097", "lat": 38.932347, "lng": -89.84608, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]}

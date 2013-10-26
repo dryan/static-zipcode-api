@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.527341, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sedgewickville", "lng": -89.92735, "zip_code": "63781"});
+zipapicallback({"locality": "Sedgewickville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sedgewickville", "Sedgewickvlle"], "postal_code": "63781", "lat": 37.527341, "lng": -89.92735, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bollinger"}, {"fips": "157", "name": "Perry"}]});

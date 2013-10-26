@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.265478, "region": {"abbr": "NY", "name": "New York"}, "locality": "Katonah", "lng": -73.68512, "zip_code": "10536"});
+zipapicallback({"locality": "Katonah", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Katonah"], "postal_code": "10536", "lat": 41.265478, "lng": -73.68512, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

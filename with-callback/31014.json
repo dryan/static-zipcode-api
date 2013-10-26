@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.397039, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cochran", "lng": -83.3404, "zip_code": "31014"});
+zipapicallback({"locality": "Cochran", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cochran", "Empire"], "postal_code": "31014", "lat": 32.397039, "lng": -83.3404, "type": "STANDARD", "counties": [{"fips": "023", "name": "Bleckley"}, {"fips": "235", "name": "Pulaski"}, {"fips": "091", "name": "Dodge"}, {"fips": "289", "name": "Twiggs"}]});

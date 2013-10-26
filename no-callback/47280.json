@@ -1,1 +1,1 @@
-{"lat": 39.296605, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Taylorsville", "lng": -85.95025, "zip_code": "47280"}
+{"locality": "Taylorsville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Taylorsville"], "postal_code": "47280", "lat": 39.296605, "lng": -85.95025, "type": "POBOX", "counties": [{"fips": "005", "name": "Bartholomew"}]}

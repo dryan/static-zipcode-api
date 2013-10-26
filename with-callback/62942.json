@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.629601, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Grand Tower", "lng": -89.48077, "zip_code": "62942"});
+zipapicallback({"locality": "Grand Tower", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Grand Tower"], "postal_code": "62942", "lat": 37.629601, "lng": -89.48077, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]});

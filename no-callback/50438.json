@@ -1,1 +1,1 @@
-{"lat": 43.102343, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Garner", "lng": -93.61033, "zip_code": "50438"}
+{"locality": "Garner", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Garner"], "postal_code": "50438", "lat": 43.102343, "lng": -93.61033, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]}

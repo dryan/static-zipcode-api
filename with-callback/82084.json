@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.024827, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Tie Siding", "lng": -105.46188, "zip_code": "82084"});
+zipapicallback({"locality": "Tie Siding", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Tie Siding"], "postal_code": "82084", "lat": 41.024827, "lng": -105.46188, "type": "POBOX", "counties": [{"fips": "001", "name": "Albany"}]});

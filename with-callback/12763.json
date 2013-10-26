@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.690795, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mountain Dale", "lng": -74.52273, "zip_code": "12763"});
+zipapicallback({"locality": "Mountain Dale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mountain Dale"], "postal_code": "12763", "lat": 41.690795, "lng": -74.52273, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}, {"fips": "111", "name": "Ulster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.702164, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Scio", "lng": -122.81401, "zip_code": "97374"});
+zipapicallback({"locality": "Scio", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Scio"], "postal_code": "97374", "lat": 44.702164, "lng": -122.81401, "type": "STANDARD", "counties": [{"fips": "043", "name": "Linn"}]});

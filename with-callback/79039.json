@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.235628, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Groom", "lng": -101.10183, "zip_code": "79039"});
+zipapicallback({"locality": "Groom", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Groom"], "postal_code": "79039", "lat": 35.235628, "lng": -101.10183, "type": "STANDARD", "counties": [{"fips": "065", "name": "Carson"}, {"fips": "011", "name": "Armstrong"}, {"fips": "179", "name": "Gray"}, {"fips": "029", "name": "Bexar"}]});

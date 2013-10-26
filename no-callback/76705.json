@@ -1,1 +1,1 @@
-{"lat": 31.609834, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bellmead", "lng": -97.08821, "zip_code": "76705"}
+{"locality": "Waco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bellmead", "Lacy Lakeview", "Waco"], "postal_code": "76705", "lat": 31.609834, "lng": -97.08821, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}]}

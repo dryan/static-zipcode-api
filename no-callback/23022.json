@@ -1,1 +1,1 @@
-{"lat": 37.728067, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bremo Bluff", "lng": -78.26865, "zip_code": "23022"}
+{"locality": "Bremo Bluff", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bremo Bluff"], "postal_code": "23022", "lat": 37.728067, "lng": -78.26865, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fluvanna"}]}

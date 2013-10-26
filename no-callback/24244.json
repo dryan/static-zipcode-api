@@ -1,1 +1,1 @@
-{"lat": 36.70122, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Clinchport", "lng": -82.79538, "zip_code": "24244"}
+{"locality": "Duffield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Clinchport", "Duffield"], "postal_code": "24244", "lat": 36.70122, "lng": -82.79538, "type": "STANDARD", "counties": [{"fips": "169", "name": "Stokes"}, {"fips": "105", "name": "Lee"}]}

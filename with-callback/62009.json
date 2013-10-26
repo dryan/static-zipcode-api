@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.092526, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Benld", "lng": -89.8029, "zip_code": "62009"});
+zipapicallback({"locality": "Benld", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Benld"], "postal_code": "62009", "lat": 39.092526, "lng": -89.8029, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}]});

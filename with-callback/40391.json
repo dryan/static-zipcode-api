@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.98223, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Winchester", "lng": -84.17023, "zip_code": "40391"});
+zipapicallback({"locality": "Winchester", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ford", "Winchester"], "postal_code": "40391", "lat": 37.98223, "lng": -84.17023, "type": "STANDARD", "counties": [{"fips": "049", "name": "Clark"}, {"fips": "067", "name": "Fayette"}, {"fips": "017", "name": "Bourbon"}, {"fips": "173", "name": "Montgomery"}]});

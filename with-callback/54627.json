@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.168986, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ettrick", "lng": -91.25737, "zip_code": "54627"});
+zipapicallback({"locality": "Ettrick", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ettrick"], "postal_code": "54627", "lat": 44.168986, "lng": -91.25737, "type": "STANDARD", "counties": [{"fips": "121", "name": "Trempealeau"}, {"fips": "053", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.93281, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Riley", "lng": -82.80345, "zip_code": "48041"});
+zipapicallback({"locality": "Memphis", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Memphis", "Riley"], "postal_code": "48041", "lat": 42.93281, "lng": -82.80345, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}, {"fips": "099", "name": "MacOmb"}]});

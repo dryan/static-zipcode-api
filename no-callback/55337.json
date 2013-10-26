@@ -1,1 +1,1 @@
-{"lat": 44.770297, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Burnsville", "lng": -93.27302, "zip_code": "55337"}
+{"locality": "Burnsville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Burnsville"], "postal_code": "55337", "lat": 44.770297, "lng": -93.27302, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "053", "name": "Hennepin"}]}

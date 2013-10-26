@@ -1,1 +1,1 @@
-{"lat": 34.702249, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Fort Lawn", "lng": -80.90157, "zip_code": "29714"}
+{"locality": "Fort Lawn", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Fort Lawn"], "postal_code": "29714", "lat": 34.702249, "lng": -80.90157, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chester"}]}

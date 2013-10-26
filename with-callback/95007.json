@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.10548, "region": {"abbr": "CA", "name": "California"}, "locality": "Brookdale", "lng": -122.1047, "zip_code": "95007"});
+zipapicallback({"locality": "Brookdale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Brookdale"], "postal_code": "95007", "lat": 37.10548, "lng": -122.1047, "type": "POBOX", "counties": [{"fips": "087", "name": "Santa Cruz"}]});

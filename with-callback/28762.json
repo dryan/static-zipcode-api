@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.625414, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Old Fort", "lng": -82.18229, "zip_code": "28762"});
+zipapicallback({"locality": "Old Fort", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Old Fort"], "postal_code": "28762", "lat": 35.625414, "lng": -82.18229, "type": "STANDARD", "counties": [{"fips": "111", "name": "McDowell"}]});

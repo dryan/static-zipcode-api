@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.628806, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Germantown", "lng": -84.37873, "zip_code": "45327"});
+zipapicallback({"locality": "Germantown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Germantown"], "postal_code": "45327", "lat": 39.628806, "lng": -84.37873, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}, {"fips": "165", "name": "Warren"}, {"fips": "135", "name": "Preble"}, {"fips": "017", "name": "Butler"}]});

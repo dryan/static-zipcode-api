@@ -1,1 +1,1 @@
-{"lat": 39.164966, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Carson City", "lng": -119.79382, "zip_code": "89703"}
+{"locality": "Carson City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Carson City"], "postal_code": "89703", "lat": 39.164966, "lng": -119.79382, "type": "STANDARD", "counties": [{"fips": "510", "name": "Carson City"}, {"fips": "019", "name": "Lyon"}]}

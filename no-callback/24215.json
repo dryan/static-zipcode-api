@@ -1,1 +1,1 @@
-{"lat": 36.921924, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Andover", "lng": -82.79644, "zip_code": "24215"}
+{"locality": "Andover", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Andover"], "postal_code": "24215", "lat": 36.921924, "lng": -82.79644, "type": "POBOX", "counties": [{"fips": "195", "name": "Wise"}]}

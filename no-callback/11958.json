@@ -1,1 +1,1 @@
-{"lat": 41.03687, "region": {"abbr": "NY", "name": "New York"}, "locality": "Peconic", "lng": -72.45341, "zip_code": "11958"}
+{"locality": "Peconic", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Peconic"], "postal_code": "11958", "lat": 41.03687, "lng": -72.45341, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

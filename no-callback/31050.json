@@ -1,1 +1,1 @@
-{"lat": 32.742085, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Knoxville", "lng": -83.94646, "zip_code": "31050"}
+{"locality": "Knoxville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Knoxville"], "postal_code": "31050", "lat": 32.742085, "lng": -83.94646, "type": "STANDARD", "counties": [{"fips": "079", "name": "Crawford"}]}

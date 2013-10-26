@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.992124, "region": {"abbr": "CA", "name": "California"}, "locality": "Oakley", "lng": -121.71328, "zip_code": "94561"});
+zipapicallback({"locality": "Oakley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oakley"], "postal_code": "94561", "lat": 37.992124, "lng": -121.71328, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

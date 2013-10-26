@@ -1,1 +1,1 @@
-{"lat": 40.742869, "region": {"abbr": "NY", "name": "New York"}, "locality": "Woodside", "lng": -73.90377, "zip_code": "11377"}
+{"locality": "Woodside", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Flushing", "Woodside"], "postal_code": "11377", "lat": 40.742869, "lng": -73.90377, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.732434, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saegertown", "lng": -80.14613, "zip_code": "16433"});
+zipapicallback({"locality": "Saegertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saegertown"], "postal_code": "16433", "lat": 41.732434, "lng": -80.14613, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}]});

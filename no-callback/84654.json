@@ -1,1 +1,1 @@
-{"lat": 38.915722, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Salina", "lng": -111.72893, "zip_code": "84654"}
+{"locality": "Salina", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Salina"], "postal_code": "84654", "lat": 38.915722, "lng": -111.72893, "type": "STANDARD", "counties": [{"fips": "041", "name": "Sevier"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.330666, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Savery", "lng": -107.23106, "zip_code": "82332"}
+{"locality": "Savery", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Savery"], "postal_code": "82332", "lat": 41.330666, "lng": -107.23106, "type": "STANDARD", "counties": [{"fips": "007", "name": "Carbon"}]}

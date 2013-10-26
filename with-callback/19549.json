@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.580744, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Port Clinton", "lng": -76.02559, "zip_code": "19549"});
+zipapicallback({"locality": "Port Clinton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Port Clinton"], "postal_code": "19549", "lat": 40.580744, "lng": -76.02559, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

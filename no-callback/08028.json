@@ -1,1 +1,1 @@
-{"lat": 39.700008, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Glassboro", "lng": -75.11951, "zip_code": "08028"}
+{"locality": "Glassboro", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Glassboro"], "postal_code": "08028", "lat": 39.700008, "lng": -75.11951, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

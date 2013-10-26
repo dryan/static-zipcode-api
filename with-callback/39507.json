@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.397044, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Gulfport", "lng": -89.03998, "zip_code": "39507"});
+zipapicallback({"locality": "Gulfport", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Gulfport"], "postal_code": "39507", "lat": 30.397044, "lng": -89.03998, "type": "STANDARD", "counties": [{"fips": "047", "name": "Harrison"}]});

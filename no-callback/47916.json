@@ -1,1 +1,1 @@
-{"lat": 39.983709, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Alamo", "lng": -87.05507, "zip_code": "47916"}
+{"locality": "Alamo", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Alamo"], "postal_code": "47916", "lat": 39.983709, "lng": -87.05507, "type": "POBOX", "counties": [{"fips": "107", "name": "Montgomery"}]}

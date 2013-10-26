@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.797792, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Edwardsburg", "lng": -86.02616, "zip_code": "49112"});
+zipapicallback({"locality": "Edwardsburg", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Edwardsburg"], "postal_code": "49112", "lat": 41.797792, "lng": -86.02616, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cass"}]});

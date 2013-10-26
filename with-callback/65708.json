@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.91816, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Monett", "lng": -93.91488, "zip_code": "65708"});
+zipapicallback({"locality": "Monett", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Monett"], "postal_code": "65708", "lat": 36.91816, "lng": -93.91488, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barry"}, {"fips": "109", "name": "Lawrence"}]});

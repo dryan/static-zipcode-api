@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.371043, "region": {"abbr": "CA", "name": "California"}, "locality": "Mineral", "lng": -121.58245, "zip_code": "96063"});
+zipapicallback({"locality": "Mineral", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mineral"], "postal_code": "96063", "lat": 40.371043, "lng": -121.58245, "type": "POBOX", "counties": [{"fips": "103", "name": "Tehama"}]});

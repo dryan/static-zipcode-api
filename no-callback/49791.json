@@ -1,1 +1,1 @@
-{"lat": 45.48586, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Topinabee", "lng": -84.59227, "zip_code": "49791"}
+{"locality": "Topinabee", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Topinabee"], "postal_code": "49791", "lat": 45.48586, "lng": -84.59227, "type": "POBOX", "counties": [{"fips": "031", "name": "Cheboygan"}]}

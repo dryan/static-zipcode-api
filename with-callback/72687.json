@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.242942, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Yellville", "lng": -92.69011, "zip_code": "72687"});
+zipapicallback({"locality": "Yellville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Yellville"], "postal_code": "72687", "lat": 36.242942, "lng": -92.69011, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marion"}]});

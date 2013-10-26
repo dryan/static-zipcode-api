@@ -1,1 +1,1 @@
-{"lat": 34.35876, "region": {"abbr": "CA", "name": "California"}, "locality": "Wrightwood", "lng": -117.62752, "zip_code": "92397"}
+{"locality": "Wrightwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Wrightwood"], "postal_code": "92397", "lat": 34.35876, "lng": -117.62752, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

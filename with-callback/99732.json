@@ -1,1 +1,1 @@
-zipapicallback({"lat": 64.070738, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chicken", "lng": -141.87489, "zip_code": "99732"});
+zipapicallback({"locality": "Chicken", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chicken"], "postal_code": "99732", "lat": 64.070738, "lng": -141.87489, "type": "POBOX", "counties": [{"fips": "240", "name": "Southeast Fairbanks"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.075717, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Castana", "lng": -95.91108, "zip_code": "51010"}
+{"locality": "Castana", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Castana"], "postal_code": "51010", "lat": 42.075717, "lng": -95.91108, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monona"}]}

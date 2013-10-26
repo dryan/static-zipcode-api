@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.866924, "region": {"abbr": "DC", "name": "District of Columbia"}, "locality": "Washington", "lng": -77.01424, "zip_code": "20319"});
+zipapicallback({"locality": "Washington", "region": {"fips": "11", "abbr": "DC", "name": "District of Columbia"}, "localities": ["Fort Mcnair", "Washington"], "postal_code": "20319", "lat": 38.866924, "lng": -77.01424, "type": "UNIQUE", "counties": [{"fips": "001", "name": "District of Columbia"}]});

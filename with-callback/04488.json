@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.891869, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Stetson", "lng": -69.1108, "zip_code": "04488"});
+zipapicallback({"locality": "Stetson", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Stetson"], "postal_code": "04488", "lat": 44.891869, "lng": -69.1108, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

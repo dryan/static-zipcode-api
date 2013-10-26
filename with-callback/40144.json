@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.750101, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Locust Hill", "lng": -86.39972, "zip_code": "40144"});
+zipapicallback({"locality": "Harned", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Harned", "Locust Hill", "Se Ree"], "postal_code": "40144", "lat": 37.750101, "lng": -86.39972, "type": "STANDARD", "counties": [{"fips": "027", "name": "Breckinridge"}]});

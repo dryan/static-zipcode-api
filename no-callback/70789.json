@@ -1,1 +1,1 @@
-{"lat": 30.925815, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Wilson", "lng": -91.09672, "zip_code": "70789"}
+{"locality": "Wilson", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Wilson"], "postal_code": "70789", "lat": 30.925815, "lng": -91.09672, "type": "STANDARD", "counties": [{"fips": "037", "name": "East Feliciana"}]}

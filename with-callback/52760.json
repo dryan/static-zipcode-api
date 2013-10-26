@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.57371, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Moscow", "lng": -91.08369, "zip_code": "52760"});
+zipapicallback({"locality": "Moscow", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Moscow"], "postal_code": "52760", "lat": 41.57371, "lng": -91.08369, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}]});

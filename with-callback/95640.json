@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.346132, "region": {"abbr": "CA", "name": "California"}, "locality": "Ione", "lng": -120.94516, "zip_code": "95640"});
+zipapicallback({"locality": "Ione", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ione"], "postal_code": "95640", "lat": 38.346132, "lng": -120.94516, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}]});

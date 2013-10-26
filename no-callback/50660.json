@@ -1,1 +1,1 @@
-{"lat": 42.568395, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "New Hartford", "lng": -92.62664, "zip_code": "50660"}
+{"locality": "New Hartford", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["New Hartford"], "postal_code": "50660", "lat": 42.568395, "lng": -92.62664, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]}

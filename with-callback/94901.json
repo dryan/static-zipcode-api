@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.972423, "region": {"abbr": "CA", "name": "California"}, "locality": "San Rafael", "lng": -122.51484, "zip_code": "94901"});
+zipapicallback({"locality": "San Rafael", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Anselmo", "San Rafael"], "postal_code": "94901", "lat": 37.972423, "lng": -122.51484, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}, {"fips": "045", "name": "Mendocino"}]});

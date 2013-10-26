@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.402127, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Oshkosh", "lng": -102.35025, "zip_code": "69154"});
+zipapicallback({"locality": "Oshkosh", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Oshkosh"], "postal_code": "69154", "lat": 41.402127, "lng": -102.35025, "type": "STANDARD", "counties": [{"fips": "069", "name": "Garden"}]});

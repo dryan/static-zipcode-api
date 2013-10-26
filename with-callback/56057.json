@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.393899, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Le Center", "lng": -93.72583, "zip_code": "56057"});
+zipapicallback({"locality": "Le Center", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Le Center"], "postal_code": "56057", "lat": 44.393899, "lng": -93.72583, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Sueur"}]});

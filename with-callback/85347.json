@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.744976, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Roll", "lng": -113.85421, "zip_code": "85347"});
+zipapicallback({"locality": "Roll", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Roll"], "postal_code": "85347", "lat": 32.744976, "lng": -113.85421, "type": "STANDARD", "counties": [{"fips": "027", "name": "Yuma"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.229173, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Trenary", "lng": -87.01715, "zip_code": "49891"}
+{"locality": "Trenary", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Traunik", "Trenary"], "postal_code": "49891", "lat": 46.229173, "lng": -87.01715, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alger"}]}

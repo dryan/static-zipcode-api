@@ -1,1 +1,1 @@
-{"lat": 33.785166, "region": {"abbr": "CA", "name": "California"}, "locality": "Garden Grove", "lng": -117.93406, "zip_code": "92840"}
+{"locality": "Garden Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Garden Grove"], "postal_code": "92840", "lat": 33.785166, "lng": -117.93406, "type": "STANDARD", "counties": []}

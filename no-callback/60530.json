@@ -1,1 +1,1 @@
-{"lat": 41.792378, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lee", "lng": -88.9516, "zip_code": "60530"}
+{"locality": "Lee", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lee"], "postal_code": "60530", "lat": 41.792378, "lng": -88.9516, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}, {"fips": "103", "name": "Lee"}]}

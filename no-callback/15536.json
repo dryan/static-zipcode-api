@@ -1,1 +1,1 @@
-{"lat": 39.951222, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Crystal Spring", "lng": -78.20512, "zip_code": "15536"}
+{"locality": "Crystal Spring", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Crystal Spg", "Crystal Spring"], "postal_code": "15536", "lat": 39.951222, "lng": -78.20512, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "057", "name": "Fulton"}]}

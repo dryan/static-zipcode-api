@@ -1,1 +1,1 @@
-{"lat": 41.924013, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Tioga", "lng": -77.14224, "zip_code": "16946"}
+{"locality": "Tioga", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Tioga"], "postal_code": "16946", "lat": 41.924013, "lng": -77.14224, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}]}

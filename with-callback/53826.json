@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.124756, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wauzeka", "lng": -90.90828, "zip_code": "53826"});
+zipapicallback({"locality": "Wauzeka", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wauzeka"], "postal_code": "53826", "lat": 43.124756, "lng": -90.90828, "type": "STANDARD", "counties": [{"fips": "023", "name": "Crawford"}]});

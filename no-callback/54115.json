@@ -1,1 +1,1 @@
-{"lat": 44.42042, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "De Pere", "lng": -88.07896, "zip_code": "54115"}
+{"locality": "De Pere", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["De Pere", "Hobart"], "postal_code": "54115", "lat": 44.42042, "lng": -88.07896, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}, {"fips": "087", "name": "Outagamie"}]}

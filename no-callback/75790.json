@@ -1,1 +1,1 @@
-{"lat": 32.533765, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Van", "lng": -95.63493, "zip_code": "75790"}
+{"locality": "Van", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Van"], "postal_code": "75790", "lat": 32.533765, "lng": -95.63493, "type": "STANDARD", "counties": [{"fips": "467", "name": "Van Zandt"}, {"fips": "423", "name": "Smith"}]}

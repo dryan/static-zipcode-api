@@ -1,1 +1,1 @@
-{"lat": 37.666079, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Jesse", "lng": -81.57309, "zip_code": "24849"}
+{"locality": "Jesse", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Jesse"], "postal_code": "24849", "lat": 37.666079, "lng": -81.57309, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]}

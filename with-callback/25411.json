@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.567987, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hancock", "lng": -78.22783, "zip_code": "25411"});
+zipapicallback({"locality": "Berkeley Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Berkeley Spgs", "Berkeley Springs", "Hancock", "Unger"], "postal_code": "25411", "lat": 39.567987, "lng": -78.22783, "type": "STANDARD", "counties": [{"fips": "065", "name": "Morgan"}]});

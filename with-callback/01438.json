@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.563367, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Templeton", "lng": -72.03498, "zip_code": "01438"});
+zipapicallback({"locality": "East Templeton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Templeton", "East Templeton"], "postal_code": "01438", "lat": 42.563367, "lng": -72.03498, "type": "POBOX", "counties": [{"fips": "027", "name": "Worcester"}]});

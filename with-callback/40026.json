@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.411964, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Goshen", "lng": -85.57066, "zip_code": "40026"});
+zipapicallback({"locality": "Goshen", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Goshen"], "postal_code": "40026", "lat": 38.411964, "lng": -85.57066, "type": "STANDARD", "counties": [{"fips": "185", "name": "Oldham"}]});

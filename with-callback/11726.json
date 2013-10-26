@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.680892, "region": {"abbr": "NY", "name": "New York"}, "locality": "Copiague", "lng": -73.39609, "zip_code": "11726"});
+zipapicallback({"locality": "Copiague", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Copiague"], "postal_code": "11726", "lat": 40.680892, "lng": -73.39609, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

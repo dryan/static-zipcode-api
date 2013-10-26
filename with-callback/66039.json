@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.088951, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mildred", "lng": -95.17473, "zip_code": "66039"});
+zipapicallback({"locality": "Kincaid", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kincaid"], "postal_code": "66039", "lat": 38.088951, "lng": -95.17473, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anderson"}, {"fips": "107", "name": "Linn"}, {"fips": "001", "name": "Allen"}]});

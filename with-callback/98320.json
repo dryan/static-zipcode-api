@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.705616, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Brinnon", "lng": -122.92868, "zip_code": "98320"});
+zipapicallback({"locality": "Brinnon", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Brinnon"], "postal_code": "98320", "lat": 47.705616, "lng": -122.92868, "type": "STANDARD", "counties": [{"fips": "031", "name": "Jefferson"}, {"fips": "035", "name": "Kitsap"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.310649, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sweet Valley", "lng": -76.19316, "zip_code": "18656"}
+{"locality": "Sweet Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sweet Valley"], "postal_code": "18656", "lat": 41.310649, "lng": -76.19316, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]}

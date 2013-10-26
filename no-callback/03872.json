@@ -1,1 +1,1 @@
-{"lat": 43.564008, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Sanbornville", "lng": -71.03405, "zip_code": "03872"}
+{"locality": "Sanbornville", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Brookfield", "Sanbornville"], "postal_code": "03872", "lat": 43.564008, "lng": -71.03405, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]}

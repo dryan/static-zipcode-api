@@ -1,1 +1,1 @@
-{"lat": 42.011889, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Elberon", "lng": -92.32398, "zip_code": "52225"}
+{"locality": "Elberon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Elberon"], "postal_code": "52225", "lat": 42.011889, "lng": -92.32398, "type": "STANDARD", "counties": [{"fips": "171", "name": "Tama"}]}

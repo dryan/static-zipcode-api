@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.480224, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Leary", "lng": -94.2648, "zip_code": "75561"});
+zipapicallback({"locality": "Hooks", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hooks"], "postal_code": "75561", "lat": 33.480224, "lng": -94.2648, "type": "STANDARD", "counties": [{"fips": "037", "name": "Bowie"}]});

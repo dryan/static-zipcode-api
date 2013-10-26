@@ -1,1 +1,1 @@
-{"lat": 42.542134, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Merlin", "lng": -123.5078, "zip_code": "97532"}
+{"locality": "Merlin", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Merlin"], "postal_code": "97532", "lat": 42.542134, "lng": -123.5078, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}]}

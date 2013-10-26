@@ -1,1 +1,1 @@
-{"lat": 42.08685, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Almo", "lng": -113.64135, "zip_code": "83312"}
+{"locality": "Almo", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Almo"], "postal_code": "83312", "lat": 42.08685, "lng": -113.64135, "type": "POBOX", "counties": [{"fips": "031", "name": "Cassia"}]}

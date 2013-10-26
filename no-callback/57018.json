@@ -1,1 +1,1 @@
-{"lat": 43.797629, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Colton", "lng": -96.96107, "zip_code": "57018"}
+{"locality": "Colton", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Colton"], "postal_code": "57018", "lat": 43.797629, "lng": -96.96107, "type": "STANDARD", "counties": [{"fips": "099", "name": "Minnehaha"}, {"fips": "079", "name": "Lake"}]}

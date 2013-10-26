@@ -1,1 +1,1 @@
-{"lat": 46.565562, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wolverton", "lng": -96.66702, "zip_code": "56594"}
+{"locality": "Wolverton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wolverton"], "postal_code": "56594", "lat": 46.565562, "lng": -96.66702, "type": "STANDARD", "counties": [{"fips": "167", "name": "Wilkin"}]}

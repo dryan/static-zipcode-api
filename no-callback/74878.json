@@ -1,1 +1,1 @@
-{"lat": 35.012317, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wanette", "lng": -97.06156, "zip_code": "74878"}
+{"locality": "Wanette", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Tribbey", "Wanette"], "postal_code": "74878", "lat": 35.012317, "lng": -97.06156, "type": "STANDARD", "counties": [{"fips": "125", "name": "Pottawatomie"}, {"fips": "027", "name": "Cleveland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.629096, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Forkland", "lng": -87.84004, "zip_code": "36740"});
+zipapicallback({"locality": "Forkland", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Forkland"], "postal_code": "36740", "lat": 32.629096, "lng": -87.84004, "type": "STANDARD", "counties": [{"fips": "063", "name": "Greene"}]});

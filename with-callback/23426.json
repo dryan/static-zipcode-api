@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.93359, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Sanford", "lng": -75.67692, "zip_code": "23426"});
+zipapicallback({"locality": "Sanford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Sanford"], "postal_code": "23426", "lat": 37.93359, "lng": -75.67692, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

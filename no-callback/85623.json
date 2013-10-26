@@ -1,1 +1,1 @@
-{"lat": 32.625543, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Oracle", "lng": -110.77201, "zip_code": "85623"}
+{"locality": "Oracle", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Oracle"], "postal_code": "85623", "lat": 32.625543, "lng": -110.77201, "type": "STANDARD", "counties": [{"fips": "021", "name": "Pinal"}]}

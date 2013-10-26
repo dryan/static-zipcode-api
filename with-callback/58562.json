@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.346028, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Bentley", "lng": -102.0077, "zip_code": "58562"});
+zipapicallback({"locality": "New Leipzig", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bentley", "New Leipzig"], "postal_code": "58562", "lat": 46.346028, "lng": -102.0077, "type": "STANDARD", "counties": [{"fips": "037", "name": "Grant"}, {"fips": "001", "name": "Adams"}, {"fips": "041", "name": "Hettinger"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.5323, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "New Manchester", "lng": -80.57999, "zip_code": "26056"});
+zipapicallback({"locality": "New Manchester", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["New Manchester", "New Manchestr"], "postal_code": "26056", "lat": 40.5323, "lng": -80.57999, "type": "POBOX", "counties": [{"fips": "029", "name": "Hancock"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.468387, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Raymond", "lng": -92.21818, "zip_code": "50667"});
+zipapicallback({"locality": "Raymond", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Raymond"], "postal_code": "50667", "lat": 42.468387, "lng": -92.21818, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.182875, "region": {"abbr": "CA", "name": "California"}, "locality": "Oak Park", "lng": -118.76893, "zip_code": "91377"});
+zipapicallback({"locality": "Oak Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Agoura Hills", "Oak Park"], "postal_code": "91377", "lat": 34.182875, "lng": -118.76893, "type": "STANDARD", "counties": []});

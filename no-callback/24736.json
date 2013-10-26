@@ -1,1 +1,1 @@
-{"lat": 37.425866, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Dott", "lng": -81.27625, "zip_code": "24736"}
+{"locality": "Matoaka", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Dott", "Matoaka"], "postal_code": "24736", "lat": 37.425866, "lng": -81.27625, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}, {"fips": "109", "name": "Wyoming"}]}

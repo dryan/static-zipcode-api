@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.915209, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Providence", "lng": -76.21546, "zip_code": "17560"});
+zipapicallback({"locality": "New Providence", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Providence", "New Providnce"], "postal_code": "17560", "lat": 39.915209, "lng": -76.21546, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

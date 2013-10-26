@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.653139, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Browndale", "lng": -75.46199, "zip_code": "18421"});
+zipapicallback({"locality": "Forest City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Browndale", "Clifford Township", "Clifford Twp", "Forest City", "Richmondale", "Vandling"], "postal_code": "18421", "lat": 41.653139, "lng": -75.46199, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}, {"fips": "127", "name": "Wayne"}, {"fips": "069", "name": "Lackawanna"}]});

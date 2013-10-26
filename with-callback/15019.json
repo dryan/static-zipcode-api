@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.417545, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bulger", "lng": -80.33625, "zip_code": "15019"});
+zipapicallback({"locality": "Bulger", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bulger"], "postal_code": "15019", "lat": 40.417545, "lng": -80.33625, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]});

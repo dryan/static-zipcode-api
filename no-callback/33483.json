@@ -1,1 +1,1 @@
-{"lat": 26.465051, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Delray Beach", "lng": -80.06517, "zip_code": "33483"}
+{"locality": "Delray Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Delray Beach", "Gulf Stream"], "postal_code": "33483", "lat": 26.465051, "lng": -80.06517, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

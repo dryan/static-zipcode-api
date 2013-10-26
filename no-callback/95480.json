@@ -1,1 +1,1 @@
-{"lat": 38.654705, "region": {"abbr": "CA", "name": "California"}, "locality": "Stewarts Point", "lng": -123.3999, "zip_code": "95480"}
+{"locality": "Stewarts Point", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stewarts Point", "Stewarts Pt"], "postal_code": "95480", "lat": 38.654705, "lng": -123.3999, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

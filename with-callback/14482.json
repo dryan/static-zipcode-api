@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.979887, "region": {"abbr": "NY", "name": "New York"}, "locality": "Le Roy", "lng": -77.97053, "zip_code": "14482"});
+zipapicallback({"locality": "Le Roy", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Le Roy"], "postal_code": "14482", "lat": 42.979887, "lng": -77.97053, "type": "STANDARD", "counties": [{"fips": "037", "name": "Genesee"}, {"fips": "051", "name": "Livingston"}, {"fips": "055", "name": "Monroe"}]});

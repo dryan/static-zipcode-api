@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.907681, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Custer", "lng": -86.19014, "zip_code": "49405"});
+zipapicallback({"locality": "Custer", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Custer"], "postal_code": "49405", "lat": 43.907681, "lng": -86.19014, "type": "STANDARD", "counties": [{"fips": "105", "name": "Mason"}]});

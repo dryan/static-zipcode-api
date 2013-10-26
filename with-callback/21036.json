@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.24367, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Dayton", "lng": -76.99782, "zip_code": "21036"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Dayton"], "postal_code": "21036", "lat": 39.24367, "lng": -76.99782, "type": "STANDARD", "counties": [{"fips": "027", "name": "Howard"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.409641, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Keokuk", "lng": -91.40001, "zip_code": "52632"}
+{"locality": "Keokuk", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Keokuk"], "postal_code": "52632", "lat": 40.409641, "lng": -91.40001, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lee"}]}

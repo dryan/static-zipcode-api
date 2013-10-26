@@ -1,1 +1,1 @@
-{"lat": 30.574821, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Taylor", "lng": -97.40948, "zip_code": "76574"}
+{"locality": "Taylor", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Taylor"], "postal_code": "76574", "lat": 30.574821, "lng": -97.40948, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}]}

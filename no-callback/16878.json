@@ -1,1 +1,1 @@
-{"lat": 40.943755, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Decatur", "lng": -78.30853, "zip_code": "16878"}
+{"locality": "West Decatur", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["West Decatur"], "postal_code": "16878", "lat": 40.943755, "lng": -78.30853, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]}

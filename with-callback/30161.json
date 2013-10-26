@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.253343, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rome", "lng": -85.15312, "zip_code": "30161"});
+zipapicallback({"locality": "Rome", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Rome"], "postal_code": "30161", "lat": 34.253343, "lng": -85.15312, "type": "STANDARD", "counties": [{"fips": "115", "name": "Floyd"}, {"fips": "015", "name": "Bartow"}, {"fips": "055", "name": "Chattooga"}]});

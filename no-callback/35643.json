@@ -1,1 +1,1 @@
-{"lat": 34.648768, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hillsboro", "lng": -87.20394, "zip_code": "35643"}
+{"locality": "Hillsboro", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hillsboro"], "postal_code": "35643", "lat": 34.648768, "lng": -87.20394, "type": "STANDARD", "counties": [{"fips": "079", "name": "Lawrence"}]}

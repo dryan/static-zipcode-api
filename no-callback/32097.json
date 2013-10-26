@@ -1,1 +1,1 @@
-{"lat": 30.63928, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Yulee", "lng": -81.59442, "zip_code": "32097"}
+{"locality": "Yulee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Yulee"], "postal_code": "32097", "lat": 30.63928, "lng": -81.59442, "type": "STANDARD", "counties": [{"fips": "089", "name": "Nassau"}]}

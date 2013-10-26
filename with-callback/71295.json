@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.156791, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Winnsboro", "lng": -91.72874, "zip_code": "71295"});
+zipapicallback({"locality": "Winnsboro", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Winnsboro"], "postal_code": "71295", "lat": 32.156791, "lng": -91.72874, "type": "STANDARD", "counties": [{"fips": "041", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.050207, "region": {"abbr": "TX", "name": "Texas"}, "locality": "New Baden", "lng": -96.42982, "zip_code": "77870"});
+zipapicallback({"locality": "New Baden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["New Baden"], "postal_code": "77870", "lat": 31.050207, "lng": -96.42982, "type": "POBOX", "counties": [{"fips": "395", "name": "Robertson"}]});

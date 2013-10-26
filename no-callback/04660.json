@@ -1,1 +1,1 @@
-{"lat": 44.34629, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Mount Desert", "lng": -68.34317, "zip_code": "04660"}
+{"locality": "Mount Desert", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Mount Desert", "Otter Creek"], "postal_code": "04660", "lat": 44.34629, "lng": -68.34317, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

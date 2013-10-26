@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.926595, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Hancock", "lng": -72.87143, "zip_code": "05748"});
+zipapicallback({"locality": "Hancock", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Hancock"], "postal_code": "05748", "lat": 43.926595, "lng": -72.87143, "type": "STANDARD", "counties": [{"fips": "001", "name": "Addison"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.197757, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Burnsville", "lng": -79.57766, "zip_code": "24487"});
+zipapicallback({"locality": "Williamsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Burnsville", "Williamsville"], "postal_code": "24487", "lat": 38.197757, "lng": -79.57766, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bath"}, {"fips": "091", "name": "Highland"}]});

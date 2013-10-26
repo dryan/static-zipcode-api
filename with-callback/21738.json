@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.280106, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Glenwood", "lng": -77.02052, "zip_code": "21738"});
+zipapicallback({"locality": "Glenwood", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glenwood"], "postal_code": "21738", "lat": 39.280106, "lng": -77.02052, "type": "STANDARD", "counties": [{"fips": "027", "name": "Howard"}]});

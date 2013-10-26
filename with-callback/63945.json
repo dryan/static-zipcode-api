@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.637085, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Harviell", "lng": -90.52687, "zip_code": "63945"});
+zipapicallback({"locality": "Harviell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Harviell"], "postal_code": "63945", "lat": 36.637085, "lng": -90.52687, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}, {"fips": "181", "name": "Ripley"}]});

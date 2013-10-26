@@ -1,1 +1,1 @@
-{"lat": 43.235916, "region": {"abbr": "NY", "name": "New York"}, "locality": "Phoenix", "lng": -76.31339, "zip_code": "13135"}
+{"locality": "Phoenix", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Phoenix"], "postal_code": "13135", "lat": 43.235916, "lng": -76.31339, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}, {"fips": "067", "name": "Onondaga"}]}

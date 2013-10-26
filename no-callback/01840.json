@@ -1,1 +1,1 @@
-{"lat": 42.706941, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Lawrence", "lng": -71.16181, "zip_code": "01840"}
+{"locality": "Lawrence", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Lawrence"], "postal_code": "01840", "lat": 42.706941, "lng": -71.16181, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.240098, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "De Forest", "lng": -89.33659, "zip_code": "53532"}
+{"locality": "De Forest", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["De Forest"], "postal_code": "53532", "lat": 43.240098, "lng": -89.33659, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}, {"fips": "021", "name": "Columbia"}]}

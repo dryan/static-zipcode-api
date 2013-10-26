@@ -1,1 +1,1 @@
-{"lat": 44.752355, "region": {"abbr": "NY", "name": "New York"}, "locality": "Norwood", "lng": -74.98906, "zip_code": "13668"}
+{"locality": "Norwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Norwood"], "postal_code": "13668", "lat": 44.752355, "lng": -74.98906, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

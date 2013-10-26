@@ -1,1 +1,1 @@
-{"lat": 35.203048, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Anton Chico", "lng": -105.15426, "zip_code": "87711"}
+{"locality": "Anton Chico", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Anton Chico"], "postal_code": "87711", "lat": 35.203048, "lng": -105.15426, "type": "STANDARD", "counties": [{"fips": "019", "name": "Guadalupe"}]}

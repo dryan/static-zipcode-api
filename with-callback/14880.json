@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.170951, "region": {"abbr": "NY", "name": "New York"}, "locality": "Scio", "lng": -77.97556, "zip_code": "14880"});
+zipapicallback({"locality": "Scio", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Scio"], "postal_code": "14880", "lat": 42.170951, "lng": -77.97556, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]});

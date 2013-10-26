@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.444243, "region": {"abbr": "NY", "name": "New York"}, "locality": "Burdett", "lng": -76.83274, "zip_code": "14818"});
+zipapicallback({"locality": "Burdett", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Burdett"], "postal_code": "14818", "lat": 42.444243, "lng": -76.83274, "type": "STANDARD", "counties": [{"fips": "097", "name": "Schuyler"}]});

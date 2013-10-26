@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.304709, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ward", "lng": -88.17081, "zip_code": "36922"});
+zipapicallback({"locality": "Ward", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ward"], "postal_code": "36922", "lat": 32.304709, "lng": -88.17081, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}, {"fips": "023", "name": "Choctaw"}]});

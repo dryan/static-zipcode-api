@@ -1,1 +1,1 @@
-{"lat": 36.300819, "region": {"abbr": "CA", "name": "California"}, "locality": "Greenfield", "lng": -121.2904, "zip_code": "93927"}
+{"locality": "Greenfield", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Greenfield"], "postal_code": "93927", "lat": 36.300819, "lng": -121.2904, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]}

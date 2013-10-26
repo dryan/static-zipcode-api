@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.879757, "region": {"abbr": "CA", "name": "California"}, "locality": "Walnut Creek", "lng": -122.07143, "zip_code": "94595"});
+zipapicallback({"locality": "Walnut Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Walnut Creek"], "postal_code": "94595", "lat": 37.879757, "lng": -122.07143, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.302123, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Plain", "lng": -90.07619, "zip_code": "53577"});
+zipapicallback({"locality": "Plain", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Plain"], "postal_code": "53577", "lat": 43.302123, "lng": -90.07619, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}]});

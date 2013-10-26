@@ -1,1 +1,1 @@
-{"lat": 41.822157, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Jackson", "lng": -75.59506, "zip_code": "18825"}
+{"locality": "Jackson", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jackson"], "postal_code": "18825", "lat": 41.822157, "lng": -75.59506, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]}

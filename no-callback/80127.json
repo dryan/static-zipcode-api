@@ -1,1 +1,1 @@
-{"lat": 39.599755, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Littleton", "lng": -105.13052, "zip_code": "80127"}
+{"locality": "Littleton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Littleton"], "postal_code": "80127", "lat": 39.599755, "lng": -105.13052, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}]}

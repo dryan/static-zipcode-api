@@ -1,1 +1,1 @@
-{"lat": 38.688069, "region": {"abbr": "CA", "name": "California"}, "locality": "Rio Linda", "lng": -121.44874, "zip_code": "95673"}
+{"locality": "Rio Linda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rio Linda"], "postal_code": "95673", "lat": 38.688069, "lng": -121.44874, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

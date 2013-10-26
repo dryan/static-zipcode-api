@@ -1,1 +1,1 @@
-{"lat": 42.742629, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Rochester", "lng": -88.22308, "zip_code": "53167"}
+{"locality": "Rochester", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Rochester"], "postal_code": "53167", "lat": 42.742629, "lng": -88.22308, "type": "POBOX", "counties": [{"fips": "101", "name": "Racine"}]}

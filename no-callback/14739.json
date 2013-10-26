@@ -1,1 +1,1 @@
-{"lat": 42.192384, "region": {"abbr": "NY", "name": "New York"}, "locality": "Friendship", "lng": -78.14308, "zip_code": "14739"}
+{"locality": "Friendship", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Friendship"], "postal_code": "14739", "lat": 42.192384, "lng": -78.14308, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]}

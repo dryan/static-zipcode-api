@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.7885, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Secaucus", "lng": -74.06, "zip_code": "07094"});
+zipapicallback({"locality": "Secaucus", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Secaucus"], "postal_code": "07094", "lat": 40.7885, "lng": -74.06, "type": "STANDARD", "counties": [{"fips": "017", "name": "Hudson"}]});

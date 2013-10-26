@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.533786, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hobart", "lng": -87.26403, "zip_code": "46342"});
+zipapicallback({"locality": "Hobart", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hobart", "New Chicago"], "postal_code": "46342", "lat": 41.533786, "lng": -87.26403, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}, {"fips": "127", "name": "Porter"}]});

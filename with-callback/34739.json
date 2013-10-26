@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.938975, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kenansville", "lng": -81.0951, "zip_code": "34739"});
+zipapicallback({"locality": "Kenansville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kenansville"], "postal_code": "34739", "lat": 27.938975, "lng": -81.0951, "type": "STANDARD", "counties": []});

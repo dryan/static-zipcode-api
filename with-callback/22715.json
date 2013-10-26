@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.414359, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Brightwood", "lng": -78.18321, "zip_code": "22715"});
+zipapicallback({"locality": "Brightwood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Brightwood"], "postal_code": "22715", "lat": 38.414359, "lng": -78.18321, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

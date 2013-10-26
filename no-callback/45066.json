@@ -1,1 +1,1 @@
-{"lat": 39.557096, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Springboro", "lng": -84.22688, "zip_code": "45066"}
+{"locality": "Springboro", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Springboro"], "postal_code": "45066", "lat": 39.557096, "lng": -84.22688, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]}

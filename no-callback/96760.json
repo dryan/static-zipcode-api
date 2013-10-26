@@ -1,1 +1,1 @@
-{"lat": 19.5604, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Kurtistown", "lng": -155.05686, "zip_code": "96760"}
+{"locality": "Kurtistown", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Kurtistown"], "postal_code": "96760", "lat": 19.5604, "lng": -155.05686, "type": "STANDARD", "counties": [{"fips": "001", "name": "Hawaii"}]}

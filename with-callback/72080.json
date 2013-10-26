@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.567694, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jerusalem", "lng": -92.82756, "zip_code": "72080"});
+zipapicallback({"locality": "Jerusalem", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Jerusalem"], "postal_code": "72080", "lat": 35.567694, "lng": -92.82756, "type": "STANDARD", "counties": [{"fips": "029", "name": "Conway"}, {"fips": "115", "name": "Pope"}, {"fips": "141", "name": "Van Buren"}]});

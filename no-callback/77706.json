@@ -1,1 +1,1 @@
-{"lat": 30.092679, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Beaumont", "lng": -94.16377, "zip_code": "77706"}
+{"locality": "Beaumont", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Beaumont"], "postal_code": "77706", "lat": 30.092679, "lng": -94.16377, "type": "STANDARD", "counties": [{"fips": "245", "name": "Jefferson"}]}

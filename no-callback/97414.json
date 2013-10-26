@@ -1,1 +1,1 @@
-{"lat": 42.977978, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Broadbent", "lng": -124.1716, "zip_code": "97414"}
+{"locality": "Broadbent", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Broadbent"], "postal_code": "97414", "lat": 42.977978, "lng": -124.1716, "type": "STANDARD", "counties": [{"fips": "011", "name": "Coos"}]}

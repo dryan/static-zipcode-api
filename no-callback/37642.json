@@ -1,1 +1,1 @@
-{"lat": 36.534489, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Church Hill", "lng": -82.71292, "zip_code": "37642"}
+{"locality": "Church Hill", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Church Hill"], "postal_code": "37642", "lat": 36.534489, "lng": -82.71292, "type": "STANDARD", "counties": [{"fips": "073", "name": "Hawkins"}]}

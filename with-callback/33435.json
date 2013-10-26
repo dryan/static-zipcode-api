@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.524549, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Briny Breezes", "lng": -80.06321, "zip_code": "33435"});
+zipapicallback({"locality": "Boynton Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Boynton Beach", "Briny Breezes", "Ocean Ridge"], "postal_code": "33435", "lat": 26.524549, "lng": -80.06321, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

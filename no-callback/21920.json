@@ -1,1 +1,1 @@
-{"lat": 39.658943, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Elk Mills", "lng": -75.82314, "zip_code": "21920"}
+{"locality": "Elk Mills", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Elk Mills"], "postal_code": "21920", "lat": 39.658943, "lng": -75.82314, "type": "POBOX", "counties": [{"fips": "015", "name": "Cecil"}]}

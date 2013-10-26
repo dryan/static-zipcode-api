@@ -1,1 +1,1 @@
-{"lat": 40.862685, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Leonia", "lng": -73.98551, "zip_code": "07605"}
+{"locality": "Leonia", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Leonia"], "postal_code": "07605", "lat": 40.862685, "lng": -73.98551, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

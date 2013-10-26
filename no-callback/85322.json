@@ -1,1 +1,1 @@
-{"lat": 33.274422, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Arlington", "lng": -112.78934, "zip_code": "85322"}
+{"locality": "Arlington", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Arlington"], "postal_code": "85322", "lat": 33.274422, "lng": -112.78934, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

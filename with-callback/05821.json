@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.311706, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Barnet", "lng": -72.10346, "zip_code": "05821"});
+zipapicallback({"locality": "Barnet", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Barnet"], "postal_code": "05821", "lat": 44.311706, "lng": -72.10346, "type": "STANDARD", "counties": [{"fips": "005", "name": "Caledonia"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.993124, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Worland", "lng": -107.97365, "zip_code": "82401"});
+zipapicallback({"locality": "Worland", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Worland"], "postal_code": "82401", "lat": 43.993124, "lng": -107.97365, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washakie"}]});

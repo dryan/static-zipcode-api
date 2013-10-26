@@ -1,1 +1,1 @@
-{"lat": 40.266289, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clyde", "lng": -94.66893, "zip_code": "64432"}
+{"locality": "Clyde", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clyde"], "postal_code": "64432", "lat": 40.266289, "lng": -94.66893, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}]}

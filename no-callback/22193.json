@@ -1,1 +1,1 @@
-{"lat": 38.646375, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dale City", "lng": -77.34469, "zip_code": "22193"}
+{"locality": "Woodbridge", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dale City", "Woodbridge"], "postal_code": "22193", "lat": 38.646375, "lng": -77.34469, "type": "STANDARD", "counties": [{"fips": "153", "name": "Prince William"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.300262, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lawton", "lng": -94.75259, "zip_code": "66781"});
+zipapicallback({"locality": "Weir", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lawton", "Weir"], "postal_code": "66781", "lat": 37.300262, "lng": -94.75259, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}, {"fips": "037", "name": "Crawford"}]});

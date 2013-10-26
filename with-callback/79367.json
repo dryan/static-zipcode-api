@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.588639, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Smyer", "lng": -102.16126, "zip_code": "79367"});
+zipapicallback({"locality": "Smyer", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Smyer"], "postal_code": "79367", "lat": 33.588639, "lng": -102.16126, "type": "POBOX", "counties": [{"fips": "219", "name": "Hockley"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.258124, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Groesbeck", "lng": -84.58733, "zip_code": "45251"});
+zipapicallback({"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Colerain Township", "Colerain Twp", "Groesbeck"], "postal_code": "45251", "lat": 39.258124, "lng": -84.58733, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.123588, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Akron", "lng": -81.57129, "zip_code": "44313"});
+zipapicallback({"locality": "Akron", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Akron"], "postal_code": "44313", "lat": 41.123588, "lng": -81.57129, "type": "STANDARD", "counties": [{"fips": "153", "name": "Summit"}, {"fips": "103", "name": "Medina"}]});

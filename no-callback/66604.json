@@ -1,1 +1,1 @@
-{"lat": 39.04045, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Topeka", "lng": -95.71698, "zip_code": "66604"}
+{"locality": "Topeka", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Topeka"], "postal_code": "66604", "lat": 39.04045, "lng": -95.71698, "type": "STANDARD", "counties": [{"fips": "177", "name": "Shawnee"}]}

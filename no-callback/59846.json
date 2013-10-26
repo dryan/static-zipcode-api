@@ -1,1 +1,1 @@
-{"lat": 47.107612, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Huson", "lng": -114.44619, "zip_code": "59846"}
+{"locality": "Huson", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Huson"], "postal_code": "59846", "lat": 47.107612, "lng": -114.44619, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}]}

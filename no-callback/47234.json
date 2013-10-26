@@ -1,1 +1,1 @@
-{"lat": 39.370375, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Flat Rock", "lng": -85.78008, "zip_code": "47234"}
+{"locality": "Flat Rock", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Flat Rock"], "postal_code": "47234", "lat": 39.370375, "lng": -85.78008, "type": "STANDARD", "counties": [{"fips": "145", "name": "Shelby"}, {"fips": "005", "name": "Bartholomew"}]}

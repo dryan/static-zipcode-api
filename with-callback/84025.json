@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.988347, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Farmington", "lng": -111.88847, "zip_code": "84025"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Farmington"], "postal_code": "84025", "lat": 40.988347, "lng": -111.88847, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.796442, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Glenrock", "lng": -105.91078, "zip_code": "82637"});
+zipapicallback({"locality": "Glenrock", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Glenrock", "Parkerton", "Rolling Hills"], "postal_code": "82637", "lat": 42.796442, "lng": -105.91078, "type": "STANDARD", "counties": [{"fips": "009", "name": "Converse"}]});

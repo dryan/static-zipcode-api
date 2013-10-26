@@ -1,1 +1,1 @@
-{"lat": 40.99313, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Kinnelon", "lng": -74.35893, "zip_code": "07405"}
+{"locality": "Butler", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Butler", "Kinnelon"], "postal_code": "07405", "lat": 40.99313, "lng": -74.35893, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

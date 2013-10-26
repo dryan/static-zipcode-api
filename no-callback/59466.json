@@ -1,1 +1,1 @@
-{"lat": 48.842195, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Oilmont", "lng": -111.59529, "zip_code": "59466"}
+{"locality": "Oilmont", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ferdig", "Oilmont"], "postal_code": "59466", "lat": 48.842195, "lng": -111.59529, "type": "STANDARD", "counties": [{"fips": "101", "name": "Toole"}]}

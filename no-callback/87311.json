@@ -1,1 +1,1 @@
-{"lat": 35.598798, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Church Rock", "lng": -108.51792, "zip_code": "87311"}
+{"locality": "Church Rock", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Church Rock"], "postal_code": "87311", "lat": 35.598798, "lng": -108.51792, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

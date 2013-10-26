@@ -1,1 +1,1 @@
-{"lat": 33.453628, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gunter", "lng": -96.73436, "zip_code": "75058"}
+{"locality": "Gunter", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gunter"], "postal_code": "75058", "lat": 33.453628, "lng": -96.73436, "type": "STANDARD", "counties": [{"fips": "181", "name": "Grayson"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.569536, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Douglas", "lng": -109.23407, "zip_code": "85608"}
+{"locality": "Douglas", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Douglas"], "postal_code": "85608", "lat": 31.569536, "lng": -109.23407, "type": "POBOX", "counties": [{"fips": "003", "name": "Cochise"}]}

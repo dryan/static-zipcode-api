@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.750999, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nottingham", "lng": -76.059, "zip_code": "19362"});
+zipapicallback({"locality": "Nottingham", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Nottingham"], "postal_code": "19362", "lat": 39.750999, "lng": -76.059, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]});

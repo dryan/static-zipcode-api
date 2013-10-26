@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.693358, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Maryville", "lng": -83.98412, "zip_code": "37803"});
+zipapicallback({"locality": "Maryville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Maryville"], "postal_code": "37803", "lat": 35.693358, "lng": -83.98412, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}]});

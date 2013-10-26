@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.557364, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Sang Run", "lng": -79.35999, "zip_code": "21541"});
+zipapicallback({"locality": "Mc Henry", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Mc Henry", "Sang Run"], "postal_code": "21541", "lat": 39.557364, "lng": -79.35999, "type": "STANDARD", "counties": [{"fips": "023", "name": "Garrett"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.237206, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lansdale", "lng": -75.29156, "zip_code": "19446"});
+zipapicallback({"locality": "Lansdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lansdale", "Upper Gwynedd"], "postal_code": "19446", "lat": 40.237206, "lng": -75.29156, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

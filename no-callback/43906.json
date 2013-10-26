@@ -1,1 +1,1 @@
-{"lat": 40.01558, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bellaire", "lng": -80.76343, "zip_code": "43906"}
+{"locality": "Bellaire", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bellaire"], "postal_code": "43906", "lat": 40.01558, "lng": -80.76343, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}]}

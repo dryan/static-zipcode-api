@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.303038, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Yosemite", "lng": -84.77674, "zip_code": "42566"});
+zipapicallback({"locality": "Yosemite", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Yosemite"], "postal_code": "42566", "lat": 37.303038, "lng": -84.77674, "type": "STANDARD", "counties": [{"fips": "045", "name": "Casey"}]});

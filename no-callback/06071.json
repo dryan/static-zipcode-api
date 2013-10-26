@@ -1,1 +1,1 @@
-{"lat": 41.995851, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Somers", "lng": -72.45336, "zip_code": "06071"}
+{"locality": "Somers", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Somers"], "postal_code": "06071", "lat": 41.995851, "lng": -72.45336, "type": "STANDARD", "counties": [{"fips": "013", "name": "Tolland"}]}

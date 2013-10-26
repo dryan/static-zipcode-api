@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.169608, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Maple Glen", "lng": -75.21158, "zip_code": "19002"});
+zipapicallback({"locality": "Ambler", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ambler", "Lower Gwynedd", "Maple Glen"], "postal_code": "19002", "lat": 40.169608, "lng": -75.21158, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

@@ -1,1 +1,1 @@
-{"lat": 28.137443, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Eau Gallie", "lng": -80.69211, "zip_code": "32934"}
+{"locality": "Melbourne", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Eau Gallie", "Melbourne"], "postal_code": "32934", "lat": 28.137443, "lng": -80.69211, "type": "STANDARD", "counties": []}

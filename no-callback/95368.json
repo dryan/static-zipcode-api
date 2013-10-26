@@ -1,1 +1,1 @@
-{"lat": 37.708727, "region": {"abbr": "CA", "name": "California"}, "locality": "Salida", "lng": -121.08928, "zip_code": "95368"}
+{"locality": "Salida", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Salida"], "postal_code": "95368", "lat": 37.708727, "lng": -121.08928, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}, {"fips": "077", "name": "San Joaquin"}, {"fips": "047", "name": "Merced"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.801665, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cherrylog", "lng": -84.37931, "zip_code": "30522"});
+zipapicallback({"locality": "Cherry Log", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cherry Log"], "postal_code": "30522", "lat": 34.801665, "lng": -84.37931, "type": "STANDARD", "counties": [{"fips": "123", "name": "Gilmer"}]});

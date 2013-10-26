@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.969185, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Norton", "lng": -71.1854, "zip_code": "02766"});
+zipapicallback({"locality": "Norton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Norton"], "postal_code": "02766", "lat": 41.969185, "lng": -71.1854, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.639534, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hewlett", "lng": -73.69253, "zip_code": "11557"});
+zipapicallback({"locality": "Hewlett", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hewlett"], "postal_code": "11557", "lat": 40.639534, "lng": -73.69253, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.087468, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Germantown", "lng": -89.7615, "zip_code": "38139"}
+{"locality": "Germantown", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Germantown", "Memphis"], "postal_code": "38139", "lat": 35.087468, "lng": -89.7615, "type": "STANDARD", "counties": []}

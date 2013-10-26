@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.672295, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Noble", "lng": -93.71997, "zip_code": "71462"});
+zipapicallback({"locality": "Noble", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Noble"], "postal_code": "71462", "lat": 31.672295, "lng": -93.71997, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sabine"}]});

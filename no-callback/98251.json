@@ -1,1 +1,1 @@
-{"lat": 47.851713, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Gold Bar", "lng": -121.66644, "zip_code": "98251"}
+{"locality": "Gold Bar", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Gold Bar"], "postal_code": "98251", "lat": 47.851713, "lng": -121.66644, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}]}

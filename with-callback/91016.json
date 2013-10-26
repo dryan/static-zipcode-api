@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.140806, "region": {"abbr": "CA", "name": "California"}, "locality": "Monrovia", "lng": -118.00184, "zip_code": "91016"});
+zipapicallback({"locality": "Monrovia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Monrovia"], "postal_code": "91016", "lat": 34.140806, "lng": -118.00184, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

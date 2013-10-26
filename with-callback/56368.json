@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.448703, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Richmond", "lng": -94.52597, "zip_code": "56368"});
+zipapicallback({"locality": "Richmond", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Richmond"], "postal_code": "56368", "lat": 45.448703, "lng": -94.52597, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}]});

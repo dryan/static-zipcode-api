@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.367889, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Grand Rapids", "lng": -98.29376, "zip_code": "58458"});
+zipapicallback({"locality": "Lamoure", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Grand Rapids", "Lamoure"], "postal_code": "58458", "lat": 46.367889, "lng": -98.29376, "type": "STANDARD", "counties": [{"fips": "045", "name": "Lamoure"}, {"fips": "021", "name": "Dickey"}]});

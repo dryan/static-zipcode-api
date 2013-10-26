@@ -1,1 +1,1 @@
-{"lat": 18.233927, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Caguas", "lng": -66.04502, "zip_code": "00725"}
+{"locality": "Caguas", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Caguas"], "postal_code": "00725", "lat": 18.233927, "lng": -66.04502, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 38.850243, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lees Summit", "lng": -94.3957, "zip_code": "64082"}
+{"locality": "Lees Summit", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lees Summit"], "postal_code": "64082", "lat": 38.850243, "lng": -94.3957, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}, {"fips": "037", "name": "Cass"}]}

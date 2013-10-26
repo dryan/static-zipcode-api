@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.98586, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Gilly", "lng": -83.06497, "zip_code": "41819"});
+zipapicallback({"locality": "Gordon", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gilly", "Gordon"], "postal_code": "41819", "lat": 36.98586, "lng": -83.06497, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

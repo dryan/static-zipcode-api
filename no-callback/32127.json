@@ -1,1 +1,1 @@
-{"lat": 29.116361, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Port Orange", "lng": -80.98175, "zip_code": "32127"}
+{"locality": "Port Orange", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ponce Inlet", "Port Orange", "Pt Orange", "Wilbur By Sea", "Wilbur By The Sea"], "postal_code": "32127", "lat": 29.116361, "lng": -80.98175, "type": "STANDARD", "counties": []}

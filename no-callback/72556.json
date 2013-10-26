@@ -1,1 +1,1 @@
-{"lat": 36.035962, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Zion", "lng": -91.92696, "zip_code": "72556"}
+{"locality": "Melbourne", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Boswell", "Melbourne", "Zion"], "postal_code": "72556", "lat": 36.035962, "lng": -91.92696, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]}

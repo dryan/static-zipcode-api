@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.617796, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Auburn", "lng": -84.07918, "zip_code": "48611"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Auburn"], "postal_code": "48611", "lat": 43.617796, "lng": -84.07918, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}]});

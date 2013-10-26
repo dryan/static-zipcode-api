@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.735559, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Traverse City", "lng": -85.54511, "zip_code": "49686"});
+zipapicallback({"locality": "Traverse City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Traverse City"], "postal_code": "49686", "lat": 44.735559, "lng": -85.54511, "type": "STANDARD", "counties": []});

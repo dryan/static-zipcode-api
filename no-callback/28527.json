@@ -1,1 +1,1 @@
-{"lat": 35.244257, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ernul", "lng": -77.01504, "zip_code": "28527"}
+{"locality": "Ernul", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ernul"], "postal_code": "28527", "lat": 35.244257, "lng": -77.01504, "type": "STANDARD", "counties": [{"fips": "049", "name": "Craven"}]}

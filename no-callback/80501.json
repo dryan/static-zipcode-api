@@ -1,1 +1,1 @@
-{"lat": 40.171484, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Longmont", "lng": -105.10033, "zip_code": "80501"}
+{"locality": "Longmont", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Longmont"], "postal_code": "80501", "lat": 40.171484, "lng": -105.10033, "type": "STANDARD", "counties": [{"fips": "013", "name": "Boulder"}, {"fips": "123", "name": "Weld"}, {"fips": "069", "name": "Larimer"}]}

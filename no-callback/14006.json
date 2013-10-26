@@ -1,1 +1,1 @@
-{"lat": 42.633375, "region": {"abbr": "NY", "name": "New York"}, "locality": "Angola", "lng": -79.04567, "zip_code": "14006"}
+{"locality": "Angola", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Angola"], "postal_code": "14006", "lat": 42.633375, "lng": -79.04567, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

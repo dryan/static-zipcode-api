@@ -1,1 +1,1 @@
-{"lat": 37.924242, "region": {"abbr": "CA", "name": "California"}, "locality": "Corte Madera", "lng": -122.516, "zip_code": "94925"}
+{"locality": "Corte Madera", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Corte Madera"], "postal_code": "94925", "lat": 37.924242, "lng": -122.516, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}, {"fips": "097", "name": "Sonoma"}]}

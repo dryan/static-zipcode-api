@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.937513, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "North Canton", "lng": -72.92017, "zip_code": "06059"});
+zipapicallback({"locality": "North Canton", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["North Canton"], "postal_code": "06059", "lat": 41.937513, "lng": -72.92017, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}, {"fips": "005", "name": "Litchfield"}]});

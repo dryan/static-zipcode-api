@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.729159, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Little Rock", "lng": -92.34019, "zip_code": "72204"});
+zipapicallback({"locality": "Little Rock", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Little Rock"], "postal_code": "72204", "lat": 34.729159, "lng": -92.34019, "type": "STANDARD", "counties": [{"fips": "119", "name": "Pulaski"}]});

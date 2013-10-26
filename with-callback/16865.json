@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.722897, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pennsylvania Fur", "lng": -77.96941, "zip_code": "16865"});
+zipapicallback({"locality": "Pennsylvania Furnace", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pa Furnace", "Pennsylvania Furnace"], "postal_code": "16865", "lat": 40.722897, "lng": -77.96941, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}, {"fips": "061", "name": "Huntingdon"}]});

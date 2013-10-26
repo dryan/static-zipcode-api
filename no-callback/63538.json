@@ -1,1 +1,1 @@
-{"lat": 39.952779, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Elmer", "lng": -92.68007, "zip_code": "63538"}
+{"locality": "Elmer", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Elmer"], "postal_code": "63538", "lat": 39.952779, "lng": -92.68007, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}]}

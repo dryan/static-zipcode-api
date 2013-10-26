@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.689794, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Hope", "lng": -97.12005, "zip_code": "67451"});
+zipapicallback({"locality": "Hope", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hope", "Navarre"], "postal_code": "67451", "lat": 38.689794, "lng": -97.12005, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dickinson"}, {"fips": "115", "name": "Marion"}]});

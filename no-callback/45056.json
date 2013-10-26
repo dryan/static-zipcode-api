@@ -1,1 +1,1 @@
-{"lat": 39.498751, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Miami University", "lng": -84.7407, "zip_code": "45056"}
+{"locality": "Oxford", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Miami Univ", "Miami University", "Oxford"], "postal_code": "45056", "lat": 39.498751, "lng": -84.7407, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]}

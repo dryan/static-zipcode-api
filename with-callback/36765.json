@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.594818, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Newbern", "lng": -87.53543, "zip_code": "36765"});
+zipapicallback({"locality": "Newbern", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Newbern"], "postal_code": "36765", "lat": 32.594818, "lng": -87.53543, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hale"}, {"fips": "105", "name": "Perry"}]});

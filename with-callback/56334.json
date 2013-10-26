@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.609555, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Glenwood", "lng": -95.35104, "zip_code": "56334"});
+zipapicallback({"locality": "Glenwood", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Glenwood", "Long Beach", "Sedan"], "postal_code": "56334", "lat": 45.609555, "lng": -95.35104, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pope"}, {"fips": "041", "name": "Douglas"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.609434, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Meridian", "lng": -116.39642, "zip_code": "83642"});
+zipapicallback({"locality": "Meridian", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Meridian"], "postal_code": "83642", "lat": 43.609434, "lng": -116.39642, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}]});

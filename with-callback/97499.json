@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.593788, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Yoncalla", "lng": -123.26602, "zip_code": "97499"});
+zipapicallback({"locality": "Yoncalla", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Yoncalla"], "postal_code": "97499", "lat": 43.593788, "lng": -123.26602, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]});

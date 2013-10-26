@@ -1,1 +1,1 @@
-{"lat": 33.572356, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cameron", "lng": -80.67158, "zip_code": "29030"}
+{"locality": "Cameron", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cameron", "Lone Star"], "postal_code": "29030", "lat": 33.572356, "lng": -80.67158, "type": "STANDARD", "counties": [{"fips": "017", "name": "Calhoun"}, {"fips": "075", "name": "Orangeburg"}]}

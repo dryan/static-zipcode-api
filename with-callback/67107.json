@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.193313, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Moundridge", "lng": -97.52827, "zip_code": "67107"});
+zipapicallback({"locality": "Moundridge", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Moundridge"], "postal_code": "67107", "lat": 38.193313, "lng": -97.52827, "type": "STANDARD", "counties": [{"fips": "113", "name": "McPherson"}, {"fips": "079", "name": "Harvey"}]});

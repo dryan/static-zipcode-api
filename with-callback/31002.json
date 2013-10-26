@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.549854, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Adrian", "lng": -82.56948, "zip_code": "31002"});
+zipapicallback({"locality": "Adrian", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Adrian"], "postal_code": "31002", "lat": 32.549854, "lng": -82.56948, "type": "STANDARD", "counties": [{"fips": "107", "name": "Emanuel"}, {"fips": "283", "name": "Treutlen"}, {"fips": "167", "name": "Johnson"}, {"fips": "175", "name": "Laurens"}]});

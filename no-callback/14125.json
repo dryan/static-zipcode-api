@@ -1,1 +1,1 @@
-{"lat": 43.077433, "region": {"abbr": "NY", "name": "New York"}, "locality": "Oakfield", "lng": -78.27816, "zip_code": "14125"}
+{"locality": "Oakfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Oakfield"], "postal_code": "14125", "lat": 43.077433, "lng": -78.27816, "type": "STANDARD", "counties": [{"fips": "037", "name": "Genesee"}, {"fips": "073", "name": "Orleans"}]}

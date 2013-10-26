@@ -1,1 +1,1 @@
-{"lat": 40.228533, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Platteville", "lng": -104.84267, "zip_code": "80651"}
+{"locality": "Platteville", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Platteville"], "postal_code": "80651", "lat": 40.228533, "lng": -104.84267, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

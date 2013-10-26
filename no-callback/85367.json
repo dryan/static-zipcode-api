@@ -1,1 +1,1 @@
-{"lat": 32.654701, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Yuma", "lng": -114.40884, "zip_code": "85367"}
+{"locality": "Yuma", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Yuma"], "postal_code": "85367", "lat": 32.654701, "lng": -114.40884, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.81913, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Basye", "lng": -78.77149, "zip_code": "22810"});
+zipapicallback({"locality": "Basye", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Basye"], "postal_code": "22810", "lat": 38.81913, "lng": -78.77149, "type": "STANDARD", "counties": [{"fips": "171", "name": "Shenandoah"}]});

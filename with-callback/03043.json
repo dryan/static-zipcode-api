@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.976901, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Francestown", "lng": -71.81007, "zip_code": "03043"});
+zipapicallback({"locality": "Francestown", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Francestown"], "postal_code": "03043", "lat": 42.976901, "lng": -71.81007, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]});

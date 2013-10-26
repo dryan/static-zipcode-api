@@ -1,1 +1,1 @@
-{"lat": 38.092097, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cuba", "lng": -91.4163, "zip_code": "65453"}
+{"locality": "Cuba", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cuba"], "postal_code": "65453", "lat": 38.092097, "lng": -91.4163, "type": "STANDARD", "counties": [{"fips": "055", "name": "Crawford"}, {"fips": "071", "name": "Franklin"}, {"fips": "073", "name": "Gasconade"}]}

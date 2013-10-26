@@ -1,1 +1,1 @@
-{"lat": 42.459398, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Winthrop", "lng": -91.71229, "zip_code": "50682"}
+{"locality": "Winthrop", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Winthrop"], "postal_code": "50682", "lat": 42.459398, "lng": -91.71229, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buchanan"}]}

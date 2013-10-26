@@ -1,1 +1,1 @@
-zipapicallback({"lat": 66.917381, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Bettles", "lng": -151.50508, "zip_code": "99726"});
+zipapicallback({"locality": "Bettles Field", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Bettles Field"], "postal_code": "99726", "lat": 66.917381, "lng": -151.50508, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

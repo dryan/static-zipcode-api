@@ -1,1 +1,1 @@
-{"lat": 42.381475, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Haydenville", "lng": -72.69259, "zip_code": "01039"}
+{"locality": "Haydenville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Haydenville", "West Whately"], "postal_code": "01039", "lat": 42.381475, "lng": -72.69259, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]}

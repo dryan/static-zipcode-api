@@ -1,1 +1,1 @@
-{"lat": 36.072336, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Glen Raven", "lng": -79.4698, "zip_code": "27215"}
+{"locality": "Burlington", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Burlington", "Glen Raven"], "postal_code": "27215", "lat": 36.072336, "lng": -79.4698, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alamance"}, {"fips": "033", "name": "Caswell"}]}

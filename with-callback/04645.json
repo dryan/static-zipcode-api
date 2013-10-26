@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.058801, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Isle Au Haut", "lng": -68.61685, "zip_code": "04645"});
+zipapicallback({"locality": "Isle Au Haut", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Isle Au Haut", "Stonington"], "postal_code": "04645", "lat": 44.058801, "lng": -68.61685, "type": "POBOX", "counties": [{"fips": "013", "name": "Knox"}]});

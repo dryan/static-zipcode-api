@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.797398, "region": {"abbr": "ME", "name": "Maine"}, "locality": "South Harpswell", "lng": -69.95217, "zip_code": "04079"});
+zipapicallback({"locality": "Harpswell", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Harpswell", "S Harpswell", "South Harpswell"], "postal_code": "04079", "lat": 43.797398, "lng": -69.95217, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

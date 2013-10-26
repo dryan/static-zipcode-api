@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.49696, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Shenandoah", "lng": -78.61997, "zip_code": "22849"});
+zipapicallback({"locality": "Shenandoah", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Shenandoah"], "postal_code": "22849", "lat": 38.49696, "lng": -78.61997, "type": "STANDARD", "counties": [{"fips": "139", "name": "Page"}, {"fips": "165", "name": "Rockingham"}]});

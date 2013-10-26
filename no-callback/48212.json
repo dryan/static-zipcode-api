@@ -1,1 +1,1 @@
-{"lat": 42.410037, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hamtramck", "lng": -83.05826, "zip_code": "48212"}
+{"locality": "Hamtramck", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Hamtramck"], "postal_code": "48212", "lat": 42.410037, "lng": -83.05826, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

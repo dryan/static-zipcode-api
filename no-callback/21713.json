@@ -1,1 +1,1 @@
-{"lat": 39.521507, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Fahrney Keedy Me", "lng": -77.66056, "zip_code": "21713"}
+{"locality": "Boonsboro", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Boonsboro"], "postal_code": "21713", "lat": 39.521507, "lng": -77.66056, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washington"}]}

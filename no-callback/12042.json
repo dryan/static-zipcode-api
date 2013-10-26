@@ -1,1 +1,1 @@
-{"lat": 42.403719, "region": {"abbr": "NY", "name": "New York"}, "locality": "Climax", "lng": -73.90875, "zip_code": "12042"}
+{"locality": "Climax", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Climax"], "postal_code": "12042", "lat": 42.403719, "lng": -73.90875, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]}

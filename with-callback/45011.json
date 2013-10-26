@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.404856, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hamilton", "lng": -84.52271, "zip_code": "45011"});
+zipapicallback({"locality": "Hamilton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fairfield", "Hamilton", "Indian Spgs", "Liberty Twp", "Village Of Indian Springs", "West Chester"], "postal_code": "45011", "lat": 39.404856, "lng": -84.52271, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]});

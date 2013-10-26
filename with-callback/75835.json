@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.315837, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Austonio", "lng": -95.47393, "zip_code": "75835"});
+zipapicallback({"locality": "Crockett", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Crockett"], "postal_code": "75835", "lat": 31.315837, "lng": -95.47393, "type": "STANDARD", "counties": [{"fips": "225", "name": "Houston"}]});

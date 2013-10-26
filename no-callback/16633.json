@@ -1,1 +1,1 @@
-{"lat": 40.160858, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Defiance", "lng": -78.23205, "zip_code": "16633"}
+{"locality": "Defiance", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Defiance"], "postal_code": "16633", "lat": 40.160858, "lng": -78.23205, "type": "POBOX", "counties": [{"fips": "009", "name": "Bedford"}]}

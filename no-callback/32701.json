@@ -1,1 +1,1 @@
-{"lat": 28.666249, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Altamonte Spring", "lng": -81.36796, "zip_code": "32701"}
+{"locality": "Altamonte Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Altamonte Spg", "Altamonte Springs"], "postal_code": "32701", "lat": 28.666249, "lng": -81.36796, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

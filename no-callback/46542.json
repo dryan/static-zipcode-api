@@ -1,1 +1,1 @@
-{"lat": 41.408621, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Milford", "lng": -85.86531, "zip_code": "46542"}
+{"locality": "Milford", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Milford"], "postal_code": "46542", "lat": 41.408621, "lng": -85.86531, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elkhart"}, {"fips": "085", "name": "Kosciusko"}]}

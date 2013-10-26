@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.740368, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Valdese", "lng": -81.56804, "zip_code": "28690"});
+zipapicallback({"locality": "Valdese", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Valdese"], "postal_code": "28690", "lat": 35.740368, "lng": -81.56804, "type": "STANDARD", "counties": [{"fips": "023", "name": "Burke"}]});

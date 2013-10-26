@@ -1,1 +1,1 @@
-{"lat": 43.645603, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wisconsin Dells", "lng": -89.78104, "zip_code": "53965"}
+{"locality": "Wisconsin Dells", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wisc Dells", "Wisconsin Dells"], "postal_code": "53965", "lat": 43.645603, "lng": -89.78104, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}, {"fips": "111", "name": "Sauk"}, {"fips": "001", "name": "Adams"}, {"fips": "057", "name": "Juneau"}]}

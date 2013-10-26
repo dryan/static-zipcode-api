@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.93382, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Heath", "lng": -96.45446, "zip_code": "75087"});
+zipapicallback({"locality": "Rockwall", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rockwall"], "postal_code": "75087", "lat": 32.93382, "lng": -96.45446, "type": "STANDARD", "counties": [{"fips": "397", "name": "Rockwall"}, {"fips": "257", "name": "Kaufman"}, {"fips": "113", "name": "Dallas"}]});

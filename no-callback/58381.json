@@ -1,1 +1,1 @@
-{"lat": 47.840223, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Warwick", "lng": -98.74895, "zip_code": "58381"}
+{"locality": "Warwick", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Warwick"], "postal_code": "58381", "lat": 47.840223, "lng": -98.74895, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}, {"fips": "027", "name": "Eddy"}]}

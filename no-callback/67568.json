@@ -1,1 +1,1 @@
-{"lat": 38.006382, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Plevna", "lng": -98.31657, "zip_code": "67568"}
+{"locality": "Plevna", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Plevna"], "postal_code": "67568", "lat": 38.006382, "lng": -98.31657, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}]}

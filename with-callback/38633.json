@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.628795, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Hickory Flat", "lng": -89.20147, "zip_code": "38633"});
+zipapicallback({"locality": "Hickory Flat", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hickory Flat"], "postal_code": "38633", "lat": 34.628795, "lng": -89.20147, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benton"}, {"fips": "145", "name": "Union"}]});

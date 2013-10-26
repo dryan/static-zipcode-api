@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.972505, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Durham", "lng": -70.12291, "zip_code": "04222"});
+zipapicallback({"locality": "Durham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Durham"], "postal_code": "04222", "lat": 43.972505, "lng": -70.12291, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.142094, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Vernon", "lng": -99.29649, "zip_code": "76384"});
+zipapicallback({"locality": "Vernon", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Vernon"], "postal_code": "76384", "lat": 34.142094, "lng": -99.29649, "type": "STANDARD", "counties": [{"fips": "487", "name": "Wilbarger"}]});

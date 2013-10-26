@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.824554, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Oak Flat", "lng": -120.25764, "zip_code": "95305"});
+zipapicallback({"locality": "Big Oak Flat", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Oak Flat"], "postal_code": "95305", "lat": 37.824554, "lng": -120.25764, "type": "POBOX", "counties": [{"fips": "109", "name": "Tuolumne"}]});

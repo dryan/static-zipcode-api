@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.1375, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clear Lake", "lng": -93.38463, "zip_code": "50428"});
+zipapicallback({"locality": "Clear Lake", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clear Lake"], "postal_code": "50428", "lat": 43.1375, "lng": -93.38463, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cerro Gordo"}]});

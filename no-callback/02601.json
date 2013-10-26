@@ -1,1 +1,1 @@
-{"lat": 41.654741, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Yarmouth", "lng": -70.2895, "zip_code": "02601"}
+{"locality": "Hyannis", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hyannis"], "postal_code": "02601", "lat": 41.654741, "lng": -70.2895, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

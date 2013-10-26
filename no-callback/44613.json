@@ -1,1 +1,1 @@
-{"lat": 40.712109, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Brewster", "lng": -81.59859, "zip_code": "44613"}
+{"locality": "Brewster", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Brewster"], "postal_code": "44613", "lat": 40.712109, "lng": -81.59859, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]}

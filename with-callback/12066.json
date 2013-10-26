@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.784091, "region": {"abbr": "NY", "name": "New York"}, "locality": "Esperance", "lng": -74.3116, "zip_code": "12066"});
+zipapicallback({"locality": "Esperance", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Esperance"], "postal_code": "12066", "lat": 42.784091, "lng": -74.3116, "type": "STANDARD", "counties": [{"fips": "057", "name": "Montgomery"}, {"fips": "093", "name": "Schenectady"}, {"fips": "095", "name": "Schoharie"}]});

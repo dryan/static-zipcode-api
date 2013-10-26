@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.373399, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Caddo Gap", "lng": -93.70591, "zip_code": "71935"});
+zipapicallback({"locality": "Caddo Gap", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Caddo Gap"], "postal_code": "71935", "lat": 34.373399, "lng": -93.70591, "type": "STANDARD", "counties": [{"fips": "097", "name": "Montgomery"}]});

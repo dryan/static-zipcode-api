@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.03667, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Farmington", "lng": -94.25261, "zip_code": "72730"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Farmington", "Fayetteville"], "postal_code": "72730", "lat": 36.03667, "lng": -94.25261, "type": "STANDARD", "counties": [{"fips": "143", "name": "Washington"}]});

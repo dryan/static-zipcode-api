@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.575166, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jesup", "lng": -81.86481, "zip_code": "31546"});
+zipapicallback({"locality": "Jesup", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Jesup"], "postal_code": "31546", "lat": 31.575166, "lng": -81.86481, "type": "STANDARD", "counties": []});

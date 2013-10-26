@@ -1,1 +1,1 @@
-{"lat": 34.428673, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Blair", "lng": -81.35898, "zip_code": "29015"}
+{"locality": "Blair", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Blair"], "postal_code": "29015", "lat": 34.428673, "lng": -81.35898, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fairfield"}]}

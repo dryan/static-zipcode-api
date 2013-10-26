@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.88019, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hamlin", "lng": -100.13583, "zip_code": "79520"});
+zipapicallback({"locality": "Hamlin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hamlin"], "postal_code": "79520", "lat": 32.88019, "lng": -100.13583, "type": "STANDARD", "counties": [{"fips": "253", "name": "Jones"}, {"fips": "151", "name": "Fisher"}, {"fips": "433", "name": "Stonewall"}]});

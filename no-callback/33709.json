@@ -1,1 +1,1 @@
-{"lat": 27.815953, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kenneth City", "lng": -82.72865, "zip_code": "33709"}
+{"locality": "Saint Petersburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kenneth City", "Saint Petersburg", "St Petersburg"], "postal_code": "33709", "lat": 27.815953, "lng": -82.72865, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pinellas"}]}

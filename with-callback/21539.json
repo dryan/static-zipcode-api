@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.580942, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Lonaconing", "lng": -78.99073, "zip_code": "21539"});
+zipapicallback({"locality": "Lonaconing", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Lonaconing"], "postal_code": "21539", "lat": 39.580942, "lng": -78.99073, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allegany"}, {"fips": "023", "name": "Garrett"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.823295, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Hiattville", "lng": -94.73389, "zip_code": "66701"});
+zipapicallback({"locality": "Fort Scott", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Fort Scott", "Hiattville"], "postal_code": "66701", "lat": 37.823295, "lng": -94.73389, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bourbon"}, {"fips": "107", "name": "Linn"}, {"fips": "037", "name": "Crawford"}]});

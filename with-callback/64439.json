@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.527667, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Dearborn", "lng": -94.76577, "zip_code": "64439"});
+zipapicallback({"locality": "Dearborn", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dearborn"], "postal_code": "64439", "lat": 39.527667, "lng": -94.76577, "type": "STANDARD", "counties": [{"fips": "165", "name": "Platte"}, {"fips": "021", "name": "Buchanan"}]});

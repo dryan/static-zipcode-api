@@ -1,1 +1,1 @@
-{"lat": 39.257008, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Annada", "lng": -90.82317, "zip_code": "63330"}
+{"locality": "Annada", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Annada"], "postal_code": "63330", "lat": 39.257008, "lng": -90.82317, "type": "STANDARD", "counties": [{"fips": "163", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.414454, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Henderson", "lng": -88.66118, "zip_code": "38340"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Henderson"], "postal_code": "38340", "lat": 35.414454, "lng": -88.66118, "type": "STANDARD", "counties": [{"fips": "023", "name": "Chester"}]});

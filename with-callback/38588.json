@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.456113, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Whitleyville", "lng": -85.72381, "zip_code": "38588"});
+zipapicallback({"locality": "Whitleyville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Whitleyville"], "postal_code": "38588", "lat": 36.456113, "lng": -85.72381, "type": "STANDARD", "counties": [{"fips": "087", "name": "Jackson"}, {"fips": "111", "name": "MacOn"}, {"fips": "027", "name": "Clay"}]});

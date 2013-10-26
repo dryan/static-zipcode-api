@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Lawrenceville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lawrenceville"], "postal_code": "30049", "type": "POBOX", "counties": [{"fips": "063", "name": "Clayton"}, {"fips": "089", "name": "De Kalb"}, {"fips": "151", "name": "Henry"}, {"fips": "247", "name": "Rockdale"}]});

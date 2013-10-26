@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.33158, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Milford", "lng": -95.16337, "zip_code": "51351"});
+zipapicallback({"locality": "Milford", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Milford"], "postal_code": "51351", "lat": 43.33158, "lng": -95.16337, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dickinson"}]});

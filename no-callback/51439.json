@@ -1,1 +1,1 @@
-{"lat": 42.08255, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Charter Oak", "lng": -95.57938, "zip_code": "51439"}
+{"locality": "Charter Oak", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Charter Oak"], "postal_code": "51439", "lat": 42.08255, "lng": -95.57938, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]}

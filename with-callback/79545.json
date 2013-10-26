@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.422985, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Roscoe", "lng": -100.55397, "zip_code": "79545"});
+zipapicallback({"locality": "Roscoe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Roscoe"], "postal_code": "79545", "lat": 32.422985, "lng": -100.55397, "type": "STANDARD", "counties": [{"fips": "353", "name": "Nolan"}, {"fips": "151", "name": "Fisher"}, {"fips": "415", "name": "Scurry"}, {"fips": "335", "name": "Mitchell"}]});

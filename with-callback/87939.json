@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.377012, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Monticello", "lng": -107.43337, "zip_code": "87939"});
+zipapicallback({"locality": "Monticello", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Monticello"], "postal_code": "87939", "lat": 33.377012, "lng": -107.43337, "type": "STANDARD", "counties": [{"fips": "051", "name": "Sierra"}]});

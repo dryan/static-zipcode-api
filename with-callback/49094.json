@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.06137, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Union City", "lng": -85.11971, "zip_code": "49094"});
+zipapicallback({"locality": "Union City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Union City"], "postal_code": "49094", "lat": 42.06137, "lng": -85.11971, "type": "STANDARD", "counties": [{"fips": "023", "name": "Branch"}, {"fips": "025", "name": "Calhoun"}]});

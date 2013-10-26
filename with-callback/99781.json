@@ -1,1 +1,1 @@
-zipapicallback({"lat": 67.015569, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Venetie", "lng": -146.41736, "zip_code": "99781"});
+zipapicallback({"locality": "Venetie", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Venetie"], "postal_code": "99781", "lat": 67.015569, "lng": -146.41736, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

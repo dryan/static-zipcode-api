@@ -1,1 +1,1 @@
-{"lat": 44.308395, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "New Ulm", "lng": -94.46149, "zip_code": "56073"}
+{"locality": "New Ulm", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Essig", "Klossner", "New Ulm", "Searles"], "postal_code": "56073", "lat": 44.308395, "lng": -94.46149, "type": "STANDARD", "counties": [{"fips": "015", "name": "Brown"}, {"fips": "013", "name": "Blue Earth"}, {"fips": "103", "name": "Nicollet"}]}

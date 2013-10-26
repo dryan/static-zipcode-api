@@ -1,1 +1,1 @@
-{"lat": 34.426844, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Union Grove", "lng": -86.51841, "zip_code": "35175"}
+{"locality": "Union Grove", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Union Grove"], "postal_code": "35175", "lat": 34.426844, "lng": -86.51841, "type": "STANDARD", "counties": [{"fips": "095", "name": "Marshall"}, {"fips": "103", "name": "Morgan"}]}

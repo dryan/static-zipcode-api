@@ -1,1 +1,1 @@
-{"lat": 47.198818, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Hunter", "lng": -97.21831, "zip_code": "58048"}
+{"locality": "Hunter", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hunter"], "postal_code": "58048", "lat": 47.198818, "lng": -97.21831, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "097", "name": "Traill"}]}

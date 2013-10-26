@@ -1,1 +1,1 @@
-{"lat": 38.73796, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Minnora", "lng": -81.09478, "zip_code": "25268"}
+{"locality": "Orma", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Minnora", "Orma"], "postal_code": "25268", "lat": 38.73796, "lng": -81.09478, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

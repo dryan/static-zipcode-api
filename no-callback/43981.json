@@ -1,1 +1,1 @@
-{"lat": 40.184401, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Athens", "lng": -80.99519, "zip_code": "43981"}
+{"locality": "New Athens", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Athens"], "postal_code": "43981", "lat": 40.184401, "lng": -80.99519, "type": "POBOX", "counties": [{"fips": "067", "name": "Harrison"}]}

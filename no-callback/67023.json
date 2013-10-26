@@ -1,1 +1,1 @@
-{"lat": 37.327404, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Cambridge", "lng": -96.65629, "zip_code": "67023"}
+{"locality": "Cambridge", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Cambridge"], "postal_code": "67023", "lat": 37.327404, "lng": -96.65629, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cowley"}]}

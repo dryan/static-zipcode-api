@@ -1,1 +1,1 @@
-{"lat": 30.473536, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Port Allen", "lng": -91.26324, "zip_code": "70767"}
+{"locality": "Port Allen", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Port Allen"], "postal_code": "70767", "lat": 30.473536, "lng": -91.26324, "type": "STANDARD", "counties": [{"fips": "121", "name": "West Baton Rouge"}]}

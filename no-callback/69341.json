@@ -1,1 +1,1 @@
-{"lat": 41.803503, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gering", "lng": -103.65998, "zip_code": "69341"}
+{"locality": "Gering", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gering"], "postal_code": "69341", "lat": 41.803503, "lng": -103.65998, "type": "STANDARD", "counties": [{"fips": "157", "name": "Scotts Bluff"}, {"fips": "165", "name": "Sioux"}, {"fips": "007", "name": "Banner"}]}

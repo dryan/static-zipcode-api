@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.535276, "region": {"abbr": "NY", "name": "New York"}, "locality": "Silver Creek", "lng": -79.16539, "zip_code": "14136"});
+zipapicallback({"locality": "Silver Creek", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Silver Creek"], "postal_code": "14136", "lat": 42.535276, "lng": -79.16539, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

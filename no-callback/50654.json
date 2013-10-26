@@ -1,1 +1,1 @@
-{"lat": 42.440131, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Masonville", "lng": -91.60941, "zip_code": "50654"}
+{"locality": "Masonville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Masonville"], "postal_code": "50654", "lat": 42.440131, "lng": -91.60941, "type": "STANDARD", "counties": [{"fips": "055", "name": "Delaware"}, {"fips": "019", "name": "Buchanan"}]}

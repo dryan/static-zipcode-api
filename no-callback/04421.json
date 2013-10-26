@@ -1,1 +1,1 @@
-{"lat": 44.405928, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Castine", "lng": -68.79341, "zip_code": "04421"}
+{"locality": "Castine", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Castine"], "postal_code": "04421", "lat": 44.405928, "lng": -68.79341, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]}

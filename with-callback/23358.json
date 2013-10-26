@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.635833, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hacksneck", "lng": -75.86849, "zip_code": "23358"});
+zipapicallback({"locality": "Hacksneck", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hacks Neck", "Hacksneck"], "postal_code": "23358", "lat": 37.635833, "lng": -75.86849, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

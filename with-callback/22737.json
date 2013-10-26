@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.588409, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rixeyville", "lng": -77.98995, "zip_code": "22737"});
+zipapicallback({"locality": "Rixeyville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rixeyville"], "postal_code": "22737", "lat": 38.588409, "lng": -77.98995, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}]});

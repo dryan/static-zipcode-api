@@ -1,1 +1,1 @@
-{"lat": 41.534416, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Brayton", "lng": -94.90323, "zip_code": "50042"}
+{"locality": "Brayton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Brayton"], "postal_code": "50042", "lat": 41.534416, "lng": -94.90323, "type": "STANDARD", "counties": [{"fips": "009", "name": "Audubon"}]}

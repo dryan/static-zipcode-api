@@ -1,1 +1,1 @@
-{"lat": 39.368974, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Baltimore", "lng": -76.66904, "zip_code": "21209"}
+{"locality": "Baltimore", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Mount Washington", "Mt Washington"], "postal_code": "21209", "lat": 39.368974, "lng": -76.66904, "type": "STANDARD", "counties": [{"fips": "510", "name": "Baltimore (City)"}, {"fips": "005", "name": "Baltimore"}]}

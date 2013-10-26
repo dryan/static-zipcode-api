@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.367119, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mandeville", "lng": -90.05999, "zip_code": "70448"});
+zipapicallback({"locality": "Mandeville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mandeville"], "postal_code": "70448", "lat": 30.367119, "lng": -90.05999, "type": "STANDARD", "counties": [{"fips": "103", "name": "St. Tammany"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.300397, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Senterville", "lng": -82.39516, "zip_code": "41522"}
+{"locality": "Elkhorn City", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Draffin", "Elkhorn City", "Senterville"], "postal_code": "41522", "lat": 37.300397, "lng": -82.39516, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

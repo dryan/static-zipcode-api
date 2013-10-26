@@ -1,1 +1,1 @@
-{"lat": 41.836131, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "North Riverside", "lng": -87.82163, "zip_code": "60546"}
+{"locality": "Riverside", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["N Riverside", "North Riverside", "Riverside"], "postal_code": "60546", "lat": 41.836131, "lng": -87.82163, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

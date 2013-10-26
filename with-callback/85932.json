@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.927014, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Nutrioso", "lng": -109.22149, "zip_code": "85932"});
+zipapicallback({"locality": "Nutrioso", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Nutrioso"], "postal_code": "85932", "lat": 33.927014, "lng": -109.22149, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]});

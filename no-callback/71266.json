@@ -1,1 +1,1 @@
-{"lat": 32.714211, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pioneer", "lng": -91.45776, "zip_code": "71266"}
+{"locality": "Pioneer", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pioneer"], "postal_code": "71266", "lat": 32.714211, "lng": -91.45776, "type": "STANDARD", "counties": [{"fips": "123", "name": "West Carroll"}]}

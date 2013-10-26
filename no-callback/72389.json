@@ -1,1 +1,1 @@
-{"lat": 34.358049, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wabash", "lng": -90.88366, "zip_code": "72389"}
+{"locality": "Wabash", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wabash"], "postal_code": "72389", "lat": 34.358049, "lng": -90.88366, "type": "POBOX", "counties": [{"fips": "107", "name": "Phillips"}]}

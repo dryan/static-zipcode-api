@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.43704, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mathews", "lng": -76.30724, "zip_code": "23109"});
+zipapicallback({"locality": "Mathews", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Beaverlett", "Mathews"], "postal_code": "23109", "lat": 37.43704, "lng": -76.30724, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]});

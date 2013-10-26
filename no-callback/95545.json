@@ -1,1 +1,1 @@
-{"lat": 40.281369, "region": {"abbr": "CA", "name": "California"}, "locality": "Honeydew", "lng": -124.08998, "zip_code": "95545"}
+{"locality": "Honeydew", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Honeydew"], "postal_code": "95545", "lat": 40.281369, "lng": -124.08998, "type": "POBOX", "counties": [{"fips": "023", "name": "Humboldt"}]}

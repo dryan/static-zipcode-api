@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.90198, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Kents Store", "lng": -78.09647, "zip_code": "23084"});
+zipapicallback({"locality": "Kents Store", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Kents Store"], "postal_code": "23084", "lat": 37.90198, "lng": -78.09647, "type": "STANDARD", "counties": [{"fips": "075", "name": "Goochland"}, {"fips": "065", "name": "Fluvanna"}]});

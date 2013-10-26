@@ -1,1 +1,1 @@
-{"lat": 38.908741, "region": {"abbr": "CA", "name": "California"}, "locality": "South Lake Tahoe", "lng": -120.00992, "zip_code": "96150"}
+{"locality": "South Lake Tahoe", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["S Lake Tahoe", "South Lake Tahoe"], "postal_code": "96150", "lat": 38.908741, "lng": -120.00992, "type": "STANDARD", "counties": []}

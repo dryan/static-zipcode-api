@@ -1,1 +1,1 @@
-{"lat": 40.621621, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Walden", "lng": -106.24457, "zip_code": "80480"}
+{"locality": "Walden", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Walden"], "postal_code": "80480", "lat": 40.621621, "lng": -106.24457, "type": "STANDARD", "counties": [{"fips": "057", "name": "Jackson"}]}

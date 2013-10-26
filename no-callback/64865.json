@@ -1,1 +1,1 @@
-{"lat": 36.833365, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Seneca", "lng": -94.59415, "zip_code": "64865"}
+{"locality": "Seneca", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Seneca"], "postal_code": "64865", "lat": 36.833365, "lng": -94.59415, "type": "STANDARD", "counties": [{"fips": "145", "name": "Newton"}, {"fips": "119", "name": "McDonald"}]}

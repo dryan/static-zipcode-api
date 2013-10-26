@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.442563, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Long Lake", "lng": -83.87538, "zip_code": "48743"});
+zipapicallback({"locality": "Long Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Long Lake"], "postal_code": "48743", "lat": 44.442563, "lng": -83.87538, "type": "STANDARD", "counties": [{"fips": "069", "name": "Iosco"}]});

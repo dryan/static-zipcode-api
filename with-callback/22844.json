@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.652274, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "New Market", "lng": -78.66417, "zip_code": "22844"});
+zipapicallback({"locality": "New Market", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["New Market"], "postal_code": "22844", "lat": 38.652274, "lng": -78.66417, "type": "STANDARD", "counties": [{"fips": "171", "name": "Shenandoah"}, {"fips": "165", "name": "Rockingham"}]});

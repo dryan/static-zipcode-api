@@ -1,1 +1,1 @@
-{"lat": 42.924166, "region": {"abbr": "NY", "name": "New York"}, "locality": "Seneca Falls", "lng": -76.78366, "zip_code": "13148"}
+{"locality": "Seneca Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Seneca Falls"], "postal_code": "13148", "lat": 42.924166, "lng": -76.78366, "type": "STANDARD", "counties": [{"fips": "099", "name": "Seneca"}]}

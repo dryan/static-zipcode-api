@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.154673, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Zavalla", "lng": -94.363, "zip_code": "75980"});
+zipapicallback({"locality": "Zavalla", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Zavalla"], "postal_code": "75980", "lat": 31.154673, "lng": -94.363, "type": "STANDARD", "counties": [{"fips": "005", "name": "Angelina"}, {"fips": "241", "name": "Jasper"}]});

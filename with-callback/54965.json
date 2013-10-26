@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.167646, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pine River", "lng": -89.04218, "zip_code": "54965"});
+zipapicallback({"locality": "Pine River", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pine River"], "postal_code": "54965", "lat": 44.167646, "lng": -89.04218, "type": "STANDARD", "counties": [{"fips": "137", "name": "Waushara"}, {"fips": "135", "name": "Waupaca"}]});

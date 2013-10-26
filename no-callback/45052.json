@@ -1,1 +1,1 @@
-{"lat": 39.155158, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Bend", "lng": -84.77789, "zip_code": "45052"}
+{"locality": "North Bend", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["North Bend"], "postal_code": "45052", "lat": 39.155158, "lng": -84.77789, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

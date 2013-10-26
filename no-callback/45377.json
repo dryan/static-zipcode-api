@@ -1,1 +1,1 @@
-{"lat": 39.889356, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Vandalia", "lng": -84.2051, "zip_code": "45377"}
+{"locality": "Vandalia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Vandalia"], "postal_code": "45377", "lat": 39.889356, "lng": -84.2051, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}]}

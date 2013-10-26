@@ -1,1 +1,1 @@
-{"lat": 37.943365, "region": {"abbr": "CA", "name": "California"}, "locality": "San Quentin", "lng": -122.49029, "zip_code": "94964"}
+{"locality": "San Quentin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Quentin"], "postal_code": "94964", "lat": 37.943365, "lng": -122.49029, "type": "POBOX", "counties": [{"fips": "041", "name": "Marin"}]}

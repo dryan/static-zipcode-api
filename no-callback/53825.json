@@ -1,1 +1,1 @@
-{"lat": 42.928048, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Stitzer", "lng": -90.56703, "zip_code": "53825"}
+{"locality": "Stitzer", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Stitzer"], "postal_code": "53825", "lat": 42.928048, "lng": -90.56703, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}]}

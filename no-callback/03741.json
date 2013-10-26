@@ -1,1 +1,1 @@
-{"lat": 43.659172, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Canaan", "lng": -72.01333, "zip_code": "03741"}
+{"locality": "Canaan", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Canaan", "Orange"], "postal_code": "03741", "lat": 43.659172, "lng": -72.01333, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]}

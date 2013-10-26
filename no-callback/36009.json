@@ -1,1 +1,1 @@
-{"lat": 31.579451, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Brantley", "lng": -86.3188, "zip_code": "36009"}
+{"locality": "Brantley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Brantley"], "postal_code": "36009", "lat": 31.579451, "lng": -86.3188, "type": "STANDARD", "counties": [{"fips": "041", "name": "Crenshaw"}, {"fips": "031", "name": "Coffee"}]}

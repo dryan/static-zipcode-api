@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.706209, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Dodge", "lng": -96.89662, "zip_code": "68633"});
+zipapicallback({"locality": "Dodge", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Dodge"], "postal_code": "68633", "lat": 41.706209, "lng": -96.89662, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dodge"}, {"fips": "037", "name": "Colfax"}, {"fips": "039", "name": "Cuming"}]});

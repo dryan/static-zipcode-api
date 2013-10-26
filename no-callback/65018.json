@@ -1,1 +1,1 @@
-{"lat": 38.624862, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "California", "lng": -92.56443, "zip_code": "65018"}
+{"locality": "California", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["California"], "postal_code": "65018", "lat": 38.624862, "lng": -92.56443, "type": "STANDARD", "counties": [{"fips": "135", "name": "Moniteau"}, {"fips": "053", "name": "Cooper"}]}

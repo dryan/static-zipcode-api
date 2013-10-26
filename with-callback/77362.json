@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.152265, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pinehurst", "lng": -95.67556, "zip_code": "77362"});
+zipapicallback({"locality": "Pinehurst", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pinehurst"], "postal_code": "77362", "lat": 30.152265, "lng": -95.67556, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]});

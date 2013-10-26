@@ -1,1 +1,1 @@
-{"lat": 34.083512, "region": {"abbr": "CA", "name": "California"}, "locality": "Mentone", "lng": -117.09688, "zip_code": "92359"}
+{"locality": "Mentone", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mentone"], "postal_code": "92359", "lat": 34.083512, "lng": -117.09688, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

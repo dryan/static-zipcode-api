@@ -1,1 +1,1 @@
-{"lat": 48.497601, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Concrete", "lng": -121.70018, "zip_code": "98237"}
+{"locality": "Concrete", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Concrete"], "postal_code": "98237", "lat": 48.497601, "lng": -121.70018, "type": "STANDARD", "counties": [{"fips": "057", "name": "Skagit"}]}

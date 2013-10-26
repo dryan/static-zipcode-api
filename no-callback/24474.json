@@ -1,1 +1,1 @@
-{"lat": 37.805268, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Selma", "lng": -79.84752, "zip_code": "24474"}
+{"locality": "Selma", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Selma"], "postal_code": "24474", "lat": 37.805268, "lng": -79.84752, "type": "POBOX", "counties": [{"fips": "005", "name": "Alleghany"}]}

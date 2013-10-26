@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.137694, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Henderson", "lng": -95.39897, "zip_code": "51541"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Henderson"], "postal_code": "51541", "lat": 41.137694, "lng": -95.39897, "type": "STANDARD", "counties": [{"fips": "129", "name": "Mills"}, {"fips": "155", "name": "Pottawattamie"}, {"fips": "137", "name": "Montgomery"}]});

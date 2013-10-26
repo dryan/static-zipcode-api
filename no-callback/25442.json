@@ -1,1 +1,1 @@
-{"lat": 39.358159, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Shenandoah Junct", "lng": -77.83296, "zip_code": "25442"}
+{"locality": "Shenandoah Junction", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Shenandoah Junction", "Shendoah Jct"], "postal_code": "25442", "lat": 39.358159, "lng": -77.83296, "type": "STANDARD", "counties": [{"fips": "037", "name": "Jefferson"}]}

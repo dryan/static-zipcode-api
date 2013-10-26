@@ -1,1 +1,1 @@
-{"lat": 37.769528, "region": {"abbr": "CA", "name": "California"}, "locality": "Coast Guard Isla", "lng": -122.25937, "zip_code": "94501"}
+{"locality": "Alameda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alameda"], "postal_code": "94501", "lat": 37.769528, "lng": -122.25937, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

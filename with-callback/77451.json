@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.447947, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kendleton", "lng": -96.0007, "zip_code": "77451"});
+zipapicallback({"locality": "Kendleton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kendleton"], "postal_code": "77451", "lat": 29.447947, "lng": -96.0007, "type": "POBOX", "counties": [{"fips": "157", "name": "Fort Bend"}]});

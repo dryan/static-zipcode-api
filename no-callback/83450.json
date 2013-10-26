@@ -1,1 +1,1 @@
-{"lat": 43.857435, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Terreton", "lng": -112.42474, "zip_code": "83450"}
+{"locality": "Terreton", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Terreton"], "postal_code": "83450", "lat": 43.857435, "lng": -112.42474, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]}

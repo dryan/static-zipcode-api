@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.409283, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Strang", "lng": -97.58391, "zip_code": "68444"});
+zipapicallback({"locality": "Strang", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Strang"], "postal_code": "68444", "lat": 40.409283, "lng": -97.58391, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fillmore"}]});

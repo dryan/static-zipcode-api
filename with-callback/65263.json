@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.460422, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Madison", "lng": -92.22005, "zip_code": "65263"});
+zipapicallback({"locality": "Madison", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Madison"], "postal_code": "65263", "lat": 39.460422, "lng": -92.22005, "type": "STANDARD", "counties": [{"fips": "137", "name": "Monroe"}, {"fips": "007", "name": "Audrain"}, {"fips": "175", "name": "Randolph"}]});

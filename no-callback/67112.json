@@ -1,1 +1,1 @@
-{"lat": 37.442074, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Nashville", "lng": -98.41625, "zip_code": "67112"}
+{"locality": "Nashville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Nashville"], "postal_code": "67112", "lat": 37.442074, "lng": -98.41625, "type": "STANDARD", "counties": [{"fips": "095", "name": "Kingman"}, {"fips": "007", "name": "Barber"}]}

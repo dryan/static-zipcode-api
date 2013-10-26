@@ -1,1 +1,1 @@
-{"lat": 32.046427, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Scotland", "lng": -82.81923, "zip_code": "31083"}
+{"locality": "Scotland", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Scotland"], "postal_code": "31083", "lat": 32.046427, "lng": -82.81923, "type": "POBOX", "counties": [{"fips": "271", "name": "Telfair"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.571849, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jane", "lng": -94.28956, "zip_code": "64856"}
+{"locality": "Pineville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Jane", "Pineville"], "postal_code": "64856", "lat": 36.571849, "lng": -94.28956, "type": "STANDARD", "counties": [{"fips": "119", "name": "McDonald"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.954252, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Panna Maria", "lng": -97.89674, "zip_code": "78144"});
+zipapicallback({"locality": "Panna Maria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Panna Maria"], "postal_code": "78144", "lat": 28.954252, "lng": -97.89674, "type": "POBOX", "counties": [{"fips": "255", "name": "Karnes"}]});

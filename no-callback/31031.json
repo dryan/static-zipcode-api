@@ -1,1 +1,1 @@
-{"lat": 32.891499, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Stevens Pottery", "lng": -83.32748, "zip_code": "31031"}
+{"locality": "Gordon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Gordon", "Ivey"], "postal_code": "31031", "lat": 32.891499, "lng": -83.32748, "type": "STANDARD", "counties": [{"fips": "009", "name": "Baldwin"}, {"fips": "319", "name": "Wilkinson"}, {"fips": "169", "name": "Jones"}, {"fips": "289", "name": "Twiggs"}]}

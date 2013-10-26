@@ -1,1 +1,1 @@
-{"lat": 26.685125, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Belle Glade", "lng": -80.66279, "zip_code": "33430"}
+{"locality": "Belle Glade", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Belle Glade"], "postal_code": "33430", "lat": 26.685125, "lng": -80.66279, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}, {"fips": "051", "name": "Hendry"}]}

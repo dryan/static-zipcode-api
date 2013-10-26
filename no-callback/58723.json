@@ -1,1 +1,1 @@
-{"lat": 47.785232, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Butte", "lng": -100.69257, "zip_code": "58723"}
+{"locality": "Butte", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Butte", "Kief"], "postal_code": "58723", "lat": 47.785232, "lng": -100.69257, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}, {"fips": "083", "name": "Sheridan"}]}

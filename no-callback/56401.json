@@ -1,1 +1,1 @@
-{"lat": 46.352758, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "East Gull Lake", "lng": -94.16289, "zip_code": "56401"}
+{"locality": "Brainerd", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brainerd", "E Gull Lake", "East Gull Lake"], "postal_code": "56401", "lat": 46.352758, "lng": -94.16289, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crow Wing"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.508318, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Albany", "lng": -90.58546, "zip_code": "70711"});
+zipapicallback({"locality": "Albany", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Albany"], "postal_code": "70711", "lat": 30.508318, "lng": -90.58546, "type": "STANDARD", "counties": [{"fips": "063", "name": "Livingston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.220965, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wamego", "lng": -96.31279, "zip_code": "66547"});
+zipapicallback({"locality": "Wamego", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Louisville", "Wamego"], "postal_code": "66547", "lat": 39.220965, "lng": -96.31279, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pottawatomie"}, {"fips": "197", "name": "Wabaunsee"}]});

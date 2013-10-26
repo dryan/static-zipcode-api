@@ -1,1 +1,1 @@
-{"lat": 48.852655, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ferndale", "lng": -122.61807, "zip_code": "98248"}
+{"locality": "Ferndale", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ferndale"], "postal_code": "98248", "lat": 48.852655, "lng": -122.61807, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]}

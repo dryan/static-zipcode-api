@@ -1,1 +1,1 @@
-{"lat": 36.857128, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pomona", "lng": -91.88978, "zip_code": "65789"}
+{"locality": "Pomona", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pomona"], "postal_code": "65789", "lat": 36.857128, "lng": -91.88978, "type": "STANDARD", "counties": [{"fips": "091", "name": "Howell"}]}

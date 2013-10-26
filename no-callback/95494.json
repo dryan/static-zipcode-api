@@ -1,1 +1,1 @@
-{"lat": 38.916201, "region": {"abbr": "CA", "name": "California"}, "locality": "Yorkville", "lng": -123.26509, "zip_code": "95494"}
+{"locality": "Yorkville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yorkville"], "postal_code": "95494", "lat": 38.916201, "lng": -123.26509, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.841014, "region": {"abbr": "CA", "name": "California"}, "locality": "Buena Park", "lng": -118.00969, "zip_code": "90620"}
+{"locality": "Buena Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Buena Park"], "postal_code": "90620", "lat": 33.841014, "lng": -118.00969, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]}

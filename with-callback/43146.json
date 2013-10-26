@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.786202, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Orient", "lng": -83.1469, "zip_code": "43146"});
+zipapicallback({"locality": "Orient", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Darbyville", "Orient", "Pleasant Corners", "Pleasant Cors"], "postal_code": "43146", "lat": 39.786202, "lng": -83.1469, "type": "STANDARD", "counties": [{"fips": "129", "name": "Pickaway"}, {"fips": "049", "name": "Franklin"}, {"fips": "007", "name": "Ashtabula"}, {"fips": "097", "name": "Madison"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.395688, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Farmington", "lng": -71.06217, "zip_code": "03835"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Farmington"], "postal_code": "03835", "lat": 43.395688, "lng": -71.06217, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.578393, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Atalissa", "lng": -91.15931, "zip_code": "52720"}
+{"locality": "Atalissa", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Atalissa"], "postal_code": "52720", "lat": 41.578393, "lng": -91.15931, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}]}

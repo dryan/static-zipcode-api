@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.210947, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Olustee", "lng": -82.43601, "zip_code": "32072"});
+zipapicallback({"locality": "Olustee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Olustee"], "postal_code": "32072", "lat": 30.210947, "lng": -82.43601, "type": "POBOX", "counties": [{"fips": "003", "name": "Baker"}]});

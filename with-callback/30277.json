@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.387534, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Sharpsburg", "lng": -84.65511, "zip_code": "30277"});
+zipapicallback({"locality": "Sharpsburg", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Sharpsburg"], "postal_code": "30277", "lat": 33.387534, "lng": -84.65511, "type": "STANDARD", "counties": [{"fips": "077", "name": "Coweta"}]});

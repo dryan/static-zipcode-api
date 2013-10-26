@@ -1,1 +1,1 @@
-{"lat": 43.086355, "region": {"abbr": "NY", "name": "New York"}, "locality": "Niagara Falls", "lng": -79.03736, "zip_code": "14303"}
+{"locality": "Niagara Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Niagara Falls"], "postal_code": "14303", "lat": 43.086355, "lng": -79.03736, "type": "STANDARD", "counties": [{"fips": "063", "name": "Niagara"}]}

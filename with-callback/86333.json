@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.339938, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Mayer", "lng": -112.13612, "zip_code": "86333"});
+zipapicallback({"locality": "Mayer", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Bensch Ranch", "Cordes Lakes", "Mayer", "Spring Valley"], "postal_code": "86333", "lat": 34.339938, "lng": -112.13612, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.373999, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Sunflower", "lng": -87.99791, "zip_code": "36581"}
+{"locality": "Sunflower", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Sunflower"], "postal_code": "36581", "lat": 31.373999, "lng": -87.99791, "type": "POBOX", "counties": [{"fips": "129", "name": "Washington"}]}

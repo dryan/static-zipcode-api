@@ -1,1 +1,1 @@
-{"lat": 40.920622, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Portland", "lng": -75.09773, "zip_code": "18351"}
+{"locality": "Portland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Portland"], "postal_code": "18351", "lat": 40.920622, "lng": -75.09773, "type": "POBOX", "counties": [{"fips": "095", "name": "Northampton"}]}

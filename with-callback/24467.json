@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.258308, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mount Sidney", "lng": -78.95941, "zip_code": "24467"});
+zipapicallback({"locality": "Mount Sidney", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mount Sidney"], "postal_code": "24467", "lat": 38.258308, "lng": -78.95941, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.63275, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hyannis Port", "lng": -70.30435, "zip_code": "02647"});
+zipapicallback({"locality": "Hyannis Port", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hyannis Port"], "postal_code": "02647", "lat": 41.63275, "lng": -70.30435, "type": "POBOX", "counties": [{"fips": "001", "name": "Barnstable"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.938427, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Crum", "lng": -82.4254, "zip_code": "25669"}
+{"locality": "Crum", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Crum"], "postal_code": "25669", "lat": 37.938427, "lng": -82.4254, "type": "STANDARD", "counties": [{"fips": "099", "name": "Wayne"}]}

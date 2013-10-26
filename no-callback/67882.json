@@ -1,1 +1,1 @@
-{"lat": 37.805301, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wright", "lng": -99.88021, "zip_code": "67882"}
+{"locality": "Wright", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wright"], "postal_code": "67882", "lat": 37.805301, "lng": -99.88021, "type": "STANDARD", "counties": [{"fips": "057", "name": "Ford"}]}

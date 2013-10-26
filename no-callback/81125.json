@@ -1,1 +1,1 @@
-{"lat": 37.773899, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Center", "lng": -106.08966, "zip_code": "81125"}
+{"locality": "Center", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Center"], "postal_code": "81125", "lat": 37.773899, "lng": -106.08966, "type": "STANDARD", "counties": [{"fips": "109", "name": "Saguache"}, {"fips": "003", "name": "Alamosa"}, {"fips": "105", "name": "Rio Grande"}, {"fips": "011", "name": "Bent"}]}

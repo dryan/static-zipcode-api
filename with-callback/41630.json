@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.470216, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Garrett", "lng": -82.8409, "zip_code": "41630"});
+zipapicallback({"locality": "Garrett", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Garrett"], "postal_code": "41630", "lat": 37.470216, "lng": -82.8409, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}, {"fips": "119", "name": "Knott"}]});

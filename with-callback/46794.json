@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.462326, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wawaka", "lng": -85.45882, "zip_code": "46794"});
+zipapicallback({"locality": "Wawaka", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Brimfield", "Wawaka"], "postal_code": "46794", "lat": 41.462326, "lng": -85.45882, "type": "STANDARD", "counties": [{"fips": "113", "name": "Noble"}]});

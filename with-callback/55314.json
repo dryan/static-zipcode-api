@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.751001, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Buffalo Lake", "lng": -94.60782, "zip_code": "55314"});
+zipapicallback({"locality": "Buffalo Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Buffalo Lake"], "postal_code": "55314", "lat": 44.751001, "lng": -94.60782, "type": "STANDARD", "counties": [{"fips": "129", "name": "Renville"}, {"fips": "143", "name": "Sibley"}]});

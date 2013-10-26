@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.799347, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wenonah", "lng": -75.15202, "zip_code": "08090"});
+zipapicallback({"locality": "Wenonah", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wenonah"], "postal_code": "08090", "lat": 39.799347, "lng": -75.15202, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}, {"fips": "033", "name": "Salem"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.774493, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Crofton", "lng": -97.51543, "zip_code": "68730"}
+{"locality": "Crofton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Crofton"], "postal_code": "68730", "lat": 42.774493, "lng": -97.51543, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cedar"}, {"fips": "107", "name": "Knox"}]}

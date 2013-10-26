@@ -1,1 +1,1 @@
-{"lat": 40.078045, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Honey Brook", "lng": -75.88488, "zip_code": "19344"}
+{"locality": "Honey Brook", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Honey Brook", "W Brandywine", "West Brandywine"], "postal_code": "19344", "lat": 40.078045, "lng": -75.88488, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "071", "name": "Lancaster"}]}

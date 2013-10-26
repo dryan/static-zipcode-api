@@ -1,1 +1,1 @@
-{"lat": 28.301788, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kissimmee", "lng": -81.42159, "zip_code": "34741"}
+{"locality": "Kissimmee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kissimmee"], "postal_code": "34741", "lat": 28.301788, "lng": -81.42159, "type": "STANDARD", "counties": []}

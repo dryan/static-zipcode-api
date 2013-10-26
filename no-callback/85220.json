@@ -1,1 +1,1 @@
-{"lat": 33.416083, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Apache Junction", "lng": -111.5762, "zip_code": "85220"}
+{"locality": "Apache Junction", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Apache Jct", "Apache Junction"], "postal_code": "85220", "lat": 33.416083, "lng": -111.5762, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}, {"fips": "021", "name": "Pinal"}]}

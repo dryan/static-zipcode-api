@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.674455, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Arnold", "lng": -100.05532, "zip_code": "67515"});
+zipapicallback({"locality": "Arnold", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Arnold"], "postal_code": "67515", "lat": 38.674455, "lng": -100.05532, "type": "STANDARD", "counties": [{"fips": "135", "name": "Ness"}, {"fips": "195", "name": "Trego"}]});

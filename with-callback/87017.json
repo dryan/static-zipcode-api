@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.187444, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Gallina", "lng": -106.76581, "zip_code": "87017"});
+zipapicallback({"locality": "Gallina", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Gallina"], "postal_code": "87017", "lat": 36.187444, "lng": -106.76581, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]});

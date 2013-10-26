@@ -1,1 +1,1 @@
-{"lat": 40.853723, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Teterboro", "lng": -74.05987, "zip_code": "07608"}
+{"locality": "Teterboro", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Teterboro"], "postal_code": "07608", "lat": 40.853723, "lng": -74.05987, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

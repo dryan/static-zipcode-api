@@ -1,1 +1,1 @@
-{"lat": 35.241747, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Topton", "lng": -83.62998, "zip_code": "28781"}
+{"locality": "Topton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Aquone", "Topton"], "postal_code": "28781", "lat": 35.241747, "lng": -83.62998, "type": "STANDARD", "counties": [{"fips": "113", "name": "MacOn"}]}

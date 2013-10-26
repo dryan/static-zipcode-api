@@ -1,1 +1,1 @@
-{"lat": 39.291624, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Batesville", "lng": -85.21961, "zip_code": "47006"}
+{"locality": "Batesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Batesville"], "postal_code": "47006", "lat": 39.291624, "lng": -85.21961, "type": "STANDARD", "counties": [{"fips": "047", "name": "Franklin"}, {"fips": "137", "name": "Ripley"}]}

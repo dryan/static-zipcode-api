@@ -1,1 +1,1 @@
-{"lat": 47.971295, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Bergen", "lng": -100.76841, "zip_code": "58792"}
+{"locality": "Voltaire", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bergen", "Voltaire"], "postal_code": "58792", "lat": 47.971295, "lng": -100.76841, "type": "STANDARD", "counties": [{"fips": "049", "name": "McHenry"}]}

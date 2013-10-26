@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.614744, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Spokane", "lng": -117.35892, "zip_code": "99223"});
+zipapicallback({"locality": "Spokane", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Spokane", "Spokane Valley", "Spokane Vly"], "postal_code": "99223", "lat": 47.614744, "lng": -117.35892, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]});

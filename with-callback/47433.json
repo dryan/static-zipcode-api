@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.355692, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gosport", "lng": -86.66247, "zip_code": "47433"});
+zipapicallback({"locality": "Gosport", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gosport"], "postal_code": "47433", "lat": 39.355692, "lng": -86.66247, "type": "STANDARD", "counties": [{"fips": "119", "name": "Owen"}, {"fips": "105", "name": "Monroe"}, {"fips": "109", "name": "Morgan"}]});

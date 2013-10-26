@@ -1,1 +1,1 @@
-{"lat": 33.576043, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Porterdale", "lng": -83.89821, "zip_code": "30070"}
+{"locality": "Porterdale", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Porterdale"], "postal_code": "30070", "lat": 33.576043, "lng": -83.89821, "type": "POBOX", "counties": []}

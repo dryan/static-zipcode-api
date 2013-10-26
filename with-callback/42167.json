@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.712179, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "T Ville", "lng": -85.67567, "zip_code": "42167"});
+zipapicallback({"locality": "Tompkinsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["T Ville", "Tompkinsville"], "postal_code": "42167", "lat": 36.712179, "lng": -85.67567, "type": "STANDARD", "counties": [{"fips": "171", "name": "Monroe"}, {"fips": "169", "name": "Metcalfe"}]});

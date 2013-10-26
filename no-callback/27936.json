@@ -1,1 +1,1 @@
-{"lat": 35.24554, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Frisco", "lng": -75.618, "zip_code": "27936"}
+{"locality": "Frisco", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Frisco"], "postal_code": "27936", "lat": 35.24554, "lng": -75.618, "type": "POBOX", "counties": [{"fips": "055", "name": "Dare"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.928663, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cheyney", "lng": -75.52526, "zip_code": "19319"});
+zipapicallback({"locality": "Cheyney", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cheyney"], "postal_code": "19319", "lat": 39.928663, "lng": -75.52526, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "045", "name": "Delaware"}]});

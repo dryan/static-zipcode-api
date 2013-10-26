@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.522085, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cumberland", "lng": -78.2553, "zip_code": "23040"});
+zipapicallback({"locality": "Cumberland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cumberland"], "postal_code": "23040", "lat": 37.522085, "lng": -78.2553, "type": "STANDARD", "counties": [{"fips": "049", "name": "Cumberland"}]});

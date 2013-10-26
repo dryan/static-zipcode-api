@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.871429, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Babb", "lng": -113.43734, "zip_code": "59411"});
+zipapicallback({"locality": "Babb", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Babb"], "postal_code": "59411", "lat": 48.871429, "lng": -113.43734, "type": "POBOX", "counties": [{"fips": "035", "name": "Glacier"}]});

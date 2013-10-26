@@ -1,1 +1,1 @@
-{"lat": 44.348486, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Waterbury", "lng": -72.77081, "zip_code": "05676"}
+{"locality": "Waterbury", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Waterbury"], "postal_code": "05676", "lat": 44.348486, "lng": -72.77081, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}, {"fips": "007", "name": "Chittenden"}]}

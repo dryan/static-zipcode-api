@@ -1,1 +1,1 @@
-{"lat": 36.58466, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Couch", "lng": -91.30687, "zip_code": "65690"}
+{"locality": "Couch", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Couch"], "postal_code": "65690", "lat": 36.58466, "lng": -91.30687, "type": "STANDARD", "counties": [{"fips": "149", "name": "Oregon"}]}

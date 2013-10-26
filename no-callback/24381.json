@@ -1,1 +1,1 @@
-{"lat": 36.714663, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Woodlawn", "lng": -80.82602, "zip_code": "24381"}
+{"locality": "Woodlawn", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Woodlawn"], "postal_code": "24381", "lat": 36.714663, "lng": -80.82602, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carroll"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.388534, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Shinrock", "lng": -82.5568, "zip_code": "44839"}
+{"locality": "Huron", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Huron", "Shinrock"], "postal_code": "44839", "lat": 41.388534, "lng": -82.5568, "type": "STANDARD", "counties": [{"fips": "043", "name": "Erie"}]}

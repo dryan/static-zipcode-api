@@ -1,1 +1,1 @@
-{"lat": 35.633263, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Diaz", "lng": -91.26187, "zip_code": "72043"}
+{"locality": "Diaz", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Diaz"], "postal_code": "72043", "lat": 35.633263, "lng": -91.26187, "type": "POBOX", "counties": [{"fips": "067", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.877451, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Graymont", "lng": -88.7778, "zip_code": "61743"});
+zipapicallback({"locality": "Graymont", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Graymont"], "postal_code": "61743", "lat": 40.877451, "lng": -88.7778, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.195329, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "South Acworth", "lng": -72.26894, "zip_code": "03607"});
+zipapicallback({"locality": "South Acworth", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["South Acworth"], "postal_code": "03607", "lat": 43.195329, "lng": -72.26894, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]});

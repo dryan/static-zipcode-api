@@ -1,1 +1,1 @@
-{"lat": 42.526028, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Genoa City", "lng": -88.33443, "zip_code": "53128"}
+{"locality": "Genoa City", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Genoa City"], "postal_code": "53128", "lat": 42.526028, "lng": -88.33443, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walworth"}, {"fips": "059", "name": "Kenosha"}]}

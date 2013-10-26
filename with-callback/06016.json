@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.909097, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Windsorville", "lng": -72.54393, "zip_code": "06016"});
+zipapicallback({"locality": "Broad Brook", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Broad Brook", "Melrose", "Windsorville"], "postal_code": "06016", "lat": 41.909097, "lng": -72.54393, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

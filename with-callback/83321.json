@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.371508, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Castleford", "lng": -114.90993, "zip_code": "83321"});
+zipapicallback({"locality": "Castleford", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Castleford"], "postal_code": "83321", "lat": 42.371508, "lng": -114.90993, "type": "STANDARD", "counties": [{"fips": "083", "name": "Twin Falls"}]});

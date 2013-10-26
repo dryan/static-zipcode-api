@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.120845, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lovilia", "lng": -92.93572, "zip_code": "50150"});
+zipapicallback({"locality": "Lovilia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lovilia"], "postal_code": "50150", "lat": 41.120845, "lng": -92.93572, "type": "STANDARD", "counties": [{"fips": "135", "name": "Monroe"}, {"fips": "125", "name": "Marion"}]});

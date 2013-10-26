@@ -1,1 +1,1 @@
-{"lat": 38.484777, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bolair", "lng": -80.38023, "zip_code": "26288"}
+{"locality": "Webster Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Curtin", "Parcoal", "Webster Spgs", "Webster Springs"], "postal_code": "26288", "lat": 38.484777, "lng": -80.38023, "type": "STANDARD", "counties": [{"fips": "101", "name": "Webster"}]}

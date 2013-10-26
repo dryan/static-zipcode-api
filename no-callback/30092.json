@@ -1,1 +1,1 @@
-{"lat": 33.9692, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Norcross", "lng": -84.23261, "zip_code": "30092"}
+{"locality": "Norcross", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Berkeley Lake", "Norcross"], "postal_code": "30092", "lat": 33.9692, "lng": -84.23261, "type": "STANDARD", "counties": [{"fips": "135", "name": "Gwinnett"}, {"fips": "121", "name": "Fulton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.325163, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pageton", "lng": -81.47554, "zip_code": "24871"});
+zipapicallback({"locality": "Pageton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pageton"], "postal_code": "24871", "lat": 37.325163, "lng": -81.47554, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]});

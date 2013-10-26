@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.605628, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lorenzo", "lng": -101.5205, "zip_code": "79343"});
+zipapicallback({"locality": "Lorenzo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lorenzo"], "postal_code": "79343", "lat": 33.605628, "lng": -101.5205, "type": "STANDARD", "counties": [{"fips": "107", "name": "Crosby"}, {"fips": "303", "name": "Lubbock"}]});

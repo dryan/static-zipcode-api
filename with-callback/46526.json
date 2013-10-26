@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.567559, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Foraker", "lng": -85.84885, "zip_code": "46526"});
+zipapicallback({"locality": "Goshen", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Foraker", "Goshen"], "postal_code": "46526", "lat": 41.567559, "lng": -85.84885, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elkhart"}, {"fips": "087", "name": "Lagrange"}]});

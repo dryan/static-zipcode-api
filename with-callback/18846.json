@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.600392, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sugar Run", "lng": -76.24243, "zip_code": "18846"});
+zipapicallback({"locality": "Sugar Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sugar Run"], "postal_code": "18846", "lat": 41.600392, "lng": -76.24243, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]});

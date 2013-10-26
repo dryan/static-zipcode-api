@@ -1,1 +1,1 @@
-{"lat": 36.069712, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mc Ewen", "lng": -87.64489, "zip_code": "37101"}
+{"locality": "Mc Ewen", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mc Ewen"], "postal_code": "37101", "lat": 36.069712, "lng": -87.64489, "type": "STANDARD", "counties": [{"fips": "085", "name": "Humphreys"}, {"fips": "083", "name": "Houston"}, {"fips": "081", "name": "Hickman"}]}

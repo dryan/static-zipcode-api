@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.228484, "region": {"abbr": "CA", "name": "California"}, "locality": "Olancha", "lng": -117.97084, "zip_code": "93549"});
+zipapicallback({"locality": "Olancha", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cartago", "Olancha"], "postal_code": "93549", "lat": 36.228484, "lng": -117.97084, "type": "POBOX", "counties": [{"fips": "027", "name": "Inyo"}]});

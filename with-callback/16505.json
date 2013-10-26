@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.100307, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Presque Isle", "lng": -80.15552, "zip_code": "16505"});
+zipapicallback({"locality": "Erie", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Erie"], "postal_code": "16505", "lat": 42.100307, "lng": -80.15552, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]});

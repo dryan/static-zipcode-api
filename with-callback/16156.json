@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.097672, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Volant", "lng": -80.23, "zip_code": "16156"});
+zipapicallback({"locality": "Volant", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Volant"], "postal_code": "16156", "lat": 41.097672, "lng": -80.23, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}, {"fips": "085", "name": "Mercer"}]});

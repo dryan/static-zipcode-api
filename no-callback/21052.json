@@ -1,1 +1,1 @@
-{"lat": 39.206108, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Fort Howard", "lng": -76.44642, "zip_code": "21052"}
+{"locality": "Fort Howard", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Fort Howard"], "postal_code": "21052", "lat": 39.206108, "lng": -76.44642, "type": "POBOX", "counties": [{"fips": "005", "name": "Baltimore"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.98803, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ewing", "lng": -91.73595, "zip_code": "63440"}
+{"locality": "Ewing", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ewing"], "postal_code": "63440", "lat": 39.98803, "lng": -91.73595, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lewis"}, {"fips": "127", "name": "Marion"}, {"fips": "205", "name": "Shelby"}]}

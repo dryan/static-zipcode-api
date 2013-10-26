@@ -1,1 +1,1 @@
-{"lat": 40.791593, "region": {"abbr": "NY", "name": "New York"}, "locality": "Melville", "lng": -73.40543, "zip_code": "11747"}
+{"locality": "Melville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Huntingtn Sta", "Huntington Station", "Melville"], "postal_code": "11747", "lat": 40.791593, "lng": -73.40543, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}, {"fips": "059", "name": "Nassau"}]}

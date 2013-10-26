@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.741715, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Percival", "lng": -95.7976, "zip_code": "51648"});
+zipapicallback({"locality": "Percival", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Percival"], "postal_code": "51648", "lat": 40.741715, "lng": -95.7976, "type": "STANDARD", "counties": [{"fips": "071", "name": "Fremont"}]});

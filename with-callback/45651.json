@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.267049, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Allensville", "lng": -82.46415, "zip_code": "45651"});
+zipapicallback({"locality": "Mc Arthur", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Allensville", "Mc Arthur"], "postal_code": "45651", "lat": 39.267049, "lng": -82.46415, "type": "STANDARD", "counties": [{"fips": "163", "name": "Vinton"}]});

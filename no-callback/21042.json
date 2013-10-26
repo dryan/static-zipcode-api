@@ -1,1 +1,1 @@
-{"lat": 39.276305, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Ellicott City", "lng": -76.86082, "zip_code": "21042"}
+{"locality": "Ellicott City", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Ellicott City"], "postal_code": "21042", "lat": 39.276305, "lng": -76.86082, "type": "STANDARD", "counties": []}

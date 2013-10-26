@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.883885, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Columbia", "lng": -76.22037, "zip_code": "27925"});
+zipapicallback({"locality": "Columbia", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Columbia"], "postal_code": "27925", "lat": 35.883885, "lng": -76.22037, "type": "STANDARD", "counties": [{"fips": "177", "name": "Tyrrell"}]});

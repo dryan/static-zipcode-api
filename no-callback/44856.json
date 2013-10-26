@@ -1,1 +1,1 @@
-{"lat": 40.792804, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Robinson", "lng": -82.85759, "zip_code": "44856"}
+{"locality": "North Robinson", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["N Robinson", "North Robinson"], "postal_code": "44856", "lat": 40.792804, "lng": -82.85759, "type": "POBOX", "counties": [{"fips": "033", "name": "Crawford"}]}

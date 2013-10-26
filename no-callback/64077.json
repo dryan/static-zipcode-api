@@ -1,1 +1,1 @@
-{"lat": 39.22471, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Orrick", "lng": -94.13971, "zip_code": "64077"}
+{"locality": "Orrick", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Orrick"], "postal_code": "64077", "lat": 39.22471, "lng": -94.13971, "type": "STANDARD", "counties": [{"fips": "177", "name": "Ray"}, {"fips": "047", "name": "Clay"}]}

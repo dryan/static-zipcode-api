@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.080229, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bluemont", "lng": -77.87192, "zip_code": "20135"});
+zipapicallback({"locality": "Bluemont", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bluemont", "Mount Weather"], "postal_code": "20135", "lat": 39.080229, "lng": -77.87192, "type": "STANDARD", "counties": []});

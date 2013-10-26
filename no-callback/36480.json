@@ -1,1 +1,1 @@
-{"lat": 31.320897, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Uriah", "lng": -87.59607, "zip_code": "36480"}
+{"locality": "Uriah", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Uriah"], "postal_code": "36480", "lat": 31.320897, "lng": -87.59607, "type": "STANDARD", "counties": [{"fips": "099", "name": "Monroe"}]}

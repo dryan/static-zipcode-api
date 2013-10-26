@@ -1,1 +1,1 @@
-{"lat": 45.365164, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Chisago City", "lng": -92.88864, "zip_code": "55013"}
+{"locality": "Chisago City", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Chisago City"], "postal_code": "55013", "lat": 45.365164, "lng": -92.88864, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chisago"}]}

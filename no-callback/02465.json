@@ -1,1 +1,1 @@
-{"lat": 42.351046, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Newton", "lng": -71.22677, "zip_code": "02465"}
+{"locality": "West Newton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Newton", "West Newton"], "postal_code": "02465", "lat": 42.351046, "lng": -71.22677, "type": "STANDARD", "counties": []}

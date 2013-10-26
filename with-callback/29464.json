@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.813518, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Mount Pleasant", "lng": -79.85899, "zip_code": "29464"});
+zipapicallback({"locality": "Mount Pleasant", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "29464", "lat": 32.813518, "lng": -79.85899, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}]});

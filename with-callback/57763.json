@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.178182, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Oelrichs", "lng": -103.22927, "zip_code": "57763"});
+zipapicallback({"locality": "Oelrichs", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Oelrichs"], "postal_code": "57763", "lat": 43.178182, "lng": -103.22927, "type": "STANDARD", "counties": [{"fips": "047", "name": "Fall River"}]});

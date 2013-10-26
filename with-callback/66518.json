@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.964921, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Oketo", "lng": -96.57004, "zip_code": "66518"});
+zipapicallback({"locality": "Oketo", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Oketo"], "postal_code": "66518", "lat": 39.964921, "lng": -96.57004, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}]});

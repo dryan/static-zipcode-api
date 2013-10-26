@@ -1,1 +1,1 @@
-{"lat": 38.612452, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Maplewood", "lng": -90.31822, "zip_code": "63143"}
+{"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Maplewood", "Saint Louis"], "postal_code": "63143", "lat": 38.612452, "lng": -90.31822, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}, {"fips": "510", "name": "St Louis (City)"}]}

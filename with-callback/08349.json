@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.25682, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Port Norris", "lng": -75.06683, "zip_code": "08349"});
+zipapicallback({"locality": "Port Norris", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Port Norris"], "postal_code": "08349", "lat": 39.25682, "lng": -75.06683, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cumberland"}]});

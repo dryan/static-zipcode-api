@@ -1,1 +1,1 @@
-{"lat": 45.027668, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Egg Harbor", "lng": -87.28234, "zip_code": "54209"}
+{"locality": "Egg Harbor", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Egg Harbor"], "postal_code": "54209", "lat": 45.027668, "lng": -87.28234, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]}

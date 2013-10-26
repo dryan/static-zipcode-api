@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.742192, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Artemas", "lng": -78.42113, "zip_code": "17211"});
+zipapicallback({"locality": "Artemas", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Artemas"], "postal_code": "17211", "lat": 39.742192, "lng": -78.42113, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "057", "name": "Fulton"}]});

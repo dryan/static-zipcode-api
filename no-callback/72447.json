@@ -1,1 +1,1 @@
-{"lat": 35.910391, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Monette", "lng": -90.34016, "zip_code": "72447"}
+{"locality": "Monette", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Monette"], "postal_code": "72447", "lat": 35.910391, "lng": -90.34016, "type": "STANDARD", "counties": [{"fips": "031", "name": "Craighead"}]}

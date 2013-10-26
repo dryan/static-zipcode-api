@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.694585, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Burbank", "lng": -96.73934, "zip_code": "74633"});
+zipapicallback({"locality": "Burbank", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Burbank"], "postal_code": "74633", "lat": 36.694585, "lng": -96.73934, "type": "STANDARD", "counties": [{"fips": "113", "name": "Osage"}]});

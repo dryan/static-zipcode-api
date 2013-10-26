@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.991185, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Mount Holly", "lng": -80.02347, "zip_code": "29445"});
+zipapicallback({"locality": "Goose Creek", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Goose Creek"], "postal_code": "29445", "lat": 32.991185, "lng": -80.02347, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}, {"fips": "019", "name": "Charleston"}]});

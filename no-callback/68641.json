@@ -1,1 +1,1 @@
-{"lat": 41.73427, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Howells", "lng": -97.01367, "zip_code": "68641"}
+{"locality": "Howells", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Howells"], "postal_code": "68641", "lat": 41.73427, "lng": -97.01367, "type": "STANDARD", "counties": [{"fips": "037", "name": "Colfax"}, {"fips": "167", "name": "Stanton"}, {"fips": "039", "name": "Cuming"}]}

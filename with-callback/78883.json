@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.671077, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tarpley", "lng": -99.34384, "zip_code": "78883"});
+zipapicallback({"locality": "Tarpley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tarpley"], "postal_code": "78883", "lat": 29.671077, "lng": -99.34384, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bandera"}]});

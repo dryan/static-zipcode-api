@@ -1,1 +1,1 @@
-{"lat": 45.794048, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Divide", "lng": -112.77595, "zip_code": "59727"}
+{"locality": "Divide", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Divide"], "postal_code": "59727", "lat": 45.794048, "lng": -112.77595, "type": "STANDARD", "counties": [{"fips": "093", "name": "Silver Bow"}]}

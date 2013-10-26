@@ -1,1 +1,1 @@
-{"lat": 32.050033, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hanna", "lng": -93.31928, "zip_code": "71019"}
+{"locality": "Coushatta", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Coushatta", "East Point", "Edgefield", "Hanna", "Harmon", "Martin"], "postal_code": "71019", "lat": 32.050033, "lng": -93.31928, "type": "STANDARD", "counties": [{"fips": "081", "name": "Red River"}, {"fips": "069", "name": "Natchitoches"}, {"fips": "031", "name": "De Soto"}]}

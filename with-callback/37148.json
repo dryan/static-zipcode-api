@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.576137, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Portland", "lng": -86.51355, "zip_code": "37148"});
+zipapicallback({"locality": "Portland", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Portland"], "postal_code": "37148", "lat": 36.576137, "lng": -86.51355, "type": "STANDARD", "counties": [{"fips": "165", "name": "Sumner"}, {"fips": "147", "name": "Robertson"}]});

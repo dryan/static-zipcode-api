@@ -1,1 +1,1 @@
-{"lat": 40.852768, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Markle", "lng": -85.30702, "zip_code": "46770"}
+{"locality": "Markle", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Markle"], "postal_code": "46770", "lat": 40.852768, "lng": -85.30702, "type": "STANDARD", "counties": [{"fips": "069", "name": "Huntington"}, {"fips": "179", "name": "Wells"}]}

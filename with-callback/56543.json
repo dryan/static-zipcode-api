@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.290371, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Foxhome", "lng": -96.33238, "zip_code": "56543"});
+zipapicallback({"locality": "Foxhome", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Foxhome"], "postal_code": "56543", "lat": 46.290371, "lng": -96.33238, "type": "STANDARD", "counties": [{"fips": "167", "name": "Wilkin"}]});

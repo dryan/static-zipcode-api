@@ -1,1 +1,1 @@
-{"lat": 38.011729, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ellis Grove", "lng": -89.89007, "zip_code": "62241"}
+{"locality": "Ellis Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ellis Grove"], "postal_code": "62241", "lat": 38.011729, "lng": -89.89007, "type": "STANDARD", "counties": [{"fips": "157", "name": "Randolph"}]}

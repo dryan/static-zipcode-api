@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.091256, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bend", "lng": -121.29769, "zip_code": "97701"});
+zipapicallback({"locality": "Bend", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bend"], "postal_code": "97701", "lat": 44.091256, "lng": -121.29769, "type": "STANDARD", "counties": [{"fips": "017", "name": "Deschutes"}]});

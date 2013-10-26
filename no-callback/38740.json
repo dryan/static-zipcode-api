@@ -1,1 +1,1 @@
-{"lat": 34.033462, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Duncan", "lng": -90.78544, "zip_code": "38740"}
+{"locality": "Duncan", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Duncan"], "postal_code": "38740", "lat": 34.033462, "lng": -90.78544, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bolivar"}, {"fips": "027", "name": "Coahoma"}]}

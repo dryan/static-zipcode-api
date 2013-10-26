@@ -1,1 +1,1 @@
-{"lat": 36.685205, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nash", "lng": -98.03095, "zip_code": "73761"}
+{"locality": "Nash", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nash"], "postal_code": "73761", "lat": 36.685205, "lng": -98.03095, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}, {"fips": "047", "name": "Garfield"}]}

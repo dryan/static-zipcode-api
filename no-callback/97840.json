@@ -1,1 +1,1 @@
-{"lat": 44.973266, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Oxbow", "lng": -116.8565, "zip_code": "97840"}
+{"locality": "Oxbow", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Oxbow"], "postal_code": "97840", "lat": 44.973266, "lng": -116.8565, "type": "STANDARD", "counties": [{"fips": "001", "name": "Baker"}]}

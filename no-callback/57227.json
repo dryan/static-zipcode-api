@@ -1,1 +1,1 @@
-{"lat": 45.377288, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Corona", "lng": -96.64746, "zip_code": "57227"}
+{"locality": "Corona", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Corona"], "postal_code": "57227", "lat": 45.377288, "lng": -96.64746, "type": "STANDARD", "counties": [{"fips": "109", "name": "Roberts"}, {"fips": "051", "name": "Grant"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.675475, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Kimberly", "lng": -119.57602, "zip_code": "97848"}
+{"locality": "Kimberly", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Kimberly"], "postal_code": "97848", "lat": 44.675475, "lng": -119.57602, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}]}

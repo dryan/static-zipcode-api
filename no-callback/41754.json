@@ -1,1 +1,1 @@
-{"lat": 37.31629, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Napfor", "lng": -83.33267, "zip_code": "41754"}
+{"locality": "Krypton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Krypton", "Napfor"], "postal_code": "41754", "lat": 37.31629, "lng": -83.33267, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}, {"fips": "131", "name": "Leslie"}]}

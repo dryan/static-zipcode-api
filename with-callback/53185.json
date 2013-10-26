@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.798555, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wind Lake", "lng": -88.19409, "zip_code": "53185"});
+zipapicallback({"locality": "Waterford", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Waterford", "Wind Lake"], "postal_code": "53185", "lat": 42.798555, "lng": -88.19409, "type": "STANDARD", "counties": [{"fips": "101", "name": "Racine"}, {"fips": "133", "name": "Waukesha"}]});

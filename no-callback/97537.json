@@ -1,1 +1,1 @@
-{"lat": 42.528269, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Rogue River", "lng": -123.1515, "zip_code": "97537"}
+{"locality": "Rogue River", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Rogue River"], "postal_code": "97537", "lat": 42.528269, "lng": -123.1515, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]}

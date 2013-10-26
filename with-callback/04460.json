@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.638612, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Medway", "lng": -68.52012, "zip_code": "04460"});
+zipapicallback({"locality": "Medway", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Grindstone", "Grindstone Twp", "Medway", "Soldiertown", "Soldiertown Twp"], "postal_code": "04460", "lat": 45.638612, "lng": -68.52012, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

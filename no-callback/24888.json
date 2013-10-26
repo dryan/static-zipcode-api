@@ -1,1 +1,1 @@
-{"lat": 37.365675, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Thorpe", "lng": -81.50968, "zip_code": "24888"}
+{"locality": "Thorpe", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Thorpe"], "postal_code": "24888", "lat": 37.365675, "lng": -81.50968, "type": "POBOX", "counties": [{"fips": "047", "name": "McDowell"}]}

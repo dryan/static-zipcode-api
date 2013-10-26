@@ -1,1 +1,1 @@
-{"lat": 33.337781, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Jackson", "lng": -81.8214, "zip_code": "29831"}
+{"locality": "Jackson", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Jackson"], "postal_code": "29831", "lat": 33.337781, "lng": -81.8214, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aiken"}, {"fips": "011", "name": "Barnwell"}]}

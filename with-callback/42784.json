@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.456599, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Upton", "lng": -85.90164, "zip_code": "42784"});
+zipapicallback({"locality": "Upton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Upton"], "postal_code": "42784", "lat": 37.456599, "lng": -85.90164, "type": "STANDARD", "counties": [{"fips": "093", "name": "Hardin"}, {"fips": "099", "name": "Hart"}, {"fips": "123", "name": "Larue"}]});

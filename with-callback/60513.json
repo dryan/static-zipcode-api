@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.822681, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Brookfield", "lng": -87.84753, "zip_code": "60513"});
+zipapicallback({"locality": "Brookfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Brookfield"], "postal_code": "60513", "lat": 41.822681, "lng": -87.84753, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

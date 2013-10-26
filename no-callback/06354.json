@@ -1,1 +1,1 @@
-{"lat": 41.71836, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Moosup", "lng": -71.87098, "zip_code": "06354"}
+{"locality": "Moosup", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Moosup"], "postal_code": "06354", "lat": 41.71836, "lng": -71.87098, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]}

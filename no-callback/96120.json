@@ -1,1 +1,1 @@
-{"lat": 38.76467, "region": {"abbr": "CA", "name": "California"}, "locality": "Hope Valley", "lng": -119.85236, "zip_code": "96120"}
+{"locality": "Markleeville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hope Valley", "Markleeville"], "postal_code": "96120", "lat": 38.76467, "lng": -119.85236, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alpine"}]}

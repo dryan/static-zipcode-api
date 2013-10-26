@@ -1,1 +1,1 @@
-{"lat": 29.371171, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alta Loma", "lng": -95.08552, "zip_code": "77510"}
+{"locality": "Santa Fe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alta Loma", "Santa Fe"], "postal_code": "77510", "lat": 29.371171, "lng": -95.08552, "type": "STANDARD", "counties": [{"fips": "167", "name": "Galveston"}]}

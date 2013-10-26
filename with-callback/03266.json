@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.806365, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Rumney", "lng": -71.87952, "zip_code": "03266"});
+zipapicallback({"locality": "Rumney", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Dorchester", "Rumney"], "postal_code": "03266", "lat": 43.806365, "lng": -71.87952, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]});

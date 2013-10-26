@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.407653, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hartsville", "lng": -86.15305, "zip_code": "37074"});
+zipapicallback({"locality": "Hartsville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hartsville"], "postal_code": "37074", "lat": 36.407653, "lng": -86.15305, "type": "STANDARD", "counties": [{"fips": "169", "name": "Trousdale"}, {"fips": "113", "name": "Madison"}]});

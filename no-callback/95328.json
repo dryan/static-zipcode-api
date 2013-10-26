@@ -1,1 +1,1 @@
-{"lat": 37.5596, "region": {"abbr": "CA", "name": "California"}, "locality": "Keyes", "lng": -120.9141, "zip_code": "95328"}
+{"locality": "Keyes", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Keyes"], "postal_code": "95328", "lat": 37.5596, "lng": -120.9141, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}]}

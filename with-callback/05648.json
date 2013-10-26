@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.375726, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Calais", "lng": -72.49509, "zip_code": "05648"});
+zipapicallback({"locality": "Calais", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Calais"], "postal_code": "05648", "lat": 44.375726, "lng": -72.49509, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}]});

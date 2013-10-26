@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.171784, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mahone", "lng": -81.05325, "zip_code": "26362"});
+zipapicallback({"locality": "Harrisville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Harrisville", "Hazelgreen", "Mahone", "Newberne"], "postal_code": "26362", "lat": 39.171784, "lng": -81.05325, "type": "STANDARD", "counties": [{"fips": "085", "name": "Ritchie"}]});

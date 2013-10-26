@@ -1,1 +1,1 @@
-{"lat": 40.507086, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bringhurst", "lng": -86.50127, "zip_code": "46913"}
+{"locality": "Bringhurst", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bringhurst"], "postal_code": "46913", "lat": 40.507086, "lng": -86.50127, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}]}

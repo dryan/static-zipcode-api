@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.865213, "region": {"abbr": "TX", "name": "Texas"}, "locality": "La Ward", "lng": -96.4397, "zip_code": "77970"});
+zipapicallback({"locality": "La Ward", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["La Ward"], "postal_code": "77970", "lat": 28.865213, "lng": -96.4397, "type": "POBOX", "counties": [{"fips": "239", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.560167, "region": {"abbr": "NY", "name": "New York"}, "locality": "Far Rockaway", "lng": -73.90891, "zip_code": "11697"});
+zipapicallback({"locality": "Breezy Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Breezy Point", "Far Rockaway", "Rockaway Point", "Rockaway Pt"], "postal_code": "11697", "lat": 40.560167, "lng": -73.90891, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]});

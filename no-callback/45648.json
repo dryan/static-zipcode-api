@@ -1,1 +1,1 @@
-{"lat": 38.911803, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lucasville", "lng": -82.98836, "zip_code": "45648"}
+{"locality": "Lucasville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lucasville"], "postal_code": "45648", "lat": 38.911803, "lng": -82.98836, "type": "STANDARD", "counties": [{"fips": "145", "name": "Scioto"}, {"fips": "131", "name": "Pike"}]}

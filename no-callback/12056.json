@@ -1,1 +1,1 @@
-{"lat": 42.767853, "region": {"abbr": "NY", "name": "New York"}, "locality": "Duanesburg", "lng": -74.09083, "zip_code": "12056"}
+{"locality": "Duanesburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Duanesburg"], "postal_code": "12056", "lat": 42.767853, "lng": -74.09083, "type": "STANDARD", "counties": [{"fips": "093", "name": "Schenectady"}]}

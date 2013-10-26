@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.92853, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sanborn", "lng": -98.25936, "zip_code": "58480"});
+zipapicallback({"locality": "Sanborn", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sanborn"], "postal_code": "58480", "lat": 46.92853, "lng": -98.25936, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}]});

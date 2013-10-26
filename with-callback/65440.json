@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.615344, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Boss", "lng": -91.1704, "zip_code": "65440"});
+zipapicallback({"locality": "Boss", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Boss"], "postal_code": "65440", "lat": 37.615344, "lng": -91.1704, "type": "STANDARD", "counties": [{"fips": "065", "name": "Dent"}, {"fips": "093", "name": "Iron"}, {"fips": "179", "name": "Reynolds"}]});

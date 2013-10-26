@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.109487, "region": {"abbr": "CA", "name": "California"}, "locality": "Castella", "lng": -122.33133, "zip_code": "96017"});
+zipapicallback({"locality": "Castella", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Castella"], "postal_code": "96017", "lat": 41.109487, "lng": -122.33133, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]});

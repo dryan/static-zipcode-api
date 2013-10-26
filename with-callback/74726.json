@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.98526, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bokchito", "lng": -96.15629, "zip_code": "74726"});
+zipapicallback({"locality": "Bokchito", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Armstrong", "Bokchito"], "postal_code": "74726", "lat": 33.98526, "lng": -96.15629, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bryan"}]});

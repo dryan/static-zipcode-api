@@ -1,1 +1,1 @@
-{"lat": 38.824546, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Edwardsport", "lng": -87.25186, "zip_code": "47528"}
+{"locality": "Edwardsport", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Edwardsport"], "postal_code": "47528", "lat": 38.824546, "lng": -87.25186, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}, {"fips": "153", "name": "Sullivan"}]}

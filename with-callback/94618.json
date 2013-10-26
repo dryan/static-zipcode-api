@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.843726, "region": {"abbr": "CA", "name": "California"}, "locality": "Piedmont", "lng": -122.24369, "zip_code": "94618"});
+zipapicallback({"locality": "Oakland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oakland", "Piedmont"], "postal_code": "94618", "lat": 37.843726, "lng": -122.24369, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

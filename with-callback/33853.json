@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.894622, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Wales", "lng": -81.52824, "zip_code": "33853"});
+zipapicallback({"locality": "Lake Wales", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Wales"], "postal_code": "33853", "lat": 27.894622, "lng": -81.52824, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}, {"fips": "097", "name": "Osceola"}]});

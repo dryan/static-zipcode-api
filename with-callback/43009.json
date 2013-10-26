@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.175413, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cable", "lng": -83.64579, "zip_code": "43009"});
+zipapicallback({"locality": "Cable", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cable"], "postal_code": "43009", "lat": 40.175413, "lng": -83.64579, "type": "STANDARD", "counties": [{"fips": "021", "name": "Champaign"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.197152, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Ocate", "lng": -105.10727, "zip_code": "87734"}
+{"locality": "Ocate", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Ocate"], "postal_code": "87734", "lat": 36.197152, "lng": -105.10727, "type": "STANDARD", "counties": [{"fips": "033", "name": "Mora"}]}

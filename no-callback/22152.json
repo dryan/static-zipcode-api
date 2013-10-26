@@ -1,1 +1,1 @@
-{"lat": 38.775716, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "West Springfield", "lng": -77.23131, "zip_code": "22152"}
+{"locality": "Springfield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Springfield", "W Springfield", "West Springfield"], "postal_code": "22152", "lat": 38.775716, "lng": -77.23131, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

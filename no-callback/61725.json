@@ -1,1 +1,1 @@
-{"lat": 40.600045, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carlock", "lng": -89.13627, "zip_code": "61725"}
+{"locality": "Carlock", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carlock"], "postal_code": "61725", "lat": 40.600045, "lng": -89.13627, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}, {"fips": "203", "name": "Woodford"}]}

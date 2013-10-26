@@ -1,1 +1,1 @@
-{"lat": 42.88821, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bouckville", "lng": -75.5688, "zip_code": "13310"}
+{"locality": "Bouckville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bouckville"], "postal_code": "13310", "lat": 42.88821, "lng": -75.5688, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]}

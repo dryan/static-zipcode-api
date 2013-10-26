@@ -1,1 +1,1 @@
-{"lat": 28.237359, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Skidmore", "lng": -97.69331, "zip_code": "78389"}
+{"locality": "Skidmore", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Skidmore"], "postal_code": "78389", "lat": 28.237359, "lng": -97.69331, "type": "STANDARD", "counties": [{"fips": "025", "name": "Bee"}]}

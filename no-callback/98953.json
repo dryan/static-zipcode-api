@@ -1,1 +1,1 @@
-{"lat": 46.418933, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Zillah", "lng": -120.26699, "zip_code": "98953"}
+{"locality": "Zillah", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Zillah"], "postal_code": "98953", "lat": 46.418933, "lng": -120.26699, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

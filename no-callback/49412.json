@@ -1,1 +1,1 @@
-{"lat": 43.464943, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fremont", "lng": -85.95005, "zip_code": "49412"}
+{"locality": "Fremont", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fremont"], "postal_code": "49412", "lat": 43.464943, "lng": -85.95005, "type": "STANDARD", "counties": [{"fips": "123", "name": "Newaygo"}, {"fips": "127", "name": "Oceana"}, {"fips": "121", "name": "Muskegon"}]}

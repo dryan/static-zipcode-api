@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.464571, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Botkins", "lng": -84.18763, "zip_code": "45306"});
+zipapicallback({"locality": "Botkins", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Botkins"], "postal_code": "45306", "lat": 40.464571, "lng": -84.18763, "type": "STANDARD", "counties": [{"fips": "149", "name": "Shelby"}, {"fips": "011", "name": "Auglaize"}]});

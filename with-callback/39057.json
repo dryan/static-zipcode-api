@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.486525, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Conehatta", "lng": -89.28431, "zip_code": "39057"});
+zipapicallback({"locality": "Conehatta", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Conehatta"], "postal_code": "39057", "lat": 32.486525, "lng": -89.28431, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}, {"fips": "123", "name": "Scott"}]});

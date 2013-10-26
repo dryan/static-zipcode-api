@@ -1,1 +1,1 @@
-{"lat": 21.2782, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Honolulu", "lng": -157.82199, "zip_code": "96815"}
+{"locality": "Honolulu", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Honolulu"], "postal_code": "96815", "lat": 21.2782, "lng": -157.82199, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}]}

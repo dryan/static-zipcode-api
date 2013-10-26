@@ -1,1 +1,1 @@
-{"lat": 36.59956, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cimarron", "lng": -105.01333, "zip_code": "87714"}
+{"locality": "Cimarron", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cimarron"], "postal_code": "87714", "lat": 36.59956, "lng": -105.01333, "type": "STANDARD", "counties": [{"fips": "007", "name": "Colfax"}]}

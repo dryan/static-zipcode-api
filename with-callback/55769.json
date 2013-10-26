@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.406731, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Nashwauk", "lng": -93.1645, "zip_code": "55769"});
+zipapicallback({"locality": "Nashwauk", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Nashwauk"], "postal_code": "55769", "lat": 47.406731, "lng": -93.1645, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]});

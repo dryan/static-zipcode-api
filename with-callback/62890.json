@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.913984, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Thompsonville", "lng": -88.74922, "zip_code": "62890"});
+zipapicallback({"locality": "Thompsonville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Akin", "Thompsonville"], "postal_code": "62890", "lat": 37.913984, "lng": -88.74922, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}, {"fips": "065", "name": "Hamilton"}, {"fips": "199", "name": "Williamson"}, {"fips": "165", "name": "Saline"}]});

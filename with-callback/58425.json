@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.446297, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Cooperstown", "lng": -98.13417, "zip_code": "58425"});
+zipapicallback({"locality": "Cooperstown", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Cooperstown"], "postal_code": "58425", "lat": 47.446297, "lng": -98.13417, "type": "STANDARD", "counties": [{"fips": "039", "name": "Griggs"}, {"fips": "091", "name": "Steele"}]});

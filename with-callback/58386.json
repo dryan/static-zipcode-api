@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.3223, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Baker", "lng": -99.59878, "zip_code": "58386"});
+zipapicallback({"locality": "York", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Baker", "York"], "postal_code": "58386", "lat": 48.3223, "lng": -99.59878, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}, {"fips": "069", "name": "Pierce"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.444761, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Silverton", "lng": -101.32582, "zip_code": "79257"});
+zipapicallback({"locality": "Silverton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Silverton"], "postal_code": "79257", "lat": 34.444761, "lng": -101.32582, "type": "STANDARD", "counties": [{"fips": "045", "name": "Briscoe"}, {"fips": "153", "name": "Floyd"}]});

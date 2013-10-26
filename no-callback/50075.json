@@ -1,1 +1,1 @@
-{"lat": 42.325266, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ellsworth", "lng": -93.56507, "zip_code": "50075"}
+{"locality": "Ellsworth", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ellsworth"], "postal_code": "50075", "lat": 42.325266, "lng": -93.56507, "type": "STANDARD", "counties": [{"fips": "079", "name": "Hamilton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.252863, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Winston", "lng": -107.69183, "zip_code": "87943"});
+zipapicallback({"locality": "Winston", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Winston"], "postal_code": "87943", "lat": 33.252863, "lng": -107.69183, "type": "STANDARD", "counties": [{"fips": "051", "name": "Sierra"}]});

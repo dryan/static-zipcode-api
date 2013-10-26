@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.067294, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bradford", "lng": -88.81209, "zip_code": "38316"});
+zipapicallback({"locality": "Bradford", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bradford"], "postal_code": "38316", "lat": 36.067294, "lng": -88.81209, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gibson"}]});

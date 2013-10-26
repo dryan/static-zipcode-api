@@ -1,1 +1,1 @@
-{"lat": 40.242954, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Conception", "lng": -94.68406, "zip_code": "64433"}
+{"locality": "Conception", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Conception"], "postal_code": "64433", "lat": 40.242954, "lng": -94.68406, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}]}

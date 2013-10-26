@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.213131, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Clifton", "lng": -112.01429, "zip_code": "83228"});
+zipapicallback({"locality": "Clifton", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Clifton", "Oxford"], "postal_code": "83228", "lat": 42.213131, "lng": -112.01429, "type": "STANDARD", "counties": [{"fips": "041", "name": "Franklin"}]});

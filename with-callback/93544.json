@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.493392, "region": {"abbr": "CA", "name": "California"}, "locality": "Crystalaire", "lng": -117.77444, "zip_code": "93544"});
+zipapicallback({"locality": "Llano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Crystalaire", "Llano"], "postal_code": "93544", "lat": 34.493392, "lng": -117.77444, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

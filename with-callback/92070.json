@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.166768, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Ysabel", "lng": -116.71061, "zip_code": "92070"});
+zipapicallback({"locality": "Santa Ysabel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Ysabel"], "postal_code": "92070", "lat": 33.166768, "lng": -116.71061, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

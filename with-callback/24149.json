@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.011934, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Riner", "lng": -80.41897, "zip_code": "24149"});
+zipapicallback({"locality": "Riner", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Riner"], "postal_code": "24149", "lat": 37.011934, "lng": -80.41897, "type": "STANDARD", "counties": [{"fips": "121", "name": "Montgomery"}, {"fips": "063", "name": "Floyd"}]});

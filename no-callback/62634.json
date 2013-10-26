@@ -1,1 +1,1 @@
-{"lat": 40.02489, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Broadwell", "lng": -89.46592, "zip_code": "62634"}
+{"locality": "Elkhart", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Broadwell", "Elkhart"], "postal_code": "62634", "lat": 40.02489, "lng": -89.46592, "type": "STANDARD", "counties": [{"fips": "107", "name": "Logan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.205817, "region": {"abbr": "CA", "name": "California"}, "locality": "Clements", "lng": -121.05361, "zip_code": "95227"});
+zipapicallback({"locality": "Clements", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clements"], "postal_code": "95227", "lat": 38.205817, "lng": -121.05361, "type": "POBOX", "counties": [{"fips": "077", "name": "San Joaquin"}]});

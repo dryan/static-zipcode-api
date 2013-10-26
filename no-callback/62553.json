@@ -1,1 +1,1 @@
-{"lat": 39.279357, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oconee", "lng": -89.10462, "zip_code": "62553"}
+{"locality": "Oconee", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Oconee"], "postal_code": "62553", "lat": 39.279357, "lng": -89.10462, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}, {"fips": "021", "name": "Christian"}]}

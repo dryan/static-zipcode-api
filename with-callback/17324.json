@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.030925, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gardners", "lng": -77.22858, "zip_code": "17324"});
+zipapicallback({"locality": "Gardners", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gardners"], "postal_code": "17324", "lat": 40.030925, "lng": -77.22858, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "041", "name": "Cumberland"}]});

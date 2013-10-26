@@ -1,1 +1,1 @@
-{"lat": 39.989282, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Philo", "lng": -88.15174, "zip_code": "61864"}
+{"locality": "Philo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Philo"], "postal_code": "61864", "lat": 39.989282, "lng": -88.15174, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

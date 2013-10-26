@@ -1,1 +1,1 @@
-{"lat": 37.179347, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Gunlock", "lng": -113.8136, "zip_code": "84733"}
+{"locality": "Gunlock", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Gunlock"], "postal_code": "84733", "lat": 37.179347, "lng": -113.8136, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]}

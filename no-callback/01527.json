@@ -1,1 +1,1 @@
-{"lat": 42.196144, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Millbury", "lng": -71.76272, "zip_code": "01527"}
+{"locality": "Millbury", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Millbury"], "postal_code": "01527", "lat": 42.196144, "lng": -71.76272, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

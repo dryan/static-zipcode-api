@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.975876, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Longville", "lng": -94.21508, "zip_code": "56655"});
+zipapicallback({"locality": "Longville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Longville"], "postal_code": "56655", "lat": 46.975876, "lng": -94.21508, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}]});

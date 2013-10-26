@@ -1,1 +1,1 @@
-{"lat": 43.38762, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Okoboji", "lng": -95.13802, "zip_code": "51355"}
+{"locality": "Okoboji", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Okoboji"], "postal_code": "51355", "lat": 43.38762, "lng": -95.13802, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dickinson"}]}

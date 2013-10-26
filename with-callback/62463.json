@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.2807, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stewardson", "lng": -88.62403, "zip_code": "62463"});
+zipapicallback({"locality": "Stewardson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stewardson"], "postal_code": "62463", "lat": 39.2807, "lng": -88.62403, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}]});

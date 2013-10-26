@@ -1,1 +1,1 @@
-{"lat": 39.212784, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Plainville", "lng": -99.31688, "zip_code": "67663"}
+{"locality": "Plainville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Codell", "Plainville", "Zurich"], "postal_code": "67663", "lat": 39.212784, "lng": -99.31688, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rooks"}, {"fips": "051", "name": "Ellis"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.070966, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Lane", "lng": -98.42594, "zip_code": "57358"});
+zipapicallback({"locality": "Lane", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Lane"], "postal_code": "57358", "lat": 44.070966, "lng": -98.42594, "type": "POBOX", "counties": [{"fips": "073", "name": "Jerauld"}]});

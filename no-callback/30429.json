@@ -1,1 +1,1 @@
-{"lat": 32.159458, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hagan", "lng": -81.93724, "zip_code": "30429"}
+{"locality": "Hagan", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hagan"], "postal_code": "30429", "lat": 32.159458, "lng": -81.93724, "type": "POBOX", "counties": [{"fips": "109", "name": "Evans"}]}

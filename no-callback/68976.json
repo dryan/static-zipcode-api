@@ -1,1 +1,1 @@
-{"lat": 40.576873, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Smithfield", "lng": -99.74003, "zip_code": "68976"}
+{"locality": "Smithfield", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Smithfield"], "postal_code": "68976", "lat": 40.576873, "lng": -99.74003, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gosper"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.704074, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bluff City", "lng": -93.13364, "zip_code": "71722"}
+{"locality": "Bluff City", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bluff City"], "postal_code": "71722", "lat": 33.704074, "lng": -93.13364, "type": "STANDARD", "counties": [{"fips": "099", "name": "Nevada"}]}

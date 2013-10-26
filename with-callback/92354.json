@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.050764, "region": {"abbr": "CA", "name": "California"}, "locality": "Loma Linda", "lng": -117.25327, "zip_code": "92354"});
+zipapicallback({"locality": "Loma Linda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Loma Linda"], "postal_code": "92354", "lat": 34.050764, "lng": -117.25327, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

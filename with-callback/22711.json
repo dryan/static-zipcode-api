@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.476275, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Banco", "lng": -78.2729, "zip_code": "22711"});
+zipapicallback({"locality": "Banco", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Banco"], "postal_code": "22711", "lat": 38.476275, "lng": -78.2729, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

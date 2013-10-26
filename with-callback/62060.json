@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.6807, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Madison", "lng": -90.15411, "zip_code": "62060"});
+zipapicallback({"locality": "Madison", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Madison"], "postal_code": "62060", "lat": 38.6807, "lng": -90.15411, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]});

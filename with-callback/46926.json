@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.873913, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Chili", "lng": -86.06339, "zip_code": "46926"});
+zipapicallback({"locality": "Denver", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Chili", "Denver"], "postal_code": "46926", "lat": 40.873913, "lng": -86.06339, "type": "STANDARD", "counties": [{"fips": "103", "name": "Miami"}, {"fips": "017", "name": "Cass"}, {"fips": "169", "name": "Wabash"}]});

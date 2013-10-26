@@ -1,1 +1,1 @@
-{"lat": 36.389599, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lahoma", "lng": -98.09063, "zip_code": "73754"}
+{"locality": "Lahoma", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lahoma"], "postal_code": "73754", "lat": 36.389599, "lng": -98.09063, "type": "STANDARD", "counties": [{"fips": "047", "name": "Garfield"}, {"fips": "003", "name": "Alfalfa"}, {"fips": "093", "name": "Major"}]}

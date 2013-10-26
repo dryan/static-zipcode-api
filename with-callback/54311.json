@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.485243, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Green Bay", "lng": -87.92232, "zip_code": "54311"});
+zipapicallback({"locality": "Green Bay", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bellevue", "Green Bay"], "postal_code": "54311", "lat": 44.485243, "lng": -87.92232, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}]});

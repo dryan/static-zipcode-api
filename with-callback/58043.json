@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.979819, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Havana", "lng": -97.57406, "zip_code": "58043"});
+zipapicallback({"locality": "Havana", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Havana"], "postal_code": "58043", "lat": 45.979819, "lng": -97.57406, "type": "STANDARD", "counties": [{"fips": "081", "name": "Sargent"}, {"fips": "091", "name": "Steele"}]});

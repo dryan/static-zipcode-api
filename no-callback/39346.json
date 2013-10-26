@@ -1,1 +1,1 @@
-{"lat": 32.957794, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Noxapater", "lng": -89.0821, "zip_code": "39346"}
+{"locality": "Noxapater", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Noxapater"], "postal_code": "39346", "lat": 32.957794, "lng": -89.0821, "type": "STANDARD", "counties": [{"fips": "159", "name": "Winston"}, {"fips": "099", "name": "Neshoba"}]}

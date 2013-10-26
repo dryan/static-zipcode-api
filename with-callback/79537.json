@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.269772, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Nolan", "lng": -100.23572, "zip_code": "79537"});
+zipapicallback({"locality": "Nolan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Nolan"], "postal_code": "79537", "lat": 32.269772, "lng": -100.23572, "type": "STANDARD", "counties": [{"fips": "353", "name": "Nolan"}]});

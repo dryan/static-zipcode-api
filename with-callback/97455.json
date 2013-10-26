@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.960764, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Pleasant Hill", "lng": -122.91541, "zip_code": "97455"});
+zipapicallback({"locality": "Pleasant Hill", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Eugene", "Pleasant Hill"], "postal_code": "97455", "lat": 43.960764, "lng": -122.91541, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]});

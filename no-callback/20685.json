@@ -1,1 +1,1 @@
-{"lat": 38.448869, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Saint Leonard", "lng": -76.49776, "zip_code": "20685"}
+{"locality": "Saint Leonard", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Saint Leonard"], "postal_code": "20685", "lat": 38.448869, "lng": -76.49776, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]}

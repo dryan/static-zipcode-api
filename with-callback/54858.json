@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.52624, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Milltown", "lng": -92.46971, "zip_code": "54858"});
+zipapicallback({"locality": "Milltown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Milltown"], "postal_code": "54858", "lat": 45.52624, "lng": -92.46971, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}]});

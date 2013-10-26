@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.532936, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Toksook Bay", "lng": -165.10529, "zip_code": "99637"});
+zipapicallback({"locality": "Toksook Bay", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Bethel", "Toksook Bay"], "postal_code": "99637", "lat": 60.532936, "lng": -165.10529, "type": "POBOX", "counties": []});

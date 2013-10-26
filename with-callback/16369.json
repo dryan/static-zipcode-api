@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Warren", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Warren"], "postal_code": "16369", "type": "UNIQUE", "counties": [{"fips": "123", "name": "Warren"}]});

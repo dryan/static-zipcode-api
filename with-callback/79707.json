@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.021056, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Midland", "lng": -102.16008, "zip_code": "79707"});
+zipapicallback({"locality": "Midland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Midland"], "postal_code": "79707", "lat": 32.021056, "lng": -102.16008, "type": "STANDARD", "counties": [{"fips": "329", "name": "Midland"}, {"fips": "135", "name": "Ector"}]});

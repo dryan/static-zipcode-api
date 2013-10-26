@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.098857, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hilliards", "lng": -79.84091, "zip_code": "16040"});
+zipapicallback({"locality": "Hilliards", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hilliards"], "postal_code": "16040", "lat": 41.098857, "lng": -79.84091, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]});

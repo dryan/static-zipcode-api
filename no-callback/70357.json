@@ -1,1 +1,1 @@
-{"lat": 29.275485, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Golden Meadow", "lng": -90.24378, "zip_code": "70357"}
+{"locality": "Golden Meadow", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Golden Meadow"], "postal_code": "70357", "lat": 29.275485, "lng": -90.24378, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]}

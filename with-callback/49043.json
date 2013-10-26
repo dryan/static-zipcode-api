@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.296105, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Covert", "lng": -86.26647, "zip_code": "49043"});
+zipapicallback({"locality": "Covert", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Covert"], "postal_code": "49043", "lat": 42.296105, "lng": -86.26647, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}]});

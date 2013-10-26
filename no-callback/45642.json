@@ -1,1 +1,1 @@
-{"lat": 39.047577, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Jasper", "lng": -83.05382, "zip_code": "45642"}
+{"locality": "Jasper", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Jasper"], "postal_code": "45642", "lat": 39.047577, "lng": -83.05382, "type": "POBOX", "counties": [{"fips": "131", "name": "Pike"}]}

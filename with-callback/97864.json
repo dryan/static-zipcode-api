@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.811965, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Monument", "lng": -119.41539, "zip_code": "97864"});
+zipapicallback({"locality": "Monument", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Monument"], "postal_code": "97864", "lat": 44.811965, "lng": -119.41539, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.344747, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Brookline", "lng": -71.12141, "zip_code": "02446"}
+{"locality": "Brookline", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Brookline"], "postal_code": "02446", "lat": 42.344747, "lng": -71.12141, "type": "STANDARD", "counties": []}

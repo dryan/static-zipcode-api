@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.71032, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gilmore City", "lng": -94.45293, "zip_code": "50541"});
+zipapicallback({"locality": "Gilmore City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gilmore City"], "postal_code": "50541", "lat": 42.71032, "lng": -94.45293, "type": "STANDARD", "counties": [{"fips": "091", "name": "Humboldt"}]});

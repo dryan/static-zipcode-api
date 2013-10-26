@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.931679, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Custer", "lng": -122.63256, "zip_code": "98240"});
+zipapicallback({"locality": "Custer", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Custer"], "postal_code": "98240", "lat": 48.931679, "lng": -122.63256, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]});

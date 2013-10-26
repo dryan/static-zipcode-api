@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.095388, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Le Roy", "lng": -95.63461, "zip_code": "66857"});
+zipapicallback({"locality": "Le Roy", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Le Roy"], "postal_code": "66857", "lat": 38.095388, "lng": -95.63461, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffey"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.507047, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Valparaiso", "lng": -86.49702, "zip_code": "32580"}
+{"locality": "Valparaiso", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Valparaiso"], "postal_code": "32580", "lat": 30.507047, "lng": -86.49702, "type": "STANDARD", "counties": [{"fips": "091", "name": "Okaloosa"}]}

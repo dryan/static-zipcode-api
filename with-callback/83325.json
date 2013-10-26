@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.59465, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Eden", "lng": -114.25578, "zip_code": "83325"});
+zipapicallback({"locality": "Eden", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Eden"], "postal_code": "83325", "lat": 42.59465, "lng": -114.25578, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jerome"}]});

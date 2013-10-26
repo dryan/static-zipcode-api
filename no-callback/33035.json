@@ -1,1 +1,1 @@
-{"lat": 25.457913, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Homestead", "lng": -80.44781, "zip_code": "33035"}
+{"locality": "Homestead", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Homestead"], "postal_code": "33035", "lat": 25.457913, "lng": -80.44781, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

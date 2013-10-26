@@ -1,1 +1,1 @@
-{"lat": 42.203691, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ischua", "lng": -78.407, "zip_code": "14743"}
+{"locality": "Hinsdale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hinsdale", "Ischua"], "postal_code": "14743", "lat": 42.203691, "lng": -78.407, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

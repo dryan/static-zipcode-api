@@ -1,1 +1,1 @@
-{"lat": 31.305402, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Vancourt", "lng": -100.12871, "zip_code": "76955"}
+{"locality": "Vancourt", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Vancourt"], "postal_code": "76955", "lat": 31.305402, "lng": -100.12871, "type": "STANDARD", "counties": [{"fips": "451", "name": "Tom Green"}]}

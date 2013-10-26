@@ -1,1 +1,1 @@
-{"lat": 41.22832, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Masury", "lng": -80.53175, "zip_code": "44438"}
+{"locality": "Masury", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Masury"], "postal_code": "44438", "lat": 41.22832, "lng": -80.53175, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

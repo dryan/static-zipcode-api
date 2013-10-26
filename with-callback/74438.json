@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.520519, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hitchita", "lng": -95.75122, "zip_code": "74438"});
+zipapicallback({"locality": "Hitchita", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hitchita"], "postal_code": "74438", "lat": 35.520519, "lng": -95.75122, "type": "POBOX", "counties": [{"fips": "091", "name": "McIntosh"}]});

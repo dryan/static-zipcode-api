@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.103191, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Jamaica", "lng": -72.7925, "zip_code": "05343"});
+zipapicallback({"locality": "Jamaica", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Jamaica"], "postal_code": "05343", "lat": 43.103191, "lng": -72.7925, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]});

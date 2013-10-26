@@ -1,1 +1,1 @@
-{"lat": 46.810255, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fallon", "lng": -105.04391, "zip_code": "59326"}
+{"locality": "Fallon", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fallon"], "postal_code": "59326", "lat": 46.810255, "lng": -105.04391, "type": "STANDARD", "counties": [{"fips": "079", "name": "Prairie"}]}

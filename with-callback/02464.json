@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.311997, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Newton Upper Falls", "lng": -71.22046, "zip_code": "02464"});
+zipapicallback({"locality": "Newton Upper Falls", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Newton", "Newton U F", "Newton Upper Falls"], "postal_code": "02464", "lat": 42.311997, "lng": -71.22046, "type": "STANDARD", "counties": []});

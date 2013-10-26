@@ -1,1 +1,1 @@
-{"lat": 45.662196, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Manning", "lng": -123.22518, "zip_code": "97125"}
+{"locality": "Manning", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Banks", "Manning"], "postal_code": "97125", "lat": 45.662196, "lng": -123.22518, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}]}

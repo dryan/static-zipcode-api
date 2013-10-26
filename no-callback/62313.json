@@ -1,1 +1,1 @@
-{"lat": 40.319528, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Basco", "lng": -91.20483, "zip_code": "62313"}
+{"locality": "Basco", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Basco"], "postal_code": "62313", "lat": 40.319528, "lng": -91.20483, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}]}

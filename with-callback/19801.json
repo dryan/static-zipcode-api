@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.738563, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Wilmington", "lng": -75.54833, "zip_code": "19801"});
+zipapicallback({"locality": "Wilmington", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Wilmington"], "postal_code": "19801", "lat": 39.738563, "lng": -75.54833, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]});

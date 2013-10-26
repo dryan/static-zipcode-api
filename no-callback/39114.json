@@ -1,1 +1,1 @@
-{"lat": 31.948527, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mendenhall", "lng": -89.84256, "zip_code": "39114"}
+{"locality": "Mendenhall", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mendenhall"], "postal_code": "39114", "lat": 31.948527, "lng": -89.84256, "type": "STANDARD", "counties": [{"fips": "127", "name": "Simpson"}, {"fips": "121", "name": "Rankin"}]}

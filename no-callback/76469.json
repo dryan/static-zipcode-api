@@ -1,1 +1,1 @@
-{"lat": 32.37338, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Putnam", "lng": -99.19762, "zip_code": "76469"}
+{"locality": "Putnam", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Putnam"], "postal_code": "76469", "lat": 32.37338, "lng": -99.19762, "type": "POBOX", "counties": [{"fips": "059", "name": "Callahan"}]}

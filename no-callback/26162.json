@@ -1,1 +1,1 @@
-{"lat": 39.576419, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Porters Falls", "lng": -80.77211, "zip_code": "26162"}
+{"locality": "Porters Falls", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Porters Falls"], "postal_code": "26162", "lat": 39.576419, "lng": -80.77211, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wetzel"}]}

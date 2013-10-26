@@ -1,1 +1,1 @@
-{"lat": 38.473549, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Antelope", "lng": -96.95611, "zip_code": "66858"}
+{"locality": "Lincolnville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Antelope", "Lincolnville"], "postal_code": "66858", "lat": 38.473549, "lng": -96.95611, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}, {"fips": "017", "name": "Chase"}]}

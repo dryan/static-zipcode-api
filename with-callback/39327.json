@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.444821, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Decatur", "lng": -89.11703, "zip_code": "39327"});
+zipapicallback({"locality": "Decatur", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Decatur"], "postal_code": "39327", "lat": 32.444821, "lng": -89.11703, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]});

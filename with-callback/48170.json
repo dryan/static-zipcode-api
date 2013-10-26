@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.370837, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Plymouth", "lng": -83.4856, "zip_code": "48170"});
+zipapicallback({"locality": "Plymouth", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Plymouth"], "postal_code": "48170", "lat": 42.370837, "lng": -83.4856, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}, {"fips": "161", "name": "Washtenaw"}]});

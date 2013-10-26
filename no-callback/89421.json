@@ -1,1 +1,1 @@
-{"lat": 41.953624, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Mc Dermitt", "lng": -117.72501, "zip_code": "89421"}
+{"locality": "Mc Dermitt", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Mc Dermitt"], "postal_code": "89421", "lat": 41.953624, "lng": -117.72501, "type": "POBOX", "counties": [{"fips": "013", "name": "Humboldt"}]}

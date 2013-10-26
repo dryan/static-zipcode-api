@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.836237, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Hamar", "lng": -98.51502, "zip_code": "58380"});
+zipapicallback({"locality": "Tolna", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hamar", "Tolna"], "postal_code": "58380", "lat": 47.836237, "lng": -98.51502, "type": "STANDARD", "counties": [{"fips": "063", "name": "Nelson"}, {"fips": "071", "name": "Ramsey"}, {"fips": "027", "name": "Eddy"}, {"fips": "005", "name": "Benson"}]});

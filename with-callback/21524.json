@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.698332, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Corriganville", "lng": -78.78741, "zip_code": "21524"});
+zipapicallback({"locality": "Corriganville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Corriganville"], "postal_code": "21524", "lat": 39.698332, "lng": -78.78741, "type": "POBOX", "counties": [{"fips": "001", "name": "Allegany"}]});

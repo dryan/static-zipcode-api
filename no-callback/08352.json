@@ -1,1 +1,1 @@
-{"lat": 39.475565, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Rosenhayn", "lng": -75.12933, "zip_code": "08352"}
+{"locality": "Rosenhayn", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Rosenhayn"], "postal_code": "08352", "lat": 39.475565, "lng": -75.12933, "type": "POBOX", "counties": [{"fips": "011", "name": "Cumberland"}]}

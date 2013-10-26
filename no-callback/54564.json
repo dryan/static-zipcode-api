@@ -1,1 +1,1 @@
-{"lat": 45.63298, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Tripoli", "lng": -89.96658, "zip_code": "54564"}
+{"locality": "Tripoli", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tripoli"], "postal_code": "54564", "lat": 45.63298, "lng": -89.96658, "type": "STANDARD", "counties": [{"fips": "085", "name": "Oneida"}, {"fips": "099", "name": "Price"}, {"fips": "069", "name": "Lincoln"}]}

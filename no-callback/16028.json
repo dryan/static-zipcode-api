@@ -1,1 +1,1 @@
-{"lat": 40.97717, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Brady", "lng": -79.61922, "zip_code": "16028"}
+{"locality": "East Brady", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["East Brady"], "postal_code": "16028", "lat": 40.97717, "lng": -79.61922, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}, {"fips": "005", "name": "Armstrong"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.824236, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Beroun", "lng": -92.95813, "zip_code": "55063"}
+{"locality": "Pine City", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Beroun", "Pine City"], "postal_code": "55063", "lat": 45.824236, "lng": -92.95813, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pine"}]}

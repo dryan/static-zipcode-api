@@ -1,1 +1,1 @@
-{"lat": 38.435326, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fredericksburg", "lng": -86.18702, "zip_code": "47120"}
+{"locality": "Fredericksburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fredericksbrg", "Fredericksburg"], "postal_code": "47120", "lat": 38.435326, "lng": -86.18702, "type": "STANDARD", "counties": [{"fips": "175", "name": "Washington"}, {"fips": "061", "name": "Harrison"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.854247, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gladstone", "lng": -90.96542, "zip_code": "61437"}
+{"locality": "Gladstone", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gladstone"], "postal_code": "61437", "lat": 40.854247, "lng": -90.96542, "type": "STANDARD", "counties": [{"fips": "071", "name": "Henderson"}]}

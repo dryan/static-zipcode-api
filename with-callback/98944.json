@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.342102, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Sunnyside", "lng": -119.99, "zip_code": "98944"});
+zipapicallback({"locality": "Sunnyside", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Sunnyside"], "postal_code": "98944", "lat": 46.342102, "lng": -119.99, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}, {"fips": "005", "name": "Benton"}]});

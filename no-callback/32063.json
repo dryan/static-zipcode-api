@@ -1,1 +1,1 @@
-{"lat": 30.267664, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Macclenny", "lng": -82.12457, "zip_code": "32063"}
+{"locality": "Macclenny", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Macclenny"], "postal_code": "32063", "lat": 30.267664, "lng": -82.12457, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baker"}]}

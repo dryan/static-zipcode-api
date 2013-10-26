@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.359887, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Veyo", "lng": -113.66976, "zip_code": "84782"});
+zipapicallback({"locality": "Veyo", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Brookside", "Veyo"], "postal_code": "84782", "lat": 37.359887, "lng": -113.66976, "type": "STANDARD", "counties": []});

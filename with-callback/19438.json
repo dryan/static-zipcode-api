@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.270424, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harleysville", "lng": -75.38569, "zip_code": "19438"});
+zipapicallback({"locality": "Harleysville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harleysville", "Lower Salford"], "postal_code": "19438", "lat": 40.270424, "lng": -75.38569, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "017", "name": "Bucks"}]});

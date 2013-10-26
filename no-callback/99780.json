@@ -1,1 +1,1 @@
-{"lat": 63.341767, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Border", "lng": -142.93704, "zip_code": "99780"}
+{"locality": "Tok", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Mentasta Lake", "Tok"], "postal_code": "99780", "lat": 63.341767, "lng": -142.93704, "type": "STANDARD", "counties": [{"fips": "240", "name": "Southeast Fairbanks"}]}

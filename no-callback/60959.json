@@ -1,1 +1,1 @@
-{"lat": 40.779834, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Piper City", "lng": -88.18012, "zip_code": "60959"}
+{"locality": "Piper City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Piper City"], "postal_code": "60959", "lat": 40.779834, "lng": -88.18012, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ford"}, {"fips": "075", "name": "Iroquois"}, {"fips": "105", "name": "Livingston"}]}

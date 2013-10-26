@@ -1,1 +1,1 @@
-{"lat": 40.501576, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kokomo", "lng": -86.14677, "zip_code": "46901"}
+{"locality": "Kokomo", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kokomo"], "postal_code": "46901", "lat": 40.501576, "lng": -86.14677, "type": "STANDARD", "counties": [{"fips": "067", "name": "Howard"}, {"fips": "103", "name": "Miami"}]}

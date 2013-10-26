@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.770432, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Steep Falls", "lng": -70.63812, "zip_code": "04085"});
+zipapicallback({"locality": "Steep Falls", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Steep Falls"], "postal_code": "04085", "lat": 43.770432, "lng": -70.63812, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

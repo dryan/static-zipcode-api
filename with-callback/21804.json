@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.359332, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Salisbury", "lng": -75.56931, "zip_code": "21804"});
+zipapicallback({"locality": "Salisbury", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Salisbury"], "postal_code": "21804", "lat": 38.359332, "lng": -75.56931, "type": "STANDARD", "counties": []});

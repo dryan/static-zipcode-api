@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.321345, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Weir", "lng": -89.32063, "zip_code": "39772"});
+zipapicallback({"locality": "Weir", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Weir"], "postal_code": "39772", "lat": 33.321345, "lng": -89.32063, "type": "STANDARD", "counties": [{"fips": "019", "name": "Choctaw"}]});

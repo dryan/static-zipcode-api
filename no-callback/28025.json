@@ -1,1 +1,1 @@
-{"lat": 35.400407, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Concord", "lng": -80.56574, "zip_code": "28025"}
+{"locality": "Concord", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Concord"], "postal_code": "28025", "lat": 35.400407, "lng": -80.56574, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cabarrus"}]}

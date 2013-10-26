@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.668255, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Franklin", "lng": -76.93945, "zip_code": "23851"});
+zipapicallback({"locality": "Franklin", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Franklin"], "postal_code": "23851", "lat": 36.668255, "lng": -76.93945, "type": "STANDARD", "counties": [{"fips": "620", "name": "Franklin (City)"}, {"fips": "175", "name": "Southampton"}, {"fips": "093", "name": "Isle of Wight"}, {"fips": "800", "name": "Suffolk (City)"}]});

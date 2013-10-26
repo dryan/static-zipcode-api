@@ -1,1 +1,1 @@
-{"lat": 45.922025, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Paterson", "lng": -119.67687, "zip_code": "99345"}
+{"locality": "Paterson", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Paterson"], "postal_code": "99345", "lat": 45.922025, "lng": -119.67687, "type": "POBOX", "counties": [{"fips": "005", "name": "Benton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.458682, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Wales", "lng": -111.67126, "zip_code": "84667"});
+zipapicallback({"locality": "Wales", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Wales"], "postal_code": "84667", "lat": 39.458682, "lng": -111.67126, "type": "STANDARD", "counties": [{"fips": "039", "name": "Sanpete"}]});

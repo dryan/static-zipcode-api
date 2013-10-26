@@ -1,1 +1,1 @@
-zipapicallback({"lat": 61.878073, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Marshall", "lng": -162.08481, "zip_code": "99585"});
+zipapicallback({"locality": "Marshall", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Marshall"], "postal_code": "99585", "lat": 61.878073, "lng": -162.08481, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]});

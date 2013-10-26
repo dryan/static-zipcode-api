@@ -1,1 +1,1 @@
-{"lat": 39.059815, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lucas", "lng": -98.55613, "zip_code": "67648"}
+{"locality": "Lucas", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lucas"], "postal_code": "67648", "lat": 39.059815, "lng": -98.55613, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}, {"fips": "141", "name": "Osborne"}, {"fips": "105", "name": "Lincoln"}]}

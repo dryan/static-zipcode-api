@@ -1,1 +1,1 @@
-{"lat": 45.269001, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Walloon Lake", "lng": -84.9475, "zip_code": "49796"}
+{"locality": "Walloon Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Walloon Lake"], "postal_code": "49796", "lat": 45.269001, "lng": -84.9475, "type": "POBOX", "counties": [{"fips": "029", "name": "Charlevoix"}]}

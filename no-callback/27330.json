@@ -1,1 +1,1 @@
-{"lat": 35.458804, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Colon", "lng": -79.16415, "zip_code": "27330"}
+{"locality": "Sanford", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Buffalo Lake", "Colon", "Sanford"], "postal_code": "27330", "lat": 35.458804, "lng": -79.16415, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lee"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.368605, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Pillager", "lng": -94.4846, "zip_code": "56473"});
+zipapicallback({"locality": "Pillager", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Pillager"], "postal_code": "56473", "lat": 46.368605, "lng": -94.4846, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}, {"fips": "097", "name": "Morrison"}]});

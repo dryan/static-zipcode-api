@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.145501, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Clinton", "lng": -88.96776, "zip_code": "61727"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Clinton"], "postal_code": "61727", "lat": 40.145501, "lng": -88.96776, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dewitt"}]});

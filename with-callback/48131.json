@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.965806, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dundee", "lng": -83.67133, "zip_code": "48131"});
+zipapicallback({"locality": "Dundee", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dundee"], "postal_code": "48131", "lat": 41.965806, "lng": -83.67133, "type": "STANDARD", "counties": [{"fips": "115", "name": "Monroe"}]});

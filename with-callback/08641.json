@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.04492, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mc Guire Afb", "lng": -74.58916, "zip_code": "08641"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mc Guire Afb", "Trenton"], "postal_code": "08641", "lat": 40.04492, "lng": -74.58916, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

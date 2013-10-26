@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.312208, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Chandler", "lng": -111.93177, "zip_code": "85226"});
+zipapicallback({"locality": "Chandler", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chandler"], "postal_code": "85226", "lat": 33.312208, "lng": -111.93177, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

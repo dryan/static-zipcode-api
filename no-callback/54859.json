@@ -1,1 +1,1 @@
-{"lat": 46.127976, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Minong", "lng": -91.84389, "zip_code": "54859"}
+{"locality": "Minong", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Minong"], "postal_code": "54859", "lat": 46.127976, "lng": -91.84389, "type": "STANDARD", "counties": [{"fips": "129", "name": "Washburn"}]}

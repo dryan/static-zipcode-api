@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.35294, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Raysal", "lng": -81.768, "zip_code": "24879"});
+zipapicallback({"locality": "Raysal", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Raysal"], "postal_code": "24879", "lat": 37.35294, "lng": -81.768, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]});

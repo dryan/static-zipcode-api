@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.851729, "region": {"abbr": "CA", "name": "California"}, "locality": "Independence", "lng": -118.20743, "zip_code": "93526"});
+zipapicallback({"locality": "Independence", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Independence"], "postal_code": "93526", "lat": 36.851729, "lng": -118.20743, "type": "STANDARD", "counties": [{"fips": "027", "name": "Inyo"}]});

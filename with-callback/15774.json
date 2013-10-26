@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.657804, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shelocta", "lng": -79.3328, "zip_code": "15774"});
+zipapicallback({"locality": "Shelocta", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shelocta"], "postal_code": "15774", "lat": 40.657804, "lng": -79.3328, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}, {"fips": "005", "name": "Armstrong"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.909434, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Deaver", "lng": -108.58917, "zip_code": "82421"});
+zipapicallback({"locality": "Deaver", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Deaver"], "postal_code": "82421", "lat": 44.909434, "lng": -108.58917, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]});

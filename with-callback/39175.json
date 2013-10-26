@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.105647, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Utica", "lng": -90.61749, "zip_code": "39175"});
+zipapicallback({"locality": "Utica", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Utica"], "postal_code": "39175", "lat": 32.105647, "lng": -90.61749, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hinds"}, {"fips": "021", "name": "Claiborne"}, {"fips": "029", "name": "Copiah"}]});

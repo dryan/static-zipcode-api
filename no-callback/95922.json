@@ -1,1 +1,1 @@
-{"lat": 39.469943, "region": {"abbr": "CA", "name": "California"}, "locality": "Camptonville", "lng": -121.07321, "zip_code": "95922"}
+{"locality": "Camptonville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Camptonville"], "postal_code": "95922", "lat": 39.469943, "lng": -121.07321, "type": "STANDARD", "counties": [{"fips": "115", "name": "Yuba"}, {"fips": "091", "name": "Sierra"}]}

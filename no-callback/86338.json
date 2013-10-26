@@ -1,1 +1,1 @@
-{"lat": 34.557983, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Skull Valley", "lng": -112.70556, "zip_code": "86338"}
+{"locality": "Skull Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Skull Valley"], "postal_code": "86338", "lat": 34.557983, "lng": -112.70556, "type": "POBOX", "counties": [{"fips": "025", "name": "Yavapai"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.231581, "region": {"abbr": "CA", "name": "California"}, "locality": "Mt Baldy", "lng": -117.66106, "zip_code": "91759"});
+zipapicallback({"locality": "Mt Baldy", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mt Baldy"], "postal_code": "91759", "lat": 34.231581, "lng": -117.66106, "type": "POBOX", "counties": [{"fips": "037", "name": "Los Angeles"}]});

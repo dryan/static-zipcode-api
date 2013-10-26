@@ -1,1 +1,1 @@
-{"lat": 38.089097, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Burke", "lng": -83.09554, "zip_code": "41171"}
+{"locality": "Sandy Hook", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bruin", "Burke", "Culver", "Little Sandy", "Lytten", "Newfoundland", "Sandy Hook", "Stephens"], "postal_code": "41171", "lat": 38.089097, "lng": -83.09554, "type": "STANDARD", "counties": [{"fips": "063", "name": "Elliott"}]}

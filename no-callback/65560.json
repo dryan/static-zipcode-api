@@ -1,1 +1,1 @@
-{"lat": 37.630896, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Salem", "lng": -91.51423, "zip_code": "65560"}
+{"locality": "Salem", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Salem"], "postal_code": "65560", "lat": 37.630896, "lng": -91.51423, "type": "STANDARD", "counties": [{"fips": "065", "name": "Dent"}, {"fips": "203", "name": "Shannon"}, {"fips": "215", "name": "Texas"}, {"fips": "055", "name": "Crawford"}, {"fips": "161", "name": "Phelps"}]}

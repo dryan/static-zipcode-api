@@ -1,1 +1,1 @@
-{"lat": 36.224429, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ridgely", "lng": -89.48641, "zip_code": "38080"}
+{"locality": "Ridgely", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Miston", "Ridgely"], "postal_code": "38080", "lat": 36.224429, "lng": -89.48641, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lake"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.836887, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Last Chance", "lng": -103.61156, "zip_code": "80757"});
+zipapicallback({"locality": "Woodrow", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Last Chance", "Woodrow"], "postal_code": "80757", "lat": 39.836887, "lng": -103.61156, "type": "STANDARD", "counties": [{"fips": "121", "name": "Washington"}]});

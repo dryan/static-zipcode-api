@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.759988, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Granger", "lng": -93.81486, "zip_code": "50109"});
+zipapicallback({"locality": "Granger", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Granger"], "postal_code": "50109", "lat": 41.759988, "lng": -93.81486, "type": "STANDARD", "counties": [{"fips": "049", "name": "Dallas"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.868643, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bronx", "lng": -73.84735, "zip_code": "10469"});
+zipapicallback({"locality": "Bronx", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bronx"], "postal_code": "10469", "lat": 40.868643, "lng": -73.84735, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bronx"}]});

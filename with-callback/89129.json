@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.231139, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Las Vegas", "lng": -115.28461, "zip_code": "89129"});
+zipapicallback({"locality": "Las Vegas", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Las Vegas"], "postal_code": "89129", "lat": 36.231139, "lng": -115.28461, "type": "STANDARD", "counties": [{"fips": "003", "name": "Clark"}]});

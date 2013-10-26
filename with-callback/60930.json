@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.823527, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Danforth", "lng": -87.9874, "zip_code": "60930"});
+zipapicallback({"locality": "Danforth", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Danforth"], "postal_code": "60930", "lat": 40.823527, "lng": -87.9874, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}]});

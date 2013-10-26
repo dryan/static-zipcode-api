@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.161484, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Frazeysburg", "lng": -82.16324, "zip_code": "43822"});
+zipapicallback({"locality": "Frazeysburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Frazeysburg"], "postal_code": "43822", "lat": 40.161484, "lng": -82.16324, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}, {"fips": "083", "name": "Knox"}, {"fips": "089", "name": "Licking"}, {"fips": "031", "name": "Coshocton"}]});

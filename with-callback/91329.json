@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Northridge", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Northridge"], "postal_code": "91329", "type": "UNIQUE", "counties": [{"fips": "037", "name": "Los Angeles"}]});

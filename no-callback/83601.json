@@ -1,1 +1,1 @@
-{"lat": 43.801588, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Atlanta", "lng": -115.13085, "zip_code": "83601"}
+{"locality": "Atlanta", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Atlanta"], "postal_code": "83601", "lat": 43.801588, "lng": -115.13085, "type": "POBOX", "counties": [{"fips": "039", "name": "Elmore"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.375602, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ludlow", "lng": -88.11524, "zip_code": "60949"}
+{"locality": "Ludlow", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ludlow"], "postal_code": "60949", "lat": 40.375602, "lng": -88.11524, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}, {"fips": "053", "name": "Ford"}]}

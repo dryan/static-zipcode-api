@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.142706, "region": {"abbr": "CA", "name": "California"}, "locality": "Escondido", "lng": -117.03049, "zip_code": "92027"});
+zipapicallback({"locality": "Escondido", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Escondido"], "postal_code": "92027", "lat": 33.142706, "lng": -117.03049, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.720777, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Silverdale", "lng": -122.71309, "zip_code": "98315"});
+zipapicallback({"locality": "Silverdale", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Silverdale"], "postal_code": "98315", "lat": 47.720777, "lng": -122.71309, "type": "STANDARD", "counties": [{"fips": "035", "name": "Kitsap"}]});

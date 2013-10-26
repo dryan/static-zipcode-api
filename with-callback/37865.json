@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.853932, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Seymour", "lng": -83.74476, "zip_code": "37865"});
+zipapicallback({"locality": "Seymour", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Seymour"], "postal_code": "37865", "lat": 35.853932, "lng": -83.74476, "type": "STANDARD", "counties": [{"fips": "155", "name": "Sevier"}]});

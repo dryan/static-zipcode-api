@@ -1,1 +1,1 @@
-{"lat": 38.527556, "region": {"abbr": "CA", "name": "California"}, "locality": "Fiddletown", "lng": -120.69292, "zip_code": "95629"}
+{"locality": "Fiddletown", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fiddletown"], "postal_code": "95629", "lat": 38.527556, "lng": -120.69292, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}, {"fips": "017", "name": "El Dorado"}]}

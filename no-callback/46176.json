@@ -1,1 +1,1 @@
-{"lat": 39.523797, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Shelbyville", "lng": -85.77208, "zip_code": "46176"}
+{"locality": "Shelbyville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Shelbyville"], "postal_code": "46176", "lat": 39.523797, "lng": -85.77208, "type": "STANDARD", "counties": [{"fips": "145", "name": "Shelby"}]}

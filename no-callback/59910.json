@@ -1,1 +1,1 @@
-{"lat": 47.802143, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Big Arm", "lng": -114.30638, "zip_code": "59910"}
+{"locality": "Big Arm", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Big Arm"], "postal_code": "59910", "lat": 47.802143, "lng": -114.30638, "type": "STANDARD", "counties": [{"fips": "047", "name": "Lake"}]}

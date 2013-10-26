@@ -1,1 +1,1 @@
-{"lat": 42.449454, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ithaca College", "lng": -76.49685, "zip_code": "14850"}
+{"locality": "Ithaca", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ithaca", "Ithaca Coll", "Ithaca College"], "postal_code": "14850", "lat": 42.449454, "lng": -76.49685, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tompkins"}]}

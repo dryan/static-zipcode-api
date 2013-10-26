@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.038201, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Champion", "lng": -79.30426, "zip_code": "15622"});
+zipapicallback({"locality": "Champion", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Champion"], "postal_code": "15622", "lat": 40.038201, "lng": -79.30426, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}, {"fips": "129", "name": "Westmoreland"}, {"fips": "111", "name": "Somerset"}]});

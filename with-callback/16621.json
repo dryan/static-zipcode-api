@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.211299, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Broad Top", "lng": -78.13, "zip_code": "16621"});
+zipapicallback({"locality": "Broad Top", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Broad Top"], "postal_code": "16621", "lat": 40.211299, "lng": -78.13, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}]});

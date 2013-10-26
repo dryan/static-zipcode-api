@@ -1,1 +1,1 @@
-{"lat": 38.889362, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Emery", "lng": -111.17706, "zip_code": "84522"}
+{"locality": "Emery", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Emery"], "postal_code": "84522", "lat": 38.889362, "lng": -111.17706, "type": "POBOX", "counties": [{"fips": "015", "name": "Emery"}]}

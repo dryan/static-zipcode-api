@@ -1,1 +1,1 @@
-{"lat": 41.554112, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Woodbury", "lng": -73.20539, "zip_code": "06798"}
+{"locality": "Woodbury", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Woodbury"], "postal_code": "06798", "lat": 41.554112, "lng": -73.20539, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.000364, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Catawba", "lng": -83.62142, "zip_code": "43010"});
+zipapicallback({"locality": "Catawba", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Catawba"], "postal_code": "43010", "lat": 40.000364, "lng": -83.62142, "type": "POBOX", "counties": [{"fips": "023", "name": "Clark"}]});

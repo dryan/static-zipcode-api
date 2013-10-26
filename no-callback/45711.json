@@ -1,1 +1,1 @@
-{"lat": 39.429095, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Amesville", "lng": -81.94337, "zip_code": "45711"}
+{"locality": "Amesville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Amesville"], "postal_code": "45711", "lat": 39.429095, "lng": -81.94337, "type": "STANDARD", "counties": [{"fips": "009", "name": "Athens"}, {"fips": "167", "name": "Washington"}, {"fips": "115", "name": "Morgan"}]}

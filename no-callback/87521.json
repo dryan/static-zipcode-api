@@ -1,1 +1,1 @@
-{"lat": 36.126615, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Chamisal", "lng": -105.74651, "zip_code": "87521"}
+{"locality": "Chamisal", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Chamisal", "Ojo Sarco"], "postal_code": "87521", "lat": 36.126615, "lng": -105.74651, "type": "STANDARD", "counties": [{"fips": "055", "name": "Taos"}]}

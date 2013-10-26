@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.639994, "region": {"abbr": "CA", "name": "California"}, "locality": "Rancho Santa Mar", "lng": -117.60351, "zip_code": "92688"});
+zipapicallback({"locality": "Rancho Santa Margarita", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rancho Santa Margarita", "Rancho Sta Marg", "Rcho Sta Marg", "Rsm"], "postal_code": "92688", "lat": 33.639994, "lng": -117.60351, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.282877, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Newberry", "lng": -81.61641, "zip_code": "29108"}
+{"locality": "Newberry", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Newberry"], "postal_code": "29108", "lat": 34.282877, "lng": -81.61641, "type": "STANDARD", "counties": [{"fips": "071", "name": "Newberry"}]}

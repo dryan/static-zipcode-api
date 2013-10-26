@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.107447, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Kevil", "lng": -88.86061, "zip_code": "42053"});
+zipapicallback({"locality": "Kevil", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Kevil"], "postal_code": "42053", "lat": 37.107447, "lng": -88.86061, "type": "STANDARD", "counties": [{"fips": "145", "name": "McCracken"}]});

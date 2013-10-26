@@ -1,1 +1,1 @@
-{"lat": 37.227291, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Claremont", "lng": -76.96545, "zip_code": "23899"}
+{"locality": "Claremont", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Claremont"], "postal_code": "23899", "lat": 37.227291, "lng": -76.96545, "type": "POBOX", "counties": [{"fips": "181", "name": "Surry"}]}

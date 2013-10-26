@@ -1,1 +1,1 @@
-{"lat": 37.621338, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jerico Springs", "lng": -94.01643, "zip_code": "64756"}
+{"locality": "Jerico Springs", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Jerico Sprgs", "Jerico Springs"], "postal_code": "64756", "lat": 37.621338, "lng": -94.01643, "type": "STANDARD", "counties": [{"fips": "039", "name": "Cedar"}, {"fips": "057", "name": "Dade"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.344688, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Monte Alto", "lng": -97.96961, "zip_code": "78538"}
+{"locality": "Edcouch", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Edcouch", "Monte Alto"], "postal_code": "78538", "lat": 26.344688, "lng": -97.96961, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]}

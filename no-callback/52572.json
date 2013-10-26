@@ -1,1 +1,1 @@
-{"lat": 40.679322, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Moulton", "lng": -92.68369, "zip_code": "52572"}
+{"locality": "Moulton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Moulton"], "postal_code": "52572", "lat": 40.679322, "lng": -92.68369, "type": "STANDARD", "counties": [{"fips": "007", "name": "Appanoose"}]}

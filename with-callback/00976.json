@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.346767, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Trujillo Alto", "lng": -66.00561, "zip_code": "00976"});
+zipapicallback({"locality": "Trujillo Alto", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Trujillo Alto"], "postal_code": "00976", "lat": 18.346767, "lng": -66.00561, "type": "STANDARD", "counties": []});

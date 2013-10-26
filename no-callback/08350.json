@@ -1,1 +1,1 @@
-{"lat": 39.490774, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Richland", "lng": -74.87045, "zip_code": "08350"}
+{"locality": "Richland", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Richland"], "postal_code": "08350", "lat": 39.490774, "lng": -74.87045, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

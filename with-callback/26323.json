@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.258328, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Anmoore", "lng": -80.28798, "zip_code": "26323"});
+zipapicallback({"locality": "Anmoore", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Anmoore"], "postal_code": "26323", "lat": 39.258328, "lng": -80.28798, "type": "POBOX", "counties": [{"fips": "033", "name": "Harrison"}]});

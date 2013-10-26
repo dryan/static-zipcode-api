@@ -1,1 +1,1 @@
-{"lat": 37.729714, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Philpot", "lng": -86.92838, "zip_code": "42366"}
+{"locality": "Philpot", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Knottsville", "Philpot"], "postal_code": "42366", "lat": 37.729714, "lng": -86.92838, "type": "STANDARD", "counties": [{"fips": "059", "name": "Daviess"}, {"fips": "183", "name": "Ohio"}, {"fips": "091", "name": "Hancock"}]}

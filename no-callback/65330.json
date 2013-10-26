@@ -1,1 +1,1 @@
-{"lat": 39.226389, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gilliam", "lng": -92.96214, "zip_code": "65330"}
+{"locality": "Gilliam", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gilliam"], "postal_code": "65330", "lat": 39.226389, "lng": -92.96214, "type": "STANDARD", "counties": [{"fips": "195", "name": "Saline"}]}

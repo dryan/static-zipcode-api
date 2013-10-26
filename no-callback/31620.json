@@ -1,1 +1,1 @@
-{"lat": 31.133004, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Adel", "lng": -83.42736, "zip_code": "31620"}
+{"locality": "Adel", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Adel"], "postal_code": "31620", "lat": 31.133004, "lng": -83.42736, "type": "STANDARD", "counties": [{"fips": "075", "name": "Cook"}]}

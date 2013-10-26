@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.818931, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Rathdrum", "lng": -116.8783, "zip_code": "83858"});
+zipapicallback({"locality": "Rathdrum", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Rathdrum", "Twin Lakes"], "postal_code": "83858", "lat": 47.818931, "lng": -116.8783, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kootenai"}]});

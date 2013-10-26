@@ -1,1 +1,1 @@
-{"lat": 44.921758, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Kenduskeag", "lng": -68.93125, "zip_code": "04450"}
+{"locality": "Kenduskeag", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Kenduskeag"], "postal_code": "04450", "lat": 44.921758, "lng": -68.93125, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]}

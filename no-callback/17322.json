@@ -1,1 +1,1 @@
-{"lat": 39.848832, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Felton", "lng": -76.55122, "zip_code": "17322"}
+{"locality": "Felton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Felton"], "postal_code": "17322", "lat": 39.848832, "lng": -76.55122, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

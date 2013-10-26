@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.687983, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Chattahoochee", "lng": -84.8218, "zip_code": "32324"});
+zipapicallback({"locality": "Chattahoochee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Chattahoochee"], "postal_code": "32324", "lat": 30.687983, "lng": -84.8218, "type": "STANDARD", "counties": [{"fips": "039", "name": "Gadsden"}, {"fips": "063", "name": "Jackson"}]});

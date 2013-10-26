@@ -1,1 +1,1 @@
-{"lat": 34.784028, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Athens", "lng": -87.02767, "zip_code": "35611"}
+{"locality": "Athens", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Athens"], "postal_code": "35611", "lat": 34.784028, "lng": -87.02767, "type": "STANDARD", "counties": [{"fips": "083", "name": "Limestone"}, {"fips": "077", "name": "Lauderdale"}]}

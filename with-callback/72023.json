@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.967043, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cabot", "lng": -92.03537, "zip_code": "72023"});
+zipapicallback({"locality": "Cabot", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cabot"], "postal_code": "72023", "lat": 34.967043, "lng": -92.03537, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lonoke"}, {"fips": "119", "name": "Pulaski"}]});

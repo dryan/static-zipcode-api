@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.335288, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Panhandle", "lng": -101.39752, "zip_code": "79068"});
+zipapicallback({"locality": "Panhandle", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Panhandle"], "postal_code": "79068", "lat": 35.335288, "lng": -101.39752, "type": "STANDARD", "counties": [{"fips": "065", "name": "Carson"}]});

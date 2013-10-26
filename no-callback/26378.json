@@ -1,1 +1,1 @@
-{"lat": 39.106153, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Jane Lew", "lng": -80.42691, "zip_code": "26378"}
+{"locality": "Jane Lew", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Jane Lew", "Kincheloe"], "postal_code": "26378", "lat": 39.106153, "lng": -80.42691, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}, {"fips": "033", "name": "Harrison"}]}

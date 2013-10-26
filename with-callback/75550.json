@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.530829, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Annona", "lng": -94.90585, "zip_code": "75550"});
+zipapicallback({"locality": "Annona", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Annona"], "postal_code": "75550", "lat": 33.530829, "lng": -94.90585, "type": "STANDARD", "counties": [{"fips": "387", "name": "Red River"}]});

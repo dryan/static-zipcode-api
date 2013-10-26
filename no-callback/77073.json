@@ -1,1 +1,1 @@
-{"lat": 30.008745, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Houston", "lng": -95.41273, "zip_code": "77073"}
+{"locality": "Houston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Houston"], "postal_code": "77073", "lat": 30.008745, "lng": -95.41273, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

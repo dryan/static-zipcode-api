@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.896662, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Julian", "lng": -77.91555, "zip_code": "16844"});
+zipapicallback({"locality": "Julian", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Julian"], "postal_code": "16844", "lat": 40.896662, "lng": -77.91555, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]});

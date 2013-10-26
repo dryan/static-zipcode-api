@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.169323, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Klamath Falls", "lng": -121.70298, "zip_code": "97603"});
+zipapicallback({"locality": "Klamath Falls", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Klamath Falls"], "postal_code": "97603", "lat": 42.169323, "lng": -121.70298, "type": "STANDARD", "counties": [{"fips": "035", "name": "Klamath"}]});

@@ -1,1 +1,1 @@
-{"lat": 26.382408, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Boca Raton", "lng": -80.16699, "zip_code": "33434"}
+{"locality": "Boca Raton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Boca Raton"], "postal_code": "33434", "lat": 26.382408, "lng": -80.16699, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.025227, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Munsonville", "lng": -72.14365, "zip_code": "03457"}
+{"locality": "Nelson", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Munsonville", "Nelson"], "postal_code": "03457", "lat": 43.025227, "lng": -72.14365, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]}

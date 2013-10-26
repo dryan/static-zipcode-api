@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.441194, "region": {"abbr": "CA", "name": "California"}, "locality": "Gazelle", "lng": -122.64688, "zip_code": "96034"});
+zipapicallback({"locality": "Gazelle", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Gazelle"], "postal_code": "96034", "lat": 41.441194, "lng": -122.64688, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

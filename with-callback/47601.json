@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.05732, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Boonville", "lng": -87.26579, "zip_code": "47601"});
+zipapicallback({"locality": "Boonville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Boonville"], "postal_code": "47601", "lat": 38.05732, "lng": -87.26579, "type": "STANDARD", "counties": [{"fips": "173", "name": "Warrick"}, {"fips": "147", "name": "Spencer"}]});

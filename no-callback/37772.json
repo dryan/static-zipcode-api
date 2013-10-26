@@ -1,1 +1,1 @@
-{"lat": 35.800329, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lenoir City", "lng": -84.23281, "zip_code": "37772"}
+{"locality": "Lenoir City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lenoir City"], "postal_code": "37772", "lat": 35.800329, "lng": -84.23281, "type": "STANDARD", "counties": []}

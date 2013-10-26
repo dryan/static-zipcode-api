@@ -1,1 +1,1 @@
-{"lat": 30.101464, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Milton", "lng": -92.06338, "zip_code": "70558"}
+{"locality": "Milton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Milton"], "postal_code": "70558", "lat": 30.101464, "lng": -92.06338, "type": "POBOX", "counties": [{"fips": "055", "name": "Lafayette"}]}

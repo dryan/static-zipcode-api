@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.919465, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Eldon", "lng": -92.22521, "zip_code": "52554"});
+zipapicallback({"locality": "Eldon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Eldon"], "postal_code": "52554", "lat": 40.919465, "lng": -92.22521, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wapello"}]});

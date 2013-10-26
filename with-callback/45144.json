@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.690566, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Manchester", "lng": -83.61925, "zip_code": "45144"});
+zipapicallback({"locality": "Manchester", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Adams County", "Manchester"], "postal_code": "45144", "lat": 38.690566, "lng": -83.61925, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.362943, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bevinsville", "lng": -82.73277, "zip_code": "41606"}
+{"locality": "Bevinsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bevinsville", "Halo"], "postal_code": "41606", "lat": 37.362943, "lng": -82.73277, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

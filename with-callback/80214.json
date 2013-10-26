@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.745526, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Edgewater", "lng": -105.06251, "zip_code": "80214"});
+zipapicallback({"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Edgewater", "Lakewood", "Wheat Ridge"], "postal_code": "80214", "lat": 39.745526, "lng": -105.06251, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}, {"fips": "031", "name": "Denver"}]});

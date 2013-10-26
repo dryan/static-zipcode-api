@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.165256, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Sinclair", "lng": -68.27288, "zip_code": "04779"});
+zipapicallback({"locality": "Sinclair", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cross Lake Twp", "Cross Lke Twp", "Sinclair"], "postal_code": "04779", "lat": 47.165256, "lng": -68.27288, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

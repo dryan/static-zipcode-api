@@ -1,1 +1,1 @@
-{"lat": 44.688292, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Temple", "lng": -70.23773, "zip_code": "04984"}
+{"locality": "Temple", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Temple"], "postal_code": "04984", "lat": 44.688292, "lng": -70.23773, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]}

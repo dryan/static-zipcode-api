@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.70844, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lanesboro", "lng": -91.95965, "zip_code": "55949"});
+zipapicallback({"locality": "Lanesboro", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lanesboro", "Whalan"], "postal_code": "55949", "lat": 43.70844, "lng": -91.95965, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.577478, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Crane", "lng": -104.25806, "zip_code": "59217"}
+{"locality": "Crane", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Crane"], "postal_code": "59217", "lat": 47.577478, "lng": -104.25806, "type": "POBOX", "counties": [{"fips": "083", "name": "Richland"}]}

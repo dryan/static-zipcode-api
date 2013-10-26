@@ -1,1 +1,1 @@
-{"lat": 39.830942, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dana", "lng": -87.47013, "zip_code": "47847"}
+{"locality": "Dana", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dana"], "postal_code": "47847", "lat": 39.830942, "lng": -87.47013, "type": "STANDARD", "counties": [{"fips": "165", "name": "Vermillion"}]}

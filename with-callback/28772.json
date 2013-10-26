@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.139812, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Rosman", "lng": -82.84253, "zip_code": "28772"});
+zipapicallback({"locality": "Rosman", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Rosman"], "postal_code": "28772", "lat": 35.139812, "lng": -82.84253, "type": "STANDARD", "counties": [{"fips": "175", "name": "Transylvania"}]});

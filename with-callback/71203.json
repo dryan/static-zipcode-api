@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.547067, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Monroe", "lng": -92.04384, "zip_code": "71203"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Monroe"], "postal_code": "71203", "lat": 32.547067, "lng": -92.04384, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ouachita"}, {"fips": "067", "name": "Morehouse"}]});

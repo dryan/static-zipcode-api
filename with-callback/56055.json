@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.128212, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Crystal", "lng": -94.23883, "zip_code": "56055"});
+zipapicallback({"locality": "Lake Crystal", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Crystal"], "postal_code": "56055", "lat": 44.128212, "lng": -94.23883, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blue Earth"}]});

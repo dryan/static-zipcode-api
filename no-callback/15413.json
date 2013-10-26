@@ -1,1 +1,1 @@
-{"lat": 39.987842, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Allison", "lng": -79.86681, "zip_code": "15413"}
+{"locality": "Allison", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Allison"], "postal_code": "15413", "lat": 39.987842, "lng": -79.86681, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

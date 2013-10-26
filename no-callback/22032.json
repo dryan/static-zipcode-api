@@ -1,1 +1,1 @@
-{"lat": 38.821753, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fairfax", "lng": -77.29293, "zip_code": "22032"}
+{"locality": "Fairfax", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fairfax"], "postal_code": "22032", "lat": 38.821753, "lng": -77.29293, "type": "STANDARD", "counties": [{"fips": "600", "name": "Fairfax (City)"}, {"fips": "059", "name": "Fairfax"}]}

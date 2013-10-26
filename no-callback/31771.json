@@ -1,1 +1,1 @@
-{"lat": 31.256287, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Norman Park", "lng": -83.66005, "zip_code": "31771"}
+{"locality": "Norman Park", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Norman Park"], "postal_code": "31771", "lat": 31.256287, "lng": -83.66005, "type": "STANDARD", "counties": [{"fips": "071", "name": "Colquitt"}, {"fips": "321", "name": "Worth"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.656171, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Liberty Lake", "lng": -117.08628, "zip_code": "99019"}
+{"locality": "Liberty Lake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Liberty Lake"], "postal_code": "99019", "lat": 47.656171, "lng": -117.08628, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]}

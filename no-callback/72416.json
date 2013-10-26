@@ -1,1 +1,1 @@
-{"lat": 35.927057, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bono", "lng": -90.79589, "zip_code": "72416"}
+{"locality": "Bono", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bono"], "postal_code": "72416", "lat": 35.927057, "lng": -90.79589, "type": "STANDARD", "counties": [{"fips": "031", "name": "Craighead"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.629058, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Woodville", "lng": -78.18057, "zip_code": "22749"}
+{"locality": "Woodville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Woodville"], "postal_code": "22749", "lat": 38.629058, "lng": -78.18057, "type": "STANDARD", "counties": [{"fips": "157", "name": "Rappahannock"}]}

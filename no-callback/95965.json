@@ -1,1 +1,1 @@
-{"lat": 39.558586, "region": {"abbr": "CA", "name": "California"}, "locality": "Pulga", "lng": -121.58923, "zip_code": "95965"}
+{"locality": "Oroville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Butte Valley", "Oroville", "Pulga", "Yankee Hill"], "postal_code": "95965", "lat": 39.558586, "lng": -121.58923, "type": "STANDARD", "counties": [{"fips": "007", "name": "Butte"}]}

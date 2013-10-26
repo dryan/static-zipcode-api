@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.274091, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Barbeau", "lng": -84.17164, "zip_code": "49710"});
+zipapicallback({"locality": "Barbeau", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Barbeau"], "postal_code": "49710", "lat": 46.274091, "lng": -84.17164, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]});

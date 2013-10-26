@@ -1,1 +1,1 @@
-{"lat": 42.616399, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Aurora", "lng": -91.73262, "zip_code": "50607"}
+{"locality": "Aurora", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Aurora"], "postal_code": "50607", "lat": 42.616399, "lng": -91.73262, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buchanan"}, {"fips": "065", "name": "Fayette"}]}

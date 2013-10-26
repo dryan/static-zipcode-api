@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.183465, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dawson Springs", "lng": -87.68413, "zip_code": "42408"});
+zipapicallback({"locality": "Dawson Springs", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dawson Spgs", "Dawson Springs"], "postal_code": "42408", "lat": 37.183465, "lng": -87.68413, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}, {"fips": "047", "name": "Christian"}]});

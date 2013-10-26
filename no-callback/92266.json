@@ -1,1 +1,1 @@
-{"lat": 33.387467, "region": {"abbr": "CA", "name": "California"}, "locality": "Palo Verde", "lng": -114.71352, "zip_code": "92266"}
+{"locality": "Palo Verde", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palo Verde"], "postal_code": "92266", "lat": 33.387467, "lng": -114.71352, "type": "POBOX", "counties": [{"fips": "025", "name": "Imperial"}]}

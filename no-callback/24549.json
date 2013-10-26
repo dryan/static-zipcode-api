@@ -1,1 +1,1 @@
-{"lat": 36.710985, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dry Fork", "lng": -79.48517, "zip_code": "24549"}
+{"locality": "Dry Fork", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dry Fork"], "postal_code": "24549", "lat": 36.710985, "lng": -79.48517, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}]}

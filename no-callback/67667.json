@@ -1,1 +1,1 @@
-{"lat": 38.711024, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Schoenchen", "lng": -99.33117, "zip_code": "67667"}
+{"locality": "Schoenchen", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hays", "Schoenchen"], "postal_code": "67667", "lat": 38.711024, "lng": -99.33117, "type": "POBOX", "counties": [{"fips": "051", "name": "Ellis"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.251768, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Augusta", "lng": -91.35603, "zip_code": "72006"}
+{"locality": "Augusta", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Augusta"], "postal_code": "72006", "lat": 35.251768, "lng": -91.35603, "type": "STANDARD", "counties": [{"fips": "147", "name": "Woodruff"}]}

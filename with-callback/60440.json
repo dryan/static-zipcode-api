@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.703097, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bolingbrook", "lng": -88.07462, "zip_code": "60440"});
+zipapicallback({"locality": "Bolingbrook", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bolingbrook"], "postal_code": "60440", "lat": 41.703097, "lng": -88.07462, "type": "STANDARD", "counties": []});

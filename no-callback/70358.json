@@ -1,1 +1,1 @@
-{"lat": 29.227769, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Grand Isle", "lng": -90.01211, "zip_code": "70358"}
+{"locality": "Grand Isle", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Grand Isle"], "postal_code": "70358", "lat": 29.227769, "lng": -90.01211, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.697658, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Star", "lng": -116.49155, "zip_code": "83669"}
+{"locality": "Star", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Star"], "postal_code": "83669", "lat": 43.697658, "lng": -116.49155, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}, {"fips": "027", "name": "Canyon"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.325261, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Lupton", "lng": -109.07847, "zip_code": "86508"}
+{"locality": "Lupton", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Houck", "Lupton"], "postal_code": "86508", "lat": 35.325261, "lng": -109.07847, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.730641, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Macon", "lng": -83.6793, "zip_code": "31216"}
+{"locality": "Macon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Macon"], "postal_code": "31216", "lat": 32.730641, "lng": -83.6793, "type": "STANDARD", "counties": []}

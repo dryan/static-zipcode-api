@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.116408, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cross Plains", "lng": -89.64371, "zip_code": "53528"});
+zipapicallback({"locality": "Cross Plains", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cross Plains"], "postal_code": "53528", "lat": 43.116408, "lng": -89.64371, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}]});

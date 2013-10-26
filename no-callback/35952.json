@@ -1,1 +1,1 @@
-{"lat": 34.057496, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Altoona", "lng": -86.32225, "zip_code": "35952"}
+{"locality": "Altoona", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Altoona", "Snead", "Susan Moore"], "postal_code": "35952", "lat": 34.057496, "lng": -86.32225, "type": "STANDARD", "counties": [{"fips": "055", "name": "Etowah"}, {"fips": "009", "name": "Blount"}, {"fips": "005", "name": "Barbour"}, {"fips": "095", "name": "Marshall"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.937448, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Greendale", "lng": -87.99839, "zip_code": "53129"}
+{"locality": "Greendale", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Greendale"], "postal_code": "53129", "lat": 42.937448, "lng": -87.99839, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

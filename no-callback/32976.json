@@ -1,1 +1,1 @@
-{"lat": 27.877504, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Barefoot Bay", "lng": -80.51457, "zip_code": "32976"}
+{"locality": "Sebastian", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Barefoot Bay", "Micco", "Sebastian"], "postal_code": "32976", "lat": 27.877504, "lng": -80.51457, "type": "STANDARD", "counties": []}

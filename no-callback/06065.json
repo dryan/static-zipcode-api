@@ -1,1 +1,1 @@
-{"lat": 41.961127, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Riverton", "lng": -73.01859, "zip_code": "06065"}
+{"locality": "Riverton", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Riverton"], "postal_code": "06065", "lat": 41.961127, "lng": -73.01859, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

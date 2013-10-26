@@ -1,1 +1,1 @@
-{"lat": 38.187767, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Festus", "lng": -90.4077, "zip_code": "63028"}
+{"locality": "Festus", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Festus"], "postal_code": "63028", "lat": 38.187767, "lng": -90.4077, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]}

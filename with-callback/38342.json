@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.075068, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hollow Rock", "lng": -88.28916, "zip_code": "38342"});
+zipapicallback({"locality": "Hollow Rock", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hollow Rock"], "postal_code": "38342", "lat": 36.075068, "lng": -88.28916, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]});

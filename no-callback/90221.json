@@ -1,1 +1,1 @@
-{"lat": 33.893265, "region": {"abbr": "CA", "name": "California"}, "locality": "East Rancho Domi", "lng": -118.204, "zip_code": "90221"}
+{"locality": "Compton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Compton", "E Rncho Dmngz", "East Rancho Dominguez"], "postal_code": "90221", "lat": 33.893265, "lng": -118.204, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

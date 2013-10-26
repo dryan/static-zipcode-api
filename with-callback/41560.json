@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.389786, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Robinson Creek", "lng": -82.55812, "zip_code": "41560"});
+zipapicallback({"locality": "Robinson Creek", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Robinson Creek", "Robinson Crk"], "postal_code": "41560", "lat": 37.389786, "lng": -82.55812, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

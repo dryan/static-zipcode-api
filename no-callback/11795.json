@@ -1,1 +1,1 @@
-{"lat": 40.713459, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Islip", "lng": -73.3001, "zip_code": "11795"}
+{"locality": "West Islip", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["West Islip"], "postal_code": "11795", "lat": 40.713459, "lng": -73.3001, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

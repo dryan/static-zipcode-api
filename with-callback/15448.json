@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.134792, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Jacobs Creek", "lng": -79.74272, "zip_code": "15448"});
+zipapicallback({"locality": "Jacobs Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jacobs Creek"], "postal_code": "15448", "lat": 40.134792, "lng": -79.74272, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

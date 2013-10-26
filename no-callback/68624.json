@@ -1,1 +1,1 @@
-{"lat": 41.342529, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bellwood", "lng": -97.23485, "zip_code": "68624"}
+{"locality": "Bellwood", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bellwood"], "postal_code": "68624", "lat": 41.342529, "lng": -97.23485, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]}

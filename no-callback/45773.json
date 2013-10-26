@@ -1,1 +1,1 @@
-{"lat": 39.471663, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Reno", "lng": -81.28018, "zip_code": "45773"}
+{"locality": "Reno", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Reno"], "postal_code": "45773", "lat": 39.471663, "lng": -81.28018, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]}

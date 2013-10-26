@@ -1,1 +1,1 @@
-{"lat": 43.333008, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Idleyld Park", "lng": -122.78475, "zip_code": "97447"}
+{"locality": "Idleyld Park", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Idleyld Park"], "postal_code": "97447", "lat": 43.333008, "lng": -122.78475, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]}

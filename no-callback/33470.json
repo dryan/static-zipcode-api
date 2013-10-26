@@ -1,1 +1,1 @@
-{"lat": 26.751094, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Loxahatchee", "lng": -80.30156, "zip_code": "33470"}
+{"locality": "Loxahatchee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lox", "Loxahatchee", "Loxahatchee Groves", "Lxhtchee Grvs", "Village Of Wellington", "Vlg Wellingtn", "Wellington"], "postal_code": "33470", "lat": 26.751094, "lng": -80.30156, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]}

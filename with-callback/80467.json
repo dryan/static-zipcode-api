@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.266778, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Oak Creek", "lng": -106.92849, "zip_code": "80467"});
+zipapicallback({"locality": "Oak Creek", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Oak Creek"], "postal_code": "80467", "lat": 40.266778, "lng": -106.92849, "type": "STANDARD", "counties": [{"fips": "107", "name": "Routt"}]});

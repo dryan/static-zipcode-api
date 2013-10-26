@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.639227, "region": {"abbr": "CA", "name": "California"}, "locality": "Coto De Caza", "lng": -117.58518, "zip_code": "92679"});
+zipapicallback({"locality": "Trabuco Canyon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Coto De Caza", "Dove Canyon", "Portola Hills", "Robinson Ranch", "Robinson Rnch", "Trabuco", "Trabuco Canyon", "Trabuco Cyn"], "postal_code": "92679", "lat": 33.639227, "lng": -117.58518, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

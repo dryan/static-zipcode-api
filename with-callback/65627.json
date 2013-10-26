@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.569847, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cedarcreek", "lng": -93.01139, "zip_code": "65627"});
+zipapicallback({"locality": "Cedarcreek", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cedarcreek"], "postal_code": "65627", "lat": 36.569847, "lng": -93.01139, "type": "STANDARD", "counties": [{"fips": "213", "name": "Taney"}]});

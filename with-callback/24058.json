@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.189876, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Belspring", "lng": -80.59761, "zip_code": "24058"});
+zipapicallback({"locality": "Belspring", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Belspring"], "postal_code": "24058", "lat": 37.189876, "lng": -80.59761, "type": "POBOX", "counties": [{"fips": "155", "name": "Pulaski"}]});

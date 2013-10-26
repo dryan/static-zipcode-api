@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.560479, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Tryon", "lng": -100.98254, "zip_code": "69167"});
+zipapicallback({"locality": "Tryon", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Tryon"], "postal_code": "69167", "lat": 41.560479, "lng": -100.98254, "type": "STANDARD", "counties": [{"fips": "117", "name": "McPherson"}]});

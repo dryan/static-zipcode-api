@@ -1,1 +1,1 @@
-{"lat": 39.963113, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Fountain City", "lng": -84.9142, "zip_code": "47341"}
+{"locality": "Fountain City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Fountain City"], "postal_code": "47341", "lat": 39.963113, "lng": -84.9142, "type": "STANDARD", "counties": [{"fips": "177", "name": "Wayne"}]}

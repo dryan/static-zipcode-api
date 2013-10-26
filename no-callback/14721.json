@@ -1,1 +1,1 @@
-{"lat": 41.999435, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ceres", "lng": -78.27257, "zip_code": "14721"}
+{"locality": "Ceres", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ceres"], "postal_code": "14721", "lat": 41.999435, "lng": -78.27257, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]}

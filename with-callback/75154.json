@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.526123, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ovilla", "lng": -96.82325, "zip_code": "75154"});
+zipapicallback({"locality": "Red Oak", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Glenn Heights", "Oak Leaf", "Ovilla", "Red Oak"], "postal_code": "75154", "lat": 32.526123, "lng": -96.82325, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ellis"}]});

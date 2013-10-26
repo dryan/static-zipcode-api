@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.56914, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wapakoneta", "lng": -84.17288, "zip_code": "45895"});
+zipapicallback({"locality": "Wapakoneta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wapakoneta"], "postal_code": "45895", "lat": 40.56914, "lng": -84.17288, "type": "STANDARD", "counties": [{"fips": "011", "name": "Auglaize"}, {"fips": "091", "name": "Logan"}]});

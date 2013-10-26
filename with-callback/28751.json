@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.518138, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Maggie Valley", "lng": -83.085, "zip_code": "28751"});
+zipapicallback({"locality": "Maggie Valley", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Maggie Valley"], "postal_code": "28751", "lat": 35.518138, "lng": -83.085, "type": "STANDARD", "counties": [{"fips": "087", "name": "Haywood"}]});

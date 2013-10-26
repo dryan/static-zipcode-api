@@ -1,1 +1,1 @@
-{"lat": 36.004445, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Big Flat", "lng": -92.37364, "zip_code": "72617"}
+{"locality": "Big Flat", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Big Flat", "Harriet"], "postal_code": "72617", "lat": 36.004445, "lng": -92.37364, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baxter"}, {"fips": "137", "name": "Stone"}]}

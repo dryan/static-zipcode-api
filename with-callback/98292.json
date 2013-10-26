@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.222046, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Stanwood", "lng": -122.38961, "zip_code": "98292"});
+zipapicallback({"locality": "Stanwood", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Stanwood"], "postal_code": "98292", "lat": 48.222046, "lng": -122.38961, "type": "STANDARD", "counties": [{"fips": "029", "name": "Island"}, {"fips": "061", "name": "Snohomish"}, {"fips": "057", "name": "Skagit"}]});

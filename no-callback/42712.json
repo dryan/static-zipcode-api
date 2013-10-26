@@ -1,1 +1,1 @@
-{"lat": 37.581023, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Big Clifty", "lng": -86.15642, "zip_code": "42712"}
+{"locality": "Big Clifty", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Big Clifty"], "postal_code": "42712", "lat": 37.581023, "lng": -86.15642, "type": "STANDARD", "counties": [{"fips": "085", "name": "Grayson"}, {"fips": "027", "name": "Breckinridge"}, {"fips": "093", "name": "Hardin"}]}

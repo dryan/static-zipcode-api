@@ -1,1 +1,1 @@
-{"lat": 37.738379, "region": {"abbr": "CA", "name": "California"}, "locality": "Oakland", "lng": -122.17332, "zip_code": "94603"}
+{"locality": "Oakland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oakland"], "postal_code": "94603", "lat": 37.738379, "lng": -122.17332, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.728897, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "New Cambria", "lng": -92.74979, "zip_code": "63558"});
+zipapicallback({"locality": "New Cambria", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["New Cambria"], "postal_code": "63558", "lat": 39.728897, "lng": -92.74979, "type": "STANDARD", "counties": [{"fips": "121", "name": "MacOn"}, {"fips": "041", "name": "Chariton"}]});

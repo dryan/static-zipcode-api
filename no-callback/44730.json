@@ -1,1 +1,1 @@
-{"lat": 40.769763, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Canton", "lng": -81.2707, "zip_code": "44730"}
+{"locality": "East Canton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canton", "East Canton"], "postal_code": "44730", "lat": 40.769763, "lng": -81.2707, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "019", "name": "Carroll"}]}

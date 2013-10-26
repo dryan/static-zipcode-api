@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.492003, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sierra Vista", "lng": -110.24699, "zip_code": "85650"});
+zipapicallback({"locality": "Sierra Vista", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sierra Vista"], "postal_code": "85650", "lat": 31.492003, "lng": -110.24699, "type": "STANDARD", "counties": []});

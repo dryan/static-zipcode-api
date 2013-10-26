@@ -1,1 +1,1 @@
-{"lat": 33.009411, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Poolville", "lng": -97.89968, "zip_code": "76487"}
+{"locality": "Poolville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Poolville"], "postal_code": "76487", "lat": 33.009411, "lng": -97.89968, "type": "STANDARD", "counties": []}

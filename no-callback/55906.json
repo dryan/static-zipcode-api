@@ -1,1 +1,1 @@
-{"lat": 44.064733, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rochester", "lng": -92.44427, "zip_code": "55906"}
+{"locality": "Rochester", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rochester"], "postal_code": "55906", "lat": 44.064733, "lng": -92.44427, "type": "STANDARD", "counties": []}

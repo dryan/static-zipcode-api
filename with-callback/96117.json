@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.446122, "region": {"abbr": "CA", "name": "California"}, "locality": "Litchfield", "lng": -120.35776, "zip_code": "96117"});
+zipapicallback({"locality": "Litchfield", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Litchfield"], "postal_code": "96117", "lat": 40.446122, "lng": -120.35776, "type": "STANDARD", "counties": [{"fips": "035", "name": "Lassen"}]});

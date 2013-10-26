@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.65545, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Egeland", "lng": -99.11415, "zip_code": "58331"});
+zipapicallback({"locality": "Egeland", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Egeland"], "postal_code": "58331", "lat": 48.65545, "lng": -99.11415, "type": "STANDARD", "counties": [{"fips": "095", "name": "Towner"}]});

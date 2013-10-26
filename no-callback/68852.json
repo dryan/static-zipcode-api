@@ -1,1 +1,1 @@
-{"lat": 41.158146, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Litchfield", "lng": -99.12336, "zip_code": "68852"}
+{"locality": "Litchfield", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Litchfield"], "postal_code": "68852", "lat": 41.158146, "lng": -99.12336, "type": "STANDARD", "counties": [{"fips": "163", "name": "Sherman"}, {"fips": "041", "name": "Custer"}]}

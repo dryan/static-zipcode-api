@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.612619, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Deatsville", "lng": -86.39497, "zip_code": "36022"});
+zipapicallback({"locality": "Deatsville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Deatsville"], "postal_code": "36022", "lat": 32.612619, "lng": -86.39497, "type": "STANDARD", "counties": [{"fips": "051", "name": "Elmore"}, {"fips": "001", "name": "Autauga"}]});

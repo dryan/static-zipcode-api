@@ -1,1 +1,1 @@
-{"lat": 40.203142, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Geigertown", "lng": -75.83588, "zip_code": "19523"}
+{"locality": "Geigertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Geigertown"], "postal_code": "19523", "lat": 40.203142, "lng": -75.83588, "type": "POBOX", "counties": [{"fips": "011", "name": "Berks"}]}

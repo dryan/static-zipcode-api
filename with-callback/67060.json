@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.552425, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Haysville", "lng": -97.34785, "zip_code": "67060"});
+zipapicallback({"locality": "Haysville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Haysville"], "postal_code": "67060", "lat": 37.552425, "lng": -97.34785, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.652858, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Prairie Hill", "lng": -96.78857, "zip_code": "76678"}
+{"locality": "Prairie Hill", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Prairie Hill"], "postal_code": "76678", "lat": 31.652858, "lng": -96.78857, "type": "STANDARD", "counties": [{"fips": "293", "name": "Limestone"}]}

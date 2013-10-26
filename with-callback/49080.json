@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.462935, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Plainwell", "lng": -85.61256, "zip_code": "49080"});
+zipapicallback({"locality": "Plainwell", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Plainwell"], "postal_code": "49080", "lat": 42.462935, "lng": -85.61256, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allegan"}, {"fips": "077", "name": "Kalamazoo"}, {"fips": "015", "name": "Barry"}]});

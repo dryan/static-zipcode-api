@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.313523, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Crawford", "lng": -88.62721, "zip_code": "39743"});
+zipapicallback({"locality": "Crawford", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Crawford"], "postal_code": "39743", "lat": 33.313523, "lng": -88.62721, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lowndes"}]});

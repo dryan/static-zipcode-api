@@ -1,1 +1,1 @@
-{"lat": 41.407366, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Franklin", "lng": -79.83921, "zip_code": "16323"}
+{"locality": "Franklin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Franklin"], "postal_code": "16323", "lat": 41.407366, "lng": -79.83921, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]}

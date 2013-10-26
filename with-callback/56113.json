@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.398668, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Arco", "lng": -96.17095, "zip_code": "56113"});
+zipapicallback({"locality": "Arco", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Arco"], "postal_code": "56113", "lat": 44.398668, "lng": -96.17095, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}, {"fips": "083", "name": "Lyon"}]});

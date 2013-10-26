@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.074548, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Springfield", "lng": -96.15635, "zip_code": "68059"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Richfield", "Springfield"], "postal_code": "68059", "lat": 41.074548, "lng": -96.15635, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sarpy"}]});

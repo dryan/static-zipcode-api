@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.929178, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mount Vernon", "lng": -91.43684, "zip_code": "52314"});
+zipapicallback({"locality": "Mount Vernon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mount Vernon"], "postal_code": "52314", "lat": 41.929178, "lng": -91.43684, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.216454, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Weston", "lng": -73.37308, "zip_code": "06883"}
+{"locality": "Weston", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Weston"], "postal_code": "06883", "lat": 41.216454, "lng": -73.37308, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

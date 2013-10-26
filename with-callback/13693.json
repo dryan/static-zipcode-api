@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.064999, "region": {"abbr": "NY", "name": "New York"}, "locality": "Three Mile Bay", "lng": -76.24023, "zip_code": "13693"});
+zipapicallback({"locality": "Three Mile Bay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Three Mile Bay", "Three Mle Bay"], "postal_code": "13693", "lat": 44.064999, "lng": -76.24023, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]});

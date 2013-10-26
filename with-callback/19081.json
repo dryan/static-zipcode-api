@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.897562, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Swarthmore", "lng": -75.34658, "zip_code": "19081"});
+zipapicallback({"locality": "Swarthmore", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Swarthmore"], "postal_code": "19081", "lat": 39.897562, "lng": -75.34658, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.575835, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Grover", "lng": -90.61878, "zip_code": "63040"});
+zipapicallback({"locality": "Grover", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Grover", "Wildwood"], "postal_code": "63040", "lat": 38.575835, "lng": -90.61878, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

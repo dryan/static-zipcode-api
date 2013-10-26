@@ -1,1 +1,1 @@
-{"lat": 35.026991, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hartford", "lng": -94.36684, "zip_code": "72938"}
+{"locality": "Hartford", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hartford"], "postal_code": "72938", "lat": 35.026991, "lng": -94.36684, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}]}

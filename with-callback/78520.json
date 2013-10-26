@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.928274, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brownsville", "lng": -97.51618, "zip_code": "78520"});
+zipapicallback({"locality": "Brownsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brownsville"], "postal_code": "78520", "lat": 25.928274, "lng": -97.51618, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]});

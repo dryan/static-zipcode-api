@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.773372, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Trout Creek", "lng": -114.0093, "zip_code": "84083"});
+zipapicallback({"locality": "Wendover", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Greenhaven", "Partoun", "Trout Creek", "Wendover"], "postal_code": "84083", "lat": 40.773372, "lng": -114.0093, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]});

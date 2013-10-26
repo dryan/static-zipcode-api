@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.496067, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Coosada", "lng": -86.33073, "zip_code": "36020"});
+zipapicallback({"locality": "Coosada", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Coosada"], "postal_code": "36020", "lat": 32.496067, "lng": -86.33073, "type": "STANDARD", "counties": [{"fips": "051", "name": "Elmore"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.657684, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Republic", "lng": -118.72647, "zip_code": "99166"});
+zipapicallback({"locality": "Republic", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Republic"], "postal_code": "99166", "lat": 48.657684, "lng": -118.72647, "type": "STANDARD", "counties": [{"fips": "019", "name": "Ferry"}, {"fips": "047", "name": "Okanogan"}]});

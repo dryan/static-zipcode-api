@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.794449, "region": {"abbr": "CA", "name": "California"}, "locality": "San Diego", "lng": -117.07221, "zip_code": "92120"});
+zipapicallback({"locality": "San Diego", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Diego"], "postal_code": "92120", "lat": 32.794449, "lng": -117.07221, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

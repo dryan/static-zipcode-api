@@ -1,1 +1,1 @@
-{"lat": 40.049447, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Danbury", "lng": -100.44338, "zip_code": "69026"}
+{"locality": "Danbury", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Danbury"], "postal_code": "69026", "lat": 40.049447, "lng": -100.44338, "type": "STANDARD", "counties": [{"fips": "145", "name": "Red Willow"}]}

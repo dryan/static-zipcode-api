@@ -1,1 +1,1 @@
-{"lat": 43.316622, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hudson Falls", "lng": -73.5735, "zip_code": "12839"}
+{"locality": "Hudson Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hudson Falls"], "postal_code": "12839", "lat": 43.316622, "lng": -73.5735, "type": "STANDARD", "counties": [{"fips": "115", "name": "Washington"}]}

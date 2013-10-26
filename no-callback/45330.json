@@ -1,1 +1,1 @@
-{"lat": 39.647494, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gratis", "lng": -84.52749, "zip_code": "45330"}
+{"locality": "Gratis", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Gratis"], "postal_code": "45330", "lat": 39.647494, "lng": -84.52749, "type": "POBOX", "counties": [{"fips": "135", "name": "Preble"}]}

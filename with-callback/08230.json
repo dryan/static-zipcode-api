@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.20877, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ocean View", "lng": -74.70438, "zip_code": "08230"});
+zipapicallback({"locality": "Ocean View", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ocean View"], "postal_code": "08230", "lat": 39.20877, "lng": -74.70438, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cape May"}]});

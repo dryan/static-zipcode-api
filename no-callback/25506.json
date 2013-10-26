@@ -1,1 +1,1 @@
-{"lat": 38.214232, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Branchland", "lng": -82.191, "zip_code": "25506"}
+{"locality": "Branchland", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Branchland", "Palermo", "Sias"], "postal_code": "25506", "lat": 38.214232, "lng": -82.191, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "011", "name": "Cabell"}]}

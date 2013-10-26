@@ -1,1 +1,1 @@
-{"lat": 39.545778, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Mount Pleasant", "lng": -111.43798, "zip_code": "84647"}
+{"locality": "Mount Pleasant", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "84647", "lat": 39.545778, "lng": -111.43798, "type": "STANDARD", "counties": [{"fips": "039", "name": "Sanpete"}, {"fips": "035", "name": "Salt Lake"}, {"fips": "049", "name": "Utah"}]}

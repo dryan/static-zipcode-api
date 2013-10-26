@@ -1,1 +1,1 @@
-{"lat": 41.211606, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Farrell", "lng": -80.49404, "zip_code": "16121"}
+{"locality": "Farrell", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Farrell"], "postal_code": "16121", "lat": 41.211606, "lng": -80.49404, "type": "STANDARD", "counties": [{"fips": "085", "name": "Mercer"}]}

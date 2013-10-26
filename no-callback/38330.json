@@ -1,1 +1,1 @@
-{"lat": 36.073575, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Dyer", "lng": -89.01767, "zip_code": "38330"}
+{"locality": "Dyer", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Dyer"], "postal_code": "38330", "lat": 36.073575, "lng": -89.01767, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gibson"}]}

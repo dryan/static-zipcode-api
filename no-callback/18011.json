@@ -1,1 +1,1 @@
-{"lat": 40.496375, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Alburtis", "lng": -75.62213, "zip_code": "18011"}
+{"locality": "Alburtis", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Alburtis"], "postal_code": "18011", "lat": 40.496375, "lng": -75.62213, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "011", "name": "Berks"}]}

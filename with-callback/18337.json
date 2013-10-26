@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.320904, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Milford", "lng": -74.88565, "zip_code": "18337"});
+zipapicallback({"locality": "Milford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Milford"], "postal_code": "18337", "lat": 41.320904, "lng": -74.88565, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pike"}]});

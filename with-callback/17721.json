@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.186038, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Avis", "lng": -77.31604, "zip_code": "17721"});
+zipapicallback({"locality": "Avis", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Avis"], "postal_code": "17721", "lat": 41.186038, "lng": -77.31604, "type": "POBOX", "counties": [{"fips": "035", "name": "Clinton"}]});

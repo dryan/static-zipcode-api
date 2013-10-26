@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.391924, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Minster", "lng": -84.37211, "zip_code": "45865"});
+zipapicallback({"locality": "Minster", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Minster"], "postal_code": "45865", "lat": 40.391924, "lng": -84.37211, "type": "STANDARD", "counties": [{"fips": "011", "name": "Auglaize"}, {"fips": "149", "name": "Shelby"}, {"fips": "107", "name": "Mercer"}]});

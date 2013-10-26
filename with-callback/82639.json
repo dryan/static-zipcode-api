@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.602698, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Kaycee", "lng": -106.65945, "zip_code": "82639"});
+zipapicallback({"locality": "Kaycee", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Kaycee", "Mayoworth", "Sussex"], "postal_code": "82639", "lat": 43.602698, "lng": -106.65945, "type": "STANDARD", "counties": [{"fips": "019", "name": "Johnson"}]});

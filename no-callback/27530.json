@@ -1,1 +1,1 @@
-{"lat": 35.384344, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Grantham", "lng": -78.00893, "zip_code": "27530"}
+{"locality": "Goldsboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Goldsboro"], "postal_code": "27530", "lat": 35.384344, "lng": -78.00893, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]}

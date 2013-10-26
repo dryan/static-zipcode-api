@@ -1,1 +1,1 @@
-{"lat": 41.521238, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lisco", "lng": -102.55973, "zip_code": "69148"}
+{"locality": "Lisco", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lisco"], "postal_code": "69148", "lat": 41.521238, "lng": -102.55973, "type": "STANDARD", "counties": [{"fips": "069", "name": "Garden"}]}

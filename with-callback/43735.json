@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.851515, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Fultonham", "lng": -82.12173, "zip_code": "43735"});
+zipapicallback({"locality": "East Fultonham", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["E Fultonham", "East Fultonham"], "postal_code": "43735", "lat": 39.851515, "lng": -82.12173, "type": "POBOX", "counties": [{"fips": "119", "name": "Muskingum"}]});

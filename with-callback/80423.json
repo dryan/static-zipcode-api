@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.871619, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Bond", "lng": -106.57267, "zip_code": "80423"});
+zipapicallback({"locality": "Bond", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Bond"], "postal_code": "80423", "lat": 39.871619, "lng": -106.57267, "type": "STANDARD", "counties": [{"fips": "037", "name": "Eagle"}]});

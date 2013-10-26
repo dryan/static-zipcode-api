@@ -1,1 +1,1 @@
-{"lat": 43.80991, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Rexburg", "lng": -111.80942, "zip_code": "83440"}
+{"locality": "Rexburg", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Rexburg"], "postal_code": "83440", "lat": 43.80991, "lng": -111.80942, "type": "STANDARD", "counties": [{"fips": "065", "name": "Madison"}]}

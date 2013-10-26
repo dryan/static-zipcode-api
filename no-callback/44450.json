@@ -1,1 +1,1 @@
-{"lat": 41.449052, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Bloomfield", "lng": -80.81921, "zip_code": "44450"}
+{"locality": "North Bloomfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["N Bloomfield", "North Bloomfield"], "postal_code": "44450", "lat": 41.449052, "lng": -80.81921, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]}

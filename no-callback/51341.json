@@ -1,1 +1,1 @@
-{"lat": 43.014514, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gillett Grove", "lng": -95.03657, "zip_code": "51341"}
+{"locality": "Gillett Grove", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gillett Grove"], "postal_code": "51341", "lat": 43.014514, "lng": -95.03657, "type": "POBOX", "counties": [{"fips": "041", "name": "Clay"}]}

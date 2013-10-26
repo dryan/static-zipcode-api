@@ -1,1 +1,1 @@
-{"lat": 46.258959, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Watersmeet", "lng": -89.26594, "zip_code": "49969"}
+{"locality": "Watersmeet", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Watersmeet"], "postal_code": "49969", "lat": 46.258959, "lng": -89.26594, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gogebic"}]}

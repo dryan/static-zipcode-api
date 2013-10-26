@@ -1,1 +1,1 @@
-{"lat": 37.144088, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Anthony", "lng": -98.03857, "zip_code": "67003"}
+{"locality": "Anthony", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Anthony"], "postal_code": "67003", "lat": 37.144088, "lng": -98.03857, "type": "STANDARD", "counties": [{"fips": "077", "name": "Harper"}]}

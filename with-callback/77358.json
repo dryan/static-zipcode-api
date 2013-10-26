@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.545212, "region": {"abbr": "TX", "name": "Texas"}, "locality": "New Waverly", "lng": -95.46752, "zip_code": "77358"});
+zipapicallback({"locality": "New Waverly", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["New Waverly"], "postal_code": "77358", "lat": 30.545212, "lng": -95.46752, "type": "STANDARD", "counties": [{"fips": "471", "name": "Walker"}]});

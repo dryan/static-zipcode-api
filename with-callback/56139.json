@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.092188, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Holland", "lng": -96.18168, "zip_code": "56139"});
+zipapicallback({"locality": "Holland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Holland"], "postal_code": "56139", "lat": 44.092188, "lng": -96.18168, "type": "STANDARD", "counties": [{"fips": "117", "name": "Pipestone"}]});

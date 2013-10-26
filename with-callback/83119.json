@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.683338, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Fairview", "lng": -110.99847, "zip_code": "83119"});
+zipapicallback({"locality": "Fairview", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Fairview"], "postal_code": "83119", "lat": 42.683338, "lng": -110.99847, "type": "POBOX", "counties": [{"fips": "023", "name": "Lincoln"}]});

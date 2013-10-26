@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.48443, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "North Loup", "lng": -98.79933, "zip_code": "68859"});
+zipapicallback({"locality": "North Loup", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["North Loup"], "postal_code": "68859", "lat": 41.48443, "lng": -98.79933, "type": "STANDARD", "counties": [{"fips": "175", "name": "Valley"}, {"fips": "077", "name": "Greeley"}, {"fips": "163", "name": "Sherman"}]});

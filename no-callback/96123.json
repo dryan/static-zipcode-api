@@ -1,1 +1,1 @@
-{"lat": 40.800556, "region": {"abbr": "CA", "name": "California"}, "locality": "Ravendale", "lng": -120.36374, "zip_code": "96123"}
+{"locality": "Ravendale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ravendale"], "postal_code": "96123", "lat": 40.800556, "lng": -120.36374, "type": "STANDARD", "counties": [{"fips": "035", "name": "Lassen"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.104866, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Franklinton", "lng": -78.45893, "zip_code": "27525"}
+{"locality": "Franklinton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Franklinton"], "postal_code": "27525", "lat": 36.104866, "lng": -78.45893, "type": "STANDARD", "counties": [{"fips": "069", "name": "Franklin"}]}

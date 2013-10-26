@@ -1,1 +1,1 @@
-{"lat": 37.854791, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Howertons", "lng": -76.81298, "zip_code": "22454"}
+{"locality": "Dunnsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dunnsville", "Howertons"], "postal_code": "22454", "lat": 37.854791, "lng": -76.81298, "type": "STANDARD", "counties": [{"fips": "057", "name": "Essex"}]}

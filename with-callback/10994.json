@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.097529, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Nyack", "lng": -73.96996, "zip_code": "10994"});
+zipapicallback({"locality": "West Nyack", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["West Nyack"], "postal_code": "10994", "lat": 41.097529, "lng": -73.96996, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]});

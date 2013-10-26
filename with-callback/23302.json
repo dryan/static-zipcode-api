@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.870022, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Assawoman", "lng": -75.53554, "zip_code": "23302"});
+zipapicallback({"locality": "Assawoman", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Assawoman"], "postal_code": "23302", "lat": 37.870022, "lng": -75.53554, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

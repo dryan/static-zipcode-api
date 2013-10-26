@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.67265, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clearbrook", "lng": -95.42809, "zip_code": "56634"});
+zipapicallback({"locality": "Clearbrook", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clearbrook"], "postal_code": "56634", "lat": 47.67265, "lng": -95.42809, "type": "STANDARD", "counties": [{"fips": "029", "name": "Clearwater"}, {"fips": "119", "name": "Polk"}]});

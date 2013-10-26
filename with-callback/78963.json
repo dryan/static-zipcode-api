@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.930184, "region": {"abbr": "TX", "name": "Texas"}, "locality": "West Point", "lng": -97.0269, "zip_code": "78963"});
+zipapicallback({"locality": "West Point", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["West Point"], "postal_code": "78963", "lat": 29.930184, "lng": -97.0269, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}]});

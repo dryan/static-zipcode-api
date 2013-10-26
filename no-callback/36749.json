@@ -1,1 +1,1 @@
-{"lat": 32.54896, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jones", "lng": -86.87897, "zip_code": "36749"}
+{"locality": "Jones", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jones"], "postal_code": "36749", "lat": 32.54896, "lng": -86.87897, "type": "STANDARD", "counties": [{"fips": "001", "name": "Autauga"}, {"fips": "047", "name": "Dallas"}]}

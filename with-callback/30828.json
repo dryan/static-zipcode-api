@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.399555, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Warrenton", "lng": -82.65655, "zip_code": "30828"});
+zipapicallback({"locality": "Warrenton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Warrenton"], "postal_code": "30828", "lat": 33.399555, "lng": -82.65655, "type": "STANDARD", "counties": [{"fips": "301", "name": "Warren"}]});

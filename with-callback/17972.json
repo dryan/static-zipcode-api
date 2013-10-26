@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.614771, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Schuylkill Haven", "lng": -76.19352, "zip_code": "17972"});
+zipapicallback({"locality": "Schuylkill Haven", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Landingville", "Schuykl Havn", "Schuylkill Haven"], "postal_code": "17972", "lat": 40.614771, "lng": -76.19352, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

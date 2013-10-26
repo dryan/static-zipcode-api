@@ -1,1 +1,1 @@
-{"lat": 40.134658, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Stahlstown", "lng": -79.31493, "zip_code": "15687"}
+{"locality": "Stahlstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Stahlstown"], "postal_code": "15687", "lat": 40.134658, "lng": -79.31493, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

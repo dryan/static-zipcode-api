@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.480128, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Coldwater", "lng": -84.64678, "zip_code": "45828"});
+zipapicallback({"locality": "Coldwater", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Coldwater"], "postal_code": "45828", "lat": 40.480128, "lng": -84.64678, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mercer"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.079632, "region": {"abbr": "CA", "name": "California"}, "locality": "Mi Wuk Village", "lng": -120.16872, "zip_code": "95346"}
+{"locality": "Mi Wuk Village", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mi Wuk Village", "Mi Wuk Vlg"], "postal_code": "95346", "lat": 38.079632, "lng": -120.16872, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]}

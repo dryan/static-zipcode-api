@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.63529, "region": {"abbr": "NY", "name": "New York"}, "locality": "Castile", "lng": -78.05135, "zip_code": "14427"});
+zipapicallback({"locality": "Castile", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Castile"], "postal_code": "14427", "lat": 42.63529, "lng": -78.05135, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]});

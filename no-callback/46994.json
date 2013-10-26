@@ -1,1 +1,1 @@
-{"lat": 40.668348, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Walton", "lng": -86.24943, "zip_code": "46994"}
+{"locality": "Walton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Walton"], "postal_code": "46994", "lat": 40.668348, "lng": -86.24943, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "103", "name": "Miami"}]}

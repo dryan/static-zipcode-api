@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.691428, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Waterville", "lng": -96.76189, "zip_code": "66548"});
+zipapicallback({"locality": "Waterville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Waterville"], "postal_code": "66548", "lat": 39.691428, "lng": -96.76189, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}, {"fips": "161", "name": "Riley"}, {"fips": "201", "name": "Washington"}]});

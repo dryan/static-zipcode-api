@@ -1,1 +1,1 @@
-{"lat": 39.049336, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Butlerville", "lng": -85.49272, "zip_code": "47223"}
+{"locality": "Butlerville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Butlerville", "Muscatatuck", "Nebraska"], "postal_code": "47223", "lat": 39.049336, "lng": -85.49272, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jennings"}]}

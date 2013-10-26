@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.501856, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Prospect", "lng": -72.97799, "zip_code": "06712"});
+zipapicallback({"locality": "Prospect", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Prospect", "Waterbury"], "postal_code": "06712", "lat": 41.501856, "lng": -72.97799, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]});

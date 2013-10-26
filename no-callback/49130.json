@@ -1,1 +1,1 @@
-{"lat": 41.787096, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Union", "lng": -85.83605, "zip_code": "49130"}
+{"locality": "Union", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Edwardsburg", "Union"], "postal_code": "49130", "lat": 41.787096, "lng": -85.83605, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cass"}]}

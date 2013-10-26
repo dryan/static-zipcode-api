@@ -1,1 +1,1 @@
-{"lat": 47.896703, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Zortman", "lng": -108.54135, "zip_code": "59546"}
+{"locality": "Zortman", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Zortman"], "postal_code": "59546", "lat": 47.896703, "lng": -108.54135, "type": "STANDARD", "counties": [{"fips": "071", "name": "Phillips"}]}

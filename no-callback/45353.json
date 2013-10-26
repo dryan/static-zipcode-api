@@ -1,1 +1,1 @@
-{"lat": 40.294031, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pemberton", "lng": -84.03271, "zip_code": "45353"}
+{"locality": "Pemberton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pemberton"], "postal_code": "45353", "lat": 40.294031, "lng": -84.03271, "type": "POBOX", "counties": [{"fips": "149", "name": "Shelby"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.639777, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Shelby Township", "lng": -83.04255, "zip_code": "48317"}
+{"locality": "Utica", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Shelby Township", "Shelby Twp", "Utica"], "postal_code": "48317", "lat": 42.639777, "lng": -83.04255, "type": "STANDARD", "counties": []}

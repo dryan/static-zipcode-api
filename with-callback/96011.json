@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.027553, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Bend", "lng": -121.91847, "zip_code": "96011"});
+zipapicallback({"locality": "Big Bend", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Bend"], "postal_code": "96011", "lat": 41.027553, "lng": -121.91847, "type": "POBOX", "counties": [{"fips": "089", "name": "Shasta"}]});

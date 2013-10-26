@@ -1,1 +1,1 @@
-{"lat": 48.9332, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Oroville", "lng": -119.38169, "zip_code": "98844"}
+{"locality": "Oroville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Oroville"], "postal_code": "98844", "lat": 48.9332, "lng": -119.38169, "type": "STANDARD", "counties": [{"fips": "047", "name": "Okanogan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.068299, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Berino", "lng": -106.61689, "zip_code": "88024"});
+zipapicallback({"locality": "Berino", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Anthony", "Berino"], "postal_code": "88024", "lat": 32.068299, "lng": -106.61689, "type": "POBOX", "counties": [{"fips": "013", "name": "Dona Ana"}]});

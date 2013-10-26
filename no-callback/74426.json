@@ -1,1 +1,1 @@
-{"lat": 35.443872, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Checotah", "lng": -95.54393, "zip_code": "74426"}
+{"locality": "Checotah", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Checotah"], "postal_code": "74426", "lat": 35.443872, "lng": -95.54393, "type": "STANDARD", "counties": [{"fips": "091", "name": "McIntosh"}]}

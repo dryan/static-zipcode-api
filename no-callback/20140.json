@@ -1,1 +1,1 @@
-{"lat": 38.918124, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rectortown", "lng": -77.87243, "zip_code": "20140"}
+{"locality": "Rectortown", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rectortown"], "postal_code": "20140", "lat": 38.918124, "lng": -77.87243, "type": "POBOX", "counties": []}

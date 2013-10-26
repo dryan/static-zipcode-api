@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.231807, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "East Lempster", "lng": -72.17556, "zip_code": "03605"});
+zipapicallback({"locality": "Lempster", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["East Lempster", "Lempster"], "postal_code": "03605", "lat": 43.231807, "lng": -72.17556, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]});

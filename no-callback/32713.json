@@ -1,1 +1,1 @@
-{"lat": 28.888595, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Debary", "lng": -81.31212, "zip_code": "32713"}
+{"locality": "Debary", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Debary"], "postal_code": "32713", "lat": 28.888595, "lng": -81.31212, "type": "STANDARD", "counties": [{"fips": "127", "name": "Volusia"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.830708, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tonto Basin", "lng": -111.30102, "zip_code": "85553"}
+{"locality": "Tonto Basin", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tonto Basin"], "postal_code": "85553", "lat": 33.830708, "lng": -111.30102, "type": "POBOX", "counties": [{"fips": "007", "name": "Gila"}]}

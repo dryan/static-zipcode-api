@@ -1,1 +1,1 @@
-{"lat": 40.358541, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "South Fork", "lng": -78.78201, "zip_code": "15956"}
+{"locality": "South Fork", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["South Fork"], "postal_code": "15956", "lat": 40.358541, "lng": -78.78201, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.093056, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Shellsburg", "lng": -91.88379, "zip_code": "52332"}
+{"locality": "Shellsburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Shellsburg"], "postal_code": "52332", "lat": 42.093056, "lng": -91.88379, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]}

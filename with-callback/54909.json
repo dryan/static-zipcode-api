@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.28018, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Almond", "lng": -89.36002, "zip_code": "54909"});
+zipapicallback({"locality": "Almond", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Almond"], "postal_code": "54909", "lat": 44.28018, "lng": -89.36002, "type": "STANDARD", "counties": [{"fips": "097", "name": "Portage"}, {"fips": "137", "name": "Waushara"}]});

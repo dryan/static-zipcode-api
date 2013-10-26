@@ -1,1 +1,1 @@
-{"lat": 35.351612, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Newalla", "lng": -97.19507, "zip_code": "74857"}
+{"locality": "Newalla", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Newalla"], "postal_code": "74857", "lat": 35.351612, "lng": -97.19507, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}, {"fips": "027", "name": "Cleveland"}, {"fips": "125", "name": "Pottawatomie"}]}

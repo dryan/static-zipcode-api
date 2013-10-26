@@ -1,1 +1,1 @@
-{"lat": 37.894075, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Guston", "lng": -86.20383, "zip_code": "40142"}
+{"locality": "Guston", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Guston"], "postal_code": "40142", "lat": 37.894075, "lng": -86.20383, "type": "STANDARD", "counties": [{"fips": "163", "name": "Meade"}, {"fips": "027", "name": "Breckinridge"}]}

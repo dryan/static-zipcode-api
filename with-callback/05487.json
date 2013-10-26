@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.224103, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Starksboro", "lng": -73.03164, "zip_code": "05487"});
+zipapicallback({"locality": "Starksboro", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Starksboro"], "postal_code": "05487", "lat": 44.224103, "lng": -73.03164, "type": "STANDARD", "counties": [{"fips": "001", "name": "Addison"}, {"fips": "007", "name": "Chittenden"}]});

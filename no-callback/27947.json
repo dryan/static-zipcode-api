@@ -1,1 +1,1 @@
-{"lat": 36.189366, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Jarvisburg", "lng": -75.86047, "zip_code": "27947"}
+{"locality": "Jarvisburg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Jarvisburg"], "postal_code": "27947", "lat": 36.189366, "lng": -75.86047, "type": "STANDARD", "counties": [{"fips": "053", "name": "Currituck"}]}

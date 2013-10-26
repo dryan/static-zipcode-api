@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.229101, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Hope", "lng": -116.27423, "zip_code": "83836"});
+zipapicallback({"locality": "Hope", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Hope"], "postal_code": "83836", "lat": 48.229101, "lng": -116.27423, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]});

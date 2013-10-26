@@ -1,1 +1,1 @@
-{"lat": 34.663502, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Buckville", "lng": -93.23591, "zip_code": "71956"}
+{"locality": "Mountain Pine", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mountain Pine"], "postal_code": "71956", "lat": 34.663502, "lng": -93.23591, "type": "STANDARD", "counties": [{"fips": "051", "name": "Garland"}]}

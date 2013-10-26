@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.623029, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Payneway", "lng": -90.52742, "zip_code": "72472"});
+zipapicallback({"locality": "Trumann", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Trumann"], "postal_code": "72472", "lat": 35.623029, "lng": -90.52742, "type": "STANDARD", "counties": [{"fips": "111", "name": "Poinsett"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.943661, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cloudcroft", "lng": -105.68568, "zip_code": "88317"}
+{"locality": "Cloudcroft", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cloudcroft"], "postal_code": "88317", "lat": 32.943661, "lng": -105.68568, "type": "STANDARD", "counties": [{"fips": "035", "name": "Otero"}]}

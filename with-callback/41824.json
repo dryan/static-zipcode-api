@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.194426, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Isom", "lng": -82.88714, "zip_code": "41824"});
+zipapicallback({"locality": "Isom", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Isom"], "postal_code": "41824", "lat": 37.194426, "lng": -82.88714, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

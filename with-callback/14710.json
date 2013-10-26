@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.098227, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ashville", "lng": -79.40865, "zip_code": "14710"});
+zipapicallback({"locality": "Ashville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ashville"], "postal_code": "14710", "lat": 42.098227, "lng": -79.40865, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

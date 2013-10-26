@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.195444, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Coyote", "lng": -106.6583, "zip_code": "87012"});
+zipapicallback({"locality": "Coyote", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Coyote"], "postal_code": "87012", "lat": 36.195444, "lng": -106.6583, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]});

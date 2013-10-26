@@ -1,1 +1,1 @@
-{"lat": 39.594163, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Clifton", "lng": -97.26295, "zip_code": "66937"}
+{"locality": "Clifton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Clifton"], "postal_code": "66937", "lat": 39.594163, "lng": -97.26295, "type": "STANDARD", "counties": [{"fips": "201", "name": "Washington"}, {"fips": "027", "name": "Clay"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.756879, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Farnam", "lng": -100.21881, "zip_code": "69029"}
+{"locality": "Farnam", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Farnam"], "postal_code": "69029", "lat": 40.756879, "lng": -100.21881, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dawson"}, {"fips": "111", "name": "Lincoln"}]}

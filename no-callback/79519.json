@@ -1,1 +1,1 @@
-{"lat": 32.043108, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Goldsboro", "lng": -99.70865, "zip_code": "79519"}
+{"locality": "Goldsboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Goldsboro"], "postal_code": "79519", "lat": 32.043108, "lng": -99.70865, "type": "STANDARD", "counties": [{"fips": "083", "name": "Coleman"}]}

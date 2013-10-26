@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.571839, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Clio", "lng": -79.53847, "zip_code": "29525"});
+zipapicallback({"locality": "Clio", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Clio"], "postal_code": "29525", "lat": 34.571839, "lng": -79.53847, "type": "STANDARD", "counties": [{"fips": "069", "name": "Marlboro"}, {"fips": "033", "name": "Dillon"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.034218, "region": {"abbr": "NY", "name": "New York"}, "locality": "Whitesville", "lng": -77.79269, "zip_code": "14897"});
+zipapicallback({"locality": "Whitesville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Whitesville"], "postal_code": "14897", "lat": 42.034218, "lng": -77.79269, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}, {"fips": "101", "name": "Steuben"}]});

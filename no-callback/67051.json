@@ -1,1 +1,1 @@
-{"lat": 37.104798, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Geuda Springs", "lng": -97.19239, "zip_code": "67051"}
+{"locality": "Geuda Springs", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Geuda Springs"], "postal_code": "67051", "lat": 37.104798, "lng": -97.19239, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}, {"fips": "035", "name": "Cowley"}]}

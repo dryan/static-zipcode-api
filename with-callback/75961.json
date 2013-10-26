@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.626011, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Appleby", "lng": -94.60338, "zip_code": "75961"});
+zipapicallback({"locality": "Nacogdoches", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Nacogdoches"], "postal_code": "75961", "lat": 31.626011, "lng": -94.60338, "type": "STANDARD", "counties": [{"fips": "347", "name": "Nacogdoches"}]});

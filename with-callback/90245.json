@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.921313, "region": {"abbr": "CA", "name": "California"}, "locality": "El Segundo", "lng": -118.40843, "zip_code": "90245"});
+zipapicallback({"locality": "El Segundo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Segundo"], "postal_code": "90245", "lat": 33.921313, "lng": -118.40843, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

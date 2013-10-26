@@ -1,1 +1,1 @@
-{"lat": 44.362741, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Alma", "lng": -91.85287, "zip_code": "54610"}
+{"locality": "Alma", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Alma"], "postal_code": "54610", "lat": 44.362741, "lng": -91.85287, "type": "STANDARD", "counties": [{"fips": "011", "name": "Buffalo"}]}

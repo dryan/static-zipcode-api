@@ -1,1 +1,1 @@
-{"lat": 38.743244, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Portsmouth", "lng": -83.05954, "zip_code": "45663"}
+{"locality": "West Portsmouth", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Portsmouth", "W Portsmouth", "West Portsmouth"], "postal_code": "45663", "lat": 38.743244, "lng": -83.05954, "type": "STANDARD", "counties": []}

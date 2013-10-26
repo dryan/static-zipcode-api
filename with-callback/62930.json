@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.822259, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Eldorado", "lng": -88.44456, "zip_code": "62930"});
+zipapicallback({"locality": "Eldorado", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Eldorado"], "postal_code": "62930", "lat": 37.822259, "lng": -88.44456, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}, {"fips": "065", "name": "Hamilton"}, {"fips": "059", "name": "Gallatin"}]});

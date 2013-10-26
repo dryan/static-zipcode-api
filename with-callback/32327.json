@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.194939, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Crawfordville", "lng": -84.35533, "zip_code": "32327"});
+zipapicallback({"locality": "Crawfordville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Crawfordville", "Wakulla Spgs", "Wakulla Springs"], "postal_code": "32327", "lat": 30.194939, "lng": -84.35533, "type": "STANDARD", "counties": [{"fips": "129", "name": "Wakulla"}, {"fips": "037", "name": "Franklin"}]});

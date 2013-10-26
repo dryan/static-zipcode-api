@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.660079, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Minden City", "lng": -82.74685, "zip_code": "48456"});
+zipapicallback({"locality": "Minden City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Minden City"], "postal_code": "48456", "lat": 43.660079, "lng": -82.74685, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}, {"fips": "063", "name": "Huron"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.547039, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mount Victory", "lng": -83.49204, "zip_code": "43340"}
+{"locality": "Mount Victory", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mount Victory"], "postal_code": "43340", "lat": 40.547039, "lng": -83.49204, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hardin"}, {"fips": "159", "name": "Union"}]}

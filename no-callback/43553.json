@@ -1,1 +1,1 @@
-{"lat": 41.531159, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pettisville", "lng": -84.22716, "zip_code": "43553"}
+{"locality": "Pettisville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pettisville"], "postal_code": "43553", "lat": 41.531159, "lng": -84.22716, "type": "POBOX", "counties": [{"fips": "051", "name": "Fulton"}]}

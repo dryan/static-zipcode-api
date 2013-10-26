@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.761217, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Craig", "lng": -96.37407, "zip_code": "68019"});
+zipapicallback({"locality": "Craig", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Craig"], "postal_code": "68019", "lat": 41.761217, "lng": -96.37407, "type": "STANDARD", "counties": [{"fips": "021", "name": "Burt"}, {"fips": "177", "name": "Washington"}, {"fips": "053", "name": "Dodge"}]});

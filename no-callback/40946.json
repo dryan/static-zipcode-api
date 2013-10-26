@@ -1,1 +1,1 @@
-{"lat": 36.966634, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Green Road", "lng": -83.83413, "zip_code": "40946"}
+{"locality": "Green Road", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Green Road"], "postal_code": "40946", "lat": 36.966634, "lng": -83.83413, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

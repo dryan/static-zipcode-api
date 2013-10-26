@@ -1,1 +1,1 @@
-{"lat": 35.490772, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cornelius", "lng": -80.82576, "zip_code": "28036"}
+{"locality": "Davidson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Davidson"], "postal_code": "28036", "lat": 35.490772, "lng": -80.82576, "type": "STANDARD", "counties": [{"fips": "119", "name": "Mecklenburg"}, {"fips": "025", "name": "Cabarrus"}, {"fips": "097", "name": "Iredell"}, {"fips": "071", "name": "Gaston"}]}

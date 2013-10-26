@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.790757, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Aylett", "lng": -77.17553, "zip_code": "23009"});
+zipapicallback({"locality": "Aylett", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Aylett"], "postal_code": "23009", "lat": 37.790757, "lng": -77.17553, "type": "STANDARD", "counties": [{"fips": "101", "name": "King William"}]});

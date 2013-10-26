@@ -1,1 +1,1 @@
-{"lat": 28.054995, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sinton", "lng": -97.5133, "zip_code": "78387"}
+{"locality": "Sinton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sinton"], "postal_code": "78387", "lat": 28.054995, "lng": -97.5133, "type": "STANDARD", "counties": [{"fips": "409", "name": "San Patricio"}, {"fips": "025", "name": "Bee"}]}

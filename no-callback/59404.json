@@ -1,1 +1,1 @@
-{"lat": 47.514307, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Great Falls", "lng": -111.34499, "zip_code": "59404"}
+{"locality": "Great Falls", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Great Falls"], "postal_code": "59404", "lat": 47.514307, "lng": -111.34499, "type": "STANDARD", "counties": [{"fips": "013", "name": "Cascade"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.671671, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Colora", "lng": -76.0972, "zip_code": "21917"});
+zipapicallback({"locality": "Colora", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Colora"], "postal_code": "21917", "lat": 39.671671, "lng": -76.0972, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cecil"}]});

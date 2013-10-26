@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.513794, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shartlesville", "lng": -76.10833, "zip_code": "19554"});
+zipapicallback({"locality": "Shartlesville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shartlesville"], "postal_code": "19554", "lat": 40.513794, "lng": -76.10833, "type": "POBOX", "counties": [{"fips": "011", "name": "Berks"}]});

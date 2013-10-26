@@ -1,1 +1,1 @@
-{"lat": 35.304582, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Pelham", "lng": -85.85456, "zip_code": "37366"}
+{"locality": "Pelham", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Pelham"], "postal_code": "37366", "lat": 35.304582, "lng": -85.85456, "type": "STANDARD", "counties": [{"fips": "061", "name": "Grundy"}]}

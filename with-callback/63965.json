@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.985902, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Van Buren", "lng": -90.99852, "zip_code": "63965"});
+zipapicallback({"locality": "Van Buren", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Van Buren"], "postal_code": "63965", "lat": 36.985902, "lng": -90.99852, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carter"}, {"fips": "179", "name": "Reynolds"}]});

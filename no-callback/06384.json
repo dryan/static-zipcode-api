@@ -1,1 +1,1 @@
-{"lat": 41.5787, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Voluntown", "lng": -71.85668, "zip_code": "06384"}
+{"locality": "Voluntown", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Glasgo", "Voluntown"], "postal_code": "06384", "lat": 41.5787, "lng": -71.85668, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

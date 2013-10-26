@@ -1,1 +1,1 @@
-{"lat": 36.417743, "region": {"abbr": "CA", "name": "California"}, "locality": "Lemoncove", "lng": -119.00457, "zip_code": "93244"}
+{"locality": "Lemon Cove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lemon Cove"], "postal_code": "93244", "lat": 36.417743, "lng": -119.00457, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

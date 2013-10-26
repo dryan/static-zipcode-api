@@ -1,1 +1,1 @@
-{"lat": 48.223375, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Penn", "lng": -99.09558, "zip_code": "58362"}
+{"locality": "Penn", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Penn"], "postal_code": "58362", "lat": 48.223375, "lng": -99.09558, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.272363, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sullivan City", "lng": -98.5587, "zip_code": "78595"});
+zipapicallback({"locality": "Sullivan City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sullivan City"], "postal_code": "78595", "lat": 26.272363, "lng": -98.5587, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]});

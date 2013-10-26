@@ -1,1 +1,1 @@
-{"lat": 35.864399, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Morrow", "lng": -94.43534, "zip_code": "72749"}
+{"locality": "Morrow", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Morrow"], "postal_code": "72749", "lat": 35.864399, "lng": -94.43534, "type": "STANDARD", "counties": [{"fips": "143", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.722929, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Union Dale", "lng": -75.5417, "zip_code": "18470"}
+{"locality": "Union Dale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clifford Township", "Clifford Twp", "Union Dale"], "postal_code": "18470", "lat": 41.722929, "lng": -75.5417, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}, {"fips": "127", "name": "Wayne"}]}

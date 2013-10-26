@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.533643, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ransom", "lng": -82.21145, "zip_code": "41558"});
+zipapicallback({"locality": "Ransom", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ransom"], "postal_code": "41558", "lat": 37.533643, "lng": -82.21145, "type": "STANDARD", "counties": []});

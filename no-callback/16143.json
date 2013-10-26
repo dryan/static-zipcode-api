@@ -1,1 +1,1 @@
-{"lat": 41.096535, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pulaski", "lng": -80.46266, "zip_code": "16143"}
+{"locality": "Pulaski", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pulaski"], "postal_code": "16143", "lat": 41.096535, "lng": -80.46266, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}, {"fips": "085", "name": "Mercer"}]}

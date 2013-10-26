@@ -1,1 +1,1 @@
-{"lat": 38.272476, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hitchins", "lng": -82.90494, "zip_code": "41146"}
+{"locality": "Hitchins", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hitchins"], "postal_code": "41146", "lat": 38.272476, "lng": -82.90494, "type": "STANDARD", "counties": [{"fips": "043", "name": "Carter"}]}

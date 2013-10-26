@@ -1,1 +1,1 @@
-{"lat": 41.104021, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Turbotville", "lng": -76.73831, "zip_code": "17772"}
+{"locality": "Turbotville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Turbotville"], "postal_code": "17772", "lat": 41.104021, "lng": -76.73831, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}, {"fips": "093", "name": "Montour"}, {"fips": "037", "name": "Columbia"}, {"fips": "081", "name": "Lycoming"}]}

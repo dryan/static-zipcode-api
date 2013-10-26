@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.843685, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Louisville", "lng": -81.26298, "zip_code": "44641"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Louisville"], "postal_code": "44641", "lat": 40.843685, "lng": -81.26298, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]});

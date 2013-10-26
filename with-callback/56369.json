@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.470635, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rockville", "lng": -94.33862, "zip_code": "56369"});
+zipapicallback({"locality": "Rockville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rockville"], "postal_code": "56369", "lat": 45.470635, "lng": -94.33862, "type": "POBOX", "counties": [{"fips": "145", "name": "Stearns"}]});

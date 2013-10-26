@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.597595, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fittstown", "lng": -96.61818, "zip_code": "74842"});
+zipapicallback({"locality": "Fittstown", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fittstown"], "postal_code": "74842", "lat": 34.597595, "lng": -96.61818, "type": "POBOX", "counties": [{"fips": "123", "name": "Pontotoc"}]});

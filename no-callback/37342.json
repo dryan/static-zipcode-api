@@ -1,1 +1,1 @@
-{"lat": 35.39156, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hillsboro", "lng": -85.96367, "zip_code": "37342"}
+{"locality": "Hillsboro", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hillsboro"], "postal_code": "37342", "lat": 35.39156, "lng": -85.96367, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}]}

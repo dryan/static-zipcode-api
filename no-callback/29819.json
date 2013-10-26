@@ -1,1 +1,1 @@
-{"lat": 34.074234, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bradley", "lng": -82.23492, "zip_code": "29819"}
+{"locality": "Bradley", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bradley"], "postal_code": "29819", "lat": 34.074234, "lng": -82.23492, "type": "STANDARD", "counties": [{"fips": "047", "name": "Greenwood"}, {"fips": "065", "name": "McCormick"}]}

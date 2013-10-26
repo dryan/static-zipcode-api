@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.292011, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Coal City", "lng": -88.2783, "zip_code": "60416"});
+zipapicallback({"locality": "Coal City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carbon Hill", "Coal City", "Diamond"], "postal_code": "60416", "lat": 41.292011, "lng": -88.2783, "type": "STANDARD", "counties": [{"fips": "063", "name": "Grundy"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.805101, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Metcalf", "lng": -87.81014, "zip_code": "61940"}
+{"locality": "Metcalf", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Metcalf"], "postal_code": "61940", "lat": 39.805101, "lng": -87.81014, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edgar"}]}

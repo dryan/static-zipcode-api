@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.574128, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Parrish", "lng": -82.40701, "zip_code": "34219"});
+zipapicallback({"locality": "Parrish", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Duette", "Parrish"], "postal_code": "34219", "lat": 27.574128, "lng": -82.40701, "type": "STANDARD", "counties": [{"fips": "081", "name": "Manatee"}]});

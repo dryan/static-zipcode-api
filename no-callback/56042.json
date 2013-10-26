@@ -1,1 +1,1 @@
-{"lat": 43.796535, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hartland", "lng": -93.49143, "zip_code": "56042"}
+{"locality": "Hartland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hartland"], "postal_code": "56042", "lat": 43.796535, "lng": -93.49143, "type": "STANDARD", "counties": [{"fips": "047", "name": "Freeborn"}, {"fips": "161", "name": "Waseca"}, {"fips": "147", "name": "Steele"}]}

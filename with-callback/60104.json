@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.882924, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bellwood", "lng": -87.87642, "zip_code": "60104"});
+zipapicallback({"locality": "Bellwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bellwood"], "postal_code": "60104", "lat": 41.882924, "lng": -87.87642, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

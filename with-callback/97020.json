@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.224154, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Donald", "lng": -122.83989, "zip_code": "97020"});
+zipapicallback({"locality": "Donald", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Donald"], "postal_code": "97020", "lat": 45.224154, "lng": -122.83989, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}]});

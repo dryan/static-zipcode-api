@@ -1,1 +1,1 @@
-{"lat": 37.29409, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Moores Creek", "lng": -83.9759, "zip_code": "40402"}
+{"locality": "Annville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Annville", "Bond", "Dabolt", "Moores Creek"], "postal_code": "40402", "lat": 37.29409, "lng": -83.9759, "type": "STANDARD", "counties": [{"fips": "109", "name": "Jackson"}, {"fips": "051", "name": "Clay"}]}

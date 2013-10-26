@@ -1,1 +1,1 @@
-{"lat": 35.560669, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Denmark", "lng": -89.00984, "zip_code": "38391"}
+{"locality": "Denmark", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Denmark"], "postal_code": "38391", "lat": 35.560669, "lng": -89.00984, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]}

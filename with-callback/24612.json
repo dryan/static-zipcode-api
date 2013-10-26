@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.091572, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Doran", "lng": -81.84119, "zip_code": "24612"});
+zipapicallback({"locality": "Doran", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Doran"], "postal_code": "24612", "lat": 37.091572, "lng": -81.84119, "type": "POBOX", "counties": [{"fips": "185", "name": "Tazewell"}]});

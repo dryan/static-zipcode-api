@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.505075, "region": {"abbr": "NY", "name": "New York"}, "locality": "Freeville", "lng": -76.35283, "zip_code": "13068"});
+zipapicallback({"locality": "Freeville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Freeville"], "postal_code": "13068", "lat": 42.505075, "lng": -76.35283, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tompkins"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.395861, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Iron Ridge", "lng": -88.53606, "zip_code": "53035"});
+zipapicallback({"locality": "Iron Ridge", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Iron Ridge"], "postal_code": "53035", "lat": 43.395861, "lng": -88.53606, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]});

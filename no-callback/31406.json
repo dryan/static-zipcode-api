@@ -1,1 +1,1 @@
-{"lat": 31.988676, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Savannah", "lng": -81.09116, "zip_code": "31406"}
+{"locality": "Savannah", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Savannah", "Vernonburg"], "postal_code": "31406", "lat": 31.988676, "lng": -81.09116, "type": "STANDARD", "counties": [{"fips": "051", "name": "Chatham"}]}

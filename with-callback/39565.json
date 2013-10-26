@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.566715, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ocean Springs", "lng": -88.76018, "zip_code": "39565"});
+zipapicallback({"locality": "Vancleave", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ocean Springs", "Vancleave"], "postal_code": "39565", "lat": 30.566715, "lng": -88.76018, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jackson"}]});

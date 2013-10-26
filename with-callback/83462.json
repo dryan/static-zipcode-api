@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.338175, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Carmen", "lng": -113.8584, "zip_code": "83462"});
+zipapicallback({"locality": "Carmen", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Carmen"], "postal_code": "83462", "lat": 45.338175, "lng": -113.8584, "type": "STANDARD", "counties": [{"fips": "059", "name": "Lemhi"}]});

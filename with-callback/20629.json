@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.334336, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Dowell", "lng": -76.4534, "zip_code": "20629"});
+zipapicallback({"locality": "Dowell", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Dowell"], "postal_code": "20629", "lat": 38.334336, "lng": -76.4534, "type": "POBOX", "counties": [{"fips": "009", "name": "Calvert"}]});

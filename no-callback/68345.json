@@ -1,1 +1,1 @@
-{"lat": 40.034277, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Du Bois", "lng": -96.02099, "zip_code": "68345"}
+{"locality": "Du Bois", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Du Bois"], "postal_code": "68345", "lat": 40.034277, "lng": -96.02099, "type": "STANDARD", "counties": [{"fips": "133", "name": "Pawnee"}, {"fips": "147", "name": "Richardson"}]}

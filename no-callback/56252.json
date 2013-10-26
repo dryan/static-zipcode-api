@@ -1,1 +1,1 @@
-{"lat": 45.18553, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kerkhoven", "lng": -95.30198, "zip_code": "56252"}
+{"locality": "Kerkhoven", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kerkhoven"], "postal_code": "56252", "lat": 45.18553, "lng": -95.30198, "type": "STANDARD", "counties": [{"fips": "151", "name": "Swift"}, {"fips": "023", "name": "Chippewa"}, {"fips": "067", "name": "Kandiyohi"}]}

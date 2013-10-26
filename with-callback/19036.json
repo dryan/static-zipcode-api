@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.902045, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glenolden", "lng": -75.29371, "zip_code": "19036"});
+zipapicallback({"locality": "Glenolden", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Glenolden"], "postal_code": "19036", "lat": 39.902045, "lng": -75.29371, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

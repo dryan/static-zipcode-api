@@ -1,1 +1,1 @@
-{"lat": 39.732943, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wanamaker", "lng": -85.99903, "zip_code": "46239"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "Wanamaker"], "postal_code": "46239", "lat": 39.732943, "lng": -85.99903, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.835128, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wind Gap", "lng": -75.30274, "zip_code": "18091"}
+{"locality": "Wind Gap", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wind Gap"], "postal_code": "18091", "lat": 40.835128, "lng": -75.30274, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}, {"fips": "089", "name": "Monroe"}]}

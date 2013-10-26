@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.541676, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Wauchula", "lng": -81.8127, "zip_code": "33873"});
+zipapicallback({"locality": "Wauchula", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Wauchula"], "postal_code": "33873", "lat": 27.541676, "lng": -81.8127, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hardee"}]});

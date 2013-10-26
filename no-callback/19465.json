@@ -1,1 +1,1 @@
-{"lat": 40.206057, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pottstown", "lng": -75.66107, "zip_code": "19465"}
+{"locality": "Pottstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pottstown"], "postal_code": "19465", "lat": 40.206057, "lng": -75.66107, "type": "STANDARD", "counties": []}

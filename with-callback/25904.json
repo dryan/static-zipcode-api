@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.935699, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pax", "lng": -81.26724, "zip_code": "25904"});
+zipapicallback({"locality": "Pax", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pax"], "postal_code": "25904", "lat": 37.935699, "lng": -81.26724, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]});

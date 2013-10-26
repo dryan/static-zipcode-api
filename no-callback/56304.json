@@ -1,1 +1,1 @@
-{"lat": 45.547283, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Cloud", "lng": -94.11303, "zip_code": "56304"}
+{"locality": "Saint Cloud", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Cloud"], "postal_code": "56304", "lat": 45.547283, "lng": -94.11303, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benton"}, {"fips": "141", "name": "Sherburne"}, {"fips": "145", "name": "Stearns"}]}

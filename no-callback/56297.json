@@ -1,1 +1,1 @@
-{"lat": 44.6367, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wood Lake", "lng": -95.55359, "zip_code": "56297"}
+{"locality": "Wood Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wood Lake"], "postal_code": "56297", "lat": 44.6367, "lng": -95.55359, "type": "STANDARD", "counties": [{"fips": "173", "name": "Yellow Medicine"}, {"fips": "127", "name": "Redwood"}, {"fips": "083", "name": "Lyon"}]}

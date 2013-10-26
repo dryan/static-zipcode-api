@@ -1,1 +1,1 @@
-{"lat": 40.035778, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Philadelphia", "lng": -75.1447, "zip_code": "19141"}
+{"locality": "Philadelphia", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Phila", "Philadelphia"], "postal_code": "19141", "lat": 40.035778, "lng": -75.1447, "type": "STANDARD", "counties": [{"fips": "101", "name": "Philadelphia"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.407833, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "La Grange", "lng": -85.38475, "zip_code": "40031"});
+zipapicallback({"locality": "La Grange", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["La Grange", "Lagrange"], "postal_code": "40031", "lat": 38.407833, "lng": -85.38475, "type": "STANDARD", "counties": [{"fips": "185", "name": "Oldham"}, {"fips": "103", "name": "Henry"}]});

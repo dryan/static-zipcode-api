@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.794477, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Byron", "lng": -108.53415, "zip_code": "82412"});
+zipapicallback({"locality": "Byron", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Byron"], "postal_code": "82412", "lat": 44.794477, "lng": -108.53415, "type": "POBOX", "counties": [{"fips": "003", "name": "Big Horn"}]});

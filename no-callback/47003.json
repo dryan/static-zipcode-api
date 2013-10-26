@@ -1,1 +1,1 @@
-{"lat": 39.567147, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "West College Corner", "lng": -84.82042, "zip_code": "47003"}
+{"locality": "West College Corner", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["W College Cor", "West College Corner"], "postal_code": "47003", "lat": 39.567147, "lng": -84.82042, "type": "STANDARD", "counties": []}

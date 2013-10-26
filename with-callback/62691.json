@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.952909, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Little Indian", "lng": -90.21218, "zip_code": "62691"});
+zipapicallback({"locality": "Virginia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Little Indian", "Virginia"], "postal_code": "62691", "lat": 39.952909, "lng": -90.21218, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]});

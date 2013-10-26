@@ -1,1 +1,1 @@
-{"lat": 45.321875, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Warner", "lng": -98.46429, "zip_code": "57479"}
+{"locality": "Warner", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Warner"], "postal_code": "57479", "lat": 45.321875, "lng": -98.46429, "type": "STANDARD", "counties": [{"fips": "013", "name": "Brown"}]}

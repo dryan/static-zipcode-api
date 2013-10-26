@@ -1,1 +1,1 @@
-{"lat": 38.527816, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Etlan", "lng": -78.25117, "zip_code": "22719"}
+{"locality": "Etlan", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Etlan", "Madison"], "postal_code": "22719", "lat": 38.527816, "lng": -78.25117, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]}

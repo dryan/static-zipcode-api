@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.917032, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Eudora", "lng": -95.06455, "zip_code": "66025"});
+zipapicallback({"locality": "Eudora", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Eudora"], "postal_code": "66025", "lat": 38.917032, "lng": -95.06455, "type": "STANDARD", "counties": [{"fips": "045", "name": "Douglas"}, {"fips": "091", "name": "Johnson"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.811958, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Bethel", "lng": -72.64493, "zip_code": "05032"}
+{"locality": "Bethel", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Bethel"], "postal_code": "05032", "lat": 43.811958, "lng": -72.64493, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]}

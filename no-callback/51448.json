@@ -1,1 +1,1 @@
-{"lat": 42.204515, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kiron", "lng": -95.30928, "zip_code": "51448"}
+{"locality": "Kiron", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kiron"], "postal_code": "51448", "lat": 42.204515, "lng": -95.30928, "type": "STANDARD", "counties": [{"fips": "047", "name": "Crawford"}]}

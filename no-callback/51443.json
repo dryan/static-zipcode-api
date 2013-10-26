@@ -1,1 +1,1 @@
-{"lat": 42.096445, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Glidden", "lng": -94.71141, "zip_code": "51443"}
+{"locality": "Glidden", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Glidden"], "postal_code": "51443", "lat": 42.096445, "lng": -94.71141, "type": "STANDARD", "counties": [{"fips": "027", "name": "Carroll"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.709677, "region": {"abbr": "NY", "name": "New York"}, "locality": "New York", "lng": -74.00365, "zip_code": "10038"});
+zipapicallback({"locality": "New York", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New York", "Peck Slip"], "postal_code": "10038", "lat": 40.709677, "lng": -74.00365, "type": "STANDARD", "counties": [{"fips": "061", "name": "New York"}]});

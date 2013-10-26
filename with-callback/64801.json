@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.09416, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Joplin", "lng": -94.50169, "zip_code": "64801"});
+zipapicallback({"locality": "Joplin", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Joplin"], "postal_code": "64801", "lat": 37.09416, "lng": -94.50169, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jasper"}]});

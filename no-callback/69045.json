@@ -1,1 +1,1 @@
-{"lat": 40.484407, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wauneta", "lng": -101.35561, "zip_code": "69045"}
+{"locality": "Wauneta", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wauneta"], "postal_code": "69045", "lat": 40.484407, "lng": -101.35561, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chase"}, {"fips": "085", "name": "Hayes"}, {"fips": "087", "name": "Hitchcock"}, {"fips": "057", "name": "Dundy"}]}

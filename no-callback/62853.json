@@ -1,1 +1,1 @@
-{"lat": 38.516025, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kell", "lng": -88.91954, "zip_code": "62853"}
+{"locality": "Kell", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kell"], "postal_code": "62853", "lat": 38.516025, "lng": -88.91954, "type": "STANDARD", "counties": [{"fips": "121", "name": "Marion"}]}

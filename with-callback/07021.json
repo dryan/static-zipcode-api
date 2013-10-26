@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.827499, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Essex Fells", "lng": -74.28091, "zip_code": "07021"});
+zipapicallback({"locality": "Essex Fells", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Essex Fells"], "postal_code": "07021", "lat": 40.827499, "lng": -74.28091, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]});

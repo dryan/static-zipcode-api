@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.329238, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Jeannette", "lng": -79.61469, "zip_code": "15644"});
+zipapicallback({"locality": "Jeannette", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jeannette"], "postal_code": "15644", "lat": 40.329238, "lng": -79.61469, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.419896, "region": {"abbr": "NY", "name": "New York"}, "locality": "Smithville Flats", "lng": -75.83772, "zip_code": "13841"});
+zipapicallback({"locality": "Smithville Flats", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Smithville Flats", "Smithvle Flts"], "postal_code": "13841", "lat": 42.419896, "lng": -75.83772, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}, {"fips": "023", "name": "Cortland"}, {"fips": "007", "name": "Broome"}]});

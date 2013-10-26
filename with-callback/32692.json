@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.330426, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Suwannee", "lng": -83.14401, "zip_code": "32692"});
+zipapicallback({"locality": "Suwannee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Suwannee"], "postal_code": "32692", "lat": 29.330426, "lng": -83.14401, "type": "POBOX", "counties": [{"fips": "029", "name": "Dixie"}]});

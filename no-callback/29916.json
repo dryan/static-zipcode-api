@@ -1,1 +1,1 @@
-{"lat": 32.72765, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Early Branch", "lng": -80.94972, "zip_code": "29916"}
+{"locality": "Early Branch", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Early Branch"], "postal_code": "29916", "lat": 32.72765, "lng": -80.94972, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jasper"}, {"fips": "049", "name": "Hampton"}]}

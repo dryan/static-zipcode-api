@@ -1,1 +1,1 @@
-{"lat": 41.835067, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Rehoboth", "lng": -71.26115, "zip_code": "02769"}
+{"locality": "Rehoboth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Rehoboth"], "postal_code": "02769", "lat": 41.835067, "lng": -71.26115, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]}

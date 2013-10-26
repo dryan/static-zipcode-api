@@ -1,1 +1,1 @@
-{"lat": 39.358034, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Kanorado", "lng": -102.00483, "zip_code": "67741"}
+{"locality": "Kanorado", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kanorado"], "postal_code": "67741", "lat": 39.358034, "lng": -102.00483, "type": "STANDARD", "counties": [{"fips": "181", "name": "Sherman"}, {"fips": "023", "name": "Cheyenne"}, {"fips": "199", "name": "Wallace"}]}

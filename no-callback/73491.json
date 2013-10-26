@@ -1,1 +1,1 @@
-{"lat": 34.462809, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Velma", "lng": -97.65419, "zip_code": "73491"}
+{"locality": "Velma", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Velma"], "postal_code": "73491", "lat": 34.462809, "lng": -97.65419, "type": "POBOX", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.128469, "region": {"abbr": "NY", "name": "New York"}, "locality": "Falconer", "lng": -79.19126, "zip_code": "14733"});
+zipapicallback({"locality": "Falconer", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Falconer"], "postal_code": "14733", "lat": 42.128469, "lng": -79.19126, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

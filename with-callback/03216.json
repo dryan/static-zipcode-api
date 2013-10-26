@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.444702, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Andover", "lng": -71.78401, "zip_code": "03216"});
+zipapicallback({"locality": "Andover", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Andover"], "postal_code": "03216", "lat": 43.444702, "lng": -71.78401, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]});

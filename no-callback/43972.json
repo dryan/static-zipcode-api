@@ -1,1 +1,1 @@
-{"lat": 40.099277, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bannock", "lng": -80.97601, "zip_code": "43972"}
+{"locality": "Bannock", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bannock"], "postal_code": "43972", "lat": 40.099277, "lng": -80.97601, "type": "POBOX", "counties": [{"fips": "013", "name": "Belmont"}]}

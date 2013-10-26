@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.03407, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bennington", "lng": -97.58943, "zip_code": "67422"});
+zipapicallback({"locality": "Bennington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bennington"], "postal_code": "67422", "lat": 39.03407, "lng": -97.58943, "type": "STANDARD", "counties": [{"fips": "143", "name": "Ottawa"}]});

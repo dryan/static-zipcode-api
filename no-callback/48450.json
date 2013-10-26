@@ -1,1 +1,1 @@
-{"lat": 43.243891, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lexington", "lng": -82.52701, "zip_code": "48450"}
+{"locality": "Lexington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lexington"], "postal_code": "48450", "lat": 43.243891, "lng": -82.52701, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.723803, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Kensington", "lng": -80.94874, "zip_code": "44427"});
+zipapicallback({"locality": "Kensington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kensington"], "postal_code": "44427", "lat": 40.723803, "lng": -80.94874, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}, {"fips": "019", "name": "Carroll"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.962335, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Amalia", "lng": -105.41628, "zip_code": "87512"});
+zipapicallback({"locality": "Amalia", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Amalia"], "postal_code": "87512", "lat": 36.962335, "lng": -105.41628, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]});

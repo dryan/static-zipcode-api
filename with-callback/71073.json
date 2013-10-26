@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.535107, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Sibley", "lng": -93.30297, "zip_code": "71073"});
+zipapicallback({"locality": "Sibley", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Sibley"], "postal_code": "71073", "lat": 32.535107, "lng": -93.30297, "type": "STANDARD", "counties": [{"fips": "119", "name": "Webster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.747406, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Barryton", "lng": -85.16304, "zip_code": "49305"});
+zipapicallback({"locality": "Barryton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Barryton"], "postal_code": "49305", "lat": 43.747406, "lng": -85.16304, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "073", "name": "Isabella"}]});

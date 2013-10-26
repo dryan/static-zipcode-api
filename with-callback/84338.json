@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.935384, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Trenton", "lng": -111.94607, "zip_code": "84338"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Trenton"], "postal_code": "84338", "lat": 41.935384, "lng": -111.94607, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cache"}]});

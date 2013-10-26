@@ -1,1 +1,1 @@
-{"lat": 37.373384, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ary", "lng": -83.15186, "zip_code": "41712"}
+{"locality": "Ary", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ary"], "postal_code": "41712", "lat": 37.373384, "lng": -83.15186, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]}

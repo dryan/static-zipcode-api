@@ -1,1 +1,1 @@
-{"lat": 46.71207, "region": {"abbr": "WA", "name": "Washington"}, "locality": "White Pass", "lng": -120.97097, "zip_code": "98937"}
+{"locality": "Naches", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Goose Prairie", "Naches"], "postal_code": "98937", "lat": 46.71207, "lng": -120.97097, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

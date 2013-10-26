@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.30942, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Townsend", "lng": -88.61753, "zip_code": "54175"});
+zipapicallback({"locality": "Townsend", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Townsend"], "postal_code": "54175", "lat": 45.30942, "lng": -88.61753, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}]});

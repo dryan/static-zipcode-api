@@ -1,1 +1,1 @@
-{"lat": 41.288679, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Huntsville", "lng": -111.70449, "zip_code": "84317"}
+{"locality": "Huntsville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Huntsville"], "postal_code": "84317", "lat": 41.288679, "lng": -111.70449, "type": "STANDARD", "counties": [{"fips": "057", "name": "Weber"}]}

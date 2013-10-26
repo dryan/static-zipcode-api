@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.035384, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Sparta", "lng": -74.63557, "zip_code": "07871"});
+zipapicallback({"locality": "Sparta", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Sparta"], "postal_code": "07871", "lat": 41.035384, "lng": -74.63557, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}]});

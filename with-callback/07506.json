@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.957498, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hawthorne", "lng": -74.15627, "zip_code": "07506"});
+zipapicallback({"locality": "Hawthorne", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hawthorne"], "postal_code": "07506", "lat": 40.957498, "lng": -74.15627, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}]});

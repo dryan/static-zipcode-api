@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.290763, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Natick", "lng": -71.35368, "zip_code": "01760"});
+zipapicallback({"locality": "Natick", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Natick"], "postal_code": "01760", "lat": 42.290763, "lng": -71.35368, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]});

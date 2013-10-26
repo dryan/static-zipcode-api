@@ -1,1 +1,1 @@
-{"lat": 33.344598, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Meadow", "lng": -102.28814, "zip_code": "79345"}
+{"locality": "Meadow", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Meadow"], "postal_code": "79345", "lat": 33.344598, "lng": -102.28814, "type": "STANDARD", "counties": [{"fips": "445", "name": "Terry"}, {"fips": "305", "name": "Lynn"}, {"fips": "441", "name": "Taylor"}]}

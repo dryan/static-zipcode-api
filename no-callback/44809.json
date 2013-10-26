@@ -1,1 +1,1 @@
-{"lat": 41.132988, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bascom", "lng": -83.28328, "zip_code": "44809"}
+{"locality": "Bascom", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bascom"], "postal_code": "44809", "lat": 41.132988, "lng": -83.28328, "type": "POBOX", "counties": [{"fips": "147", "name": "Seneca"}]}

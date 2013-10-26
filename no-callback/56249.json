@@ -1,1 +1,1 @@
-{"lat": 45.299531, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Holloway", "lng": -95.8996, "zip_code": "56249"}
+{"locality": "Holloway", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Holloway"], "postal_code": "56249", "lat": 45.299531, "lng": -95.8996, "type": "STANDARD", "counties": [{"fips": "151", "name": "Swift"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.015184, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Wilson", "lng": -95.91403, "zip_code": "56151"});
+zipapicallback({"locality": "Lake Wilson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hadley", "Lake Wilson", "Slayton"], "postal_code": "56151", "lat": 44.015184, "lng": -95.91403, "type": "STANDARD", "counties": [{"fips": "101", "name": "Murray"}]});

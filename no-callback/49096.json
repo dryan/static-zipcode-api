@@ -1,1 +1,1 @@
-{"lat": 42.63222, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Vermontville", "lng": -85.01188, "zip_code": "49096"}
+{"locality": "Vermontville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Vermontville"], "postal_code": "49096", "lat": 42.63222, "lng": -85.01188, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}, {"fips": "015", "name": "Barry"}]}

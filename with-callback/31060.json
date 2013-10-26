@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.003035, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Milan", "lng": -83.06337, "zip_code": "31060"});
+zipapicallback({"locality": "Milan", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Milan"], "postal_code": "31060", "lat": 32.003035, "lng": -83.06337, "type": "STANDARD", "counties": [{"fips": "271", "name": "Telfair"}, {"fips": "091", "name": "Dodge"}]});

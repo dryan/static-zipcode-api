@@ -1,1 +1,1 @@
-{"lat": 41.649813, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Canton", "lng": -76.82304, "zip_code": "17724"}
+{"locality": "Canton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Canton", "Leroy"], "postal_code": "17724", "lat": 41.649813, "lng": -76.82304, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}, {"fips": "081", "name": "Lycoming"}, {"fips": "113", "name": "Sullivan"}, {"fips": "117", "name": "Tioga"}]}

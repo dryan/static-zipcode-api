@@ -1,1 +1,1 @@
-{"lat": 26.344128, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Edinburg", "lng": -98.18011, "zip_code": "78539"}
+{"locality": "Edinburg", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Edinburg"], "postal_code": "78539", "lat": 26.344128, "lng": -98.18011, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]}

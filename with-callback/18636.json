@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.402035, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Noxen", "lng": -76.07007, "zip_code": "18636"});
+zipapicallback({"locality": "Noxen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Forkston Township", "Forkston Twp", "Monroe Township", "Monroe Twp", "Noxen"], "postal_code": "18636", "lat": 41.402035, "lng": -76.07007, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wyoming"}, {"fips": "079", "name": "Luzerne"}]});

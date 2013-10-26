@@ -1,1 +1,1 @@
-{"lat": 42.460604, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dubuque", "lng": -90.68576, "zip_code": "52003"}
+{"locality": "Dubuque", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dubuque"], "postal_code": "52003", "lat": 42.460604, "lng": -90.68576, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.472784, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Schuyler", "lng": -97.06915, "zip_code": "68661"});
+zipapicallback({"locality": "Schuyler", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Schuyler"], "postal_code": "68661", "lat": 41.472784, "lng": -97.06915, "type": "STANDARD", "counties": [{"fips": "037", "name": "Colfax"}]});

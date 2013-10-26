@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.653037, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Tripoli", "lng": -75.72689, "zip_code": "18066"});
+zipapicallback({"locality": "New Tripoli", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Tripoli"], "postal_code": "18066", "lat": 40.653037, "lng": -75.72689, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]});

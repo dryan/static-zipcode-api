@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.930468, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Winton", "lng": -91.79943, "zip_code": "55796"});
+zipapicallback({"locality": "Winton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Winton"], "postal_code": "55796", "lat": 47.930468, "lng": -91.79943, "type": "POBOX", "counties": [{"fips": "137", "name": "St. Louis"}]});

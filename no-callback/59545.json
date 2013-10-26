@@ -1,1 +1,1 @@
-{"lat": 48.962291, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Whitlash", "lng": -111.16737, "zip_code": "59545"}
+{"locality": "Whitlash", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Whitlash"], "postal_code": "59545", "lat": 48.962291, "lng": -111.16737, "type": "STANDARD", "counties": [{"fips": "051", "name": "Liberty"}]}

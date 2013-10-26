@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.350296, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Smackover", "lng": -92.7379, "zip_code": "71762"});
+zipapicallback({"locality": "Smackover", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Smackover"], "postal_code": "71762", "lat": 33.350296, "lng": -92.7379, "type": "STANDARD", "counties": [{"fips": "139", "name": "Union"}, {"fips": "103", "name": "Ouachita"}]});

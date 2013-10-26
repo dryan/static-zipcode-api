@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.698438, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dodson", "lng": -100.06623, "zip_code": "79230"});
+zipapicallback({"locality": "Dodson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dodson"], "postal_code": "79230", "lat": 34.698438, "lng": -100.06623, "type": "STANDARD", "counties": [{"fips": "087", "name": "Collingsworth"}, {"fips": "075", "name": "Childress"}]});

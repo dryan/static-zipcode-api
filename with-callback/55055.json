@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.871166, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Newport", "lng": -93.00187, "zip_code": "55055"});
+zipapicallback({"locality": "Newport", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Newport"], "postal_code": "55055", "lat": 44.871166, "lng": -93.00187, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]});

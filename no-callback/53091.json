@@ -1,1 +1,1 @@
-{"lat": 43.502688, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Theresa", "lng": -88.43299, "zip_code": "53091"}
+{"locality": "Theresa", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Theresa"], "postal_code": "53091", "lat": 43.502688, "lng": -88.43299, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}, {"fips": "131", "name": "Washington"}]}

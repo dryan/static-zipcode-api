@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.19784, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Sterling", "lng": -98.20222, "zip_code": "67579"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Sterling"], "postal_code": "67579", "lat": 38.19784, "lng": -98.20222, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}, {"fips": "155", "name": "Reno"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.696538, "region": {"abbr": "NY", "name": "New York"}, "locality": "Jamaica", "lng": -73.78734, "zip_code": "11433"}
+{"locality": "Jamaica", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Addisleigh Park", "Addisleigh Pk", "Jamaica"], "postal_code": "11433", "lat": 40.696538, "lng": -73.78734, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

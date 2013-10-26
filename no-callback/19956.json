@@ -1,1 +1,1 @@
-{"lat": 38.549721, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Laurel", "lng": -75.55304, "zip_code": "19956"}
+{"locality": "Laurel", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Laurel"], "postal_code": "19956", "lat": 38.549721, "lng": -75.55304, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

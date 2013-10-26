@@ -1,1 +1,1 @@
-{"lat": 47.808866, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brooks", "lng": -95.97713, "zip_code": "56715"}
+{"locality": "Brooks", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brooks"], "postal_code": "56715", "lat": 47.808866, "lng": -95.97713, "type": "STANDARD", "counties": [{"fips": "125", "name": "Red Lake"}, {"fips": "119", "name": "Polk"}]}

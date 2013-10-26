@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.791139, "region": {"abbr": "CA", "name": "California"}, "locality": "Middletown", "lng": -122.61069, "zip_code": "95461"});
+zipapicallback({"locality": "Middletown", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Loch Lomond", "Middletown"], "postal_code": "95461", "lat": 38.791139, "lng": -122.61069, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

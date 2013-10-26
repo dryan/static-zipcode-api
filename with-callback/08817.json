@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.516104, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Edison", "lng": -74.39754, "zip_code": "08817"});
+zipapicallback({"locality": "Edison", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Edison"], "postal_code": "08817", "lat": 40.516104, "lng": -74.39754, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]});

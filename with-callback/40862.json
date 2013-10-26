@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.004426, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Partridge", "lng": -82.89858, "zip_code": "40862"});
+zipapicallback({"locality": "Partridge", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Partridge"], "postal_code": "40862", "lat": 37.004426, "lng": -82.89858, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

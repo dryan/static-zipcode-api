@@ -1,1 +1,1 @@
-{"lat": 41.12071, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Tiffin", "lng": -83.17658, "zip_code": "44883"}
+{"locality": "Tiffin", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fort Seneca", "Tiffin"], "postal_code": "44883", "lat": 41.12071, "lng": -83.17658, "type": "STANDARD", "counties": [{"fips": "147", "name": "Seneca"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.140657, "region": {"abbr": "FL", "name": "Florida"}, "locality": "De Leon Springs", "lng": -81.34497, "zip_code": "32130"}
+{"locality": "De Leon Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["De Leon Spgs", "De Leon Springs"], "postal_code": "32130", "lat": 29.140657, "lng": -81.34497, "type": "STANDARD", "counties": []}

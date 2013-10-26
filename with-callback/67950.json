@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.011254, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Elkhart", "lng": -101.88893, "zip_code": "67950"});
+zipapicallback({"locality": "Elkhart", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Elkhart"], "postal_code": "67950", "lat": 37.011254, "lng": -101.88893, "type": "STANDARD", "counties": [{"fips": "129", "name": "Morton"}, {"fips": "009", "name": "Barton"}]});

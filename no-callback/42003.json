@@ -1,1 +1,1 @@
-{"lat": 37.044233, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Paducah", "lng": -88.59046, "zip_code": "42003"}
+{"locality": "Paducah", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Paducah"], "postal_code": "42003", "lat": 37.044233, "lng": -88.59046, "type": "STANDARD", "counties": [{"fips": "145", "name": "McCracken"}]}

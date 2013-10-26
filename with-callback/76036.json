@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.573816, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Crowley", "lng": -97.38491, "zip_code": "76036"});
+zipapicallback({"locality": "Crowley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Crowley"], "postal_code": "76036", "lat": 32.573816, "lng": -97.38491, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}, {"fips": "251", "name": "Johnson"}]});

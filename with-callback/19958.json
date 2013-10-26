@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.746207, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Lewes", "lng": -75.16282, "zip_code": "19958"});
+zipapicallback({"locality": "Lewes", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Lewes"], "postal_code": "19958", "lat": 38.746207, "lng": -75.16282, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

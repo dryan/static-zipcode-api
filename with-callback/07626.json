@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.942074, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cresskill", "lng": -73.96504, "zip_code": "07626"});
+zipapicallback({"locality": "Cresskill", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cresskill"], "postal_code": "07626", "lat": 40.942074, "lng": -73.96504, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

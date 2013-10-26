@@ -1,1 +1,1 @@
-{"lat": 33.736718, "region": {"abbr": "CA", "name": "California"}, "locality": "Rancho Palos Ver", "lng": -118.31123, "zip_code": "90732"}
+{"locality": "San Pedro", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Pedro"], "postal_code": "90732", "lat": 33.736718, "lng": -118.31123, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

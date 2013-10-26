@@ -1,1 +1,1 @@
-{"lat": 33.551145, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Evans", "lng": -82.13949, "zip_code": "30809"}
+{"locality": "Evans", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Evans"], "postal_code": "30809", "lat": 33.551145, "lng": -82.13949, "type": "STANDARD", "counties": [{"fips": "073", "name": "Columbia"}]}

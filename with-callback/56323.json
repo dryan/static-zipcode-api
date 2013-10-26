@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.63381, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cyrus", "lng": -95.72642, "zip_code": "56323"});
+zipapicallback({"locality": "Cyrus", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cyrus"], "postal_code": "56323", "lat": 45.63381, "lng": -95.72642, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pope"}, {"fips": "149", "name": "Stevens"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.039668, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Huey", "lng": -79.50254, "zip_code": "16248"});
+zipapicallback({"locality": "Rimersburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Huey", "Rimersburg"], "postal_code": "16248", "lat": 41.039668, "lng": -79.50254, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]});

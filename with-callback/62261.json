@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.988745, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Modoc", "lng": -90.00785, "zip_code": "62261"});
+zipapicallback({"locality": "Modoc", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Modoc", "Pr Du Rocher", "Prairie Du Rocher"], "postal_code": "62261", "lat": 37.988745, "lng": -90.00785, "type": "STANDARD", "counties": [{"fips": "157", "name": "Randolph"}]});

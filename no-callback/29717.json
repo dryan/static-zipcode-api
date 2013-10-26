@@ -1,1 +1,1 @@
-{"lat": 34.963208, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Hickory Grove", "lng": -81.43049, "zip_code": "29717"}
+{"locality": "Hickory Grove", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Hickory Grove"], "postal_code": "29717", "lat": 34.963208, "lng": -81.43049, "type": "STANDARD", "counties": [{"fips": "091", "name": "York"}]}

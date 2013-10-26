@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.96266, "region": {"abbr": "CA", "name": "California"}, "locality": "Piercy", "lng": -123.74471, "zip_code": "95587"});
+zipapicallback({"locality": "Piercy", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Piercy"], "postal_code": "95587", "lat": 39.96266, "lng": -123.74471, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.009219, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Karns City", "lng": -79.7102, "zip_code": "16041"});
+zipapicallback({"locality": "Karns City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Karns City"], "postal_code": "16041", "lat": 41.009219, "lng": -79.7102, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "005", "name": "Armstrong"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.53554, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Columbus", "lng": -84.92583, "zip_code": "31909"});
+zipapicallback({"locality": "Columbus", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Columbus"], "postal_code": "31909", "lat": 32.53554, "lng": -84.92583, "type": "STANDARD", "counties": [{"fips": "215", "name": "Muscogee"}]});

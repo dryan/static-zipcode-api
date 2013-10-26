@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.115573, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Santa Claus", "lng": -86.91993, "zip_code": "47579"});
+zipapicallback({"locality": "Santa Claus", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Christmas Lake Village", "Christmas Lk", "Santa Claus", "Xmas Lk Vlg"], "postal_code": "47579", "lat": 38.115573, "lng": -86.91993, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.509611, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Elkland", "lng": -93.03846, "zip_code": "65644"});
+zipapicallback({"locality": "Elkland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Elkland"], "postal_code": "65644", "lat": 37.509611, "lng": -93.03846, "type": "STANDARD", "counties": [{"fips": "225", "name": "Webster"}, {"fips": "059", "name": "Dallas"}]});

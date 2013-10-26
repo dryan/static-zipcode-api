@@ -1,1 +1,1 @@
-{"lat": 39.779486, "region": {"abbr": "CA", "name": "California"}, "locality": "Cromberg", "lng": -120.64058, "zip_code": "96103"}
+{"locality": "Blairsden-graeagle", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Blairsden", "Blairsden-graeagle", "Blrsdn-greagl", "Cromberg", "Graeagle"], "postal_code": "96103", "lat": 39.779486, "lng": -120.64058, "type": "STANDARD", "counties": [{"fips": "063", "name": "Plumas"}]}

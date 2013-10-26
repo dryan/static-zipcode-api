@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.262809, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hightstown", "lng": -74.53246, "zip_code": "08520"});
+zipapicallback({"locality": "Hightstown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["East Windsor", "Hightstown"], "postal_code": "08520", "lat": 40.262809, "lng": -74.53246, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}, {"fips": "023", "name": "Middlesex"}, {"fips": "025", "name": "Monmouth"}]});

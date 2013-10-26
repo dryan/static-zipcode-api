@@ -1,1 +1,1 @@
-{"lat": 40.11594, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Muncie", "lng": -87.84208, "zip_code": "61857"}
+{"locality": "Muncie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Muncie"], "postal_code": "61857", "lat": 40.11594, "lng": -87.84208, "type": "POBOX", "counties": [{"fips": "183", "name": "Vermilion"}]}

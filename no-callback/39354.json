@@ -1,1 +1,1 @@
-{"lat": 32.873605, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Preston", "lng": -88.84028, "zip_code": "39354"}
+{"locality": "Preston", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Preston"], "postal_code": "39354", "lat": 32.873605, "lng": -88.84028, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kemper"}, {"fips": "099", "name": "Neshoba"}, {"fips": "159", "name": "Winston"}, {"fips": "103", "name": "Noxubee"}]}

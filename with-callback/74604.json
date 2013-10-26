@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.704703, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ponca City", "lng": -97.00798, "zip_code": "74604"});
+zipapicallback({"locality": "Ponca City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ponca City"], "postal_code": "74604", "lat": 36.704703, "lng": -97.00798, "type": "STANDARD", "counties": [{"fips": "071", "name": "Kay"}, {"fips": "113", "name": "Osage"}]});

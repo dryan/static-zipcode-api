@@ -1,1 +1,1 @@
-{"lat": 40.289372, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Line Lexington", "lng": -75.25572, "zip_code": "18932"}
+{"locality": "Line Lexington", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Line Lexington", "Line Lxngtn"], "postal_code": "18932", "lat": 40.289372, "lng": -75.25572, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

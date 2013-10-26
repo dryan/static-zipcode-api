@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.026986, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Farson", "lng": -109.40903, "zip_code": "82932"});
+zipapicallback({"locality": "Farson", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Eden", "Farson"], "postal_code": "82932", "lat": 42.026986, "lng": -109.40903, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sweetwater"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.307591, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Paxton", "lng": -71.91929, "zip_code": "01612"}
+{"locality": "Paxton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Paxton", "Worcester"], "postal_code": "01612", "lat": 42.307591, "lng": -71.91929, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

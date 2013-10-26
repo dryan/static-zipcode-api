@@ -1,1 +1,1 @@
-{"lat": 46.194584, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cushing", "lng": -94.6196, "zip_code": "56443"}
+{"locality": "Cushing", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cushing"], "postal_code": "56443", "lat": 46.194584, "lng": -94.6196, "type": "STANDARD", "counties": [{"fips": "097", "name": "Morrison"}, {"fips": "153", "name": "Todd"}]}

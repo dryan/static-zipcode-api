@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.369406, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Venus", "lng": -79.51724, "zip_code": "16364"});
+zipapicallback({"locality": "Venus", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Venus"], "postal_code": "16364", "lat": 41.369406, "lng": -79.51724, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]});

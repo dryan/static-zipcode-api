@@ -1,1 +1,1 @@
-{"lat": 35.459089, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Stanton", "lng": -89.35699, "zip_code": "38069"}
+{"locality": "Stanton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Stanton"], "postal_code": "38069", "lat": 35.459089, "lng": -89.35699, "type": "STANDARD", "counties": [{"fips": "075", "name": "Haywood"}]}

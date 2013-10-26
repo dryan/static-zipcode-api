@@ -1,1 +1,1 @@
-{"lat": 40.7332, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Chatham", "lng": -74.39736, "zip_code": "07928"}
+{"locality": "Chatham", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Chatham", "Chatham Twp"], "postal_code": "07928", "lat": 40.7332, "lng": -74.39736, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

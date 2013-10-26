@@ -1,1 +1,1 @@
-{"lat": 41.35805, "region": {"abbr": "NY", "name": "New York"}, "locality": "Highland Mills", "lng": -74.12096, "zip_code": "10930"}
+{"locality": "Highland Mills", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Highland Mills", "Highland Mls"], "postal_code": "10930", "lat": 41.35805, "lng": -74.12096, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

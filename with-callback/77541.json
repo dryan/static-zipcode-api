@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.975247, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Quintana", "lng": -95.34357, "zip_code": "77541"});
+zipapicallback({"locality": "Freeport", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Freeport", "Jones Creek", "Oyster Creek", "Quintana", "Surfside Bch", "Surfside Beach"], "postal_code": "77541", "lat": 28.975247, "lng": -95.34357, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]});

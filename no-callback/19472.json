@@ -1,1 +1,1 @@
-{"lat": 40.339207, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sassamansville", "lng": -75.57372, "zip_code": "19472"}
+{"locality": "Sassamansville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sassamansville", "Sassamansvlle"], "postal_code": "19472", "lat": 40.339207, "lng": -75.57372, "type": "POBOX", "counties": [{"fips": "091", "name": "Montgomery"}]}

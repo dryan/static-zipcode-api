@@ -1,1 +1,1 @@
-{"lat": 43.189953, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sun Prairie", "lng": -89.2253, "zip_code": "53590"}
+{"locality": "Sun Prairie", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sun Prairie"], "postal_code": "53590", "lat": 43.189953, "lng": -89.2253, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}]}

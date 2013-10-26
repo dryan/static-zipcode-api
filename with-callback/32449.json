@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.283088, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kinard", "lng": -85.21892, "zip_code": "32449"});
+zipapicallback({"locality": "Wewahitchka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kinard", "Wewahitchka"], "postal_code": "32449", "lat": 30.283088, "lng": -85.21892, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.83088, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wadsworth", "lng": -95.93391, "zip_code": "77483"});
+zipapicallback({"locality": "Wadsworth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wadsworth"], "postal_code": "77483", "lat": 28.83088, "lng": -95.93391, "type": "STANDARD", "counties": [{"fips": "321", "name": "Matagorda"}, {"fips": "157", "name": "Fort Bend"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.880746, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Miami", "lng": -94.87142, "zip_code": "74354"}
+{"locality": "Miami", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Miami"], "postal_code": "74354", "lat": 36.880746, "lng": -94.87142, "type": "STANDARD", "counties": [{"fips": "115", "name": "Ottawa"}]}

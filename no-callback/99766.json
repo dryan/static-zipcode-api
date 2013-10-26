@@ -1,1 +1,1 @@
-{"lat": 68.347052, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Point Hope", "lng": -166.76291, "zip_code": "99766"}
+{"locality": "Point Hope", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Point Hope"], "postal_code": "99766", "lat": 68.347052, "lng": -166.76291, "type": "POBOX", "counties": [{"fips": "185", "name": "North Slope"}]}

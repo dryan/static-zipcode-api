@@ -1,1 +1,1 @@
-zipapicallback({"lat": 65.250432, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Teller", "lng": -166.35474, "zip_code": "99778"});
+zipapicallback({"locality": "Teller", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Teller"], "postal_code": "99778", "lat": 65.250432, "lng": -166.35474, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]});

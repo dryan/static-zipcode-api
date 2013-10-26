@@ -1,1 +1,1 @@
-{"lat": 60.343879, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tuntutuliak", "lng": -162.66587, "zip_code": "99680"}
+{"locality": "Tuntutuliak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Bethel", "Tuntutuliak"], "postal_code": "99680", "lat": 60.343879, "lng": -162.66587, "type": "POBOX", "counties": []}

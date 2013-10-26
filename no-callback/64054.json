@@ -1,1 +1,1 @@
-{"lat": 39.108704, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sugar Creek", "lng": -94.44115, "zip_code": "64054"}
+{"locality": "Independence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Independence", "Sugar Creek"], "postal_code": "64054", "lat": 39.108704, "lng": -94.44115, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]}

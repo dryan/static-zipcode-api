@@ -1,1 +1,1 @@
-{"lat": 39.069165, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Independence", "lng": -94.35087, "zip_code": "64057"}
+{"locality": "Independence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Independence"], "postal_code": "64057", "lat": 39.069165, "lng": -94.35087, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]}

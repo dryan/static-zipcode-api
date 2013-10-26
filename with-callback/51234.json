@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.19528, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Boyden", "lng": -96.01511, "zip_code": "51234"});
+zipapicallback({"locality": "Boyden", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Boyden"], "postal_code": "51234", "lat": 43.19528, "lng": -96.01511, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sioux"}]});

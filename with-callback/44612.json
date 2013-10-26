@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.643724, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bolivar", "lng": -81.45442, "zip_code": "44612"});
+zipapicallback({"locality": "Bolivar", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bolivar"], "postal_code": "44612", "lat": 40.643724, "lng": -81.45442, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}, {"fips": "151", "name": "Stark"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.943026, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ravenscroft", "lng": -85.45113, "zip_code": "38583"});
+zipapicallback({"locality": "Sparta", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Ravenscroft", "Riverwatch", "Sparta"], "postal_code": "38583", "lat": 35.943026, "lng": -85.45113, "type": "STANDARD", "counties": [{"fips": "185", "name": "White"}, {"fips": "035", "name": "Cumberland"}, {"fips": "141", "name": "Putnam"}, {"fips": "041", "name": "Dekalb"}, {"fips": "175", "name": "Van Buren"}]});

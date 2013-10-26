@@ -1,1 +1,1 @@
-{"lat": 31.038417, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wiergate", "lng": -93.80057, "zip_code": "75977"}
+{"locality": "Wiergate", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wiergate"], "postal_code": "75977", "lat": 31.038417, "lng": -93.80057, "type": "STANDARD", "counties": [{"fips": "351", "name": "Newton"}]}

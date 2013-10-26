@@ -1,1 +1,1 @@
-{"lat": 40.109478, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dublin", "lng": -83.12713, "zip_code": "43017"}
+{"locality": "Dublin", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dublin"], "postal_code": "43017", "lat": 40.109478, "lng": -83.12713, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}, {"fips": "041", "name": "Delaware"}, {"fips": "159", "name": "Union"}]}

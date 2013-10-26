@@ -1,1 +1,1 @@
-{"lat": 40.056031, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lebanon", "lng": -100.28026, "zip_code": "69036"}
+{"locality": "Lebanon", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lebanon"], "postal_code": "69036", "lat": 40.056031, "lng": -100.28026, "type": "STANDARD", "counties": [{"fips": "145", "name": "Red Willow"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.048372, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Candia", "lng": -71.3078, "zip_code": "03034"}
+{"locality": "Candia", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Candia"], "postal_code": "03034", "lat": 43.048372, "lng": -71.3078, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.709895, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Kearney", "lng": -99.05499, "zip_code": "68847"});
+zipapicallback({"locality": "Kearney", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Kearney"], "postal_code": "68847", "lat": 40.709895, "lng": -99.05499, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buffalo"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.80007, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Quinnesec", "lng": -87.99141, "zip_code": "49876"}
+{"locality": "Quinnesec", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Quinnesec"], "postal_code": "49876", "lat": 45.80007, "lng": -87.99141, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickinson"}]}

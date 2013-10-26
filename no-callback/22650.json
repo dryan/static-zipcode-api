@@ -1,1 +1,1 @@
-{"lat": 38.76592, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rileyville", "lng": -78.36545, "zip_code": "22650"}
+{"locality": "Rileyville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rileyville"], "postal_code": "22650", "lat": 38.76592, "lng": -78.36545, "type": "STANDARD", "counties": [{"fips": "139", "name": "Page"}]}

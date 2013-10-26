@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.877528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fort Stockton", "lng": -102.852, "zip_code": "79735"});
+zipapicallback({"locality": "Fort Stockton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Stockton"], "postal_code": "79735", "lat": 30.877528, "lng": -102.852, "type": "STANDARD", "counties": [{"fips": "371", "name": "Pecos"}]});

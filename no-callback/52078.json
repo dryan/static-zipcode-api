@@ -1,1 +1,1 @@
-{"lat": 42.398112, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Worthington", "lng": -91.12294, "zip_code": "52078"}
+{"locality": "Worthington", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Worthington"], "postal_code": "52078", "lat": 42.398112, "lng": -91.12294, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]}

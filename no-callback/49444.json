@@ -1,1 +1,1 @@
-{"lat": 43.198048, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Muskegon Heights", "lng": -86.22774, "zip_code": "49444"}
+{"locality": "Muskegon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Muskegon", "Muskegon Heights", "Muskegon Hts", "Norton Shores"], "postal_code": "49444", "lat": 43.198048, "lng": -86.22774, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}]}

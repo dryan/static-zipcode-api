@@ -1,1 +1,1 @@
-{"lat": 44.753401, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Brussels", "lng": -87.64628, "zip_code": "54204"}
+{"locality": "Brussels", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brussels"], "postal_code": "54204", "lat": 44.753401, "lng": -87.64628, "type": "STANDARD", "counties": [{"fips": "029", "name": "Door"}]}

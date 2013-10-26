@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.630784, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jeffersonville", "lng": -83.37027, "zip_code": "31044"});
+zipapicallback({"locality": "Jeffersonville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Jeffersonville", "Jeffersonvlle"], "postal_code": "31044", "lat": 32.630784, "lng": -83.37027, "type": "STANDARD", "counties": [{"fips": "289", "name": "Twiggs"}, {"fips": "319", "name": "Wilkinson"}]});

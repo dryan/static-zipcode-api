@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.723792, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Bar", "lng": -123.34016, "zip_code": "96010"});
+zipapicallback({"locality": "Big Bar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Bar"], "postal_code": "96010", "lat": 40.723792, "lng": -123.34016, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]});

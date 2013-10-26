@@ -1,1 +1,1 @@
-{"lat": 41.54903, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Waterbury", "lng": -72.99861, "zip_code": "06705"}
+{"locality": "Waterbury", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Waterbury", "Wolcott"], "postal_code": "06705", "lat": 41.54903, "lng": -72.99861, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}, {"fips": "005", "name": "Litchfield"}]}

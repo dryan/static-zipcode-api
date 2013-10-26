@@ -1,1 +1,1 @@
-{"lat": 39.94821, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Crucible", "lng": -79.96653, "zip_code": "15325"}
+{"locality": "Crucible", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Crucible"], "postal_code": "15325", "lat": 39.94821, "lng": -79.96653, "type": "POBOX", "counties": [{"fips": "059", "name": "Greene"}]}

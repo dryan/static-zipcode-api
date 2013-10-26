@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.753264, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Clinton", "lng": -76.89913, "zip_code": "20735"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Clinton"], "postal_code": "20735", "lat": 38.753264, "lng": -76.89913, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

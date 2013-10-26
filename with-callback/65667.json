@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.302013, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hartville", "lng": -92.50741, "zip_code": "65667"});
+zipapicallback({"locality": "Hartville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hartville"], "postal_code": "65667", "lat": 37.302013, "lng": -92.50741, "type": "STANDARD", "counties": [{"fips": "229", "name": "Wright"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.41012, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Upperglade", "lng": -80.49595, "zip_code": "26266"}
+{"locality": "Upperglade", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Upperglade"], "postal_code": "26266", "lat": 38.41012, "lng": -80.49595, "type": "STANDARD", "counties": [{"fips": "101", "name": "Webster"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.020483, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bend", "lng": -121.30891, "zip_code": "97702"}
+{"locality": "Bend", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bend"], "postal_code": "97702", "lat": 44.020483, "lng": -121.30891, "type": "STANDARD", "counties": [{"fips": "017", "name": "Deschutes"}]}

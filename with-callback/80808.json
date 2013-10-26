@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.977375, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Calhan", "lng": -104.32017, "zip_code": "80808"});
+zipapicallback({"locality": "Calhan", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Calhan"], "postal_code": "80808", "lat": 38.977375, "lng": -104.32017, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}, {"fips": "039", "name": "Elbert"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.114858, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dana", "lng": -94.23112, "zip_code": "50064"}
+{"locality": "Dana", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dana"], "postal_code": "50064", "lat": 42.114858, "lng": -94.23112, "type": "STANDARD", "counties": [{"fips": "073", "name": "Greene"}, {"fips": "015", "name": "Boone"}]}

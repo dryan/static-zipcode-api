@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.015959, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Chester", "lng": -97.61926, "zip_code": "68327"});
+zipapicallback({"locality": "Chester", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Chester"], "postal_code": "68327", "lat": 40.015959, "lng": -97.61926, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}]});

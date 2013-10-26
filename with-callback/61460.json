@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.734056, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Media", "lng": -90.82654, "zip_code": "61460"});
+zipapicallback({"locality": "Media", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Media"], "postal_code": "61460", "lat": 40.734056, "lng": -90.82654, "type": "STANDARD", "counties": [{"fips": "071", "name": "Henderson"}, {"fips": "187", "name": "Warren"}]});

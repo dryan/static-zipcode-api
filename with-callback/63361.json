@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.973583, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Montgomery City", "lng": -91.53556, "zip_code": "63361"});
+zipapicallback({"locality": "Montgomery City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Buell", "Danville", "Mineola", "Montgomery City", "Montgomery Cy"], "postal_code": "63361", "lat": 38.973583, "lng": -91.53556, "type": "STANDARD", "counties": [{"fips": "139", "name": "Montgomery"}, {"fips": "027", "name": "Callaway"}]});

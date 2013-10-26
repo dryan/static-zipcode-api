@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.474803, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Dozier", "lng": -86.37618, "zip_code": "36028"});
+zipapicallback({"locality": "Dozier", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dozier"], "postal_code": "36028", "lat": 31.474803, "lng": -86.37618, "type": "STANDARD", "counties": [{"fips": "039", "name": "Covington"}, {"fips": "041", "name": "Crenshaw"}]});

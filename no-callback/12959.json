@@ -1,1 +1,1 @@
-{"lat": 44.951443, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mooers Forks", "lng": -73.68023, "zip_code": "12959"}
+{"locality": "Mooers Forks", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mooers Forks"], "postal_code": "12959", "lat": 44.951443, "lng": -73.68023, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]}

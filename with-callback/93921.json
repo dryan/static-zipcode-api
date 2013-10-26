@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.555248, "region": {"abbr": "CA", "name": "California"}, "locality": "Carmel", "lng": -121.9212, "zip_code": "93921"});
+zipapicallback({"locality": "Carmel By The Sea", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Carmel", "Carmel By The", "Carmel By The Sea"], "postal_code": "93921", "lat": 36.555248, "lng": -121.9212, "type": "POBOX", "counties": [{"fips": "053", "name": "Monterey"}]});

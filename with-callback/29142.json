@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.462378, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Santee", "lng": -80.50903, "zip_code": "29142"});
+zipapicallback({"locality": "Santee", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Santee"], "postal_code": "29142", "lat": 33.462378, "lng": -80.50903, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]});

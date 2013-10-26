@@ -1,1 +1,1 @@
-{"lat": 37.475798, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Richmond", "lng": -77.58235, "zip_code": "23236"}
+{"locality": "Richmond", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["N Chesterfld", "North Chesterfield", "Richmond"], "postal_code": "23236", "lat": 37.475798, "lng": -77.58235, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chesterfield"}]}

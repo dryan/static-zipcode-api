@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.130559, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Day Rural", "lng": -82.83185, "zip_code": "41858"});
+zipapicallback({"locality": "Whitesburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Crown", "Democrat", "Dongola", "Kona", "Oscaloosa", "Van", "Whitesburg"], "postal_code": "41858", "lat": 37.130559, "lng": -82.83185, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

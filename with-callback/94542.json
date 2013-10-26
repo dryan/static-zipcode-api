@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.657381, "region": {"abbr": "CA", "name": "California"}, "locality": "Hayward", "lng": -122.05076, "zip_code": "94542"});
+zipapicallback({"locality": "Hayward", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hayward"], "postal_code": "94542", "lat": 37.657381, "lng": -122.05076, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

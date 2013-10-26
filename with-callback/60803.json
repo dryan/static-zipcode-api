@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.675861, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Alsip", "lng": -87.73189, "zip_code": "60803"});
+zipapicallback({"locality": "Alsip", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Alsip", "Chicago", "Merrionett Pk", "Merrionette Park"], "postal_code": "60803", "lat": 41.675861, "lng": -87.73189, "type": "STANDARD", "counties": []});

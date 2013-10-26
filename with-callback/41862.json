@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.357624, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dry Creek", "lng": -82.79564, "zip_code": "41862"});
+zipapicallback({"locality": "Topmost", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dry Creek", "Topmost"], "postal_code": "41862", "lat": 37.357624, "lng": -82.79564, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.641205, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Valley Park", "lng": -90.82835, "zip_code": "39177"});
+zipapicallback({"locality": "Valley Park", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Valley Park"], "postal_code": "39177", "lat": 32.641205, "lng": -90.82835, "type": "POBOX", "counties": [{"fips": "055", "name": "Issaquena"}]});

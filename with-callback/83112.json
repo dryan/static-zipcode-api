@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.877387, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Bedford", "lng": -110.92859, "zip_code": "83112"});
+zipapicallback({"locality": "Bedford", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Bedford"], "postal_code": "83112", "lat": 42.877387, "lng": -110.92859, "type": "STANDARD", "counties": [{"fips": "023", "name": "Lincoln"}]});

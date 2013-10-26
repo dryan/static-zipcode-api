@@ -1,1 +1,1 @@
-{"lat": 43.96929, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "New Plymouth", "lng": -116.81389, "zip_code": "83655"}
+{"locality": "New Plymouth", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["New Plymouth"], "postal_code": "83655", "lat": 43.96929, "lng": -116.81389, "type": "STANDARD", "counties": [{"fips": "075", "name": "Payette"}]}

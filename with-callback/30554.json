@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.391688, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lula", "lng": -83.65979, "zip_code": "30554"});
+zipapicallback({"locality": "Lula", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lula"], "postal_code": "30554", "lat": 34.391688, "lng": -83.65979, "type": "STANDARD", "counties": [{"fips": "139", "name": "Hall"}, {"fips": "011", "name": "Banks"}, {"fips": "311", "name": "White"}]});

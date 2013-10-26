@@ -1,1 +1,1 @@
-{"lat": 36.182334, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gordonsville", "lng": -85.9832, "zip_code": "38563"}
+{"locality": "Gordonsville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gordonsville"], "postal_code": "38563", "lat": 36.182334, "lng": -85.9832, "type": "STANDARD", "counties": [{"fips": "159", "name": "Smith"}]}

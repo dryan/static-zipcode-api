@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.90813, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Grayling", "lng": -160.06675, "zip_code": "99590"});
+zipapicallback({"locality": "Grayling", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Grayling"], "postal_code": "99590", "lat": 62.90813, "lng": -160.06675, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

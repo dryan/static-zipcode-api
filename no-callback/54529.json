@@ -1,1 +1,1 @@
-{"lat": 45.707456, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Harshaw", "lng": -89.68877, "zip_code": "54529"}
+{"locality": "Harshaw", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Harshaw"], "postal_code": "54529", "lat": 45.707456, "lng": -89.68877, "type": "STANDARD", "counties": [{"fips": "085", "name": "Oneida"}]}

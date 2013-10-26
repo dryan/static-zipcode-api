@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.650216, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Avon", "lng": -112.59075, "zip_code": "59713"});
+zipapicallback({"locality": "Avon", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Avon"], "postal_code": "59713", "lat": 46.650216, "lng": -112.59075, "type": "POBOX", "counties": [{"fips": "077", "name": "Powell"}]});

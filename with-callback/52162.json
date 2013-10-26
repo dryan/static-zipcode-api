@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.104035, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Postville", "lng": -91.5526, "zip_code": "52162"});
+zipapicallback({"locality": "Postville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Postville"], "postal_code": "52162", "lat": 43.104035, "lng": -91.5526, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allamakee"}]});

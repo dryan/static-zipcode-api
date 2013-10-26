@@ -1,1 +1,1 @@
-{"lat": 40.888408, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Canton", "lng": -81.41066, "zip_code": "44720"}
+{"locality": "North Canton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canton", "North Canton"], "postal_code": "44720", "lat": 40.888408, "lng": -81.41066, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "153", "name": "Summit"}]}

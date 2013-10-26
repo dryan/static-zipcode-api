@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.094773, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Lewiston", "lng": -70.19141, "zip_code": "04240"});
+zipapicallback({"locality": "Lewiston", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Lewiston"], "postal_code": "04240", "lat": 44.094773, "lng": -70.19141, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]});

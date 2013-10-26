@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.687522, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Kramer", "lng": -100.6606, "zip_code": "58748"});
+zipapicallback({"locality": "Kramer", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Kramer"], "postal_code": "58748", "lat": 48.687522, "lng": -100.6606, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bottineau"}, {"fips": "049", "name": "McHenry"}]});

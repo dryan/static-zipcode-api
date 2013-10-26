@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.043454, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Geneva", "lng": -85.87941, "zip_code": "36340"});
+zipapicallback({"locality": "Geneva", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Geneva"], "postal_code": "36340", "lat": 31.043454, "lng": -85.87941, "type": "STANDARD", "counties": [{"fips": "061", "name": "Geneva"}]});

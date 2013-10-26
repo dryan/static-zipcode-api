@@ -1,1 +1,1 @@
-{"lat": 40.094785, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Jamestown", "lng": -105.39844, "zip_code": "80455"}
+{"locality": "Jamestown", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Jamestown"], "postal_code": "80455", "lat": 40.094785, "lng": -105.39844, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}, {"fips": "013", "name": "Boulder"}]}

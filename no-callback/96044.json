@@ -1,1 +1,1 @@
-{"lat": 41.925752, "region": {"abbr": "CA", "name": "California"}, "locality": "Hornbrook", "lng": -122.52253, "zip_code": "96044"}
+{"locality": "Hornbrook", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hornbrook"], "postal_code": "96044", "lat": 41.925752, "lng": -122.52253, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]}

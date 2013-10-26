@@ -1,1 +1,1 @@
-{"lat": 40.023871, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hardy", "lng": -97.9101, "zip_code": "68943"}
+{"locality": "Hardy", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hardy"], "postal_code": "68943", "lat": 40.023871, "lng": -97.9101, "type": "STANDARD", "counties": [{"fips": "129", "name": "Nuckolls"}, {"fips": "169", "name": "Thayer"}]}

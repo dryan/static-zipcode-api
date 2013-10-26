@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.436062, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Brighton", "lng": -93.34884, "zip_code": "65617"});
+zipapicallback({"locality": "Brighton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brighton"], "postal_code": "65617", "lat": 37.436062, "lng": -93.34884, "type": "STANDARD", "counties": [{"fips": "167", "name": "Polk"}, {"fips": "077", "name": "Greene"}]});

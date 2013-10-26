@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.824457, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dawson", "lng": -89.45643, "zip_code": "62520"});
+zipapicallback({"locality": "Dawson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dawson"], "postal_code": "62520", "lat": 39.824457, "lng": -89.45643, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]});

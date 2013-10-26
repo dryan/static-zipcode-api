@@ -1,1 +1,1 @@
-{"lat": 33.606148, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Walthall", "lng": -89.27527, "zip_code": "39771"}
+{"locality": "Walthall", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Walthall"], "postal_code": "39771", "lat": 33.606148, "lng": -89.27527, "type": "STANDARD", "counties": [{"fips": "155", "name": "Webster"}]}

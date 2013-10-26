@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.108735, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Rockland", "lng": -69.11366, "zip_code": "04841"});
+zipapicallback({"locality": "Rockland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Rockland"], "postal_code": "04841", "lat": 44.108735, "lng": -69.11366, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]});

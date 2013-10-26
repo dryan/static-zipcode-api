@@ -1,1 +1,1 @@
-{"lat": 30.132693, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Chappell Hill", "lng": -96.25388, "zip_code": "77426"}
+{"locality": "Chappell Hill", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Chappell Hill"], "postal_code": "77426", "lat": 30.132693, "lng": -96.25388, "type": "STANDARD", "counties": [{"fips": "477", "name": "Washington"}, {"fips": "015", "name": "Austin"}]}

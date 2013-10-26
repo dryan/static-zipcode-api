@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.368433, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Premont", "lng": -98.12184, "zip_code": "78375"});
+zipapicallback({"locality": "Premont", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Premont"], "postal_code": "78375", "lat": 27.368433, "lng": -98.12184, "type": "STANDARD", "counties": [{"fips": "249", "name": "Jim Wells"}, {"fips": "131", "name": "Duval"}]});

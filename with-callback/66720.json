@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.666078, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Chanute", "lng": -95.45681, "zip_code": "66720"});
+zipapicallback({"locality": "Chanute", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Chanute", "Petrolia"], "postal_code": "66720", "lat": 37.666078, "lng": -95.45681, "type": "STANDARD", "counties": [{"fips": "133", "name": "Neosho"}, {"fips": "001", "name": "Allen"}, {"fips": "207", "name": "Woodson"}, {"fips": "205", "name": "Wilson"}]});

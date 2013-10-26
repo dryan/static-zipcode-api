@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.057372, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sunray", "lng": -101.76599, "zip_code": "79086"});
+zipapicallback({"locality": "Sunray", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sunray"], "postal_code": "79086", "lat": 36.057372, "lng": -101.76599, "type": "STANDARD", "counties": [{"fips": "341", "name": "Moore"}, {"fips": "421", "name": "Sherman"}]});

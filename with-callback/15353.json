@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.961767, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nineveh", "lng": -80.3069, "zip_code": "15353"});
+zipapicallback({"locality": "Nineveh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Nineveh"], "postal_code": "15353", "lat": 39.961767, "lng": -80.3069, "type": "POBOX", "counties": [{"fips": "059", "name": "Greene"}]});

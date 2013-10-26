@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.169106, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harborcreek", "lng": -79.9409, "zip_code": "16421"});
+zipapicallback({"locality": "Harborcreek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harborcreek"], "postal_code": "16421", "lat": 42.169106, "lng": -79.9409, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.606543, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "E View", "lng": -86.10413, "zip_code": "42732"});
+zipapicallback({"locality": "Eastview", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Eastview", "Meeting Creek", "Summit"], "postal_code": "42732", "lat": 37.606543, "lng": -86.10413, "type": "STANDARD", "counties": [{"fips": "093", "name": "Hardin"}]});

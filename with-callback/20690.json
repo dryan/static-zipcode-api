@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.165432, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Tall Timbers", "lng": -76.53284, "zip_code": "20690"});
+zipapicallback({"locality": "Tall Timbers", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Tall Timbers"], "postal_code": "20690", "lat": 38.165432, "lng": -76.53284, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

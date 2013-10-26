@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.779131, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Yale", "lng": -94.35418, "zip_code": "50277"});
+zipapicallback({"locality": "Yale", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Yale"], "postal_code": "50277", "lat": 41.779131, "lng": -94.35418, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}, {"fips": "049", "name": "Dallas"}]});

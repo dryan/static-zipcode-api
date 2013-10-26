@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.042083, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rocky Ford", "lng": -103.72231, "zip_code": "81067"});
+zipapicallback({"locality": "Rocky Ford", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rocky Ford"], "postal_code": "81067", "lat": 38.042083, "lng": -103.72231, "type": "STANDARD", "counties": [{"fips": "089", "name": "Otero"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.300674, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Georgetown", "lng": -85.96698, "zip_code": "47122"});
+zipapicallback({"locality": "Georgetown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Georgetown"], "postal_code": "47122", "lat": 38.300674, "lng": -85.96698, "type": "STANDARD", "counties": [{"fips": "043", "name": "Floyd"}, {"fips": "061", "name": "Harrison"}]});

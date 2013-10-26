@@ -1,1 +1,1 @@
-{"lat": 42.705345, "region": {"abbr": "NY", "name": "New York"}, "locality": "Loudonville", "lng": -73.76924, "zip_code": "12211"}
+{"locality": "Albany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Albany", "Loudonville", "Siena"], "postal_code": "12211", "lat": 42.705345, "lng": -73.76924, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

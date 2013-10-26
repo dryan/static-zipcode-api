@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.894625, "region": {"abbr": "CA", "name": "California"}, "locality": "Kensington", "lng": -122.26372, "zip_code": "94708"});
+zipapicallback({"locality": "Berkeley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Berkeley", "Kensington"], "postal_code": "94708", "lat": 37.894625, "lng": -122.26372, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

@@ -1,1 +1,1 @@
-{"lat": 29.694257, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Luling", "lng": -97.6533, "zip_code": "78648"}
+{"locality": "Luling", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Luling"], "postal_code": "78648", "lat": 29.694257, "lng": -97.6533, "type": "STANDARD", "counties": [{"fips": "055", "name": "Caldwell"}]}

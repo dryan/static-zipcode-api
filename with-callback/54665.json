@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.543934, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Viroqua", "lng": -90.89904, "zip_code": "54665"});
+zipapicallback({"locality": "Viroqua", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Viroqua"], "postal_code": "54665", "lat": 43.543934, "lng": -90.89904, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}, {"fips": "023", "name": "Crawford"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.455819, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Frontenac", "lng": -94.69088, "zip_code": "66763"}
+{"locality": "Frontenac", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Frontenac", "Pittsburg"], "postal_code": "66763", "lat": 37.455819, "lng": -94.69088, "type": "STANDARD", "counties": []}

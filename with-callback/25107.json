@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.211477, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hernshaw", "lng": -81.60468, "zip_code": "25107"});
+zipapicallback({"locality": "Hernshaw", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hernshaw"], "postal_code": "25107", "lat": 38.211477, "lng": -81.60468, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.120155, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wellington", "lng": -93.96495, "zip_code": "64097"}
+{"locality": "Wellington", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wellington"], "postal_code": "64097", "lat": 39.120155, "lng": -93.96495, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lafayette"}]}

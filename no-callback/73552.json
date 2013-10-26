@@ -1,1 +1,1 @@
-{"lat": 34.62256, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Indiahoma", "lng": -98.75386, "zip_code": "73552"}
+{"locality": "Indiahoma", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Indiahoma"], "postal_code": "73552", "lat": 34.62256, "lng": -98.75386, "type": "STANDARD", "counties": [{"fips": "031", "name": "Comanche"}, {"fips": "075", "name": "Kiowa"}, {"fips": "141", "name": "Tillman"}]}

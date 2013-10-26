@@ -1,1 +1,1 @@
-{"lat": 39.560357, "region": {"abbr": "CA", "name": "California"}, "locality": "Sierraville", "lng": -120.35662, "zip_code": "96126"}
+{"locality": "Sierraville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sierraville"], "postal_code": "96126", "lat": 39.560357, "lng": -120.35662, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sierra"}]}

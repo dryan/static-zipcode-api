@@ -1,1 +1,1 @@
-{"lat": 38.778243, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Springfield", "lng": -77.18562, "zip_code": "22150"}
+{"locality": "Springfield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Springfield"], "postal_code": "22150", "lat": 38.778243, "lng": -77.18562, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

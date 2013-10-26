@@ -1,1 +1,1 @@
-{"lat": 38.857567, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Alexander", "lng": -80.27872, "zip_code": "26218"}
+{"locality": "French Creek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Alexander", "French Creek"], "postal_code": "26218", "lat": 38.857567, "lng": -80.27872, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}]}

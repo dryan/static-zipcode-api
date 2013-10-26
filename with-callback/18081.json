@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.556976, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Springtown", "lng": -75.28817, "zip_code": "18081"});
+zipapicallback({"locality": "Springtown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Springtown"], "postal_code": "18081", "lat": 40.556976, "lng": -75.28817, "type": "POBOX", "counties": [{"fips": "017", "name": "Bucks"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.401151, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Orlando", "lng": -81.52488, "zip_code": "32836"});
+zipapicallback({"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Golden Oak", "Orlando"], "postal_code": "32836", "lat": 28.401151, "lng": -81.52488, "type": "STANDARD", "counties": []});

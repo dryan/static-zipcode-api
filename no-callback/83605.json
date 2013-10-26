@@ -1,1 +1,1 @@
-{"lat": 43.658834, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Caldwell", "lng": -116.67755, "zip_code": "83605"}
+{"locality": "Caldwell", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Caldwell"], "postal_code": "83605", "lat": 43.658834, "lng": -116.67755, "type": "STANDARD", "counties": [{"fips": "027", "name": "Canyon"}, {"fips": "075", "name": "Payette"}, {"fips": "045", "name": "Gem"}]}

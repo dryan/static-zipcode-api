@@ -1,1 +1,1 @@
-{"lat": 47.463172, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Savage", "lng": -104.36846, "zip_code": "59262"}
+{"locality": "Savage", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Savage"], "postal_code": "59262", "lat": 47.463172, "lng": -104.36846, "type": "STANDARD", "counties": [{"fips": "083", "name": "Richland"}]}

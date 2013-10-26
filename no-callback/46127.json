@@ -1,1 +1,1 @@
-{"lat": 39.717457, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Falmouth", "lng": -85.32737, "zip_code": "46127"}
+{"locality": "Falmouth", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Falmouth"], "postal_code": "46127", "lat": 39.717457, "lng": -85.32737, "type": "STANDARD", "counties": [{"fips": "139", "name": "Rush"}, {"fips": "041", "name": "Fayette"}]}

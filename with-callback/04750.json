@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.936616, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Limestone", "lng": -67.86471, "zip_code": "04750"});
+zipapicallback({"locality": "Limestone", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Caswell", "Limestone", "Loring Cm Ctr"], "postal_code": "04750", "lat": 46.936616, "lng": -67.86471, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

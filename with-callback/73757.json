@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.267701, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lucien", "lng": -97.45245, "zip_code": "73757"});
+zipapicallback({"locality": "Lucien", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lucien"], "postal_code": "73757", "lat": 36.267701, "lng": -97.45245, "type": "STANDARD", "counties": [{"fips": "103", "name": "Noble"}, {"fips": "047", "name": "Garfield"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.554735, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mulberry", "lng": -94.63283, "zip_code": "66756"}
+{"locality": "Mulberry", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mulberry"], "postal_code": "66756", "lat": 37.554735, "lng": -94.63283, "type": "STANDARD", "counties": [{"fips": "037", "name": "Crawford"}]}

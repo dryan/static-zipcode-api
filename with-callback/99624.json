@@ -1,1 +1,1 @@
-zipapicallback({"lat": 57.529161, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Larsen Bay", "lng": -154.00286, "zip_code": "99624"});
+zipapicallback({"locality": "Larsen Bay", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Larsen Bay"], "postal_code": "99624", "lat": 57.529161, "lng": -154.00286, "type": "POBOX", "counties": [{"fips": "150", "name": "Kodiak Island"}]});

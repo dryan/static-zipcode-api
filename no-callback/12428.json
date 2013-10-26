@@ -1,1 +1,1 @@
-{"lat": 41.727588, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ellenville", "lng": -74.42061, "zip_code": "12428"}
+{"locality": "Ellenville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ellenville"], "postal_code": "12428", "lat": 41.727588, "lng": -74.42061, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

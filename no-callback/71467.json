@@ -1,1 +1,1 @@
-{"lat": 31.529155, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Pollock", "lng": -92.39418, "zip_code": "71467"}
+{"locality": "Pollock", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Pollock"], "postal_code": "71467", "lat": 31.529155, "lng": -92.39418, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "079", "name": "Rapides"}]}

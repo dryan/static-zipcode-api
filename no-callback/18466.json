@@ -1,1 +1,1 @@
-{"lat": 41.19012, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Tobyhanna", "lng": -75.36779, "zip_code": "18466"}
+{"locality": "Tobyhanna", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coolbaugh Township", "Coolbaugh Twp", "Tobyhanna"], "postal_code": "18466", "lat": 41.19012, "lng": -75.36779, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}, {"fips": "103", "name": "Pike"}, {"fips": "127", "name": "Wayne"}]}

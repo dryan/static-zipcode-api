@@ -1,1 +1,1 @@
-{"lat": 39.29596, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hardin", "lng": -93.82164, "zip_code": "64035"}
+{"locality": "Hardin", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hardin"], "postal_code": "64035", "lat": 39.29596, "lng": -93.82164, "type": "STANDARD", "counties": [{"fips": "177", "name": "Ray"}, {"fips": "033", "name": "Carroll"}]}

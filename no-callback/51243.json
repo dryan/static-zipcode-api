@@ -1,1 +1,1 @@
-{"lat": 43.443704, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Little Rock", "lng": -95.88832, "zip_code": "51243"}
+{"locality": "Little Rock", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Little Rock"], "postal_code": "51243", "lat": 43.443704, "lng": -95.88832, "type": "STANDARD", "counties": [{"fips": "119", "name": "Lyon"}]}

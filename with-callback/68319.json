@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.910954, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bradshaw", "lng": -97.76081, "zip_code": "68319"});
+zipapicallback({"locality": "Bradshaw", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bradshaw"], "postal_code": "68319", "lat": 40.910954, "lng": -97.76081, "type": "STANDARD", "counties": [{"fips": "185", "name": "York"}, {"fips": "081", "name": "Hamilton"}]});

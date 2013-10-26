@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.531614, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Green Camp", "lng": -83.20937, "zip_code": "43322"});
+zipapicallback({"locality": "Green Camp", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Green Camp"], "postal_code": "43322", "lat": 40.531614, "lng": -83.20937, "type": "POBOX", "counties": [{"fips": "101", "name": "Marion"}]});

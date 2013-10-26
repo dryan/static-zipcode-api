@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.982891, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Waverly", "lng": -81.61743, "zip_code": "33877"});
+zipapicallback({"locality": "Waverly", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Waverly"], "postal_code": "33877", "lat": 27.982891, "lng": -81.61743, "type": "POBOX", "counties": [{"fips": "105", "name": "Polk"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.969722, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Scotland", "lng": -77.58878, "zip_code": "17254"}
+{"locality": "Scotland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Scotland"], "postal_code": "17254", "lat": 39.969722, "lng": -77.58878, "type": "POBOX", "counties": [{"fips": "055", "name": "Franklin"}]}

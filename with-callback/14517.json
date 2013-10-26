@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.589984, "region": {"abbr": "NY", "name": "New York"}, "locality": "Nunda", "lng": -77.9075, "zip_code": "14517"});
+zipapicallback({"locality": "Nunda", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Nunda"], "postal_code": "14517", "lat": 42.589984, "lng": -77.9075, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]});

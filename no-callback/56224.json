@@ -1,1 +1,1 @@
-{"lat": 44.375214, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clements", "lng": -95.06695, "zip_code": "56224"}
+{"locality": "Clements", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clements"], "postal_code": "56224", "lat": 44.375214, "lng": -95.06695, "type": "STANDARD", "counties": [{"fips": "127", "name": "Redwood"}]}

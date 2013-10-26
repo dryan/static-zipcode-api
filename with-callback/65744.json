@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.614975, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rueter", "lng": -92.89513, "zip_code": "65744"});
+zipapicallback({"locality": "Rueter", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rueter"], "postal_code": "65744", "lat": 36.614975, "lng": -92.89513, "type": "STANDARD", "counties": [{"fips": "213", "name": "Taney"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.446467, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Jackson Center", "lng": -84.04389, "zip_code": "45334"}
+{"locality": "Jackson Center", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Jackson Center", "Jackson Ctr"], "postal_code": "45334", "lat": 40.446467, "lng": -84.04389, "type": "STANDARD", "counties": [{"fips": "149", "name": "Shelby"}, {"fips": "091", "name": "Logan"}, {"fips": "011", "name": "Auglaize"}]}

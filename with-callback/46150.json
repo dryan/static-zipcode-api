@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.563815, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Manilla", "lng": -85.61239, "zip_code": "46150"});
+zipapicallback({"locality": "Manilla", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Manilla"], "postal_code": "46150", "lat": 39.563815, "lng": -85.61239, "type": "STANDARD", "counties": [{"fips": "139", "name": "Rush"}, {"fips": "145", "name": "Shelby"}]});

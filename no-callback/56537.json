@@ -1,1 +1,1 @@
-{"lat": 46.282084, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Carlisle", "lng": -96.06798, "zip_code": "56537"}
+{"locality": "Fergus Falls", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Carlisle", "Fergus Falls"], "postal_code": "56537", "lat": 46.282084, "lng": -96.06798, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]}

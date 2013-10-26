@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.113371, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Palmer Lake", "lng": -104.90493, "zip_code": "80133"});
+zipapicallback({"locality": "Palmer Lake", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Palmer Lake"], "postal_code": "80133", "lat": 39.113371, "lng": -104.90493, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}, {"fips": "035", "name": "Douglas"}]});

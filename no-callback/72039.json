@@ -1,1 +1,1 @@
-{"lat": 35.339128, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Twin Groves", "lng": -92.4036, "zip_code": "72039"}
+{"locality": "Damascus", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Damascus", "Twin Groves"], "postal_code": "72039", "lat": 35.339128, "lng": -92.4036, "type": "STANDARD", "counties": [{"fips": "045", "name": "Faulkner"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.816737, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Fairview", "lng": -74.00082, "zip_code": "07022"});
+zipapicallback({"locality": "Fairview", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fairview"], "postal_code": "07022", "lat": 40.816737, "lng": -74.00082, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

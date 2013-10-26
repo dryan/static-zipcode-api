@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.535917, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Center Moreland", "lng": -75.95006, "zip_code": "18657"});
+zipapicallback({"locality": "Tunkhannock", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Forkston Township", "Forkston Twp", "Mehoopany Twp", "Monroe Township", "Monroe Twp", "Tunkhannock"], "postal_code": "18657", "lat": 41.535917, "lng": -75.95006, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wyoming"}]});

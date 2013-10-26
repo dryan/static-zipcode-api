@@ -1,1 +1,1 @@
-{"lat": 40.017182, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shanksville", "lng": -78.90589, "zip_code": "15560"}
+{"locality": "Shanksville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shanksville"], "postal_code": "15560", "lat": 40.017182, "lng": -78.90589, "type": "POBOX", "counties": [{"fips": "111", "name": "Somerset"}]}

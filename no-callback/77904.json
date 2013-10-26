@@ -1,1 +1,1 @@
-{"lat": 28.873664, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Victoria", "lng": -97.00715, "zip_code": "77904"}
+{"locality": "Victoria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Victoria"], "postal_code": "77904", "lat": 28.873664, "lng": -97.00715, "type": "STANDARD", "counties": [{"fips": "469", "name": "Victoria"}]}

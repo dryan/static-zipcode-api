@@ -1,1 +1,1 @@
-{"lat": 33.437428, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lovejoy", "lng": -84.31519, "zip_code": "30250"}
+{"locality": "Lovejoy", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lovejoy"], "postal_code": "30250", "lat": 33.437428, "lng": -84.31519, "type": "POBOX", "counties": [{"fips": "063", "name": "Clayton"}]}

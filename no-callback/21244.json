@@ -1,1 +1,1 @@
-{"lat": 39.338156, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Windsor Mill", "lng": -76.76438, "zip_code": "21244"}
+{"locality": "Windsor Mill", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Windsor Mill"], "postal_code": "21244", "lat": 39.338156, "lng": -76.76438, "type": "STANDARD", "counties": []}

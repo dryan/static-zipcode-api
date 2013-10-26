@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.940301, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hibernia", "lng": -74.49617, "zip_code": "07842"});
+zipapicallback({"locality": "Hibernia", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hibernia"], "postal_code": "07842", "lat": 40.940301, "lng": -74.49617, "type": "POBOX", "counties": [{"fips": "027", "name": "Morris"}]});

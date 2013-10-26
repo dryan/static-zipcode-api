@@ -1,1 +1,1 @@
-{"lat": 39.720751, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ashville", "lng": -82.94842, "zip_code": "43103"}
+{"locality": "Ashville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Ashville", "S Bloomfield", "South Bloomfield"], "postal_code": "43103", "lat": 39.720751, "lng": -82.94842, "type": "STANDARD", "counties": [{"fips": "129", "name": "Pickaway"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.151543, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Elsberry", "lng": -90.8136, "zip_code": "63343"}
+{"locality": "Elsberry", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Elsberry"], "postal_code": "63343", "lat": 39.151543, "lng": -90.8136, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}]}

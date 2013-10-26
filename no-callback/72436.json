@@ -1,1 +1,1 @@
-{"lat": 36.205251, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lafe", "lng": -90.49913, "zip_code": "72436"}
+{"locality": "Lafe", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Lafe", "Marmaduke"], "postal_code": "72436", "lat": 36.205251, "lng": -90.49913, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]}

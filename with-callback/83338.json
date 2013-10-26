@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.710124, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Jerome", "lng": -114.46394, "zip_code": "83338"});
+zipapicallback({"locality": "Jerome", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Jerome"], "postal_code": "83338", "lat": 42.710124, "lng": -114.46394, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jerome"}, {"fips": "047", "name": "Gooding"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.53158, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Atwood", "lng": -103.26151, "zip_code": "80722"});
+zipapicallback({"locality": "Atwood", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Atwood"], "postal_code": "80722", "lat": 40.53158, "lng": -103.26151, "type": "STANDARD", "counties": [{"fips": "075", "name": "Logan"}]});

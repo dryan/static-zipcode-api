@@ -1,1 +1,1 @@
-{"lat": 29.036879, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lake Jackson", "lng": -95.44103, "zip_code": "77566"}
+{"locality": "Lake Jackson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lake Jackson", "Richwood"], "postal_code": "77566", "lat": 29.036879, "lng": -95.44103, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]}

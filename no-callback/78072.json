@@ -1,1 +1,1 @@
-{"lat": 28.314027, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tilden", "lng": -98.49899, "zip_code": "78072"}
+{"locality": "Tilden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tilden"], "postal_code": "78072", "lat": 28.314027, "lng": -98.49899, "type": "STANDARD", "counties": [{"fips": "311", "name": "McMullen"}]}

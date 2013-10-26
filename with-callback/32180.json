@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.231366, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pierson", "lng": -81.45095, "zip_code": "32180"});
+zipapicallback({"locality": "Pierson", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pierson"], "postal_code": "32180", "lat": 29.231366, "lng": -81.45095, "type": "STANDARD", "counties": []});

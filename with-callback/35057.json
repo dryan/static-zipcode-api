@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.139198, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cullman", "lng": -86.92449, "zip_code": "35057"});
+zipapicallback({"locality": "Cullman", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Cullman", "Good Hope"], "postal_code": "35057", "lat": 34.139198, "lng": -86.92449, "type": "STANDARD", "counties": []});

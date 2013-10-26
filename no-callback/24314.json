@@ -1,1 +1,1 @@
-{"lat": 37.183901, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bastian", "lng": -81.17641, "zip_code": "24314"}
+{"locality": "Bastian", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bastian"], "postal_code": "24314", "lat": 37.183901, "lng": -81.17641, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bland"}, {"fips": "185", "name": "Tazewell"}]}

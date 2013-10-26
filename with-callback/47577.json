@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.160168, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Saint Meinrad", "lng": -86.80978, "zip_code": "47577"});
+zipapicallback({"locality": "Saint Meinrad", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Saint Meinrad"], "postal_code": "47577", "lat": 38.160168, "lng": -86.80978, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}, {"fips": "123", "name": "Perry"}]});

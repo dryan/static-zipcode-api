@@ -1,1 +1,1 @@
-{"lat": 20.906999, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Paia", "lng": -156.38202, "zip_code": "96779"}
+{"locality": "Paia", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Paia"], "postal_code": "96779", "lat": 20.906999, "lng": -156.38202, "type": "STANDARD", "counties": [{"fips": "009", "name": "Maui"}]}

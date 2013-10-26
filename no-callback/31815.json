@@ -1,1 +1,1 @@
-{"lat": 32.030297, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lumpkin", "lng": -84.81218, "zip_code": "31815"}
+{"locality": "Lumpkin", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lumpkin"], "postal_code": "31815", "lat": 32.030297, "lng": -84.81218, "type": "STANDARD", "counties": [{"fips": "259", "name": "Stewart"}, {"fips": "243", "name": "Randolph"}]}

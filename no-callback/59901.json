@@ -1,1 +1,1 @@
-{"lat": 48.201414, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Evergreen", "lng": -114.32202, "zip_code": "59901"}
+{"locality": "Kalispell", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Creston", "Evergreen", "Kalispell"], "postal_code": "59901", "lat": 48.201414, "lng": -114.32202, "type": "STANDARD", "counties": [{"fips": "029", "name": "Flathead"}]}

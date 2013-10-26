@@ -1,1 +1,1 @@
-{"lat": 36.421387, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Weldon", "lng": -77.60825, "zip_code": "27890"}
+{"locality": "Weldon", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Weldon"], "postal_code": "27890", "lat": 36.421387, "lng": -77.60825, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]}

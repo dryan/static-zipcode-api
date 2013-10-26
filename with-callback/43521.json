@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.66143, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fayette", "lng": -84.29732, "zip_code": "43521"});
+zipapicallback({"locality": "Fayette", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fayette"], "postal_code": "43521", "lat": 41.66143, "lng": -84.29732, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fulton"}]});

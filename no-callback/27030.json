@@ -1,1 +1,1 @@
-{"lat": 36.49376, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mount Airy", "lng": -80.62336, "zip_code": "27030"}
+{"locality": "Mount Airy", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mount Airy"], "postal_code": "27030", "lat": 36.49376, "lng": -80.62336, "type": "STANDARD", "counties": [{"fips": "171", "name": "Surry"}, {"fips": "169", "name": "Stokes"}]}

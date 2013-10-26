@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.731301, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Tuckerman", "lng": -91.20318, "zip_code": "72473"});
+zipapicallback({"locality": "Tuckerman", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Tuckerman"], "postal_code": "72473", "lat": 35.731301, "lng": -91.20318, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jackson"}]});

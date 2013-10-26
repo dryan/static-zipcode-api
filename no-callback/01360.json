@@ -1,1 +1,1 @@
-{"lat": 42.682285, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Northfield", "lng": -72.45649, "zip_code": "01360"}
+{"locality": "Northfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Northfield"], "postal_code": "01360", "lat": 42.682285, "lng": -72.45649, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]}

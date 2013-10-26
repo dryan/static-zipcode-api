@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.905877, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Wyoming", "lng": -85.70392, "zip_code": "49509"});
+zipapicallback({"locality": "Wyoming", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Rapids", "Wyoming"], "postal_code": "49509", "lat": 42.905877, "lng": -85.70392, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]});

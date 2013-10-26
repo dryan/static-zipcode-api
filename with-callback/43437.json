@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.252306, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Jerry City", "lng": -83.60464, "zip_code": "43437"});
+zipapicallback({"locality": "Jerry City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Jerry City"], "postal_code": "43437", "lat": 41.252306, "lng": -83.60464, "type": "POBOX", "counties": [{"fips": "173", "name": "Wood"}]});

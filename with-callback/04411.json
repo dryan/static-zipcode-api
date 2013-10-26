@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.911733, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bradley", "lng": -68.621, "zip_code": "04411"});
+zipapicallback({"locality": "Bradley", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bradley"], "postal_code": "04411", "lat": 44.911733, "lng": -68.621, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

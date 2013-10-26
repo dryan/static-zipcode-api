@@ -1,1 +1,1 @@
-{"lat": 27.365549, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sarasota", "lng": -82.48659, "zip_code": "34235"}
+{"locality": "Sarasota", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Sarasota"], "postal_code": "34235", "lat": 27.365549, "lng": -82.48659, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}]}

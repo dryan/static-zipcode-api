@@ -1,1 +1,1 @@
-{"lat": 45.720228, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Echo", "lng": -119.22894, "zip_code": "97826"}
+{"locality": "Echo", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Echo"], "postal_code": "97826", "lat": 45.720228, "lng": -119.22894, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]}

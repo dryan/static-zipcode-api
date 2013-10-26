@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.474746, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Warrensville", "lng": -81.5371, "zip_code": "28693"});
+zipapicallback({"locality": "Warrensville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Warrensville"], "postal_code": "28693", "lat": 36.474746, "lng": -81.5371, "type": "STANDARD", "counties": [{"fips": "009", "name": "Ashe"}]});

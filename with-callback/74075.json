@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.149394, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Stillwater", "lng": -97.05784, "zip_code": "74075"});
+zipapicallback({"locality": "Stillwater", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Stillwater"], "postal_code": "74075", "lat": 36.149394, "lng": -97.05784, "type": "STANDARD", "counties": [{"fips": "119", "name": "Payne"}]});

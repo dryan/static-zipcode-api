@@ -1,1 +1,1 @@
-zipapicallback({"lat": 66.075713, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Deering", "lng": -162.71822, "zip_code": "99736"});
+zipapicallback({"locality": "Deering", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Deering"], "postal_code": "99736", "lat": 66.075713, "lng": -162.71822, "type": "POBOX", "counties": [{"fips": "188", "name": "Northwest Arctic"}, {"fips": "140", "name": "Kobuk"}]});

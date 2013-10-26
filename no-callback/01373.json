@@ -1,1 +1,1 @@
-{"lat": 42.472734, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Deerfield", "lng": -72.62452, "zip_code": "01373"}
+{"locality": "South Deerfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["S Deerfield", "South Deerfield"], "postal_code": "01373", "lat": 42.472734, "lng": -72.62452, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]}

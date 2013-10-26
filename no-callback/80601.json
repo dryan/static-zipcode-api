@@ -1,1 +1,1 @@
-{"lat": 39.973251, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lochbui", "lng": -104.82407, "zip_code": "80601"}
+{"locality": "Brighton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Brighton"], "postal_code": "80601", "lat": 39.973251, "lng": -104.82407, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "123", "name": "Weld"}]}

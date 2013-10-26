@@ -1,1 +1,1 @@
-{"lat": 41.472352, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cleveland", "lng": -81.58211, "zip_code": "44120"}
+{"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Shaker Heights", "Shaker Hts"], "postal_code": "44120", "lat": 41.472352, "lng": -81.58211, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]}

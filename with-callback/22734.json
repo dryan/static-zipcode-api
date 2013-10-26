@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.52916, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Remington", "lng": -77.80274, "zip_code": "22734"});
+zipapicallback({"locality": "Remington", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Remington"], "postal_code": "22734", "lat": 38.52916, "lng": -77.80274, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}, {"fips": "061", "name": "Fauquier"}]});

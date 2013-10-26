@@ -1,1 +1,1 @@
-{"lat": 46.738841, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Duluth", "lng": -92.16969, "zip_code": "55807"}
+{"locality": "Duluth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Duluth"], "postal_code": "55807", "lat": 46.738841, "lng": -92.16969, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "167", "name": "Wilkin"}]}

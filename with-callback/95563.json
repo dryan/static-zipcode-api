@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.89197, "region": {"abbr": "CA", "name": "California"}, "locality": "Salyer", "lng": -123.56149, "zip_code": "95563"});
+zipapicallback({"locality": "Salyer", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Salyer"], "postal_code": "95563", "lat": 40.89197, "lng": -123.56149, "type": "POBOX", "counties": [{"fips": "105", "name": "Trinity"}]});

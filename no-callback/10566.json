@@ -1,1 +1,1 @@
-{"lat": 41.288258, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cortlandt Manor", "lng": -73.91928, "zip_code": "10566"}
+{"locality": "Peekskill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Peekskill"], "postal_code": "10566", "lat": 41.288258, "lng": -73.91928, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

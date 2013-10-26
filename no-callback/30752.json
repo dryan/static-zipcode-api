@@ -1,1 +1,1 @@
-{"lat": 34.895625, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Trenton", "lng": -85.52702, "zip_code": "30752"}
+{"locality": "Trenton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Trenton"], "postal_code": "30752", "lat": 34.895625, "lng": -85.52702, "type": "STANDARD", "counties": [{"fips": "083", "name": "Dade"}]}

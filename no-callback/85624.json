@@ -1,1 +1,1 @@
-{"lat": 31.504439, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Patagonia", "lng": -110.70794, "zip_code": "85624"}
+{"locality": "Patagonia", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Patagonia"], "postal_code": "85624", "lat": 31.504439, "lng": -110.70794, "type": "STANDARD", "counties": [{"fips": "023", "name": "Santa Cruz"}]}

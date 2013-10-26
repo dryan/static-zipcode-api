@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.842603, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Grasston", "lng": -93.11924, "zip_code": "55030"});
+zipapicallback({"locality": "Grasston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Grasston"], "postal_code": "55030", "lat": 45.842603, "lng": -93.11924, "type": "STANDARD", "counties": [{"fips": "065", "name": "Kanabec"}, {"fips": "115", "name": "Pine"}]});

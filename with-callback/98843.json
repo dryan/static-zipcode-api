@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.745842, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Orondo", "lng": -120.09326, "zip_code": "98843"});
+zipapicallback({"locality": "Orondo", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Orondo"], "postal_code": "98843", "lat": 47.745842, "lng": -120.09326, "type": "STANDARD", "counties": [{"fips": "017", "name": "Douglas"}]});

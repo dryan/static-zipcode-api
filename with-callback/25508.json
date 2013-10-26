@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.962522, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Chapmanville", "lng": -82.01954, "zip_code": "25508"});
+zipapicallback({"locality": "Chapmanville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Chapmanville", "Shively"], "postal_code": "25508", "lat": 37.962522, "lng": -82.01954, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}, {"fips": "005", "name": "Boone"}]});

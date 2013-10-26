@@ -1,1 +1,1 @@
-{"lat": 36.800027, "region": {"abbr": "CA", "name": "California"}, "locality": "Firebaugh", "lng": -120.57996, "zip_code": "93622"}
+{"locality": "Firebaugh", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Firebaugh"], "postal_code": "93622", "lat": 36.800027, "lng": -120.57996, "type": "STANDARD", "counties": [{"fips": "039", "name": "Madera"}, {"fips": "047", "name": "Merced"}, {"fips": "019", "name": "Fresno"}]}

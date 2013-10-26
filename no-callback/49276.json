@@ -1,1 +1,1 @@
-{"lat": 41.798043, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Riga", "lng": -83.79433, "zip_code": "49276"}
+{"locality": "Riga", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Riga"], "postal_code": "49276", "lat": 41.798043, "lng": -83.79433, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}, {"fips": "115", "name": "Monroe"}]}

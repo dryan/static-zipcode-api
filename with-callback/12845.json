@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.41928, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lake George", "lng": -73.70766, "zip_code": "12845"});
+zipapicallback({"locality": "Lake George", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lake George"], "postal_code": "12845", "lat": 43.41928, "lng": -73.70766, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}]});

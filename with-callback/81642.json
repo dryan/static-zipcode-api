@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.342438, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Meredith", "lng": -106.63444, "zip_code": "81642"});
+zipapicallback({"locality": "Meredith", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Meredith"], "postal_code": "81642", "lat": 39.342438, "lng": -106.63444, "type": "STANDARD", "counties": [{"fips": "097", "name": "Pitkin"}]});

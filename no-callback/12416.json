@@ -1,1 +1,1 @@
-{"lat": 42.105611, "region": {"abbr": "NY", "name": "New York"}, "locality": "Chichester", "lng": -74.29143, "zip_code": "12416"}
+{"locality": "Chichester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Chichester"], "postal_code": "12416", "lat": 42.105611, "lng": -74.29143, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]}

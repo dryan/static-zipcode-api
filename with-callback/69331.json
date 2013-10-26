@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.823881, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Angora", "lng": -102.96652, "zip_code": "69331"});
+zipapicallback({"locality": "Angora", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Angora"], "postal_code": "69331", "lat": 41.823881, "lng": -102.96652, "type": "STANDARD", "counties": [{"fips": "123", "name": "Morrill"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.106001, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ranger", "lng": -82.15143, "zip_code": "25557"}
+{"locality": "Ranger", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ranger"], "postal_code": "25557", "lat": 38.106001, "lng": -82.15143, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "099", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.988613, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Subtle", "lng": -85.58534, "zip_code": "42129"}
+{"locality": "Edmonton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Edmonton", "Subtle", "Sulphur Well"], "postal_code": "42129", "lat": 36.988613, "lng": -85.58534, "type": "STANDARD", "counties": [{"fips": "169", "name": "Metcalfe"}, {"fips": "057", "name": "Cumberland"}, {"fips": "001", "name": "Adair"}]}

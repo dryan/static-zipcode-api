@@ -1,1 +1,1 @@
-{"lat": 45.55375, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Laona", "lng": -88.6624, "zip_code": "54541"}
+{"locality": "Laona", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Laona"], "postal_code": "54541", "lat": 45.55375, "lng": -88.6624, "type": "STANDARD", "counties": [{"fips": "041", "name": "Forest"}]}

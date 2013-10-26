@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.456942, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Island", "lng": -87.17107, "zip_code": "42350"});
+zipapicallback({"locality": "Island", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Island"], "postal_code": "42350", "lat": 37.456942, "lng": -87.17107, "type": "STANDARD", "counties": [{"fips": "149", "name": "McLean"}]});

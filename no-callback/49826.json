@@ -1,1 +1,1 @@
-{"lat": 46.364395, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rumely", "lng": -86.99621, "zip_code": "49826"}
+{"locality": "Rumely", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Eben Junction", "Rumely"], "postal_code": "49826", "lat": 46.364395, "lng": -86.99621, "type": "POBOX", "counties": [{"fips": "003", "name": "Alger"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.833113, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Six Mile", "lng": -82.83794, "zip_code": "29682"}
+{"locality": "Six Mile", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Six Mile"], "postal_code": "29682", "lat": 34.833113, "lng": -82.83794, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pickens"}]}

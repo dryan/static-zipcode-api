@@ -1,1 +1,1 @@
-{"lat": 34.585906, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Vaughn", "lng": -105.14392, "zip_code": "88353"}
+{"locality": "Vaughn", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Vaughn"], "postal_code": "88353", "lat": 34.585906, "lng": -105.14392, "type": "POBOX", "counties": [{"fips": "019", "name": "Guadalupe"}]}

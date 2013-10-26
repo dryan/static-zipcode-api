@@ -1,1 +1,1 @@
-{"lat": 45.521574, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Daggett", "lng": -87.61977, "zip_code": "49821"}
+{"locality": "Daggett", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Daggett"], "postal_code": "49821", "lat": 45.521574, "lng": -87.61977, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]}

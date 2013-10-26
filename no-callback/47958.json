@@ -1,1 +1,1 @@
-{"lat": 40.163921, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mellott", "lng": -87.14796, "zip_code": "47958"}
+{"locality": "Mellott", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mellott"], "postal_code": "47958", "lat": 40.163921, "lng": -87.14796, "type": "POBOX", "counties": [{"fips": "045", "name": "Fountain"}]}

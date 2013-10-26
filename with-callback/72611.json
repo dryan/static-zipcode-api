@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.272469, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Alpena", "lng": -93.31302, "zip_code": "72611"});
+zipapicallback({"locality": "Alpena", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Alpena"], "postal_code": "72611", "lat": 36.272469, "lng": -93.31302, "type": "STANDARD", "counties": [{"fips": "009", "name": "Boone"}, {"fips": "015", "name": "Carroll"}]});

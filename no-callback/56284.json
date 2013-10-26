@@ -1,1 +1,1 @@
-{"lat": 44.783251, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Renville", "lng": -95.20682, "zip_code": "56284"}
+{"locality": "Renville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Renville"], "postal_code": "56284", "lat": 44.783251, "lng": -95.20682, "type": "STANDARD", "counties": [{"fips": "129", "name": "Renville"}, {"fips": "067", "name": "Kandiyohi"}, {"fips": "127", "name": "Redwood"}]}

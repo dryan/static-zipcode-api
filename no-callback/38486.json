@@ -1,1 +1,1 @@
-{"lat": 35.164749, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Westpoint", "lng": -87.54145, "zip_code": "38486"}
+{"locality": "Westpoint", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Westpoint"], "postal_code": "38486", "lat": 35.164749, "lng": -87.54145, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}, {"fips": "181", "name": "Wayne"}]}

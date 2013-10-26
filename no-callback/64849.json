@@ -1,1 +1,1 @@
-{"lat": 37.256327, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Neck City", "lng": -94.44382, "zip_code": "64849"}
+{"locality": "Neck City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Neck City"], "postal_code": "64849", "lat": 37.256327, "lng": -94.44382, "type": "POBOX", "counties": [{"fips": "097", "name": "Jasper"}]}

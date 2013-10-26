@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.22772, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Garrett", "lng": -105.66184, "zip_code": "82058"});
+zipapicallback({"locality": "Garrett", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Garrett", "Rock River"], "postal_code": "82058", "lat": 42.22772, "lng": -105.66184, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

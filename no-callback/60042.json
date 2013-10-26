@@ -1,1 +1,1 @@
-{"lat": 42.277691, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Island Lake", "lng": -88.20074, "zip_code": "60042"}
+{"locality": "Island Lake", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Island Lake"], "postal_code": "60042", "lat": 42.277691, "lng": -88.20074, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}, {"fips": "111", "name": "McHenry"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 55.742045, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Meyers Chuck", "lng": -132.25002, "zip_code": "99903"});
+zipapicallback({"locality": "Meyers Chuck", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ketchikan", "Meyers Chuck"], "postal_code": "99903", "lat": 55.742045, "lng": -132.25002, "type": "POBOX", "counties": []});

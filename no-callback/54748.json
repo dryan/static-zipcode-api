@@ -1,1 +1,1 @@
-{"lat": 45.074725, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Jim Falls", "lng": -91.2563, "zip_code": "54748"}
+{"locality": "Jim Falls", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Jim Falls"], "postal_code": "54748", "lat": 45.074725, "lng": -91.2563, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chippewa"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.892504, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Dallas", "lng": -84.8346, "zip_code": "30157"}
+{"locality": "Dallas", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dallas"], "postal_code": "30157", "lat": 33.892504, "lng": -84.8346, "type": "STANDARD", "counties": []}

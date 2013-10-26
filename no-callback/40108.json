@@ -1,1 +1,1 @@
-{"lat": 37.973094, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Brandenburg", "lng": -86.11831, "zip_code": "40108"}
+{"locality": "Brandenburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Brandenburg"], "postal_code": "40108", "lat": 37.973094, "lng": -86.11831, "type": "STANDARD", "counties": [{"fips": "163", "name": "Meade"}]}

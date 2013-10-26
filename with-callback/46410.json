@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.487369, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Merrillville", "lng": -87.34024, "zip_code": "46410"});
+zipapicallback({"locality": "Merrillville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gary", "Merrillville"], "postal_code": "46410", "lat": 41.487369, "lng": -87.34024, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]});

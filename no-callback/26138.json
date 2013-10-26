@@ -1,1 +1,1 @@
-{"lat": 39.03594, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Brohard", "lng": -81.18787, "zip_code": "26138"}
+{"locality": "Brohard", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Brohard"], "postal_code": "26138", "lat": 39.03594, "lng": -81.18787, "type": "STANDARD", "counties": [{"fips": "105", "name": "Wirt"}]}

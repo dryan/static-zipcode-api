@@ -1,1 +1,1 @@
-{"lat": 42.569876, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wayland", "lng": -77.57637, "zip_code": "14572"}
+{"locality": "Wayland", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wayland"], "postal_code": "14572", "lat": 42.569876, "lng": -77.57637, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "051", "name": "Livingston"}]}

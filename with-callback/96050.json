@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.831947, "region": {"abbr": "CA", "name": "California"}, "locality": "Klamath River", "lng": -122.9206, "zip_code": "96050"});
+zipapicallback({"locality": "Klamath River", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Horse Creek", "Klamath River"], "postal_code": "96050", "lat": 41.831947, "lng": -122.9206, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

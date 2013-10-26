@@ -1,1 +1,1 @@
-{"lat": 40.625962, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mentcle", "lng": -78.89325, "zip_code": "15761"}
+{"locality": "Mentcle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mentcle"], "postal_code": "15761", "lat": 40.625962, "lng": -78.89325, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}]}

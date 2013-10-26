@@ -1,1 +1,1 @@
-{"lat": 42.972584, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Manchester", "lng": -71.41349, "zip_code": "03109"}
+{"locality": "Manchester", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Manchester"], "postal_code": "03109", "lat": 42.972584, "lng": -71.41349, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 40.415683, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kahoka", "lng": -91.71817, "zip_code": "63445"}
+{"locality": "Kahoka", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kahoka"], "postal_code": "63445", "lat": 40.415683, "lng": -91.71817, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}]}

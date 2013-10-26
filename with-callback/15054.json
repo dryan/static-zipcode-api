@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.363006, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Langeloth", "lng": -80.40861, "zip_code": "15054"});
+zipapicallback({"locality": "Langeloth", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Langeloth"], "postal_code": "15054", "lat": 40.363006, "lng": -80.40861, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]});

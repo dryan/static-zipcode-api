@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.146827, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Spencerville", "lng": -95.37358, "zip_code": "74760"});
+zipapicallback({"locality": "Spencerville", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Spencerville"], "postal_code": "74760", "lat": 34.146827, "lng": -95.37358, "type": "STANDARD", "counties": [{"fips": "023", "name": "Choctaw"}]});

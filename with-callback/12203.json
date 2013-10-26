@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.678112, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mc Kownville", "lng": -73.82983, "zip_code": "12203"});
+zipapicallback({"locality": "Albany", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Albany", "Stuyvesant Plaza", "Stuyvsnt Plz"], "postal_code": "12203", "lat": 42.678112, "lng": -73.82983, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

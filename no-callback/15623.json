@@ -1,1 +1,1 @@
-{"lat": 40.366748, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Claridge", "lng": -79.61645, "zip_code": "15623"}
+{"locality": "Claridge", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Claridge"], "postal_code": "15623", "lat": 40.366748, "lng": -79.61645, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

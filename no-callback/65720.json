@@ -1,1 +1,1 @@
-{"lat": 36.935499, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Oldfield", "lng": -92.93715, "zip_code": "65720"}
+{"locality": "Oldfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Oldfield"], "postal_code": "65720", "lat": 36.935499, "lng": -92.93715, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "067", "name": "Douglas"}]}

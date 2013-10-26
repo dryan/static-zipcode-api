@@ -1,1 +1,1 @@
-{"lat": 44.043567, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Westbrook", "lng": -95.41116, "zip_code": "56183"}
+{"locality": "Westbrook", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Westbrook"], "postal_code": "56183", "lat": 44.043567, "lng": -95.41116, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cottonwood"}, {"fips": "101", "name": "Murray"}]}

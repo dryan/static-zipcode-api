@@ -1,1 +1,1 @@
-{"lat": 33.973722, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Tillatoba", "lng": -89.88636, "zip_code": "38961"}
+{"locality": "Tillatoba", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Tillatoba"], "postal_code": "38961", "lat": 33.973722, "lng": -89.88636, "type": "STANDARD", "counties": [{"fips": "135", "name": "Tallahatchie"}, {"fips": "161", "name": "Yalobusha"}]}

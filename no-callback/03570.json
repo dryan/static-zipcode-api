@@ -1,1 +1,1 @@
-{"lat": 44.463337, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Berlin", "lng": -71.19092, "zip_code": "03570"}
+{"locality": "Berlin", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Berlin"], "postal_code": "03570", "lat": 44.463337, "lng": -71.19092, "type": "STANDARD", "counties": [{"fips": "007", "name": "Coos"}]}

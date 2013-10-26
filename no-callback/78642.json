@@ -1,1 +1,1 @@
-{"lat": 30.702882, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Liberty Hill", "lng": -97.9269, "zip_code": "78642"}
+{"locality": "Liberty Hill", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Liberty Hill"], "postal_code": "78642", "lat": 30.702882, "lng": -97.9269, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}, {"fips": "053", "name": "Burnet"}]}

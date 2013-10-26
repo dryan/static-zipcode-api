@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.919693, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Milmine", "lng": -88.67859, "zip_code": "61855"});
+zipapicallback({"locality": "Milmine", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Milmine"], "postal_code": "61855", "lat": 39.919693, "lng": -88.67859, "type": "STANDARD", "counties": [{"fips": "147", "name": "Piatt"}]});

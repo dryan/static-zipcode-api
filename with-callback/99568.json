@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.23458, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Clam", "lng": -151.3934, "zip_code": "99568"});
+zipapicallback({"locality": "Clam Gulch", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Clam Gulch"], "postal_code": "99568", "lat": 60.23458, "lng": -151.3934, "type": "STANDARD", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]});

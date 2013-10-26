@@ -1,1 +1,1 @@
-{"lat": 43.949961, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "New Holstein", "lng": -88.09962, "zip_code": "53061"}
+{"locality": "New Holstein", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["New Holstein"], "postal_code": "53061", "lat": 43.949961, "lng": -88.09962, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calumet"}, {"fips": "039", "name": "Fond Du Lac"}]}

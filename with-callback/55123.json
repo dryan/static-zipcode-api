@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.804048, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Eagan", "lng": -93.13378, "zip_code": "55123"});
+zipapicallback({"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eagan", "Saint Paul"], "postal_code": "55123", "lat": 44.804048, "lng": -93.13378, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}]});

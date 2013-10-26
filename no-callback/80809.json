@@ -1,1 +1,1 @@
-{"lat": 38.911701, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "North Pole", "lng": -104.98731, "zip_code": "80809"}
+{"locality": "Cascade", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cascade"], "postal_code": "80809", "lat": 38.911701, "lng": -104.98731, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.502541, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gaston", "lng": -77.68887, "zip_code": "27832"});
+zipapicallback({"locality": "Gaston", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gaston"], "postal_code": "27832", "lat": 36.502541, "lng": -77.68887, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]});

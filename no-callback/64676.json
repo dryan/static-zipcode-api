@@ -1,1 +1,1 @@
-{"lat": 39.657285, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rothville", "lng": -93.07282, "zip_code": "64676"}
+{"locality": "Rothville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rothville"], "postal_code": "64676", "lat": 39.657285, "lng": -93.07282, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chariton"}]}

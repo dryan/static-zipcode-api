@@ -1,1 +1,1 @@
-{"lat": 44.023225, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Veneta", "lng": -123.38399, "zip_code": "97487"}
+{"locality": "Veneta", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Veneta"], "postal_code": "97487", "lat": 44.023225, "lng": -123.38399, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

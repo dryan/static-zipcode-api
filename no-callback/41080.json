@@ -1,1 +1,1 @@
-{"lat": 39.062761, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Petersburg", "lng": -84.85236, "zip_code": "41080"}
+{"locality": "Petersburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Petersburg"], "postal_code": "41080", "lat": 39.062761, "lng": -84.85236, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}]}

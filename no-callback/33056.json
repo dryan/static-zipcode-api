@@ -1,1 +1,1 @@
-{"lat": 25.946754, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Carol City", "lng": -80.24962, "zip_code": "33056"}
+{"locality": "Miami Gardens", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Carol City", "Miami Gardens", "Opa Locka"], "postal_code": "33056", "lat": 25.946754, "lng": -80.24962, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

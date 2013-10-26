@@ -1,1 +1,1 @@
-{"lat": 36.550379, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Risco", "lng": -89.81874, "zip_code": "63874"}
+{"locality": "Risco", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Risco"], "postal_code": "63874", "lat": 36.550379, "lng": -89.81874, "type": "POBOX", "counties": [{"fips": "143", "name": "New Madrid"}]}

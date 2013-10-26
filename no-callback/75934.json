@@ -1,1 +1,1 @@
-{"lat": 30.907239, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Camden", "lng": -94.7312, "zip_code": "75934"}
+{"locality": "Camden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Camden"], "postal_code": "75934", "lat": 30.907239, "lng": -94.7312, "type": "POBOX", "counties": [{"fips": "373", "name": "Polk"}]}

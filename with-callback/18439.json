@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.825884, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lakewood", "lng": -75.34132, "zip_code": "18439"});
+zipapicallback({"locality": "Lakewood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lakewood"], "postal_code": "18439", "lat": 41.825884, "lng": -75.34132, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}]});

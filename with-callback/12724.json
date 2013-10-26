@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.858278, "region": {"abbr": "NY", "name": "New York"}, "locality": "Callicoon Center", "lng": -74.95034, "zip_code": "12724"});
+zipapicallback({"locality": "Callicoon Center", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Callicoon Center", "Callicoon Ctr"], "postal_code": "12724", "lat": 41.858278, "lng": -74.95034, "type": "POBOX", "counties": [{"fips": "105", "name": "Sullivan"}]});

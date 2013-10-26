@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.356774, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "River Falls", "lng": -86.54879, "zip_code": "36476"});
+zipapicallback({"locality": "River Falls", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["River Falls"], "postal_code": "36476", "lat": 31.356774, "lng": -86.54879, "type": "POBOX", "counties": [{"fips": "039", "name": "Covington"}]});

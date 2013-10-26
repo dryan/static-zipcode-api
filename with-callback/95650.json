@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.817508, "region": {"abbr": "CA", "name": "California"}, "locality": "Loomis", "lng": -121.17225, "zip_code": "95650"});
+zipapicallback({"locality": "Loomis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Loomis"], "postal_code": "95650", "lat": 38.817508, "lng": -121.17225, "type": "STANDARD", "counties": [{"fips": "061", "name": "Placer"}]});

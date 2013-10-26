@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.463079, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Gibson City", "lng": -88.3731, "zip_code": "60936"});
+zipapicallback({"locality": "Gibson City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Gibson City"], "postal_code": "60936", "lat": 40.463079, "lng": -88.3731, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ford"}, {"fips": "113", "name": "McLean"}]});

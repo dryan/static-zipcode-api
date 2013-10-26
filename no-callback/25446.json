@@ -1,1 +1,1 @@
-{"lat": 39.247155, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Summit Point", "lng": -77.95747, "zip_code": "25446"}
+{"locality": "Summit Point", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Summit Point"], "postal_code": "25446", "lat": 39.247155, "lng": -77.95747, "type": "STANDARD", "counties": [{"fips": "037", "name": "Jefferson"}]}

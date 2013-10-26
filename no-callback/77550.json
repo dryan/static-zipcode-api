@@ -1,1 +1,1 @@
-{"lat": 29.298448, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Galveston", "lng": -94.79316, "zip_code": "77550"}
+{"locality": "Galveston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Galveston"], "postal_code": "77550", "lat": 29.298448, "lng": -94.79316, "type": "STANDARD", "counties": [{"fips": "167", "name": "Galveston"}, {"fips": "201", "name": "Harris"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.736074, "region": {"abbr": "CA", "name": "California"}, "locality": "Davis Creek", "lng": -120.3778, "zip_code": "96108"}
+{"locality": "Davis Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Davis Creek"], "postal_code": "96108", "lat": 41.736074, "lng": -120.3778, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]}

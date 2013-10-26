@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.542869, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Argyle", "lng": -91.57544, "zip_code": "52619"});
+zipapicallback({"locality": "Argyle", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Argyle"], "postal_code": "52619", "lat": 40.542869, "lng": -91.57544, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lee"}]});

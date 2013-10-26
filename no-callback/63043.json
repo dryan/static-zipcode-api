@@ -1,1 +1,1 @@
-{"lat": 38.725331, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Maryland Heights", "lng": -90.44451, "zip_code": "63043"}
+{"locality": "Maryland Heights", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hazelwood", "Maryland Heights", "Maryland Hts"], "postal_code": "63043", "lat": 38.725331, "lng": -90.44451, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.782568, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Skowhegan", "lng": -69.69212, "zip_code": "04976"}
+{"locality": "Skowhegan", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cornville", "Skowhegan"], "postal_code": "04976", "lat": 44.782568, "lng": -69.69212, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]}

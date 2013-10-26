@@ -1,1 +1,1 @@
-{"lat": 42.923583, "region": {"abbr": "NY", "name": "New York"}, "locality": "Palatine Bridge", "lng": -74.55536, "zip_code": "13428"}
+{"locality": "Palatine Bridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Palatine Brg", "Palatine Bridge"], "postal_code": "13428", "lat": 42.923583, "lng": -74.55536, "type": "STANDARD", "counties": [{"fips": "057", "name": "Montgomery"}]}

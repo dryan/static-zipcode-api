@@ -1,1 +1,1 @@
-{"lat": 40.410224, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Greenville", "lng": -75.50845, "zip_code": "18041"}
+{"locality": "East Greenville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Greenville", "East Greenville"], "postal_code": "18041", "lat": 40.410224, "lng": -75.50845, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "017", "name": "Bucks"}, {"fips": "077", "name": "Lehigh"}, {"fips": "011", "name": "Berks"}]}

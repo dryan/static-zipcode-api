@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.397611, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Willards", "lng": -75.35364, "zip_code": "21874"});
+zipapicallback({"locality": "Willards", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Willards"], "postal_code": "21874", "lat": 38.397611, "lng": -75.35364, "type": "STANDARD", "counties": [{"fips": "045", "name": "Wicomico"}]});

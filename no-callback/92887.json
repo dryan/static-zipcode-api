@@ -1,1 +1,1 @@
-{"lat": 33.883223, "region": {"abbr": "CA", "name": "California"}, "locality": "Yorba Linda", "lng": -117.73856, "zip_code": "92887"}
+{"locality": "Yorba Linda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yorba Linda"], "postal_code": "92887", "lat": 33.883223, "lng": -117.73856, "type": "STANDARD", "counties": []}

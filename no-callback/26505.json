@@ -1,1 +1,1 @@
-{"lat": 39.646497, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Star City", "lng": -79.95154, "zip_code": "26505"}
+{"locality": "Morgantown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Booth", "Everettville", "Morgantown", "Star City"], "postal_code": "26505", "lat": 39.646497, "lng": -79.95154, "type": "STANDARD", "counties": [{"fips": "061", "name": "Monongalia"}]}

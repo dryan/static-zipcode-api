@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.180226, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Braggadocio", "lng": -89.84072, "zip_code": "63826"});
+zipapicallback({"locality": "Braggadocio", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Braggadocio"], "postal_code": "63826", "lat": 36.180226, "lng": -89.84072, "type": "POBOX", "counties": [{"fips": "155", "name": "Pemiscot"}]});

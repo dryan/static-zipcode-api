@@ -1,1 +1,1 @@
-{"lat": 42.118019, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Horton", "lng": -84.49338, "zip_code": "49246"}
+{"locality": "Horton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Horton"], "postal_code": "49246", "lat": 42.118019, "lng": -84.49338, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}, {"fips": "059", "name": "Hillsdale"}]}

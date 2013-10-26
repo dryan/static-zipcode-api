@@ -1,1 +1,1 @@
-{"lat": 40.439688, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rankin", "lng": -87.89016, "zip_code": "60960"}
+{"locality": "Rankin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Clarence", "Rankin"], "postal_code": "60960", "lat": 40.439688, "lng": -87.89016, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}, {"fips": "019", "name": "Champaign"}, {"fips": "053", "name": "Ford"}, {"fips": "075", "name": "Iroquois"}]}

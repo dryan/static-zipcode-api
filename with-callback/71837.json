@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.271824, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Fouke", "lng": -93.85202, "zip_code": "71837"});
+zipapicallback({"locality": "Fouke", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Fouke"], "postal_code": "71837", "lat": 33.271824, "lng": -93.85202, "type": "STANDARD", "counties": [{"fips": "091", "name": "Miller"}]});

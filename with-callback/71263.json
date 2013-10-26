@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.887552, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Terry", "lng": -91.4107, "zip_code": "71263"});
+zipapicallback({"locality": "Oak Grove", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Oak Grove", "Terry"], "postal_code": "71263", "lat": 32.887552, "lng": -91.4107, "type": "STANDARD", "counties": [{"fips": "123", "name": "West Carroll"}]});

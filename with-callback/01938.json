@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.682965, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Ipswich", "lng": -70.84007, "zip_code": "01938"});
+zipapicallback({"locality": "Ipswich", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Ipswich"], "postal_code": "01938", "lat": 42.682965, "lng": -70.84007, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]});

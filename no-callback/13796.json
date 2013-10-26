@@ -1,1 +1,1 @@
-{"lat": 42.540359, "region": {"abbr": "NY", "name": "New York"}, "locality": "Laurens", "lng": -75.14604, "zip_code": "13796"}
+{"locality": "Laurens", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Laurens"], "postal_code": "13796", "lat": 42.540359, "lng": -75.14604, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]}

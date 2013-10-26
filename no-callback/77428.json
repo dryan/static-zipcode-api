@@ -1,1 +1,1 @@
-{"lat": 28.718954, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Collegeport", "lng": -96.16969, "zip_code": "77428"}
+{"locality": "Collegeport", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Collegeport"], "postal_code": "77428", "lat": 28.718954, "lng": -96.16969, "type": "POBOX", "counties": [{"fips": "321", "name": "Matagorda"}]}

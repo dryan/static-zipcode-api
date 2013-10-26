@@ -1,1 +1,1 @@
-{"lat": 32.867103, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rockwall", "lng": -96.44129, "zip_code": "75032"}
+{"locality": "Rockwall", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Heath", "Rockwall"], "postal_code": "75032", "lat": 32.867103, "lng": -96.44129, "type": "STANDARD", "counties": [{"fips": "397", "name": "Rockwall"}]}

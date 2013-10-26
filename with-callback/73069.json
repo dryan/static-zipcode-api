@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.228649, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Norman", "lng": -97.45629, "zip_code": "73069"});
+zipapicallback({"locality": "Norman", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Norman"], "postal_code": "73069", "lat": 35.228649, "lng": -97.45629, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cleveland"}]});

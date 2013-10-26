@@ -1,1 +1,1 @@
-{"lat": 39.171661, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Longford", "lng": -97.30594, "zip_code": "67458"}
+{"locality": "Longford", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Longford"], "postal_code": "67458", "lat": 39.171661, "lng": -97.30594, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "143", "name": "Ottawa"}, {"fips": "041", "name": "Dickinson"}]}

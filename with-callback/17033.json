@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.277923, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hershey", "lng": -76.6434, "zip_code": "17033"});
+zipapicallback({"locality": "Hershey", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hershey"], "postal_code": "17033", "lat": 40.277923, "lng": -76.6434, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dauphin"}, {"fips": "075", "name": "Lebanon"}]});

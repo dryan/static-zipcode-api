@@ -1,1 +1,1 @@
-{"lat": 41.442589, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cornwall On Huds", "lng": -74.01389, "zip_code": "12520"}
+{"locality": "Cornwall On Hudson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cornwall Hdsn", "Cornwall On Hudson"], "postal_code": "12520", "lat": 41.442589, "lng": -74.01389, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

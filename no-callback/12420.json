@@ -1,1 +1,1 @@
-{"lat": 41.674288, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cragsmoor", "lng": -74.37833, "zip_code": "12420"}
+{"locality": "Cragsmoor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cragsmoor"], "postal_code": "12420", "lat": 41.674288, "lng": -74.37833, "type": "POBOX", "counties": [{"fips": "111", "name": "Ulster"}]}

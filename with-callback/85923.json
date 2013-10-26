@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.364618, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Clay Springs", "lng": -110.29487, "zip_code": "85923"});
+zipapicallback({"locality": "Clay Springs", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Clay Springs"], "postal_code": "85923", "lat": 34.364618, "lng": -110.29487, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]});

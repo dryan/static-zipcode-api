@@ -1,1 +1,1 @@
-{"lat": 36.224663, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ames", "lng": -98.14881, "zip_code": "73718"}
+{"locality": "Ames", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ames"], "postal_code": "73718", "lat": 36.224663, "lng": -98.14881, "type": "STANDARD", "counties": [{"fips": "093", "name": "Major"}, {"fips": "047", "name": "Garfield"}]}

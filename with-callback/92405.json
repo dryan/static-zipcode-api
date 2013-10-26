@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.141659, "region": {"abbr": "CA", "name": "California"}, "locality": "Muscoy", "lng": -117.29722, "zip_code": "92405"});
+zipapicallback({"locality": "San Bernardino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Bernardino", "Sn Bernrdno"], "postal_code": "92405", "lat": 34.141659, "lng": -117.29722, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

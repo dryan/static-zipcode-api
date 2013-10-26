@@ -1,1 +1,1 @@
-{"lat": 45.534203, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bay City", "lng": -123.88468, "zip_code": "97107"}
+{"locality": "Bay City", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bay City"], "postal_code": "97107", "lat": 45.534203, "lng": -123.88468, "type": "STANDARD", "counties": [{"fips": "057", "name": "Tillamook"}]}

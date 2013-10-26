@@ -1,1 +1,1 @@
-{"lat": 40.885328, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Adrian", "lng": -79.52058, "zip_code": "16210"}
+{"locality": "Adrian", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Adrian"], "postal_code": "16210", "lat": 40.885328, "lng": -79.52058, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]}

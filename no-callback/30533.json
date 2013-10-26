@@ -1,1 +1,1 @@
-{"lat": 34.542098, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Dahlonega", "lng": -83.99718, "zip_code": "30533"}
+{"locality": "Dahlonega", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dahlonega"], "postal_code": "30533", "lat": 34.542098, "lng": -83.99718, "type": "STANDARD", "counties": [{"fips": "187", "name": "Lumpkin"}]}

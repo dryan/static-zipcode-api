@@ -1,1 +1,1 @@
-{"lat": 47.64542, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Max", "lng": -94.05089, "zip_code": "56659"}
+{"locality": "Max", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Max"], "postal_code": "56659", "lat": 47.64542, "lng": -94.05089, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}]}

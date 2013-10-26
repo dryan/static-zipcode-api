@@ -1,1 +1,1 @@
-{"lat": 39.906312, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Morton", "lng": -75.32489, "zip_code": "19070"}
+{"locality": "Morton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morton", "Ridley", "Rutledge"], "postal_code": "19070", "lat": 39.906312, "lng": -75.32489, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

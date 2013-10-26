@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.050239, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Forest Hill", "lng": -92.52474, "zip_code": "71430"});
+zipapicallback({"locality": "Forest Hill", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Forest Hill"], "postal_code": "71430", "lat": 31.050239, "lng": -92.52474, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

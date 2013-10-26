@@ -1,1 +1,1 @@
-{"lat": 46.666229, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Lefor", "lng": -102.48549, "zip_code": "58641"}
+{"locality": "Lefor", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Lefor"], "postal_code": "58641", "lat": 46.666229, "lng": -102.48549, "type": "STANDARD", "counties": [{"fips": "089", "name": "Stark"}]}

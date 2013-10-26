@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.318554, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gurley", "lng": -102.97377, "zip_code": "69141"});
+zipapicallback({"locality": "Gurley", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gurley"], "postal_code": "69141", "lat": 41.318554, "lng": -102.97377, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cheyenne"}]});

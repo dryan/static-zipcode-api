@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.741986, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wilton", "lng": -94.14867, "zip_code": "71865"});
+zipapicallback({"locality": "Wilton", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wilton"], "postal_code": "71865", "lat": 33.741986, "lng": -94.14867, "type": "POBOX", "counties": [{"fips": "051", "name": "Garland"}, {"fips": "081", "name": "Little River"}]});

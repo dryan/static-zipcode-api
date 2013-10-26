@@ -1,1 +1,1 @@
-{"lat": 36.458041, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bella Vista", "lng": -94.23551, "zip_code": "72714"}
+{"locality": "Bella Vista", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bella Vista"], "postal_code": "72714", "lat": 36.458041, "lng": -94.23551, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

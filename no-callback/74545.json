@@ -1,1 +1,1 @@
-{"lat": 34.877067, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Gowen", "lng": -95.47832, "zip_code": "74545"}
+{"locality": "Gowen", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Gowen"], "postal_code": "74545", "lat": 34.877067, "lng": -95.47832, "type": "POBOX", "counties": [{"fips": "077", "name": "Latimer"}]}

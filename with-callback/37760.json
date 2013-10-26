@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.109404, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Jefferson City", "lng": -83.48325, "zip_code": "37760"});
+zipapicallback({"locality": "Jefferson City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Jefferson City", "Jefferson Cty"], "postal_code": "37760", "lat": 36.109404, "lng": -83.48325, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jefferson"}, {"fips": "093", "name": "Knox"}]});

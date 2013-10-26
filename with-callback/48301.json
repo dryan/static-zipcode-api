@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.546445, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bloomfield Towns", "lng": -83.28083, "zip_code": "48301"});
+zipapicallback({"locality": "Bloomfield Hills", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bloomfield", "Bloomfield Hills", "Bloomfield Township", "Bloomfield Village", "Bloomfld Hls", "Bloomfld Twp"], "postal_code": "48301", "lat": 42.546445, "lng": -83.28083, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]});

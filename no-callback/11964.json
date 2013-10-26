@@ -1,1 +1,1 @@
-{"lat": 41.060843, "region": {"abbr": "NY", "name": "New York"}, "locality": "Shelter Island", "lng": -72.33159, "zip_code": "11964"}
+{"locality": "Shelter Island", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Shelter Is", "Shelter Island"], "postal_code": "11964", "lat": 41.060843, "lng": -72.33159, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]}

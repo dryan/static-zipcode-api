@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.199526, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Colgate", "lng": -88.26177, "zip_code": "53017"});
+zipapicallback({"locality": "Colgate", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Colgate"], "postal_code": "53017", "lat": 43.199526, "lng": -88.26177, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}, {"fips": "133", "name": "Waukesha"}]});

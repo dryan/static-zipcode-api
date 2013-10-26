@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.331465, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wheelwright", "lng": -82.71906, "zip_code": "41669"});
+zipapicallback({"locality": "Wheelwright", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Wheelwright"], "postal_code": "41669", "lat": 37.331465, "lng": -82.71906, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

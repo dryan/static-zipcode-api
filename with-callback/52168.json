@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.203977, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Spillville", "lng": -91.95204, "zip_code": "52168"});
+zipapicallback({"locality": "Spillville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Spillville"], "postal_code": "52168", "lat": 43.203977, "lng": -91.95204, "type": "POBOX", "counties": [{"fips": "191", "name": "Winneshiek"}]});

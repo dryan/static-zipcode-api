@@ -1,1 +1,1 @@
-{"lat": 37.914363, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Haven", "lng": -88.12264, "zip_code": "62867"}
+{"locality": "New Haven", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Haven"], "postal_code": "62867", "lat": 37.914363, "lng": -88.12264, "type": "STANDARD", "counties": [{"fips": "059", "name": "Gallatin"}, {"fips": "193", "name": "White"}]}

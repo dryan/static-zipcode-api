@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.538432, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wakarusa", "lng": -86.04261, "zip_code": "46573"});
+zipapicallback({"locality": "Wakarusa", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wakarusa"], "postal_code": "46573", "lat": 41.538432, "lng": -86.04261, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elkhart"}, {"fips": "141", "name": "Saint Joseph"}]});

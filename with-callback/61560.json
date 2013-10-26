@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.198061, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Putnam", "lng": -89.43131, "zip_code": "61560"});
+zipapicallback({"locality": "Putnam", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Putnam"], "postal_code": "61560", "lat": 41.198061, "lng": -89.43131, "type": "STANDARD", "counties": [{"fips": "155", "name": "Putnam"}, {"fips": "123", "name": "Marshall"}, {"fips": "011", "name": "Bureau"}]});

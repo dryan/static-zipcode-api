@@ -1,1 +1,1 @@
-{"lat": 47.940908, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hovland", "lng": -90.01705, "zip_code": "55606"}
+{"locality": "Hovland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hovland"], "postal_code": "55606", "lat": 47.940908, "lng": -90.01705, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

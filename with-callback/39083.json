@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.841281, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Hazlehurst", "lng": -90.42995, "zip_code": "39083"});
+zipapicallback({"locality": "Hazlehurst", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hazlehurst"], "postal_code": "39083", "lat": 31.841281, "lng": -90.42995, "type": "STANDARD", "counties": [{"fips": "029", "name": "Copiah"}, {"fips": "085", "name": "Lincoln"}]});

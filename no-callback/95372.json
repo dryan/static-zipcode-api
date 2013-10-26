@@ -1,1 +1,1 @@
-{"lat": 37.991855, "region": {"abbr": "CA", "name": "California"}, "locality": "Soulsbyville", "lng": -120.25829, "zip_code": "95372"}
+{"locality": "Soulsbyville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Soulsbyville"], "postal_code": "95372", "lat": 37.991855, "lng": -120.25829, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]}

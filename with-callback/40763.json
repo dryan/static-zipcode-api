@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.681189, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Siler", "lng": -83.95156, "zip_code": "40763"});
+zipapicallback({"locality": "Siler", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Siler"], "postal_code": "40763", "lat": 36.681189, "lng": -83.95156, "type": "STANDARD", "counties": [{"fips": "235", "name": "Whitley"}, {"fips": "121", "name": "Knox"}]});

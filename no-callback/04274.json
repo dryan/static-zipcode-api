@@ -1,1 +1,1 @@
-{"lat": 44.049157, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Poland Spring", "lng": -70.39077, "zip_code": "04274"}
+{"locality": "Poland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Poland", "Poland Spring"], "postal_code": "04274", "lat": 44.049157, "lng": -70.39077, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]}

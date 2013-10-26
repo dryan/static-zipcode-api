@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.898768, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Leflore", "lng": -94.98141, "zip_code": "74942"});
+zipapicallback({"locality": "Leflore", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Leflore"], "postal_code": "74942", "lat": 34.898768, "lng": -94.98141, "type": "POBOX", "counties": [{"fips": "079", "name": "Le Flore"}]});

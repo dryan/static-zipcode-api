@@ -1,1 +1,1 @@
-{"lat": 40.324694, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Lawn", "lng": -75.9921, "zip_code": "19609"}
+{"locality": "Reading", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reading", "West Lawn"], "postal_code": "19609", "lat": 40.324694, "lng": -75.9921, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

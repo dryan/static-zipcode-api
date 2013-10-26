@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.865972, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ellenburg Center", "lng": -73.89584, "zip_code": "12934"});
+zipapicallback({"locality": "Ellenburg Center", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ellenburg Center", "Ellenburg Ctr"], "postal_code": "12934", "lat": 44.865972, "lng": -73.89584, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

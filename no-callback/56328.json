@@ -1,1 +1,1 @@
-{"lat": 45.953535, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Flensburg", "lng": -94.52834, "zip_code": "56328"}
+{"locality": "Flensburg", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Flensburg"], "postal_code": "56328", "lat": 45.953535, "lng": -94.52834, "type": "POBOX", "counties": [{"fips": "097", "name": "Morrison"}]}

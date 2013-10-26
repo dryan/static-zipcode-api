@@ -1,1 +1,1 @@
-{"lat": 37.308652, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Maxie", "lng": -82.18593, "zip_code": "24628"}
+{"locality": "Maxie", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Harman", "Maxie"], "postal_code": "24628", "lat": 37.308652, "lng": -82.18593, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}]}

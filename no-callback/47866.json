@@ -1,1 +1,1 @@
-{"lat": 39.293977, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Pimento", "lng": -87.30983, "zip_code": "47866"}
+{"locality": "Pimento", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Pimento"], "postal_code": "47866", "lat": 39.293977, "lng": -87.30983, "type": "STANDARD", "counties": [{"fips": "167", "name": "Vigo"}, {"fips": "153", "name": "Sullivan"}]}

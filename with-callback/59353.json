@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.969132, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wibaux", "lng": -104.19232, "zip_code": "59353"});
+zipapicallback({"locality": "Wibaux", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Wibaux"], "postal_code": "59353", "lat": 46.969132, "lng": -104.19232, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wibaux"}]});

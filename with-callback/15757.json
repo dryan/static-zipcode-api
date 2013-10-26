@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.890039, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mc Gees Mills", "lng": -78.72404, "zip_code": "15757"});
+zipapicallback({"locality": "Mahaffey", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mahaffey", "Mcgees Mills"], "postal_code": "15757", "lat": 40.890039, "lng": -78.72404, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}, {"fips": "063", "name": "Indiana"}]});

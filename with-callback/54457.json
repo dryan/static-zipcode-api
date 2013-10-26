@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.260056, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Nekoosa", "lng": -89.88239, "zip_code": "54457"});
+zipapicallback({"locality": "Nekoosa", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Nekoosa"], "postal_code": "54457", "lat": 44.260056, "lng": -89.88239, "type": "STANDARD", "counties": [{"fips": "141", "name": "Wood"}, {"fips": "001", "name": "Adams"}, {"fips": "057", "name": "Juneau"}]});

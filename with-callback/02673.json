@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.656883, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Yarmouth", "lng": -70.23726, "zip_code": "02673"});
+zipapicallback({"locality": "West Yarmouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["W Yarmouth", "West Yarmouth"], "postal_code": "02673", "lat": 41.656883, "lng": -70.23726, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

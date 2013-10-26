@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.880616, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mansfield", "lng": -119.54481, "zip_code": "98830"});
+zipapicallback({"locality": "Mansfield", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Mansfield"], "postal_code": "98830", "lat": 47.880616, "lng": -119.54481, "type": "STANDARD", "counties": [{"fips": "017", "name": "Douglas"}]});

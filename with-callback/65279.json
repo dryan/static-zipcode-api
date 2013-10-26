@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.014478, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rocheport", "lng": -92.53946, "zip_code": "65279"});
+zipapicallback({"locality": "Rocheport", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rocheport"], "postal_code": "65279", "lat": 39.014478, "lng": -92.53946, "type": "STANDARD", "counties": [{"fips": "019", "name": "Boone"}, {"fips": "089", "name": "Howard"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.552082, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cedar Rapids", "lng": -98.17449, "zip_code": "68627"}
+{"locality": "Cedar Rapids", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cedar Rapids"], "postal_code": "68627", "lat": 41.552082, "lng": -98.17449, "type": "STANDARD", "counties": [{"fips": "011", "name": "Boone"}, {"fips": "125", "name": "Nance"}]}

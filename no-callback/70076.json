@@ -1,1 +1,1 @@
-{"lat": 30.055429, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mount Airy", "lng": -90.64073, "zip_code": "70076"}
+{"locality": "Mount Airy", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mount Airy"], "postal_code": "70076", "lat": 30.055429, "lng": -90.64073, "type": "STANDARD", "counties": [{"fips": "095", "name": "St. John the Baptist"}]}

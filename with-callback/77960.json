@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.694847, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fannin", "lng": -97.24182, "zip_code": "77960"});
+zipapicallback({"locality": "Fannin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fannin"], "postal_code": "77960", "lat": 28.694847, "lng": -97.24182, "type": "POBOX", "counties": [{"fips": "175", "name": "Goliad"}]});

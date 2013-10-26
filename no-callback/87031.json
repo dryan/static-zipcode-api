@@ -1,1 +1,1 @@
-{"lat": 34.786133, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Los Lunas", "lng": -106.70536, "zip_code": "87031"}
+{"locality": "Los Lunas", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Los Lunas"], "postal_code": "87031", "lat": 34.786133, "lng": -106.70536, "type": "STANDARD", "counties": [{"fips": "061", "name": "Valencia"}, {"fips": "006", "name": "Cibola"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.444446, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Puryear", "lng": -88.35903, "zip_code": "38251"}
+{"locality": "Puryear", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Puryear"], "postal_code": "38251", "lat": 36.444446, "lng": -88.35903, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

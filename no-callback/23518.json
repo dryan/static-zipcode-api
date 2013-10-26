@@ -1,1 +1,1 @@
-{"lat": 36.916497, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Norfolk", "lng": -76.21796, "zip_code": "23518"}
+{"locality": "Norfolk", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Norfolk"], "postal_code": "23518", "lat": 36.916497, "lng": -76.21796, "type": "STANDARD", "counties": [{"fips": "710", "name": "Norfolk (City)"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.478028, "region": {"abbr": "NY", "name": "New York"}, "locality": "Middletown", "lng": -74.35844, "zip_code": "10941"}
+{"locality": "Middletown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Middletown", "Scotchtown", "Scotchtown Branch"], "postal_code": "10941", "lat": 41.478028, "lng": -74.35844, "type": "STANDARD", "counties": []}

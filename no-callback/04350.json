@@ -1,1 +1,1 @@
-{"lat": 44.174052, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Litchfield", "lng": -69.93363, "zip_code": "04350"}
+{"locality": "Litchfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Litchfield"], "postal_code": "04350", "lat": 44.174052, "lng": -69.93363, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]}

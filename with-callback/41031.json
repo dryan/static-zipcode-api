@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.397678, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cynthiana", "lng": -84.2939, "zip_code": "41031"});
+zipapicallback({"locality": "Cynthiana", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cynthiana"], "postal_code": "41031", "lat": 38.397678, "lng": -84.2939, "type": "STANDARD", "counties": [{"fips": "097", "name": "Harrison"}]});

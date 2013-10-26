@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.229288, "region": {"abbr": "CA", "name": "California"}, "locality": "Lytle Creek", "lng": -117.52082, "zip_code": "92358"});
+zipapicallback({"locality": "Lytle Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lytle Creek"], "postal_code": "92358", "lat": 34.229288, "lng": -117.52082, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

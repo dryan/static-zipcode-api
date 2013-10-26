@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.985128, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Aynor", "lng": -79.14985, "zip_code": "29511"});
+zipapicallback({"locality": "Aynor", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Aynor"], "postal_code": "29511", "lat": 33.985128, "lng": -79.14985, "type": "STANDARD", "counties": [{"fips": "051", "name": "Horry"}]});

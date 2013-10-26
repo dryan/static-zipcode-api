@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.343716, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Waynesboro", "lng": -87.75739, "zip_code": "38485"});
+zipapicallback({"locality": "Waynesboro", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Waynesboro"], "postal_code": "38485", "lat": 35.343716, "lng": -87.75739, "type": "STANDARD", "counties": [{"fips": "181", "name": "Wayne"}, {"fips": "101", "name": "Lewis"}]});

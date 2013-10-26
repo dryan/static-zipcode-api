@@ -1,1 +1,1 @@
-{"lat": 41.252823, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kennerdell", "lng": -79.82675, "zip_code": "16374"}
+{"locality": "Kennerdell", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kennerdell"], "postal_code": "16374", "lat": 41.252823, "lng": -79.82675, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.965949, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hill City", "lng": -103.62797, "zip_code": "57745"});
+zipapicallback({"locality": "Hill City", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hill City", "Rochford"], "postal_code": "57745", "lat": 43.965949, "lng": -103.62797, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pennington"}]});

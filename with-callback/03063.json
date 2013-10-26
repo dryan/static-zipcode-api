@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.770738, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Nashua", "lng": -71.51047, "zip_code": "03063"});
+zipapicallback({"locality": "Nashua", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Nashua"], "postal_code": "03063", "lat": 42.770738, "lng": -71.51047, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]});

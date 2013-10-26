@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.149047, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hanska", "lng": -94.5238, "zip_code": "56041"});
+zipapicallback({"locality": "Hanska", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hanska"], "postal_code": "56041", "lat": 44.149047, "lng": -94.5238, "type": "STANDARD", "counties": [{"fips": "015", "name": "Brown"}, {"fips": "165", "name": "Watonwan"}, {"fips": "013", "name": "Blue Earth"}]});

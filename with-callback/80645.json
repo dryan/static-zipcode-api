@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.332131, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "La Salle", "lng": -104.68704, "zip_code": "80645"});
+zipapicallback({"locality": "La Salle", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Evans", "La Salle"], "postal_code": "80645", "lat": 40.332131, "lng": -104.68704, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]});

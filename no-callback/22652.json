@@ -1,1 +1,1 @@
-{"lat": 38.823987, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Saint Davids Chu", "lng": -78.4531, "zip_code": "22652"}
+{"locality": "Fort Valley", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Valley", "Saint Davids Church", "Seven Fountains", "Seven Fountns", "St Davids Ch"], "postal_code": "22652", "lat": 38.823987, "lng": -78.4531, "type": "STANDARD", "counties": [{"fips": "171", "name": "Shenandoah"}, {"fips": "139", "name": "Page"}]}

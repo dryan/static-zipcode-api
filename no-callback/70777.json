@@ -1,1 +1,1 @@
-{"lat": 30.722133, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Slaughter", "lng": -91.10915, "zip_code": "70777"}
+{"locality": "Slaughter", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Slaughter"], "postal_code": "70777", "lat": 30.722133, "lng": -91.10915, "type": "STANDARD", "counties": [{"fips": "037", "name": "East Feliciana"}]}

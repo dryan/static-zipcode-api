@@ -1,1 +1,1 @@
-{"lat": 37.777886, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Toronto", "lng": -95.93877, "zip_code": "66777"}
+{"locality": "Toronto", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Toronto"], "postal_code": "66777", "lat": 37.777886, "lng": -95.93877, "type": "STANDARD", "counties": [{"fips": "207", "name": "Woodson"}, {"fips": "205", "name": "Wilson"}, {"fips": "073", "name": "Greenwood"}]}

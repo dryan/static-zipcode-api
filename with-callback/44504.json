@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.123757, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Youngstown", "lng": -80.65481, "zip_code": "44504"});
+zipapicallback({"locality": "Youngstown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Youngstown"], "postal_code": "44504", "lat": 41.123757, "lng": -80.65481, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}, {"fips": "155", "name": "Trumbull"}]});

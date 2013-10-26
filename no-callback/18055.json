@@ -1,1 +1,1 @@
-{"lat": 40.585649, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hellertown", "lng": -75.3261, "zip_code": "18055"}
+{"locality": "Hellertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hellertown"], "postal_code": "18055", "lat": 40.585649, "lng": -75.3261, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}, {"fips": "017", "name": "Bucks"}]}

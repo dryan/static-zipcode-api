@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.348745, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Newfolden", "lng": -96.32534, "zip_code": "56738"});
+zipapicallback({"locality": "Newfolden", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Holt", "Newfolden"], "postal_code": "56738", "lat": 48.348745, "lng": -96.32534, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}]});

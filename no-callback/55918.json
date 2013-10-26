@@ -1,1 +1,1 @@
-{"lat": 43.743087, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brownsdale", "lng": -92.86434, "zip_code": "55918"}
+{"locality": "Brownsdale", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brownsdale"], "postal_code": "55918", "lat": 43.743087, "lng": -92.86434, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}]}

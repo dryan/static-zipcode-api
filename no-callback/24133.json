@@ -1,1 +1,1 @@
-{"lat": 36.677978, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Patrick Springs", "lng": -80.13511, "zip_code": "24133"}
+{"locality": "Patrick Springs", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Patrick Spgs", "Patrick Springs"], "postal_code": "24133", "lat": 36.677978, "lng": -80.13511, "type": "STANDARD", "counties": [{"fips": "141", "name": "Patrick"}]}

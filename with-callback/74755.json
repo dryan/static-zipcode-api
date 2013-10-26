@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.127277, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Rufe", "lng": -95.11846, "zip_code": "74755"});
+zipapicallback({"locality": "Rufe", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rufe"], "postal_code": "74755", "lat": 34.127277, "lng": -95.11846, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]});

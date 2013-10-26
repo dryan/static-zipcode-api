@@ -1,1 +1,1 @@
-{"lat": 33.321604, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Blue Ridge", "lng": -96.39502, "zip_code": "75424"}
+{"locality": "Blue Ridge", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Blue Ridge"], "postal_code": "75424", "lat": 33.321604, "lng": -96.39502, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 30.068888, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Waller", "lng": -95.92499, "zip_code": "77484"}
+{"locality": "Waller", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Prairie View", "Waller"], "postal_code": "77484", "lat": 30.068888, "lng": -95.92499, "type": "STANDARD", "counties": [{"fips": "473", "name": "Waller"}, {"fips": "201", "name": "Harris"}, {"fips": "185", "name": "Grimes"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.075975, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Sedalia", "lng": -79.63132, "zip_code": "27342"});
+zipapicallback({"locality": "Sedalia", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Sedalia"], "postal_code": "27342", "lat": 36.075975, "lng": -79.63132, "type": "POBOX", "counties": [{"fips": "081", "name": "Guilford"}]});

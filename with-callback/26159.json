@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.604088, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Paden City", "lng": -80.93276, "zip_code": "26159"});
+zipapicallback({"locality": "Paden City", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Paden City"], "postal_code": "26159", "lat": 39.604088, "lng": -80.93276, "type": "STANDARD", "counties": [{"fips": "095", "name": "Tyler"}, {"fips": "103", "name": "Wetzel"}]});

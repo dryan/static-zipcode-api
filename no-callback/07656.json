@@ -1,1 +1,1 @@
-{"lat": 41.034672, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Park Ridge", "lng": -74.04065, "zip_code": "07656"}
+{"locality": "Park Ridge", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Park Ridge"], "postal_code": "07656", "lat": 41.034672, "lng": -74.04065, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

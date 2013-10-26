@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.765452, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Chino Valley", "lng": -112.45931, "zip_code": "86323"});
+zipapicallback({"locality": "Chino Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chino Valley"], "postal_code": "86323", "lat": 34.765452, "lng": -112.45931, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

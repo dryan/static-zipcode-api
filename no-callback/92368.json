@@ -1,1 +1,1 @@
-{"lat": 34.634147, "region": {"abbr": "CA", "name": "California"}, "locality": "Oro Grande", "lng": -117.30614, "zip_code": "92368"}
+{"locality": "Oro Grande", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oro Grande"], "postal_code": "92368", "lat": 34.634147, "lng": -117.30614, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.718432, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hildebran", "lng": -81.41878, "zip_code": "28637"});
+zipapicallback({"locality": "Hildebran", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hildebran"], "postal_code": "28637", "lat": 35.718432, "lng": -81.41878, "type": "STANDARD", "counties": [{"fips": "023", "name": "Burke"}]});

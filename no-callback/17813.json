@@ -1,1 +1,1 @@
-{"lat": 40.768922, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Beavertown", "lng": -77.17854, "zip_code": "17813"}
+{"locality": "Beavertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Beavertown"], "postal_code": "17813", "lat": 40.768922, "lng": -77.17854, "type": "STANDARD", "counties": [{"fips": "109", "name": "Snyder"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.640791, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Interlachen", "lng": -81.88648, "zip_code": "32148"}
+{"locality": "Interlachen", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Interlachen"], "postal_code": "32148", "lat": 29.640791, "lng": -81.88648, "type": "STANDARD", "counties": []}

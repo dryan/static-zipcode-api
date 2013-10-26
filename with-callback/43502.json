@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.529231, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Archbold", "lng": -84.30866, "zip_code": "43502"});
+zipapicallback({"locality": "Archbold", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Archbold"], "postal_code": "43502", "lat": 41.529231, "lng": -84.30866, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fulton"}, {"fips": "069", "name": "Henry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.084211, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Oilton", "lng": -96.5794, "zip_code": "74052"});
+zipapicallback({"locality": "Oilton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Oilton"], "postal_code": "74052", "lat": 36.084211, "lng": -96.5794, "type": "POBOX", "counties": [{"fips": "037", "name": "Creek"}]});

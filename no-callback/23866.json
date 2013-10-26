@@ -1,1 +1,1 @@
-{"lat": 36.907991, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ivor", "lng": -76.89025, "zip_code": "23866"}
+{"locality": "Ivor", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ivor"], "postal_code": "23866", "lat": 36.907991, "lng": -76.89025, "type": "STANDARD", "counties": [{"fips": "175", "name": "Southampton"}]}

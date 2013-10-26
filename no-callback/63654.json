@@ -1,1 +1,1 @@
-{"lat": 37.478054, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lesterville", "lng": -90.83766, "zip_code": "63654"}
+{"locality": "Lesterville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lesterville"], "postal_code": "63654", "lat": 37.478054, "lng": -90.83766, "type": "STANDARD", "counties": [{"fips": "179", "name": "Reynolds"}]}

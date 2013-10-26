@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.797382, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bucoda", "lng": -122.85123, "zip_code": "98530"});
+zipapicallback({"locality": "Bucoda", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bucoda"], "postal_code": "98530", "lat": 46.797382, "lng": -122.85123, "type": "POBOX", "counties": [{"fips": "067", "name": "Thurston"}]});

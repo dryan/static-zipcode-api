@@ -1,1 +1,1 @@
-{"lat": 34.262751, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hackleburg", "lng": -87.83441, "zip_code": "35564"}
+{"locality": "Hackleburg", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hackleburg"], "postal_code": "35564", "lat": 34.262751, "lng": -87.83441, "type": "STANDARD", "counties": [{"fips": "093", "name": "Marion"}, {"fips": "059", "name": "Franklin"}]}

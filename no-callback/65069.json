@@ -1,1 +1,1 @@
-{"lat": 38.748204, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rhineland", "lng": -91.57242, "zip_code": "65069"}
+{"locality": "Rhineland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rhineland"], "postal_code": "65069", "lat": 38.748204, "lng": -91.57242, "type": "STANDARD", "counties": [{"fips": "139", "name": "Montgomery"}, {"fips": "027", "name": "Callaway"}]}

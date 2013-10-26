@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.575219, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Naples", "lng": -116.41475, "zip_code": "83847"});
+zipapicallback({"locality": "Naples", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Naples"], "postal_code": "83847", "lat": 48.575219, "lng": -116.41475, "type": "STANDARD", "counties": [{"fips": "021", "name": "Boundary"}]});

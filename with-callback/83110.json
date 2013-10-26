@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.681301, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Afton", "lng": -110.92196, "zip_code": "83110"});
+zipapicallback({"locality": "Afton", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Afton", "Turnerville"], "postal_code": "83110", "lat": 42.681301, "lng": -110.92196, "type": "STANDARD", "counties": [{"fips": "023", "name": "Lincoln"}]});

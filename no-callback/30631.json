@@ -1,1 +1,1 @@
-{"lat": 33.570317, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Crawfordville", "lng": -82.88542, "zip_code": "30631"}
+{"locality": "Crawfordville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Crawfordville"], "postal_code": "30631", "lat": 33.570317, "lng": -82.88542, "type": "STANDARD", "counties": [{"fips": "265", "name": "Taliaferro"}]}

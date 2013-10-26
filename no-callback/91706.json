@@ -1,1 +1,1 @@
-{"lat": 34.087108, "region": {"abbr": "CA", "name": "California"}, "locality": "Irwindale", "lng": -117.96966, "zip_code": "91706"}
+{"locality": "Baldwin Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Baldwin Park", "Irwindale"], "postal_code": "91706", "lat": 34.087108, "lng": -117.96966, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "039", "name": "Madera"}]}

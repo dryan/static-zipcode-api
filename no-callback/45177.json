@@ -1,1 +1,1 @@
-{"lat": 39.463476, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wilmington", "lng": -83.84446, "zip_code": "45177"}
+{"locality": "Wilmington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wilmington"], "postal_code": "45177", "lat": 39.463476, "lng": -83.84446, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]}

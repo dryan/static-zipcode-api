@@ -1,1 +1,1 @@
-{"lat": 38.199924, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Cannelton", "lng": -81.28865, "zip_code": "25036"}
+{"locality": "Cannelton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Cannelton"], "postal_code": "25036", "lat": 38.199924, "lng": -81.28865, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]}

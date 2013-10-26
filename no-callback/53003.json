@@ -1,1 +1,1 @@
-{"lat": 43.211067, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ashippun", "lng": -88.51649, "zip_code": "53003"}
+{"locality": "Ashippun", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ashippun"], "postal_code": "53003", "lat": 43.211067, "lng": -88.51649, "type": "POBOX", "counties": [{"fips": "027", "name": "Dodge"}]}

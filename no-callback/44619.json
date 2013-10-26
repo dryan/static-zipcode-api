@@ -1,1 +1,1 @@
-{"lat": 40.901738, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Damascus", "lng": -80.95723, "zip_code": "44619"}
+{"locality": "Damascus", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Damascus"], "postal_code": "44619", "lat": 40.901738, "lng": -80.95723, "type": "POBOX", "counties": [{"fips": "099", "name": "Mahoning"}]}

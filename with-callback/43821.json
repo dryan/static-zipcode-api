@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.130754, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Adams Mills", "lng": -82.01637, "zip_code": "43821"});
+zipapicallback({"locality": "Dresden", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Adams Mills", "Dresden"], "postal_code": "43821", "lat": 40.130754, "lng": -82.01637, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}, {"fips": "031", "name": "Coshocton"}]});

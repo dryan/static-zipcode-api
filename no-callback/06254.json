@@ -1,1 +1,1 @@
-{"lat": 41.609066, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "North Franklin", "lng": -72.14439, "zip_code": "06254"}
+{"locality": "North Franklin", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["N Franklin", "North Franklin"], "postal_code": "06254", "lat": 41.609066, "lng": -72.14439, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]}

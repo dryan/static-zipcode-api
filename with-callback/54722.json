@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.699923, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Augusta", "lng": -91.12509, "zip_code": "54722"});
+zipapicallback({"locality": "Augusta", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Augusta"], "postal_code": "54722", "lat": 44.699923, "lng": -91.12509, "type": "STANDARD", "counties": [{"fips": "035", "name": "Eau Claire"}]});

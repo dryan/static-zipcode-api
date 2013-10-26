@@ -1,1 +1,1 @@
-{"lat": 44.337276, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Peter", "lng": -93.99282, "zip_code": "56082"}
+{"locality": "Saint Peter", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Peter"], "postal_code": "56082", "lat": 44.337276, "lng": -93.99282, "type": "STANDARD", "counties": [{"fips": "103", "name": "Nicollet"}, {"fips": "079", "name": "Le Sueur"}]}

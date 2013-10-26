@@ -1,1 +1,1 @@
-{"lat": 39.710787, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Beavercreek", "lng": -84.08192, "zip_code": "45430"}
+{"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Beavercreek", "Beavercreek Township", "Beavercrk Twp", "Dayton", "Kettering"], "postal_code": "45430", "lat": 39.710787, "lng": -84.08192, "type": "STANDARD", "counties": [{"fips": "057", "name": "Greene"}]}

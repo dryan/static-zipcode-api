@@ -1,1 +1,1 @@
-{"lat": 43.622793, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oostburg", "lng": -87.80364, "zip_code": "53070"}
+{"locality": "Oostburg", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oostburg"], "postal_code": "53070", "lat": 43.622793, "lng": -87.80364, "type": "STANDARD", "counties": [{"fips": "117", "name": "Sheboygan"}]}

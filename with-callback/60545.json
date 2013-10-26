@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.665654, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Plano", "lng": -88.53697, "zip_code": "60545"});
+zipapicallback({"locality": "Plano", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Plano"], "postal_code": "60545", "lat": 41.665654, "lng": -88.53697, "type": "STANDARD", "counties": [{"fips": "093", "name": "Kendall"}]});

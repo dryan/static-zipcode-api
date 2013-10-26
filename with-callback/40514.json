@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.984907, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lexington", "lng": -84.56691, "zip_code": "40514"});
+zipapicallback({"locality": "Lexington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lexington"], "postal_code": "40514", "lat": 37.984907, "lng": -84.56691, "type": "STANDARD", "counties": [{"fips": "067", "name": "Fayette"}]});

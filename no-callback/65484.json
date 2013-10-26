@@ -1,1 +1,1 @@
-{"lat": 37.366219, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Huggins", "lng": -92.20608, "zip_code": "65484"}
+{"locality": "Huggins", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Huggins"], "postal_code": "65484", "lat": 37.366219, "lng": -92.20608, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}]}

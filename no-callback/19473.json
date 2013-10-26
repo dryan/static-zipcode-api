@@ -1,1 +1,1 @@
-{"lat": 40.257069, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Schwenksville", "lng": -75.47097, "zip_code": "19473"}
+{"locality": "Schwenksville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Collegeville", "Delphi", "Fruitville", "Neiffer", "Schwenksville"], "postal_code": "19473", "lat": 40.257069, "lng": -75.47097, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

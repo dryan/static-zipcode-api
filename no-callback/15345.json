@@ -1,1 +1,1 @@
-{"lat": 40.019657, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marianna", "lng": -80.10273, "zip_code": "15345"}
+{"locality": "Marianna", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marianna"], "postal_code": "15345", "lat": 40.019657, "lng": -80.10273, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

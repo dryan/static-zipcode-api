@@ -1,1 +1,1 @@
-{"lat": 39.098772, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Marydel", "lng": -75.73943, "zip_code": "19964"}
+{"locality": "Marydel", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Marydel"], "postal_code": "19964", "lat": 39.098772, "lng": -75.73943, "type": "STANDARD", "counties": [{"fips": "001", "name": "Kent"}]}

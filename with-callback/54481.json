@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.524054, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Stevens Point", "lng": -89.55621, "zip_code": "54481"});
+zipapicallback({"locality": "Stevens Point", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Stevens Point"], "postal_code": "54481", "lat": 44.524054, "lng": -89.55621, "type": "STANDARD", "counties": [{"fips": "097", "name": "Portage"}]});

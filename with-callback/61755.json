@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.533634, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mackinaw", "lng": -89.34345, "zip_code": "61755"});
+zipapicallback({"locality": "Mackinaw", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mackinaw"], "postal_code": "61755", "lat": 40.533634, "lng": -89.34345, "type": "STANDARD", "counties": [{"fips": "179", "name": "Tazewell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.53227, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Watton", "lng": -88.60459, "zip_code": "49970"});
+zipapicallback({"locality": "Watton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Watton"], "postal_code": "49970", "lat": 46.53227, "lng": -88.60459, "type": "STANDARD", "counties": [{"fips": "013", "name": "Baraga"}]});

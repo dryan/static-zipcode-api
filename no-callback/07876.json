@@ -1,1 +1,1 @@
-{"lat": 40.855549, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Succasunna", "lng": -74.65251, "zip_code": "07876"}
+{"locality": "Succasunna", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Succasunna"], "postal_code": "07876", "lat": 40.855549, "lng": -74.65251, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

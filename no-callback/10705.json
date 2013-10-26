@@ -1,1 +1,1 @@
-{"lat": 40.917281, "region": {"abbr": "NY", "name": "New York"}, "locality": "Yonkers", "lng": -73.89142, "zip_code": "10705"}
+{"locality": "Yonkers", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Yonkers"], "postal_code": "10705", "lat": 40.917281, "lng": -73.89142, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

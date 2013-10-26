@@ -1,1 +1,1 @@
-{"lat": 42.45384, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Pittsfield", "lng": -73.254, "zip_code": "01201"}
+{"locality": "Pittsfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Pittsfield"], "postal_code": "01201", "lat": 42.45384, "lng": -73.254, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.743423, "region": {"abbr": "CA", "name": "California"}, "locality": "Lewiston", "lng": -122.81414, "zip_code": "96052"});
+zipapicallback({"locality": "Lewiston", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lewiston"], "postal_code": "96052", "lat": 40.743423, "lng": -122.81414, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]});

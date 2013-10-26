@@ -1,1 +1,1 @@
-{"lat": 36.557263, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Helena", "lng": -98.27451, "zip_code": "73741"}
+{"locality": "Helena", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Helena"], "postal_code": "73741", "lat": 36.557263, "lng": -98.27451, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}]}

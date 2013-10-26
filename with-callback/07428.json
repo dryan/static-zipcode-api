@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.181052, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mc Afee", "lng": -74.51796, "zip_code": "07428"});
+zipapicallback({"locality": "Mc Afee", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mc Afee"], "postal_code": "07428", "lat": 41.181052, "lng": -74.51796, "type": "POBOX", "counties": [{"fips": "037", "name": "Sussex"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.742355, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Easton", "lng": -94.65253, "zip_code": "64443"});
+zipapicallback({"locality": "Easton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Easton"], "postal_code": "64443", "lat": 39.742355, "lng": -94.65253, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buchanan"}]});

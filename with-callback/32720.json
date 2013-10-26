@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.021782, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Deland", "lng": -81.33352, "zip_code": "32720"});
+zipapicallback({"locality": "Deland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Deland"], "postal_code": "32720", "lat": 29.021782, "lng": -81.33352, "type": "STANDARD", "counties": [{"fips": "127", "name": "Volusia"}, {"fips": "069", "name": "Lake"}, {"fips": "095", "name": "Orange"}]});

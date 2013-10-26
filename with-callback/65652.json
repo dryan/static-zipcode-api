@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.145969, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fordland", "lng": -92.94888, "zip_code": "65652"});
+zipapicallback({"locality": "Fordland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fordland"], "postal_code": "65652", "lat": 37.145969, "lng": -92.94888, "type": "STANDARD", "counties": [{"fips": "225", "name": "Webster"}, {"fips": "067", "name": "Douglas"}, {"fips": "043", "name": "Christian"}]});

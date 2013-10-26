@@ -1,1 +1,1 @@
-{"lat": 46.096447, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Broadview", "lng": -108.83134, "zip_code": "59015"}
+{"locality": "Broadview", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Broadview"], "postal_code": "59015", "lat": 46.096447, "lng": -108.83134, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]}

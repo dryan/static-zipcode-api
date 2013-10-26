@@ -1,1 +1,1 @@
-{"lat": 37.183505, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Mexican Hat", "lng": -109.93383, "zip_code": "84531"}
+{"locality": "Mexican Hat", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Mexican Hat"], "postal_code": "84531", "lat": 37.183505, "lng": -109.93383, "type": "POBOX", "counties": [{"fips": "037", "name": "San Juan"}]}

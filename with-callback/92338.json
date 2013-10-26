@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.720285, "region": {"abbr": "CA", "name": "California"}, "locality": "Ludlow", "lng": -116.1982, "zip_code": "92338"});
+zipapicallback({"locality": "Ludlow", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ludlow", "Newberry Spgs", "Newberry Springs"], "postal_code": "92338", "lat": 34.720285, "lng": -116.1982, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.408775, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Chester", "lng": -72.47213, "zip_code": "06412"});
+zipapicallback({"locality": "Chester", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Chester"], "postal_code": "06412", "lat": 41.408775, "lng": -72.47213, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}, {"fips": "009", "name": "New Haven"}]});

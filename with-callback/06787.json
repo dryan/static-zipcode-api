@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.677982, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Thomaston", "lng": -73.08979, "zip_code": "06787"});
+zipapicallback({"locality": "Thomaston", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Thomaston"], "postal_code": "06787", "lat": 41.677982, "lng": -73.08979, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

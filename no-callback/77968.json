@@ -1,1 +1,1 @@
-{"lat": 28.888476, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Inez", "lng": -96.82316, "zip_code": "77968"}
+{"locality": "Inez", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Inez"], "postal_code": "77968", "lat": 28.888476, "lng": -96.82316, "type": "STANDARD", "counties": [{"fips": "469", "name": "Victoria"}]}

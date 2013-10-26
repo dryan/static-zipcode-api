@@ -1,1 +1,1 @@
-{"lat": 39.807684, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mount Royal", "lng": -75.20496, "zip_code": "08061"}
+{"locality": "Mount Royal", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mount Royal"], "postal_code": "08061", "lat": 39.807684, "lng": -75.20496, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

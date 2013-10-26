@@ -1,1 +1,1 @@
-{"lat": 42.032379, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Niles", "lng": -87.81563, "zip_code": "60714"}
+{"locality": "Niles", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Niles"], "postal_code": "60714", "lat": 42.032379, "lng": -87.81563, "type": "STANDARD", "counties": []}

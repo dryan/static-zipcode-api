@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.36157, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Centerton", "lng": -94.29398, "zip_code": "72719"});
+zipapicallback({"locality": "Centerton", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Centerton"], "postal_code": "72719", "lat": 36.36157, "lng": -94.29398, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]});

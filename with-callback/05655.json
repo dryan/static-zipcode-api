@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.610931, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Hyde Park", "lng": -72.59971, "zip_code": "05655"});
+zipapicallback({"locality": "Hyde Park", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Hyde Park"], "postal_code": "05655", "lat": 44.610931, "lng": -72.59971, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}]});

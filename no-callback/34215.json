@@ -1,1 +1,1 @@
-{"lat": 27.469113, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cortez", "lng": -82.68765, "zip_code": "34215"}
+{"locality": "Cortez", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cortez"], "postal_code": "34215", "lat": 27.469113, "lng": -82.68765, "type": "STANDARD", "counties": [{"fips": "081", "name": "Manatee"}]}

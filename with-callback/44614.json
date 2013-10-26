@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.886688, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Canal Fulton", "lng": -81.58327, "zip_code": "44614"});
+zipapicallback({"locality": "Canal Fulton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canal Fulton"], "postal_code": "44614", "lat": 40.886688, "lng": -81.58327, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "153", "name": "Summit"}, {"fips": "169", "name": "Wayne"}]});

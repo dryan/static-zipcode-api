@@ -1,1 +1,1 @@
-{"lat": 40.937432, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Derby", "lng": -93.45659, "zip_code": "50068"}
+{"locality": "Derby", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Derby"], "postal_code": "50068", "lat": 40.937432, "lng": -93.45659, "type": "STANDARD", "counties": [{"fips": "117", "name": "Lucas"}, {"fips": "185", "name": "Wayne"}]}

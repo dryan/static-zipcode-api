@@ -1,1 +1,1 @@
-{"lat": 42.631625, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Sand Lake", "lng": -73.61619, "zip_code": "12196"}
+{"locality": "West Sand Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["W Sand Lake", "West Sand Lake"], "postal_code": "12196", "lat": 42.631625, "lng": -73.61619, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.558702, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Grant Town", "lng": -80.17617, "zip_code": "26574"});
+zipapicallback({"locality": "Grant Town", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Grant Town"], "postal_code": "26574", "lat": 39.558702, "lng": -80.17617, "type": "POBOX", "counties": [{"fips": "049", "name": "Marion"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.201503, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cumming", "lng": -84.09764, "zip_code": "30041"});
+zipapicallback({"locality": "Cumming", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cumming"], "postal_code": "30041", "lat": 34.201503, "lng": -84.09764, "type": "STANDARD", "counties": []});

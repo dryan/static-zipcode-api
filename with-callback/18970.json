@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.412771, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Trumbauersville", "lng": -75.38625, "zip_code": "18970"});
+zipapicallback({"locality": "Trumbauersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Trumbauersville", "Trumbaursvlle"], "postal_code": "18970", "lat": 40.412771, "lng": -75.38625, "type": "POBOX", "counties": [{"fips": "017", "name": "Bucks"}]});

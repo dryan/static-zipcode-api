@@ -1,1 +1,1 @@
-{"lat": 42.514885, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Warren", "lng": -82.99768, "zip_code": "48093"}
+{"locality": "Warren", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Warren"], "postal_code": "48093", "lat": 42.514885, "lng": -82.99768, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]}

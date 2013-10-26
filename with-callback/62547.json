@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.771541, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Auburn", "lng": -89.24331, "zip_code": "62547"});
+zipapicallback({"locality": "Mount Auburn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Auburn"], "postal_code": "62547", "lat": 39.771541, "lng": -89.24331, "type": "STANDARD", "counties": [{"fips": "021", "name": "Christian"}, {"fips": "115", "name": "MacOn"}]});

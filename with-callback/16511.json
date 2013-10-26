@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.156157, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Erie", "lng": -80.01686, "zip_code": "16511"});
+zipapicallback({"locality": "Erie", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Erie"], "postal_code": "16511", "lat": 42.156157, "lng": -80.01686, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}]});

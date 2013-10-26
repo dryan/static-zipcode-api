@@ -1,1 +1,1 @@
-{"lat": 39.179875, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Litchfield", "lng": -89.65721, "zip_code": "62056"}
+{"locality": "Litchfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Litchfield"], "postal_code": "62056", "lat": 39.179875, "lng": -89.65721, "type": "STANDARD", "counties": [{"fips": "135", "name": "Montgomery"}, {"fips": "117", "name": "MacOupin"}]}

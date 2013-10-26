@@ -1,1 +1,1 @@
-{"lat": 48.55113, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Friday Harbor", "lng": -123.07563, "zip_code": "98250"}
+{"locality": "Friday Harbor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Friday Harbor", "Roche Harbor"], "postal_code": "98250", "lat": 48.55113, "lng": -123.07563, "type": "STANDARD", "counties": [{"fips": "055", "name": "San Juan"}]}

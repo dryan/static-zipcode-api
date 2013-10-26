@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.573552, "region": {"abbr": "NY", "name": "New York"}, "locality": "Irving", "lng": -79.09002, "zip_code": "14081"});
+zipapicallback({"locality": "Irving", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Irving"], "postal_code": "14081", "lat": 42.573552, "lng": -79.09002, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}, {"fips": "009", "name": "Cattaraugus"}, {"fips": "029", "name": "Erie"}]});

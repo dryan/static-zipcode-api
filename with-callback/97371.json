@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.964115, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Rickreall", "lng": -123.20681, "zip_code": "97371"});
+zipapicallback({"locality": "Rickreall", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Rickreall"], "postal_code": "97371", "lat": 44.964115, "lng": -123.20681, "type": "STANDARD", "counties": [{"fips": "053", "name": "Polk"}]});

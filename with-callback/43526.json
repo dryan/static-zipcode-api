@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.30569, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hicksville", "lng": -84.74496, "zip_code": "43526"});
+zipapicallback({"locality": "Hicksville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hicksville"], "postal_code": "43526", "lat": 41.30569, "lng": -84.74496, "type": "STANDARD", "counties": [{"fips": "039", "name": "Defiance"}, {"fips": "125", "name": "Paulding"}]});

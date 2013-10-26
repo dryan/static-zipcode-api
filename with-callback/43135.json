@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.473379, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Laurelville", "lng": -82.71076, "zip_code": "43135"});
+zipapicallback({"locality": "Laurelville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Laurelville"], "postal_code": "43135", "lat": 39.473379, "lng": -82.71076, "type": "STANDARD", "counties": [{"fips": "073", "name": "Hocking"}, {"fips": "163", "name": "Vinton"}, {"fips": "129", "name": "Pickaway"}, {"fips": "141", "name": "Ross"}]});

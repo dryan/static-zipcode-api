@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.575126, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "College Corner", "lng": -84.7905, "zip_code": "45003"});
+zipapicallback({"locality": "College Corner", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["College Cor", "College Corner"], "postal_code": "45003", "lat": 39.575126, "lng": -84.7905, "type": "STANDARD", "counties": [{"fips": "017", "name": "Butler"}]});

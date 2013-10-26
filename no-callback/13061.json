@@ -1,1 +1,1 @@
-{"lat": 42.859332, "region": {"abbr": "NY", "name": "New York"}, "locality": "Erieville", "lng": -75.74261, "zip_code": "13061"}
+{"locality": "Erieville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Erieville"], "postal_code": "13061", "lat": 42.859332, "lng": -75.74261, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]}

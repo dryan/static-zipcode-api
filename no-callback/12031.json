@@ -1,1 +1,1 @@
-{"lat": 42.770985, "region": {"abbr": "NY", "name": "New York"}, "locality": "Carlisle", "lng": -74.44694, "zip_code": "12031"}
+{"locality": "Carlisle", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Carlisle"], "postal_code": "12031", "lat": 42.770985, "lng": -74.44694, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]}

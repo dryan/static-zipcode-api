@@ -1,1 +1,1 @@
-{"lat": 42.809286, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Brunsville", "lng": -96.2687, "zip_code": "51008"}
+{"locality": "Brunsville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Brunsville"], "postal_code": "51008", "lat": 42.809286, "lng": -96.2687, "type": "POBOX", "counties": [{"fips": "149", "name": "Plymouth"}]}

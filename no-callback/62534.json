@@ -1,1 +1,1 @@
-{"lat": 39.529092, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Brunswick", "lng": -88.7821, "zip_code": "62534"}
+{"locality": "Findlay", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Findlay", "Yantisville"], "postal_code": "62534", "lat": 39.529092, "lng": -88.7821, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}]}

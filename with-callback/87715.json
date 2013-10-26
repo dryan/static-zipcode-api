@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.006137, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cleveland", "lng": -105.39831, "zip_code": "87715"});
+zipapicallback({"locality": "Cleveland", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cleveland"], "postal_code": "87715", "lat": 36.006137, "lng": -105.39831, "type": "STANDARD", "counties": [{"fips": "033", "name": "Mora"}]});

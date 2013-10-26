@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.735594, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Northrop", "lng": -94.43584, "zip_code": "56075"});
+zipapicallback({"locality": "Northrop", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Fairmont", "Northrop"], "postal_code": "56075", "lat": 43.735594, "lng": -94.43584, "type": "POBOX", "counties": [{"fips": "091", "name": "Martin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.033564, "region": {"abbr": "CA", "name": "California"}, "locality": "Yucaipa", "lng": -117.03776, "zip_code": "92399"});
+zipapicallback({"locality": "Yucaipa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oak Glen", "Yucaipa"], "postal_code": "92399", "lat": 34.033564, "lng": -117.03776, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

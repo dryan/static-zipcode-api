@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.101683, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Bloomer", "lng": -91.48415, "zip_code": "54724"});
+zipapicallback({"locality": "Bloomer", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bloomer"], "postal_code": "54724", "lat": 45.101683, "lng": -91.48415, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chippewa"}, {"fips": "033", "name": "Dunn"}]});

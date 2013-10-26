@@ -1,1 +1,1 @@
-{"lat": 44.42977, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Kents Hill", "lng": -70.06456, "zip_code": "04349"}
+{"locality": "Kents Hill", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Fayette", "Kents Hill"], "postal_code": "04349", "lat": 44.42977, "lng": -70.06456, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]}

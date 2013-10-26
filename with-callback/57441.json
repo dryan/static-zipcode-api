@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.834246, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Frederick", "lng": -98.51539, "zip_code": "57441"});
+zipapicallback({"locality": "Frederick", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Frederick"], "postal_code": "57441", "lat": 45.834246, "lng": -98.51539, "type": "STANDARD", "counties": [{"fips": "013", "name": "Brown"}]});

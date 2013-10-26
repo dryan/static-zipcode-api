@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.215939, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hampden", "lng": -76.99827, "zip_code": "17055"});
+zipapicallback({"locality": "Mechanicsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bowmansdale", "Mechanicsburg"], "postal_code": "17055", "lat": 40.215939, "lng": -76.99827, "type": "STANDARD", "counties": [{"fips": "041", "name": "Cumberland"}, {"fips": "133", "name": "York"}]});

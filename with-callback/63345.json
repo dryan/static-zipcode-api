@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.267199, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Farber", "lng": -91.56669, "zip_code": "63345"});
+zipapicallback({"locality": "Farber", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Farber"], "postal_code": "63345", "lat": 39.267199, "lng": -91.56669, "type": "STANDARD", "counties": [{"fips": "007", "name": "Audrain"}]});

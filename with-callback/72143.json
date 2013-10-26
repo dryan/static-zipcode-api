@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.239022, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Georgetown", "lng": -91.73776, "zip_code": "72143"});
+zipapicallback({"locality": "Searcy", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Georgetown", "Searcy"], "postal_code": "72143", "lat": 35.239022, "lng": -91.73776, "type": "STANDARD", "counties": [{"fips": "145", "name": "White"}, {"fips": "023", "name": "Cleburne"}]});

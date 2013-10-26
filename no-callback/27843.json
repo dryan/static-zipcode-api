@@ -1,1 +1,1 @@
-{"lat": 35.999591, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hobgood", "lng": -77.40241, "zip_code": "27843"}
+{"locality": "Hobgood", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hobgood"], "postal_code": "27843", "lat": 35.999591, "lng": -77.40241, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}, {"fips": "065", "name": "Edgecombe"}, {"fips": "117", "name": "Martin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.9413, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Olanta", "lng": -79.93219, "zip_code": "29114"});
+zipapicallback({"locality": "Olanta", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Olanta"], "postal_code": "29114", "lat": 33.9413, "lng": -79.93219, "type": "STANDARD", "counties": [{"fips": "041", "name": "Florence"}, {"fips": "085", "name": "Sumter"}, {"fips": "027", "name": "Clarendon"}]});

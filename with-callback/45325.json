@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.685116, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Farmersville", "lng": -84.42307, "zip_code": "45325"});
+zipapicallback({"locality": "Farmersville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Farmersville", "Germantown"], "postal_code": "45325", "lat": 39.685116, "lng": -84.42307, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}, {"fips": "135", "name": "Preble"}]});

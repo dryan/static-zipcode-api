@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.427758, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Greenbrier", "lng": -86.81023, "zip_code": "37073"});
+zipapicallback({"locality": "Greenbrier", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Greenbrier"], "postal_code": "37073", "lat": 36.427758, "lng": -86.81023, "type": "STANDARD", "counties": [{"fips": "147", "name": "Robertson"}]});

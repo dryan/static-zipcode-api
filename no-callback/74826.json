@@ -1,1 +1,1 @@
-{"lat": 35.012407, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Asher", "lng": -96.91873, "zip_code": "74826"}
+{"locality": "Asher", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Asher"], "postal_code": "74826", "lat": 35.012407, "lng": -96.91873, "type": "STANDARD", "counties": [{"fips": "125", "name": "Pottawatomie"}]}

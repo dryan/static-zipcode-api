@@ -1,1 +1,1 @@
-{"lat": 39.66851, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Clinton", "lng": -87.43577, "zip_code": "47842"}
+{"locality": "Clinton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Clinton"], "postal_code": "47842", "lat": 39.66851, "lng": -87.43577, "type": "STANDARD", "counties": [{"fips": "165", "name": "Vermillion"}]}

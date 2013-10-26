@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.623996, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "South Byron", "lng": -88.51089, "zip_code": "53006"});
+zipapicallback({"locality": "Brownsville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brownsville", "Byron", "South Byron"], "postal_code": "53006", "lat": 43.623996, "lng": -88.51089, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}, {"fips": "039", "name": "Fond Du Lac"}]});

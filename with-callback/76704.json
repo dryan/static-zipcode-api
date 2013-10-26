@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.571266, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bellmead", "lng": -97.12201, "zip_code": "76704"});
+zipapicallback({"locality": "Waco", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bellmead", "Waco"], "postal_code": "76704", "lat": 31.571266, "lng": -97.12201, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}]});

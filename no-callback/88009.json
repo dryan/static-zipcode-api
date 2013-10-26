@@ -1,1 +1,1 @@
-{"lat": 31.859178, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Playas", "lng": -108.53985, "zip_code": "88009"}
+{"locality": "Playas", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lordsburg", "Playas"], "postal_code": "88009", "lat": 31.859178, "lng": -108.53985, "type": "POBOX", "counties": [{"fips": "023", "name": "Hidalgo"}]}

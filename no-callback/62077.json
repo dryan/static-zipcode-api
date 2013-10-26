@@ -1,1 +1,1 @@
-{"lat": 39.031623, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Panama", "lng": -89.5228, "zip_code": "62077"}
+{"locality": "Panama", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Panama"], "postal_code": "62077", "lat": 39.031623, "lng": -89.5228, "type": "POBOX", "counties": [{"fips": "135", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.101742, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Mount Vernon", "lng": -93.80738, "zip_code": "65712"}
+{"locality": "Mount Vernon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Mount Vernon"], "postal_code": "65712", "lat": 37.101742, "lng": -93.80738, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lawrence"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.602847, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Allentown", "lng": -75.47022, "zip_code": "18101"}
+{"locality": "Allentown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Allentown"], "postal_code": "18101", "lat": 40.602847, "lng": -75.47022, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]}

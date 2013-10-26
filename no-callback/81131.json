@@ -1,1 +1,1 @@
-{"lat": 37.945768, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Crestone", "lng": -105.69706, "zip_code": "81131"}
+{"locality": "Crestone", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Crestone"], "postal_code": "81131", "lat": 37.945768, "lng": -105.69706, "type": "POBOX", "counties": [{"fips": "109", "name": "Saguache"}]}

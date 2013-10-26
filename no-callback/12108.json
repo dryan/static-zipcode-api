@@ -1,1 +1,1 @@
-{"lat": 43.525388, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lake Pleasant", "lng": -74.40875, "zip_code": "12108"}
+{"locality": "Lake Pleasant", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lake Pleasant"], "postal_code": "12108", "lat": 43.525388, "lng": -74.40875, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hamilton"}]}

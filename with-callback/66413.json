@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.767905, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Burlingame", "lng": -95.88076, "zip_code": "66413"});
+zipapicallback({"locality": "Burlingame", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Burlingame"], "postal_code": "66413", "lat": 38.767905, "lng": -95.88076, "type": "STANDARD", "counties": [{"fips": "139", "name": "Osage"}, {"fips": "197", "name": "Wabaunsee"}, {"fips": "111", "name": "Lyon"}]});

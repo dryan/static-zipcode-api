@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.288178, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "W Harrison", "lng": -84.87774, "zip_code": "47060"});
+zipapicallback({"locality": "West Harrison", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["West Harrison"], "postal_code": "47060", "lat": 39.288178, "lng": -84.87774, "type": "STANDARD", "counties": [{"fips": "029", "name": "Dearborn"}]});

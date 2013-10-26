@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.936261, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Holbrook", "lng": -110.14698, "zip_code": "86025"});
+zipapicallback({"locality": "Holbrook", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Holbrook"], "postal_code": "86025", "lat": 34.936261, "lng": -110.14698, "type": "STANDARD", "counties": [{"fips": "017", "name": "Navajo"}]});

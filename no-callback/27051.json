@@ -1,1 +1,1 @@
-{"lat": 36.174243, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Walkertown", "lng": -80.16679, "zip_code": "27051"}
+{"locality": "Walkertown", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Walkertown"], "postal_code": "27051", "lat": 36.174243, "lng": -80.16679, "type": "STANDARD", "counties": [{"fips": "067", "name": "Forsyth"}]}

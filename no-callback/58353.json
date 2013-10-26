@@ -1,1 +1,1 @@
-{"lat": 48.636915, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Mylo", "lng": -99.61665, "zip_code": "58353"}
+{"locality": "Mylo", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Mylo"], "postal_code": "58353", "lat": 48.636915, "lng": -99.61665, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rolette"}]}

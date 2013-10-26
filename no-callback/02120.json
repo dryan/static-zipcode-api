@@ -1,1 +1,1 @@
-{"lat": 42.332099, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Roxbury", "lng": -71.09651, "zip_code": "02120"}
+{"locality": "Roxbury Crossing", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston", "Mission Hill", "Roxbury", "Roxbury Crossing", "Roxbury Xing"], "postal_code": "02120", "lat": 42.332099, "lng": -71.09651, "type": "STANDARD", "counties": [{"fips": "025", "name": "Suffolk"}]}

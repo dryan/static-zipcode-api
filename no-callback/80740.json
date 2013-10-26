@@ -1,1 +1,1 @@
-{"lat": 39.724528, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Lindon", "lng": -103.38353, "zip_code": "80740"}
+{"locality": "Lindon", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Lindon"], "postal_code": "80740", "lat": 39.724528, "lng": -103.38353, "type": "STANDARD", "counties": [{"fips": "121", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.283012, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Weedville", "lng": -78.42919, "zip_code": "15868"}
+{"locality": "Weedville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Weedville"], "postal_code": "15868", "lat": 41.283012, "lng": -78.42919, "type": "STANDARD", "counties": [{"fips": "047", "name": "Elk"}]}

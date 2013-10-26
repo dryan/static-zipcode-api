@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.275896, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Earlington", "lng": -87.51498, "zip_code": "42410"});
+zipapicallback({"locality": "Earlington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Earlington"], "postal_code": "42410", "lat": 37.275896, "lng": -87.51498, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}]});

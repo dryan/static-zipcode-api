@@ -1,1 +1,1 @@
-{"lat": 40.76172, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ford Cliff", "lng": -79.53488, "zip_code": "16228"}
+{"locality": "Ford Cliff", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ford Cliff"], "postal_code": "16228", "lat": 40.76172, "lng": -79.53488, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]}

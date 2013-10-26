@@ -1,1 +1,1 @@
-{"lat": 33.888165, "region": {"abbr": "CA", "name": "California"}, "locality": "Bellflower", "lng": -118.1276, "zip_code": "90706"}
+{"locality": "Bellflower", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bellflower"], "postal_code": "90706", "lat": 33.888165, "lng": -118.1276, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

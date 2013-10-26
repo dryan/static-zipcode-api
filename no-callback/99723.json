@@ -1,1 +1,1 @@
-{"lat": 71.299525, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Barrow", "lng": -156.74891, "zip_code": "99723"}
+{"locality": "Barrow", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Barrow"], "postal_code": "99723", "lat": 71.299525, "lng": -156.74891, "type": "POBOX", "counties": [{"fips": "185", "name": "North Slope"}]}

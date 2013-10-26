@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.543149, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mendota", "lng": -89.10696, "zip_code": "61342"});
+zipapicallback({"locality": "Mendota", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mendota"], "postal_code": "61342", "lat": 41.543149, "lng": -89.10696, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}, {"fips": "103", "name": "Lee"}, {"fips": "011", "name": "Bureau"}]});

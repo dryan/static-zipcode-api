@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.139536, "region": {"abbr": "CA", "name": "California"}, "locality": "Oak Park", "lng": -118.7607, "zip_code": "91301"});
+zipapicallback({"locality": "Agoura Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Agoura", "Agoura Hills", "Calabasas", "Calabasas Hills", "Calabasas Hls", "Cornell", "Oak Park", "Saratoga Hills", "Saratoga Hls"], "postal_code": "91301", "lat": 34.139536, "lng": -118.7607, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]});

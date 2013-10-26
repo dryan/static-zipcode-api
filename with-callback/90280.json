@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.944264, "region": {"abbr": "CA", "name": "California"}, "locality": "South Gate", "lng": -118.1949, "zip_code": "90280"});
+zipapicallback({"locality": "South Gate", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["South Gate"], "postal_code": "90280", "lat": 33.944264, "lng": -118.1949, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

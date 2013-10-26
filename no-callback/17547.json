@@ -1,1 +1,1 @@
-{"lat": 40.064862, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marietta", "lng": -76.57145, "zip_code": "17547"}
+{"locality": "Marietta", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marietta"], "postal_code": "17547", "lat": 40.064862, "lng": -76.57145, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}, {"fips": "011", "name": "Berks"}]}

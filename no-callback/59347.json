@@ -1,1 +1,1 @@
-{"lat": 46.632549, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Rosebud", "lng": -106.39641, "zip_code": "59347"}
+{"locality": "Rosebud", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Rosebud"], "postal_code": "59347", "lat": 46.632549, "lng": -106.39641, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rosebud"}]}

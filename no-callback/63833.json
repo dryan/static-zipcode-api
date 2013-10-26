@@ -1,1 +1,1 @@
-{"lat": 36.642019, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Catron", "lng": -89.73149, "zip_code": "63833"}
+{"locality": "Catron", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Catron"], "postal_code": "63833", "lat": 36.642019, "lng": -89.73149, "type": "STANDARD", "counties": [{"fips": "143", "name": "New Madrid"}, {"fips": "207", "name": "Stoddard"}]}

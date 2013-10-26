@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.700258, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Bellvue", "lng": -105.64876, "zip_code": "80512"});
+zipapicallback({"locality": "Bellvue", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Bellvue"], "postal_code": "80512", "lat": 40.700258, "lng": -105.64876, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}]});

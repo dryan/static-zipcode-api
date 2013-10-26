@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.663209, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kingsland", "lng": -98.44588, "zip_code": "78639"});
+zipapicallback({"locality": "Kingsland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kingsland"], "postal_code": "78639", "lat": 30.663209, "lng": -98.44588, "type": "STANDARD", "counties": [{"fips": "299", "name": "Llano"}]});

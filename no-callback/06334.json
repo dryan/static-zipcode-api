@@ -1,1 +1,1 @@
-{"lat": 41.543559, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Bozrah", "lng": -72.17684, "zip_code": "06334"}
+{"locality": "Bozrah", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Bozrah"], "postal_code": "06334", "lat": 41.543559, "lng": -72.17684, "type": "POBOX", "counties": [{"fips": "011", "name": "New London"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.040345, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hamburg", "lng": -90.01829, "zip_code": "54411"});
+zipapicallback({"locality": "Athens", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Athens", "Hamburg", "Milan"], "postal_code": "54411", "lat": 45.040345, "lng": -90.01829, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}, {"fips": "119", "name": "Taylor"}]});

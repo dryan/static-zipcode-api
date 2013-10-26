@@ -1,1 +1,1 @@
-{"lat": 32.673398, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Hurley", "lng": -108.11625, "zip_code": "88043"}
+{"locality": "Hurley", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Hurley"], "postal_code": "88043", "lat": 32.673398, "lng": -108.11625, "type": "STANDARD", "counties": [{"fips": "017", "name": "Grant"}]}

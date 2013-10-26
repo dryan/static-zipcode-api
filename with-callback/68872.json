@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.097169, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Saint Libory", "lng": -98.31587, "zip_code": "68872"});
+zipapicallback({"locality": "Saint Libory", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Saint Libory"], "postal_code": "68872", "lat": 41.097169, "lng": -98.31587, "type": "STANDARD", "counties": [{"fips": "093", "name": "Howard"}, {"fips": "121", "name": "Merrick"}, {"fips": "079", "name": "Hall"}]});

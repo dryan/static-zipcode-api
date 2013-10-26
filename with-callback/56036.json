@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.550747, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Glenville", "lng": -93.21987, "zip_code": "56036"});
+zipapicallback({"locality": "Glenville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Glenville", "London", "Myrtle"], "postal_code": "56036", "lat": 43.550747, "lng": -93.21987, "type": "STANDARD", "counties": [{"fips": "047", "name": "Freeborn"}]});

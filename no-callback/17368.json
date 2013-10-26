@@ -1,1 +1,1 @@
-{"lat": 40.002058, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wrightsville", "lng": -76.52757, "zip_code": "17368"}
+{"locality": "Wrightsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wrightsville"], "postal_code": "17368", "lat": 40.002058, "lng": -76.52757, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

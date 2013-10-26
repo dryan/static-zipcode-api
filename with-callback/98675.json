@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.843674, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Yacolt", "lng": -122.39221, "zip_code": "98675"});
+zipapicallback({"locality": "Yacolt", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Yacolt"], "postal_code": "98675", "lat": 45.843674, "lng": -122.39221, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}]});

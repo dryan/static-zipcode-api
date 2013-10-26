@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.971973, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Fort Washakie", "lng": -108.92886, "zip_code": "82514"});
+zipapicallback({"locality": "Fort Washakie", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Fort Washakie"], "postal_code": "82514", "lat": 42.971973, "lng": -108.92886, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]});

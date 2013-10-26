@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.883503, "region": {"abbr": "NY", "name": "New York"}, "locality": "La Fayette", "lng": -76.10983, "zip_code": "13084"});
+zipapicallback({"locality": "La Fayette", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["La Fayette"], "postal_code": "13084", "lat": 42.883503, "lng": -76.10983, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.110336, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Cardville", "lng": -68.62103, "zip_code": "04418"});
+zipapicallback({"locality": "Greenbush", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cardville", "Costigan", "Greenbush", "Greenfield Twp", "Greenfld Twp", "Olamon"], "postal_code": "04418", "lat": 45.110336, "lng": -68.62103, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

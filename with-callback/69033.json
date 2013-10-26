@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.530405, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Imperial", "lng": -101.67576, "zip_code": "69033"});
+zipapicallback({"locality": "Imperial", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Imperial"], "postal_code": "69033", "lat": 40.530405, "lng": -101.67576, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chase"}, {"fips": "135", "name": "Perkins"}]});

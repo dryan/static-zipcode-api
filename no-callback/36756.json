@@ -1,1 +1,1 @@
-{"lat": 32.665966, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Marion", "lng": -87.33889, "zip_code": "36756"}
+{"locality": "Marion", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Marion", "Sprott"], "postal_code": "36756", "lat": 32.665966, "lng": -87.33889, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perry"}, {"fips": "065", "name": "Hale"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.979333, "region": {"abbr": "CA", "name": "California"}, "locality": "Aptos", "lng": -121.8944, "zip_code": "95003"});
+zipapicallback({"locality": "Aptos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Aptos"], "postal_code": "95003", "lat": 36.979333, "lng": -121.8944, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}]});

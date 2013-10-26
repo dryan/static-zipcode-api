@@ -1,1 +1,1 @@
-{"lat": 39.813744, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Black Hawk", "lng": -105.50875, "zip_code": "80422"}
+{"locality": "Black Hawk", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Black Hawk"], "postal_code": "80422", "lat": 39.813744, "lng": -105.50875, "type": "STANDARD", "counties": [{"fips": "047", "name": "Gilpin"}]}

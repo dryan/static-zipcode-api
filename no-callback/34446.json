@@ -1,1 +1,1 @@
-{"lat": 28.746912, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Homosassa", "lng": -82.53331, "zip_code": "34446"}
+{"locality": "Homosassa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Homosassa", "Homosassa Spg", "Homosassa Springs"], "postal_code": "34446", "lat": 28.746912, "lng": -82.53331, "type": "STANDARD", "counties": []}

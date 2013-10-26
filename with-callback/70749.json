@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.622391, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Jarreau", "lng": -91.41468, "zip_code": "70749"});
+zipapicallback({"locality": "Jarreau", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Jarreau"], "postal_code": "70749", "lat": 30.622391, "lng": -91.41468, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pointe Coupee"}]});

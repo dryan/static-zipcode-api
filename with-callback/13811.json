@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.222777, "region": {"abbr": "NY", "name": "New York"}, "locality": "Newark Valley", "lng": -76.17822, "zip_code": "13811"});
+zipapicallback({"locality": "Newark Valley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Newark Valley"], "postal_code": "13811", "lat": 42.222777, "lng": -76.17822, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}, {"fips": "007", "name": "Broome"}]});

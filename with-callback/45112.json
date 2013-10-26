@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.792686, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chilo", "lng": -84.1386, "zip_code": "45112"});
+zipapicallback({"locality": "Chilo", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Chilo"], "postal_code": "45112", "lat": 38.792686, "lng": -84.1386, "type": "POBOX", "counties": [{"fips": "025", "name": "Clermont"}]});

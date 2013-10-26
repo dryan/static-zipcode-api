@@ -1,1 +1,1 @@
-{"lat": 44.240765, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Union", "lng": -69.27048, "zip_code": "04862"}
+{"locality": "Union", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Appleton", "Union"], "postal_code": "04862", "lat": 44.240765, "lng": -69.27048, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]}

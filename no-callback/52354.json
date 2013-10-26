@@ -1,1 +1,1 @@
-{"lat": 41.90889, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Watkins", "lng": -91.9818, "zip_code": "52354"}
+{"locality": "Watkins", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Watkins"], "postal_code": "52354", "lat": 41.90889, "lng": -91.9818, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.146244, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bent Mountain", "lng": -80.12562, "zip_code": "24059"});
+zipapicallback({"locality": "Bent Mountain", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bent Mountain"], "postal_code": "24059", "lat": 37.146244, "lng": -80.12562, "type": "STANDARD", "counties": [{"fips": "161", "name": "Roanoke"}, {"fips": "121", "name": "Montgomery"}]});

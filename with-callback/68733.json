@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.288154, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Emerson", "lng": -96.73644, "zip_code": "68733"});
+zipapicallback({"locality": "Emerson", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Emerson"], "postal_code": "68733", "lat": 42.288154, "lng": -96.73644, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dakota"}, {"fips": "179", "name": "Wayne"}, {"fips": "173", "name": "Thurston"}, {"fips": "051", "name": "Dixon"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.286936, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Medicine Lodge", "lng": -98.60271, "zip_code": "67104"});
+zipapicallback({"locality": "Medicine Lodge", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Medicine Ldg", "Medicine Lodge"], "postal_code": "67104", "lat": 37.286936, "lng": -98.60271, "type": "STANDARD", "counties": [{"fips": "007", "name": "Barber"}]});

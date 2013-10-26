@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.884779, "region": {"abbr": "NY", "name": "New York"}, "locality": "Valley Falls", "lng": -73.53703, "zip_code": "12185"});
+zipapicallback({"locality": "Valley Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Valley Falls"], "postal_code": "12185", "lat": 42.884779, "lng": -73.53703, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}, {"fips": "115", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.232235, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Columbus", "lng": -85.86356, "zip_code": "47203"});
+zipapicallback({"locality": "Columbus", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Columbus"], "postal_code": "47203", "lat": 39.232235, "lng": -85.86356, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bartholomew"}]});

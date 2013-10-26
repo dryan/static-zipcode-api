@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.496025, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mershon", "lng": -82.27322, "zip_code": "31551"});
+zipapicallback({"locality": "Mershon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mershon"], "postal_code": "31551", "lat": 31.496025, "lng": -82.27322, "type": "STANDARD", "counties": [{"fips": "229", "name": "Pierce"}, {"fips": "005", "name": "Bacon"}]});

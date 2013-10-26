@@ -1,1 +1,1 @@
-{"lat": 36.755168, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Brixey", "lng": -92.38351, "zip_code": "65618"}
+{"locality": "Brixey", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brixey"], "postal_code": "65618", "lat": 36.755168, "lng": -92.38351, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

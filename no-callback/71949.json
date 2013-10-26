@@ -1,1 +1,1 @@
-{"lat": 34.727093, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jessieville", "lng": -93.03315, "zip_code": "71949"}
+{"locality": "Jessieville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Buckville", "Jessieville"], "postal_code": "71949", "lat": 34.727093, "lng": -93.03315, "type": "STANDARD", "counties": [{"fips": "051", "name": "Garland"}]}

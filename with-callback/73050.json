@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.941421, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Langston", "lng": -97.25495, "zip_code": "73050"});
+zipapicallback({"locality": "Langston", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Langston"], "postal_code": "73050", "lat": 35.941421, "lng": -97.25495, "type": "POBOX", "counties": [{"fips": "083", "name": "Logan"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.205239, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Forest Junction", "lng": -88.15899, "zip_code": "54123"}
+{"locality": "Forest Junction", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Forest Jct", "Forest Junction"], "postal_code": "54123", "lat": 44.205239, "lng": -88.15899, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calumet"}]}

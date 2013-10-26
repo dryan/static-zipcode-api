@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.138528, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Methow", "lng": -120.02851, "zip_code": "98834"});
+zipapicallback({"locality": "Methow", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Methow"], "postal_code": "98834", "lat": 48.138528, "lng": -120.02851, "type": "STANDARD", "counties": [{"fips": "047", "name": "Okanogan"}]});

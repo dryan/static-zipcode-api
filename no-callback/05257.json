@@ -1,1 +1,1 @@
-{"lat": 42.936801, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "North Bennington", "lng": -73.24838, "zip_code": "05257"}
+{"locality": "North Bennington", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["N Bennington", "North Bennington"], "postal_code": "05257", "lat": 42.936801, "lng": -73.24838, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bennington"}]}

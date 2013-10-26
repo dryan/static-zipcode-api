@@ -1,1 +1,1 @@
-{"lat": 38.868064, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Walker", "lng": -99.07886, "zip_code": "67674"}
+{"locality": "Walker", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Walker"], "postal_code": "67674", "lat": 38.868064, "lng": -99.07886, "type": "POBOX", "counties": [{"fips": "051", "name": "Ellis"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.300574, "region": {"abbr": "CA", "name": "California"}, "locality": "Farmersville", "lng": -119.20552, "zip_code": "93223"}
+{"locality": "Farmersville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Farmersville"], "postal_code": "93223", "lat": 36.300574, "lng": -119.20552, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

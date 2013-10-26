@@ -1,1 +1,1 @@
-{"lat": 41.861313, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ashby", "lng": -101.98548, "zip_code": "69333"}
+{"locality": "Ashby", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ashby"], "postal_code": "69333", "lat": 41.861313, "lng": -101.98548, "type": "STANDARD", "counties": [{"fips": "075", "name": "Grant"}]}

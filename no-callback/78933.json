@@ -1,1 +1,1 @@
-{"lat": 29.773128, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cat Spring", "lng": -96.39342, "zip_code": "78933"}
+{"locality": "Cat Spring", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cat Spring"], "postal_code": "78933", "lat": 29.773128, "lng": -96.39342, "type": "STANDARD", "counties": [{"fips": "089", "name": "Colorado"}, {"fips": "015", "name": "Austin"}]}

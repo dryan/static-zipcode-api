@@ -1,1 +1,1 @@
-{"lat": 40.211241, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Warminster", "lng": -75.0887, "zip_code": "18974"}
+{"locality": "Warminster", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hartsville", "Ivyland", "Warminster", "Warwick"], "postal_code": "18974", "lat": 40.211241, "lng": -75.0887, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

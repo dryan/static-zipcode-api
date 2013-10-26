@@ -1,1 +1,1 @@
-{"lat": 40.502918, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bellevue", "lng": -80.0704, "zip_code": "15202"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Avalon", "Bellevue", "Bellvue", "Ben Avon", "Emsworth", "Pittsburgh"], "postal_code": "15202", "lat": 40.502918, "lng": -80.0704, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

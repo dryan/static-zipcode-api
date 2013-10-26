@@ -1,1 +1,1 @@
-{"lat": 43.290536, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Osage", "lng": -92.82115, "zip_code": "50461"}
+{"locality": "Osage", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mitchell", "Osage"], "postal_code": "50461", "lat": 43.290536, "lng": -92.82115, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mitchell"}]}

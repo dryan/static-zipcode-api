@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.523858, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bauxite", "lng": -92.46989, "zip_code": "72011"});
+zipapicallback({"locality": "Bauxite", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bauxite"], "postal_code": "72011", "lat": 34.523858, "lng": -92.46989, "type": "STANDARD", "counties": [{"fips": "125", "name": "Saline"}]});

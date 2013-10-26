@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.816833, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ormsby", "lng": -78.58059, "zip_code": "16726"});
+zipapicallback({"locality": "Cyclone", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cyclone", "Ormsby"], "postal_code": "16726", "lat": 41.816833, "lng": -78.58059, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]});

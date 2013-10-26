@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.964054, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Aldie", "lng": -77.60878, "zip_code": "20105"});
+zipapicallback({"locality": "Aldie", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Aldie", "Stone Ridge"], "postal_code": "20105", "lat": 38.964054, "lng": -77.60878, "type": "STANDARD", "counties": []});

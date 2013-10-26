@@ -1,1 +1,1 @@
-{"lat": 35.815535, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Maury City", "lng": -89.22386, "zip_code": "38050"}
+{"locality": "Maury City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Maury City"], "postal_code": "38050", "lat": 35.815535, "lng": -89.22386, "type": "POBOX", "counties": [{"fips": "033", "name": "Crockett"}]}

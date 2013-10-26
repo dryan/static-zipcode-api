@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.157565, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Terre Hill", "lng": -76.05041, "zip_code": "17581"});
+zipapicallback({"locality": "Terre Hill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Terre Hill"], "postal_code": "17581", "lat": 40.157565, "lng": -76.05041, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

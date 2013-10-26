@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.969783, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Konawa", "lng": -96.73899, "zip_code": "74849"});
+zipapicallback({"locality": "Konawa", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Konawa"], "postal_code": "74849", "lat": 34.969783, "lng": -96.73899, "type": "STANDARD", "counties": [{"fips": "133", "name": "Seminole"}, {"fips": "125", "name": "Pottawatomie"}, {"fips": "123", "name": "Pontotoc"}]});

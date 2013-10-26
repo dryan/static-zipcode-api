@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.858518, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Metaline Falls", "lng": -117.29833, "zip_code": "99153"});
+zipapicallback({"locality": "Metaline Falls", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Metaline Falls", "Metaline Fls"], "postal_code": "99153", "lat": 48.858518, "lng": -117.29833, "type": "STANDARD", "counties": [{"fips": "051", "name": "Pend Oreille"}]});

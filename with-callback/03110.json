@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.942551, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Bedford", "lng": -71.51993, "zip_code": "03110"});
+zipapicallback({"locality": "Bedford", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Bedford"], "postal_code": "03110", "lat": 42.942551, "lng": -71.51993, "type": "STANDARD", "counties": []});

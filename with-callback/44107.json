@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.480881, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Edgewater", "lng": -81.80036, "zip_code": "44107"});
+zipapicallback({"locality": "Lakewood", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Edgewater", "Lakewood"], "postal_code": "44107", "lat": 41.480881, "lng": -81.80036, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.493351, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Edgerton", "lng": -94.62989, "zip_code": "64444"}
+{"locality": "Edgerton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Edgerton"], "postal_code": "64444", "lat": 39.493351, "lng": -94.62989, "type": "STANDARD", "counties": [{"fips": "165", "name": "Platte"}, {"fips": "049", "name": "Clinton"}, {"fips": "047", "name": "Clay"}, {"fips": "021", "name": "Buchanan"}]}

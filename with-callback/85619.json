@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.441496, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Mount Lemmon", "lng": -110.75682, "zip_code": "85619"});
+zipapicallback({"locality": "Mount Lemmon", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Mount Lemmon"], "postal_code": "85619", "lat": 32.441496, "lng": -110.75682, "type": "POBOX", "counties": [{"fips": "019", "name": "Pima"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.911228, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Blairstown", "lng": -92.08549, "zip_code": "52209"}
+{"locality": "Blairstown", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Blairstown"], "postal_code": "52209", "lat": 41.911228, "lng": -92.08549, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]}

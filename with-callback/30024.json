@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.052698, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Suwanee", "lng": -84.07485, "zip_code": "30024"});
+zipapicallback({"locality": "Suwanee", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Johns Creek", "Suwanee"], "postal_code": "30024", "lat": 34.052698, "lng": -84.07485, "type": "STANDARD", "counties": []});

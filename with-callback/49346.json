@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.587286, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Stanwood", "lng": -85.37833, "zip_code": "49346"});
+zipapicallback({"locality": "Stanwood", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Canadian Lake", "Canadian Lakes", "Stanwood"], "postal_code": "49346", "lat": 43.587286, "lng": -85.37833, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "123", "name": "Newaygo"}]});

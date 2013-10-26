@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.832265, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "West River", "lng": -76.55604, "zip_code": "20778"});
+zipapicallback({"locality": "West River", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["West River"], "postal_code": "20778", "lat": 38.832265, "lng": -76.55604, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

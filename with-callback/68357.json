@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.298643, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Filley", "lng": -96.54833, "zip_code": "68357"});
+zipapicallback({"locality": "Filley", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Filley"], "postal_code": "68357", "lat": 40.298643, "lng": -96.54833, "type": "STANDARD", "counties": [{"fips": "067", "name": "Gage"}, {"fips": "097", "name": "Johnson"}]});

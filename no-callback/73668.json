@@ -1,1 +1,1 @@
-{"lat": 35.219721, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Texola", "lng": -99.99228, "zip_code": "73668"}
+{"locality": "Texola", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Texola"], "postal_code": "73668", "lat": 35.219721, "lng": -99.99228, "type": "STANDARD", "counties": [{"fips": "009", "name": "Beckham"}]}

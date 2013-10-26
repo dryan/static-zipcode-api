@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.102296, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Holland", "lng": -76.08031, "zip_code": "17557"});
+zipapicallback({"locality": "New Holland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Holland"], "postal_code": "17557", "lat": 40.102296, "lng": -76.08031, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

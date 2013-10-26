@@ -1,1 +1,1 @@
-{"lat": 38.773111, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Demossville", "lng": -84.44889, "zip_code": "41033"}
+{"locality": "De Mossville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["De Mossville", "Demossville"], "postal_code": "41033", "lat": 38.773111, "lng": -84.44889, "type": "STANDARD", "counties": [{"fips": "191", "name": "Pendleton"}]}

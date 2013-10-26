@@ -1,1 +1,1 @@
-{"lat": 35.846363, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Morrisville", "lng": -78.83866, "zip_code": "27560"}
+{"locality": "Morrisville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Morrisville"], "postal_code": "27560", "lat": 35.846363, "lng": -78.83866, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}, {"fips": "063", "name": "Durham"}]}

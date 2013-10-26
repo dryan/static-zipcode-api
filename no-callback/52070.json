@@ -1,1 +1,1 @@
-{"lat": 42.071239, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sabula", "lng": -90.20261, "zip_code": "52070"}
+{"locality": "Sabula", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sabula"], "postal_code": "52070", "lat": 42.071239, "lng": -90.20261, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}]}

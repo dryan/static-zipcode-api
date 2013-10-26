@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.6403, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Falmouth", "lng": -70.63036, "zip_code": "02556"});
+zipapicallback({"locality": "North Falmouth", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["N Falmouth", "North Falmouth"], "postal_code": "02556", "lat": 41.6403, "lng": -70.63036, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

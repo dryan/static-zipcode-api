@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.866754, "region": {"abbr": "NY", "name": "New York"}, "locality": "Waddington", "lng": -75.17201, "zip_code": "13694"});
+zipapicallback({"locality": "Waddington", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Waddington"], "postal_code": "13694", "lat": 44.866754, "lng": -75.17201, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}, {"fips": "089", "name": "St. Lawrence"}]});

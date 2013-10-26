@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.178192, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kissimmee", "lng": -81.48731, "zip_code": "34758"});
+zipapicallback({"locality": "Kissimmee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kissimmee", "Poinciana"], "postal_code": "34758", "lat": 28.178192, "lng": -81.48731, "type": "STANDARD", "counties": []});

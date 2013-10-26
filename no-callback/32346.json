@@ -1,1 +1,1 @@
-{"lat": 29.983931, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Panacea", "lng": -84.38798, "zip_code": "32346"}
+{"locality": "Panacea", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Alligator Point", "Alligator Pt", "Ochlockonee", "Ochlockonee Bay", "Panacea"], "postal_code": "32346", "lat": 29.983931, "lng": -84.38798, "type": "STANDARD", "counties": [{"fips": "129", "name": "Wakulla"}]}

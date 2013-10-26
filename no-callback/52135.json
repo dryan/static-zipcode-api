@@ -1,1 +1,1 @@
-{"lat": 43.00106, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clermont", "lng": -91.66064, "zip_code": "52135"}
+{"locality": "Clermont", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clermont"], "postal_code": "52135", "lat": 43.00106, "lng": -91.66064, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.390569, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Silsbee", "lng": -94.18056, "zip_code": "77656"}
+{"locality": "Silsbee", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Silsbee"], "postal_code": "77656", "lat": 30.390569, "lng": -94.18056, "type": "STANDARD", "counties": [{"fips": "199", "name": "Hardin"}, {"fips": "457", "name": "Tyler"}]}

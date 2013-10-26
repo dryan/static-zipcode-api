@@ -1,1 +1,1 @@
-{"lat": 36.754058, "region": {"abbr": "CA", "name": "California"}, "locality": "Prunedale", "lng": -121.66472, "zip_code": "93907"}
+{"locality": "Salinas", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Prunedale", "Salinas"], "postal_code": "93907", "lat": 36.754058, "lng": -121.66472, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]}

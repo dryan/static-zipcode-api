@@ -1,1 +1,1 @@
-{"lat": 40.625486, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Roberts", "lng": -88.18667, "zip_code": "60962"}
+{"locality": "Roberts", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Roberts"], "postal_code": "60962", "lat": 40.625486, "lng": -88.18667, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ford"}, {"fips": "105", "name": "Livingston"}]}

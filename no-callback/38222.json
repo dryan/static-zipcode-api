@@ -1,1 +1,1 @@
-{"lat": 36.458738, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Buchanan", "lng": -88.14836, "zip_code": "38222"}
+{"locality": "Buchanan", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Buchanan"], "postal_code": "38222", "lat": 36.458738, "lng": -88.14836, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

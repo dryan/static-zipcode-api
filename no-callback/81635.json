@@ -1,1 +1,1 @@
-{"lat": 39.493283, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Battlement Mesa", "lng": -108.11571, "zip_code": "81635"}
+{"locality": "Parachute", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Battlement Mesa", "Btlmt Mesa", "Parachute"], "postal_code": "81635", "lat": 39.493283, "lng": -108.11571, "type": "STANDARD", "counties": [{"fips": "045", "name": "Garfield"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.094622, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Baneberry", "lng": -83.29024, "zip_code": "37890"});
+zipapicallback({"locality": "White Pine", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Baneberry", "White Pine"], "postal_code": "37890", "lat": 36.094622, "lng": -83.29024, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jefferson"}, {"fips": "063", "name": "Hamblen"}]});

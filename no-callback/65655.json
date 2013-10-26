@@ -1,1 +1,1 @@
-{"lat": 36.606281, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gainesville", "lng": -92.43342, "zip_code": "65655"}
+{"locality": "Gainesville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gainesville"], "postal_code": "65655", "lat": 36.606281, "lng": -92.43342, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

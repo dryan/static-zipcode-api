@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.597014, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Parnell", "lng": -91.91805, "zip_code": "52325"});
+zipapicallback({"locality": "Parnell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Parnell"], "postal_code": "52325", "lat": 41.597014, "lng": -91.91805, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]});

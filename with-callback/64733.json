@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.581879, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Chilhowee", "lng": -93.82496, "zip_code": "64733"});
+zipapicallback({"locality": "Chilhowee", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Chilhowee"], "postal_code": "64733", "lat": 38.581879, "lng": -93.82496, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnson"}, {"fips": "083", "name": "Henry"}]});

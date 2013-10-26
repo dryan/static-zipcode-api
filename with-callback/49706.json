@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.431122, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Alanson", "lng": -84.77654, "zip_code": "49706"});
+zipapicallback({"locality": "Alanson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Alanson"], "postal_code": "49706", "lat": 45.431122, "lng": -84.77654, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "031", "name": "Cheboygan"}]});

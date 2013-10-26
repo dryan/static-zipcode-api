@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.290251, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Kensal", "lng": -98.75318, "zip_code": "58455"});
+zipapicallback({"locality": "Kensal", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Kensal"], "postal_code": "58455", "lat": 47.290251, "lng": -98.75318, "type": "STANDARD", "counties": [{"fips": "093", "name": "Stutsman"}, {"fips": "031", "name": "Foster"}]});

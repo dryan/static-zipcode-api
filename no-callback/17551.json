@@ -1,1 +1,1 @@
-{"lat": 39.994798, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Millersville", "lng": -76.36018, "zip_code": "17551"}
+{"locality": "Millersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Millersville"], "postal_code": "17551", "lat": 39.994798, "lng": -76.36018, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]}

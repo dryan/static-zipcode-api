@@ -1,1 +1,1 @@
-{"lat": 40.477286, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bloomington", "lng": -88.99592, "zip_code": "61701"}
+{"locality": "Bloomington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bloomington"], "postal_code": "61701", "lat": 40.477286, "lng": -88.99592, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

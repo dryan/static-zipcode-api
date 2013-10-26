@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.695377, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Sparta", "lng": -81.38102, "zip_code": "44626"});
+zipapicallback({"locality": "East Sparta", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["East Sparta"], "postal_code": "44626", "lat": 40.695377, "lng": -81.38102, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "157", "name": "Tuscarawas"}]});

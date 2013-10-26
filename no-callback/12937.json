@@ -1,1 +1,1 @@
-{"lat": 44.972087, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fort Covington", "lng": -74.48703, "zip_code": "12937"}
+{"locality": "Fort Covington", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fort Covington", "Ft Covington"], "postal_code": "12937", "lat": 44.972087, "lng": -74.48703, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}]}

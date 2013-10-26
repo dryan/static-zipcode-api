@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.915805, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "North Miami", "lng": -94.88039, "zip_code": "74358"});
+zipapicallback({"locality": "North Miami", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["North Miami"], "postal_code": "74358", "lat": 36.915805, "lng": -94.88039, "type": "POBOX", "counties": [{"fips": "115", "name": "Ottawa"}]});

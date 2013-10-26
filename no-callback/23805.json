@@ -1,1 +1,1 @@
-{"lat": 37.174217, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Petersburg", "lng": -77.39008, "zip_code": "23805"}
+{"locality": "Petersburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Petersburg"], "postal_code": "23805", "lat": 37.174217, "lng": -77.39008, "type": "STANDARD", "counties": [{"fips": "730", "name": "Petersburg (City)"}, {"fips": "149", "name": "Prince George"}]}

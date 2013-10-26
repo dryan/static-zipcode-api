@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.162188, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Leakesville", "lng": -88.60093, "zip_code": "39451"});
+zipapicallback({"locality": "Leakesville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Leakesville"], "postal_code": "39451", "lat": 31.162188, "lng": -88.60093, "type": "STANDARD", "counties": [{"fips": "041", "name": "Greene"}]});

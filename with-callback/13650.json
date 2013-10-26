@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.82212, "region": {"abbr": "NY", "name": "New York"}, "locality": "Henderson", "lng": -76.2127, "zip_code": "13650"});
+zipapicallback({"locality": "Henderson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Henderson", "Woodville"], "postal_code": "13650", "lat": 43.82212, "lng": -76.2127, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]});

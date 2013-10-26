@@ -1,1 +1,1 @@
-{"lat": 37.854233, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Reedville", "lng": -76.27848, "zip_code": "22539"}
+{"locality": "Reedville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Reedville"], "postal_code": "22539", "lat": 37.854233, "lng": -76.27848, "type": "STANDARD", "counties": [{"fips": "133", "name": "Northumberland"}]}

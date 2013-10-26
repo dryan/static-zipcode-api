@@ -1,1 +1,1 @@
-{"lat": 33.277317, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Melissa", "lng": -96.57345, "zip_code": "75454"}
+{"locality": "Melissa", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Melissa"], "postal_code": "75454", "lat": 33.277317, "lng": -96.57345, "type": "STANDARD", "counties": []}

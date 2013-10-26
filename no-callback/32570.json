@@ -1,1 +1,1 @@
-{"lat": 30.70969, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Milton", "lng": -87.01098, "zip_code": "32570"}
+{"locality": "Milton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Milton"], "postal_code": "32570", "lat": 30.70969, "lng": -87.01098, "type": "STANDARD", "counties": [{"fips": "113", "name": "Santa Rosa"}]}

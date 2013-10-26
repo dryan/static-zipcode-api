@@ -1,1 +1,1 @@
-{"lat": 46.823666, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Backus", "lng": -94.50471, "zip_code": "56435"}
+{"locality": "Backus", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Backus"], "postal_code": "56435", "lat": 46.823666, "lng": -94.50471, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}, {"fips": "057", "name": "Hubbard"}, {"fips": "035", "name": "Crow Wing"}]}

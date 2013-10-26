@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.605196, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Oak Park", "lng": -82.3391, "zip_code": "30401"});
+zipapicallback({"locality": "Swainsboro", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Covena", "Oak Park", "Summertown", "Swainsboro"], "postal_code": "30401", "lat": 32.605196, "lng": -82.3391, "type": "STANDARD", "counties": [{"fips": "107", "name": "Emanuel"}, {"fips": "167", "name": "Johnson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.54684, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Glennie", "lng": -83.70977, "zip_code": "48737"});
+zipapicallback({"locality": "Glennie", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Glennie"], "postal_code": "48737", "lat": 44.54684, "lng": -83.70977, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alcona"}, {"fips": "069", "name": "Iosco"}]});

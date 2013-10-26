@@ -1,1 +1,1 @@
-{"lat": 47.563191, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Marshall", "lng": -117.4959, "zip_code": "99020"}
+{"locality": "Marshall", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Marshall"], "postal_code": "99020", "lat": 47.563191, "lng": -117.4959, "type": "POBOX", "counties": [{"fips": "063", "name": "Spokane"}]}

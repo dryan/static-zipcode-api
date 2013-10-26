@@ -1,1 +1,1 @@
-{"lat": 41.734498, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Jewett", "lng": -78.61379, "zip_code": "16740"}
+{"locality": "Mount Jewett", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Jewett", "Westline"], "postal_code": "16740", "lat": 41.734498, "lng": -78.61379, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]}

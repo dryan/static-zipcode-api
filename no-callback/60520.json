@@ -1,1 +1,1 @@
-{"lat": 41.776884, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hinckley", "lng": -88.64655, "zip_code": "60520"}
+{"locality": "Hinckley", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hinckley"], "postal_code": "60520", "lat": 41.776884, "lng": -88.64655, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.988616, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oshkosh", "lng": -88.54699, "zip_code": "54902"}
+{"locality": "Oshkosh", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oshkosh"], "postal_code": "54902", "lat": 43.988616, "lng": -88.54699, "type": "STANDARD", "counties": [{"fips": "139", "name": "Winnebago"}]}

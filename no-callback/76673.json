@@ -1,1 +1,1 @@
-{"lat": 31.74658, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mount Calm", "lng": -96.89776, "zip_code": "76673"}
+{"locality": "Mount Calm", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Birome", "Mount Calm"], "postal_code": "76673", "lat": 31.74658, "lng": -96.89776, "type": "STANDARD", "counties": [{"fips": "217", "name": "Hill"}, {"fips": "293", "name": "Limestone"}, {"fips": "309", "name": "McLennan"}]}

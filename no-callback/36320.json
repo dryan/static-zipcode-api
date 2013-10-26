@@ -1,1 +1,1 @@
-{"lat": 31.051843, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cottonwood", "lng": -85.31561, "zip_code": "36320"}
+{"locality": "Cottonwood", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Cottonwood"], "postal_code": "36320", "lat": 31.051843, "lng": -85.31561, "type": "STANDARD", "counties": [{"fips": "069", "name": "Houston"}]}

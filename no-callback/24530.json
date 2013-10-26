@@ -1,1 +1,1 @@
-{"lat": 36.807043, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Callands", "lng": -79.61864, "zip_code": "24530"}
+{"locality": "Callands", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Callands"], "postal_code": "24530", "lat": 36.807043, "lng": -79.61864, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}, {"fips": "089", "name": "Henry"}]}

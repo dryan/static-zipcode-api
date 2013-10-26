@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.868635, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Denver", "lng": -105.00805, "zip_code": "80260"});
+zipapicallback({"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Federal Heights", "Federal Hgts", "Northglenn", "Thornton", "Westminster"], "postal_code": "80260", "lat": 39.868635, "lng": -105.00805, "type": "STANDARD", "counties": []});

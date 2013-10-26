@@ -1,1 +1,1 @@
-{"lat": 36.501152, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gates", "lng": -76.78039, "zip_code": "27937"}
+{"locality": "Gates", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gates"], "postal_code": "27937", "lat": 36.501152, "lng": -76.78039, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gates"}]}

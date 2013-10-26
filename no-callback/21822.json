@@ -1,1 +1,1 @@
-{"lat": 38.284622, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Eden", "lng": -75.64771, "zip_code": "21822"}
+{"locality": "Eden", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Eden"], "postal_code": "21822", "lat": 38.284622, "lng": -75.64771, "type": "STANDARD", "counties": [{"fips": "039", "name": "Somerset"}]}

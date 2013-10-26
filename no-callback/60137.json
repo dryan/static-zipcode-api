@@ -1,1 +1,1 @@
-{"lat": 41.869779, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Glen Ellyn", "lng": -88.06285, "zip_code": "60137"}
+{"locality": "Glen Ellyn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Glen Ellyn", "Glendale Heights", "Glendale Hts"], "postal_code": "60137", "lat": 41.869779, "lng": -88.06285, "type": "STANDARD", "counties": [{"fips": "043", "name": "Du Page"}]}

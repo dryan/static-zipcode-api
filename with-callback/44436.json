@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.046606, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lowellville", "lng": -80.54145, "zip_code": "44436"});
+zipapicallback({"locality": "Lowellville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lowellville"], "postal_code": "44436", "lat": 41.046606, "lng": -80.54145, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]});

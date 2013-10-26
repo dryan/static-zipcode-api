@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.399511, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Eutawville", "lng": -80.32069, "zip_code": "29048"});
+zipapicallback({"locality": "Eutawville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Eutawville"], "postal_code": "29048", "lat": 33.399511, "lng": -80.32069, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]});

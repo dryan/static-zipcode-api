@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.245423, "region": {"abbr": "CA", "name": "California"}, "locality": "Le Grand", "lng": -120.27116, "zip_code": "95333"});
+zipapicallback({"locality": "Le Grand", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Le Grand"], "postal_code": "95333", "lat": 37.245423, "lng": -120.27116, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]});

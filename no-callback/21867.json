@@ -1,1 +1,1 @@
-{"lat": 38.111688, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Upper Fairmount", "lng": -75.79242, "zip_code": "21867"}
+{"locality": "Upper Fairmount", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Fairmount", "Upper Fairmount", "Upper Fairmt", "Upper Hill"], "postal_code": "21867", "lat": 38.111688, "lng": -75.79242, "type": "POBOX", "counties": [{"fips": "039", "name": "Somerset"}]}

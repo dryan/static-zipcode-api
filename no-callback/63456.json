@@ -1,1 +1,1 @@
-{"lat": 39.645523, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Monroe City", "lng": -91.72967, "zip_code": "63456"}
+{"locality": "Monroe City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Monroe City"], "postal_code": "63456", "lat": 39.645523, "lng": -91.72967, "type": "STANDARD", "counties": [{"fips": "137", "name": "Monroe"}, {"fips": "127", "name": "Marion"}, {"fips": "173", "name": "Ralls"}]}

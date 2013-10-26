@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.475817, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Jolley", "lng": -94.7321, "zip_code": "50551"});
+zipapicallback({"locality": "Jolley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Jolley"], "postal_code": "50551", "lat": 42.475817, "lng": -94.7321, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]});

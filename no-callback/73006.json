@@ -1,1 +1,1 @@
-{"lat": 34.894964, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Apache", "lng": -98.38697, "zip_code": "73006"}
+{"locality": "Apache", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Apache"], "postal_code": "73006", "lat": 34.894964, "lng": -98.38697, "type": "STANDARD", "counties": [{"fips": "015", "name": "Caddo"}, {"fips": "031", "name": "Comanche"}]}

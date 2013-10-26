@@ -1,1 +1,1 @@
-{"lat": 41.93958, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Waterford", "lng": -79.98542, "zip_code": "16441"}
+{"locality": "Waterford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Waterford"], "postal_code": "16441", "lat": 41.93958, "lng": -79.98542, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}, {"fips": "039", "name": "Crawford"}]}

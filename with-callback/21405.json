@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.02801, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Annapolis", "lng": -76.54183, "zip_code": "21405"});
+zipapicallback({"locality": "Annapolis", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Annapolis", "Sherwood Forest", "Sherwood Frst"], "postal_code": "21405", "lat": 39.02801, "lng": -76.54183, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

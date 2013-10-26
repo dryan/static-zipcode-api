@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.308139, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Ciales", "lng": -66.49835, "zip_code": "00638"});
+zipapicallback({"locality": "Ciales", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Ciales"], "postal_code": "00638", "lat": 18.308139, "lng": -66.49835, "type": "STANDARD", "counties": [{"fips": "039", "name": "Ciales"}]});

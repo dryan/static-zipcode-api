@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.151799, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "La Prairie", "lng": -90.95426, "zip_code": "62346"});
+zipapicallback({"locality": "La Prairie", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["La Prairie"], "postal_code": "62346", "lat": 40.151799, "lng": -90.95426, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "067", "name": "Hancock"}, {"fips": "169", "name": "Schuyler"}]});

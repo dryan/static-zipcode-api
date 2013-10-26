@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.975105, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Hancock", "lng": -71.98913, "zip_code": "03449"});
+zipapicallback({"locality": "Hancock", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Hancock"], "postal_code": "03449", "lat": 42.975105, "lng": -71.98913, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]});

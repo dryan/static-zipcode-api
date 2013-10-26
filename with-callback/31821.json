@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.1342, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Omaha", "lng": -84.98499, "zip_code": "31821"});
+zipapicallback({"locality": "Omaha", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Omaha"], "postal_code": "31821", "lat": 32.1342, "lng": -84.98499, "type": "STANDARD", "counties": [{"fips": "259", "name": "Stewart"}]});

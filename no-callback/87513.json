@@ -1,1 +1,1 @@
-{"lat": 36.534541, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Arroyo Hondo", "lng": -105.67244, "zip_code": "87513"}
+{"locality": "Arroyo Hondo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Arroyo Hondo"], "postal_code": "87513", "lat": 36.534541, "lng": -105.67244, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]}

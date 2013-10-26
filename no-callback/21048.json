@@ -1,1 +1,1 @@
-{"lat": 39.506853, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Patapsco", "lng": -76.90953, "zip_code": "21048"}
+{"locality": "Finksburg", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Finksburg", "Patapsco"], "postal_code": "21048", "lat": 39.506853, "lng": -76.90953, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}]}

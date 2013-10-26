@@ -1,1 +1,1 @@
-{"lat": 32.460791, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Perry", "lng": -83.73541, "zip_code": "31069"}
+{"locality": "Perry", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Perry"], "postal_code": "31069", "lat": 32.460791, "lng": -83.73541, "type": "STANDARD", "counties": [{"fips": "153", "name": "Houston"}]}

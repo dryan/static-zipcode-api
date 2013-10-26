@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.014216, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Saint John", "lng": -98.79487, "zip_code": "67576"});
+zipapicallback({"locality": "Saint John", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Saint John", "Seward"], "postal_code": "67576", "lat": 38.014216, "lng": -98.79487, "type": "STANDARD", "counties": [{"fips": "185", "name": "Stafford"}, {"fips": "151", "name": "Pratt"}]});

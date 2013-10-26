@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.909535, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Marshallville", "lng": -81.71764, "zip_code": "44645"});
+zipapicallback({"locality": "Marshallville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Marshallville"], "postal_code": "44645", "lat": 40.909535, "lng": -81.71764, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}, {"fips": "151", "name": "Stark"}]});

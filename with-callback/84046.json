@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.978642, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Manila", "lng": -109.74719, "zip_code": "84046"});
+zipapicallback({"locality": "Manila", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Manila"], "postal_code": "84046", "lat": 40.978642, "lng": -109.74719, "type": "STANDARD", "counties": [{"fips": "009", "name": "Daggett"}]});

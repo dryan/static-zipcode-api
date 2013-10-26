@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.515684, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Angelo", "lng": -100.34896, "zip_code": "76905"});
+zipapicallback({"locality": "San Angelo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Angelo"], "postal_code": "76905", "lat": 31.515684, "lng": -100.34896, "type": "STANDARD", "counties": [{"fips": "451", "name": "Tom Green"}]});

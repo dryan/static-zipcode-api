@@ -1,1 +1,1 @@
-{"lat": 38.268959, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Barnhill", "lng": -88.34267, "zip_code": "62809"}
+{"locality": "Barnhill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Barnhill"], "postal_code": "62809", "lat": 38.268959, "lng": -88.34267, "type": "STANDARD", "counties": [{"fips": "193", "name": "White"}, {"fips": "191", "name": "Wayne"}]}

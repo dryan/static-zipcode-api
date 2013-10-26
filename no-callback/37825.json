@@ -1,1 +1,1 @@
-{"lat": 36.417235, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "New Tazewell", "lng": -83.65241, "zip_code": "37825"}
+{"locality": "New Tazewell", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["New Tazewell"], "postal_code": "37825", "lat": 36.417235, "lng": -83.65241, "type": "STANDARD", "counties": [{"fips": "025", "name": "Claiborne"}, {"fips": "093", "name": "Knox"}, {"fips": "173", "name": "Union"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.022019, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Savannah", "lng": -80.99193, "zip_code": "31410"}
+{"locality": "Savannah", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Savannah", "Thunderbolt"], "postal_code": "31410", "lat": 32.022019, "lng": -80.99193, "type": "STANDARD", "counties": [{"fips": "051", "name": "Chatham"}]}

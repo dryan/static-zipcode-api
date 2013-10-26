@@ -1,1 +1,1 @@
-{"lat": 34.929705, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Briggsville", "lng": -93.53009, "zip_code": "72828"}
+{"locality": "Briggsville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Briggsville"], "postal_code": "72828", "lat": 34.929705, "lng": -93.53009, "type": "STANDARD", "counties": []}

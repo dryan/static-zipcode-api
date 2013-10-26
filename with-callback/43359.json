@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.863848, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wharton", "lng": -83.45714, "zip_code": "43359"});
+zipapicallback({"locality": "Wharton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wharton"], "postal_code": "43359", "lat": 40.863848, "lng": -83.45714, "type": "STANDARD", "counties": [{"fips": "175", "name": "Wyandot"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.475845, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Seaforth", "lng": -95.32579, "zip_code": "56287"});
+zipapicallback({"locality": "Seaforth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Seaforth"], "postal_code": "56287", "lat": 44.475845, "lng": -95.32579, "type": "STANDARD", "counties": [{"fips": "127", "name": "Redwood"}]});

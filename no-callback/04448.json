@@ -1,1 +1,1 @@
-{"lat": 45.241091, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Seboeis", "lng": -68.67025, "zip_code": "04448"}
+{"locality": "Howland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Edinburg", "Howland", "Seboeis Plt"], "postal_code": "04448", "lat": 45.241091, "lng": -68.67025, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]}

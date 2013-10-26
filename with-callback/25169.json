@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.18125, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ridgeview", "lng": -81.77755, "zip_code": "25169"});
+zipapicallback({"locality": "Ridgeview", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ridgeview"], "postal_code": "25169", "lat": 38.18125, "lng": -81.77755, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]});

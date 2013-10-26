@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.708207, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hop Bottom", "lng": -75.7846, "zip_code": "18824"});
+zipapicallback({"locality": "Hop Bottom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hop Bottom"], "postal_code": "18824", "lat": 41.708207, "lng": -75.7846, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.379899, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Concord", "lng": -96.96331, "zip_code": "68728"});
+zipapicallback({"locality": "Concord", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Concord"], "postal_code": "68728", "lat": 42.379899, "lng": -96.96331, "type": "STANDARD", "counties": [{"fips": "051", "name": "Dixon"}]});

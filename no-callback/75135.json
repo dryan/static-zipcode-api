@@ -1,1 +1,1 @@
-{"lat": 33.075653, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Caddo Mills", "lng": -96.23774, "zip_code": "75135"}
+{"locality": "Caddo Mills", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Caddo Mills"], "postal_code": "75135", "lat": 33.075653, "lng": -96.23774, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.183221, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Brookeville", "lng": -77.05917, "zip_code": "20833"});
+zipapicallback({"locality": "Brookeville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Brookeville"], "postal_code": "20833", "lat": 39.183221, "lng": -77.05917, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}, {"fips": "027", "name": "Howard"}]});

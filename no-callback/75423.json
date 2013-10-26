@@ -1,1 +1,1 @@
-{"lat": 33.291418, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Celeste", "lng": -96.20273, "zip_code": "75423"}
+{"locality": "Celeste", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Celeste"], "postal_code": "75423", "lat": 33.291418, "lng": -96.20273, "type": "STANDARD", "counties": [{"fips": "231", "name": "Hunt"}, {"fips": "147", "name": "Fannin"}]}

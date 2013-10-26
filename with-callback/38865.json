@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.774486, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Rienzi", "lng": -88.57746, "zip_code": "38865"});
+zipapicallback({"locality": "Rienzi", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Rienzi"], "postal_code": "38865", "lat": 34.774486, "lng": -88.57746, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alcorn"}, {"fips": "117", "name": "Prentiss"}]});

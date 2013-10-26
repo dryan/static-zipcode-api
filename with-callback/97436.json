@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.647537, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Elkton", "lng": -123.58719, "zip_code": "97436"});
+zipapicallback({"locality": "Elkton", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Elkton"], "postal_code": "97436", "lat": 43.647537, "lng": -123.58719, "type": "STANDARD", "counties": [{"fips": "019", "name": "Douglas"}]});

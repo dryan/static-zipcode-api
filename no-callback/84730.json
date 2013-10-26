@@ -1,1 +1,1 @@
-{"lat": 38.764683, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Glenwood", "lng": -111.98379, "zip_code": "84730"}
+{"locality": "Glenwood", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Glenwood"], "postal_code": "84730", "lat": 38.764683, "lng": -111.98379, "type": "POBOX", "counties": [{"fips": "041", "name": "Sevier"}]}

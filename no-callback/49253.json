@@ -1,1 +1,1 @@
-{"lat": 41.974999, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Manitou Beach", "lng": -84.27972, "zip_code": "49253"}
+{"locality": "Manitou Beach", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Manitou Beach"], "postal_code": "49253", "lat": 41.974999, "lng": -84.27972, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]}

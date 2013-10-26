@@ -1,1 +1,1 @@
-{"lat": 43.649781, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "West Lebanon", "lng": -72.30594, "zip_code": "03784"}
+{"locality": "West Lebanon", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["West Lebanon"], "postal_code": "03784", "lat": 43.649781, "lng": -72.30594, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]}

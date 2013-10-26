@@ -1,1 +1,1 @@
-{"lat": 34.858194, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wellington", "lng": -100.20763, "zip_code": "79095"}
+{"locality": "Wellington", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wellington"], "postal_code": "79095", "lat": 34.858194, "lng": -100.20763, "type": "STANDARD", "counties": [{"fips": "087", "name": "Collingsworth"}, {"fips": "075", "name": "Childress"}]}

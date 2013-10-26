@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.477491, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Napoleon", "lng": -99.71689, "zip_code": "58561"});
+zipapicallback({"locality": "Napoleon", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Napoleon"], "postal_code": "58561", "lat": 46.477491, "lng": -99.71689, "type": "STANDARD", "counties": [{"fips": "047", "name": "Logan"}]});

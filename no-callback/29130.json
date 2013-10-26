@@ -1,1 +1,1 @@
-{"lat": 34.328826, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Ridgeway", "lng": -80.88762, "zip_code": "29130"}
+{"locality": "Ridgeway", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Ridgeway"], "postal_code": "29130", "lat": 34.328826, "lng": -80.88762, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fairfield"}, {"fips": "055", "name": "Kershaw"}, {"fips": "079", "name": "Richland"}]}

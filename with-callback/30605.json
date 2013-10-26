@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.925085, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Athens", "lng": -83.34529, "zip_code": "30605"});
+zipapicallback({"locality": "Athens", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Athens"], "postal_code": "30605", "lat": 33.925085, "lng": -83.34529, "type": "STANDARD", "counties": [{"fips": "059", "name": "Clarke"}, {"fips": "219", "name": "Oconee"}]});

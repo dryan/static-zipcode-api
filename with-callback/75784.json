@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.883205, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Reklaw", "lng": -94.9689, "zip_code": "75784"});
+zipapicallback({"locality": "Reklaw", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Reklaw"], "postal_code": "75784", "lat": 31.883205, "lng": -94.9689, "type": "STANDARD", "counties": [{"fips": "401", "name": "Rusk"}, {"fips": "073", "name": "Cherokee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.459109, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Grant", "lng": -105.72873, "zip_code": "80448"});
+zipapicallback({"locality": "Grant", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Grant"], "postal_code": "80448", "lat": 39.459109, "lng": -105.72873, "type": "POBOX", "counties": [{"fips": "093", "name": "Park"}]});

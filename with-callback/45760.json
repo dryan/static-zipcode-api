@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.006757, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Middleport", "lng": -82.08208, "zip_code": "45760"});
+zipapicallback({"locality": "Middleport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Middleport"], "postal_code": "45760", "lat": 39.006757, "lng": -82.08208, "type": "STANDARD", "counties": [{"fips": "105", "name": "Meigs"}]});

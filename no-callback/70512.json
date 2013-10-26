@@ -1,1 +1,1 @@
-{"lat": 30.411741, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Arnaudville", "lng": -91.91702, "zip_code": "70512"}
+{"locality": "Arnaudville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Arnaudville"], "postal_code": "70512", "lat": 30.411741, "lng": -91.91702, "type": "STANDARD", "counties": [{"fips": "097", "name": "St. Landry"}, {"fips": "099", "name": "St. Martin"}]}

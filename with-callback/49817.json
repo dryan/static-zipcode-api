@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.921508, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Cooks", "lng": -86.45869, "zip_code": "49817"});
+zipapicallback({"locality": "Cooks", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Cooks"], "postal_code": "49817", "lat": 45.921508, "lng": -86.45869, "type": "STANDARD", "counties": [{"fips": "153", "name": "Schoolcraft"}, {"fips": "041", "name": "Delta"}]});

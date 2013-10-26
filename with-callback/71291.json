@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.526944, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "West Monroe", "lng": -92.1599, "zip_code": "71291"});
+zipapicallback({"locality": "West Monroe", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["West Monroe"], "postal_code": "71291", "lat": 32.526944, "lng": -92.1599, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ouachita"}, {"fips": "079", "name": "Rapides"}]});

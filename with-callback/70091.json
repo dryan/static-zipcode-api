@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.277457, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Venice", "lng": -89.35898, "zip_code": "70091"});
+zipapicallback({"locality": "Venice", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Venice"], "postal_code": "70091", "lat": 29.277457, "lng": -89.35898, "type": "STANDARD", "counties": [{"fips": "075", "name": "Plaquemines"}]});

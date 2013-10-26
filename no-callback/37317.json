@@ -1,1 +1,1 @@
-{"lat": 35.008596, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Postelle", "lng": -84.3859, "zip_code": "37317"}
+{"locality": "Copperhill", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Copperhill", "Postelle"], "postal_code": "37317", "lat": 35.008596, "lng": -84.3859, "type": "STANDARD", "counties": [{"fips": "039", "name": "Decatur"}, {"fips": "139", "name": "Polk"}]}

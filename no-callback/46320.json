@@ -1,1 +1,1 @@
-{"lat": 41.610035, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hammond", "lng": -87.50574, "zip_code": "46320"}
+{"locality": "Hammond", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hammond"], "postal_code": "46320", "lat": 41.610035, "lng": -87.50574, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]}

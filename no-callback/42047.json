@@ -1,1 +1,1 @@
-{"lat": 37.2948, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hampton", "lng": -88.41026, "zip_code": "42047"}
+{"locality": "Hampton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hampton"], "postal_code": "42047", "lat": 37.2948, "lng": -88.41026, "type": "STANDARD", "counties": [{"fips": "139", "name": "Livingston"}]}

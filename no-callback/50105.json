@@ -1,1 +1,1 @@
-{"lat": 42.110624, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Gilbert", "lng": -93.64504, "zip_code": "50105"}
+{"locality": "Gilbert", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Gilbert"], "postal_code": "50105", "lat": 42.110624, "lng": -93.64504, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}]}

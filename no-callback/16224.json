@@ -1,1 +1,1 @@
-{"lat": 41.045243, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fairmount City", "lng": -79.29524, "zip_code": "16224"}
+{"locality": "Fairmount City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fairmount City", "Fairmount Cty"], "postal_code": "16224", "lat": 41.045243, "lng": -79.29524, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}, {"fips": "005", "name": "Armstrong"}]}

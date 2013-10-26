@@ -1,1 +1,1 @@
-{"lat": 64.842326, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Ester", "lng": -148.02197, "zip_code": "99725"}
+{"locality": "Ester", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Ester"], "postal_code": "99725", "lat": 64.842326, "lng": -148.02197, "type": "POBOX", "counties": [{"fips": "090", "name": "Fairbanks North Star"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.905649, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wintergreen", "lng": -78.90273, "zip_code": "22958"});
+zipapicallback({"locality": "Nellysford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Nellysford"], "postal_code": "22958", "lat": 37.905649, "lng": -78.90273, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}]});

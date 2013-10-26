@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.182964, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lacona", "lng": -93.36927, "zip_code": "50139"});
+zipapicallback({"locality": "Lacona", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lacona"], "postal_code": "50139", "lat": 41.182964, "lng": -93.36927, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}, {"fips": "117", "name": "Lucas"}, {"fips": "125", "name": "Marion"}]});

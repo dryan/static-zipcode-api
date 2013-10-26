@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.452432, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tonopah", "lng": -113.01652, "zip_code": "85354"});
+zipapicallback({"locality": "Tonopah", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tonopah"], "postal_code": "85354", "lat": 33.452432, "lng": -113.01652, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

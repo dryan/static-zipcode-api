@@ -1,1 +1,1 @@
-{"lat": 34.17618, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Leola", "lng": -92.65463, "zip_code": "72084"}
+{"locality": "Leola", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Leola"], "postal_code": "72084", "lat": 34.17618, "lng": -92.65463, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]}

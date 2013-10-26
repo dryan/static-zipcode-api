@@ -1,1 +1,1 @@
-{"lat": 45.234609, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Aurora", "lng": -122.79749, "zip_code": "97002"}
+{"locality": "Aurora", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Aurora"], "postal_code": "97002", "lat": 45.234609, "lng": -122.79749, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}, {"fips": "005", "name": "Clackamas"}]}

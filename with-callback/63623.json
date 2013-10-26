@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.682669, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Belleview", "lng": -90.88172, "zip_code": "63623"});
+zipapicallback({"locality": "Belleview", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Belleview"], "postal_code": "63623", "lat": 37.682669, "lng": -90.88172, "type": "STANDARD", "counties": [{"fips": "093", "name": "Iron"}]});

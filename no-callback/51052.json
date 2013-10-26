@@ -1,1 +1,1 @@
-{"lat": 42.307882, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Salix", "lng": -96.28232, "zip_code": "51052"}
+{"locality": "Salix", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Salix"], "postal_code": "51052", "lat": 42.307882, "lng": -96.28232, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]}

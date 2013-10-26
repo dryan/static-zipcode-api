@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.792664, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Lost Springs", "lng": -104.94156, "zip_code": "82224"});
+zipapicallback({"locality": "Lost Springs", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Lost Springs"], "postal_code": "82224", "lat": 42.792664, "lng": -104.94156, "type": "STANDARD", "counties": [{"fips": "009", "name": "Converse"}]});

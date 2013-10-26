@@ -1,1 +1,1 @@
-{"lat": 37.905924, "region": {"abbr": "CA", "name": "California"}, "locality": "Walnut Creek", "lng": -122.05858, "zip_code": "94596"}
+{"locality": "Walnut Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Walnut Creek"], "postal_code": "94596", "lat": 37.905924, "lng": -122.05858, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}, {"fips": "001", "name": "Alameda"}]}

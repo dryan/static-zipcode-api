@@ -1,1 +1,1 @@
-{"lat": 41.963293, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lanesboro", "lng": -75.58203, "zip_code": "18827"}
+{"locality": "Lanesboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lanesboro"], "postal_code": "18827", "lat": 41.963293, "lng": -75.58203, "type": "POBOX", "counties": [{"fips": "115", "name": "Susquehanna"}]}

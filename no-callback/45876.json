@@ -1,1 +1,1 @@
-{"lat": 40.931687, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ottoville", "lng": -84.33877, "zip_code": "45876"}
+{"locality": "Ottoville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Ottoville"], "postal_code": "45876", "lat": 40.931687, "lng": -84.33877, "type": "POBOX", "counties": [{"fips": "137", "name": "Putnam"}]}

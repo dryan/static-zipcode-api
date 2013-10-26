@@ -1,1 +1,1 @@
-{"lat": 40.613788, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Morton", "lng": -89.46031, "zip_code": "61550"}
+{"locality": "Morton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Morton"], "postal_code": "61550", "lat": 40.613788, "lng": -89.46031, "type": "STANDARD", "counties": [{"fips": "179", "name": "Tazewell"}]}

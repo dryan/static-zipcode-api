@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.329026, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mountain Home", "lng": -92.35781, "zip_code": "72653"});
+zipapicallback({"locality": "Mountain Home", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mountain Home", "Salesville"], "postal_code": "72653", "lat": 36.329026, "lng": -92.35781, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baxter"}, {"fips": "007", "name": "Benton"}, {"fips": "089", "name": "Marion"}]});

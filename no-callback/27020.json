@@ -1,1 +1,1 @@
-{"lat": 36.115196, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hamptonville", "lng": -80.81872, "zip_code": "27020"}
+{"locality": "Hamptonville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hamptonville"], "postal_code": "27020", "lat": 36.115196, "lng": -80.81872, "type": "STANDARD", "counties": [{"fips": "197", "name": "Yadkin"}, {"fips": "193", "name": "Wilkes"}, {"fips": "097", "name": "Iredell"}]}

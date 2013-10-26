@@ -1,1 +1,1 @@
-{"lat": 42.720966, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Independence", "lng": -83.4044, "zip_code": "48346"}
+{"locality": "Clarkston", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Clarkston", "Independence"], "postal_code": "48346", "lat": 42.720966, "lng": -83.4044, "type": "STANDARD", "counties": []}

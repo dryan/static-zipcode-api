@@ -1,1 +1,1 @@
-{"lat": 30.636228, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Chipley", "lng": -85.5775, "zip_code": "32428"}
+{"locality": "Chipley", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Chipley", "Sunny Hills"], "postal_code": "32428", "lat": 30.636228, "lng": -85.5775, "type": "STANDARD", "counties": [{"fips": "133", "name": "Washington"}]}

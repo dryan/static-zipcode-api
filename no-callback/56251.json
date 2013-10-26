@@ -1,1 +1,1 @@
-{"lat": 45.133103, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kandiyohi", "lng": -94.91976, "zip_code": "56251"}
+{"locality": "Kandiyohi", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kandiyohi"], "postal_code": "56251", "lat": 45.133103, "lng": -94.91976, "type": "STANDARD", "counties": [{"fips": "067", "name": "Kandiyohi"}]}

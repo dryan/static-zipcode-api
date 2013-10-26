@@ -1,1 +1,1 @@
-{"lat": 37.960963, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hewett", "lng": -81.85261, "zip_code": "25108"}
+{"locality": "Hewett", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hewett"], "postal_code": "25108", "lat": 37.960963, "lng": -81.85261, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}, {"fips": "045", "name": "Logan"}]}

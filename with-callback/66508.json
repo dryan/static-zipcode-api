@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.852696, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Marysville", "lng": -96.63963, "zip_code": "66508"});
+zipapicallback({"locality": "Marysville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Herkimer", "Marysville"], "postal_code": "66508", "lat": 39.852696, "lng": -96.63963, "type": "STANDARD", "counties": [{"fips": "117", "name": "Marshall"}]});

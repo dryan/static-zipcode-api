@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.780415, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elmwood", "lng": -89.95565, "zip_code": "61529"});
+zipapicallback({"locality": "Elmwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elmwood"], "postal_code": "61529", "lat": 40.780415, "lng": -89.95565, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}, {"fips": "095", "name": "Knox"}]});

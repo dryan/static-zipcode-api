@@ -1,1 +1,1 @@
-{"lat": 44.844965, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Eagan", "lng": -93.14431, "zip_code": "55121"}
+{"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Eagan", "Saint Paul"], "postal_code": "55121", "lat": 44.844965, "lng": -93.14431, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}]}

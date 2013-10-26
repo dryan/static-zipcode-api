@@ -1,1 +1,1 @@
-{"lat": 34.417393, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Sledge", "lng": -90.27615, "zip_code": "38670"}
+{"locality": "Sledge", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Falcon", "Sledge"], "postal_code": "38670", "lat": 34.417393, "lng": -90.27615, "type": "STANDARD", "counties": [{"fips": "143", "name": "Tunica"}, {"fips": "107", "name": "Panola"}, {"fips": "119", "name": "Quitman"}]}

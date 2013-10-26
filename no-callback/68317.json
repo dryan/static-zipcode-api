@@ -1,1 +1,1 @@
-{"lat": 40.680749, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bennet", "lng": -96.50073, "zip_code": "68317"}
+{"locality": "Bennet", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bennet"], "postal_code": "68317", "lat": 40.680749, "lng": -96.50073, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}, {"fips": "131", "name": "Otoe"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.828639, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Evansville", "lng": -106.15952, "zip_code": "82636"}
+{"locality": "Evansville", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Evansville"], "postal_code": "82636", "lat": 42.828639, "lng": -106.15952, "type": "STANDARD", "counties": [{"fips": "025", "name": "Natrona"}]}

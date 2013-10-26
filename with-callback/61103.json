@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.303365, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rockford", "lng": -89.08246, "zip_code": "61103"});
+zipapicallback({"locality": "Rockford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Machesney Park", "Machesney Pk", "Rockford"], "postal_code": "61103", "lat": 42.303365, "lng": -89.08246, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}]});

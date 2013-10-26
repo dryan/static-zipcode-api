@@ -1,1 +1,1 @@
-{"lat": 31.759558, "region": {"abbr": "TX", "name": "Texas"}, "locality": "El Paso", "lng": -106.48011, "zip_code": "79901"}
+{"locality": "El Paso", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["El Paso"], "postal_code": "79901", "lat": 31.759558, "lng": -106.48011, "type": "STANDARD", "counties": [{"fips": "141", "name": "El Paso"}]}

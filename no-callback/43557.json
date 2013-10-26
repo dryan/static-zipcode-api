@@ -1,1 +1,1 @@
-{"lat": 41.491112, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Stryker", "lng": -84.40709, "zip_code": "43557"}
+{"locality": "Stryker", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Evansport", "Stryker"], "postal_code": "43557", "lat": 41.491112, "lng": -84.40709, "type": "STANDARD", "counties": [{"fips": "171", "name": "Williams"}, {"fips": "051", "name": "Fulton"}, {"fips": "069", "name": "Henry"}]}

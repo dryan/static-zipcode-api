@@ -1,1 +1,1 @@
-{"lat": 39.742486, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Denver", "lng": -104.98563, "zip_code": "80264"}
+{"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver"], "postal_code": "80264", "lat": 39.742486, "lng": -104.98563, "type": "STANDARD", "counties": [{"fips": "031", "name": "Denver"}]}

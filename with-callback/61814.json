@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.231345, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bismarck", "lng": -87.58163, "zip_code": "61814"});
+zipapicallback({"locality": "Bismarck", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bismarck"], "postal_code": "61814", "lat": 40.231345, "lng": -87.58163, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.191525, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bushland", "lng": -102.08831, "zip_code": "79012"}
+{"locality": "Bushland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bushland"], "postal_code": "79012", "lat": 35.191525, "lng": -102.08831, "type": "POBOX", "counties": [{"fips": "375", "name": "Potter"}]}

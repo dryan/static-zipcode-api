@@ -1,1 +1,1 @@
-{"lat": 39.904288, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pickerington", "lng": -82.756, "zip_code": "43147"}
+{"locality": "Pickerington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Etna", "Pickerington"], "postal_code": "43147", "lat": 39.904288, "lng": -82.756, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fairfield"}, {"fips": "049", "name": "Franklin"}, {"fips": "089", "name": "Licking"}]}

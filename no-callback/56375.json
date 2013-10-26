@@ -1,1 +1,1 @@
-{"lat": 45.702598, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Stephen", "lng": -94.27609, "zip_code": "56375"}
+{"locality": "Saint Stephen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Stephen"], "postal_code": "56375", "lat": 45.702598, "lng": -94.27609, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benton"}, {"fips": "145", "name": "Stearns"}]}

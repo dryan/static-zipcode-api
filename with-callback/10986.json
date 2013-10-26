@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.271543, "region": {"abbr": "NY", "name": "New York"}, "locality": "Tomkins Cove", "lng": -73.98676, "zip_code": "10986"});
+zipapicallback({"locality": "Tomkins Cove", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Tomkins Cove"], "postal_code": "10986", "lat": 41.271543, "lng": -73.98676, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}, {"fips": "071", "name": "Orange"}]});

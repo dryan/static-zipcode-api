@@ -1,1 +1,1 @@
-{"lat": 43.851276, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pinconning", "lng": -83.97901, "zip_code": "48650"}
+{"locality": "Pinconning", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pinconning"], "postal_code": "48650", "lat": 43.851276, "lng": -83.97901, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}, {"fips": "011", "name": "Arenac"}]}

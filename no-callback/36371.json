@@ -1,1 +1,1 @@
-{"lat": 31.31201, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Pinckard", "lng": -85.54722, "zip_code": "36371"}
+{"locality": "Pinckard", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Pinckard"], "postal_code": "36371", "lat": 31.31201, "lng": -85.54722, "type": "POBOX", "counties": [{"fips": "045", "name": "Dale"}]}

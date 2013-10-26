@@ -1,1 +1,1 @@
-{"lat": 43.308213, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ridgeway", "lng": -91.97807, "zip_code": "52165"}
+{"locality": "Ridgeway", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ridgeway"], "postal_code": "52165", "lat": 43.308213, "lng": -91.97807, "type": "STANDARD", "counties": [{"fips": "191", "name": "Winneshiek"}]}

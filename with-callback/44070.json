@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.415097, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Olmsted", "lng": -81.91436, "zip_code": "44070"});
+zipapicallback({"locality": "North Olmsted", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["North Olmsted"], "postal_code": "44070", "lat": 41.415097, "lng": -81.91436, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

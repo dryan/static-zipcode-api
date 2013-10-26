@@ -1,1 +1,1 @@
-{"lat": 37.644171, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Norwood", "lng": -78.79447, "zip_code": "24581"}
+{"locality": "Norwood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Norwood"], "postal_code": "24581", "lat": 37.644171, "lng": -78.79447, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}]}

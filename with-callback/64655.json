@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.448227, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lucerne", "lng": -93.25995, "zip_code": "64655"});
+zipapicallback({"locality": "Lucerne", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lucerne"], "postal_code": "64655", "lat": 40.448227, "lng": -93.25995, "type": "STANDARD", "counties": [{"fips": "171", "name": "Putnam"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.270902, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Highland", "lng": -81.06189, "zip_code": "26346"});
+zipapicallback({"locality": "Ellenboro", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ellenboro", "Highland"], "postal_code": "26346", "lat": 39.270902, "lng": -81.06189, "type": "STANDARD", "counties": [{"fips": "085", "name": "Ritchie"}, {"fips": "073", "name": "Pleasants"}]});

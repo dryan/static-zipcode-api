@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.278037, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Springbrook", "lng": -103.39021, "zip_code": "58843"});
+zipapicallback({"locality": "Epping", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Epping", "Spring Brook"], "postal_code": "58843", "lat": 48.278037, "lng": -103.39021, "type": "STANDARD", "counties": [{"fips": "105", "name": "Williams"}]});

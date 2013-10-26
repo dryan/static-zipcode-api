@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.424954, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ewing", "lng": -83.86286, "zip_code": "41039"});
+zipapicallback({"locality": "Ewing", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ewing"], "postal_code": "41039", "lat": 38.424954, "lng": -83.86286, "type": "STANDARD", "counties": [{"fips": "069", "name": "Fleming"}]});

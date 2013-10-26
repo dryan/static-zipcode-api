@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.943114, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hinkle", "lng": -83.81984, "zip_code": "40953"});
+zipapicallback({"locality": "Hinkle", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hinkle"], "postal_code": "40953", "lat": 36.943114, "lng": -83.81984, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]});

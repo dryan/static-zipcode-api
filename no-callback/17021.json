@@ -1,1 +1,1 @@
-{"lat": 40.354433, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Waterford", "lng": -77.65046, "zip_code": "17021"}
+{"locality": "East Waterford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Waterford", "East Waterford"], "postal_code": "17021", "lat": 40.354433, "lng": -77.65046, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}, {"fips": "099", "name": "Perry"}, {"fips": "055", "name": "Franklin"}, {"fips": "061", "name": "Huntingdon"}]}

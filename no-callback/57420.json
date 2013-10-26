@@ -1,1 +1,1 @@
-{"lat": 45.327593, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Akaska", "lng": -100.12424, "zip_code": "57420"}
+{"locality": "Akaska", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Akaska"], "postal_code": "57420", "lat": 45.327593, "lng": -100.12424, "type": "POBOX", "counties": [{"fips": "129", "name": "Walworth"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.241939, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Purcell", "lng": -94.43498, "zip_code": "64857"}
+{"locality": "Purcell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Purcell"], "postal_code": "64857", "lat": 37.241939, "lng": -94.43498, "type": "POBOX", "counties": [{"fips": "097", "name": "Jasper"}]}

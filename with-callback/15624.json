@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.362739, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Crabtree", "lng": -79.46886, "zip_code": "15624"});
+zipapicallback({"locality": "Crabtree", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Crabtree"], "postal_code": "15624", "lat": 40.362739, "lng": -79.46886, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

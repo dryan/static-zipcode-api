@@ -1,1 +1,1 @@
-{"lat": 38.50978, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bushton", "lng": -98.39638, "zip_code": "67427"}
+{"locality": "Bushton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bushton"], "postal_code": "67427", "lat": 38.50978, "lng": -98.39638, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rice"}, {"fips": "009", "name": "Barton"}, {"fips": "053", "name": "Ellsworth"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.459703, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Oakland", "lng": -92.60271, "zip_code": "72661"});
+zipapicallback({"locality": "Oakland", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Oakland"], "postal_code": "72661", "lat": 36.459703, "lng": -92.60271, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marion"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.974378, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Broomall", "lng": -75.36083, "zip_code": "19008"});
+zipapicallback({"locality": "Broomall", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Broomall", "Radnor"], "postal_code": "19008", "lat": 39.974378, "lng": -75.36083, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.75523, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ashford", "lng": -122.01544, "zip_code": "98304"}
+{"locality": "Ashford", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ashford"], "postal_code": "98304", "lat": 46.75523, "lng": -122.01544, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

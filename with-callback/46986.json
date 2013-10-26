@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.504346, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Swayzee", "lng": -85.82678, "zip_code": "46986"});
+zipapicallback({"locality": "Swayzee", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Sims", "Swayzee"], "postal_code": "46986", "lat": 40.504346, "lng": -85.82678, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}, {"fips": "067", "name": "Howard"}]});

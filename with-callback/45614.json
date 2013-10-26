@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.919179, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bidwell", "lng": -82.29337, "zip_code": "45614"});
+zipapicallback({"locality": "Bidwell", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bidwell"], "postal_code": "45614", "lat": 38.919179, "lng": -82.29337, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gallia"}]});

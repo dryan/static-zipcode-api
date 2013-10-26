@@ -1,1 +1,1 @@
-{"lat": 41.251631, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Manawa", "lng": -95.87447, "zip_code": "51501"}
+{"locality": "Council Bluffs", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Council Blfs", "Council Bluffs", "Manawa"], "postal_code": "51501", "lat": 41.251631, "lng": -95.87447, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]}

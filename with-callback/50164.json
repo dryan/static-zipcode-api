@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.504978, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Menlo", "lng": -94.4065, "zip_code": "50164"});
+zipapicallback({"locality": "Menlo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Menlo"], "postal_code": "50164", "lat": 41.504978, "lng": -94.4065, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}, {"fips": "001", "name": "Adair"}]});

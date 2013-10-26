@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.87657, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Stockport", "lng": -91.81242, "zip_code": "52651"});
+zipapicallback({"locality": "Stockport", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Stockport"], "postal_code": "52651", "lat": 40.87657, "lng": -91.81242, "type": "STANDARD", "counties": [{"fips": "177", "name": "Van Buren"}]});

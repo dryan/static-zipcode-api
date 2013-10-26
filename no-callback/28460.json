@@ -1,1 +1,1 @@
-{"lat": 34.52072, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Sneads Ferry", "lng": -77.42096, "zip_code": "28460"}
+{"locality": "Sneads Ferry", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["N Topsail Bch", "N Topsail Beach", "Sneads Ferry"], "postal_code": "28460", "lat": 34.52072, "lng": -77.42096, "type": "STANDARD", "counties": [{"fips": "133", "name": "Onslow"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.576034, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Cannonville", "lng": -112.08849, "zip_code": "84718"}
+{"locality": "Cannonville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Cannonville"], "postal_code": "84718", "lat": 37.576034, "lng": -112.08849, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.450789, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Liberty Hill", "lng": -80.79844, "zip_code": "29074"}
+{"locality": "Liberty Hill", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Liberty Hill"], "postal_code": "29074", "lat": 34.450789, "lng": -80.79844, "type": "POBOX", "counties": [{"fips": "055", "name": "Kershaw"}]}

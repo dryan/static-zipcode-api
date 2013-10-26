@@ -1,1 +1,1 @@
-{"lat": 41.344843, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Laramie", "lng": -105.58626, "zip_code": "82072"}
+{"locality": "Laramie", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Bosler", "Foxpark", "Jelm", "Laramie", "Mountain Home"], "postal_code": "82072", "lat": 41.344843, "lng": -105.58626, "type": "STANDARD", "counties": []}

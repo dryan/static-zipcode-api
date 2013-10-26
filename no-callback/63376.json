@@ -1,1 +1,1 @@
-{"lat": 38.778579, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Peters", "lng": -90.62045, "zip_code": "63376"}
+{"locality": "Saint Peters", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cottleville", "O Fallon", "Saint Peters"], "postal_code": "63376", "lat": 38.778579, "lng": -90.62045, "type": "STANDARD", "counties": [{"fips": "183", "name": "St Charles"}]}

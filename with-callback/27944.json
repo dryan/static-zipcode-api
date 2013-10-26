@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.157292, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Durants Neck", "lng": -76.4275, "zip_code": "27944"});
+zipapicallback({"locality": "Hertford", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Durants Neck", "Hertford"], "postal_code": "27944", "lat": 36.157292, "lng": -76.4275, "type": "STANDARD", "counties": [{"fips": "143", "name": "Perquimans"}]});

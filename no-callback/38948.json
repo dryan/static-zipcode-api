@@ -1,1 +1,1 @@
-{"lat": 34.082634, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Oakland", "lng": -89.89819, "zip_code": "38948"}
+{"locality": "Oakland", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Oakland"], "postal_code": "38948", "lat": 34.082634, "lng": -89.89819, "type": "STANDARD", "counties": [{"fips": "161", "name": "Yalobusha"}, {"fips": "135", "name": "Tallahatchie"}]}

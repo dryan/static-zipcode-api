@@ -1,1 +1,1 @@
-{"lat": 33.742936, "region": {"abbr": "CA", "name": "California"}, "locality": "Romoland", "lng": -117.17432, "zip_code": "92585"}
+{"locality": "Sun City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Menifee", "Romoland", "Sun City"], "postal_code": "92585", "lat": 33.742936, "lng": -117.17432, "type": "STANDARD", "counties": []}

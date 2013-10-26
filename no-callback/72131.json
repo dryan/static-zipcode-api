@@ -1,1 +1,1 @@
-{"lat": 35.402236, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Quitman", "lng": -92.20204, "zip_code": "72131"}
+{"locality": "Quitman", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Quitman"], "postal_code": "72131", "lat": 35.402236, "lng": -92.20204, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cleburne"}, {"fips": "141", "name": "Van Buren"}, {"fips": "045", "name": "Faulkner"}, {"fips": "145", "name": "White"}]}

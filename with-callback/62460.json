@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.596277, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saint Francisvil", "lng": -87.65542, "zip_code": "62460"});
+zipapicallback({"locality": "Saint Francisville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Saint Francisville", "St Francisvle"], "postal_code": "62460", "lat": 38.596277, "lng": -87.65542, "type": "STANDARD", "counties": [{"fips": "101", "name": "Lawrence"}, {"fips": "185", "name": "Wabash"}]});

@@ -1,1 +1,1 @@
-{"lat": 61.224384, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Elmendorf", "lng": -149.77461, "zip_code": "99506"}
+{"locality": "Jber", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Anchorage", "Elmendorf Afb", "Jber"], "postal_code": "99506", "lat": 61.224384, "lng": -149.77461, "type": "STANDARD", "counties": [{"fips": "020", "name": "Anchorage"}]}

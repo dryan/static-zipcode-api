@@ -1,1 +1,1 @@
-{"lat": 48.953737, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Porthill", "lng": -116.53078, "zip_code": "83853"}
+{"locality": "Porthill", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Porthill"], "postal_code": "83853", "lat": 48.953737, "lng": -116.53078, "type": "STANDARD", "counties": [{"fips": "021", "name": "Boundary"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.72179, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bryants Store", "lng": -83.90657, "zip_code": "40921"}
+{"locality": "Bryants Store", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bryants Store"], "postal_code": "40921", "lat": 36.72179, "lng": -83.90657, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

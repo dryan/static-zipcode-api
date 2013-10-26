@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.442465, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tye", "lng": -99.87238, "zip_code": "79563"});
+zipapicallback({"locality": "Tye", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tye"], "postal_code": "79563", "lat": 32.442465, "lng": -99.87238, "type": "STANDARD", "counties": [{"fips": "441", "name": "Taylor"}]});

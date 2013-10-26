@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.118815, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Hill Air Force B", "lng": -112.01151, "zip_code": "84056"});
+zipapicallback({"locality": "Hill Afb", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Hill Afb", "Hill Air Force Base"], "postal_code": "84056", "lat": 41.118815, "lng": -112.01151, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]});

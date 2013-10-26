@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.593816, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Chapman Ranch", "lng": -97.46214, "zip_code": "78347"});
+zipapicallback({"locality": "Chapman Ranch", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Chapman Ranch"], "postal_code": "78347", "lat": 27.593816, "lng": -97.46214, "type": "POBOX", "counties": [{"fips": "355", "name": "Nueces"}]});

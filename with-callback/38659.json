@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.643828, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Potts Camp", "lng": -89.33776, "zip_code": "38659"});
+zipapicallback({"locality": "Potts Camp", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Potts Camp"], "postal_code": "38659", "lat": 34.643828, "lng": -89.33776, "type": "STANDARD", "counties": [{"fips": "093", "name": "Marshall"}, {"fips": "009", "name": "Benton"}]});

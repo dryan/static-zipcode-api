@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.41836, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lafayette", "lng": -86.81847, "zip_code": "47905"});
+zipapicallback({"locality": "Lafayette", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Colburn", "La Fayette", "Lafayette"], "postal_code": "47905", "lat": 40.41836, "lng": -86.81847, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tippecanoe"}, {"fips": "023", "name": "Clinton"}, {"fips": "015", "name": "Carroll"}]});

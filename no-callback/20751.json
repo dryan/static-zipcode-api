@@ -1,1 +1,1 @@
-{"lat": 38.786949, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Deale", "lng": -76.55335, "zip_code": "20751"}
+{"locality": "Deale", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Deale"], "postal_code": "20751", "lat": 38.786949, "lng": -76.55335, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

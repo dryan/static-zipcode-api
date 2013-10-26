@@ -1,1 +1,1 @@
-{"lat": 44.585561, "region": {"abbr": "NY", "name": "New York"}, "locality": "Morristown", "lng": -75.64797, "zip_code": "13664"}
+{"locality": "Morristown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Morristown"], "postal_code": "13664", "lat": 44.585561, "lng": -75.64797, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.028171, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Belmont", "lng": -81.00679, "zip_code": "43718"}
+{"locality": "Belmont", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Belmont"], "postal_code": "43718", "lat": 40.028171, "lng": -81.00679, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}, {"fips": "049", "name": "Franklin"}]}

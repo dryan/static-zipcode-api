@@ -1,1 +1,1 @@
-{"lat": 44.466602, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Holabird", "lng": -99.61724, "zip_code": "57540"}
+{"locality": "Holabird", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Holabird"], "postal_code": "57540", "lat": 44.466602, "lng": -99.61724, "type": "STANDARD", "counties": [{"fips": "069", "name": "Hyde"}, {"fips": "119", "name": "Sully"}, {"fips": "065", "name": "Hughes"}]}

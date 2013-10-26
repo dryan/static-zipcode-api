@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.446294, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Greenwich", "lng": -111.9101, "zip_code": "84732"});
+zipapicallback({"locality": "Greenwich", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Greenwich"], "postal_code": "84732", "lat": 38.446294, "lng": -111.9101, "type": "STANDARD", "counties": []});

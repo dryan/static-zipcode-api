@@ -1,1 +1,1 @@
-{"lat": 28.397791, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Shady Hills", "lng": -82.53084, "zip_code": "34610"}
+{"locality": "Spring Hill", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Brooksville", "Shady Hills", "Spring Hill"], "postal_code": "34610", "lat": 28.397791, "lng": -82.53084, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pasco"}]}

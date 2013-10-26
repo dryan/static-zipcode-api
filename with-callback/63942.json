@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.546354, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gatewood", "lng": -91.05402, "zip_code": "63942"});
+zipapicallback({"locality": "Gatewood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gatewood"], "postal_code": "63942", "lat": 36.546354, "lng": -91.05402, "type": "STANDARD", "counties": [{"fips": "181", "name": "Ripley"}, {"fips": "149", "name": "Oregon"}]});

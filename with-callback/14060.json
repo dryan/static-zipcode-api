@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.443406, "region": {"abbr": "NY", "name": "New York"}, "locality": "Farmersville Sta", "lng": -78.32302, "zip_code": "14060"});
+zipapicallback({"locality": "Farmersville Station", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Farmersville Station", "Farmersvl Sta"], "postal_code": "14060", "lat": 42.443406, "lng": -78.32302, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}, {"fips": "003", "name": "Allegany"}]});

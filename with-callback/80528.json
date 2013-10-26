@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.502779, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fort Collins", "lng": -105.01123, "zip_code": "80528"});
+zipapicallback({"locality": "Fort Collins", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fort Collins", "Windsor"], "postal_code": "80528", "lat": 40.502779, "lng": -105.01123, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 39.707009, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pentress", "lng": -80.16451, "zip_code": "26544"}
+{"locality": "Pentress", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pentress"], "postal_code": "26544", "lat": 39.707009, "lng": -80.16451, "type": "POBOX", "counties": [{"fips": "061", "name": "Monongalia"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.268972, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wellington", "lng": -97.41247, "zip_code": "67152"}
+{"locality": "Wellington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wellington"], "postal_code": "67152", "lat": 37.268972, "lng": -97.41247, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}]}

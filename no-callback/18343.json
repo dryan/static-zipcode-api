@@ -1,1 +1,1 @@
-{"lat": 40.889911, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Bethel", "lng": -75.1112, "zip_code": "18343"}
+{"locality": "Mount Bethel", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Bethel"], "postal_code": "18343", "lat": 40.889911, "lng": -75.1112, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}]}

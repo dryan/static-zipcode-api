@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.290602, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Damon", "lng": -95.70739, "zip_code": "77430"});
+zipapicallback({"locality": "Damon", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Damon"], "postal_code": "77430", "lat": 29.290602, "lng": -95.70739, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}, {"fips": "157", "name": "Fort Bend"}]});

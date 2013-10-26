@@ -1,1 +1,1 @@
-{"lat": 42.239592, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ceresco", "lng": -85.09307, "zip_code": "49033"}
+{"locality": "Ceresco", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ceresco"], "postal_code": "49033", "lat": 42.239592, "lng": -85.09307, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]}

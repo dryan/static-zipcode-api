@@ -1,1 +1,1 @@
-{"lat": 42.126038, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Brimfield", "lng": -72.20552, "zip_code": "01010"}
+{"locality": "Brimfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Brimfield"], "postal_code": "01010", "lat": 42.126038, "lng": -72.20552, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

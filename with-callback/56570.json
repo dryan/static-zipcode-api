@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.895156, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Osage", "lng": -95.36174, "zip_code": "56570"});
+zipapicallback({"locality": "Osage", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Osage"], "postal_code": "56570", "lat": 46.895156, "lng": -95.36174, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}]});

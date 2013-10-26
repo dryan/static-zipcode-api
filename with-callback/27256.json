@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.562184, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gulf", "lng": -79.28751, "zip_code": "27256"});
+zipapicallback({"locality": "Gulf", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gulf"], "postal_code": "27256", "lat": 35.562184, "lng": -79.28751, "type": "POBOX", "counties": [{"fips": "037", "name": "Chatham"}]});

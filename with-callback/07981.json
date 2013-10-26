@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.821482, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Whippany", "lng": -74.42648, "zip_code": "07981"});
+zipapicallback({"locality": "Whippany", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Whippany"], "postal_code": "07981", "lat": 40.821482, "lng": -74.42648, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]});

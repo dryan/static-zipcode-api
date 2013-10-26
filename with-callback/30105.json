@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.448075, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Armuchee", "lng": -85.15313, "zip_code": "30105"});
+zipapicallback({"locality": "Armuchee", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Armuchee"], "postal_code": "30105", "lat": 34.448075, "lng": -85.15313, "type": "STANDARD", "counties": [{"fips": "115", "name": "Floyd"}, {"fips": "055", "name": "Chattooga"}]});

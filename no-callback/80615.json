@@ -1,1 +1,1 @@
-{"lat": 40.529241, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Eaton", "lng": -104.71181, "zip_code": "80615"}
+{"locality": "Eaton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Eaton", "Severance"], "postal_code": "80615", "lat": 40.529241, "lng": -104.71181, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

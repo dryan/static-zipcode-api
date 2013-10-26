@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.936244, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Edelstein", "lng": -89.62, "zip_code": "61526"});
+zipapicallback({"locality": "Edelstein", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Edelstein"], "postal_code": "61526", "lat": 40.936244, "lng": -89.62, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}, {"fips": "175", "name": "Stark"}, {"fips": "123", "name": "Marshall"}]});

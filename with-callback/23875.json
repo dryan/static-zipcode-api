@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.235949, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Prince George", "lng": -77.30259, "zip_code": "23875"});
+zipapicallback({"locality": "Prince George", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Prince George"], "postal_code": "23875", "lat": 37.235949, "lng": -77.30259, "type": "STANDARD", "counties": [{"fips": "149", "name": "Prince George"}]});

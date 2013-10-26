@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.63002, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wood Lake", "lng": -100.26756, "zip_code": "69221"});
+zipapicallback({"locality": "Wood Lake", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wood Lake"], "postal_code": "69221", "lat": 42.63002, "lng": -100.26756, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cherry"}]});

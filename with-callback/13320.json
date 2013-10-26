@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.772775, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cherry Valley", "lng": -74.7359, "zip_code": "13320"});
+zipapicallback({"locality": "Cherry Valley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cherry Valley"], "postal_code": "13320", "lat": 42.772775, "lng": -74.7359, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]});

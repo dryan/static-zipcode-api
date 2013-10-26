@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.280702, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "East Flat Rock", "lng": -82.41834, "zip_code": "28726"});
+zipapicallback({"locality": "East Flat Rock", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["E Flat Rock", "East Flat Rock"], "postal_code": "28726", "lat": 35.280702, "lng": -82.41834, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henderson"}]});

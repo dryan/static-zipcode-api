@@ -1,1 +1,1 @@
-{"lat": 46.906403, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Forestgrove", "lng": -109.09551, "zip_code": "59441"}
+{"locality": "Forest Grove", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Forest Grove"], "postal_code": "59441", "lat": 46.906403, "lng": -109.09551, "type": "STANDARD", "counties": [{"fips": "027", "name": "Fergus"}]}

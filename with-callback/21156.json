@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.439935, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Upper Falls", "lng": -76.39363, "zip_code": "21156"});
+zipapicallback({"locality": "Upper Falls", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Upper Falls"], "postal_code": "21156", "lat": 39.439935, "lng": -76.39363, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]});

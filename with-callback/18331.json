@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.913651, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gilbert", "lng": -75.43501, "zip_code": "18331"});
+zipapicallback({"locality": "Gilbert", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gilbert"], "postal_code": "18331", "lat": 40.913651, "lng": -75.43501, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

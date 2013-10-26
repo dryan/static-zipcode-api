@@ -1,1 +1,1 @@
-{"lat": 47.311072, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Federal Way", "lng": -122.31188, "zip_code": "98003"}
+{"locality": "Federal Way", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Auburn", "Federal Way"], "postal_code": "98003", "lat": 47.311072, "lng": -122.31188, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

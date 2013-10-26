@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.912297, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bethalto", "lng": -90.043, "zip_code": "62010"});
+zipapicallback({"locality": "Bethalto", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bethalto"], "postal_code": "62010", "lat": 38.912297, "lng": -90.043, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]});

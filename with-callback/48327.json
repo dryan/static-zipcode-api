@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.642764, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Waterford", "lng": -83.40273, "zip_code": "48327"});
+zipapicallback({"locality": "Waterford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Waterford"], "postal_code": "48327", "lat": 42.642764, "lng": -83.40273, "type": "STANDARD", "counties": []});

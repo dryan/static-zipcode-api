@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.035241, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hillman", "lng": -93.9153, "zip_code": "56338"});
+zipapicallback({"locality": "Hillman", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hillman"], "postal_code": "56338", "lat": 46.035241, "lng": -93.9153, "type": "STANDARD", "counties": [{"fips": "097", "name": "Morrison"}, {"fips": "095", "name": "Mille Lacs"}, {"fips": "035", "name": "Crow Wing"}]});

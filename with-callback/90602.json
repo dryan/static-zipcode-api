@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.967562, "region": {"abbr": "CA", "name": "California"}, "locality": "Whittier", "lng": -118.03384, "zip_code": "90602"});
+zipapicallback({"locality": "Whittier", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Whittier"], "postal_code": "90602", "lat": 33.967562, "lng": -118.03384, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

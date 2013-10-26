@@ -1,1 +1,1 @@
-{"lat": 42.959691, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Farmersburg", "lng": -91.35552, "zip_code": "52047"}
+{"locality": "Farmersburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Farmersburg"], "postal_code": "52047", "lat": 42.959691, "lng": -91.35552, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clayton"}]}

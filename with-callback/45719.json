@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.4001, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chauncey", "lng": -82.12856, "zip_code": "45719"});
+zipapicallback({"locality": "Chauncey", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Chauncey"], "postal_code": "45719", "lat": 39.4001, "lng": -82.12856, "type": "POBOX", "counties": [{"fips": "009", "name": "Athens"}]});

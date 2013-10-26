@@ -1,1 +1,1 @@
-{"lat": 34.9372, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Munds Park", "lng": -111.62931, "zip_code": "86017"}
+{"locality": "Munds Park", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Flagstaff", "Munds Park"], "postal_code": "86017", "lat": 34.9372, "lng": -111.62931, "type": "POBOX", "counties": [{"fips": "005", "name": "Coconino"}]}

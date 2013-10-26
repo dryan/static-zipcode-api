@@ -1,1 +1,1 @@
-{"lat": 34.184742, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Milo", "lng": -97.12655, "zip_code": "73401"}
+{"locality": "Ardmore", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ardmore", "Milo", "Pooleville"], "postal_code": "73401", "lat": 34.184742, "lng": -97.12655, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carter"}, {"fips": "085", "name": "Love"}]}

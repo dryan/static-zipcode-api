@@ -1,1 +1,1 @@
-{"lat": 37.79984, "region": {"abbr": "CA", "name": "California"}, "locality": "San Francisco", "lng": -122.46167, "zip_code": "94129"}
+{"locality": "San Francisco", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Francisco"], "postal_code": "94129", "lat": 37.79984, "lng": -122.46167, "type": "STANDARD", "counties": [{"fips": "075", "name": "San Francisco"}]}

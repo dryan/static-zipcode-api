@@ -1,1 +1,1 @@
-{"lat": 34.850984, "region": {"abbr": "CA", "name": "California"}, "locality": "Frazier Park", "lng": -119.16626, "zip_code": "93222"}
+{"locality": "Pine Mountain Club", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Frazier Park", "Pine Mountain Club", "Pine Mtn Clb"], "postal_code": "93222", "lat": 34.850984, "lng": -119.16626, "type": "POBOX", "counties": []}

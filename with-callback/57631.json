@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.592102, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Glenham", "lng": -100.28391, "zip_code": "57631"});
+zipapicallback({"locality": "Glenham", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Glenham"], "postal_code": "57631", "lat": 45.592102, "lng": -100.28391, "type": "STANDARD", "counties": [{"fips": "129", "name": "Walworth"}, {"fips": "021", "name": "Campbell"}]});

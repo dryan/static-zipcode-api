@@ -1,1 +1,1 @@
-{"lat": 41.75537, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Big Rock", "lng": -88.54865, "zip_code": "60511"}
+{"locality": "Big Rock", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Big Rock"], "postal_code": "60511", "lat": 41.75537, "lng": -88.54865, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]}

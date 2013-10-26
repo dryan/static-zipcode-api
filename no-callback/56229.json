@@ -1,1 +1,1 @@
-{"lat": 44.609098, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cottonwood", "lng": -95.70555, "zip_code": "56229"}
+{"locality": "Cottonwood", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cottonwood"], "postal_code": "56229", "lat": 44.609098, "lng": -95.70555, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}, {"fips": "173", "name": "Yellow Medicine"}]}

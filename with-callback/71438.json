@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.118135, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Leander", "lng": -92.79996, "zip_code": "71438"});
+zipapicallback({"locality": "Hineston", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hineston", "Lacamp", "Leander"], "postal_code": "71438", "lat": 31.118135, "lng": -92.79996, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}]});

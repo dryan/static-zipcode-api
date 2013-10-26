@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.217959, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Winfall", "lng": -76.46994, "zip_code": "27985"});
+zipapicallback({"locality": "Winfall", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Winfall"], "postal_code": "27985", "lat": 36.217959, "lng": -76.46994, "type": "POBOX", "counties": [{"fips": "143", "name": "Perquimans"}]});

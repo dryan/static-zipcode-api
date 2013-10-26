@@ -1,1 +1,1 @@
-{"lat": 41.574034, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hazel Crest", "lng": -87.67857, "zip_code": "60429"}
+{"locality": "Hazel Crest", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hazel Crest"], "postal_code": "60429", "lat": 41.574034, "lng": -87.67857, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.293192, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Elizabeth City", "lng": -76.23692, "zip_code": "27909"});
+zipapicallback({"locality": "Elizabeth City", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Elizabeth City", "Elizabeth Cty"], "postal_code": "27909", "lat": 36.293192, "lng": -76.23692, "type": "STANDARD", "counties": [{"fips": "139", "name": "Pasquotank"}, {"fips": "029", "name": "Camden"}, {"fips": "143", "name": "Perquimans"}]});

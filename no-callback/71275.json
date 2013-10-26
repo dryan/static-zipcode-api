@@ -1,1 +1,1 @@
-{"lat": 32.513699, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Simsboro", "lng": -92.80633, "zip_code": "71275"}
+{"locality": "Simsboro", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Simsboro"], "postal_code": "71275", "lat": 32.513699, "lng": -92.80633, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lincoln"}]}

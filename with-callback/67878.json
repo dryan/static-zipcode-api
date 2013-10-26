@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.022874, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Syracuse", "lng": -101.80781, "zip_code": "67878"});
+zipapicallback({"locality": "Syracuse", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Syracuse"], "postal_code": "67878", "lat": 38.022874, "lng": -101.80781, "type": "STANDARD", "counties": [{"fips": "075", "name": "Hamilton"}, {"fips": "187", "name": "Stanton"}]});

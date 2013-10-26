@@ -1,1 +1,1 @@
-{"lat": 41.556734, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Homewood", "lng": -87.66464, "zip_code": "60430"}
+{"locality": "Homewood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Homewood"], "postal_code": "60430", "lat": 41.556734, "lng": -87.66464, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

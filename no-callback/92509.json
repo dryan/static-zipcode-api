@@ -1,1 +1,1 @@
-{"lat": 33.998751, "region": {"abbr": "CA", "name": "California"}, "locality": "Rubidoux", "lng": -117.44695, "zip_code": "92509"}
+{"locality": "Riverside", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Jurupa Valley", "Riverside"], "postal_code": "92509", "lat": 33.998751, "lng": -117.44695, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

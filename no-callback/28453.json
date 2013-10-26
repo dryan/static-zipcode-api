@@ -1,1 +1,1 @@
-{"lat": 34.888483, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Magnolia", "lng": -78.05955, "zip_code": "28453"}
+{"locality": "Magnolia", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Magnolia"], "postal_code": "28453", "lat": 34.888483, "lng": -78.05955, "type": "STANDARD", "counties": [{"fips": "061", "name": "Duplin"}]}

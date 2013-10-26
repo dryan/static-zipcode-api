@@ -1,1 +1,1 @@
-{"lat": 40.17296, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Yardville", "lng": -74.66915, "zip_code": "08620"}
+{"locality": "Trenton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hamilton", "Trenton"], "postal_code": "08620", "lat": 40.17296, "lng": -74.66915, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}]}

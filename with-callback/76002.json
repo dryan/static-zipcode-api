@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.632349, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Arlington", "lng": -97.0963, "zip_code": "76002"});
+zipapicallback({"locality": "Arlington", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Arlington"], "postal_code": "76002", "lat": 32.632349, "lng": -97.0963, "type": "STANDARD", "counties": []});

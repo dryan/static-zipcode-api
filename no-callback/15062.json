@@ -1,1 +1,1 @@
-{"lat": 40.154271, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Monessen", "lng": -79.88277, "zip_code": "15062"}
+{"locality": "Monessen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Monessen"], "postal_code": "15062", "lat": 40.154271, "lng": -79.88277, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

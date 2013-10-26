@@ -1,1 +1,1 @@
-{"lat": 36.756145, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Adams", "lng": -101.07462, "zip_code": "73901"}
+{"locality": "Adams", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Adams"], "postal_code": "73901", "lat": 36.756145, "lng": -101.07462, "type": "POBOX", "counties": [{"fips": "139", "name": "Texas"}]}

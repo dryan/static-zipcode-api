@@ -1,1 +1,1 @@
-{"lat": 42.85048, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Salisbury", "lng": -70.86153, "zip_code": "01952"}
+{"locality": "Salisbury", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Salisbury", "Salisbury Bch", "Salisbury Beach"], "postal_code": "01952", "lat": 42.85048, "lng": -70.86153, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

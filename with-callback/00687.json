@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.31708, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Morovis", "lng": -66.41528, "zip_code": "00687"});
+zipapicallback({"locality": "Morovis", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Morovis"], "postal_code": "00687", "lat": 18.31708, "lng": -66.41528, "type": "STANDARD", "counties": []});

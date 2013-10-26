@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.61165, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Frankfort", "lng": -68.91965, "zip_code": "04438"});
+zipapicallback({"locality": "Frankfort", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Frankfort"], "postal_code": "04438", "lat": 44.61165, "lng": -68.91965, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

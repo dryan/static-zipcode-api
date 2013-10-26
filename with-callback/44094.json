@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.625886, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Willoughby", "lng": -81.39929, "zip_code": "44094"});
+zipapicallback({"locality": "Willoughby", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Kirtland", "Waite Hill", "Willoughby", "Willoughby Hills", "Wiloughby Hls"], "postal_code": "44094", "lat": 41.625886, "lng": -81.39929, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lake"}, {"fips": "055", "name": "Geauga"}, {"fips": "035", "name": "Cuyahoga"}]});

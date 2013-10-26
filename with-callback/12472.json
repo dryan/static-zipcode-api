@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.846938, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rosendale", "lng": -74.07602, "zip_code": "12472"});
+zipapicallback({"locality": "Rosendale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rosendale"], "postal_code": "12472", "lat": 41.846938, "lng": -74.07602, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

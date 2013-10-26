@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.384832, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Holmdel", "lng": -74.17194, "zip_code": "07733"});
+zipapicallback({"locality": "Holmdel", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Holmdel"], "postal_code": "07733", "lat": 40.384832, "lng": -74.17194, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]});

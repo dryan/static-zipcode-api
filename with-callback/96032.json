@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.615475, "region": {"abbr": "CA", "name": "California"}, "locality": "Fort Jones", "lng": -122.87744, "zip_code": "96032"});
+zipapicallback({"locality": "Fort Jones", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fort Jones"], "postal_code": "96032", "lat": 41.615475, "lng": -122.87744, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.629017, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "North", "lng": -81.09763, "zip_code": "29112"}
+{"locality": "North", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["North"], "postal_code": "29112", "lat": 33.629017, "lng": -81.09763, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}, {"fips": "063", "name": "Lexington"}, {"fips": "017", "name": "Calhoun"}]}

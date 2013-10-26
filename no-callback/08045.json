@@ -1,1 +1,1 @@
-{"lat": 39.866513, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Lawnside", "lng": -75.03197, "zip_code": "08045"}
+{"locality": "Lawnside", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Lawnside"], "postal_code": "08045", "lat": 39.866513, "lng": -75.03197, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

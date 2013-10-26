@@ -1,1 +1,1 @@
-{"lat": 39.624705, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Uniontown", "lng": -77.03086, "zip_code": "21158"}
+{"locality": "Westminster", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Westminster"], "postal_code": "21158", "lat": 39.624705, "lng": -77.03086, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.506687, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Purmela", "lng": -97.98997, "zip_code": "76566"});
+zipapicallback({"locality": "Purmela", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Purmela"], "postal_code": "76566", "lat": 31.506687, "lng": -97.98997, "type": "STANDARD", "counties": [{"fips": "099", "name": "Coryell"}, {"fips": "193", "name": "Hamilton"}]});

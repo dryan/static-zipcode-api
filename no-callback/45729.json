@@ -1,1 +1,1 @@
-{"lat": 39.420916, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fleming", "lng": -81.5936, "zip_code": "45729"}
+{"locality": "Fleming", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fleming"], "postal_code": "45729", "lat": 39.420916, "lng": -81.5936, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]}

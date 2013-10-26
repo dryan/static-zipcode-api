@@ -1,1 +1,1 @@
-{"lat": 40.96035, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Blairstown", "lng": -74.96243, "zip_code": "07825"}
+{"locality": "Blairstown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Blairstown", "Hardwick", "Johnsonburg"], "postal_code": "07825", "lat": 40.96035, "lng": -74.96243, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}, {"fips": "037", "name": "Sussex"}]}

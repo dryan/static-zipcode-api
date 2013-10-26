@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.732474, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sedalia", "lng": -83.47587, "zip_code": "43151"});
+zipapicallback({"locality": "Sedalia", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sedalia"], "postal_code": "43151", "lat": 39.732474, "lng": -83.47587, "type": "POBOX", "counties": [{"fips": "097", "name": "Madison"}]});

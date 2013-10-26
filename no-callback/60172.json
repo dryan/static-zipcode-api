@@ -1,1 +1,1 @@
-{"lat": 41.980761, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Roselle", "lng": -88.08704, "zip_code": "60172"}
+{"locality": "Roselle", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Roselle"], "postal_code": "60172", "lat": 41.980761, "lng": -88.08704, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "043", "name": "Du Page"}]}

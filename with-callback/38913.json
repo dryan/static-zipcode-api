@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.115816, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Banner", "lng": -89.39765, "zip_code": "38913"});
+zipapicallback({"locality": "Banner", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Banner"], "postal_code": "38913", "lat": 34.115816, "lng": -89.39765, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]});

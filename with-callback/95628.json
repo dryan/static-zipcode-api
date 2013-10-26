@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.654803, "region": {"abbr": "CA", "name": "California"}, "locality": "Fair Oaks", "lng": -121.26529, "zip_code": "95628"});
+zipapicallback({"locality": "Fair Oaks", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fair Oaks"], "postal_code": "95628", "lat": 38.654803, "lng": -121.26529, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.954093, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rocky Point", "lng": -72.92884, "zip_code": "11778"});
+zipapicallback({"locality": "Rocky Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rocky Point"], "postal_code": "11778", "lat": 40.954093, "lng": -72.92884, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

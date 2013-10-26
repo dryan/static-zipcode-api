@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.715074, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Windyville", "lng": -92.92425, "zip_code": "65783"});
+zipapicallback({"locality": "Windyville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Windyville"], "postal_code": "65783", "lat": 37.715074, "lng": -92.92425, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dallas"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.443503, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Graysville", "lng": -85.18397, "zip_code": "37338"}
+{"locality": "Graysville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Graysville"], "postal_code": "37338", "lat": 35.443503, "lng": -85.18397, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bledsoe"}, {"fips": "153", "name": "Sequatchie"}, {"fips": "065", "name": "Hamilton"}, {"fips": "143", "name": "Rhea"}]}

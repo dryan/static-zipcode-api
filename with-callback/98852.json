@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.494944, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Stehekin", "lng": -120.73348, "zip_code": "98852"});
+zipapicallback({"locality": "Stehekin", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Stehekin"], "postal_code": "98852", "lat": 48.494944, "lng": -120.73348, "type": "POBOX", "counties": [{"fips": "007", "name": "Chelan"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.704483, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Snyder", "lng": -96.78794, "zip_code": "68664"});
+zipapicallback({"locality": "Snyder", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Snyder"], "postal_code": "68664", "lat": 41.704483, "lng": -96.78794, "type": "POBOX", "counties": [{"fips": "053", "name": "Dodge"}]});

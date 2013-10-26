@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.858573, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Bay Villag", "lng": -80.12973, "zip_code": "33141"});
+zipapicallback({"locality": "Miami Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami", "Miami Beach", "North Bay Village", "North Bay Vlg"], "postal_code": "33141", "lat": 25.858573, "lng": -80.12973, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]});

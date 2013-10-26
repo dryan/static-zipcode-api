@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.593883, "region": {"abbr": "CA", "name": "California"}, "locality": "Sunol", "lng": -121.88281, "zip_code": "94586"});
+zipapicallback({"locality": "Sunol", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sunol"], "postal_code": "94586", "lat": 37.593883, "lng": -121.88281, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

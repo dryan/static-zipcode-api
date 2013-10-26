@@ -1,1 +1,1 @@
-{"lat": 38.399148, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Smithton", "lng": -89.99604, "zip_code": "62285"}
+{"locality": "Smithton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Smithton"], "postal_code": "62285", "lat": 38.399148, "lng": -89.99604, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

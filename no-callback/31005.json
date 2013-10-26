@@ -1,1 +1,1 @@
-{"lat": 32.556668, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bonaire", "lng": -83.62435, "zip_code": "31005"}
+{"locality": "Bonaire", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bonaire"], "postal_code": "31005", "lat": 32.556668, "lng": -83.62435, "type": "STANDARD", "counties": [{"fips": "153", "name": "Houston"}]}

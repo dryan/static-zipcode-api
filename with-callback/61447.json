@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.867285, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Kirkwood", "lng": -90.75759, "zip_code": "61447"});
+zipapicallback({"locality": "Kirkwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Kirkwood"], "postal_code": "61447", "lat": 40.867285, "lng": -90.75759, "type": "STANDARD", "counties": [{"fips": "187", "name": "Warren"}, {"fips": "071", "name": "Henderson"}]});

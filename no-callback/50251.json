@@ -1,1 +1,1 @@
-{"lat": 41.5714, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Sully", "lng": -92.85941, "zip_code": "50251"}
+{"locality": "Sully", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Sully"], "postal_code": "50251", "lat": 41.5714, "lng": -92.85941, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jasper"}, {"fips": "123", "name": "Mahaska"}]}

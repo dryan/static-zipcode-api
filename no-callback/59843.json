@@ -1,1 +1,1 @@
-{"lat": 46.878117, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Helmville", "lng": -112.97934, "zip_code": "59843"}
+{"locality": "Helmville", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Helmville"], "postal_code": "59843", "lat": 46.878117, "lng": -112.97934, "type": "STANDARD", "counties": [{"fips": "077", "name": "Powell"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.823795, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wheaton", "lng": -96.47706, "zip_code": "56296"}
+{"locality": "Wheaton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wheaton"], "postal_code": "56296", "lat": 45.823795, "lng": -96.47706, "type": "STANDARD", "counties": [{"fips": "155", "name": "Traverse"}]}

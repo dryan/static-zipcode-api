@@ -1,1 +1,1 @@
-{"lat": 34.200264, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cartersville", "lng": -84.77533, "zip_code": "30121"}
+{"locality": "Cartersville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cartersville"], "postal_code": "30121", "lat": 34.200264, "lng": -84.77533, "type": "STANDARD", "counties": []}

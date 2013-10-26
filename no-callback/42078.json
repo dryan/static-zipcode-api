@@ -1,1 +1,1 @@
-{"lat": 37.282124, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Salem", "lng": -88.24568, "zip_code": "42078"}
+{"locality": "Salem", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lola", "Salem"], "postal_code": "42078", "lat": 37.282124, "lng": -88.24568, "type": "STANDARD", "counties": [{"fips": "139", "name": "Livingston"}, {"fips": "055", "name": "Crittenden"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.575568, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Berea", "lng": -84.27767, "zip_code": "40403"}
+{"locality": "Berea", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Berea"], "postal_code": "40403", "lat": 37.575568, "lng": -84.27767, "type": "STANDARD", "counties": [{"fips": "151", "name": "Madison"}, {"fips": "021", "name": "Boyle"}, {"fips": "203", "name": "Rockcastle"}, {"fips": "079", "name": "Garrard"}, {"fips": "065", "name": "Estill"}, {"fips": "109", "name": "Jackson"}]}

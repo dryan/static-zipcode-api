@@ -1,1 +1,1 @@
-{"lat": 36.691413, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Goodwell", "lng": -101.738, "zip_code": "73939"}
+{"locality": "Goodwell", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Goodwell"], "postal_code": "73939", "lat": 36.691413, "lng": -101.738, "type": "STANDARD", "counties": [{"fips": "139", "name": "Texas"}]}

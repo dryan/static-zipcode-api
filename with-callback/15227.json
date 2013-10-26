@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.377869, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brentwood", "lng": -79.97516, "zip_code": "15227"});
+zipapicallback({"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brentwood", "Pittsburgh"], "postal_code": "15227", "lat": 40.377869, "lng": -79.97516, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

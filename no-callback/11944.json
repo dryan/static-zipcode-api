@@ -1,1 +1,1 @@
-{"lat": 41.103838, "region": {"abbr": "NY", "name": "New York"}, "locality": "Greenport", "lng": -72.36729, "zip_code": "11944"}
+{"locality": "Greenport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Greenport"], "postal_code": "11944", "lat": 41.103838, "lng": -72.36729, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

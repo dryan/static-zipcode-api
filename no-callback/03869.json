@@ -1,1 +1,1 @@
-{"lat": 43.221234, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Rollinsford", "lng": -70.83207, "zip_code": "03869"}
+{"locality": "Rollinsford", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Rollinsford"], "postal_code": "03869", "lat": 43.221234, "lng": -70.83207, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}]}

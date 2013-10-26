@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.705649, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Fallsburg", "lng": -74.62985, "zip_code": "12779"});
+zipapicallback({"locality": "South Fallsburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["S Fallsburg", "South Fallsburg"], "postal_code": "12779", "lat": 41.705649, "lng": -74.62985, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.784367, "region": {"abbr": "CA", "name": "California"}, "locality": "Kernville", "lng": -118.43769, "zip_code": "93238"});
+zipapicallback({"locality": "Kernville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kernville"], "postal_code": "93238", "lat": 35.784367, "lng": -118.43769, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}, {"fips": "107", "name": "Tulare"}]});

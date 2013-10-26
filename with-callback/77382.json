@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.214741, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Spring", "lng": -95.53212, "zip_code": "77382"});
+zipapicallback({"locality": "Spring", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Spring", "The Woodlands"], "postal_code": "77382", "lat": 30.214741, "lng": -95.53212, "type": "STANDARD", "counties": []});

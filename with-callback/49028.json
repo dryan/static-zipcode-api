@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.850631, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bronson", "lng": -85.18987, "zip_code": "49028"});
+zipapicallback({"locality": "Bronson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bronson"], "postal_code": "49028", "lat": 41.850631, "lng": -85.18987, "type": "STANDARD", "counties": [{"fips": "023", "name": "Branch"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.14036, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Knox City", "lng": -92.01104, "zip_code": "63446"}
+{"locality": "Knox City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Knox City"], "postal_code": "63446", "lat": 40.14036, "lng": -92.01104, "type": "STANDARD", "counties": [{"fips": "103", "name": "Knox"}, {"fips": "111", "name": "Lewis"}]}

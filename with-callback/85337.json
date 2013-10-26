@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.971684, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Gila Bend", "lng": -112.7946, "zip_code": "85337"});
+zipapicallback({"locality": "Gila Bend", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Gila Bend"], "postal_code": "85337", "lat": 32.971684, "lng": -112.7946, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}, {"fips": "027", "name": "Yuma"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.273179, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Douglassville", "lng": -75.73931, "zip_code": "19518"}
+{"locality": "Douglassville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Douglassville", "Earlville"], "postal_code": "19518", "lat": 40.273179, "lng": -75.73931, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

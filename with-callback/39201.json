@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.292396, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Jackson", "lng": -90.18328, "zip_code": "39201"});
+zipapicallback({"locality": "Jackson", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Jackson"], "postal_code": "39201", "lat": 32.292396, "lng": -90.18328, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hinds"}]});

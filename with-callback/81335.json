@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.508184, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Yellow Jacket", "lng": -108.78311, "zip_code": "81335"});
+zipapicallback({"locality": "Yellow Jacket", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Yellow Jacket"], "postal_code": "81335", "lat": 37.508184, "lng": -108.78311, "type": "STANDARD", "counties": [{"fips": "083", "name": "Montezuma"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.065439, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Big Rock", "lng": -83.22479, "zip_code": "41777"}
+{"locality": "Yeaddiss", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Big Rock", "Yeaddiss"], "postal_code": "41777", "lat": 37.065439, "lng": -83.22479, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}]}

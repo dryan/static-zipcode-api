@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.069108, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Colesville", "lng": -76.97834, "zip_code": "20904"});
+zipapicallback({"locality": "Silver Spring", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Colesville", "Silver Spring"], "postal_code": "20904", "lat": 39.069108, "lng": -76.97834, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

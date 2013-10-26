@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.965591, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cassadaga", "lng": -81.23654, "zip_code": "32706"});
+zipapicallback({"locality": "Cassadaga", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cassadaga"], "postal_code": "32706", "lat": 28.965591, "lng": -81.23654, "type": "POBOX", "counties": [{"fips": "127", "name": "Volusia"}]});

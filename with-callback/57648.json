@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.896895, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Pollock", "lng": -100.28995, "zip_code": "57648"});
+zipapicallback({"locality": "Pollock", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Pollock"], "postal_code": "57648", "lat": 45.896895, "lng": -100.28995, "type": "STANDARD", "counties": [{"fips": "021", "name": "Campbell"}]});

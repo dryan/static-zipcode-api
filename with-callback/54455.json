@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.787003, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mosinee", "lng": -89.69066, "zip_code": "54455"});
+zipapicallback({"locality": "Mosinee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kronenwetter", "Mosinee"], "postal_code": "54455", "lat": 44.787003, "lng": -89.69066, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}, {"fips": "097", "name": "Portage"}]});

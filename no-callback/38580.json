@@ -1,1 +1,1 @@
-{"lat": 36.270655, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Rickman", "lng": -85.32525, "zip_code": "38580"}
+{"locality": "Rickman", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Rickman"], "postal_code": "38580", "lat": 36.270655, "lng": -85.32525, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}]}

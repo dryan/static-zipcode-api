@@ -1,1 +1,1 @@
-{"lat": 33.922146, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Parchman", "lng": -90.54366, "zip_code": "38738"}
+{"locality": "Parchman", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Parchman"], "postal_code": "38738", "lat": 33.922146, "lng": -90.54366, "type": "POBOX", "counties": [{"fips": "133", "name": "Sunflower"}]}

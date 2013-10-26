@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.070323, "region": {"abbr": "CA", "name": "California"}, "locality": "Meridian", "lng": -121.83065, "zip_code": "95957"});
+zipapicallback({"locality": "Meridian", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Meridian"], "postal_code": "95957", "lat": 39.070323, "lng": -121.83065, "type": "STANDARD", "counties": [{"fips": "101", "name": "Sutter"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.903697, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Arlington", "lng": -77.12749, "zip_code": "22207"}
+{"locality": "Arlington", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Arlington"], "postal_code": "22207", "lat": 38.903697, "lng": -77.12749, "type": "STANDARD", "counties": [{"fips": "013", "name": "Arlington"}, {"fips": "059", "name": "Fairfax"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.657266, "region": {"abbr": "CA", "name": "California"}, "locality": "Del Rey", "lng": -119.59309, "zip_code": "93616"});
+zipapicallback({"locality": "Del Rey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Del Rey"], "postal_code": "93616", "lat": 36.657266, "lng": -119.59309, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.101667, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Enfield", "lng": -88.33357, "zip_code": "62835"}
+{"locality": "Enfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Enfield"], "postal_code": "62835", "lat": 38.101667, "lng": -88.33357, "type": "STANDARD", "counties": [{"fips": "193", "name": "White"}, {"fips": "065", "name": "Hamilton"}]}

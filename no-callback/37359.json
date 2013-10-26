@@ -1,1 +1,1 @@
-{"lat": 35.203361, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mulberry", "lng": -86.40563, "zip_code": "37359"}
+{"locality": "Mulberry", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mulberry"], "postal_code": "37359", "lat": 35.203361, "lng": -86.40563, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lincoln"}]}

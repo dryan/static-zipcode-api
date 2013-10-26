@@ -1,1 +1,1 @@
-{"lat": 45.497856, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Cedar Hills", "lng": -122.76988, "zip_code": "97225"}
+{"locality": "Portland", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Portland"], "postal_code": "97225", "lat": 45.497856, "lng": -122.76988, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "051", "name": "Multnomah"}]}

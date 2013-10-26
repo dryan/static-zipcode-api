@@ -1,1 +1,1 @@
-{"lat": 39.736626, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Blue Ridge Summi", "lng": -77.47038, "zip_code": "17214"}
+{"locality": "Blue Ridge Summit", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Blue Ridge Sm", "Blue Ridge Summit"], "postal_code": "17214", "lat": 39.736626, "lng": -77.47038, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}, {"fips": "005", "name": "Armstrong"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.622812, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Liberty", "lng": -84.92284, "zip_code": "47353"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Liberty"], "postal_code": "47353", "lat": 39.622812, "lng": -84.92284, "type": "STANDARD", "counties": [{"fips": "161", "name": "Union"}, {"fips": "047", "name": "Franklin"}]});

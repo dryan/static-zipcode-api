@@ -1,1 +1,1 @@
-{"lat": 40.352158, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Burkettsville", "lng": -84.6448, "zip_code": "45310"}
+{"locality": "Burkettsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Burkettsville"], "postal_code": "45310", "lat": 40.352158, "lng": -84.6448, "type": "POBOX", "counties": [{"fips": "107", "name": "Mercer"}]}

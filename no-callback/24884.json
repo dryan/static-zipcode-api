@@ -1,1 +1,1 @@
-{"lat": 37.249595, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Squire", "lng": -81.55208, "zip_code": "24884"}
+{"locality": "Squire", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Squire"], "postal_code": "24884", "lat": 37.249595, "lng": -81.55208, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]}

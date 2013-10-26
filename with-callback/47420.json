@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.912898, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Avoca", "lng": -86.55097, "zip_code": "47420"});
+zipapicallback({"locality": "Avoca", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Avoca"], "postal_code": "47420", "lat": 38.912898, "lng": -86.55097, "type": "POBOX", "counties": [{"fips": "093", "name": "Lawrence"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.148576, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Van Meter", "lng": -79.72573, "zip_code": "15479"}
+{"locality": "Smithton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Smithton", "Van Meter"], "postal_code": "15479", "lat": 40.148576, "lng": -79.72573, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.15175, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Melrose", "lng": -91.04558, "zip_code": "54642"});
+zipapicallback({"locality": "Melrose", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Melrose"], "postal_code": "54642", "lat": 44.15175, "lng": -91.04558, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jackson"}, {"fips": "063", "name": "La Crosse"}, {"fips": "081", "name": "Monroe"}, {"fips": "121", "name": "Trempealeau"}]});

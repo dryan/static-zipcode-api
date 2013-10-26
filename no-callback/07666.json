@@ -1,1 +1,1 @@
-{"lat": 40.890964, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Teaneck", "lng": -74.01115, "zip_code": "07666"}
+{"locality": "Teaneck", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Teaneck"], "postal_code": "07666", "lat": 40.890964, "lng": -74.01115, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

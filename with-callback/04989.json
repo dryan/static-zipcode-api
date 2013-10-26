@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.398851, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Vassalboro", "lng": -69.65181, "zip_code": "04989"});
+zipapicallback({"locality": "Vassalboro", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Vassalboro"], "postal_code": "04989", "lat": 44.398851, "lng": -69.65181, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

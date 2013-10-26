@@ -1,1 +1,1 @@
-{"lat": 36.804875, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Alva", "lng": -98.69707, "zip_code": "73717"}
+{"locality": "Alva", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Alva", "Avard", "Capron"], "postal_code": "73717", "lat": 36.804875, "lng": -98.69707, "type": "STANDARD", "counties": [{"fips": "151", "name": "Woods"}, {"fips": "003", "name": "Alfalfa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.294561, "region": {"abbr": "NY", "name": "New York"}, "locality": "Goldens Bridge", "lng": -73.66701, "zip_code": "10526"});
+zipapicallback({"locality": "Goldens Bridge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Goldens Brg", "Goldens Bridge"], "postal_code": "10526", "lat": 41.294561, "lng": -73.66701, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

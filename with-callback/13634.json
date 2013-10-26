@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.015332, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dexter", "lng": -76.05711, "zip_code": "13634"});
+zipapicallback({"locality": "Dexter", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dexter"], "postal_code": "13634", "lat": 44.015332, "lng": -76.05711, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]});

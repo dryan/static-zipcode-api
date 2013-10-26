@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.997492, "region": {"abbr": "CA", "name": "California"}, "locality": "City Of Commerce", "lng": -118.15284, "zip_code": "90040"});
+zipapicallback({"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Commerce", "Cty Of Cmmrce", "Los Angeles"], "postal_code": "90040", "lat": 33.997492, "lng": -118.15284, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

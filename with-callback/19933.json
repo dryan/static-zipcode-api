@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.73635, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Bridgeville", "lng": -75.60807, "zip_code": "19933"});
+zipapicallback({"locality": "Bridgeville", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Bridgeville"], "postal_code": "19933", "lat": 38.73635, "lng": -75.60807, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.869274, "region": {"abbr": "NY", "name": "New York"}, "locality": "Selden", "lng": -73.04254, "zip_code": "11784"}
+{"locality": "Selden", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Selden"], "postal_code": "11784", "lat": 40.869274, "lng": -73.04254, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

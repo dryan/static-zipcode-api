@@ -1,1 +1,1 @@
-{"lat": 40.029361, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Delanco", "lng": -74.9541, "zip_code": "08075"}
+{"locality": "Riverside", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Delanco", "Delran", "Riverside"], "postal_code": "08075", "lat": 40.029361, "lng": -74.9541, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]}

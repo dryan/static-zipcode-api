@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.138723, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hicks", "lng": -93.22745, "zip_code": "71446"});
+zipapicallback({"locality": "Leesville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hicks", "Leesville"], "postal_code": "71446", "lat": 31.138723, "lng": -93.22745, "type": "STANDARD", "counties": [{"fips": "115", "name": "Vernon"}, {"fips": "017", "name": "Caddo"}]});

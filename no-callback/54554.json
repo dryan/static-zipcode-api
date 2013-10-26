@@ -1,1 +1,1 @@
-{"lat": 46.056677, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Phelps", "lng": -89.08234, "zip_code": "54554"}
+{"locality": "Phelps", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Phelps"], "postal_code": "54554", "lat": 46.056677, "lng": -89.08234, "type": "STANDARD", "counties": [{"fips": "125", "name": "Vilas"}]}

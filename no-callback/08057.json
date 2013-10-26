@@ -1,1 +1,1 @@
-{"lat": 39.968962, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Moorestown", "lng": -74.9489, "zip_code": "08057"}
+{"locality": "Moorestown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Moorestown"], "postal_code": "08057", "lat": 39.968962, "lng": -74.9489, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}, {"fips": "009", "name": "Cape May"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.04195, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Frederick", "lng": -90.46831, "zip_code": "62639"});
+zipapicallback({"locality": "Frederick", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Frederick"], "postal_code": "62639", "lat": 40.04195, "lng": -90.46831, "type": "STANDARD", "counties": [{"fips": "169", "name": "Schuyler"}]});

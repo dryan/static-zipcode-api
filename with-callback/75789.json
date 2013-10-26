@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.137225, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Troup", "lng": -95.10105, "zip_code": "75789"});
+zipapicallback({"locality": "Troup", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Troup"], "postal_code": "75789", "lat": 32.137225, "lng": -95.10105, "type": "STANDARD", "counties": [{"fips": "423", "name": "Smith"}, {"fips": "073", "name": "Cherokee"}, {"fips": "401", "name": "Rusk"}]});

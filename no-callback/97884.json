@@ -1,1 +1,1 @@
-{"lat": 44.471344, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Unity", "lng": -118.20623, "zip_code": "97884"}
+{"locality": "Unity", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Unity"], "postal_code": "97884", "lat": 44.471344, "lng": -118.20623, "type": "STANDARD", "counties": [{"fips": "001", "name": "Baker"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.183211, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Eden", "lng": -81.39979, "zip_code": "31307"});
+zipapicallback({"locality": "Eden", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Eden"], "postal_code": "31307", "lat": 32.183211, "lng": -81.39979, "type": "POBOX", "counties": [{"fips": "103", "name": "Effingham"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.029083, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Bridgewater", "lng": -70.95227, "zip_code": "02333"});
+zipapicallback({"locality": "East Bridgewater", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Bridgewater", "E Bridgewtr", "East Bridgewater"], "postal_code": "02333", "lat": 42.029083, "lng": -70.95227, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]});

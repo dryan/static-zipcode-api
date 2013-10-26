@@ -1,1 +1,1 @@
-{"lat": 48.736168, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ione", "lng": -117.4111, "zip_code": "99139"}
+{"locality": "Ione", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ione"], "postal_code": "99139", "lat": 48.736168, "lng": -117.4111, "type": "STANDARD", "counties": [{"fips": "051", "name": "Pend Oreille"}]}

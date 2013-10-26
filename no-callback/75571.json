@@ -1,1 +1,1 @@
-{"lat": 33.183401, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Omaha", "lng": -94.75227, "zip_code": "75571"}
+{"locality": "Omaha", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Omaha"], "postal_code": "75571", "lat": 33.183401, "lng": -94.75227, "type": "STANDARD", "counties": [{"fips": "343", "name": "Morris"}, {"fips": "449", "name": "Titus"}]}

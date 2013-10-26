@@ -1,1 +1,1 @@
-{"lat": 39.400296, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Perry Hall", "lng": -76.44639, "zip_code": "21128"}
+{"locality": "Perry Hall", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Perry Hall"], "postal_code": "21128", "lat": 39.400296, "lng": -76.44639, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]}

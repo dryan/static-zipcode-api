@@ -1,1 +1,1 @@
-{"lat": 37.978232, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Garrison", "lng": -81.53288, "zip_code": "25209"}
+{"locality": "Whitesville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Garrison", "Packsville", "Pettus", "Whitesville"], "postal_code": "25209", "lat": 37.978232, "lng": -81.53288, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}, {"fips": "081", "name": "Raleigh"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.59471, "region": {"abbr": "CA", "name": "California"}, "locality": "Hughson", "lng": -120.86419, "zip_code": "95326"});
+zipapicallback({"locality": "Hughson", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hughson"], "postal_code": "95326", "lat": 37.59471, "lng": -120.86419, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}]});

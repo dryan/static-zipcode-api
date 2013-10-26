@@ -1,1 +1,1 @@
-{"lat": 45.563799, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mullett Lake", "lng": -84.52405, "zip_code": "49761"}
+{"locality": "Mullett Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mullett Lake"], "postal_code": "49761", "lat": 45.563799, "lng": -84.52405, "type": "POBOX", "counties": [{"fips": "031", "name": "Cheboygan"}]}

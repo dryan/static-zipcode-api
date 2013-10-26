@@ -1,1 +1,1 @@
-{"lat": 36.174029, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Caruthersville", "lng": -89.67548, "zip_code": "63830"}
+{"locality": "Caruthersville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Caruthersville", "Caruthersvlle"], "postal_code": "63830", "lat": 36.174029, "lng": -89.67548, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pemiscot"}]}

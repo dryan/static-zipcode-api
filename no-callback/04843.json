@@ -1,1 +1,1 @@
-{"lat": 44.218159, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Camden", "lng": -69.08184, "zip_code": "04843"}
+{"locality": "Camden", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Camden"], "postal_code": "04843", "lat": 44.218159, "lng": -69.08184, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]}

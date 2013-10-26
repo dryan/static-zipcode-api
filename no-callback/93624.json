@@ -1,1 +1,1 @@
-{"lat": 36.40263, "region": {"abbr": "CA", "name": "California"}, "locality": "Five Points", "lng": -120.12855, "zip_code": "93624"}
+{"locality": "Five Points", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Five Points"], "postal_code": "93624", "lat": 36.40263, "lng": -120.12855, "type": "POBOX", "counties": [{"fips": "019", "name": "Fresno"}]}

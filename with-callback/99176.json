@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.117965, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Thornton", "lng": -117.41047, "zip_code": "99176"});
+zipapicallback({"locality": "Thornton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Thornton"], "postal_code": "99176", "lat": 47.117965, "lng": -117.41047, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

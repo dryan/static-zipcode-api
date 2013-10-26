@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.965887, "region": {"abbr": "NY", "name": "New York"}, "locality": "Champlain", "lng": -73.43636, "zip_code": "12919"});
+zipapicallback({"locality": "Champlain", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Champlain"], "postal_code": "12919", "lat": 44.965887, "lng": -73.43636, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

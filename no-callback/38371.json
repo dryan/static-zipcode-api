@@ -1,1 +1,1 @@
-{"lat": 35.432389, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sardis", "lng": -88.30407, "zip_code": "38371"}
+{"locality": "Sardis", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sardis"], "postal_code": "38371", "lat": 35.432389, "lng": -88.30407, "type": "STANDARD", "counties": [{"fips": "071", "name": "Hardin"}]}

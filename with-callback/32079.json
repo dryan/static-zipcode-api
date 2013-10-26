@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.979095, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Penney Farms", "lng": -81.80991, "zip_code": "32079"});
+zipapicallback({"locality": "Penney Farms", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Penney Farms"], "postal_code": "32079", "lat": 29.979095, "lng": -81.80991, "type": "POBOX", "counties": [{"fips": "019", "name": "Clay"}]});

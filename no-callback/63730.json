@@ -1,1 +1,1 @@
-{"lat": 37.101789, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Advance", "lng": -89.91359, "zip_code": "63730"}
+{"locality": "Advance", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Advance"], "postal_code": "63730", "lat": 37.101789, "lng": -89.91359, "type": "STANDARD", "counties": [{"fips": "207", "name": "Stoddard"}, {"fips": "017", "name": "Bollinger"}, {"fips": "031", "name": "Cape Girardeau"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.20808, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Jansen", "lng": -97.02445, "zip_code": "68377"}
+{"locality": "Jansen", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Jansen"], "postal_code": "68377", "lat": 40.20808, "lng": -97.02445, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jefferson"}]}

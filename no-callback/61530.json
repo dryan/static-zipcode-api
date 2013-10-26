@@ -1,1 +1,1 @@
-{"lat": 40.718228, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Eureka", "lng": -89.27153, "zip_code": "61530"}
+{"locality": "Eureka", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Eureka"], "postal_code": "61530", "lat": 40.718228, "lng": -89.27153, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}, {"fips": "179", "name": "Tazewell"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.942941, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Keene", "lng": -84.64418, "zip_code": "40339"});
+zipapicallback({"locality": "Keene", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Keene"], "postal_code": "40339", "lat": 37.942941, "lng": -84.64418, "type": "POBOX", "counties": [{"fips": "113", "name": "Jessamine"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.668174, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saugatuck", "lng": -86.18724, "zip_code": "49453"}
+{"locality": "Saugatuck", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saugatuck"], "postal_code": "49453", "lat": 42.668174, "lng": -86.18724, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allegan"}]}

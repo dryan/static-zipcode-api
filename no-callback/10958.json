@@ -1,1 +1,1 @@
-{"lat": 41.384738, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Hampton", "lng": -74.41571, "zip_code": "10958"}
+{"locality": "New Hampton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Hampton"], "postal_code": "10958", "lat": 41.384738, "lng": -74.41571, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.004303, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Ponce", "lng": -66.61374, "zip_code": "00717"});
+zipapicallback({"locality": "Ponce", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Ponce"], "postal_code": "00717", "lat": 18.004303, "lng": -66.61374, "type": "STANDARD", "counties": [{"fips": "101", "name": "Morovis"}]});

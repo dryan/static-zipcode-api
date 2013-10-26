@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.667589, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Slana", "lng": -144.49059, "zip_code": "99586"});
+zipapicallback({"locality": "Gakona", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Gakona", "Miers Lake", "Slana"], "postal_code": "99586", "lat": 62.667589, "lng": -144.49059, "type": "STANDARD", "counties": [{"fips": "261", "name": "Valdez-Cordova"}]});

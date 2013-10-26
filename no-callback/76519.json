@@ -1,1 +1,1 @@
-{"lat": 31.002164, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Burlington", "lng": -97.0358, "zip_code": "76519"}
+{"locality": "Burlington", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ben Arnold", "Burlington"], "postal_code": "76519", "lat": 31.002164, "lng": -97.0358, "type": "STANDARD", "counties": [{"fips": "331", "name": "Milam"}, {"fips": "027", "name": "Bell"}, {"fips": "145", "name": "Falls"}]}

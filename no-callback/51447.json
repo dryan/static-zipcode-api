@@ -1,1 +1,1 @@
-{"lat": 41.7196, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kirkman", "lng": -95.19538, "zip_code": "51447"}
+{"locality": "Kirkman", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kirkman"], "postal_code": "51447", "lat": 41.7196, "lng": -95.19538, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}]}

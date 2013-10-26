@@ -1,1 +1,1 @@
-{"lat": 34.082845, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Delight", "lng": -93.51733, "zip_code": "71940"}
+{"locality": "Delight", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Delight"], "postal_code": "71940", "lat": 34.082845, "lng": -93.51733, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.380877, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Rutland", "lng": -71.96427, "zip_code": "01543"});
+zipapicallback({"locality": "Rutland", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Rutland"], "postal_code": "01543", "lat": 42.380877, "lng": -71.96427, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

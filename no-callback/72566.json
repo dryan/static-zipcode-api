@@ -1,1 +1,1 @@
-{"lat": 36.186879, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Pineville", "lng": -92.08691, "zip_code": "72566"}
+{"locality": "Pineville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Pineville"], "postal_code": "72566", "lat": 36.186879, "lng": -92.08691, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]}

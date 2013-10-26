@@ -1,1 +1,1 @@
-{"lat": 39.549346, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rivesville", "lng": -80.13097, "zip_code": "26588"}
+{"locality": "Rivesville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rivesville"], "postal_code": "26588", "lat": 39.549346, "lng": -80.13097, "type": "STANDARD", "counties": [{"fips": "049", "name": "Marion"}, {"fips": "061", "name": "Monongalia"}]}

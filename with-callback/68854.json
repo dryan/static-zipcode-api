@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.019927, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Marquette", "lng": -98.00297, "zip_code": "68854"});
+zipapicallback({"locality": "Marquette", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Marquette"], "postal_code": "68854", "lat": 41.019927, "lng": -98.00297, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hamilton"}]});

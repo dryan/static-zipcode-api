@@ -1,1 +1,1 @@
-{"lat": 34.809495, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fletcher", "lng": -98.19821, "zip_code": "73541"}
+{"locality": "Fletcher", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fletcher"], "postal_code": "73541", "lat": 34.809495, "lng": -98.19821, "type": "STANDARD", "counties": [{"fips": "031", "name": "Comanche"}]}

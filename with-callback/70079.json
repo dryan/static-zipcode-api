@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.007089, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Norco", "lng": -90.41389, "zip_code": "70079"});
+zipapicallback({"locality": "Norco", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Norco"], "postal_code": "70079", "lat": 30.007089, "lng": -90.41389, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Charles"}]});

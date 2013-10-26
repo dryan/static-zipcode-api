@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.180394, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Southern Pines", "lng": -79.39084, "zip_code": "28387"});
+zipapicallback({"locality": "Southern Pines", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Southern Pines", "Southern Pnes"], "postal_code": "28387", "lat": 35.180394, "lng": -79.39084, "type": "STANDARD", "counties": [{"fips": "125", "name": "Moore"}]});

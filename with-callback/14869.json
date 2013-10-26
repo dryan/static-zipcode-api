@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.341316, "region": {"abbr": "NY", "name": "New York"}, "locality": "Odessa", "lng": -76.77926, "zip_code": "14869"});
+zipapicallback({"locality": "Odessa", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Odessa"], "postal_code": "14869", "lat": 42.341316, "lng": -76.77926, "type": "STANDARD", "counties": [{"fips": "097", "name": "Schuyler"}]});

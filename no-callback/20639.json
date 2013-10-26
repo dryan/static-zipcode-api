@@ -1,1 +1,1 @@
-{"lat": 38.601648, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Huntingtown", "lng": -76.60434, "zip_code": "20639"}
+{"locality": "Huntingtown", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Huntingtown"], "postal_code": "20639", "lat": 38.601648, "lng": -76.60434, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]}

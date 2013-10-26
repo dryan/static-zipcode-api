@@ -1,1 +1,1 @@
-{"lat": 40.847649, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Randolph", "lng": -74.5748, "zip_code": "07869"}
+{"locality": "Randolph", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Dover", "Randolph"], "postal_code": "07869", "lat": 40.847649, "lng": -74.5748, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

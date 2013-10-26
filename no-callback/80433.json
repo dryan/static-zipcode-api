@@ -1,1 +1,1 @@
-{"lat": 39.514738, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Conifer", "lng": -105.31198, "zip_code": "80433"}
+{"locality": "Conifer", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Conifer", "Foxton"], "postal_code": "80433", "lat": 39.514738, "lng": -105.31198, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}]}

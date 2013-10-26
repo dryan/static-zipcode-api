@@ -1,1 +1,1 @@
-{"lat": 34.200104, "region": {"abbr": "CA", "name": "California"}, "locality": "Reseda", "lng": -118.54099, "zip_code": "91335"}
+{"locality": "Reseda", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Reseda", "Tarzana"], "postal_code": "91335", "lat": 34.200104, "lng": -118.54099, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

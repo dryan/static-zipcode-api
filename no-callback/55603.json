@@ -1,1 +1,1 @@
-{"lat": 47.502703, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Finland", "lng": -91.20122, "zip_code": "55603"}
+{"locality": "Finland", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Finland"], "postal_code": "55603", "lat": 47.502703, "lng": -91.20122, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lake"}]}

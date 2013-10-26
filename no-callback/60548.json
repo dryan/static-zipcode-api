@@ -1,1 +1,1 @@
-{"lat": 41.645393, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sandwich", "lng": -88.63052, "zip_code": "60548"}
+{"locality": "Sandwich", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sandwich"], "postal_code": "60548", "lat": 41.645393, "lng": -88.63052, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}, {"fips": "099", "name": "La Salle"}]}

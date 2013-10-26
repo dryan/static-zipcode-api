@@ -1,1 +1,1 @@
-{"lat": 36.619065, "region": {"abbr": "CA", "name": "California"}, "locality": "Pacific Grove", "lng": -121.92102, "zip_code": "93950"}
+{"locality": "Pacific Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pacific Grove"], "postal_code": "93950", "lat": 36.619065, "lng": -121.92102, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]}

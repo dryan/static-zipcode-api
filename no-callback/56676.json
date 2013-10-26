@@ -1,1 +1,1 @@
-{"lat": 47.506665, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Shevlin", "lng": -95.21527, "zip_code": "56676"}
+{"locality": "Shevlin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Pinewood", "Shevlin"], "postal_code": "56676", "lat": 47.506665, "lng": -95.21527, "type": "STANDARD", "counties": [{"fips": "029", "name": "Clearwater"}, {"fips": "007", "name": "Beltrami"}]}

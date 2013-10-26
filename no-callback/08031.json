@@ -1,1 +1,1 @@
-{"lat": 39.867013, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bellmawr", "lng": -75.09162, "zip_code": "08031"}
+{"locality": "Bellmawr", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bellmawr"], "postal_code": "08031", "lat": 39.867013, "lng": -75.09162, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

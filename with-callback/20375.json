@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.822713, "region": {"abbr": "DC", "name": "District of Columbia"}, "locality": "Washington", "lng": -77.02322, "zip_code": "20375"});
+zipapicallback({"locality": "Washington", "region": {"fips": "11", "abbr": "DC", "name": "District of Columbia"}, "localities": ["Washington"], "postal_code": "20375", "lat": 38.822713, "lng": -77.02322, "type": "UNIQUE", "counties": [{"fips": "001", "name": "District of Columbia"}]});

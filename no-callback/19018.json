@@ -1,1 +1,1 @@
-{"lat": 39.922862, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Primos Secane", "lng": -75.29639, "zip_code": "19018"}
+{"locality": "Clifton Heights", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aldan", "Clifton Heights", "Clifton Hts", "Primos", "Primos Secane", "Secane"], "postal_code": "19018", "lat": 39.922862, "lng": -75.29639, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]}

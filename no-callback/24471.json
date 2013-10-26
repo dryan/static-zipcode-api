@@ -1,1 +1,1 @@
-{"lat": 38.310311, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Port Republic", "lng": -78.80409, "zip_code": "24471"}
+{"locality": "Port Republic", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Port Republic"], "postal_code": "24471", "lat": 38.310311, "lng": -78.80409, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.309241, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Charlotte", "lng": -73.23504, "zip_code": "05445"}
+{"locality": "Charlotte", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Charlotte"], "postal_code": "05445", "lat": 44.309241, "lng": -73.23504, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}]}

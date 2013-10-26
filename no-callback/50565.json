@@ -1,1 +1,1 @@
-{"lat": 42.855822, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Marathon", "lng": -95.00245, "zip_code": "50565"}
+{"locality": "Marathon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Marathon"], "postal_code": "50565", "lat": 42.855822, "lng": -95.00245, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buena Vista"}]}

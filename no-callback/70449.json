@@ -1,1 +1,1 @@
-{"lat": 30.272335, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Maurepas", "lng": -90.72701, "zip_code": "70449"}
+{"locality": "Maurepas", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Maurepas"], "postal_code": "70449", "lat": 30.272335, "lng": -90.72701, "type": "STANDARD", "counties": [{"fips": "063", "name": "Livingston"}]}

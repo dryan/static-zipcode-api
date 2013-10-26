@@ -1,1 +1,1 @@
-{"lat": 28.964146, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Markham", "lng": -96.07346, "zip_code": "77456"}
+{"locality": "Markham", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Markham"], "postal_code": "77456", "lat": 28.964146, "lng": -96.07346, "type": "POBOX", "counties": [{"fips": "321", "name": "Matagorda"}]}

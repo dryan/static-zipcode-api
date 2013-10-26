@@ -1,1 +1,1 @@
-{"lat": 38.827875, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bavaria", "lng": -97.61553, "zip_code": "67401"}
+{"locality": "Salina", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bavaria", "Salina"], "postal_code": "67401", "lat": 38.827875, "lng": -97.61553, "type": "STANDARD", "counties": [{"fips": "169", "name": "Saline"}]}

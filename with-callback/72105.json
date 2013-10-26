@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.437118, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jones Mills", "lng": -92.89278, "zip_code": "72105"});
+zipapicallback({"locality": "Jones Mill", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Jones Mill", "Malvern"], "postal_code": "72105", "lat": 34.437118, "lng": -92.89278, "type": "POBOX", "counties": [{"fips": "059", "name": "Hot Spring"}]});

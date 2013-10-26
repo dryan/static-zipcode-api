@@ -1,1 +1,1 @@
-{"lat": 38.72926, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Charles", "lng": -90.65332, "zip_code": "63304"}
+{"locality": "Saint Charles", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cottleville", "Saint Charles", "Saint Peters", "St Peters", "Weldon Spring"], "postal_code": "63304", "lat": 38.72926, "lng": -90.65332, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.319083, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Midland City", "lng": -85.48718, "zip_code": "36350"});
+zipapicallback({"locality": "Midland City", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Midland City"], "postal_code": "36350", "lat": 31.319083, "lng": -85.48718, "type": "STANDARD", "counties": [{"fips": "045", "name": "Dale"}, {"fips": "069", "name": "Houston"}]});

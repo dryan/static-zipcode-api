@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.750666, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brockton", "lng": -76.06899, "zip_code": "17925"});
+zipapicallback({"locality": "Brockton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brockton"], "postal_code": "17925", "lat": 40.750666, "lng": -76.06899, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

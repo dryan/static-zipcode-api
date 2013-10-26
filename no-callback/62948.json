@@ -1,1 +1,1 @@
-{"lat": 37.804014, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Herrin", "lng": -89.02702, "zip_code": "62948"}
+{"locality": "Herrin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Herrin"], "postal_code": "62948", "lat": 37.804014, "lng": -89.02702, "type": "STANDARD", "counties": [{"fips": "199", "name": "Williamson"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.987151, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Newport News", "lng": -76.4195, "zip_code": "23607"}
+{"locality": "Newport News", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Newport News"], "postal_code": "23607", "lat": 36.987151, "lng": -76.4195, "type": "STANDARD", "counties": [{"fips": "700", "name": "Newport News (City)"}]}

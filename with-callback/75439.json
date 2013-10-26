@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.573304, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ector", "lng": -96.27386, "zip_code": "75439"});
+zipapicallback({"locality": "Ector", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ector"], "postal_code": "75439", "lat": 33.573304, "lng": -96.27386, "type": "STANDARD", "counties": [{"fips": "147", "name": "Fannin"}]});

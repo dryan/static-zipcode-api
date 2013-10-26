@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.196822, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rule", "lng": -99.90554, "zip_code": "79547"});
+zipapicallback({"locality": "Rule", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rule"], "postal_code": "79547", "lat": 33.196822, "lng": -99.90554, "type": "STANDARD", "counties": [{"fips": "207", "name": "Haskell"}, {"fips": "433", "name": "Stonewall"}]});

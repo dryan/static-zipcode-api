@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.114872, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Newbern", "lng": -89.25419, "zip_code": "38059"});
+zipapicallback({"locality": "Newbern", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Newbern"], "postal_code": "38059", "lat": 36.114872, "lng": -89.25419, "type": "STANDARD", "counties": [{"fips": "045", "name": "Dyer"}]});

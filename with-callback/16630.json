@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.464754, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cresson", "lng": -78.5885, "zip_code": "16630"});
+zipapicallback({"locality": "Cresson", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cresson"], "postal_code": "16630", "lat": 40.464754, "lng": -78.5885, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}, {"fips": "013", "name": "Blair"}]});

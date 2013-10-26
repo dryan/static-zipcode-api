@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.943945, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Southaven", "lng": -89.92279, "zip_code": "38672"});
+zipapicallback({"locality": "Southaven", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Southaven"], "postal_code": "38672", "lat": 34.943945, "lng": -89.92279, "type": "STANDARD", "counties": []});

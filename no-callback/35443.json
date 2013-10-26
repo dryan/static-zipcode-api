@@ -1,1 +1,1 @@
-{"lat": 32.772835, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Boligee", "lng": -88.0321, "zip_code": "35443"}
+{"locality": "Boligee", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Boligee"], "postal_code": "35443", "lat": 32.772835, "lng": -88.0321, "type": "STANDARD", "counties": [{"fips": "063", "name": "Greene"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.829314, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tennessee Colony", "lng": -95.86383, "zip_code": "75861"}
+{"locality": "Tennessee Colony", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tenn Colony", "Tennessee Colony"], "postal_code": "75861", "lat": 31.829314, "lng": -95.86383, "type": "STANDARD", "counties": [{"fips": "001", "name": "Anderson"}]}

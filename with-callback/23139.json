@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.55563, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Powhatan", "lng": -77.90048, "zip_code": "23139"});
+zipapicallback({"locality": "Powhatan", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Macon", "Powhatan"], "postal_code": "23139", "lat": 37.55563, "lng": -77.90048, "type": "STANDARD", "counties": [{"fips": "145", "name": "Powhatan"}]});

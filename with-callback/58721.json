@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.811975, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Coteau", "lng": -102.27362, "zip_code": "58721"});
+zipapicallback({"locality": "Bowbells", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bowbells", "Coteau"], "postal_code": "58721", "lat": 48.811975, "lng": -102.27362, "type": "STANDARD", "counties": [{"fips": "013", "name": "Burke"}, {"fips": "101", "name": "Ward"}]});

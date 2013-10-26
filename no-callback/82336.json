@@ -1,1 +1,1 @@
-{"lat": 41.765078, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Wamsutter", "lng": -108.16076, "zip_code": "82336"}
+{"locality": "Wamsutter", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Red Desert", "Tipton", "Wamsutter"], "postal_code": "82336", "lat": 41.765078, "lng": -108.16076, "type": "POBOX", "counties": [{"fips": "037", "name": "Sweetwater"}]}

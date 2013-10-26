@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.728732, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lowry", "lng": -95.52504, "zip_code": "56349"});
+zipapicallback({"locality": "Lowry", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lowry"], "postal_code": "56349", "lat": 45.728732, "lng": -95.52504, "type": "STANDARD", "counties": [{"fips": "121", "name": "Pope"}, {"fips": "041", "name": "Douglas"}]});

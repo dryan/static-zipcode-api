@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.466012, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Freedom", "lng": -69.31337, "zip_code": "04941"});
+zipapicallback({"locality": "Freedom", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Freedom", "Montville"], "postal_code": "04941", "lat": 44.466012, "lng": -69.31337, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

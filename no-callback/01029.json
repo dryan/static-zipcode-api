@@ -1,1 +1,1 @@
-{"lat": 42.175896, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Otis", "lng": -73.04204, "zip_code": "01029"}
+{"locality": "East Otis", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["East Otis"], "postal_code": "01029", "lat": 42.175896, "lng": -73.04204, "type": "POBOX", "counties": [{"fips": "003", "name": "Berkshire"}]}

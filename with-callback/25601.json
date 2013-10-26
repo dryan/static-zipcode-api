@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.833826, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "West Logan", "lng": -82.00011, "zip_code": "25601"});
+zipapicallback({"locality": "Logan", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Logan", "Mitchell Hts", "Monaville", "Rossmore", "West Logan"], "postal_code": "25601", "lat": 37.833826, "lng": -82.00011, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}]});

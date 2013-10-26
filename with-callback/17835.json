@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.88358, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Laurelton", "lng": -77.19808, "zip_code": "17835"});
+zipapicallback({"locality": "Laurelton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Laurelton"], "postal_code": "17835", "lat": 40.88358, "lng": -77.19808, "type": "POBOX", "counties": [{"fips": "119", "name": "Union"}]});

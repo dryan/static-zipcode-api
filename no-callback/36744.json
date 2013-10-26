@@ -1,1 +1,1 @@
-{"lat": 32.703529, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Greensboro", "lng": -87.60177, "zip_code": "36744"}
+{"locality": "Greensboro", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Greensboro"], "postal_code": "36744", "lat": 32.703529, "lng": -87.60177, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hale"}, {"fips": "105", "name": "Perry"}]}

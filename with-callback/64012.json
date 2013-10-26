@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.810856, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Belton", "lng": -94.53201, "zip_code": "64012"});
+zipapicallback({"locality": "Belton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Belton", "Village Of Loch Lloyd", "Vlg Loch Loyd"], "postal_code": "64012", "lat": 38.810856, "lng": -94.53201, "type": "STANDARD", "counties": [{"fips": "037", "name": "Cass"}]});

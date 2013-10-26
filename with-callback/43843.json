@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.3479, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Walhonding", "lng": -82.17789, "zip_code": "43843"});
+zipapicallback({"locality": "Walhonding", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Walhonding"], "postal_code": "43843", "lat": 40.3479, "lng": -82.17789, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coshocton"}, {"fips": "083", "name": "Knox"}]});

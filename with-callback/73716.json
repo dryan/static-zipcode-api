@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.49556, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Aline", "lng": -98.49057, "zip_code": "73716"});
+zipapicallback({"locality": "Aline", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Aline"], "postal_code": "73716", "lat": 36.49556, "lng": -98.49057, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}, {"fips": "151", "name": "Woods"}, {"fips": "093", "name": "Major"}]});

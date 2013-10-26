@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.241272, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Wilsonville", "lng": -86.50614, "zip_code": "35186"});
+zipapicallback({"locality": "Wilsonville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Wilsonville"], "postal_code": "35186", "lat": 33.241272, "lng": -86.50614, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]});

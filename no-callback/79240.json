@@ -1,1 +1,1 @@
-{"lat": 34.896396, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lelia Lake", "lng": -100.76721, "zip_code": "79240"}
+{"locality": "Lelia Lake", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lelia Lake"], "postal_code": "79240", "lat": 34.896396, "lng": -100.76721, "type": "STANDARD", "counties": [{"fips": "129", "name": "Donley"}]}

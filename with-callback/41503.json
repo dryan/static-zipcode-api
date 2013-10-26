@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.67059, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "South Williamson", "lng": -82.28465, "zip_code": "41503"});
+zipapicallback({"locality": "South Williamson", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["S Williamson", "South Williamson"], "postal_code": "41503", "lat": 37.67059, "lng": -82.28465, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

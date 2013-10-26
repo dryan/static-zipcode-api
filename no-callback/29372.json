@@ -1,1 +1,1 @@
-{"lat": 34.900682, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pacolet", "lng": -81.74846, "zip_code": "29372"}
+{"locality": "Pacolet", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pacolet"], "postal_code": "29372", "lat": 34.900682, "lng": -81.74846, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}, {"fips": "087", "name": "Union"}, {"fips": "021", "name": "Cherokee"}]}

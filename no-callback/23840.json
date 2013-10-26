@@ -1,1 +1,1 @@
-{"lat": 37.066833, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dewitt", "lng": -77.6675, "zip_code": "23840"}
+{"locality": "Dewitt", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dewitt"], "postal_code": "23840", "lat": 37.066833, "lng": -77.6675, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dinwiddie"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.943468, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Everett", "lng": -122.21792, "zip_code": "98203"}
+{"locality": "Everett", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Everett"], "postal_code": "98203", "lat": 47.943468, "lng": -122.21792, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}, {"fips": "033", "name": "King"}]}

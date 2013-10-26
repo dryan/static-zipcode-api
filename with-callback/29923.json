@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.866195, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Gifford", "lng": -81.24215, "zip_code": "29923"});
+zipapicallback({"locality": "Gifford", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Gifford"], "postal_code": "29923", "lat": 32.866195, "lng": -81.24215, "type": "POBOX", "counties": [{"fips": "049", "name": "Hampton"}]});

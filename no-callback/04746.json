@@ -1,1 +1,1 @@
-{"lat": 47.281126, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Grand Isle", "lng": -68.14277, "zip_code": "04746"}
+{"locality": "Grand Isle", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Grand Isle", "Lille"], "postal_code": "04746", "lat": 47.281126, "lng": -68.14277, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

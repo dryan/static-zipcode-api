@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.675155, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Blossom", "lng": -95.37293, "zip_code": "75416"});
+zipapicallback({"locality": "Blossom", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Blossom"], "postal_code": "75416", "lat": 33.675155, "lng": -95.37293, "type": "STANDARD", "counties": [{"fips": "277", "name": "Lamar"}]});

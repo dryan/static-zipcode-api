@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.165358, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Moultrie", "lng": -83.77172, "zip_code": "31768"});
+zipapicallback({"locality": "Moultrie", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Moultrie", "Riverside"], "postal_code": "31768", "lat": 31.165358, "lng": -83.77172, "type": "STANDARD", "counties": [{"fips": "071", "name": "Colquitt"}, {"fips": "027", "name": "Brooks"}, {"fips": "321", "name": "Worth"}]});

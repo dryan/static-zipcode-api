@@ -1,1 +1,1 @@
-{"lat": 41.602898, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Williston", "lng": -83.33988, "zip_code": "43468"}
+{"locality": "Williston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Williston"], "postal_code": "43468", "lat": 41.602898, "lng": -83.33988, "type": "POBOX", "counties": [{"fips": "123", "name": "Ottawa"}]}

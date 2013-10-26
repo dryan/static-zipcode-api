@@ -1,1 +1,1 @@
-{"lat": 48.503927, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Medicine Lake", "lng": -104.48487, "zip_code": "59247"}
+{"locality": "Medicine Lake", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Medicine Lake"], "postal_code": "59247", "lat": 48.503927, "lng": -104.48487, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sheridan"}]}

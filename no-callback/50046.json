@@ -1,1 +1,1 @@
-{"lat": 41.89949, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cambridge", "lng": -93.5311, "zip_code": "50046"}
+{"locality": "Cambridge", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cambridge"], "postal_code": "50046", "lat": 41.89949, "lng": -93.5311, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}, {"fips": "153", "name": "Polk"}]}

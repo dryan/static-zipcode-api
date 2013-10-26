@@ -1,1 +1,1 @@
-{"lat": 33.605233, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Lincoln", "lng": -86.12079, "zip_code": "35096"}
+{"locality": "Lincoln", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Lincoln"], "postal_code": "35096", "lat": 33.605233, "lng": -86.12079, "type": "STANDARD", "counties": [{"fips": "121", "name": "Talladega"}, {"fips": "015", "name": "Calhoun"}]}

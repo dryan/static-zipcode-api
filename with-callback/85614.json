@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.857504, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Green Valley", "lng": -111.00904, "zip_code": "85614"});
+zipapicallback({"locality": "Green Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Green Valley", "Madera Canyon", "Sahuarita"], "postal_code": "85614", "lat": 31.857504, "lng": -111.00904, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}]});

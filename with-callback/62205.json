@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.6151, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "East Saint Louis", "lng": -90.12675, "zip_code": "62205"});
+zipapicallback({"locality": "East Saint Louis", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Centreville", "E Saint Louis", "East Saint Louis"], "postal_code": "62205", "lat": 38.6151, "lng": -90.12675, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]});

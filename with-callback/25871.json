@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.771364, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mabscott", "lng": -81.2093, "zip_code": "25871"});
+zipapicallback({"locality": "Mabscott", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mabscott"], "postal_code": "25871", "lat": 37.771364, "lng": -81.2093, "type": "POBOX", "counties": [{"fips": "081", "name": "Raleigh"}]});

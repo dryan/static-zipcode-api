@@ -1,1 +1,1 @@
-{"lat": 48.509814, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Rockport", "lng": -121.48418, "zip_code": "98283"}
+{"locality": "Rockport", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Rockport"], "postal_code": "98283", "lat": 48.509814, "lng": -121.48418, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.557848, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Liberty", "lng": -77.13755, "zip_code": "16930"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Liberty"], "postal_code": "16930", "lat": 41.557848, "lng": -77.13755, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "081", "name": "Lycoming"}]});

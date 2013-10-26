@@ -1,1 +1,1 @@
-{"lat": 35.662619, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Luther", "lng": -97.18976, "zip_code": "73054"}
+{"locality": "Luther", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Luther"], "postal_code": "73054", "lat": 35.662619, "lng": -97.18976, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}, {"fips": "083", "name": "Logan"}, {"fips": "081", "name": "Lincoln"}]}

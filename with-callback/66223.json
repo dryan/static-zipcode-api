@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.860552, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Stanley", "lng": -94.66594, "zip_code": "66223"});
+zipapicallback({"locality": "Overland Park", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Overland Park", "Shawnee Mission", "Shawnee Msn", "Stanley"], "postal_code": "66223", "lat": 38.860552, "lng": -94.66594, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}]});

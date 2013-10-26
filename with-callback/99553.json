@@ -1,1 +1,1 @@
-zipapicallback({"lat": 54.098693, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Akutan", "lng": -165.88176, "zip_code": "99553"});
+zipapicallback({"locality": "Akutan", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Akutan"], "postal_code": "99553", "lat": 54.098693, "lng": -165.88176, "type": "POBOX", "counties": [{"fips": "010", "name": "Aleutian Islands"}]});

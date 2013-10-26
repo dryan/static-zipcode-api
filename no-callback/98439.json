@@ -1,1 +1,1 @@
-{"lat": 47.12562, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lakewood Center", "lng": -122.52294, "zip_code": "98439"}
+{"locality": "Lakewood", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Joint Base Lewis Mcchord", "Lakewood", "Lewis Mcchord", "Mcchord Afb", "Tacoma"], "postal_code": "98439", "lat": 47.12562, "lng": -122.52294, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

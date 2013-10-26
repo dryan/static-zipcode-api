@@ -1,1 +1,1 @@
-{"lat": 35.733627, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gatlinburg", "lng": -83.47156, "zip_code": "37738"}
+{"locality": "Gatlinburg", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gatlinburg"], "postal_code": "37738", "lat": 35.733627, "lng": -83.47156, "type": "STANDARD", "counties": [{"fips": "155", "name": "Sevier"}]}

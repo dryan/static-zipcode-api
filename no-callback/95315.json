@@ -1,1 +1,1 @@
-{"lat": 37.428227, "region": {"abbr": "CA", "name": "California"}, "locality": "Delhi", "lng": -120.77519, "zip_code": "95315"}
+{"locality": "Delhi", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Delhi"], "postal_code": "95315", "lat": 37.428227, "lng": -120.77519, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]}

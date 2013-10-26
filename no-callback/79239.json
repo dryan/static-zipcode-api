@@ -1,1 +1,1 @@
-{"lat": 34.637427, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lakeview", "lng": -100.76388, "zip_code": "79239"}
+{"locality": "Lakeview", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lakeview"], "postal_code": "79239", "lat": 34.637427, "lng": -100.76388, "type": "STANDARD", "counties": [{"fips": "191", "name": "Hall"}]}

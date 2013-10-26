@@ -1,1 +1,1 @@
-zipapicallback({"lat": 56.784206, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Petersburg", "lng": -132.97354, "zip_code": "99833"});
+zipapicallback({"locality": "Petersburg", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kupreanof", "Petersburg"], "postal_code": "99833", "lat": 56.784206, "lng": -132.97354, "type": "POBOX", "counties": [{"fips": "280", "name": "Wrangell-Petersburg"}]});

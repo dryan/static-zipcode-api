@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.331919, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Easton", "lng": -95.11389, "zip_code": "66020"});
+zipapicallback({"locality": "Easton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Easton"], "postal_code": "66020", "lat": 39.331919, "lng": -95.11389, "type": "STANDARD", "counties": [{"fips": "103", "name": "Leavenworth"}]});

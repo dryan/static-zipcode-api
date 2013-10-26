@@ -1,1 +1,1 @@
-{"lat": 42.368, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brooktondale", "lng": -76.35407, "zip_code": "14817"}
+{"locality": "Brooktondale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brooktondale"], "postal_code": "14817", "lat": 42.368, "lng": -76.35407, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tompkins"}, {"fips": "107", "name": "Tioga"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.368358, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Table Grove", "lng": -90.42469, "zip_code": "61482"});
+zipapicallback({"locality": "Table Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Table Grove"], "postal_code": "61482", "lat": 40.368358, "lng": -90.42469, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}, {"fips": "109", "name": "McDonough"}]});

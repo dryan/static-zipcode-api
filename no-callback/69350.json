@@ -1,1 +1,1 @@
-{"lat": 41.926792, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hyannis", "lng": -101.73705, "zip_code": "69350"}
+{"locality": "Hyannis", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hyannis"], "postal_code": "69350", "lat": 41.926792, "lng": -101.73705, "type": "STANDARD", "counties": [{"fips": "075", "name": "Grant"}]}

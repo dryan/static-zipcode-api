@@ -1,1 +1,1 @@
-{"lat": 38.061248, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mount Sterling", "lng": -83.92964, "zip_code": "40353"}
+{"locality": "Mount Sterling", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Camargo", "Mount Sterling", "Mt Sterling"], "postal_code": "40353", "lat": 38.061248, "lng": -83.92964, "type": "STANDARD", "counties": [{"fips": "173", "name": "Montgomery"}, {"fips": "073", "name": "Franklin"}, {"fips": "011", "name": "Bath"}, {"fips": "049", "name": "Clark"}]}

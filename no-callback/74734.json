@@ -1,1 +1,1 @@
-{"lat": 34.138965, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Eagletown", "lng": -94.55407, "zip_code": "74734"}
+{"locality": "Eagletown", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Eagletown"], "postal_code": "74734", "lat": 34.138965, "lng": -94.55407, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]}

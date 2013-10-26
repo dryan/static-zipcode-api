@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.269582, "region": {"abbr": "CA", "name": "California"}, "locality": "Fairfield", "lng": -122.03701, "zip_code": "94533"});
+zipapicallback({"locality": "Fairfield", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fairfield"], "postal_code": "94533", "lat": 38.269582, "lng": -122.03701, "type": "STANDARD", "counties": [{"fips": "095", "name": "Solano"}]});

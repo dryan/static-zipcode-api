@@ -1,1 +1,1 @@
-{"lat": 42.455148, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Knierim", "lng": -94.45652, "zip_code": "50552"}
+{"locality": "Knierim", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Knierim"], "postal_code": "50552", "lat": 42.455148, "lng": -94.45652, "type": "POBOX", "counties": [{"fips": "025", "name": "Calhoun"}]}

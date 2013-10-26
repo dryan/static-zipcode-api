@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.54549, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mathiston", "lng": -89.13632, "zip_code": "39752"});
+zipapicallback({"locality": "Mathiston", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mathiston"], "postal_code": "39752", "lat": 33.54549, "lng": -89.13632, "type": "STANDARD", "counties": [{"fips": "155", "name": "Webster"}]});

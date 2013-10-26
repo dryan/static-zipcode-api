@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.163304, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lost Creek", "lng": -80.35527, "zip_code": "26385"});
+zipapicallback({"locality": "Lost Creek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lost Creek", "Mcwhorter"], "postal_code": "26385", "lat": 39.163304, "lng": -80.35527, "type": "STANDARD", "counties": [{"fips": "033", "name": "Harrison"}, {"fips": "097", "name": "Upshur"}]});

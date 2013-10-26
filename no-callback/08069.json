@@ -1,1 +1,1 @@
-{"lat": 39.712593, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Carneys Point", "lng": -75.46906, "zip_code": "08069"}
+{"locality": "Penns Grove", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Carneys Point", "Penns Grove"], "postal_code": "08069", "lat": 39.712593, "lng": -75.46906, "type": "STANDARD", "counties": [{"fips": "033", "name": "Salem"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.175504, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fairless Hills", "lng": -74.84611, "zip_code": "19030"});
+zipapicallback({"locality": "Fairless Hills", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fairless Hills", "Fairless Hls"], "postal_code": "19030", "lat": 40.175504, "lng": -74.84611, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.645219, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Johnson", "lng": -72.67941, "zip_code": "05656"}
+{"locality": "Johnson", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Johnson"], "postal_code": "05656", "lat": 44.645219, "lng": -72.67941, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}]}

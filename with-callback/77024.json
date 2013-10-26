@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.773994, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Houston", "lng": -95.51771, "zip_code": "77024"});
+zipapicallback({"locality": "Houston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Houston", "Piney Point", "Piney Point Village"], "postal_code": "77024", "lat": 29.773994, "lng": -95.51771, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]});

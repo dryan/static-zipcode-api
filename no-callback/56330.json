@@ -1,1 +1,1 @@
-{"lat": 45.732493, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Foreston", "lng": -93.73102, "zip_code": "56330"}
+{"locality": "Foreston", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Foreston"], "postal_code": "56330", "lat": 45.732493, "lng": -93.73102, "type": "STANDARD", "counties": [{"fips": "095", "name": "Mille Lacs"}, {"fips": "009", "name": "Benton"}]}

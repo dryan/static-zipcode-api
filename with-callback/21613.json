@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.545285, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Cambridge", "lng": -76.09118, "zip_code": "21613"});
+zipapicallback({"locality": "Cambridge", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Cambridge"], "postal_code": "21613", "lat": 38.545285, "lng": -76.09118, "type": "STANDARD", "counties": [{"fips": "019", "name": "Dorchester"}]});

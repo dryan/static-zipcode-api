@@ -1,1 +1,1 @@
-{"lat": 32.733451, "region": {"abbr": "CA", "name": "California"}, "locality": "Lemon Grove", "lng": -117.0337, "zip_code": "91945"}
+{"locality": "Lemon Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lemon Grove"], "postal_code": "91945", "lat": 32.733451, "lng": -117.0337, "type": "STANDARD", "counties": []}

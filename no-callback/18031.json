@@ -1,1 +1,1 @@
-{"lat": 40.552042, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Breinigsville", "lng": -75.64919, "zip_code": "18031"}
+{"locality": "Breinigsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Breinigsville"], "postal_code": "18031", "lat": 40.552042, "lng": -75.64919, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "011", "name": "Berks"}]}

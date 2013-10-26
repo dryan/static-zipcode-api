@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.359754, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Marriottsville", "lng": -76.91103, "zip_code": "21104"});
+zipapicallback({"locality": "Marriottsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Marriottsville", "Marriottsvl", "Woodstock"], "postal_code": "21104", "lat": 39.359754, "lng": -76.91103, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}, {"fips": "027", "name": "Howard"}, {"fips": "005", "name": "Baltimore"}]});

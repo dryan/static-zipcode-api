@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.526728, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fresno", "lng": -95.45984, "zip_code": "77545"});
+zipapicallback({"locality": "Fresno", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fresno"], "postal_code": "77545", "lat": 29.526728, "lng": -95.45984, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}, {"fips": "039", "name": "Brazoria"}]});

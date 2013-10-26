@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.799111, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Danielson", "lng": -71.87594, "zip_code": "06239"});
+zipapicallback({"locality": "Danielson", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Danielson"], "postal_code": "06239", "lat": 41.799111, "lng": -71.87594, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]});

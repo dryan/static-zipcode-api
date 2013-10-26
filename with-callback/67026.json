@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.518342, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Clearwater", "lng": -97.49452, "zip_code": "67026"});
+zipapicallback({"locality": "Clearwater", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Clearwater"], "postal_code": "67026", "lat": 37.518342, "lng": -97.49452, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}, {"fips": "191", "name": "Sumner"}]});

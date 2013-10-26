@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.989583, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Chelsea", "lng": -72.46276, "zip_code": "05038"});
+zipapicallback({"locality": "Chelsea", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Chelsea"], "postal_code": "05038", "lat": 43.989583, "lng": -72.46276, "type": "STANDARD", "counties": [{"fips": "017", "name": "Orange"}]});

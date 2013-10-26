@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.900064, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Adrian", "lng": -80.26795, "zip_code": "26210"});
+zipapicallback({"locality": "Adrian", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Adrian"], "postal_code": "26210", "lat": 38.900064, "lng": -80.26795, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.119727, "region": {"abbr": "CA", "name": "California"}, "locality": "Bieber", "lng": -121.1362, "zip_code": "96009"}
+{"locality": "Bieber", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bieber"], "postal_code": "96009", "lat": 41.119727, "lng": -121.1362, "type": "POBOX", "counties": [{"fips": "035", "name": "Lassen"}]}

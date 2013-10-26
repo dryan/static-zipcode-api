@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.162119, "region": {"abbr": "NY", "name": "New York"}, "locality": "Marcy", "lng": -75.28435, "zip_code": "13403"});
+zipapicallback({"locality": "Marcy", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Marcy"], "postal_code": "13403", "lat": 43.162119, "lng": -75.28435, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]});

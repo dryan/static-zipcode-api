@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.483711, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "South Of The Bor", "lng": -79.32815, "zip_code": "29547"});
+zipapicallback({"locality": "Hamer", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Hamer", "S Of Border", "South Of The Border"], "postal_code": "29547", "lat": 34.483711, "lng": -79.32815, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dillon"}]});

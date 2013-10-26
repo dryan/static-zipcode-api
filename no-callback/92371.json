@@ -1,1 +1,1 @@
-{"lat": 34.453465, "region": {"abbr": "CA", "name": "California"}, "locality": "Phelan", "lng": -117.53392, "zip_code": "92371"}
+{"locality": "Phelan", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Phelan"], "postal_code": "92371", "lat": 34.453465, "lng": -117.53392, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

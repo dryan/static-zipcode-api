@@ -1,1 +1,1 @@
-{"lat": 45.175558, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Buffalo", "lng": -93.85441, "zip_code": "55313"}
+{"locality": "Buffalo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Buffalo"], "postal_code": "55313", "lat": 45.175558, "lng": -93.85441, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]}

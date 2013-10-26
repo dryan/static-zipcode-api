@@ -1,1 +1,1 @@
-{"lat": 40.378829, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Sharpsville", "lng": -86.09362, "zip_code": "46068"}
+{"locality": "Sharpsville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Sharpsville"], "postal_code": "46068", "lat": 40.378829, "lng": -86.09362, "type": "STANDARD", "counties": [{"fips": "159", "name": "Tipton"}, {"fips": "067", "name": "Howard"}]}

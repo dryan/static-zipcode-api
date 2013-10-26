@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.085481, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fruitvale", "lng": -108.49019, "zip_code": "81504"});
+zipapicallback({"locality": "Grand Junction", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fruitvale", "Grand Jct", "Grand Junction"], "postal_code": "81504", "lat": 39.085481, "lng": -108.49019, "type": "STANDARD", "counties": [{"fips": "077", "name": "Mesa"}]});

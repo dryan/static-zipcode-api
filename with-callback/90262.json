@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.924642, "region": {"abbr": "CA", "name": "California"}, "locality": "Lynwood", "lng": -118.20186, "zip_code": "90262"});
+zipapicallback({"locality": "Lynwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lynwood"], "postal_code": "90262", "lat": 33.924642, "lng": -118.20186, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

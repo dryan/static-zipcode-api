@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.963959, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Lake Hopatcong", "lng": -74.61414, "zip_code": "07849"});
+zipapicallback({"locality": "Lake Hopatcong", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Lake Hopatcong", "Lk Hopatcong"], "postal_code": "07849", "lat": 40.963959, "lng": -74.61414, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}, {"fips": "037", "name": "Sussex"}]});

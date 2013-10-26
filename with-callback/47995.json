@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.758188, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wolcott", "lng": -87.03629, "zip_code": "47995"});
+zipapicallback({"locality": "Wolcott", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wolcott"], "postal_code": "47995", "lat": 40.758188, "lng": -87.03629, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jasper"}, {"fips": "181", "name": "White"}]});

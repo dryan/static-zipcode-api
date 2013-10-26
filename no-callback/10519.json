@@ -1,1 +1,1 @@
-{"lat": 41.34598, "region": {"abbr": "NY", "name": "New York"}, "locality": "Croton Falls", "lng": -73.66199, "zip_code": "10519"}
+{"locality": "Croton Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Croton Falls"], "postal_code": "10519", "lat": 41.34598, "lng": -73.66199, "type": "POBOX", "counties": [{"fips": "119", "name": "Westchester"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.570915, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Allison Park", "lng": -79.96033, "zip_code": "15101"}
+{"locality": "Allison Park", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Allison Park"], "postal_code": "15101", "lat": 40.570915, "lng": -79.96033, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

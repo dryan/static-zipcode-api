@@ -1,1 +1,1 @@
-{"lat": 37.775593, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Maize", "lng": -97.46797, "zip_code": "67101"}
+{"locality": "Maize", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Maize"], "postal_code": "67101", "lat": 37.775593, "lng": -97.46797, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}]}

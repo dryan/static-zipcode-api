@@ -1,1 +1,1 @@
-{"lat": 38.926838, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Columbia", "lng": -92.29003, "zip_code": "65201"}
+{"locality": "Columbia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Columbia"], "postal_code": "65201", "lat": 38.926838, "lng": -92.29003, "type": "STANDARD", "counties": [{"fips": "019", "name": "Boone"}, {"fips": "027", "name": "Callaway"}]}

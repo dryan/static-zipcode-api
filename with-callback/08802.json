@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.661172, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Pattenburg", "lng": -75.0321, "zip_code": "08802"});
+zipapicallback({"locality": "Asbury", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Asbury"], "postal_code": "08802", "lat": 40.661172, "lng": -75.0321, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}, {"fips": "019", "name": "Hunterdon"}]});

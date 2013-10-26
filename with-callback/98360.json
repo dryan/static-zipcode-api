@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.039607, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Orting", "lng": -122.14691, "zip_code": "98360"});
+zipapicallback({"locality": "Orting", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Orting"], "postal_code": "98360", "lat": 47.039607, "lng": -122.14691, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]});

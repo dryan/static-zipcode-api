@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.012089, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Watson", "lng": -88.56383, "zip_code": "62473"});
+zipapicallback({"locality": "Watson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Watson"], "postal_code": "62473", "lat": 39.012089, "lng": -88.56383, "type": "STANDARD", "counties": [{"fips": "049", "name": "Effingham"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.997666, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Elkfork", "lng": -83.16103, "zip_code": "41421"});
+zipapicallback({"locality": "Elkfork", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Elkfork"], "postal_code": "41421", "lat": 37.997666, "lng": -83.16103, "type": "STANDARD", "counties": [{"fips": "175", "name": "Morgan"}]});

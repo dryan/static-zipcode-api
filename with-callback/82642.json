@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.228052, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Lysite", "lng": -107.68195, "zip_code": "82642"});
+zipapicallback({"locality": "Lysite", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Lost Cabin", "Lysite"], "postal_code": "82642", "lat": 43.228052, "lng": -107.68195, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]});

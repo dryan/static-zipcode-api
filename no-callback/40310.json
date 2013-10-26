@@ -1,1 +1,1 @@
-{"lat": 37.754255, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Burgin", "lng": -84.76904, "zip_code": "40310"}
+{"locality": "Burgin", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Burgin"], "postal_code": "40310", "lat": 37.754255, "lng": -84.76904, "type": "POBOX", "counties": [{"fips": "167", "name": "Mercer"}]}

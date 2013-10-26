@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.70172, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Freeland", "lng": -76.71236, "zip_code": "21053"});
+zipapicallback({"locality": "Freeland", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Freeland"], "postal_code": "21053", "lat": 39.70172, "lng": -76.71236, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]});

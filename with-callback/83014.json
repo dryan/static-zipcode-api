@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.520413, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Wilson", "lng": -110.86418, "zip_code": "83014"});
+zipapicallback({"locality": "Wilson", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Wilson"], "postal_code": "83014", "lat": 43.520413, "lng": -110.86418, "type": "STANDARD", "counties": [{"fips": "039", "name": "Teton"}]});

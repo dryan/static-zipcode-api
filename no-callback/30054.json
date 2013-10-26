@@ -1,1 +1,1 @@
-{"lat": 33.658113, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Oxford", "lng": -83.86249, "zip_code": "30054"}
+{"locality": "Oxford", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Oxford"], "postal_code": "30054", "lat": 33.658113, "lng": -83.86249, "type": "STANDARD", "counties": []}

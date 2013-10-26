@@ -1,1 +1,1 @@
-{"lat": 36.423229, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Lukachukai", "lng": -109.29689, "zip_code": "86507"}
+{"locality": "Lukachukai", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chinle", "Lukachukai"], "postal_code": "86507", "lat": 36.423229, "lng": -109.29689, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]}

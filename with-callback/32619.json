@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.764553, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Bell", "lng": -82.87062, "zip_code": "32619"});
+zipapicallback({"locality": "Bell", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bell"], "postal_code": "32619", "lat": 29.764553, "lng": -82.87062, "type": "STANDARD", "counties": [{"fips": "041", "name": "Gilchrist"}]});

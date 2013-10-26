@@ -1,1 +1,1 @@
-{"lat": 41.653071, "region": {"abbr": "NY", "name": "New York"}, "locality": "Monticello", "lng": -74.69748, "zip_code": "12701"}
+{"locality": "Monticello", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Monticello"], "postal_code": "12701", "lat": 41.653071, "lng": -74.69748, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

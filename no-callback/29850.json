@@ -1,1 +1,1 @@
-{"lat": 33.619604, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Vaucluse", "lng": -81.81628, "zip_code": "29850"}
+{"locality": "Vaucluse", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Vaucluse"], "postal_code": "29850", "lat": 33.619604, "lng": -81.81628, "type": "POBOX", "counties": [{"fips": "003", "name": "Aiken"}]}

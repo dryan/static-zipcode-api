@@ -1,1 +1,1 @@
-{"lat": 41.230745, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Valley City", "lng": -81.92477, "zip_code": "44280"}
+{"locality": "Valley City", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Valley City"], "postal_code": "44280", "lat": 41.230745, "lng": -81.92477, "type": "STANDARD", "counties": [{"fips": "103", "name": "Medina"}, {"fips": "093", "name": "Lorain"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.817362, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Alexandria", "lng": -77.1537, "zip_code": "22312"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alexandria"], "postal_code": "22312", "lat": 38.817362, "lng": -77.1537, "type": "STANDARD", "counties": [{"fips": "510", "name": "Alexandria (City)"}, {"fips": "059", "name": "Fairfax"}]});

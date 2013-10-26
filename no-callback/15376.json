@@ -1,1 +1,1 @@
-{"lat": 40.101254, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Alexander", "lng": -80.50229, "zip_code": "15376"}
+{"locality": "West Alexander", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["W Alexander", "West Alexander"], "postal_code": "15376", "lat": 40.101254, "lng": -80.50229, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]}

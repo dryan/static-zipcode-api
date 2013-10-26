@@ -1,1 +1,1 @@
-{"lat": 41.014592, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ravenna", "lng": -98.88267, "zip_code": "68869"}
+{"locality": "Ravenna", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ravenna"], "postal_code": "68869", "lat": 41.014592, "lng": -98.88267, "type": "STANDARD", "counties": [{"fips": "019", "name": "Buffalo"}, {"fips": "163", "name": "Sherman"}, {"fips": "079", "name": "Hall"}]}

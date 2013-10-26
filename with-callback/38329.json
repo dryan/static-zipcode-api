@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.546839, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Decaturville", "lng": -88.12345, "zip_code": "38329"});
+zipapicallback({"locality": "Decaturville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Decaturville"], "postal_code": "38329", "lat": 35.546839, "lng": -88.12345, "type": "STANDARD", "counties": [{"fips": "039", "name": "Decatur"}]});

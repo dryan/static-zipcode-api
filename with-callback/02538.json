@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.782915, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Wareham", "lng": -70.64881, "zip_code": "02538"});
+zipapicallback({"locality": "East Wareham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["E Wareham", "East Wareham"], "postal_code": "02538", "lat": 41.782915, "lng": -70.64881, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]});

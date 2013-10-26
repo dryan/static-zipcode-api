@@ -1,1 +1,1 @@
-{"lat": 42.563333, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ackley", "lng": -93.04954, "zip_code": "50601"}
+{"locality": "Ackley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ackley"], "postal_code": "50601", "lat": 42.563333, "lng": -93.04954, "type": "STANDARD", "counties": [{"fips": "083", "name": "Hardin"}, {"fips": "069", "name": "Franklin"}, {"fips": "023", "name": "Butler"}, {"fips": "075", "name": "Grundy"}]}

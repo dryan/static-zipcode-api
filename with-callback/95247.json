@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.146124, "region": {"abbr": "CA", "name": "California"}, "locality": "Murphys", "lng": -120.45458, "zip_code": "95247"});
+zipapicallback({"locality": "Murphys", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Murphys"], "postal_code": "95247", "lat": 38.146124, "lng": -120.45458, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]});

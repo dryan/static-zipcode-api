@@ -1,1 +1,1 @@
-{"lat": 44.803005, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Island Pond", "lng": -71.84683, "zip_code": "05846"}
+{"locality": "Island Pond", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Island Pond"], "postal_code": "05846", "lat": 44.803005, "lng": -71.84683, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.95683, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Schiller Park", "lng": -87.87193, "zip_code": "60176"});
+zipapicallback({"locality": "Schiller Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Schiller Park"], "postal_code": "60176", "lat": 41.95683, "lng": -87.87193, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

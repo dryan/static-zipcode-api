@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.267303, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Kincheloe", "lng": -84.45633, "zip_code": "49788"});
+zipapicallback({"locality": "Kincheloe", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kincheloe", "Sault S Marie", "Sault Sainte Marie"], "postal_code": "49788", "lat": 46.267303, "lng": -84.45633, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]});

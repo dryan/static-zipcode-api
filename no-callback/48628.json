@@ -1,1 +1,1 @@
-{"lat": 43.807162, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hope", "lng": -84.33789, "zip_code": "48628"}
+{"locality": "Hope", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hope"], "postal_code": "48628", "lat": 43.807162, "lng": -84.33789, "type": "STANDARD", "counties": [{"fips": "111", "name": "Midland"}, {"fips": "051", "name": "Gladwin"}]}

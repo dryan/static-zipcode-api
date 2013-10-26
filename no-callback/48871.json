@@ -1,1 +1,1 @@
-{"lat": 43.160914, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Perrinton", "lng": -84.68397, "zip_code": "48871"}
+{"locality": "Perrinton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Perrinton"], "postal_code": "48871", "lat": 43.160914, "lng": -84.68397, "type": "STANDARD", "counties": [{"fips": "057", "name": "Gratiot"}]}

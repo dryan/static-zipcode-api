@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.450538, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Avon", "lng": -82.02167, "zip_code": "44011"});
+zipapicallback({"locality": "Avon", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Avon"], "postal_code": "44011", "lat": 41.450538, "lng": -82.02167, "type": "STANDARD", "counties": [{"fips": "093", "name": "Lorain"}]});

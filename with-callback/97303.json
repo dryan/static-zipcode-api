@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.984008, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Keizer", "lng": -123.01992, "zip_code": "97303"});
+zipapicallback({"locality": "Salem", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Keizer", "Salem"], "postal_code": "97303", "lat": 44.984008, "lng": -123.01992, "type": "STANDARD", "counties": [{"fips": "047", "name": "Marion"}]});

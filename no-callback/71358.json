@@ -1,1 +1,1 @@
-{"lat": 30.717386, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Palmetto", "lng": -91.89085, "zip_code": "71358"}
+{"locality": "Palmetto", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Palmetto"], "postal_code": "71358", "lat": 30.717386, "lng": -91.89085, "type": "STANDARD", "counties": [{"fips": "097", "name": "St. Landry"}, {"fips": "107", "name": "Tensas"}]}

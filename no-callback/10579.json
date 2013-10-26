@@ -1,1 +1,1 @@
-{"lat": 41.390356, "region": {"abbr": "NY", "name": "New York"}, "locality": "Putnam Valley", "lng": -73.8377, "zip_code": "10579"}
+{"locality": "Putnam Valley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Putnam Valley"], "postal_code": "10579", "lat": 41.390356, "lng": -73.8377, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}]}

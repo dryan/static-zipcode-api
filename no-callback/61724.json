@@ -1,1 +1,1 @@
-{"lat": 40.336763, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bellflower", "lng": -88.52604, "zip_code": "61724"}
+{"locality": "Bellflower", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bellflower"], "postal_code": "61724", "lat": 40.336763, "lng": -88.52604, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

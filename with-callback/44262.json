@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.138806, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Munroe Falls", "lng": -81.43787, "zip_code": "44262"});
+zipapicallback({"locality": "Munroe Falls", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Munroe Falls"], "postal_code": "44262", "lat": 41.138806, "lng": -81.43787, "type": "STANDARD", "counties": [{"fips": "153", "name": "Summit"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.250996, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Abell", "lng": -76.73974, "zip_code": "20606"});
+zipapicallback({"locality": "Abell", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Abell"], "postal_code": "20606", "lat": 38.250996, "lng": -76.73974, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

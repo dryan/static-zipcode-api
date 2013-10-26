@@ -1,1 +1,1 @@
-{"lat": 43.999618, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Medomak", "lng": -69.43738, "zip_code": "04551"}
+{"locality": "Bremen", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bremen", "Medomak"], "postal_code": "04551", "lat": 43.999618, "lng": -69.43738, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]}

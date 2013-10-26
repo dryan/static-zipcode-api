@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.419389, "region": {"abbr": "CA", "name": "California"}, "locality": "Palo Alto", "lng": -122.13273, "zip_code": "94306"});
+zipapicallback({"locality": "Palo Alto", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Palo Alto"], "postal_code": "94306", "lat": 37.419389, "lng": -122.13273, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}, {"fips": "081", "name": "San Mateo"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.399657, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sutton", "lng": -98.44052, "zip_code": "58484"}
+{"locality": "Sutton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sutton"], "postal_code": "58484", "lat": 47.399657, "lng": -98.44052, "type": "STANDARD", "counties": [{"fips": "039", "name": "Griggs"}, {"fips": "031", "name": "Foster"}]}

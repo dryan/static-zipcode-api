@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.671574, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Put In Bay", "lng": -82.81278, "zip_code": "43456"});
+zipapicallback({"locality": "Put In Bay", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Put In Bay"], "postal_code": "43456", "lat": 41.671574, "lng": -82.81278, "type": "POBOX", "counties": [{"fips": "123", "name": "Ottawa"}]});

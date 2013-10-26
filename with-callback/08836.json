@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.595552, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Martinsville", "lng": -74.55174, "zip_code": "08836"});
+zipapicallback({"locality": "Martinsville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Martinsville"], "postal_code": "08836", "lat": 40.595552, "lng": -74.55174, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]});

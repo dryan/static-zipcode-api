@@ -1,1 +1,1 @@
-{"lat": 39.854144, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ohiopyle", "lng": -79.52989, "zip_code": "15470"}
+{"locality": "Ohiopyle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ohiopyle"], "postal_code": "15470", "lat": 39.854144, "lng": -79.52989, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

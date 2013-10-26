@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.272559, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Dundee", "lng": -123.01631, "zip_code": "97115"});
+zipapicallback({"locality": "Dundee", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Dundee"], "postal_code": "97115", "lat": 45.272559, "lng": -123.01631, "type": "STANDARD", "counties": [{"fips": "071", "name": "Yamhill"}]});

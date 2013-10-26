@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.255388, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Bear City", "lng": -116.85442, "zip_code": "92314"});
+zipapicallback({"locality": "Big Bear City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Bear City"], "postal_code": "92314", "lat": 34.255388, "lng": -116.85442, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

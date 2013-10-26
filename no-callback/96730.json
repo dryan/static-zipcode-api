@@ -1,1 +1,1 @@
-{"lat": 21.554467, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Kaaawa", "lng": -157.85108, "zip_code": "96730"}
+{"locality": "Kaaawa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Kaaawa"], "postal_code": "96730", "lat": 21.554467, "lng": -157.85108, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}]}

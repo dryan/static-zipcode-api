@@ -1,1 +1,1 @@
-{"lat": 39.034792, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Westfall", "lng": -98.17577, "zip_code": "67455"}
+{"locality": "Lincoln", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lincoln", "Westfall"], "postal_code": "67455", "lat": 39.034792, "lng": -98.17577, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lincoln"}]}

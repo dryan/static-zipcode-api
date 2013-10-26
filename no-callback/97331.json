@@ -1,1 +1,1 @@
-{"lat": 44.565648, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Corvallis", "lng": -123.27906, "zip_code": "97331"}
+{"locality": "Corvallis", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Corvallis"], "postal_code": "97331", "lat": 44.565648, "lng": -123.27906, "type": "STANDARD", "counties": [{"fips": "003", "name": "Benton"}]}

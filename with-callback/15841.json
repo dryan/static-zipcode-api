@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.254727, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Force", "lng": -78.50411, "zip_code": "15841"});
+zipapicallback({"locality": "Force", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Force"], "postal_code": "15841", "lat": 41.254727, "lng": -78.50411, "type": "POBOX", "counties": [{"fips": "047", "name": "Elk"}]});

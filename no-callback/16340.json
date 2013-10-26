@@ -1,1 +1,1 @@
-{"lat": 41.826878, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pittsfield", "lng": -79.42231, "zip_code": "16340"}
+{"locality": "Pittsfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsfield"], "postal_code": "16340", "lat": 41.826878, "lng": -79.42231, "type": "STANDARD", "counties": [{"fips": "123", "name": "Warren"}]}

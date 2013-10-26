@@ -1,1 +1,1 @@
-{"lat": 47.042394, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ponsford", "lng": -95.43451, "zip_code": "56575"}
+{"locality": "Ponsford", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ponsford"], "postal_code": "56575", "lat": 47.042394, "lng": -95.43451, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}]}

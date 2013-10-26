@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.366017, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Shelley", "lng": -112.11712, "zip_code": "83274"});
+zipapicallback({"locality": "Shelley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Shelley"], "postal_code": "83274", "lat": 43.366017, "lng": -112.11712, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bingham"}, {"fips": "019", "name": "Bonneville"}]});

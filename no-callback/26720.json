@@ -1,1 +1,1 @@
-{"lat": 39.280652, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gormania", "lng": -79.33844, "zip_code": "26720"}
+{"locality": "Gormania", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Gormania"], "postal_code": "26720", "lat": 39.280652, "lng": -79.33844, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}]}

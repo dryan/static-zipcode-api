@@ -1,1 +1,1 @@
-{"lat": 47.581276, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Denhoff", "lng": -100.27173, "zip_code": "58430"}
+{"locality": "Denhoff", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Denhoff"], "postal_code": "58430", "lat": 47.581276, "lng": -100.27173, "type": "STANDARD", "counties": [{"fips": "083", "name": "Sheridan"}]}

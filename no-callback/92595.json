@@ -1,1 +1,1 @@
-{"lat": 33.614385, "region": {"abbr": "CA", "name": "California"}, "locality": "Wildomar", "lng": -117.2608, "zip_code": "92595"}
+{"locality": "Wildomar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Wildomar"], "postal_code": "92595", "lat": 33.614385, "lng": -117.2608, "type": "STANDARD", "counties": []}

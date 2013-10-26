@@ -1,1 +1,1 @@
-{"lat": 39.290475, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Midland", "lng": -83.88767, "zip_code": "45148"}
+{"locality": "Midland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Midland"], "postal_code": "45148", "lat": 39.290475, "lng": -83.88767, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]}

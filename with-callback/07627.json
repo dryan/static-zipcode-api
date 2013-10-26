@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.955603, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Demarest", "lng": -73.96044, "zip_code": "07627"});
+zipapicallback({"locality": "Demarest", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Demarest"], "postal_code": "07627", "lat": 40.955603, "lng": -73.96044, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

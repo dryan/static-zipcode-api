@@ -1,1 +1,1 @@
-{"lat": 44.74323, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Leiter", "lng": -106.23963, "zip_code": "82837"}
+{"locality": "Leiter", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Leiter"], "postal_code": "82837", "lat": 44.74323, "lng": -106.23963, "type": "POBOX", "counties": [{"fips": "033", "name": "Sheridan"}]}

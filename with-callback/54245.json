@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.037618, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Valders", "lng": -87.90026, "zip_code": "54245"});
+zipapicallback({"locality": "Valders", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Valders"], "postal_code": "54245", "lat": 44.037618, "lng": -87.90026, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}]});

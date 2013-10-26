@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.95258, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Birnamwood", "lng": -89.16252, "zip_code": "54414"});
+zipapicallback({"locality": "Birnamwood", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Birnamwood"], "postal_code": "54414", "lat": 44.95258, "lng": -89.16252, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}, {"fips": "073", "name": "Marathon"}, {"fips": "067", "name": "Langlade"}]});

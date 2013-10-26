@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.328535, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Yorkshire", "lng": -84.47938, "zip_code": "45388"});
+zipapicallback({"locality": "Yorkshire", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Yorkshire"], "postal_code": "45388", "lat": 40.328535, "lng": -84.47938, "type": "STANDARD", "counties": [{"fips": "037", "name": "Darke"}, {"fips": "107", "name": "Mercer"}, {"fips": "149", "name": "Shelby"}]});

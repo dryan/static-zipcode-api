@@ -1,1 +1,1 @@
-{"lat": 33.703682, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Bankston", "lng": -87.67155, "zip_code": "35542"}
+{"locality": "Bankston", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bankston"], "postal_code": "35542", "lat": 33.703682, "lng": -87.67155, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fayette"}]}

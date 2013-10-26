@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.991483, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Nobe", "lng": -81.06772, "zip_code": "26137"});
+zipapicallback({"locality": "Big Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Big Springs", "Nobe", "Tanner"], "postal_code": "26137", "lat": 38.991483, "lng": -81.06772, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]});

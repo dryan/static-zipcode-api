@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.544194, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shunk", "lng": -76.74643, "zip_code": "17768"});
+zipapicallback({"locality": "Shunk", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shunk"], "postal_code": "17768", "lat": 41.544194, "lng": -76.74643, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sullivan"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.070228, "region": {"abbr": "NY", "name": "New York"}, "locality": "Windsor", "lng": -75.63584, "zip_code": "13865"}
+{"locality": "Windsor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["W Windsor", "West Windsor", "Windsor"], "postal_code": "13865", "lat": 42.070228, "lng": -75.63584, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.413975, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saginaw", "lng": -83.91427, "zip_code": "48601"});
+zipapicallback({"locality": "Saginaw", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saginaw"], "postal_code": "48601", "lat": 43.413975, "lng": -83.91427, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "017", "name": "Bay"}]});

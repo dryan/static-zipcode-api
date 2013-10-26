@@ -1,1 +1,1 @@
-{"lat": 35.262763, "region": {"abbr": "CA", "name": "California"}, "locality": "Fort Irwin", "lng": -116.69452, "zip_code": "92310"}
+{"locality": "Fort Irwin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Barstow", "Fort Irwin"], "postal_code": "92310", "lat": 35.262763, "lng": -116.69452, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

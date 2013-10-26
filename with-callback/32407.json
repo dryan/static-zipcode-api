@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.196771, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Panama City Beac", "lng": -85.81279, "zip_code": "32407"});
+zipapicallback({"locality": "Panama City Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["P C Beach", "Panama City", "Panama City Beach"], "postal_code": "32407", "lat": 30.196771, "lng": -85.81279, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bay"}]});

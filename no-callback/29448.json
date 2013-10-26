@@ -1,1 +1,1 @@
-{"lat": 33.237382, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Harleyville", "lng": -80.45186, "zip_code": "29448"}
+{"locality": "Harleyville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Harleyville"], "postal_code": "29448", "lat": 33.237382, "lng": -80.45186, "type": "STANDARD", "counties": [{"fips": "035", "name": "Dorchester"}]}

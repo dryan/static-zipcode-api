@@ -1,1 +1,1 @@
-{"lat": 42.99605, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Owosso", "lng": -84.17896, "zip_code": "48867"}
+{"locality": "Owosso", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Owosso"], "postal_code": "48867", "lat": 42.99605, "lng": -84.17896, "type": "STANDARD", "counties": [{"fips": "155", "name": "Shiawassee"}]}

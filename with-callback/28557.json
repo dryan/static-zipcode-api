@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.729839, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Morehead City", "lng": -76.75219, "zip_code": "28557"});
+zipapicallback({"locality": "Morehead City", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Morehead City"], "postal_code": "28557", "lat": 34.729839, "lng": -76.75219, "type": "STANDARD", "counties": [{"fips": "031", "name": "Carteret"}, {"fips": "133", "name": "Onslow"}]});

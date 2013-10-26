@@ -1,1 +1,1 @@
-{"lat": 38.40097, "region": {"abbr": "CA", "name": "California"}, "locality": "Pine Grove", "lng": -120.64952, "zip_code": "95665"}
+{"locality": "Pine Grove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pine Grove"], "postal_code": "95665", "lat": 38.40097, "lng": -120.64952, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}]}

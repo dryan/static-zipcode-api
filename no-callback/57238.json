@@ -1,1 +1,1 @@
-{"lat": 44.865062, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Bemis", "lng": -96.85949, "zip_code": "57238"}
+{"locality": "Goodwin", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bemis", "Goodwin"], "postal_code": "57238", "lat": 44.865062, "lng": -96.85949, "type": "STANDARD", "counties": [{"fips": "039", "name": "Deuel"}, {"fips": "029", "name": "Codington"}, {"fips": "057", "name": "Hamlin"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.666444, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Tyrone", "lng": -78.24353, "zip_code": "16686"}
+{"locality": "Tyrone", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Birmingham", "Tyrone"], "postal_code": "16686", "lat": 40.666444, "lng": -78.24353, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}, {"fips": "061", "name": "Huntingdon"}, {"fips": "027", "name": "Centre"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.099889, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gentryville", "lng": -87.04073, "zip_code": "47537"}
+{"locality": "Gentryville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gentryville"], "postal_code": "47537", "lat": 38.099889, "lng": -87.04073, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}]}

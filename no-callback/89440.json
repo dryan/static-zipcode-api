@@ -1,1 +1,1 @@
-{"lat": 39.298192, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Virginia City", "lng": -119.65351, "zip_code": "89440"}
+{"locality": "Virginia City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Virginia City"], "postal_code": "89440", "lat": 39.298192, "lng": -119.65351, "type": "POBOX", "counties": [{"fips": "029", "name": "Storey"}]}

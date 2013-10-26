@@ -1,1 +1,1 @@
-{"lat": 29.404267, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Laughlin A F B", "lng": -100.88116, "zip_code": "78840"}
+{"locality": "Del Rio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Del Rio", "Laughlin A F B", "Laughlin Afb"], "postal_code": "78840", "lat": 29.404267, "lng": -100.88116, "type": "STANDARD", "counties": [{"fips": "465", "name": "Val Verde"}, {"fips": "137", "name": "Edwards"}, {"fips": "271", "name": "Kinney"}]}

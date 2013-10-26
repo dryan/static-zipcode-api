@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.544512, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Otisco", "lng": -85.66831, "zip_code": "47163"});
+zipapicallback({"locality": "Otisco", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Otisco"], "postal_code": "47163", "lat": 38.544512, "lng": -85.66831, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.755398, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Belvidere Center", "lng": -72.68029, "zip_code": "05442"}
+{"locality": "Belvidere Center", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Belvidere Center", "Belvidere Ctr"], "postal_code": "05442", "lat": 44.755398, "lng": -72.68029, "type": "STANDARD", "counties": []}

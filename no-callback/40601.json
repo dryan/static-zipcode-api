@@ -1,1 +1,1 @@
-{"lat": 38.201649, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hatton", "lng": -84.86935, "zip_code": "40601"}
+{"locality": "Frankfort", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Frankfort", "Hatton"], "postal_code": "40601", "lat": 38.201649, "lng": -84.86935, "type": "STANDARD", "counties": [{"fips": "073", "name": "Franklin"}, {"fips": "103", "name": "Henry"}, {"fips": "211", "name": "Shelby"}]}

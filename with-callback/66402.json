@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.918102, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Auburn", "lng": -95.84417, "zip_code": "66402"});
+zipapicallback({"locality": "Auburn", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Auburn"], "postal_code": "66402", "lat": 38.918102, "lng": -95.84417, "type": "STANDARD", "counties": [{"fips": "177", "name": "Shawnee"}, {"fips": "139", "name": "Osage"}]});

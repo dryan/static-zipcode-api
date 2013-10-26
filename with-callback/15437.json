@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.793095, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Farmington", "lng": -79.59465, "zip_code": "15437"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Farmington"], "postal_code": "15437", "lat": 39.793095, "lng": -79.59465, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.030707, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Prosperity", "lng": -80.27353, "zip_code": "15329"});
+zipapicallback({"locality": "Prosperity", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Prosperity"], "postal_code": "15329", "lat": 40.030707, "lng": -80.27353, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}, {"fips": "059", "name": "Greene"}]});

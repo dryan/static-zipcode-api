@@ -1,1 +1,1 @@
-{"lat": 43.23854, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Blue River", "lng": -90.59683, "zip_code": "53518"}
+{"locality": "Blue River", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Blue River"], "postal_code": "53518", "lat": 43.23854, "lng": -90.59683, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "103", "name": "Richland"}, {"fips": "023", "name": "Crawford"}]}

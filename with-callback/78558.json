@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.305113, "region": {"abbr": "TX", "name": "Texas"}, "locality": "La Blanca", "lng": -98.03375, "zip_code": "78558"});
+zipapicallback({"locality": "La Blanca", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["La Blanca"], "postal_code": "78558", "lat": 26.305113, "lng": -98.03375, "type": "POBOX", "counties": [{"fips": "215", "name": "Hidalgo"}]});

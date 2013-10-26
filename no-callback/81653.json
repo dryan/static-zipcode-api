@@ -1,1 +1,1 @@
-{"lat": 40.929768, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Slater", "lng": -107.18886, "zip_code": "81653"}
+{"locality": "Slater", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Slater"], "postal_code": "81653", "lat": 40.929768, "lng": -107.18886, "type": "STANDARD", "counties": [{"fips": "081", "name": "Moffat"}]}

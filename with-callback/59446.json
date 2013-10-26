@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.661952, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Geraldine", "lng": -110.1846, "zip_code": "59446"});
+zipapicallback({"locality": "Geraldine", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Geraldine", "Square Butte"], "postal_code": "59446", "lat": 47.661952, "lng": -110.1846, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chouteau"}]});

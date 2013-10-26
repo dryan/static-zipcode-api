@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.878138, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Eleven Mile Corn", "lng": -111.73499, "zip_code": "85222"});
+zipapicallback({"locality": "Casa Grande", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Casa Grande", "Eleven Mile", "Eleven Mile Corner"], "postal_code": "85222", "lat": 32.878138, "lng": -111.73499, "type": "STANDARD", "counties": [{"fips": "021", "name": "Pinal"}, {"fips": "013", "name": "Maricopa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.157382, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Etters", "lng": -76.7872, "zip_code": "17319"});
+zipapicallback({"locality": "Etters", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Etters"], "postal_code": "17319", "lat": 40.157382, "lng": -76.7872, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]});

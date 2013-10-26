@@ -1,1 +1,1 @@
-{"lat": 41.60032, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Honesdale", "lng": -75.25102, "zip_code": "18431"}
+{"locality": "Honesdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bethany", "Honesdale"], "postal_code": "18431", "lat": 41.60032, "lng": -75.25102, "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}]}

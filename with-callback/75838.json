@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.476671, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Donie", "lng": -96.22212, "zip_code": "75838"});
+zipapicallback({"locality": "Donie", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Donie"], "postal_code": "75838", "lat": 31.476671, "lng": -96.22212, "type": "STANDARD", "counties": [{"fips": "161", "name": "Freestone"}]});

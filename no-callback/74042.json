@@ -1,1 +1,1 @@
-{"lat": 36.857305, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lenapah", "lng": -95.61423, "zip_code": "74042"}
+{"locality": "Lenapah", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lenapah"], "postal_code": "74042", "lat": 36.857305, "lng": -95.61423, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nowata"}]}

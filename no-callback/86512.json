@@ -1,1 +1,1 @@
-{"lat": 35.15632, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sanders", "lng": -109.32309, "zip_code": "86512"}
+{"locality": "Sanders", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sanders"], "postal_code": "86512", "lat": 35.15632, "lng": -109.32309, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]}

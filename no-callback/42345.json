@@ -1,1 +1,1 @@
-{"lat": 37.166299, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Greenville", "lng": -87.18333, "zip_code": "42345"}
+{"locality": "Greenville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Greenville"], "postal_code": "42345", "lat": 37.166299, "lng": -87.18333, "type": "STANDARD", "counties": [{"fips": "177", "name": "Muhlenberg"}]}

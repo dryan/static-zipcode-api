@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.323005, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Derby", "lng": -73.08433, "zip_code": "06418"});
+zipapicallback({"locality": "Derby", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Derby"], "postal_code": "06418", "lat": 41.323005, "lng": -73.08433, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}, {"fips": "003", "name": "Hartford"}]});

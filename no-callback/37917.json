@@ -1,1 +1,1 @@
-{"lat": 35.991982, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Knoxville", "lng": -83.91859, "zip_code": "37917"}
+{"locality": "Knoxville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Knoxville"], "postal_code": "37917", "lat": 35.991982, "lng": -83.91859, "type": "STANDARD", "counties": [{"fips": "093", "name": "Knox"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.447093, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Evansville", "lng": -75.81997, "zip_code": "19522"}
+{"locality": "Fleetwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Evansville", "Fleetwood", "Ruscmbmnr Twp", "Ruscombmanor Twp"], "postal_code": "19522", "lat": 40.447093, "lng": -75.81997, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.173516, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Hogansville", "lng": -84.91737, "zip_code": "30230"});
+zipapicallback({"locality": "Hogansville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hogansville"], "postal_code": "30230", "lat": 33.173516, "lng": -84.91737, "type": "STANDARD", "counties": [{"fips": "285", "name": "Troup"}, {"fips": "077", "name": "Coweta"}, {"fips": "149", "name": "Heard"}, {"fips": "199", "name": "Meriwether"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.481719, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Clay", "lng": -87.8394, "zip_code": "42404"}
+{"locality": "Clay", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Blackford", "Clay"], "postal_code": "42404", "lat": 37.481719, "lng": -87.8394, "type": "STANDARD", "counties": [{"fips": "225", "name": "Union"}, {"fips": "233", "name": "Webster"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.122101, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Shannon", "lng": -88.72967, "zip_code": "38868"});
+zipapicallback({"locality": "Shannon", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Shannon"], "postal_code": "38868", "lat": 34.122101, "lng": -88.72967, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lee"}, {"fips": "095", "name": "Monroe"}, {"fips": "017", "name": "Chickasaw"}, {"fips": "115", "name": "Pontotoc"}]});

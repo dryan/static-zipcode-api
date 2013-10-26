@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.928691, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Branford", "lng": -82.91032, "zip_code": "32008"});
+zipapicallback({"locality": "Branford", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Branford"], "postal_code": "32008", "lat": 29.928691, "lng": -82.91032, "type": "STANDARD", "counties": [{"fips": "121", "name": "Suwannee"}, {"fips": "041", "name": "Gilchrist"}, {"fips": "029", "name": "Dixie"}, {"fips": "067", "name": "Lafayette"}]});

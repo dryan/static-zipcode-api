@@ -1,1 +1,1 @@
-{"lat": 43.303488, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Terril", "lng": -94.96903, "zip_code": "51364"}
+{"locality": "Terril", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Terril"], "postal_code": "51364", "lat": 43.303488, "lng": -94.96903, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dickinson"}]}

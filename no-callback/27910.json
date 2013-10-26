@@ -1,1 +1,1 @@
-{"lat": 36.293352, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ahoskie", "lng": -76.98612, "zip_code": "27910"}
+{"locality": "Ahoskie", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ahoskie"], "postal_code": "27910", "lat": 36.293352, "lng": -76.98612, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hertford"}]}

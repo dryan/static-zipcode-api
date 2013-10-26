@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.167914, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Crimora", "lng": -78.84222, "zip_code": "24431"});
+zipapicallback({"locality": "Crimora", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Crimora"], "postal_code": "24431", "lat": 38.167914, "lng": -78.84222, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

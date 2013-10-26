@@ -1,1 +1,1 @@
-{"lat": 44.545795, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hayes", "lng": -101.12947, "zip_code": "57537"}
+{"locality": "Hayes", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hayes"], "postal_code": "57537", "lat": 44.545795, "lng": -101.12947, "type": "STANDARD", "counties": [{"fips": "117", "name": "Stanley"}, {"fips": "055", "name": "Haakon"}]}

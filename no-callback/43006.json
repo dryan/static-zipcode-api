@@ -1,1 +1,1 @@
-{"lat": 40.471139, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Brinkhaven", "lng": -82.16947, "zip_code": "43006"}
+{"locality": "Brinkhaven", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Brinkhaven"], "postal_code": "43006", "lat": 40.471139, "lng": -82.16947, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}, {"fips": "031", "name": "Coshocton"}, {"fips": "075", "name": "Holmes"}]}

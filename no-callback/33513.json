@@ -1,1 +1,1 @@
-{"lat": 28.663132, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Bushnell", "lng": -82.14042, "zip_code": "33513"}
+{"locality": "Bushnell", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bushnell"], "postal_code": "33513", "lat": 28.663132, "lng": -82.14042, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}]}

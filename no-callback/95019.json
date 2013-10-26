@@ -1,1 +1,1 @@
-{"lat": 36.935552, "region": {"abbr": "CA", "name": "California"}, "locality": "Freedom", "lng": -121.77972, "zip_code": "95019"}
+{"locality": "Freedom", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Freedom"], "postal_code": "95019", "lat": 36.935552, "lng": -121.77972, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}]}

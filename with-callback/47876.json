@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.505935, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Saint Mary Of The Woods", "lng": -87.46156, "zip_code": "47876"});
+zipapicallback({"locality": "Saint Mary Of The Woods", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Saint Mary Of The Woods", "St Mary Of Wd"], "postal_code": "47876", "lat": 39.505935, "lng": -87.46156, "type": "POBOX", "counties": [{"fips": "167", "name": "Vigo"}]});

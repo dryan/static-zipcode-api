@@ -1,1 +1,1 @@
-{"lat": 38.243266, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Pueblo", "lng": -104.52912, "zip_code": "81006"}
+{"locality": "Pueblo", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Pueblo"], "postal_code": "81006", "lat": 38.243266, "lng": -104.52912, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pueblo"}]}

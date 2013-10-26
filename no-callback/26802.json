@@ -1,1 +1,1 @@
-{"lat": 38.633148, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Brandywine", "lng": -79.21669, "zip_code": "26802"}
+{"locality": "Brandywine", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Brandywine", "Fort Seybert"], "postal_code": "26802", "lat": 38.633148, "lng": -79.21669, "type": "STANDARD", "counties": [{"fips": "071", "name": "Pendleton"}]}

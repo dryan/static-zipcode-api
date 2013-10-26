@@ -1,1 +1,1 @@
-{"lat": 37.218244, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bois D Arc", "lng": -93.53629, "zip_code": "65612"}
+{"locality": "Bois D Arc", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bois D Arc"], "postal_code": "65612", "lat": 37.218244, "lng": -93.53629, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "109", "name": "Lawrence"}]}

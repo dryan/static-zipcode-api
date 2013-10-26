@@ -1,1 +1,1 @@
-{"lat": 46.399545, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Shingleton", "lng": -86.43315, "zip_code": "49884"}
+{"locality": "Shingleton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Shingleton"], "postal_code": "49884", "lat": 46.399545, "lng": -86.43315, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alger"}]}

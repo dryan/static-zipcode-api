@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.124141, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Spragueville", "lng": -90.4557, "zip_code": "52074"});
+zipapicallback({"locality": "Spragueville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Spragueville"], "postal_code": "52074", "lat": 42.124141, "lng": -90.4557, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jackson"}]});

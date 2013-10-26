@@ -1,1 +1,1 @@
-{"lat": 43.95037, "region": {"abbr": "NY", "name": "New York"}, "locality": "Crown Point", "lng": -73.48357, "zip_code": "12928"}
+{"locality": "Crown Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Crown Point"], "postal_code": "12928", "lat": 43.95037, "lng": -73.48357, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

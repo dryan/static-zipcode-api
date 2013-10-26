@@ -1,1 +1,1 @@
-{"lat": 32.903922, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Lafayette", "lng": -85.42905, "zip_code": "36862"}
+{"locality": "Lafayette", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Lafayette"], "postal_code": "36862", "lat": 32.903922, "lng": -85.42905, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chambers"}]}

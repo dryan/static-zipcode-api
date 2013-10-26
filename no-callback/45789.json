@@ -1,1 +1,1 @@
-{"lat": 39.551002, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wingett Run", "lng": -81.256, "zip_code": "45789"}
+{"locality": "Wingett Run", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wingett Run"], "postal_code": "45789", "lat": 39.551002, "lng": -81.256, "type": "STANDARD", "counties": [{"fips": "111", "name": "Monroe"}, {"fips": "167", "name": "Washington"}]}

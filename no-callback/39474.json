@@ -1,1 +1,1 @@
-{"lat": 31.605946, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Prentiss", "lng": -89.86086, "zip_code": "39474"}
+{"locality": "Prentiss", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Prentiss"], "postal_code": "39474", "lat": 31.605946, "lng": -89.86086, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson Davis"}, {"fips": "077", "name": "Lawrence"}, {"fips": "031", "name": "Covington"}]}

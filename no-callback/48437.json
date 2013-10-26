@@ -1,1 +1,1 @@
-{"lat": 43.111009, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Genesee", "lng": -83.62016, "zip_code": "48437"}
+{"locality": "Genesee", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Genesee"], "postal_code": "48437", "lat": 43.111009, "lng": -83.62016, "type": "POBOX", "counties": [{"fips": "049", "name": "Genesee"}]}

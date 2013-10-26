@@ -1,1 +1,1 @@
-{"lat": 40.527055, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hatfield", "lng": -94.15484, "zip_code": "64458"}
+{"locality": "Hatfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hatfield"], "postal_code": "64458", "lat": 40.527055, "lng": -94.15484, "type": "STANDARD", "counties": [{"fips": "081", "name": "Harrison"}, {"fips": "227", "name": "Worth"}]}

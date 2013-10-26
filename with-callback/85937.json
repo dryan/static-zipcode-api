@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.560896, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Snowflake", "lng": -110.03633, "zip_code": "85937"});
+zipapicallback({"locality": "Snowflake", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Snowflake"], "postal_code": "85937", "lat": 34.560896, "lng": -110.03633, "type": "STANDARD", "counties": [{"fips": "017", "name": "Navajo"}]});

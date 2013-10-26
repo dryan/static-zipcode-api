@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.213963, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lone Rock", "lng": -90.23909, "zip_code": "53556"});
+zipapicallback({"locality": "Lone Rock", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lone Rock"], "postal_code": "53556", "lat": 43.213963, "lng": -90.23909, "type": "STANDARD", "counties": [{"fips": "103", "name": "Richland"}, {"fips": "111", "name": "Sauk"}]});

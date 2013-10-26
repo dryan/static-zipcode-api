@@ -1,1 +1,1 @@
-{"lat": 44.554965, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Winslow", "lng": -69.61297, "zip_code": "04901"}
+{"locality": "Waterville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Benton", "Waterville", "Winslow"], "postal_code": "04901", "lat": 44.554965, "lng": -69.61297, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.945434, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kotlik", "lng": -163.76142, "zip_code": "99620"});
+zipapicallback({"locality": "Kotlik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kotlik"], "postal_code": "99620", "lat": 62.945434, "lng": -163.76142, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]});

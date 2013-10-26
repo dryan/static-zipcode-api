@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.29995, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Guy", "lng": -95.79753, "zip_code": "77444"});
+zipapicallback({"locality": "Guy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Guy"], "postal_code": "77444", "lat": 29.29995, "lng": -95.79753, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}, {"fips": "039", "name": "Brazoria"}]});

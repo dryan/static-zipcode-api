@@ -1,1 +1,1 @@
-{"lat": 34.776638, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Madison", "lng": -86.75164, "zip_code": "35757"}
+{"locality": "Madison", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Madison"], "postal_code": "35757", "lat": 34.776638, "lng": -86.75164, "type": "STANDARD", "counties": []}

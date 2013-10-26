@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.936248, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Coffeeville", "lng": -89.64228, "zip_code": "38922"});
+zipapicallback({"locality": "Coffeeville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Coffeeville"], "postal_code": "38922", "lat": 33.936248, "lng": -89.64228, "type": "STANDARD", "counties": [{"fips": "161", "name": "Yalobusha"}, {"fips": "043", "name": "Grenada"}]});

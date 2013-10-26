@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.155827, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Tensed", "lng": -116.89647, "zip_code": "83870"});
+zipapicallback({"locality": "Tensed", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Tensed"], "postal_code": "83870", "lat": 47.155827, "lng": -116.89647, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benewah"}]});

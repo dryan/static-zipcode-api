@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.589477, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Prescott", "lng": -112.44726, "zip_code": "86301"});
+zipapicallback({"locality": "Prescott", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Prescott"], "postal_code": "86301", "lat": 34.589477, "lng": -112.44726, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

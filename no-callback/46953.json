@@ -1,1 +1,1 @@
-{"lat": 40.53089, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Marion", "lng": -85.65922, "zip_code": "46953"}
+{"locality": "Marion", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Marion"], "postal_code": "46953", "lat": 40.53089, "lng": -85.65922, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.078355, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Santa Maria", "lng": -97.84169, "zip_code": "78592"}
+{"locality": "Santa Maria", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Santa Maria"], "postal_code": "78592", "lat": 26.078355, "lng": -97.84169, "type": "POBOX", "counties": [{"fips": "061", "name": "Cameron"}]}

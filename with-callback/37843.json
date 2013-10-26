@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.013728, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Parrottsville", "lng": -83.05351, "zip_code": "37843"});
+zipapicallback({"locality": "Parrottsville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Parrottsville"], "postal_code": "37843", "lat": 36.013728, "lng": -83.05351, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cocke"}, {"fips": "107", "name": "McMinn"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.137857, "region": {"abbr": "CA", "name": "California"}, "locality": "Pasadena", "lng": -118.16329, "zip_code": "91105"}
+{"locality": "Pasadena", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pasadena"], "postal_code": "91105", "lat": 34.137857, "lng": -118.16329, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

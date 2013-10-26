@@ -1,1 +1,1 @@
-{"lat": 47.436583, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bagley", "lng": -95.41337, "zip_code": "56621"}
+{"locality": "Bagley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bagley"], "postal_code": "56621", "lat": 47.436583, "lng": -95.41337, "type": "STANDARD", "counties": [{"fips": "029", "name": "Clearwater"}, {"fips": "119", "name": "Polk"}]}

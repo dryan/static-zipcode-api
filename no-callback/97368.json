@@ -1,1 +1,1 @@
-{"lat": 45.009935, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Otis", "lng": -123.91182, "zip_code": "97368"}
+{"locality": "Otis", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Otis"], "postal_code": "97368", "lat": 45.009935, "lng": -123.91182, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}, {"fips": "057", "name": "Tillamook"}]}

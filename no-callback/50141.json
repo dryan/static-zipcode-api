@@ -1,1 +1,1 @@
-{"lat": 41.88053, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Laurel", "lng": -92.95464, "zip_code": "50141"}
+{"locality": "Laurel", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Laurel"], "postal_code": "50141", "lat": 41.88053, "lng": -92.95464, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]}

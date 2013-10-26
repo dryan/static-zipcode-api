@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.109059, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ferron", "lng": -111.13617, "zip_code": "84523"});
+zipapicallback({"locality": "Ferron", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Ferron"], "postal_code": "84523", "lat": 39.109059, "lng": -111.13617, "type": "POBOX", "counties": [{"fips": "015", "name": "Emery"}]});

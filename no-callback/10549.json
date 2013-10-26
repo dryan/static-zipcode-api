@@ -1,1 +1,1 @@
-{"lat": 41.204027, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mount Kisco", "lng": -73.73045, "zip_code": "10549"}
+{"locality": "Mount Kisco", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bedford Corners", "Bedford Cors", "Mount Kisco"], "postal_code": "10549", "lat": 41.204027, "lng": -73.73045, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

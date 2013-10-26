@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.110959, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Macy", "lng": -96.3393, "zip_code": "68039"});
+zipapicallback({"locality": "Macy", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Macy"], "postal_code": "68039", "lat": 42.110959, "lng": -96.3393, "type": "STANDARD", "counties": [{"fips": "173", "name": "Thurston"}]});

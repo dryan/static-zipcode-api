@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.639354, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Manakin Sabot", "lng": -77.72841, "zip_code": "23103"});
+zipapicallback({"locality": "Manakin Sabot", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Manakin Sabot"], "postal_code": "23103", "lat": 37.639354, "lng": -77.72841, "type": "STANDARD", "counties": [{"fips": "075", "name": "Goochland"}]});

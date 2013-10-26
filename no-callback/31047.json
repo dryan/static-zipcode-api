@@ -1,1 +1,1 @@
-{"lat": 32.509384, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Kathleen", "lng": -83.64773, "zip_code": "31047"}
+{"locality": "Kathleen", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Kathleen"], "postal_code": "31047", "lat": 32.509384, "lng": -83.64773, "type": "STANDARD", "counties": [{"fips": "153", "name": "Houston"}]}

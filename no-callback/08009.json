@@ -1,1 +1,1 @@
-{"lat": 39.779582, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Berlin", "lng": -74.9365, "zip_code": "08009"}
+{"locality": "Berlin", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Berlin"], "postal_code": "08009", "lat": 39.779582, "lng": -74.9365, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.508248, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Clinton", "lng": -98.96917, "zip_code": "73601"}
+{"locality": "Clinton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Clinton"], "postal_code": "73601", "lat": 35.508248, "lng": -98.96917, "type": "STANDARD", "counties": [{"fips": "039", "name": "Custer"}, {"fips": "149", "name": "Washita"}]}

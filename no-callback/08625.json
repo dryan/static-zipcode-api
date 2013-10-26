@@ -1,1 +1,1 @@
-{"lat": 40.206709, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Trenton", "lng": -74.75643, "zip_code": "08625"}
+{"locality": "Trenton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Trenton"], "postal_code": "08625", "lat": 40.206709, "lng": -74.75643, "type": "POBOX", "counties": [{"fips": "021", "name": "Mercer"}]}

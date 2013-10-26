@@ -1,1 +1,1 @@
-{"lat": 29.66223, "region": {"abbr": "TX", "name": "Texas"}, "locality": "South Houston", "lng": -95.23106, "zip_code": "77587"}
+{"locality": "South Houston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["South Houston"], "postal_code": "77587", "lat": 29.66223, "lng": -95.23106, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

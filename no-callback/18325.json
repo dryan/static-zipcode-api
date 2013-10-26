@@ -1,1 +1,1 @@
-{"lat": 41.205738, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Canadensis", "lng": -75.24344, "zip_code": "18325"}
+{"locality": "Canadensis", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Canadensis"], "postal_code": "18325", "lat": 41.205738, "lng": -75.24344, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}, {"fips": "103", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.851666, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sisterdale", "lng": -98.72932, "zip_code": "78006"});
+zipapicallback({"locality": "Boerne", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Boerne", "Fair Oaks", "Fair Oaks Ranch"], "postal_code": "78006", "lat": 29.851666, "lng": -98.72932, "type": "STANDARD", "counties": [{"fips": "259", "name": "Kendall"}, {"fips": "029", "name": "Bexar"}]});

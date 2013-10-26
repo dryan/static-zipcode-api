@@ -1,1 +1,1 @@
-{"lat": 30.594145, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pinetta", "lng": -83.32545, "zip_code": "32350"}
+{"locality": "Pinetta", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pinetta"], "postal_code": "32350", "lat": 30.594145, "lng": -83.32545, "type": "STANDARD", "counties": [{"fips": "079", "name": "Madison"}]}

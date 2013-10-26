@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.467235, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Oak Park", "lng": -83.17952, "zip_code": "48237"});
+zipapicallback({"locality": "Oak Park", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Oak Park"], "postal_code": "48237", "lat": 42.467235, "lng": -83.17952, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]});

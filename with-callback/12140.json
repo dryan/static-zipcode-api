@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.693228, "region": {"abbr": "NY", "name": "New York"}, "locality": "Poestenkill", "lng": -73.56922, "zip_code": "12140"});
+zipapicallback({"locality": "Poestenkill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Poestenkill"], "postal_code": "12140", "lat": 42.693228, "lng": -73.56922, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]});

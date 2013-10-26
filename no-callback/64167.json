@@ -1,1 +1,1 @@
-{"lat": 39.3173, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kansas City", "lng": -94.48655, "zip_code": "64167"}
+{"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City"], "postal_code": "64167", "lat": 39.3173, "lng": -94.48655, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}]}

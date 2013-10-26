@@ -1,1 +1,1 @@
-{"lat": 36.959631, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Costilla", "lng": -105.5809, "zip_code": "87524"}
+{"locality": "Costilla", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Costilla"], "postal_code": "87524", "lat": 36.959631, "lng": -105.5809, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]}

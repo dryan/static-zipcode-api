@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.660847, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Sherburn", "lng": -94.74357, "zip_code": "56171"});
+zipapicallback({"locality": "Sherburn", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Sherburn"], "postal_code": "56171", "lat": 43.660847, "lng": -94.74357, "type": "STANDARD", "counties": [{"fips": "091", "name": "Martin"}]});

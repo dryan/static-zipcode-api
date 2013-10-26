@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.472103, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ragley", "lng": -93.13957, "zip_code": "70657"});
+zipapicallback({"locality": "Ragley", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ragley"], "postal_code": "70657", "lat": 30.472103, "lng": -93.13957, "type": "STANDARD", "counties": [{"fips": "011", "name": "Beauregard"}]});

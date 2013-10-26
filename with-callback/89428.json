@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.262835, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Silver City", "lng": -119.64083, "zip_code": "89428"});
+zipapicallback({"locality": "Silver City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Silver City"], "postal_code": "89428", "lat": 39.262835, "lng": -119.64083, "type": "POBOX", "counties": [{"fips": "019", "name": "Lyon"}]});

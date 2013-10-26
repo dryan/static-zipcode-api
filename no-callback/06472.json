@@ -1,1 +1,1 @@
-{"lat": 41.399873, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Northford", "lng": -72.77975, "zip_code": "06472"}
+{"locality": "Northford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Northford"], "postal_code": "06472", "lat": 41.399873, "lng": -72.77975, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]}

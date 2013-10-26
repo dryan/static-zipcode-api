@@ -1,1 +1,1 @@
-{"lat": 40.706213, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Leck Kill", "lng": -76.5997, "zip_code": "17836"}
+{"locality": "Leck Kill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leck Kill"], "postal_code": "17836", "lat": 40.706213, "lng": -76.5997, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}, {"fips": "097", "name": "Northumberland"}]}

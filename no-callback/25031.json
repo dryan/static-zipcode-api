@@ -1,1 +1,1 @@
-{"lat": 38.151116, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Boomer", "lng": -81.28483, "zip_code": "25031"}
+{"locality": "Boomer", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Boomer"], "postal_code": "25031", "lat": 38.151116, "lng": -81.28483, "type": "POBOX", "counties": [{"fips": "019", "name": "Fayette"}]}

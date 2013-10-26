@@ -1,1 +1,1 @@
-{"lat": 61.261518, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Fort", "lng": -149.66336, "zip_code": "99505"}
+{"locality": "Jber", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Anchorage", "Fort Richardson", "Ft Richardson", "Jber"], "postal_code": "99505", "lat": 61.261518, "lng": -149.66336, "type": "STANDARD", "counties": [{"fips": "020", "name": "Anchorage"}]}

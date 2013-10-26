@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.495812, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cave In Rock", "lng": -88.16099, "zip_code": "62919"});
+zipapicallback({"locality": "Cave In Rock", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cave In Rock"], "postal_code": "62919", "lat": 37.495812, "lng": -88.16099, "type": "STANDARD", "counties": [{"fips": "069", "name": "Hardin"}]});

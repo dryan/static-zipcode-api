@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.865428, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Sharon Springs", "lng": -101.73575, "zip_code": "67758"});
+zipapicallback({"locality": "Sharon Springs", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Sharon Spgs", "Sharon Springs"], "postal_code": "67758", "lat": 38.865428, "lng": -101.73575, "type": "STANDARD", "counties": [{"fips": "199", "name": "Wallace"}, {"fips": "071", "name": "Greeley"}]});

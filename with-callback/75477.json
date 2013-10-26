@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.543006, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Roxton", "lng": -95.72382, "zip_code": "75477"});
+zipapicallback({"locality": "Roxton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Roxton"], "postal_code": "75477", "lat": 33.543006, "lng": -95.72382, "type": "STANDARD", "counties": [{"fips": "277", "name": "Lamar"}]});

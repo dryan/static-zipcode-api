@@ -1,1 +1,1 @@
-{"lat": 39.876255, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Paris", "lng": -84.77788, "zip_code": "45347"}
+{"locality": "New Paris", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Paris"], "postal_code": "45347", "lat": 39.876255, "lng": -84.77788, "type": "STANDARD", "counties": [{"fips": "135", "name": "Preble"}]}

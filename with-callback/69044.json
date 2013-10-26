@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.160252, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Trenton", "lng": -101.01311, "zip_code": "69044"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Trenton"], "postal_code": "69044", "lat": 40.160252, "lng": -101.01311, "type": "STANDARD", "counties": [{"fips": "087", "name": "Hitchcock"}]});

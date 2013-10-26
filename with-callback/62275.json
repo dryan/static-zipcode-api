@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.812744, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Pocahontas", "lng": -89.54888, "zip_code": "62275"});
+zipapicallback({"locality": "Pocahontas", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Pocahontas"], "postal_code": "62275", "lat": 38.812744, "lng": -89.54888, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bond"}, {"fips": "119", "name": "Madison"}, {"fips": "027", "name": "Clinton"}]});

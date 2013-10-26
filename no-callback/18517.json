@@ -1,1 +1,1 @@
-{"lat": 41.391279, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Taylor", "lng": -75.71535, "zip_code": "18517"}
+{"locality": "Taylor", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Scranton", "Taylor"], "postal_code": "18517", "lat": 41.391279, "lng": -75.71535, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]}

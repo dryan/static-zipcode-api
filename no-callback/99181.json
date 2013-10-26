@@ -1,1 +1,1 @@
-{"lat": 48.144634, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Valley", "lng": -117.74564, "zip_code": "99181"}
+{"locality": "Valley", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Valley"], "postal_code": "99181", "lat": 48.144634, "lng": -117.74564, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}]}

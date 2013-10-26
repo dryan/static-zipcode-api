@@ -1,1 +1,1 @@
-{"lat": 40.133786, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Danville", "lng": -87.62898, "zip_code": "61832"}
+{"locality": "Danville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Danville"], "postal_code": "61832", "lat": 40.133786, "lng": -87.62898, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

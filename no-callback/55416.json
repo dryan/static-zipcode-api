@@ -1,1 +1,1 @@
-{"lat": 44.946664, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Louis Park", "lng": -93.34215, "zip_code": "55416"}
+{"locality": "Minneapolis", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Edina", "Golden Valley", "Minneapolis", "Saint Louis Park", "St Louis Park"], "postal_code": "55416", "lat": 44.946664, "lng": -93.34215, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.800879, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Weston", "lng": -118.28859, "zip_code": "97886"});
+zipapicallback({"locality": "Weston", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Weston"], "postal_code": "97886", "lat": 45.800879, "lng": -118.28859, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]});

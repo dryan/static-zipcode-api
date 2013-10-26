@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.406276, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Taylor Ridge", "lng": -90.735, "zip_code": "61284"});
+zipapicallback({"locality": "Taylor Ridge", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Taylor Ridge"], "postal_code": "61284", "lat": 41.406276, "lng": -90.735, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rock Island"}]});

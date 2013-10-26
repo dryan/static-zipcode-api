@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.108241, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oconomowoc", "lng": -88.48935, "zip_code": "53066"});
+zipapicallback({"locality": "Oconomowoc", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oconomowoc", "Summit"], "postal_code": "53066", "lat": 43.108241, "lng": -88.48935, "type": "STANDARD", "counties": [{"fips": "133", "name": "Waukesha"}, {"fips": "055", "name": "Jefferson"}, {"fips": "027", "name": "Dodge"}, {"fips": "131", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.879098, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Reedy", "lng": -81.42115, "zip_code": "25270"});
+zipapicallback({"locality": "Reedy", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Reedy"], "postal_code": "25270", "lat": 38.879098, "lng": -81.42115, "type": "STANDARD", "counties": [{"fips": "087", "name": "Roane"}, {"fips": "105", "name": "Wirt"}]});

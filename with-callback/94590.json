@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.105219, "region": {"abbr": "CA", "name": "California"}, "locality": "Vallejo", "lng": -122.24571, "zip_code": "94590"});
+zipapicallback({"locality": "Vallejo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Vallejo"], "postal_code": "94590", "lat": 38.105219, "lng": -122.24571, "type": "STANDARD", "counties": [{"fips": "095", "name": "Solano"}, {"fips": "055", "name": "Napa"}]});

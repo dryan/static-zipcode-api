@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.576431, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Princeton", "lng": -93.57644, "zip_code": "55371"});
+zipapicallback({"locality": "Princeton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Princeton"], "postal_code": "55371", "lat": 45.576431, "lng": -93.57644, "type": "STANDARD", "counties": [{"fips": "095", "name": "Mille Lacs"}, {"fips": "059", "name": "Isanti"}, {"fips": "141", "name": "Sherburne"}, {"fips": "009", "name": "Benton"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.445313, "region": {"abbr": "CA", "name": "California"}, "locality": "Valencia", "lng": -118.55252, "zip_code": "91354"}
+{"locality": "Valencia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Clarita", "Valencia"], "postal_code": "91354", "lat": 34.445313, "lng": -118.55252, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

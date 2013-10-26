@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.547027, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Red House", "lng": -81.88002, "zip_code": "25168"});
+zipapicallback({"locality": "Red House", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Red House"], "postal_code": "25168", "lat": 38.547027, "lng": -81.88002, "type": "STANDARD", "counties": [{"fips": "079", "name": "Putnam"}]});

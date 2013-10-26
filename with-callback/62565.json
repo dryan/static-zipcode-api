@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.409126, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Clarksburg", "lng": -88.80153, "zip_code": "62565"});
+zipapicallback({"locality": "Shelbyville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Clarksburg", "Duvall", "Henton", "Middlesworth", "Shelbyville", "Westervelt"], "postal_code": "62565", "lat": 39.409126, "lng": -88.80153, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}]});

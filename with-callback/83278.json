@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.248203, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Stanley", "lng": -114.93551, "zip_code": "83278"});
+zipapicallback({"locality": "Stanley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Stanley"], "postal_code": "83278", "lat": 44.248203, "lng": -114.93551, "type": "STANDARD", "counties": [{"fips": "037", "name": "Custer"}, {"fips": "041", "name": "Franklin"}]});

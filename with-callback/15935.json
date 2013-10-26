@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.212192, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hollsopple", "lng": -78.95052, "zip_code": "15935"});
+zipapicallback({"locality": "Hollsopple", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hollsopple"], "postal_code": "15935", "lat": 40.212192, "lng": -78.95052, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.892783, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Sandborn", "lng": -87.1913, "zip_code": "47578"});
+zipapicallback({"locality": "Sandborn", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Sandborn"], "postal_code": "47578", "lat": 38.892783, "lng": -87.1913, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}, {"fips": "153", "name": "Sullivan"}, {"fips": "055", "name": "Greene"}]});

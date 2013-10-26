@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.624572, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pilot Knob", "lng": -90.64526, "zip_code": "63663"});
+zipapicallback({"locality": "Pilot Knob", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pilot Knob"], "postal_code": "63663", "lat": 37.624572, "lng": -90.64526, "type": "POBOX", "counties": [{"fips": "093", "name": "Iron"}]});

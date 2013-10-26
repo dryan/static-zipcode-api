@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.481372, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ogdensburg", "lng": -89.03101, "zip_code": "54962"});
+zipapicallback({"locality": "Ogdensburg", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ogdensburg"], "postal_code": "54962", "lat": 44.481372, "lng": -89.03101, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}]});

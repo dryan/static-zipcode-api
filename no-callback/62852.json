@@ -1,1 +1,1 @@
-{"lat": 38.351613, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Keensburg", "lng": -87.86464, "zip_code": "62852"}
+{"locality": "Keensburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Keensburg"], "postal_code": "62852", "lat": 38.351613, "lng": -87.86464, "type": "POBOX", "counties": [{"fips": "185", "name": "Wabash"}]}

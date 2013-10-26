@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.041829, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Smyrna", "lng": -81.40335, "zip_code": "29743"});
+zipapicallback({"locality": "Smyrna", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Smyrna"], "postal_code": "29743", "lat": 35.041829, "lng": -81.40335, "type": "STANDARD", "counties": [{"fips": "091", "name": "York"}]});

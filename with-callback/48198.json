@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.247039, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ypsilanti", "lng": -83.58215, "zip_code": "48198"});
+zipapicallback({"locality": "Ypsilanti", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Superior Township", "Superior Twp", "Ypsilanti"], "postal_code": "48198", "lat": 42.247039, "lng": -83.58215, "type": "STANDARD", "counties": [{"fips": "161", "name": "Washtenaw"}]});

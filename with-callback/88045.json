@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.350444, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Road Forks", "lng": -108.73956, "zip_code": "88045"});
+zipapicallback({"locality": "Lordsburg", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lordsburg", "Road Forks", "Virden"], "postal_code": "88045", "lat": 32.350444, "lng": -108.73956, "type": "STANDARD", "counties": [{"fips": "017", "name": "Grant"}]});

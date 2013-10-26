@@ -1,1 +1,1 @@
-{"lat": 36.310027, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cumberland Furna", "lng": -87.4128, "zip_code": "37051"}
+{"locality": "Cumberland Furnace", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cmbrlnd Frnce", "Cumberland Furnace"], "postal_code": "37051", "lat": 36.310027, "lng": -87.4128, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickson"}, {"fips": "083", "name": "Houston"}, {"fips": "125", "name": "Montgomery"}]}

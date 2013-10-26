@@ -1,1 +1,1 @@
-{"lat": 32.738481, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fort Worth", "lng": -97.38424, "zip_code": "76107"}
+{"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth"], "postal_code": "76107", "lat": 32.738481, "lng": -97.38424, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]}

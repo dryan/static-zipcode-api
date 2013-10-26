@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.042851, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Amity", "lng": -80.18827, "zip_code": "15311"});
+zipapicallback({"locality": "Amity", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Amity"], "postal_code": "15311", "lat": 40.042851, "lng": -80.18827, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]});

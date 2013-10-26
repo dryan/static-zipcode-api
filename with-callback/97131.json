@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.715015, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Nehalem", "lng": -123.88233, "zip_code": "97131"});
+zipapicallback({"locality": "Nehalem", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Nehalem"], "postal_code": "97131", "lat": 45.715015, "lng": -123.88233, "type": "STANDARD", "counties": [{"fips": "057", "name": "Tillamook"}, {"fips": "007", "name": "Clatsop"}]});

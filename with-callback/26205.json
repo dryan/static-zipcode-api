@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.330842, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Craigsville", "lng": -80.64803, "zip_code": "26205"});
+zipapicallback({"locality": "Craigsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Cottle", "Craigsville"], "postal_code": "26205", "lat": 38.330842, "lng": -80.64803, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}]});

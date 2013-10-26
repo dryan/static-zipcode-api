@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.330089, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Parchment", "lng": -85.56635, "zip_code": "49004"});
+zipapicallback({"locality": "Kalamazoo", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Kalamazoo", "Parchment"], "postal_code": "49004", "lat": 42.330089, "lng": -85.56635, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}]});

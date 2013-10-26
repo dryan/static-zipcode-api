@@ -1,1 +1,1 @@
-{"lat": 43.197414, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Middleton", "lng": -84.73336, "zip_code": "48856"}
+{"locality": "Middleton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Middleton"], "postal_code": "48856", "lat": 43.197414, "lng": -84.73336, "type": "STANDARD", "counties": [{"fips": "057", "name": "Gratiot"}]}

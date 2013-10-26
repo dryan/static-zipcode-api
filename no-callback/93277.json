@@ -1,1 +1,1 @@
-{"lat": 36.311, "region": {"abbr": "CA", "name": "California"}, "locality": "Visalia", "lng": -119.32637, "zip_code": "93277"}
+{"locality": "Visalia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Visalia"], "postal_code": "93277", "lat": 36.311, "lng": -119.32637, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}, {"fips": "029", "name": "Kern"}]}

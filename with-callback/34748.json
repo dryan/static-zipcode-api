@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.797245, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Leesburg", "lng": -81.88466, "zip_code": "34748"});
+zipapicallback({"locality": "Leesburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Leesburg"], "postal_code": "34748", "lat": 28.797245, "lng": -81.88466, "type": "STANDARD", "counties": []});

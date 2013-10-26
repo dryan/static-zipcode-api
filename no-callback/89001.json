@@ -1,1 +1,1 @@
-{"lat": 37.381946, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Alamo", "lng": -115.31502, "zip_code": "89001"}
+{"locality": "Alamo", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Alamo"], "postal_code": "89001", "lat": 37.381946, "lng": -115.31502, "type": "STANDARD", "counties": [{"fips": "017", "name": "Lincoln"}]}

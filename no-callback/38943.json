@@ -1,1 +1,1 @@
-{"lat": 33.523907, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mc Carley", "lng": -89.84901, "zip_code": "38943"}
+{"locality": "Mc Carley", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mc Carley"], "postal_code": "38943", "lat": 33.523907, "lng": -89.84901, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}]}

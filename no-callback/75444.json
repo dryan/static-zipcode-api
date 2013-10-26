@@ -1,1 +1,1 @@
-{"lat": 32.730279, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Golden", "lng": -95.56286, "zip_code": "75444"}
+{"locality": "Golden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Golden"], "postal_code": "75444", "lat": 32.730279, "lng": -95.56286, "type": "POBOX", "counties": [{"fips": "499", "name": "Wood"}]}

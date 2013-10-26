@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.498727, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mauk", "lng": -84.42804, "zip_code": "31058"});
+zipapicallback({"locality": "Mauk", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mauk"], "postal_code": "31058", "lat": 32.498727, "lng": -84.42804, "type": "STANDARD", "counties": [{"fips": "269", "name": "Taylor"}, {"fips": "249", "name": "Schley"}, {"fips": "197", "name": "Marion"}]});

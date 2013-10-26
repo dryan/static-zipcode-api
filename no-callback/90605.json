@@ -1,1 +1,1 @@
-{"lat": 33.945413, "region": {"abbr": "CA", "name": "California"}, "locality": "Whittier", "lng": -118.03362, "zip_code": "90605"}
+{"locality": "Whittier", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Whittier"], "postal_code": "90605", "lat": 33.945413, "lng": -118.03362, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

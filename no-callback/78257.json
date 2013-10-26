@@ -1,1 +1,1 @@
-{"lat": 29.646618, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Antonio", "lng": -98.6099, "zip_code": "78257"}
+{"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Antonio", "Shavano Park"], "postal_code": "78257", "lat": 29.646618, "lng": -98.6099, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.414654, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Seward", "lng": -79.01806, "zip_code": "15954"}
+{"locality": "Seward", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Seward"], "postal_code": "15954", "lat": 40.414654, "lng": -79.01806, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}, {"fips": "063", "name": "Indiana"}]}

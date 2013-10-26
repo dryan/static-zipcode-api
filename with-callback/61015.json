@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.982993, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chana", "lng": -89.2128, "zip_code": "61015"});
+zipapicallback({"locality": "Chana", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chana"], "postal_code": "61015", "lat": 41.982993, "lng": -89.2128, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.685137, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Union Center", "lng": -90.26578, "zip_code": "53962"});
+zipapicallback({"locality": "Union Center", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Union Center"], "postal_code": "53962", "lat": 43.685137, "lng": -90.26578, "type": "POBOX", "counties": [{"fips": "057", "name": "Juneau"}]});

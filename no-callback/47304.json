@@ -1,1 +1,1 @@
-{"lat": 40.215398, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Muncie", "lng": -85.43636, "zip_code": "47304"}
+{"locality": "Muncie", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Muncie"], "postal_code": "47304", "lat": 40.215398, "lng": -85.43636, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]}

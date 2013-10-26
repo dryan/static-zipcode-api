@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.058853, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Boomer", "lng": -81.30497, "zip_code": "28606"});
+zipapicallback({"locality": "Boomer", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Boomer"], "postal_code": "28606", "lat": 36.058853, "lng": -81.30497, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}, {"fips": "027", "name": "Caldwell"}]});

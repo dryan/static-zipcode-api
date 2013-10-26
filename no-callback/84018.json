@@ -1,1 +1,1 @@
-{"lat": 41.084479, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Croydon", "lng": -111.53153, "zip_code": "84018"}
+{"locality": "Croydon", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Croydon"], "postal_code": "84018", "lat": 41.084479, "lng": -111.53153, "type": "STANDARD", "counties": [{"fips": "029", "name": "Morgan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.231506, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Watertown", "lng": -88.70634, "zip_code": "53098"});
+zipapicallback({"locality": "Watertown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Watertown"], "postal_code": "53098", "lat": 43.231506, "lng": -88.70634, "type": "STANDARD", "counties": []});

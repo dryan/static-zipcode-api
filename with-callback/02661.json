@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.675799, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Harwich", "lng": -70.0396, "zip_code": "02661"});
+zipapicallback({"locality": "South Harwich", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["South Harwich"], "postal_code": "02661", "lat": 41.675799, "lng": -70.0396, "type": "POBOX", "counties": [{"fips": "001", "name": "Barnstable"}]});

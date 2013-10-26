@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.875896, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Edinboro", "lng": -80.15129, "zip_code": "16412"});
+zipapicallback({"locality": "Edinboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Crossingville", "Edinboro"], "postal_code": "16412", "lat": 41.875896, "lng": -80.15129, "type": "STANDARD", "counties": [{"fips": "049", "name": "Erie"}, {"fips": "039", "name": "Crawford"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.048966, "region": {"abbr": "NY", "name": "New York"}, "locality": "Syracuse", "lng": -76.17536, "zip_code": "13204"}
+{"locality": "Syracuse", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Syracuse"], "postal_code": "13204", "lat": 43.048966, "lng": -76.17536, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]}

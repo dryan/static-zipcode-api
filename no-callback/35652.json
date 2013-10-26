@@ -1,1 +1,1 @@
-{"lat": 34.843309, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Rogersville", "lng": -87.29937, "zip_code": "35652"}
+{"locality": "Rogersville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Rogersville"], "postal_code": "35652", "lat": 34.843309, "lng": -87.29937, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lauderdale"}, {"fips": "083", "name": "Limestone"}]}

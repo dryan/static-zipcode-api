@@ -1,1 +1,1 @@
-{"lat": 44.088275, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mineville", "lng": -73.51745, "zip_code": "12956"}
+{"locality": "Mineville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mineville"], "postal_code": "12956", "lat": 44.088275, "lng": -73.51745, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

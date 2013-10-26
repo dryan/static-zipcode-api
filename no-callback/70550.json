@@ -1,1 +1,1 @@
-{"lat": 30.517709, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lawtell", "lng": -92.1835, "zip_code": "70550"}
+{"locality": "Lawtell", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lawtell"], "postal_code": "70550", "lat": 30.517709, "lng": -92.1835, "type": "POBOX", "counties": [{"fips": "097", "name": "St. Landry"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.850515, "region": {"abbr": "CA", "name": "California"}, "locality": "Anaheim", "lng": -117.79113, "zip_code": "92807"});
+zipapicallback({"locality": "Anaheim", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Anaheim"], "postal_code": "92807", "lat": 33.850515, "lng": -117.79113, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]});

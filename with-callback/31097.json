@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.912207, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Yatesville", "lng": -84.14812, "zip_code": "31097"});
+zipapicallback({"locality": "Yatesville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Yatesville"], "postal_code": "31097", "lat": 32.912207, "lng": -84.14812, "type": "STANDARD", "counties": [{"fips": "293", "name": "Upson"}, {"fips": "207", "name": "Monroe"}, {"fips": "171", "name": "Lamar"}]});

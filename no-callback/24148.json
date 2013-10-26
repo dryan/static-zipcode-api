@@ -1,1 +1,1 @@
-{"lat": 36.595224, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ridgeway", "lng": -79.87353, "zip_code": "24148"}
+{"locality": "Ridgeway", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ridgeway"], "postal_code": "24148", "lat": 36.595224, "lng": -79.87353, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henry"}]}

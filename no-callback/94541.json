@@ -1,1 +1,1 @@
-{"lat": 37.674431, "region": {"abbr": "CA", "name": "California"}, "locality": "Hayward", "lng": -122.08883, "zip_code": "94541"}
+{"locality": "Hayward", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hayward"], "postal_code": "94541", "lat": 37.674431, "lng": -122.08883, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

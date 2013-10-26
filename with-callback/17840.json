@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.769941, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Locust Gap", "lng": -76.43928, "zip_code": "17840"});
+zipapicallback({"locality": "Locust Gap", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Locust Gap"], "postal_code": "17840", "lat": 40.769941, "lng": -76.43928, "type": "POBOX", "counties": [{"fips": "097", "name": "Northumberland"}]});

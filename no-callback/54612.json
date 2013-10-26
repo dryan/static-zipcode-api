@@ -1,1 +1,1 @@
-{"lat": 44.253423, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Arcadia", "lng": -91.48885, "zip_code": "54612"}
+{"locality": "Arcadia", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Arcadia"], "postal_code": "54612", "lat": 44.253423, "lng": -91.48885, "type": "STANDARD", "counties": [{"fips": "121", "name": "Trempealeau"}, {"fips": "011", "name": "Buffalo"}]}

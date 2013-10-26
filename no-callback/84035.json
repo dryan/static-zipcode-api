@@ -1,1 +1,1 @@
-{"lat": 40.443203, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Jensen", "lng": -109.25255, "zip_code": "84035"}
+{"locality": "Jensen", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Jensen"], "postal_code": "84035", "lat": 40.443203, "lng": -109.25255, "type": "STANDARD", "counties": [{"fips": "047", "name": "Uintah"}]}

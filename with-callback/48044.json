@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.650265, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Macomb", "lng": -82.93416, "zip_code": "48044"});
+zipapicallback({"locality": "Macomb", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Macomb"], "postal_code": "48044", "lat": 42.650265, "lng": -82.93416, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]});

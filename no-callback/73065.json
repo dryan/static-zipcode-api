@@ -1,1 +1,1 @@
-{"lat": 35.240232, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Newcastle", "lng": -97.60908, "zip_code": "73065"}
+{"locality": "Newcastle", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Newcastle"], "postal_code": "73065", "lat": 35.240232, "lng": -97.60908, "type": "STANDARD", "counties": [{"fips": "087", "name": "McClain"}]}

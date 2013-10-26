@@ -1,1 +1,1 @@
-{"lat": 43.119417, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Hillsboro", "lng": -71.92108, "zip_code": "03244"}
+{"locality": "Hillsborough", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Deering", "Hillsboro", "Hillsborough", "Windsor"], "postal_code": "03244", "lat": 43.119417, "lng": -71.92108, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]}

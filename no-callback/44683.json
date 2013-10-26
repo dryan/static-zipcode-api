@@ -1,1 +1,1 @@
-{"lat": 40.373604, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Uhrichsville", "lng": -81.34146, "zip_code": "44683"}
+{"locality": "Uhrichsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Uhrichsville"], "postal_code": "44683", "lat": 40.373604, "lng": -81.34146, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}, {"fips": "067", "name": "Harrison"}]}

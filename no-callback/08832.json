@@ -1,1 +1,1 @@
-{"lat": 40.517855, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Keasbey", "lng": -74.30325, "zip_code": "08832"}
+{"locality": "Keasbey", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Keasbey"], "postal_code": "08832", "lat": 40.517855, "lng": -74.30325, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

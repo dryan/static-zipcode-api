@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.481128, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Elliston", "lng": -112.43358, "zip_code": "59728"});
+zipapicallback({"locality": "Elliston", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Elliston"], "postal_code": "59728", "lat": 46.481128, "lng": -112.43358, "type": "POBOX", "counties": [{"fips": "077", "name": "Powell"}]});

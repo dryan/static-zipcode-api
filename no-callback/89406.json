@@ -1,1 +1,1 @@
-{"lat": 39.461072, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Fallon", "lng": -118.69306, "zip_code": "89406"}
+{"locality": "Fallon", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Fallon"], "postal_code": "89406", "lat": 39.461072, "lng": -118.69306, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lander"}, {"fips": "001", "name": "Churchill"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.899103, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Oklee", "lng": -95.84846, "zip_code": "56742"});
+zipapicallback({"locality": "Oklee", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Oklee"], "postal_code": "56742", "lat": 47.899103, "lng": -95.84846, "type": "STANDARD", "counties": [{"fips": "125", "name": "Red Lake"}, {"fips": "119", "name": "Polk"}, {"fips": "113", "name": "Pennington"}]});

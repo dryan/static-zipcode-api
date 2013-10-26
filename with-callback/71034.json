@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.176112, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hall Summit", "lng": -93.30398, "zip_code": "71034"});
+zipapicallback({"locality": "Hall Summit", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hall Summit"], "postal_code": "71034", "lat": 32.176112, "lng": -93.30398, "type": "STANDARD", "counties": [{"fips": "081", "name": "Red River"}]});

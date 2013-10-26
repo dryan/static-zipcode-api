@@ -1,1 +1,1 @@
-{"lat": 44.07685, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Dresden", "lng": -69.75012, "zip_code": "04342"}
+{"locality": "Dresden", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Dresden"], "postal_code": "04342", "lat": 44.07685, "lng": -69.75012, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]}

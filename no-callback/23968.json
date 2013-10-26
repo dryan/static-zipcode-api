@@ -1,1 +1,1 @@
-{"lat": 36.702863, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Skipwith", "lng": -78.51218, "zip_code": "23968"}
+{"locality": "Skipwith", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Skipwith"], "postal_code": "23968", "lat": 36.702863, "lng": -78.51218, "type": "STANDARD", "counties": [{"fips": "117", "name": "Mecklenburg"}]}

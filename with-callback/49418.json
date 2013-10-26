@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.891709, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grandville", "lng": -85.76466, "zip_code": "49418"});
+zipapicallback({"locality": "Grandville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grandville", "Wyoming"], "postal_code": "49418", "lat": 42.891709, "lng": -85.76466, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}, {"fips": "139", "name": "Ottawa"}]});

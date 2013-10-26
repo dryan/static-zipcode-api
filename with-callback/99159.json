@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.338736, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Odessa", "lng": -118.70235, "zip_code": "99159"});
+zipapicallback({"locality": "Odessa", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Odessa"], "postal_code": "99159", "lat": 47.338736, "lng": -118.70235, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "001", "name": "Adams"}]});

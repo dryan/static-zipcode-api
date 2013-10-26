@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.614134, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Andover", "lng": -70.69882, "zip_code": "04226"});
+zipapicallback({"locality": "East Andover", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["East Andover"], "postal_code": "04226", "lat": 44.614134, "lng": -70.69882, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

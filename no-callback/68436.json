@@ -1,1 +1,1 @@
-{"lat": 40.43034, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Shickley", "lng": -97.73815, "zip_code": "68436"}
+{"locality": "Shickley", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Shickley"], "postal_code": "68436", "lat": 40.43034, "lng": -97.73815, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fillmore"}, {"fips": "035", "name": "Clay"}]}

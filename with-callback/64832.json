@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.292467, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Asbury", "lng": -94.5856, "zip_code": "64832"});
+zipapicallback({"locality": "Asbury", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Asbury"], "postal_code": "64832", "lat": 37.292467, "lng": -94.5856, "type": "STANDARD", "counties": [{"fips": "097", "name": "Jasper"}, {"fips": "011", "name": "Barton"}]});

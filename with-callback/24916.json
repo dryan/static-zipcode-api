@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.841919, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Asbury", "lng": -80.55325, "zip_code": "24916"});
+zipapicallback({"locality": "Asbury", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Alta", "Asbury"], "postal_code": "24916", "lat": 37.841919, "lng": -80.55325, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]});

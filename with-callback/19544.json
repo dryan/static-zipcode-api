@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.418864, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Aetna", "lng": -76.29564, "zip_code": "19544"});
+zipapicallback({"locality": "Mount Aetna", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Aetna"], "postal_code": "19544", "lat": 40.418864, "lng": -76.29564, "type": "POBOX", "counties": [{"fips": "011", "name": "Berks"}]});

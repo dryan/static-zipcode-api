@@ -1,1 +1,1 @@
-{"lat": 40.697188, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kew Gardens", "lng": -73.75948, "zip_code": "11412"}
+{"locality": "Saint Albans", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jamaica", "Saint Albans"], "postal_code": "11412", "lat": 40.697188, "lng": -73.75948, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

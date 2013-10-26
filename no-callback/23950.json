@@ -1,1 +1,1 @@
-{"lat": 36.678507, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Blackridge", "lng": -78.08098, "zip_code": "23950"}
+{"locality": "La Crosse", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Blackridge", "Forksville", "La Crosse"], "postal_code": "23950", "lat": 36.678507, "lng": -78.08098, "type": "STANDARD", "counties": [{"fips": "117", "name": "Mecklenburg"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.221041, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Winchester", "lng": -89.73707, "zip_code": "54557"}
+{"locality": "Presque Isle", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Presque Isle", "Winchester"], "postal_code": "54557", "lat": 46.221041, "lng": -89.73707, "type": "STANDARD", "counties": [{"fips": "125", "name": "Vilas"}]}

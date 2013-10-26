@@ -1,1 +1,1 @@
-{"lat": 43.418863, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "New London", "lng": -72.00004, "zip_code": "03257"}
+{"locality": "New London", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["New London"], "postal_code": "03257", "lat": 43.418863, "lng": -72.00004, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]}

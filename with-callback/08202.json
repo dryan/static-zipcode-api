@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.092928, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Avalon", "lng": -74.72688, "zip_code": "08202"});
+zipapicallback({"locality": "Avalon", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Avalon"], "postal_code": "08202", "lat": 39.092928, "lng": -74.72688, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cape May"}]});

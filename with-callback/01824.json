@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.595491, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "South Chelmsford", "lng": -71.3544, "zip_code": "01824"});
+zipapicallback({"locality": "Chelmsford", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Chelmsford", "Kates Corner", "S Chelmsford"], "postal_code": "01824", "lat": 42.595491, "lng": -71.3544, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

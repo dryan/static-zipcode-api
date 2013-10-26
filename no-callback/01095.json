@@ -1,1 +1,1 @@
-{"lat": 42.12531, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wilbraham", "lng": -72.44057, "zip_code": "01095"}
+{"locality": "Wilbraham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wilbraham"], "postal_code": "01095", "lat": 42.12531, "lng": -72.44057, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

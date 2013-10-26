@@ -1,1 +1,1 @@
-{"lat": 33.102981, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Ralph", "lng": -87.83382, "zip_code": "35480"}
+{"locality": "Ralph", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Ralph"], "postal_code": "35480", "lat": 33.102981, "lng": -87.83382, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}, {"fips": "063", "name": "Greene"}]}

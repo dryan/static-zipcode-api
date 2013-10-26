@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.368642, "region": {"abbr": "CA", "name": "California"}, "locality": "Avalon", "lng": -118.40835, "zip_code": "90704"});
+zipapicallback({"locality": "Avalon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Avalon"], "postal_code": "90704", "lat": 33.368642, "lng": -118.40835, "type": "POBOX", "counties": [{"fips": "037", "name": "Los Angeles"}]});

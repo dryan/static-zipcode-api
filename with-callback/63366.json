@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.786335, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Paul", "lng": -90.72121, "zip_code": "63366"});
+zipapicallback({"locality": "O Fallon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cottleville", "Dardenne Pr", "Dardenne Prairie", "O Fallon", "Saint Paul", "Saint Peters", "St Peters"], "postal_code": "63366", "lat": 38.786335, "lng": -90.72121, "type": "STANDARD", "counties": [{"fips": "183", "name": "St Charles"}]});

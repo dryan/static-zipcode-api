@@ -1,1 +1,1 @@
-{"lat": 37.650853, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Tropic", "lng": -112.07946, "zip_code": "84776"}
+{"locality": "Tropic", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Tropic"], "postal_code": "84776", "lat": 37.650853, "lng": -112.07946, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]}

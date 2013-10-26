@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.680301, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mountainside", "lng": -74.35601, "zip_code": "07092"});
+zipapicallback({"locality": "Mountainside", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mountainside"], "postal_code": "07092", "lat": 40.680301, "lng": -74.35601, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]});

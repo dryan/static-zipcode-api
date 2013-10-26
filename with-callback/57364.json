@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.429115, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "New Holland", "lng": -98.61012, "zip_code": "57364"});
+zipapicallback({"locality": "New Holland", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["New Holland"], "postal_code": "57364", "lat": 43.429115, "lng": -98.61012, "type": "STANDARD", "counties": [{"fips": "043", "name": "Douglas"}]});

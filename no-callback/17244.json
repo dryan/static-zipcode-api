@@ -1,1 +1,1 @@
-{"lat": 40.076657, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Orrstown", "lng": -77.65433, "zip_code": "17244"}
+{"locality": "Orrstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Orrstown"], "postal_code": "17244", "lat": 40.076657, "lng": -77.65433, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]}

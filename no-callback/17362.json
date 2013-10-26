@@ -1,1 +1,1 @@
-{"lat": 39.853966, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Spring Grove", "lng": -76.87182, "zip_code": "17362"}
+{"locality": "Spring Grove", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Menges Mills", "Spring Grove"], "postal_code": "17362", "lat": 39.853966, "lng": -76.87182, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

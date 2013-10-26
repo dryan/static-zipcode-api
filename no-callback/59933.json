@@ -1,1 +1,1 @@
-{"lat": 48.68464, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Stryker", "lng": -114.74914, "zip_code": "59933"}
+{"locality": "Stryker", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Stryker"], "postal_code": "59933", "lat": 48.68464, "lng": -114.74914, "type": "POBOX", "counties": [{"fips": "053", "name": "Lincoln"}]}

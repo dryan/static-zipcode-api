@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.630577, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Buffalo", "lng": -93.10129, "zip_code": "65622"});
+zipapicallback({"locality": "Buffalo", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Buffalo"], "postal_code": "65622", "lat": 37.630577, "lng": -93.10129, "type": "STANDARD", "counties": [{"fips": "059", "name": "Dallas"}, {"fips": "167", "name": "Polk"}]});

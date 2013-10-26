@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.224457, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Inman", "lng": -97.80321, "zip_code": "67546"});
+zipapicallback({"locality": "Inman", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Inman"], "postal_code": "67546", "lat": 38.224457, "lng": -97.80321, "type": "STANDARD", "counties": [{"fips": "113", "name": "McPherson"}, {"fips": "159", "name": "Rice"}, {"fips": "155", "name": "Reno"}]});

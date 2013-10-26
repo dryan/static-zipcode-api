@@ -1,1 +1,1 @@
-{"lat": 46.696501, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Helena", "lng": -111.96895, "zip_code": "59602"}
+{"locality": "Helena", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Helena"], "postal_code": "59602", "lat": 46.696501, "lng": -111.96895, "type": "STANDARD", "counties": []}

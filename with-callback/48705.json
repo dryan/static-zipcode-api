@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.708179, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Barton City", "lng": -83.63681, "zip_code": "48705"});
+zipapicallback({"locality": "Barton City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Barton City"], "postal_code": "48705", "lat": 44.708179, "lng": -83.63681, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alcona"}]});

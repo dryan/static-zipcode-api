@@ -1,1 +1,1 @@
-{"lat": 39.849474, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Indianapolis", "lng": -86.20448, "zip_code": "46228"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Crows Nest", "Indianapolis", "N Crows Nest", "North Crows Nest", "Spring Hills", "Wynnedale"], "postal_code": "46228", "lat": 39.849474, "lng": -86.20448, "type": "STANDARD", "counties": []}

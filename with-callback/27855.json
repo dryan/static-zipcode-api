@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.432993, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Murfreesboro", "lng": -77.10287, "zip_code": "27855"});
+zipapicallback({"locality": "Murfreesboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Murfreesboro"], "postal_code": "27855", "lat": 36.432993, "lng": -77.10287, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hertford"}, {"fips": "131", "name": "Northampton"}]});

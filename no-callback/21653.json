@@ -1,1 +1,1 @@
-{"lat": 38.750959, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Newcomb", "lng": -76.17804, "zip_code": "21653"}
+{"locality": "Newcomb", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Newcomb"], "postal_code": "21653", "lat": 38.750959, "lng": -76.17804, "type": "POBOX", "counties": [{"fips": "041", "name": "Talbot"}]}

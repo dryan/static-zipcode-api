@@ -1,1 +1,1 @@
-{"lat": 34.459854, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Oneida", "lng": -90.78022, "zip_code": "72369"}
+{"locality": "Oneida", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Oneida"], "postal_code": "72369", "lat": 34.459854, "lng": -90.78022, "type": "POBOX", "counties": [{"fips": "107", "name": "Phillips"}]}

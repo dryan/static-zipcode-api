@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.780926, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Greenland", "lng": -89.09762, "zip_code": "49929"});
+zipapicallback({"locality": "Greenland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Greenland"], "postal_code": "49929", "lat": 46.780926, "lng": -89.09762, "type": "POBOX", "counties": [{"fips": "131", "name": "Ontonagon"}]});

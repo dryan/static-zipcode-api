@@ -1,1 +1,1 @@
-{"lat": 44.821813, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Spruce", "lng": -83.50181, "zip_code": "48762"}
+{"locality": "Spruce", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Spruce"], "postal_code": "48762", "lat": 44.821813, "lng": -83.50181, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alcona"}, {"fips": "007", "name": "Alpena"}]}

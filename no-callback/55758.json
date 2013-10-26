@@ -1,1 +1,1 @@
-{"lat": 47.511214, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kinney", "lng": -92.74026, "zip_code": "55758"}
+{"locality": "Kinney", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kinney"], "postal_code": "55758", "lat": 47.511214, "lng": -92.74026, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

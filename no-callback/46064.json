@@ -1,1 +1,1 @@
-{"lat": 39.997694, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Pendleton", "lng": -85.75075, "zip_code": "46064"}
+{"locality": "Pendleton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Pendleton"], "postal_code": "46064", "lat": 39.997694, "lng": -85.75075, "type": "STANDARD", "counties": [{"fips": "095", "name": "Madison"}, {"fips": "059", "name": "Hancock"}, {"fips": "057", "name": "Hamilton"}]}

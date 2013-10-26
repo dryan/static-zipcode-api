@@ -1,1 +1,1 @@
-{"lat": 40.607615, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cropsey", "lng": -88.49, "zip_code": "61731"}
+{"locality": "Cropsey", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cropsey"], "postal_code": "61731", "lat": 40.607615, "lng": -88.49, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

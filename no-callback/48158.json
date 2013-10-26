@@ -1,1 +1,1 @@
-{"lat": 42.14784, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Manchester", "lng": -84.03123, "zip_code": "48158"}
+{"locality": "Manchester", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Manchester"], "postal_code": "48158", "lat": 42.14784, "lng": -84.03123, "type": "STANDARD", "counties": [{"fips": "161", "name": "Washtenaw"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.529949, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Whiterocks", "lng": -109.91425, "zip_code": "84085"});
+zipapicallback({"locality": "Whiterocks", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Whiterocks"], "postal_code": "84085", "lat": 40.529949, "lng": -109.91425, "type": "STANDARD", "counties": [{"fips": "047", "name": "Uintah"}]});

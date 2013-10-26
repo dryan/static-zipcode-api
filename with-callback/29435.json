@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.976399, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cottageville", "lng": -80.47925, "zip_code": "29435"});
+zipapicallback({"locality": "Cottageville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cottageville"], "postal_code": "29435", "lat": 32.976399, "lng": -80.47925, "type": "STANDARD", "counties": [{"fips": "029", "name": "Colleton"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.556391, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Helmer", "lng": -85.15428, "zip_code": "46747"}
+{"locality": "Hudson", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Helmer", "Hudson"], "postal_code": "46747", "lat": 41.556391, "lng": -85.15428, "type": "STANDARD", "counties": [{"fips": "151", "name": "Steuben"}, {"fips": "033", "name": "De Kalb"}, {"fips": "087", "name": "Lagrange"}]}

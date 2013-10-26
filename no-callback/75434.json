@@ -1,1 +1,1 @@
-{"lat": 33.423626, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cunningham", "lng": -95.3567, "zip_code": "75434"}
+{"locality": "Cunningham", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cunningham"], "postal_code": "75434", "lat": 33.423626, "lng": -95.3567, "type": "POBOX", "counties": [{"fips": "277", "name": "Lamar"}]}

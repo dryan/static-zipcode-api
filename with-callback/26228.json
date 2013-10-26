@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.753031, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kanawha Head", "lng": -80.38231, "zip_code": "26228"});
+zipapicallback({"locality": "Kanawha Head", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kanawha Head"], "postal_code": "26228", "lat": 38.753031, "lng": -80.38231, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}]});

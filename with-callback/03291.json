@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.179984, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "West Nottingham", "lng": -71.1392, "zip_code": "03291"});
+zipapicallback({"locality": "West Nottingham", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["W Nottingham", "West Nottingham"], "postal_code": "03291", "lat": 43.179984, "lng": -71.1392, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]});

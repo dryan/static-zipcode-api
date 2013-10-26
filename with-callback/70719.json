@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.384402, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Brusly", "lng": -91.25549, "zip_code": "70719"});
+zipapicallback({"locality": "Brusly", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Brusly"], "postal_code": "70719", "lat": 30.384402, "lng": -91.25549, "type": "STANDARD", "counties": [{"fips": "121", "name": "West Baton Rouge"}]});

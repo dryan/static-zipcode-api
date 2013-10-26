@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.765617, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Canaan", "lng": -69.55694, "zip_code": "04924"});
+zipapicallback({"locality": "Canaan", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Canaan"], "postal_code": "04924", "lat": 44.765617, "lng": -69.55694, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]});

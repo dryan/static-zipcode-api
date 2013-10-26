@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.269741, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Smithfield", "lng": -80.78137, "zip_code": "43948"});
+zipapicallback({"locality": "Smithfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Smithfield"], "postal_code": "43948", "lat": 40.269741, "lng": -80.78137, "type": "POBOX", "counties": [{"fips": "081", "name": "Jefferson"}]});

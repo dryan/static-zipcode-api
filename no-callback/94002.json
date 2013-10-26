@@ -1,1 +1,1 @@
-{"lat": 37.516687, "region": {"abbr": "CA", "name": "California"}, "locality": "Belmont", "lng": -122.29026, "zip_code": "94002"}
+{"locality": "Belmont", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Belmont"], "postal_code": "94002", "lat": 37.516687, "lng": -122.29026, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}, {"fips": "075", "name": "San Francisco"}]}

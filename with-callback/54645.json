@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.31493, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mount Sterling", "lng": -90.9287, "zip_code": "54645"});
+zipapicallback({"locality": "Mount Sterling", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mount Sterling", "Mt Sterling"], "postal_code": "54645", "lat": 43.31493, "lng": -90.9287, "type": "POBOX", "counties": [{"fips": "023", "name": "Crawford"}]});

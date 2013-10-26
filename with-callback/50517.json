@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.295639, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bancroft", "lng": -94.22578, "zip_code": "50517"});
+zipapicallback({"locality": "Bancroft", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bancroft"], "postal_code": "50517", "lat": 43.295639, "lng": -94.22578, "type": "STANDARD", "counties": [{"fips": "109", "name": "Kossuth"}]});

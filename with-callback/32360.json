@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.184365, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Telogia", "lng": -84.88355, "zip_code": "32360"});
+zipapicallback({"locality": "Telogia", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Telogia"], "postal_code": "32360", "lat": 30.184365, "lng": -84.88355, "type": "POBOX", "counties": [{"fips": "077", "name": "Liberty"}]});

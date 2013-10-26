@@ -1,1 +1,1 @@
-{"lat": 39.472188, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Randolph", "lng": -96.76806, "zip_code": "66554"}
+{"locality": "Randolph", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Randolph"], "postal_code": "66554", "lat": 39.472188, "lng": -96.76806, "type": "STANDARD", "counties": [{"fips": "161", "name": "Riley"}]}

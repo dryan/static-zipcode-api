@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.926647, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Virginia Beach", "lng": -76.02058, "zip_code": "23459"});
+zipapicallback({"locality": "Virginia Beach", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Story", "Virginia Bch", "Virginia Beach"], "postal_code": "23459", "lat": 36.926647, "lng": -76.02058, "type": "STANDARD", "counties": [{"fips": "810", "name": "Virginia Beach (City)"}]});

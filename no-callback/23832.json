@@ -1,1 +1,1 @@
-{"lat": 37.405699, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chesterfield", "lng": -77.5838, "zip_code": "23832"}
+{"locality": "Chesterfield", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chesterfield"], "postal_code": "23832", "lat": 37.405699, "lng": -77.5838, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chesterfield"}]}

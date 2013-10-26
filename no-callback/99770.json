@@ -1,1 +1,1 @@
-{"lat": 66.597998, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Selawik", "lng": -160.01772, "zip_code": "99770"}
+{"locality": "Selawik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Selawik"], "postal_code": "99770", "lat": 66.597998, "lng": -160.01772, "type": "POBOX", "counties": [{"fips": "188", "name": "Northwest Arctic"}, {"fips": "140", "name": "Kobuk"}]}

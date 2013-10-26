@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.268651, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Nanticoke", "lng": -75.90494, "zip_code": "21840"});
+zipapicallback({"locality": "Nanticoke", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Nanticoke"], "postal_code": "21840", "lat": 38.268651, "lng": -75.90494, "type": "STANDARD", "counties": [{"fips": "045", "name": "Wicomico"}]});

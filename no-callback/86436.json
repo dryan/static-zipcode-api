@@ -1,1 +1,1 @@
-{"lat": 34.782526, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Topock", "lng": -114.4663, "zip_code": "86436"}
+{"locality": "Topock", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Topock"], "postal_code": "86436", "lat": 34.782526, "lng": -114.4663, "type": "STANDARD", "counties": [{"fips": "015", "name": "Mohave"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.811206, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Aquashicola", "lng": -75.59136, "zip_code": "18012"});
+zipapicallback({"locality": "Aquashicola", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Aquashicola"], "postal_code": "18012", "lat": 40.811206, "lng": -75.59136, "type": "POBOX", "counties": [{"fips": "025", "name": "Carbon"}]});

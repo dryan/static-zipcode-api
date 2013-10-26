@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.029666, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Canfield", "lng": -80.76396, "zip_code": "44406"});
+zipapicallback({"locality": "Canfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canfield"], "postal_code": "44406", "lat": 41.029666, "lng": -80.76396, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]});

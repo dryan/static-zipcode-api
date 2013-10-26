@@ -1,1 +1,1 @@
-{"lat": 42.041973, "region": {"abbr": "NY", "name": "New York"}, "locality": "Troupsburg", "lng": -77.5632, "zip_code": "14885"}
+{"locality": "Troupsburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Troupsburg"], "postal_code": "14885", "lat": 42.041973, "lng": -77.5632, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]}

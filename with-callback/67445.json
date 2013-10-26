@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.367111, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Glasco", "lng": -97.82634, "zip_code": "67445"});
+zipapicallback({"locality": "Glasco", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Glasco"], "postal_code": "67445", "lat": 39.367111, "lng": -97.82634, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cloud"}, {"fips": "143", "name": "Ottawa"}]});

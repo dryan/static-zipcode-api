@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.387063, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Bayamon", "lng": -66.15943, "zip_code": "00959"});
+zipapicallback({"locality": "Bayamon", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Bayamon"], "postal_code": "00959", "lat": 18.387063, "lng": -66.15943, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 43.138184, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Wounded Knee", "lng": -102.36897, "zip_code": "57794"}
+{"locality": "Wounded Knee", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Wounded Knee"], "postal_code": "57794", "lat": 43.138184, "lng": -102.36897, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}]}

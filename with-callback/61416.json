@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.496817, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bardolph", "lng": -90.56334, "zip_code": "61416"});
+zipapicallback({"locality": "Bardolph", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bardolph"], "postal_code": "61416", "lat": 40.496817, "lng": -90.56334, "type": "POBOX", "counties": [{"fips": "109", "name": "McDonough"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.086894, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Layton", "lng": -111.9271, "zip_code": "84040"}
+{"locality": "Layton", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Layton"], "postal_code": "84040", "lat": 41.086894, "lng": -111.9271, "type": "STANDARD", "counties": [{"fips": "011", "name": "Davis"}]}

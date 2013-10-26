@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.843581, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Loretta", "lng": -90.94323, "zip_code": "54896"});
+zipapicallback({"locality": "Winter", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Loretta", "Winter"], "postal_code": "54896", "lat": 45.843581, "lng": -90.94323, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sawyer"}]});

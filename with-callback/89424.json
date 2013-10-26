@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.835829, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Nixon", "lng": -119.35634, "zip_code": "89424"});
+zipapicallback({"locality": "Nixon", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Nixon"], "postal_code": "89424", "lat": 39.835829, "lng": -119.35634, "type": "POBOX", "counties": [{"fips": "031", "name": "Washoe"}]});

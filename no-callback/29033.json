@@ -1,1 +1,1 @@
-{"lat": 33.964753, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cayce", "lng": -81.06618, "zip_code": "29033"}
+{"locality": "Cayce", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cayce", "West Columbia"], "postal_code": "29033", "lat": 33.964753, "lng": -81.06618, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lexington"}]}

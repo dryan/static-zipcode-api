@@ -1,1 +1,1 @@
-{"lat": 41.455142, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Neola", "lng": -95.64792, "zip_code": "51559"}
+{"locality": "Neola", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Neola"], "postal_code": "51559", "lat": 41.455142, "lng": -95.64792, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}, {"fips": "085", "name": "Harrison"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.322102, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lewis", "lng": -73.5404, "zip_code": "12950"}
+{"locality": "Lewis", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lewis"], "postal_code": "12950", "lat": 44.322102, "lng": -73.5404, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

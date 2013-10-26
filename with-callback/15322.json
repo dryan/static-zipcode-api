@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.976531, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clarksville", "lng": -80.04218, "zip_code": "15322"});
+zipapicallback({"locality": "Clarksville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clarksville"], "postal_code": "15322", "lat": 39.976531, "lng": -80.04218, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}, {"fips": "125", "name": "Washington"}]});

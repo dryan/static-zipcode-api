@@ -1,1 +1,1 @@
-{"lat": 45.568463, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Graceville", "lng": -96.45916, "zip_code": "56240"}
+{"locality": "Graceville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Graceville"], "postal_code": "56240", "lat": 45.568463, "lng": -96.45916, "type": "STANDARD", "counties": [{"fips": "011", "name": "Big Stone"}, {"fips": "155", "name": "Traverse"}]}

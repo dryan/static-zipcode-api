@@ -1,1 +1,1 @@
-{"lat": 34.709869, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Simpsonville", "lng": -82.28385, "zip_code": "29680"}
+{"locality": "Simpsonville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Simpsonville"], "postal_code": "29680", "lat": 34.709869, "lng": -82.28385, "type": "STANDARD", "counties": []}

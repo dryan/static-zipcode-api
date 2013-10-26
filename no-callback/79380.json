@@ -1,1 +1,1 @@
-{"lat": 33.733418, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Whitharral", "lng": -102.33103, "zip_code": "79380"}
+{"locality": "Whitharral", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Whitharral"], "postal_code": "79380", "lat": 33.733418, "lng": -102.33103, "type": "POBOX", "counties": [{"fips": "219", "name": "Hockley"}]}

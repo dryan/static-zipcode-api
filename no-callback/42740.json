@@ -1,1 +1,1 @@
-{"lat": 37.59641, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Glendale", "lng": -85.92294, "zip_code": "42740"}
+{"locality": "Glendale", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Glendale"], "postal_code": "42740", "lat": 37.59641, "lng": -85.92294, "type": "STANDARD", "counties": [{"fips": "093", "name": "Hardin"}]}

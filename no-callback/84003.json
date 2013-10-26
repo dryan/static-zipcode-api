@@ -1,1 +1,1 @@
-{"lat": 40.394235, "region": {"abbr": "UT", "name": "Utah"}, "locality": "American Fork", "lng": -111.79449, "zip_code": "84003"}
+{"locality": "American Fork", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["American Fork", "Highland"], "postal_code": "84003", "lat": 40.394235, "lng": -111.79449, "type": "STANDARD", "counties": [{"fips": "049", "name": "Utah"}]}

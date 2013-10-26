@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.738889, "region": {"abbr": "CA", "name": "California"}, "locality": "Hamilton City", "lng": -122.01675, "zip_code": "95951"});
+zipapicallback({"locality": "Hamilton City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hamilton City"], "postal_code": "95951", "lat": 39.738889, "lng": -122.01675, "type": "POBOX", "counties": [{"fips": "021", "name": "Glenn"}]});

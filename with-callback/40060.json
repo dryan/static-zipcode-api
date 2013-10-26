@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.533395, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Raywick", "lng": -85.43588, "zip_code": "40060"});
+zipapicallback({"locality": "Raywick", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Raywick"], "postal_code": "40060", "lat": 37.533395, "lng": -85.43588, "type": "STANDARD", "counties": [{"fips": "155", "name": "Marion"}]});

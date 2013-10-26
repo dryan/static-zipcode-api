@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.005009, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Linden", "lng": -94.37603, "zip_code": "75563"});
+zipapicallback({"locality": "Linden", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Linden"], "postal_code": "75563", "lat": 33.005009, "lng": -94.37603, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cass"}]});

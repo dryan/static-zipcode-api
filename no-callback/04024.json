@@ -1,1 +1,1 @@
-{"lat": 43.823849, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Baldwin", "lng": -70.68482, "zip_code": "04024"}
+{"locality": "East Baldwin", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["East Baldwin"], "postal_code": "04024", "lat": 43.823849, "lng": -70.68482, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

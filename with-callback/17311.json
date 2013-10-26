@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.81667, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Codorus", "lng": -76.84165, "zip_code": "17311"});
+zipapicallback({"locality": "Codorus", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Codorus"], "postal_code": "17311", "lat": 39.81667, "lng": -76.84165, "type": "POBOX", "counties": [{"fips": "133", "name": "York"}]});

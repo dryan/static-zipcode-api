@@ -1,1 +1,1 @@
-{"lat": 36.947422, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Penhook", "lng": -79.63536, "zip_code": "24137"}
+{"locality": "Penhook", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Penhook"], "postal_code": "24137", "lat": 36.947422, "lng": -79.63536, "type": "STANDARD", "counties": [{"fips": "067", "name": "Franklin"}, {"fips": "143", "name": "Pittsylvania"}]}

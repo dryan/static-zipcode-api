@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.305705, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Liberty", "lng": -84.94589, "zip_code": "42539"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Clementsville", "Liberty"], "postal_code": "42539", "lat": 37.305705, "lng": -84.94589, "type": "STANDARD", "counties": [{"fips": "045", "name": "Casey"}]});

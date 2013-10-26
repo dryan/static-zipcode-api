@@ -1,1 +1,1 @@
-{"lat": 33.270355, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tatum", "lng": -103.42377, "zip_code": "88267"}
+{"locality": "Tatum", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tatum"], "postal_code": "88267", "lat": 33.270355, "lng": -103.42377, "type": "STANDARD", "counties": [{"fips": "025", "name": "Lea"}]}

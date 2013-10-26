@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.129171, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Elizabethtown", "lng": -85.8013, "zip_code": "47232"});
+zipapicallback({"locality": "Elizabethtown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Elizabethtown"], "postal_code": "47232", "lat": 39.129171, "lng": -85.8013, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bartholomew"}, {"fips": "079", "name": "Jennings"}]});

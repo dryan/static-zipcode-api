@@ -1,1 +1,1 @@
-{"lat": 48.698749, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Greenbush", "lng": -96.20637, "zip_code": "56726"}
+{"locality": "Greenbush", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Greenbush"], "postal_code": "56726", "lat": 48.698749, "lng": -96.20637, "type": "STANDARD", "counties": [{"fips": "135", "name": "Roseau"}]}

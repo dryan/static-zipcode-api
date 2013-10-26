@@ -1,1 +1,1 @@
-{"lat": 33.481208, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Goree", "lng": -99.51447, "zip_code": "76363"}
+{"locality": "Goree", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Goree"], "postal_code": "76363", "lat": 33.481208, "lng": -99.51447, "type": "STANDARD", "counties": [{"fips": "275", "name": "Knox"}, {"fips": "447", "name": "Throckmorton"}, {"fips": "207", "name": "Haskell"}]}

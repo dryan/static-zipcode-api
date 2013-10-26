@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.571402, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Milford", "lng": -83.59318, "zip_code": "48381"});
+zipapicallback({"locality": "Milford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Milford"], "postal_code": "48381", "lat": 42.571402, "lng": -83.59318, "type": "STANDARD", "counties": []});

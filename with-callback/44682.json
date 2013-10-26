@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.397916, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Tuscarawas", "lng": -81.40527, "zip_code": "44682"});
+zipapicallback({"locality": "Tuscarawas", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Tuscarawas"], "postal_code": "44682", "lat": 40.397916, "lng": -81.40527, "type": "POBOX", "counties": [{"fips": "157", "name": "Tuscarawas"}]});

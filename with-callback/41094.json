@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.87872, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Walton", "lng": -84.62558, "zip_code": "41094"});
+zipapicallback({"locality": "Walton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Walton"], "postal_code": "41094", "lat": 38.87872, "lng": -84.62558, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}, {"fips": "117", "name": "Kenton"}]});

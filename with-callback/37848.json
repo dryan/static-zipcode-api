@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.24404, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Powder Springs", "lng": -83.68053, "zip_code": "37848"});
+zipapicallback({"locality": "Powder Springs", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Powder Spgs", "Powder Springs"], "postal_code": "37848", "lat": 36.24404, "lng": -83.68053, "type": "STANDARD", "counties": [{"fips": "173", "name": "Union"}, {"fips": "057", "name": "Grainger"}]});

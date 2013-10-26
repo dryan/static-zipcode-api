@@ -1,1 +1,1 @@
-{"lat": 33.034435, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Buckhorn", "lng": -108.70302, "zip_code": "88025"}
+{"locality": "Buckhorn", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Buckhorn"], "postal_code": "88025", "lat": 33.034435, "lng": -108.70302, "type": "STANDARD", "counties": [{"fips": "017", "name": "Grant"}]}

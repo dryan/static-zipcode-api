@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.179076, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Winchester", "lng": -78.16653, "zip_code": "22601"});
+zipapicallback({"locality": "Winchester", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hayfield", "Winchester"], "postal_code": "22601", "lat": 39.179076, "lng": -78.16653, "type": "STANDARD", "counties": [{"fips": "840", "name": "Winchester (City)"}, {"fips": "069", "name": "Frederick"}]});

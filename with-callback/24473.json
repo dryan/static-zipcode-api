@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.912977, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rockbridge Baths", "lng": -79.39906, "zip_code": "24473"});
+zipapicallback({"locality": "Rockbridge Baths", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rockbdge Bath", "Rockbridge Baths"], "postal_code": "24473", "lat": 37.912977, "lng": -79.39906, "type": "STANDARD", "counties": [{"fips": "163", "name": "Rockbridge"}]});

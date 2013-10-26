@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.080143, "region": {"abbr": "CA", "name": "California"}, "locality": "Pomona", "lng": -117.73861, "zip_code": "91767"});
+zipapicallback({"locality": "Pomona", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pomona"], "postal_code": "91767", "lat": 34.080143, "lng": -117.73861, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

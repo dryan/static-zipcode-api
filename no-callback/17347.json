@@ -1,1 +1,1 @@
-{"lat": 40.067559, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Wolf", "lng": -76.69584, "zip_code": "17347"}
+{"locality": "Mount Wolf", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Wolf"], "postal_code": "17347", "lat": 40.067559, "lng": -76.69584, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

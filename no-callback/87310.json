@@ -1,1 +1,1 @@
-{"lat": 35.766353, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Brimhall", "lng": -108.57046, "zip_code": "87310"}
+{"locality": "Brimhall", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Brimhall", "Gallup"], "postal_code": "87310", "lat": 35.766353, "lng": -108.57046, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

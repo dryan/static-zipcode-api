@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.279547, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Orange", "lng": -73.02541, "zip_code": "06477"});
+zipapicallback({"locality": "Orange", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Orange"], "postal_code": "06477", "lat": 41.279547, "lng": -73.02541, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.613891, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Durand", "lng": -91.92402, "zip_code": "54736"});
+zipapicallback({"locality": "Durand", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Durand"], "postal_code": "54736", "lat": 44.613891, "lng": -91.92402, "type": "STANDARD", "counties": [{"fips": "091", "name": "Pepin"}, {"fips": "011", "name": "Buffalo"}, {"fips": "033", "name": "Dunn"}]});

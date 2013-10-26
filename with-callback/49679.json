@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.878924, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Sears", "lng": -85.15802, "zip_code": "49679"});
+zipapicallback({"locality": "Sears", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Sears"], "postal_code": "49679", "lat": 43.878924, "lng": -85.15802, "type": "STANDARD", "counties": [{"fips": "133", "name": "Osceola"}]});

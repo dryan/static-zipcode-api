@@ -1,1 +1,1 @@
-{"lat": 41.298648, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Madison", "lng": -72.60938, "zip_code": "06443"}
+{"locality": "Madison", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Madison"], "postal_code": "06443", "lat": 41.298648, "lng": -72.60938, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]}

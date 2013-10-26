@@ -1,1 +1,1 @@
-{"lat": 41.988034, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Decatur", "lng": -96.26545, "zip_code": "68020"}
+{"locality": "Decatur", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Decatur"], "postal_code": "68020", "lat": 41.988034, "lng": -96.26545, "type": "STANDARD", "counties": [{"fips": "021", "name": "Burt"}, {"fips": "173", "name": "Thurston"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.757893, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bassett", "lng": -80.00161, "zip_code": "24055"});
+zipapicallback({"locality": "Bassett", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bassett"], "postal_code": "24055", "lat": 36.757893, "lng": -80.00161, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henry"}, {"fips": "141", "name": "Patrick"}, {"fips": "067", "name": "Franklin"}]});

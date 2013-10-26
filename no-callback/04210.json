@@ -1,1 +1,1 @@
-{"lat": 44.089173, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Auburn", "lng": -70.24143, "zip_code": "04210"}
+{"locality": "Auburn", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Auburn"], "postal_code": "04210", "lat": 44.089173, "lng": -70.24143, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}, {"fips": "005", "name": "Cumberland"}]}

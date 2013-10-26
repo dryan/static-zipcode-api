@@ -1,1 +1,1 @@
-{"lat": 38.458322, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Charlotte Hall", "lng": -76.83947, "zip_code": "20622"}
+{"locality": "Charlotte Hall", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Charlott Hall", "Charlotte Hall"], "postal_code": "20622", "lat": 38.458322, "lng": -76.83947, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}, {"fips": "017", "name": "Charles"}]}

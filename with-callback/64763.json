@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.137769, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lowry City", "lng": -93.73225, "zip_code": "64763"});
+zipapicallback({"locality": "Lowry City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lowry City"], "postal_code": "64763", "lat": 38.137769, "lng": -93.73225, "type": "STANDARD", "counties": [{"fips": "185", "name": "St. Clair"}]});

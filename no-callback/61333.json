@@ -1,1 +1,1 @@
-{"lat": 40.990965, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Long Point", "lng": -88.88278, "zip_code": "61333"}
+{"locality": "Long Point", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Long Point"], "postal_code": "61333", "lat": 40.990965, "lng": -88.88278, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}, {"fips": "099", "name": "La Salle"}]}

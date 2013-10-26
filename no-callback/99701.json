@@ -1,1 +1,1 @@
-{"lat": 64.83507, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Coldfoot", "lng": -147.72045, "zip_code": "99701"}
+{"locality": "Fairbanks", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Coldfoot", "Fairbanks"], "postal_code": "99701", "lat": 64.83507, "lng": -147.72045, "type": "STANDARD", "counties": [{"fips": "090", "name": "Fairbanks North Star"}]}

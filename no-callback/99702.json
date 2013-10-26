@@ -1,1 +1,1 @@
-{"lat": 64.661627, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Eielson", "lng": -147.02121, "zip_code": "99702"}
+{"locality": "Eielson Afb", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Eielson Afb", "Fairbanks"], "postal_code": "99702", "lat": 64.661627, "lng": -147.02121, "type": "STANDARD", "counties": [{"fips": "090", "name": "Fairbanks North Star"}]}

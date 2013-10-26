@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.5863, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bloomfield Towns", "lng": -83.29705, "zip_code": "48302"});
+zipapicallback({"locality": "Bloomfield Hills", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bloomfield", "Bloomfield Hills", "Bloomfield Township", "Bloomfld Hls", "Bloomfld Twp"], "postal_code": "48302", "lat": 42.5863, "lng": -83.29705, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]});

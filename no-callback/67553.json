@@ -1,1 +1,1 @@
-{"lat": 38.654948, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Liebenthal", "lng": -99.32062, "zip_code": "67553"}
+{"locality": "Liebenthal", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Liebenthal"], "postal_code": "67553", "lat": 38.654948, "lng": -99.32062, "type": "POBOX", "counties": [{"fips": "165", "name": "Rush"}]}

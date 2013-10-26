@@ -1,1 +1,1 @@
-{"lat": 40.439412, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Franklin Park", "lng": -74.55565, "zip_code": "08823"}
+{"locality": "Franklin Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Franklin Park"], "postal_code": "08823", "lat": 40.439412, "lng": -74.55565, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]}

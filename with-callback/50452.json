@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.77929, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Latimer", "lng": -93.36842, "zip_code": "50452"});
+zipapicallback({"locality": "Latimer", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Latimer"], "postal_code": "50452", "lat": 42.77929, "lng": -93.36842, "type": "STANDARD", "counties": [{"fips": "069", "name": "Franklin"}]});

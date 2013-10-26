@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.388059, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mustang", "lng": -97.73626, "zip_code": "73064"});
+zipapicallback({"locality": "Mustang", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mustang"], "postal_code": "73064", "lat": 35.388059, "lng": -97.73626, "type": "STANDARD", "counties": [{"fips": "017", "name": "Canadian"}]});

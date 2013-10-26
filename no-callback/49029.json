@@ -1,1 +1,1 @@
-{"lat": 42.142445, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Burlington", "lng": -85.09728, "zip_code": "49029"}
+{"locality": "Burlington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Burlington"], "postal_code": "49029", "lat": 42.142445, "lng": -85.09728, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]}

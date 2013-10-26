@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.150083, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Earlysville", "lng": -78.47627, "zip_code": "22936"});
+zipapicallback({"locality": "Earlysville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Earlysville"], "postal_code": "22936", "lat": 38.150083, "lng": -78.47627, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}, {"fips": "079", "name": "Greene"}]});

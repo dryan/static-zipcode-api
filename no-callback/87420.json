@@ -1,1 +1,1 @@
-{"lat": 36.748026, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Shiprock", "lng": -108.80023, "zip_code": "87420"}
+{"locality": "Shiprock", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Shiprock"], "postal_code": "87420", "lat": 36.748026, "lng": -108.80023, "type": "STANDARD", "counties": [{"fips": "045", "name": "San Juan"}]}

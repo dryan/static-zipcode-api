@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.396646, "region": {"abbr": "CA", "name": "California"}, "locality": "Bardsdale", "lng": -118.90082, "zip_code": "93015"});
+zipapicallback({"locality": "Fillmore", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fillmore"], "postal_code": "93015", "lat": 34.396646, "lng": -118.90082, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.834212, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hot Springs", "lng": -82.86149, "zip_code": "28743"});
+zipapicallback({"locality": "Hot Springs", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hot Springs"], "postal_code": "28743", "lat": 35.834212, "lng": -82.86149, "type": "STANDARD", "counties": [{"fips": "115", "name": "Madison"}]});

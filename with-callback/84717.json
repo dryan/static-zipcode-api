@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.6153, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Bryce Canyon", "lng": -112.17088, "zip_code": "84717"});
+zipapicallback({"locality": "Bryce Canyon", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Bryce Canyon"], "postal_code": "84717", "lat": 37.6153, "lng": -112.17088, "type": "STANDARD", "counties": [{"fips": "017", "name": "Garfield"}]});

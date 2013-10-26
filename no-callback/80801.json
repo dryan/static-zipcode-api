@@ -1,1 +1,1 @@
-{"lat": 39.727493, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Anton", "lng": -103.10362, "zip_code": "80801"}
+{"locality": "Anton", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Anton"], "postal_code": "80801", "lat": 39.727493, "lng": -103.10362, "type": "STANDARD", "counties": [{"fips": "121", "name": "Washington"}]}

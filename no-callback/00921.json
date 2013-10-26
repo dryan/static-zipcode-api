@@ -1,1 +1,1 @@
-{"lat": 18.394019, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "San Juan", "lng": -66.08633, "zip_code": "00921"}
+{"locality": "San Juan", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["College Park", "Pto Nuevo", "Puerto Nuevo", "Rio Piedras", "San Juan"], "postal_code": "00921", "lat": 18.394019, "lng": -66.08633, "type": "STANDARD", "counties": [{"fips": "127", "name": "San Juan"}]}

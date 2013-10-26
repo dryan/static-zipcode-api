@@ -1,1 +1,1 @@
-{"lat": 48.053192, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Velva", "lng": -100.93425, "zip_code": "58790"}
+{"locality": "Velva", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Velva"], "postal_code": "58790", "lat": 48.053192, "lng": -100.93425, "type": "STANDARD", "counties": [{"fips": "049", "name": "McHenry"}, {"fips": "101", "name": "Ward"}]}

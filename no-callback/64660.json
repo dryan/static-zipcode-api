@@ -1,1 +1,1 @@
-{"lat": 39.57756, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Mendon", "lng": -93.09683, "zip_code": "64660"}
+{"locality": "Mendon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Mendon"], "postal_code": "64660", "lat": 39.57756, "lng": -93.09683, "type": "STANDARD", "counties": [{"fips": "115", "name": "Linn"}, {"fips": "041", "name": "Chariton"}]}

@@ -1,1 +1,1 @@
-{"lat": 46.063391, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Miltona", "lng": -95.28168, "zip_code": "56354"}
+{"locality": "Miltona", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Miltona"], "postal_code": "56354", "lat": 46.063391, "lng": -95.28168, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.972553, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Falls City", "lng": -98.06964, "zip_code": "78113"});
+zipapicallback({"locality": "Falls City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Falls City", "Mccoy"], "postal_code": "78113", "lat": 28.972553, "lng": -98.06964, "type": "STANDARD", "counties": [{"fips": "255", "name": "Karnes"}, {"fips": "493", "name": "Wilson"}]});

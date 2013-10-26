@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.97026, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Glen Echo", "lng": -77.1442, "zip_code": "20812"});
+zipapicallback({"locality": "Glen Echo", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glen Echo"], "postal_code": "20812", "lat": 38.97026, "lng": -77.1442, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

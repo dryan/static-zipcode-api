@@ -1,1 +1,1 @@
-{"lat": 46.052308, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Ashley", "lng": -99.27476, "zip_code": "58413"}
+{"locality": "Ashley", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Ashley", "Venturia"], "postal_code": "58413", "lat": 46.052308, "lng": -99.27476, "type": "STANDARD", "counties": [{"fips": "051", "name": "McIntosh"}]}

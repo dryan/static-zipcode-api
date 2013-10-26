@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.32502, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Marshfield", "lng": -82.2586, "zip_code": "45766"});
+zipapicallback({"locality": "New Marshfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Marshfield", "New Marshfld"], "postal_code": "45766", "lat": 39.32502, "lng": -82.2586, "type": "STANDARD", "counties": [{"fips": "009", "name": "Athens"}, {"fips": "163", "name": "Vinton"}]});

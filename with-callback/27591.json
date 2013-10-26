@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.781595, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Wendell", "lng": -78.37287, "zip_code": "27591"});
+zipapicallback({"locality": "Wendell", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Eagle Rock", "Wendell"], "postal_code": "27591", "lat": 35.781595, "lng": -78.37287, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}, {"fips": "101", "name": "Johnston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.065563, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Smithville", "lng": -88.36577, "zip_code": "38870"});
+zipapicallback({"locality": "Smithville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Smithville"], "postal_code": "38870", "lat": 34.065563, "lng": -88.36577, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}, {"fips": "057", "name": "Itawamba"}]});

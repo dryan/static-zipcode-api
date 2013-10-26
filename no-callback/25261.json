@@ -1,1 +1,1 @@
-{"lat": 38.835085, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Millstone", "lng": -81.10284, "zip_code": "25261"}
+{"locality": "Millstone", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Millstone"], "postal_code": "25261", "lat": 38.835085, "lng": -81.10284, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

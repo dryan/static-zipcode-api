@@ -1,1 +1,1 @@
-{"lat": 31.452874, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Chopin", "lng": -92.79465, "zip_code": "71447"}
+{"locality": "Lena", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Chopin", "Clifton", "Lena"], "postal_code": "71447", "lat": 31.452874, "lng": -92.79465, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}, {"fips": "079", "name": "Rapides"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.797477, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ekalaka", "lng": -104.47482, "zip_code": "59324"}
+{"locality": "Ekalaka", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ekalaka", "Mill Iron"], "postal_code": "59324", "lat": 45.797477, "lng": -104.47482, "type": "STANDARD", "counties": [{"fips": "011", "name": "Carter"}]}

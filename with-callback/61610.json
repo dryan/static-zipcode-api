@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.643846, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Creve Coeur", "lng": -89.59908, "zip_code": "61610"});
+zipapicallback({"locality": "Creve Coeur", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Creve Coeur", "Peoria"], "postal_code": "61610", "lat": 40.643846, "lng": -89.59908, "type": "STANDARD", "counties": []});

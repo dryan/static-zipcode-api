@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.535102, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kutztown", "lng": -75.77566, "zip_code": "19530"});
+zipapicallback({"locality": "Kutztown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kutztown"], "postal_code": "19530", "lat": 40.535102, "lng": -75.77566, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}, {"fips": "077", "name": "Lehigh"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.810275, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mineral Wells", "lng": -98.10707, "zip_code": "76067"});
+zipapicallback({"locality": "Mineral Wells", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mineral Wells"], "postal_code": "76067", "lat": 32.810275, "lng": -98.10707, "type": "STANDARD", "counties": [{"fips": "363", "name": "Palo Pinto"}, {"fips": "367", "name": "Parker"}]});

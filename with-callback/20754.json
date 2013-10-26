@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.746123, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Dunkirk", "lng": -76.65117, "zip_code": "20754"});
+zipapicallback({"locality": "Dunkirk", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Dunkirk"], "postal_code": "20754", "lat": 38.746123, "lng": -76.65117, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}, {"fips": "003", "name": "Anne Arundel"}]});

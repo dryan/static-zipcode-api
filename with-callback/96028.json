@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.056097, "region": {"abbr": "CA", "name": "California"}, "locality": "Fall River Mills", "lng": -121.49021, "zip_code": "96028"});
+zipapicallback({"locality": "Fall River Mills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fall River Mills", "Fl River Mls"], "postal_code": "96028", "lat": 41.056097, "lng": -121.49021, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]});

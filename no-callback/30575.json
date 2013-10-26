@@ -1,1 +1,1 @@
-{"lat": 34.191571, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Talmo", "lng": -83.71124, "zip_code": "30575"}
+{"locality": "Talmo", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Talmo"], "postal_code": "30575", "lat": 34.191571, "lng": -83.71124, "type": "STANDARD", "counties": [{"fips": "157", "name": "Jackson"}, {"fips": "139", "name": "Hall"}]}

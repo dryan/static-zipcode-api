@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.56195, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ludlow", "lng": -89.70928, "zip_code": "39098"});
+zipapicallback({"locality": "Ludlow", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ludlow"], "postal_code": "39098", "lat": 32.56195, "lng": -89.70928, "type": "POBOX", "counties": [{"fips": "123", "name": "Scott"}]});

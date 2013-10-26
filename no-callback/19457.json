@@ -1,1 +1,1 @@
-{"lat": 40.204252, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Parker Ford", "lng": -75.58449, "zip_code": "19457"}
+{"locality": "Parker Ford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Parker Ford"], "postal_code": "19457", "lat": 40.204252, "lng": -75.58449, "type": "POBOX", "counties": [{"fips": "029", "name": "Chester"}]}

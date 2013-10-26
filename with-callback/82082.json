@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.181106, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Pine Bluffs", "lng": -104.00078, "zip_code": "82082"});
+zipapicallback({"locality": "Pine Bluffs", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Pine Bluffs"], "postal_code": "82082", "lat": 41.181106, "lng": -104.00078, "type": "STANDARD", "counties": [{"fips": "021", "name": "Laramie"}]});

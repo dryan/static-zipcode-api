@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.425547, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cordova", "lng": -80.90083, "zip_code": "29039"});
+zipapicallback({"locality": "Cordova", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cordova"], "postal_code": "29039", "lat": 33.425547, "lng": -80.90083, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]});

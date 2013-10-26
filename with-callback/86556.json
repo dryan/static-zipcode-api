@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.272262, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tsaile", "lng": -109.17516, "zip_code": "86556"});
+zipapicallback({"locality": "Tsaile", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chinle", "Tsaile"], "postal_code": "86556", "lat": 36.272262, "lng": -109.17516, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]});

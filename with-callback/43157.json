@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.843864, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Thurston", "lng": -82.54555, "zip_code": "43157"});
+zipapicallback({"locality": "Thurston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Thurston"], "postal_code": "43157", "lat": 39.843864, "lng": -82.54555, "type": "POBOX", "counties": [{"fips": "045", "name": "Fairfield"}]});

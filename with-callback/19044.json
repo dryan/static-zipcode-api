@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.184758, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Horsham", "lng": -75.14386, "zip_code": "19044"});
+zipapicallback({"locality": "Horsham", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Horsham"], "postal_code": "19044", "lat": 40.184758, "lng": -75.14386, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

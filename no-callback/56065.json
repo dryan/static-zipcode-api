@@ -1,1 +1,1 @@
-{"lat": 43.931415, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mapleton", "lng": -93.92866, "zip_code": "56065"}
+{"locality": "Mapleton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mapleton"], "postal_code": "56065", "lat": 43.931415, "lng": -93.92866, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blue Earth"}, {"fips": "161", "name": "Waseca"}, {"fips": "043", "name": "Faribault"}]}

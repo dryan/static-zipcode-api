@@ -1,1 +1,1 @@
-{"lat": 40.7143, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Meadow", "lng": -73.55527, "zip_code": "11554"}
+{"locality": "East Meadow", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Meadow"], "postal_code": "11554", "lat": 40.7143, "lng": -73.55527, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

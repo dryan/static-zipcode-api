@@ -1,1 +1,1 @@
-{"lat": 46.92752, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Medora", "lng": -103.56872, "zip_code": "58645"}
+{"locality": "Medora", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Medora"], "postal_code": "58645", "lat": 46.92752, "lng": -103.56872, "type": "STANDARD", "counties": [{"fips": "007", "name": "Billings"}, {"fips": "033", "name": "Golden Valley"}]}

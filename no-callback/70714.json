@@ -1,1 +1,1 @@
-{"lat": 30.584787, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Baker", "lng": -91.14763, "zip_code": "70714"}
+{"locality": "Baker", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Baker"], "postal_code": "70714", "lat": 30.584787, "lng": -91.14763, "type": "STANDARD", "counties": [{"fips": "033", "name": "East Baton Rouge"}]}

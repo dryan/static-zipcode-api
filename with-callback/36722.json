@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.079894, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Arlington", "lng": -87.57551, "zip_code": "36722"});
+zipapicallback({"locality": "Arlington", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Arlington"], "postal_code": "36722", "lat": 32.079894, "lng": -87.57551, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wilcox"}, {"fips": "091", "name": "Marengo"}]});

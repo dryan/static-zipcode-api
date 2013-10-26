@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.085113, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Poughkeepsie", "lng": -91.46586, "zip_code": "72569"});
+zipapicallback({"locality": "Poughkeepsie", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Poughkeepsie"], "postal_code": "72569", "lat": 36.085113, "lng": -91.46586, "type": "STANDARD", "counties": [{"fips": "135", "name": "Sharp"}]});

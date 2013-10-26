@@ -1,1 +1,1 @@
-zipapicallback({"lat": 62.94914, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Mcgrath", "lng": -155.57265, "zip_code": "99627"});
+zipapicallback({"locality": "Mc Grath", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Mc Grath"], "postal_code": "99627", "lat": 62.94914, "lng": -155.57265, "type": "POBOX", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]});

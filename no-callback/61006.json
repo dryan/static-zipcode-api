@@ -1,1 +1,1 @@
-{"lat": 41.865034, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ashton", "lng": -89.21536, "zip_code": "61006"}
+{"locality": "Ashton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ashton"], "postal_code": "61006", "lat": 41.865034, "lng": -89.21536, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lee"}, {"fips": "141", "name": "Ogle"}]}

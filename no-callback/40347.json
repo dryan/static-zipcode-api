@@ -1,1 +1,1 @@
-{"lat": 38.153759, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Midway", "lng": -84.70928, "zip_code": "40347"}
+{"locality": "Midway", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Midway"], "postal_code": "40347", "lat": 38.153759, "lng": -84.70928, "type": "STANDARD", "counties": [{"fips": "239", "name": "Woodford"}, {"fips": "209", "name": "Scott"}, {"fips": "073", "name": "Franklin"}]}

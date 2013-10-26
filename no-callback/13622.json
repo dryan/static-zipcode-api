@@ -1,1 +1,1 @@
-{"lat": 44.0958, "region": {"abbr": "NY", "name": "New York"}, "locality": "Chaumont", "lng": -76.11992, "zip_code": "13622"}
+{"locality": "Chaumont", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Chaumont"], "postal_code": "13622", "lat": 44.0958, "lng": -76.11992, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]}

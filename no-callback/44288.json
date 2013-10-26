@@ -1,1 +1,1 @@
-{"lat": 41.242864, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Windham", "lng": -81.07101, "zip_code": "44288"}
+{"locality": "Windham", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Windham"], "postal_code": "44288", "lat": 41.242864, "lng": -81.07101, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}, {"fips": "155", "name": "Trumbull"}, {"fips": "103", "name": "Medina"}]}

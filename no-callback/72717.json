@@ -1,1 +1,1 @@
-{"lat": 35.852946, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Canehill", "lng": -94.4219, "zip_code": "72717"}
+{"locality": "Canehill", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Canehill"], "postal_code": "72717", "lat": 35.852946, "lng": -94.4219, "type": "STANDARD", "counties": [{"fips": "143", "name": "Washington"}]}

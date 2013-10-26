@@ -1,1 +1,1 @@
-{"lat": 41.307688, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Brecksville", "lng": -81.61835, "zip_code": "44141"}
+{"locality": "Brecksville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Brecksville", "Cleveland"], "postal_code": "44141", "lat": 41.307688, "lng": -81.61835, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}, {"fips": "153", "name": "Summit"}]}

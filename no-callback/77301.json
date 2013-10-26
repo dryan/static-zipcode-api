@@ -1,1 +1,1 @@
-{"lat": 30.313308, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Conroe", "lng": -95.45085, "zip_code": "77301"}
+{"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe"], "postal_code": "77301", "lat": 30.313308, "lng": -95.45085, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]}

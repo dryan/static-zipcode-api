@@ -1,1 +1,1 @@
-{"lat": 40.072293, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Elkins Park", "lng": -75.12406, "zip_code": "19027"}
+{"locality": "Elkins Park", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Elkins Park", "Lamott", "Melrose", "Melrose Park"], "postal_code": "19027", "lat": 40.072293, "lng": -75.12406, "type": "STANDARD", "counties": []}

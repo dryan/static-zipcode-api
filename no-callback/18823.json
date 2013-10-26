@@ -1,1 +1,1 @@
-{"lat": 41.784395, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harford", "lng": -75.70091, "zip_code": "18823"}
+{"locality": "Harford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harford"], "postal_code": "18823", "lat": 41.784395, "lng": -75.70091, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]}

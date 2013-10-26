@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.442033, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Continental Divi", "lng": -108.32473, "zip_code": "87312"});
+zipapicallback({"locality": "Continental Divide", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Continental Divide", "Contnental Dv"], "postal_code": "87312", "lat": 35.442033, "lng": -108.32473, "type": "STANDARD", "counties": [{"fips": "031", "name": "McKinley"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.493575, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cannon Falls", "lng": -92.89402, "zip_code": "55009"}
+{"locality": "Cannon Falls", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cannon Falls"], "postal_code": "55009", "lat": 44.493575, "lng": -92.89402, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}, {"fips": "049", "name": "Goodhue"}]}

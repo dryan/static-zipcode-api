@@ -1,1 +1,1 @@
-{"lat": 39.803205, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sarahsville", "lng": -81.43368, "zip_code": "43779"}
+{"locality": "Sarahsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sarahsville"], "postal_code": "43779", "lat": 39.803205, "lng": -81.43368, "type": "STANDARD", "counties": [{"fips": "121", "name": "Noble"}]}

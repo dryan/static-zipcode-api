@@ -1,1 +1,1 @@
-{"lat": 48.058376, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fillmore", "lng": -99.77766, "zip_code": "58332"}
+{"locality": "Esmond", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Esmond", "Fillmore"], "postal_code": "58332", "lat": 48.058376, "lng": -99.77766, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}, {"fips": "069", "name": "Pierce"}]}

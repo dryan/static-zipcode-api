@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.034766, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Kila", "lng": -114.49865, "zip_code": "59920"});
+zipapicallback({"locality": "Kila", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Kila"], "postal_code": "59920", "lat": 48.034766, "lng": -114.49865, "type": "STANDARD", "counties": [{"fips": "029", "name": "Flathead"}]});

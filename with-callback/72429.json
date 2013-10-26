@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.49293, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Fisher", "lng": -90.95873, "zip_code": "72429"});
+zipapicallback({"locality": "Fisher", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Fisher"], "postal_code": "72429", "lat": 35.49293, "lng": -90.95873, "type": "STANDARD", "counties": [{"fips": "111", "name": "Poinsett"}]});

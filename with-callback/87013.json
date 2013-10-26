@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.869051, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cuba", "lng": -107.40227, "zip_code": "87013"});
+zipapicallback({"locality": "Cuba", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cuba", "Ojo Encino"], "postal_code": "87013", "lat": 35.869051, "lng": -107.40227, "type": "STANDARD", "counties": [{"fips": "043", "name": "Sandoval"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.054666, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Willernie", "lng": -92.95703, "zip_code": "55090"});
+zipapicallback({"locality": "Willernie", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Willernie"], "postal_code": "55090", "lat": 45.054666, "lng": -92.95703, "type": "POBOX", "counties": [{"fips": "163", "name": "Washington"}]});

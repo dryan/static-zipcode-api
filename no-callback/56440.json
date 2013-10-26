@@ -1,1 +1,1 @@
-{"lat": 46.129933, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Clarissa", "lng": -94.95278, "zip_code": "56440"}
+{"locality": "Clarissa", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Clarissa"], "postal_code": "56440", "lat": 46.129933, "lng": -94.95278, "type": "STANDARD", "counties": [{"fips": "153", "name": "Todd"}]}

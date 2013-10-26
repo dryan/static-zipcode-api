@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.011464, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Petrolia", "lng": -98.22961, "zip_code": "76377"});
+zipapicallback({"locality": "Petrolia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Petrolia"], "postal_code": "76377", "lat": 34.011464, "lng": -98.22961, "type": "STANDARD", "counties": [{"fips": "077", "name": "Clay"}]});

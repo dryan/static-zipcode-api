@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.138405, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Acme", "lng": -79.42425, "zip_code": "15610"});
+zipapicallback({"locality": "Acme", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Acme"], "postal_code": "15610", "lat": 40.138405, "lng": -79.42425, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

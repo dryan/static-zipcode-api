@@ -1,1 +1,1 @@
-{"lat": 40.658188, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kew Gardens", "lng": -73.84321, "zip_code": "11414"}
+{"locality": "Howard Beach", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Howard Beach", "Jamaica"], "postal_code": "11414", "lat": 40.658188, "lng": -73.84321, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

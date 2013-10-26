@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.325136, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Blain", "lng": -77.52681, "zip_code": "17006"});
+zipapicallback({"locality": "Blain", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Blain"], "postal_code": "17006", "lat": 40.325136, "lng": -77.52681, "type": "STANDARD", "counties": [{"fips": "099", "name": "Perry"}]});

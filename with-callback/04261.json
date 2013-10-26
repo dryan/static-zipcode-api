@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.570532, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Newry", "lng": -70.87599, "zip_code": "04261"});
+zipapicallback({"locality": "Newry", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Newry", "Upton"], "postal_code": "04261", "lat": 44.570532, "lng": -70.87599, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

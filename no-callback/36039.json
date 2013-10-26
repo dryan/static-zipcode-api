@@ -1,1 +1,1 @@
-{"lat": 32.28032, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hardaway", "lng": -85.81979, "zip_code": "36039"}
+{"locality": "Hardaway", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hardaway"], "postal_code": "36039", "lat": 32.28032, "lng": -85.81979, "type": "STANDARD", "counties": [{"fips": "087", "name": "MacOn"}]}

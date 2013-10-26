@@ -1,1 +1,1 @@
-{"lat": 32.21649, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Vealmoor", "lng": -101.4532, "zip_code": "79720"}
+{"locality": "Big Spring", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Big Spring", "Vealmoor"], "postal_code": "79720", "lat": 32.21649, "lng": -101.4532, "type": "STANDARD", "counties": [{"fips": "227", "name": "Howard"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.028989, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Centenary", "lng": -79.3594, "zip_code": "29519"}
+{"locality": "Centenary", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Centenary"], "postal_code": "29519", "lat": 34.028989, "lng": -79.3594, "type": "POBOX", "counties": [{"fips": "067", "name": "Marion"}]}

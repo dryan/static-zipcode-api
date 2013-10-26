@@ -1,1 +1,1 @@
-{"lat": 39.475166, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Luke", "lng": -79.05968, "zip_code": "21540"}
+{"locality": "Luke", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Luke", "Westernport"], "postal_code": "21540", "lat": 39.475166, "lng": -79.05968, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allegany"}]}

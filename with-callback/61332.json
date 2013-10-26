@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.190024, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Leonore", "lng": -88.98238, "zip_code": "61332"});
+zipapicallback({"locality": "Leonore", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Leonore"], "postal_code": "61332", "lat": 41.190024, "lng": -88.98238, "type": "POBOX", "counties": [{"fips": "099", "name": "La Salle"}]});

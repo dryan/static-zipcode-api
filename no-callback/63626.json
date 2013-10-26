@@ -1,1 +1,1 @@
-{"lat": 38.053566, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Blackwell", "lng": -90.64229, "zip_code": "63626"}
+{"locality": "Blackwell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blackwell"], "postal_code": "63626", "lat": 38.053566, "lng": -90.64229, "type": "STANDARD", "counties": [{"fips": "187", "name": "St Francois"}, {"fips": "221", "name": "Washington"}]}

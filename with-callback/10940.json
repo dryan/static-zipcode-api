@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.449364, "region": {"abbr": "NY", "name": "New York"}, "locality": "Scotchtown", "lng": -74.43951, "zip_code": "10940"});
+zipapicallback({"locality": "Middletown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Middletown", "Scotchtown", "Scotchtown Branch"], "postal_code": "10940", "lat": 41.449364, "lng": -74.43951, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

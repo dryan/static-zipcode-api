@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.662293, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rochester Hills", "lng": -83.12781, "zip_code": "48307"});
+zipapicallback({"locality": "Rochester", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rochester", "Rochester Hills", "Rochester Hls"], "postal_code": "48307", "lat": 42.662293, "lng": -83.12781, "type": "STANDARD", "counties": []});

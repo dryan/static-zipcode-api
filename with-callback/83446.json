@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.397984, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Spencer", "lng": -112.20206, "zip_code": "83446"});
+zipapicallback({"locality": "Spencer", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Dubois", "Spencer"], "postal_code": "83446", "lat": 44.397984, "lng": -112.20206, "type": "STANDARD", "counties": []});

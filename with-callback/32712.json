@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.713173, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Apopka", "lng": -81.52359, "zip_code": "32712"});
+zipapicallback({"locality": "Apopka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Apopka"], "postal_code": "32712", "lat": 28.713173, "lng": -81.52359, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]});

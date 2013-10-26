@@ -1,1 +1,1 @@
-{"lat": 34.369441, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Winnsboro", "lng": -81.08218, "zip_code": "29180"}
+{"locality": "Winnsboro", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["White Oak", "Winnsboro"], "postal_code": "29180", "lat": 34.369441, "lng": -81.08218, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fairfield"}, {"fips": "079", "name": "Richland"}]}

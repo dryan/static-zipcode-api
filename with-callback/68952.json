@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.142355, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Inavale", "lng": -98.66952, "zip_code": "68952"});
+zipapicallback({"locality": "Inavale", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Inavale"], "postal_code": "68952", "lat": 40.142355, "lng": -98.66952, "type": "STANDARD", "counties": [{"fips": "181", "name": "Webster"}]});

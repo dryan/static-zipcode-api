@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.379029, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Perkasie", "lng": -75.25926, "zip_code": "18944"});
+zipapicallback({"locality": "Perkasie", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Perkasie"], "postal_code": "18944", "lat": 40.379029, "lng": -75.25926, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]});

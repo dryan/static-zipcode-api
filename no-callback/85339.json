@@ -1,1 +1,1 @@
-{"lat": 33.352795, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Laveen", "lng": -112.16752, "zip_code": "85339"}
+{"locality": "Laveen", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Laveen"], "postal_code": "85339", "lat": 33.352795, "lng": -112.16752, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

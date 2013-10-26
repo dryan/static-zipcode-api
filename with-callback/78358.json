@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.065865, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fulton", "lng": -97.04066, "zip_code": "78358"});
+zipapicallback({"locality": "Fulton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fulton"], "postal_code": "78358", "lat": 28.065865, "lng": -97.04066, "type": "POBOX", "counties": [{"fips": "007", "name": "Aransas"}]});

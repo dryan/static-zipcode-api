@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.523212, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Frontenac", "lng": -92.33216, "zip_code": "55026"});
+zipapicallback({"locality": "Frontenac", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Frontenac"], "postal_code": "55026", "lat": 44.523212, "lng": -92.33216, "type": "STANDARD", "counties": [{"fips": "049", "name": "Goodhue"}]});

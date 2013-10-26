@@ -1,1 +1,1 @@
-{"lat": 40.7953, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Elida", "lng": -84.16573, "zip_code": "45807"}
+{"locality": "Lima", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Elida", "Lima"], "postal_code": "45807", "lat": 40.7953, "lng": -84.16573, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}, {"fips": "137", "name": "Putnam"}]}

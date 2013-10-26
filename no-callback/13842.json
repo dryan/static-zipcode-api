@@ -1,1 +1,1 @@
-{"lat": 42.376254, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Kortright", "lng": -74.72258, "zip_code": "13842"}
+{"locality": "South Kortright", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["S Kortright", "South Kortright"], "postal_code": "13842", "lat": 42.376254, "lng": -74.72258, "type": "STANDARD", "counties": [{"fips": "025", "name": "Delaware"}]}

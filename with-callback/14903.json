@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.129274, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elmira Heights", "lng": -76.84497, "zip_code": "14903"});
+zipapicallback({"locality": "Elmira", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elmira", "Elmira Heights", "Elmira Hgts", "Elmira Hts"], "postal_code": "14903", "lat": 42.129274, "lng": -76.84497, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chemung"}]});

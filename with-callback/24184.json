@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.068743, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Wirtz", "lng": -79.74911, "zip_code": "24184"});
+zipapicallback({"locality": "Wirtz", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Burnt Chimney", "Wirtz"], "postal_code": "24184", "lat": 37.068743, "lng": -79.74911, "type": "STANDARD", "counties": [{"fips": "067", "name": "Franklin"}]});

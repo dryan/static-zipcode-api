@@ -1,1 +1,1 @@
-{"lat": 37.654267, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Talcott", "lng": -80.72899, "zip_code": "24981"}
+{"locality": "Talcott", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ballengee", "Talcott"], "postal_code": "24981", "lat": 37.654267, "lng": -80.72899, "type": "STANDARD", "counties": [{"fips": "089", "name": "Summers"}, {"fips": "063", "name": "Monroe"}]}

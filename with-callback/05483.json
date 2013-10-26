@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.884125, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Sheldon", "lng": -72.9751, "zip_code": "05483"});
+zipapicallback({"locality": "Sheldon", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Sheldon"], "postal_code": "05483", "lat": 44.884125, "lng": -72.9751, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.74897, "region": {"abbr": "NY", "name": "New York"}, "locality": "Blue Point", "lng": -73.03436, "zip_code": "11715"});
+zipapicallback({"locality": "Blue Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Blue Point"], "postal_code": "11715", "lat": 40.74897, "lng": -73.03436, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

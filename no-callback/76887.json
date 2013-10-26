@@ -1,1 +1,1 @@
-{"lat": 30.973049, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Voca", "lng": -99.17091, "zip_code": "76887"}
+{"locality": "Voca", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Voca"], "postal_code": "76887", "lat": 30.973049, "lng": -99.17091, "type": "STANDARD", "counties": [{"fips": "307", "name": "McCulloch"}]}

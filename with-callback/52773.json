@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.617234, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Walcott", "lng": -90.75849, "zip_code": "52773"});
+zipapicallback({"locality": "Walcott", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Maysville", "Walcott"], "postal_code": "52773", "lat": 41.617234, "lng": -90.75849, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]});

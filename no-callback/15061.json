@@ -1,1 +1,1 @@
-{"lat": 40.677132, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Monaca", "lng": -80.28881, "zip_code": "15061"}
+{"locality": "Monaca", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Monaca"], "postal_code": "15061", "lat": 40.677132, "lng": -80.28881, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.402823, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Meadow", "lng": -102.13021, "zip_code": "57644"});
+zipapicallback({"locality": "Meadow", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Glad Valley", "Meadow"], "postal_code": "57644", "lat": 45.402823, "lng": -102.13021, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perkins"}, {"fips": "031", "name": "Corson"}, {"fips": "137", "name": "Ziebach"}]});

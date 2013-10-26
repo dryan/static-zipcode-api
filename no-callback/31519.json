@@ -1,1 +1,1 @@
-{"lat": 31.67654, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Broxton", "lng": -82.88991, "zip_code": "31519"}
+{"locality": "Broxton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Broxton"], "postal_code": "31519", "lat": 31.67654, "lng": -82.88991, "type": "STANDARD", "counties": [{"fips": "069", "name": "Coffee"}, {"fips": "161", "name": "Jeff Davis"}]}

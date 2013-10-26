@@ -1,1 +1,1 @@
-{"lat": 41.009414, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Rockleigh", "lng": -73.94849, "zip_code": "07647"}
+{"locality": "Northvale", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Northvale", "Rockleigh"], "postal_code": "07647", "lat": 41.009414, "lng": -73.94849, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

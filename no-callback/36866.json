@@ -1,1 +1,1 @@
-{"lat": 32.551474, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Notasulga", "lng": -85.69859, "zip_code": "36866"}
+{"locality": "Notasulga", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Notasulga"], "postal_code": "36866", "lat": 32.551474, "lng": -85.69859, "type": "STANDARD", "counties": [{"fips": "087", "name": "MacOn"}, {"fips": "081", "name": "Lee"}, {"fips": "123", "name": "Tallapoosa"}]}

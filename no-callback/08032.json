@@ -1,1 +1,1 @@
-{"lat": 39.781264, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Grenloch", "lng": -75.0609, "zip_code": "08032"}
+{"locality": "Grenloch", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Grenloch"], "postal_code": "08032", "lat": 39.781264, "lng": -75.0609, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

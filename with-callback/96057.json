@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.263103, "region": {"abbr": "CA", "name": "California"}, "locality": "Mccloud", "lng": -122.10297, "zip_code": "96057"});
+zipapicallback({"locality": "Mccloud", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mccloud"], "postal_code": "96057", "lat": 41.263103, "lng": -122.10297, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

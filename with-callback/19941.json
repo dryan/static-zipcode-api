@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.80136, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Ellendale", "lng": -75.42595, "zip_code": "19941"});
+zipapicallback({"locality": "Ellendale", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Ellendale"], "postal_code": "19941", "lat": 38.80136, "lng": -75.42595, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

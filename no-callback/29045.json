@@ -1,1 +1,1 @@
-{"lat": 34.1699, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Elgin", "lng": -80.81448, "zip_code": "29045"}
+{"locality": "Elgin", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Elgin"], "postal_code": "29045", "lat": 34.1699, "lng": -80.81448, "type": "STANDARD", "counties": [{"fips": "055", "name": "Kershaw"}, {"fips": "079", "name": "Richland"}, {"fips": "039", "name": "Fairfield"}]}

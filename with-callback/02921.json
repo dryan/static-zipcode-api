@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.76435, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Cranston", "lng": -71.50972, "zip_code": "02921"});
+zipapicallback({"locality": "Cranston", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Cranston"], "postal_code": "02921", "lat": 41.76435, "lng": -71.50972, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]});

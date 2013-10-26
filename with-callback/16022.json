@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.057142, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bruin", "lng": -79.73005, "zip_code": "16022"});
+zipapicallback({"locality": "Bruin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bruin"], "postal_code": "16022", "lat": 41.057142, "lng": -79.73005, "type": "POBOX", "counties": [{"fips": "019", "name": "Butler"}]});

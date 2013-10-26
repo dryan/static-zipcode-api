@@ -1,1 +1,1 @@
-{"lat": 30.226399, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lake Charles", "lng": -93.20496, "zip_code": "70601"}
+{"locality": "Lake Charles", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lake Charles"], "postal_code": "70601", "lat": 30.226399, "lng": -93.20496, "type": "STANDARD", "counties": [{"fips": "019", "name": "Calcasieu"}]}

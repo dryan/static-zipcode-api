@@ -1,1 +1,1 @@
-{"lat": 35.759271, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Glorieta", "lng": -105.74841, "zip_code": "87535"}
+{"locality": "Glorieta", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Glorieta"], "postal_code": "87535", "lat": 35.759271, "lng": -105.74841, "type": "STANDARD", "counties": [{"fips": "049", "name": "Santa Fe"}]}

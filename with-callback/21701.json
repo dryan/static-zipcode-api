@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.423344, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Lewistown", "lng": -77.38902, "zip_code": "21701"});
+zipapicallback({"locality": "Frederick", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Frederick", "Lewistown"], "postal_code": "21701", "lat": 39.423344, "lng": -77.38902, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.685027, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Goliad", "lng": -97.40221, "zip_code": "77963"});
+zipapicallback({"locality": "Goliad", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Goliad"], "postal_code": "77963", "lat": 28.685027, "lng": -97.40221, "type": "STANDARD", "counties": [{"fips": "175", "name": "Goliad"}]});

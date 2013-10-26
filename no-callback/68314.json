@@ -1,1 +1,1 @@
-{"lat": 41.009984, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bee", "lng": -97.03437, "zip_code": "68314"}
+{"locality": "Bee", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bee"], "postal_code": "68314", "lat": 41.009984, "lng": -97.03437, "type": "STANDARD", "counties": [{"fips": "159", "name": "Seward"}, {"fips": "023", "name": "Butler"}]}

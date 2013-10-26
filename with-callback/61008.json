@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.257229, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Belvidere", "lng": -88.84755, "zip_code": "61008"});
+zipapicallback({"locality": "Belvidere", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Belvidere"], "postal_code": "61008", "lat": 42.257229, "lng": -88.84755, "type": "STANDARD", "counties": [{"fips": "007", "name": "Boone"}]});

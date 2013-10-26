@@ -1,1 +1,1 @@
-{"lat": 42.552218, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dansville", "lng": -84.27674, "zip_code": "48819"}
+{"locality": "Dansville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dansville"], "postal_code": "48819", "lat": 42.552218, "lng": -84.27674, "type": "STANDARD", "counties": [{"fips": "065", "name": "Ingham"}]}

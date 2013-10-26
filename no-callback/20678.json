@@ -1,1 +1,1 @@
-{"lat": 38.535116, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Prince Frederick", "lng": -76.58432, "zip_code": "20678"}
+{"locality": "Prince Frederick", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Dares Beach", "Prince Frederick", "Prnc Frederck"], "postal_code": "20678", "lat": 38.535116, "lng": -76.58432, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]}

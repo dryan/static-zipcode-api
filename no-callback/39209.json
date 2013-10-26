@@ -1,1 +1,1 @@
-{"lat": 32.325512, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Jackson", "lng": -90.25709, "zip_code": "39209"}
+{"locality": "Jackson", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Jackson"], "postal_code": "39209", "lat": 32.325512, "lng": -90.25709, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hinds"}, {"fips": "089", "name": "Madison"}]}

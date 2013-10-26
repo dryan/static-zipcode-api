@@ -1,1 +1,1 @@
-{"lat": 38.996004, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Woodland Park", "lng": -105.06335, "zip_code": "80863"}
+{"locality": "Woodland Park", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Woodland Park"], "postal_code": "80863", "lat": 38.996004, "lng": -105.06335, "type": "STANDARD", "counties": [{"fips": "119", "name": "Teller"}]}

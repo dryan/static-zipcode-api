@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.202464, "region": {"abbr": "CA", "name": "California"}, "locality": "Zenia", "lng": -123.46646, "zip_code": "95595"});
+zipapicallback({"locality": "Zenia", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Zenia"], "postal_code": "95595", "lat": 40.202464, "lng": -123.46646, "type": "STANDARD", "counties": []});

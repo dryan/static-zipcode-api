@@ -1,1 +1,1 @@
-{"lat": 27.98706, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dover", "lng": -82.21357, "zip_code": "33527"}
+{"locality": "Dover", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dover"], "postal_code": "33527", "lat": 27.98706, "lng": -82.21357, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.613786, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cache", "lng": -98.62492, "zip_code": "73527"});
+zipapicallback({"locality": "Cache", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cache"], "postal_code": "73527", "lat": 34.613786, "lng": -98.62492, "type": "STANDARD", "counties": [{"fips": "031", "name": "Comanche"}]});

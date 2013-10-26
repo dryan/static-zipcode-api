@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.865507, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Grady", "lng": -103.40619, "zip_code": "88120"});
+zipapicallback({"locality": "Grady", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Grady"], "postal_code": "88120", "lat": 34.865507, "lng": -103.40619, "type": "STANDARD", "counties": [{"fips": "037", "name": "Quay"}]});

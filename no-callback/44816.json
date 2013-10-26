@@ -1,1 +1,1 @@
-{"lat": 41.331398, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Birmingham", "lng": -82.35278, "zip_code": "44816"}
+{"locality": "Birmingham", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Birmingham"], "postal_code": "44816", "lat": 41.331398, "lng": -82.35278, "type": "POBOX", "counties": [{"fips": "043", "name": "Erie"}]}

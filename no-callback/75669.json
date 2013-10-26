@@ -1,1 +1,1 @@
-{"lat": 32.03719, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Long Branch", "lng": -94.57688, "zip_code": "75669"}
+{"locality": "Long Branch", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Long Branch"], "postal_code": "75669", "lat": 32.03719, "lng": -94.57688, "type": "STANDARD", "counties": [{"fips": "365", "name": "Panola"}, {"fips": "401", "name": "Rusk"}]}

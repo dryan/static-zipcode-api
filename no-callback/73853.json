@@ -1,1 +1,1 @@
-{"lat": 36.223999, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mutual", "lng": -99.1237, "zip_code": "73853"}
+{"locality": "Mutual", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mutual"], "postal_code": "73853", "lat": 36.223999, "lng": -99.1237, "type": "STANDARD", "counties": [{"fips": "153", "name": "Woodward"}]}

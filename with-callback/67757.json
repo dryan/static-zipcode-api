@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.534756, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Selden", "lng": -100.59954, "zip_code": "67757"});
+zipapicallback({"locality": "Selden", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Selden"], "postal_code": "67757", "lat": 39.534756, "lng": -100.59954, "type": "STANDARD", "counties": [{"fips": "179", "name": "Sheridan"}, {"fips": "153", "name": "Rawlins"}, {"fips": "193", "name": "Thomas"}, {"fips": "039", "name": "Decatur"}]});

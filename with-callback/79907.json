@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.70831, "region": {"abbr": "TX", "name": "Texas"}, "locality": "El Paso", "lng": -106.32749, "zip_code": "79907"});
+zipapicallback({"locality": "El Paso", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["El Paso", "Ysleta Del Sur Pueblo", "Ysleta Sur"], "postal_code": "79907", "lat": 31.70831, "lng": -106.32749, "type": "STANDARD", "counties": [{"fips": "141", "name": "El Paso"}]});

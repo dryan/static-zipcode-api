@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.031837, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Graham", "lng": -79.37815, "zip_code": "27253"});
+zipapicallback({"locality": "Graham", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Graham"], "postal_code": "27253", "lat": 36.031837, "lng": -79.37815, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alamance"}]});

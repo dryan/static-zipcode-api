@@ -1,1 +1,1 @@
-{"lat": 43.644559, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Meredith", "lng": -71.50488, "zip_code": "03253"}
+{"locality": "Meredith", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Meredith"], "postal_code": "03253", "lat": 43.644559, "lng": -71.50488, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}]}

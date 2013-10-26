@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.457806, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Anna", "lng": -89.21408, "zip_code": "62906"});
+zipapicallback({"locality": "Anna", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Anna"], "postal_code": "62906", "lat": 37.457806, "lng": -89.21408, "type": "STANDARD", "counties": [{"fips": "181", "name": "Union"}]});

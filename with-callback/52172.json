@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.265791, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Waukon", "lng": -91.47755, "zip_code": "52172"});
+zipapicallback({"locality": "Waukon", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Waukon"], "postal_code": "52172", "lat": 43.265791, "lng": -91.47755, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allamakee"}]});

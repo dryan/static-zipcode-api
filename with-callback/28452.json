@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.997345, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Longwood", "lng": -78.5565, "zip_code": "28452"});
+zipapicallback({"locality": "Longwood", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Longwood"], "postal_code": "28452", "lat": 33.997345, "lng": -78.5565, "type": "STANDARD", "counties": [{"fips": "019", "name": "Brunswick"}]});

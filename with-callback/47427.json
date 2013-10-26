@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.232338, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Coal City", "lng": -87.03271, "zip_code": "47427"});
+zipapicallback({"locality": "Coal City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Coal City"], "postal_code": "47427", "lat": 39.232338, "lng": -87.03271, "type": "STANDARD", "counties": [{"fips": "119", "name": "Owen"}, {"fips": "021", "name": "Clay"}]});

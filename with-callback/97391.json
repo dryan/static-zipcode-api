@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.626888, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Toledo", "lng": -123.91515, "zip_code": "97391"});
+zipapicallback({"locality": "Toledo", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Toledo"], "postal_code": "97391", "lat": 44.626888, "lng": -123.91515, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}, {"fips": "047", "name": "Marion"}]});

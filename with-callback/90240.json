@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.958363, "region": {"abbr": "CA", "name": "California"}, "locality": "Downey", "lng": -118.11987, "zip_code": "90240"});
+zipapicallback({"locality": "Downey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Downey"], "postal_code": "90240", "lat": 33.958363, "lng": -118.11987, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

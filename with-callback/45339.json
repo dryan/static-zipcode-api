@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.008648, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Ludlow Falls", "lng": -84.34143, "zip_code": "45339"});
+zipapicallback({"locality": "Ludlow Falls", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Ludlow Falls"], "postal_code": "45339", "lat": 40.008648, "lng": -84.34143, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}]});

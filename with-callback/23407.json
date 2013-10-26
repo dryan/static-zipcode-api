@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.848467, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mappsville", "lng": -75.55559, "zip_code": "23407"});
+zipapicallback({"locality": "Mappsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mappsville"], "postal_code": "23407", "lat": 37.848467, "lng": -75.55559, "type": "POBOX", "counties": [{"fips": "001", "name": "Accomack"}]});

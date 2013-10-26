@@ -1,1 +1,1 @@
-{"lat": 38.456608, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Argillite", "lng": -82.82615, "zip_code": "41121"}
+{"locality": "Argillite", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Argillite"], "postal_code": "41121", "lat": 38.456608, "lng": -82.82615, "type": "STANDARD", "counties": [{"fips": "089", "name": "Greenup"}]}

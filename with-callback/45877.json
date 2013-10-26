@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.945888, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pandora", "lng": -83.9514, "zip_code": "45877"});
+zipapicallback({"locality": "Pandora", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pandora"], "postal_code": "45877", "lat": 40.945888, "lng": -83.9514, "type": "STANDARD", "counties": [{"fips": "137", "name": "Putnam"}, {"fips": "003", "name": "Allen"}, {"fips": "063", "name": "Hancock"}]});

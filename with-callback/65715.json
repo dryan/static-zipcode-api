@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.733415, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Noble", "lng": -92.58195, "zip_code": "65715"});
+zipapicallback({"locality": "Noble", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Noble"], "postal_code": "65715", "lat": 36.733415, "lng": -92.58195, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]});

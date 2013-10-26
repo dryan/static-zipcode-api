@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.502772, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Steamboat Spring", "lng": -106.87521, "zip_code": "80487"});
+zipapicallback({"locality": "Steamboat Springs", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Steamboat Spr", "Steamboat Springs"], "postal_code": "80487", "lat": 40.502772, "lng": -106.87521, "type": "STANDARD", "counties": [{"fips": "107", "name": "Routt"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.833053, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mc Dermott", "lng": -83.07498, "zip_code": "45652"}
+{"locality": "Mc Dermott", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mc Dermott"], "postal_code": "45652", "lat": 38.833053, "lng": -83.07498, "type": "STANDARD", "counties": [{"fips": "145", "name": "Scioto"}]}

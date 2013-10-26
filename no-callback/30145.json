@@ -1,1 +1,1 @@
-{"lat": 34.237986, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Kingston", "lng": -84.97801, "zip_code": "30145"}
+{"locality": "Kingston", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Euharlee", "Kingston"], "postal_code": "30145", "lat": 34.237986, "lng": -84.97801, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bartow"}, {"fips": "115", "name": "Floyd"}]}

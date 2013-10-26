@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.485178, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Roswell", "lng": -104.55089, "zip_code": "88201"});
+zipapicallback({"locality": "Roswell", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Border Hill", "Pine Lodge", "Roswell"], "postal_code": "88201", "lat": 33.485178, "lng": -104.55089, "type": "STANDARD", "counties": [{"fips": "005", "name": "Chaves"}, {"fips": "009", "name": "Curry"}]});

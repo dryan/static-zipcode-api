@@ -1,1 +1,1 @@
-{"lat": 41.010376, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rye Brook", "lng": -73.67326, "zip_code": "10573"}
+{"locality": "Port Chester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Port Chester", "Rye Brook"], "postal_code": "10573", "lat": 41.010376, "lng": -73.67326, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

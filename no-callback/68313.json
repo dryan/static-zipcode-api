@@ -1,1 +1,1 @@
-{"lat": 40.781788, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Beaver Crossing", "lng": -97.26849, "zip_code": "68313"}
+{"locality": "Beaver Crossing", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Beaver Crossing", "Beaver Xing"], "postal_code": "68313", "lat": 40.781788, "lng": -97.26849, "type": "STANDARD", "counties": [{"fips": "159", "name": "Seward"}, {"fips": "185", "name": "York"}]}

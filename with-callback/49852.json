@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.781167, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Loretto", "lng": -87.81759, "zip_code": "49852"});
+zipapicallback({"locality": "Loretto", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Loretto", "Vulcan"], "postal_code": "49852", "lat": 45.781167, "lng": -87.81759, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dickinson"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.500486, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Keytesville", "lng": -92.9155, "zip_code": "65261"}
+{"locality": "Keytesville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Keytesville"], "postal_code": "65261", "lat": 39.500486, "lng": -92.9155, "type": "STANDARD", "counties": [{"fips": "041", "name": "Chariton"}]}

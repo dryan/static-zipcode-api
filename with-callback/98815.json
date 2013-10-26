@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.522546, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Cashmere", "lng": -120.48966, "zip_code": "98815"});
+zipapicallback({"locality": "Cashmere", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Cashmere"], "postal_code": "98815", "lat": 47.522546, "lng": -120.48966, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}]});

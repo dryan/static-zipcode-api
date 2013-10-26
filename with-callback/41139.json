@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.52032, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Flatwoods", "lng": -82.72175, "zip_code": "41139"});
+zipapicallback({"locality": "Flatwoods", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Flatwoods"], "postal_code": "41139", "lat": 38.52032, "lng": -82.72175, "type": "STANDARD", "counties": [{"fips": "089", "name": "Greenup"}]});

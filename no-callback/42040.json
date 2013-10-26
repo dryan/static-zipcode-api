@@ -1,1 +1,1 @@
-{"lat": 36.614839, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Farmington", "lng": -88.5005, "zip_code": "42040"}
+{"locality": "Farmington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Farmington"], "postal_code": "42040", "lat": 36.614839, "lng": -88.5005, "type": "STANDARD", "counties": [{"fips": "083", "name": "Graves"}]}

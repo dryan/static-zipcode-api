@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.219132, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Otter Lake", "lng": -83.42227, "zip_code": "48464"});
+zipapicallback({"locality": "Otter Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Otter Lake"], "postal_code": "48464", "lat": 43.219132, "lng": -83.42227, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}, {"fips": "049", "name": "Genesee"}, {"fips": "157", "name": "Tuscola"}]});

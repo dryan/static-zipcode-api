@@ -1,1 +1,1 @@
-{"lat": 41.115512, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ogallala", "lng": -101.69819, "zip_code": "69153"}
+{"locality": "Ogallala", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ogallala"], "postal_code": "69153", "lat": 41.115512, "lng": -101.69819, "type": "STANDARD", "counties": [{"fips": "101", "name": "Keith"}, {"fips": "135", "name": "Perkins"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.590652, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Webster Groves", "lng": -90.35168, "zip_code": "63119"});
+zipapicallback({"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Louis", "Webster Groves", "Webster Grvs"], "postal_code": "63119", "lat": 38.590652, "lng": -90.35168, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

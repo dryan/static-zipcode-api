@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.866763, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mars Hill", "lng": -82.52043, "zip_code": "28754"});
+zipapicallback({"locality": "Mars Hill", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mars Hill"], "postal_code": "28754", "lat": 35.866763, "lng": -82.52043, "type": "STANDARD", "counties": [{"fips": "115", "name": "Madison"}, {"fips": "199", "name": "Yancey"}]});

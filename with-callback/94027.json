@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.458615, "region": {"abbr": "CA", "name": "California"}, "locality": "Atherton", "lng": -122.20009, "zip_code": "94027"});
+zipapicallback({"locality": "Atherton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Atherton", "Menlo Park"], "postal_code": "94027", "lat": 37.458615, "lng": -122.20009, "type": "STANDARD", "counties": []});

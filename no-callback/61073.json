@@ -1,1 +1,1 @@
-{"lat": 42.419097, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Roscoe", "lng": -89.00407, "zip_code": "61073"}
+{"locality": "Roscoe", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Roscoe"], "postal_code": "61073", "lat": 42.419097, "lng": -89.00407, "type": "STANDARD", "counties": [{"fips": "201", "name": "Winnebago"}, {"fips": "007", "name": "Boone"}]}

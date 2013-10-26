@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.294797, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "South Lyme", "lng": -72.25602, "zip_code": "06376"});
+zipapicallback({"locality": "South Lyme", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["South Lyme"], "postal_code": "06376", "lat": 41.294797, "lng": -72.25602, "type": "POBOX", "counties": [{"fips": "011", "name": "New London"}]});

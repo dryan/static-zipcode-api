@@ -1,1 +1,1 @@
-{"lat": 33.159848, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Roanoke", "lng": -85.36865, "zip_code": "36274"}
+{"locality": "Roanoke", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Roanoke"], "postal_code": "36274", "lat": 33.159848, "lng": -85.36865, "type": "STANDARD", "counties": [{"fips": "111", "name": "Randolph"}, {"fips": "017", "name": "Chambers"}]}

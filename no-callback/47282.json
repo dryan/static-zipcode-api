@@ -1,1 +1,1 @@
-{"lat": 38.982269, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Vernon", "lng": -85.60914, "zip_code": "47282"}
+{"locality": "Vernon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Vernon"], "postal_code": "47282", "lat": 38.982269, "lng": -85.60914, "type": "POBOX", "counties": [{"fips": "079", "name": "Jennings"}]}

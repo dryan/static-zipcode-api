@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.364214, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tightwad", "lng": -93.76042, "zip_code": "64735"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clinton"], "postal_code": "64735", "lat": 38.364214, "lng": -93.76042, "type": "STANDARD", "counties": [{"fips": "083", "name": "Henry"}, {"fips": "015", "name": "Benton"}]});

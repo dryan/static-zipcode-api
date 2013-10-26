@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.849008, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Trees", "lng": -93.97599, "zip_code": "71082"});
+zipapicallback({"locality": "Vivian", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Trees", "Vivian"], "postal_code": "71082", "lat": 32.849008, "lng": -93.97599, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.243062, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "La Prairie", "lng": -93.52599, "zip_code": "55744"}
+{"locality": "Grand Rapids", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Grand Rapids"], "postal_code": "55744", "lat": 47.243062, "lng": -93.52599, "type": "STANDARD", "counties": [{"fips": "061", "name": "Itasca"}, {"fips": "001", "name": "Aitkin"}]}

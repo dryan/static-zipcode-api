@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.096094, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Rogerson", "lng": -115.02366, "zip_code": "83302"});
+zipapicallback({"locality": "Rogerson", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Rogerson", "Twin Falls"], "postal_code": "83302", "lat": 42.096094, "lng": -115.02366, "type": "STANDARD", "counties": [{"fips": "083", "name": "Twin Falls"}, {"fips": "073", "name": "Owyhee"}]});

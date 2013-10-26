@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.763553, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lakemont", "lng": -83.44201, "zip_code": "30552"});
+zipapicallback({"locality": "Lakemont", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lakemont"], "postal_code": "30552", "lat": 34.763553, "lng": -83.44201, "type": "STANDARD", "counties": [{"fips": "241", "name": "Rabun"}]});

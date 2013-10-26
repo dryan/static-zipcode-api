@@ -1,1 +1,1 @@
-{"lat": 47.83202, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Cartwright", "lng": -103.886, "zip_code": "58838"}
+{"locality": "Cartwright", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Cartwright"], "postal_code": "58838", "lat": 47.83202, "lng": -103.886, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}]}

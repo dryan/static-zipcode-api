@@ -1,1 +1,1 @@
-{"lat": 38.685117, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Manassas", "lng": -77.44796, "zip_code": "20112"}
+{"locality": "Manassas", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Manassas"], "postal_code": "20112", "lat": 38.685117, "lng": -77.44796, "type": "STANDARD", "counties": []}

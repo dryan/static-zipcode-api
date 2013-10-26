@@ -1,1 +1,1 @@
-{"lat": 18.363331, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Florida", "lng": -66.56773, "zip_code": "00650"}
+{"locality": "Florida", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Florida"], "postal_code": "00650", "lat": 18.363331, "lng": -66.56773, "type": "STANDARD", "counties": [{"fips": "054", "name": "Florida"}]}

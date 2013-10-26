@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.801663, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Powderly", "lng": -95.50309, "zip_code": "75473"});
+zipapicallback({"locality": "Powderly", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Powderly"], "postal_code": "75473", "lat": 33.801663, "lng": -95.50309, "type": "STANDARD", "counties": [{"fips": "277", "name": "Lamar"}]});

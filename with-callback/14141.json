@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.516248, "region": {"abbr": "NY", "name": "New York"}, "locality": "Springville", "lng": -78.68944, "zip_code": "14141"});
+zipapicallback({"locality": "Springville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Springville"], "postal_code": "14141", "lat": 42.516248, "lng": -78.68944, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}, {"fips": "009", "name": "Cattaraugus"}]});

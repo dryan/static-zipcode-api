@@ -1,1 +1,1 @@
-{"lat": 42.203838, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Spring Arbor", "lng": -84.55243, "zip_code": "49283"}
+{"locality": "Spring Arbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Spring Arbor"], "postal_code": "49283", "lat": 42.203838, "lng": -84.55243, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]}

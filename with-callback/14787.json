@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.327029, "region": {"abbr": "NY", "name": "New York"}, "locality": "Westfield", "lng": -79.57301, "zip_code": "14787"});
+zipapicallback({"locality": "Westfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Westfield"], "postal_code": "14787", "lat": 42.327029, "lng": -79.57301, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

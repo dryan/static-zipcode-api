@@ -1,1 +1,1 @@
-{"lat": 27.920604, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gregory", "lng": -97.29248, "zip_code": "78359"}
+{"locality": "Gregory", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gregory"], "postal_code": "78359", "lat": 27.920604, "lng": -97.29248, "type": "POBOX", "counties": [{"fips": "409", "name": "San Patricio"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.41277, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sacramento", "lng": -87.28063, "zip_code": "42372"}
+{"locality": "Sacramento", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sacramento"], "postal_code": "42372", "lat": 37.41277, "lng": -87.28063, "type": "STANDARD", "counties": [{"fips": "177", "name": "Muhlenberg"}]}

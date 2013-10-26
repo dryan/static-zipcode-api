@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.075691, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Moores Hill", "lng": -85.06057, "zip_code": "47032"});
+zipapicallback({"locality": "Moores Hill", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Moores Hill"], "postal_code": "47032", "lat": 39.075691, "lng": -85.06057, "type": "STANDARD", "counties": [{"fips": "029", "name": "Dearborn"}]});

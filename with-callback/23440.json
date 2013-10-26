@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.847652, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Tangier", "lng": -75.99404, "zip_code": "23440"});
+zipapicallback({"locality": "Tangier", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Tangier"], "postal_code": "23440", "lat": 37.847652, "lng": -75.99404, "type": "POBOX", "counties": [{"fips": "001", "name": "Accomack"}]});

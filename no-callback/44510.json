@@ -1,1 +1,1 @@
-{"lat": 41.120507, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Youngstown", "lng": -80.66811, "zip_code": "44510"}
+{"locality": "Youngstown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Youngstown"], "postal_code": "44510", "lat": 41.120507, "lng": -80.66811, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}]}

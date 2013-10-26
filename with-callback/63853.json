@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.058612, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Holland", "lng": -89.87038, "zip_code": "63853"});
+zipapicallback({"locality": "Holland", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Holland"], "postal_code": "63853", "lat": 36.058612, "lng": -89.87038, "type": "POBOX", "counties": [{"fips": "155", "name": "Pemiscot"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.477056, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Tony", "lng": -90.98354, "zip_code": "54563"}
+{"locality": "Tony", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Tony"], "postal_code": "54563", "lat": 45.477056, "lng": -90.98354, "type": "STANDARD", "counties": [{"fips": "107", "name": "Rusk"}]}

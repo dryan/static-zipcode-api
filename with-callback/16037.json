@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.821535, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harmony", "lng": -80.13033, "zip_code": "16037"});
+zipapicallback({"locality": "Harmony", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harmony"], "postal_code": "16037", "lat": 40.821535, "lng": -80.13033, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "007", "name": "Beaver"}, {"fips": "073", "name": "Lawrence"}]});

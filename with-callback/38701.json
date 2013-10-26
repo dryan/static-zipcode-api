@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.380388, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Greenville", "lng": -91.05187, "zip_code": "38701"});
+zipapicallback({"locality": "Greenville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Greenville"], "postal_code": "38701", "lat": 33.380388, "lng": -91.05187, "type": "STANDARD", "counties": [{"fips": "151", "name": "Washington"}, {"fips": "115", "name": "Pontotoc"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.593033, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Beardsley", "lng": -96.6879, "zip_code": "56211"}
+{"locality": "Beardsley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Beardsley"], "postal_code": "56211", "lat": 45.593033, "lng": -96.6879, "type": "STANDARD", "counties": [{"fips": "011", "name": "Big Stone"}, {"fips": "155", "name": "Traverse"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.106605, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Pawnee City", "lng": -96.15968, "zip_code": "68420"}
+{"locality": "Pawnee City", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Pawnee City"], "postal_code": "68420", "lat": 40.106605, "lng": -96.15968, "type": "STANDARD", "counties": [{"fips": "133", "name": "Pawnee"}]}

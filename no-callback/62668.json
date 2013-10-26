@@ -1,1 +1,1 @@
-{"lat": 39.576392, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Nortonville", "lng": -90.24769, "zip_code": "62668"}
+{"locality": "Murrayville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Murrayville", "Nortonville"], "postal_code": "62668", "lat": 39.576392, "lng": -90.24769, "type": "STANDARD", "counties": [{"fips": "137", "name": "Morgan"}, {"fips": "061", "name": "Greene"}, {"fips": "171", "name": "Scott"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.359772, "region": {"abbr": "CA", "name": "California"}, "locality": "Jackson", "lng": -120.75324, "zip_code": "95642"}
+{"locality": "Jackson", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Jackson"], "postal_code": "95642", "lat": 38.359772, "lng": -120.75324, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}]}

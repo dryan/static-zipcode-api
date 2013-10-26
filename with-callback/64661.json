@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.522402, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Mercer", "lng": -93.54965, "zip_code": "64661"});
+zipapicallback({"locality": "Mercer", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Mercer"], "postal_code": "64661", "lat": 40.522402, "lng": -93.54965, "type": "STANDARD", "counties": [{"fips": "129", "name": "Mercer"}]});

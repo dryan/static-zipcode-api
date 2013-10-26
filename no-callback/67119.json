@@ -1,1 +1,1 @@
-{"lat": 37.253486, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Oxford", "lng": -97.18161, "zip_code": "67119"}
+{"locality": "Oxford", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Oxford"], "postal_code": "67119", "lat": 37.253486, "lng": -97.18161, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}, {"fips": "035", "name": "Cowley"}]}

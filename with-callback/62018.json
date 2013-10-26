@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.905998, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cottage Hills", "lng": -90.08306, "zip_code": "62018"});
+zipapicallback({"locality": "Cottage Hills", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cottage Hills"], "postal_code": "62018", "lat": 38.905998, "lng": -90.08306, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]});

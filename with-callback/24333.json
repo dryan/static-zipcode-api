@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.649548, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Galax", "lng": -80.92683, "zip_code": "24333"});
+zipapicallback({"locality": "Galax", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Galax"], "postal_code": "24333", "lat": 36.649548, "lng": -80.92683, "type": "STANDARD", "counties": [{"fips": "077", "name": "Grayson"}, {"fips": "035", "name": "Carroll"}]});

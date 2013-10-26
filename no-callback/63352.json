@@ -1,1 +1,1 @@
-{"lat": 39.249616, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Laddonia", "lng": -91.64872, "zip_code": "63352"}
+{"locality": "Laddonia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Laddonia"], "postal_code": "63352", "lat": 39.249616, "lng": -91.64872, "type": "STANDARD", "counties": [{"fips": "007", "name": "Audrain"}]}

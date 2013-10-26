@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.581713, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Harrogate", "lng": -83.61278, "zip_code": "37752"});
+zipapicallback({"locality": "Harrogate", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Harrogate"], "postal_code": "37752", "lat": 36.581713, "lng": -83.61278, "type": "STANDARD", "counties": [{"fips": "025", "name": "Claiborne"}]});

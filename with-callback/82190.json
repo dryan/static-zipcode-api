@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.890668, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Fishing Bridge", "lng": -110.89421, "zip_code": "82190"});
+zipapicallback({"locality": "Yellowstone National Park", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Mammoth", "Mammoth Hot Springs", "Yellowstone National Park", "Yelwstn Nl Pk"], "postal_code": "82190", "lat": 44.890668, "lng": -110.89421, "type": "STANDARD", "counties": [{"fips": "029", "name": "Park"}]});

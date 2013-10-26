@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.123807, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Effingham", "lng": -88.56, "zip_code": "62401"});
+zipapicallback({"locality": "Effingham", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Effingham"], "postal_code": "62401", "lat": 39.123807, "lng": -88.56, "type": "STANDARD", "counties": [{"fips": "049", "name": "Effingham"}, {"fips": "035", "name": "Cumberland"}, {"fips": "173", "name": "Shelby"}]});

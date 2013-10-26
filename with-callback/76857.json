@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.917862, "region": {"abbr": "TX", "name": "Texas"}, "locality": "May", "lng": -98.95325, "zip_code": "76857"});
+zipapicallback({"locality": "May", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["May"], "postal_code": "76857", "lat": 31.917862, "lng": -98.95325, "type": "STANDARD", "counties": [{"fips": "049", "name": "Brown"}, {"fips": "093", "name": "Comanche"}]});

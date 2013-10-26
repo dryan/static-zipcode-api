@@ -1,1 +1,1 @@
-{"lat": 40.241588, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Adamstown", "lng": -76.05765, "zip_code": "19501"}
+{"locality": "Adamstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Adamstown"], "postal_code": "19501", "lat": 40.241588, "lng": -76.05765, "type": "POBOX", "counties": [{"fips": "071", "name": "Lancaster"}]}

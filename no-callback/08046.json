@@ -1,1 +1,1 @@
-{"lat": 40.029011, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Willingboro", "lng": -74.88257, "zip_code": "08046"}
+{"locality": "Willingboro", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Willingboro"], "postal_code": "08046", "lat": 40.029011, "lng": -74.88257, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]}

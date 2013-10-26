@@ -1,1 +1,1 @@
-{"lat": 33.171899, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Farmersville", "lng": -96.35096, "zip_code": "75442"}
+{"locality": "Farmersville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Farmersville"], "postal_code": "75442", "lat": 33.171899, "lng": -96.35096, "type": "STANDARD", "counties": []}

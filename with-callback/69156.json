@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.233268, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Potter", "lng": -103.28325, "zip_code": "69156"});
+zipapicallback({"locality": "Potter", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Potter"], "postal_code": "69156", "lat": 41.233268, "lng": -103.28325, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cheyenne"}]});

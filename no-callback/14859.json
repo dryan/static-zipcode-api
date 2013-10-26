@@ -1,1 +1,1 @@
-{"lat": 42.116615, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lockwood", "lng": -76.54806, "zip_code": "14859"}
+{"locality": "Lockwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lockwood"], "postal_code": "14859", "lat": 42.116615, "lng": -76.54806, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}, {"fips": "015", "name": "Chemung"}]}

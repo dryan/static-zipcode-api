@@ -1,1 +1,1 @@
-{"lat": 42.331062, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hornell", "lng": -77.65536, "zip_code": "14843"}
+{"locality": "Hornell", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hornell", "North Hornell"], "postal_code": "14843", "lat": 42.331062, "lng": -77.65536, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "003", "name": "Allegany"}]}

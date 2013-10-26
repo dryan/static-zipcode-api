@@ -1,1 +1,1 @@
-{"lat": 44.129094, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Russia", "lng": -73.64792, "zip_code": "12964"}
+{"locality": "New Russia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Russia"], "postal_code": "12964", "lat": 44.129094, "lng": -73.64792, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

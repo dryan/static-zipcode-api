@@ -1,1 +1,1 @@
-{"lat": 40.034398, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Coatsburg", "lng": -91.16278, "zip_code": "62325"}
+{"locality": "Coatsburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Coatsburg"], "postal_code": "62325", "lat": 40.034398, "lng": -91.16278, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

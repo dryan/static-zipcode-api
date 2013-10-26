@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.576775, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Washta", "lng": -95.71945, "zip_code": "51061"});
+zipapicallback({"locality": "Washta", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Washta"], "postal_code": "51061", "lat": 42.576775, "lng": -95.71945, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cherokee"}]});

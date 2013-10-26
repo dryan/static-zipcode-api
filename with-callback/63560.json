@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.367584, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pollock", "lng": -93.11823, "zip_code": "63560"});
+zipapicallback({"locality": "Pollock", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pollock"], "postal_code": "63560", "lat": 40.367584, "lng": -93.11823, "type": "STANDARD", "counties": [{"fips": "211", "name": "Sullivan"}, {"fips": "171", "name": "Putnam"}]});

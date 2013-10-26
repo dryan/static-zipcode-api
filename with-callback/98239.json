@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.204162, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Coupeville", "lng": -122.66723, "zip_code": "98239"});
+zipapicallback({"locality": "Coupeville", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Coupeville"], "postal_code": "98239", "lat": 48.204162, "lng": -122.66723, "type": "STANDARD", "counties": [{"fips": "029", "name": "Island"}]});

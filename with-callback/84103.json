@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.777746, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Salt Lake City", "lng": -111.87491, "zip_code": "84103"});
+zipapicallback({"locality": "Salt Lake City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Salt Lake City", "Salt Lake Cty", "Slc"], "postal_code": "84103", "lat": 40.777746, "lng": -111.87491, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]});

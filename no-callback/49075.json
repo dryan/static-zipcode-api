@@ -1,1 +1,1 @@
-{"lat": 41.916374, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Nottawa", "lng": -85.45029, "zip_code": "49075"}
+{"locality": "Nottawa", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Nottawa"], "postal_code": "49075", "lat": 41.916374, "lng": -85.45029, "type": "POBOX", "counties": [{"fips": "149", "name": "St. Joseph"}]}

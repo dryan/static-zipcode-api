@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.922079, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Royal City", "lng": -119.67175, "zip_code": "99357"});
+zipapicallback({"locality": "Royal City", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Royal City"], "postal_code": "99357", "lat": 46.922079, "lng": -119.67175, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]});

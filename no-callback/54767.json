@@ -1,1 +1,1 @@
-{"lat": 44.833746, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Spring Valley", "lng": -92.25937, "zip_code": "54767"}
+{"locality": "Spring Valley", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Spring Valley"], "postal_code": "54767", "lat": 44.833746, "lng": -92.25937, "type": "STANDARD", "counties": [{"fips": "093", "name": "Pierce"}, {"fips": "033", "name": "Dunn"}, {"fips": "109", "name": "St Croix"}]}

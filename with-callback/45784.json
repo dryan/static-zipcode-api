@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.389346, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Vincent", "lng": -81.68122, "zip_code": "45784"});
+zipapicallback({"locality": "Vincent", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Vincent"], "postal_code": "45784", "lat": 39.389346, "lng": -81.68122, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.163828, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fullerton", "lng": -98.38912, "zip_code": "58441"}
+{"locality": "Fullerton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Fullerton"], "postal_code": "58441", "lat": 46.163828, "lng": -98.38912, "type": "STANDARD", "counties": [{"fips": "021", "name": "Dickey"}]}

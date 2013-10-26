@@ -1,1 +1,1 @@
-{"lat": 38.040265, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Stockton", "lng": -75.40992, "zip_code": "21864"}
+{"locality": "Stockton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Stockton"], "postal_code": "21864", "lat": 38.040265, "lng": -75.40992, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]}

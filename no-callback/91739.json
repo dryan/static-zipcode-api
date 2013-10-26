@@ -1,1 +1,1 @@
-{"lat": 34.127819, "region": {"abbr": "CA", "name": "California"}, "locality": "Etiwanda", "lng": -117.5246, "zip_code": "91739"}
+{"locality": "Rancho Cucamonga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Etiwanda", "Rancho Cucamonga", "Rch Cucamonga"], "postal_code": "91739", "lat": 34.127819, "lng": -117.5246, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

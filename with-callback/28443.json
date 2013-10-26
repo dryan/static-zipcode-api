@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.407677, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hampstead", "lng": -77.65238, "zip_code": "28443"});
+zipapicallback({"locality": "Hampstead", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hampstead"], "postal_code": "28443", "lat": 34.407677, "lng": -77.65238, "type": "STANDARD", "counties": [{"fips": "141", "name": "Pender"}]});

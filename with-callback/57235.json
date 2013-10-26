@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.053712, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Florence", "lng": -97.31065, "zip_code": "57235"});
+zipapicallback({"locality": "Florence", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Florence"], "postal_code": "57235", "lat": 45.053712, "lng": -97.31065, "type": "STANDARD", "counties": [{"fips": "029", "name": "Codington"}, {"fips": "037", "name": "Day"}]});

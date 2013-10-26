@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.39309, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lewistown", "lng": -90.13748, "zip_code": "61542"});
+zipapicallback({"locality": "Lewistown", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lewistown"], "postal_code": "61542", "lat": 40.39309, "lng": -90.13748, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}]});

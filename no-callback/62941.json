@@ -1,1 +1,1 @@
-{"lat": 37.239385, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Grand Chain", "lng": -88.95184, "zip_code": "62941"}
+{"locality": "Grand Chain", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Grand Chain"], "postal_code": "62941", "lat": 37.239385, "lng": -88.95184, "type": "STANDARD", "counties": [{"fips": "153", "name": "Pulaski"}, {"fips": "127", "name": "Massac"}]}

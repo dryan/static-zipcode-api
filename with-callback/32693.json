@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.598935, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Trenton", "lng": -82.82752, "zip_code": "32693"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fanning Spgs", "Fanning Springs", "Trenton"], "postal_code": "32693", "lat": 29.598935, "lng": -82.82752, "type": "STANDARD", "counties": [{"fips": "041", "name": "Gilchrist"}, {"fips": "075", "name": "Levy"}]});

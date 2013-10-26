@@ -1,1 +1,1 @@
-{"lat": 35.197566, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Parks Community Post Office", "lng": -111.93253, "zip_code": "86018"}
+{"locality": "Parks", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Flagstaff", "Parks", "Parks Comm Po"], "postal_code": "86018", "lat": 35.197566, "lng": -111.93253, "type": "POBOX", "counties": [{"fips": "005", "name": "Coconino"}]}

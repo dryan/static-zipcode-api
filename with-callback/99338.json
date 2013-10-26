@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.192356, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kennewick", "lng": -119.23982, "zip_code": "99338"});
+zipapicallback({"locality": "Kennewick", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kennewick"], "postal_code": "99338", "lat": 46.192356, "lng": -119.23982, "type": "STANDARD", "counties": []});

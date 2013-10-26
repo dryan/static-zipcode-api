@@ -1,1 +1,1 @@
-{"lat": 40.739576, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Emerald", "lng": -75.62113, "zip_code": "18080"}
+{"locality": "Slatington", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Emerald", "Slatington"], "postal_code": "18080", "lat": 40.739576, "lng": -75.62113, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]}

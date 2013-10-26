@@ -1,1 +1,1 @@
-{"lat": 37.616393, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Farlington", "lng": -94.82712, "zip_code": "66734"}
+{"locality": "Farlington", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Farlington"], "postal_code": "66734", "lat": 37.616393, "lng": -94.82712, "type": "STANDARD", "counties": [{"fips": "037", "name": "Crawford"}]}

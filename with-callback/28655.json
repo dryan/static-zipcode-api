@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.742752, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Morganton", "lng": -81.71625, "zip_code": "28655"});
+zipapicallback({"locality": "Morganton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Morganton"], "postal_code": "28655", "lat": 35.742752, "lng": -81.71625, "type": "STANDARD", "counties": [{"fips": "023", "name": "Burke"}, {"fips": "111", "name": "McDowell"}]});

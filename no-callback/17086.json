@@ -1,1 +1,1 @@
-{"lat": 40.675983, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Richfield", "lng": -77.11862, "zip_code": "17086"}
+{"locality": "Richfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Richfield"], "postal_code": "17086", "lat": 40.675983, "lng": -77.11862, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}, {"fips": "109", "name": "Snyder"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.141287, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Carmine", "lng": -96.6909, "zip_code": "78932"}
+{"locality": "Carmine", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Carmine"], "postal_code": "78932", "lat": 30.141287, "lng": -96.6909, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.363506, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Angel Fire", "lng": -105.24877, "zip_code": "87710"});
+zipapicallback({"locality": "Angel Fire", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Angel Fire", "Eagle Nest"], "postal_code": "87710", "lat": 36.363506, "lng": -105.24877, "type": "POBOX", "counties": [{"fips": "007", "name": "Colfax"}]});

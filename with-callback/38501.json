@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.1832, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Algood", "lng": -85.52054, "zip_code": "38501"});
+zipapicallback({"locality": "Cookeville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Algood", "Cookeville"], "postal_code": "38501", "lat": 36.1832, "lng": -85.52054, "type": "STANDARD", "counties": [{"fips": "141", "name": "Putnam"}, {"fips": "133", "name": "Overton"}, {"fips": "185", "name": "White"}, {"fips": "087", "name": "Jackson"}]});

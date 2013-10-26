@@ -1,1 +1,1 @@
-{"lat": 47.244053, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Fox Island", "lng": -122.6199, "zip_code": "98333"}
+{"locality": "Fox Island", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Fox Island"], "postal_code": "98333", "lat": 47.244053, "lng": -122.6199, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

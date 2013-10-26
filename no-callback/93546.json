@@ -1,1 +1,1 @@
-{"lat": 37.621587, "region": {"abbr": "CA", "name": "California"}, "locality": "Crowley Lake", "lng": -118.86279, "zip_code": "93546"}
+{"locality": "Mammoth Lakes", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Crowley Lake", "Mammoth Lakes", "Toms Place"], "postal_code": "93546", "lat": 37.621587, "lng": -118.86279, "type": "STANDARD", "counties": [{"fips": "051", "name": "Mono"}]}

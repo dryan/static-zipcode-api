@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.073489, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Moravian Falls", "lng": -81.16056, "zip_code": "28654"});
+zipapicallback({"locality": "Moravian Falls", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Moravian Falls", "Moravian Fls"], "postal_code": "28654", "lat": 36.073489, "lng": -81.16056, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}, {"fips": "003", "name": "Alexander"}]});

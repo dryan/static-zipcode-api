@@ -1,1 +1,1 @@
-{"lat": 35.441378, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Athens", "lng": -84.61975, "zip_code": "37303"}
+{"locality": "Athens", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Athens"], "postal_code": "37303", "lat": 35.441378, "lng": -84.61975, "type": "STANDARD", "counties": [{"fips": "107", "name": "McMinn"}]}

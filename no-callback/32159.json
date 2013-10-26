@@ -1,1 +1,1 @@
-{"lat": 28.930573, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lady Lake", "lng": -81.93806, "zip_code": "32159"}
+{"locality": "Lady Lake", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lady Lake", "The Villages"], "postal_code": "32159", "lat": 28.930573, "lng": -81.93806, "type": "STANDARD", "counties": []}

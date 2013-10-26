@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.011487, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wentworth", "lng": -94.05116, "zip_code": "64873"});
+zipapicallback({"locality": "Wentworth", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wentworth"], "postal_code": "64873", "lat": 37.011487, "lng": -94.05116, "type": "STANDARD", "counties": [{"fips": "145", "name": "Newton"}, {"fips": "097", "name": "Jasper"}, {"fips": "109", "name": "Lawrence"}]});

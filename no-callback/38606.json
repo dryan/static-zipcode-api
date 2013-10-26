@@ -1,1 +1,1 @@
-{"lat": 34.309659, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Batesville", "lng": -89.963, "zip_code": "38606"}
+{"locality": "Batesville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Batesville"], "postal_code": "38606", "lat": 34.309659, "lng": -89.963, "type": "STANDARD", "counties": [{"fips": "107", "name": "Panola"}, {"fips": "119", "name": "Quitman"}, {"fips": "071", "name": "Lafayette"}]}

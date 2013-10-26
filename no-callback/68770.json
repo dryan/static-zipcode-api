@@ -1,1 +1,1 @@
-{"lat": 42.563297, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Ponca", "lng": -96.76399, "zip_code": "68770"}
+{"locality": "Ponca", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Ponca"], "postal_code": "68770", "lat": 42.563297, "lng": -96.76399, "type": "STANDARD", "counties": [{"fips": "051", "name": "Dixon"}, {"fips": "043", "name": "Dakota"}]}

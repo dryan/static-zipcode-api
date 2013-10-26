@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.564908, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Sheldon", "lng": -97.43763, "zip_code": "58068"});
+zipapicallback({"locality": "Sheldon", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Sheldon"], "postal_code": "58068", "lat": 46.564908, "lng": -97.43763, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ransom"}]});

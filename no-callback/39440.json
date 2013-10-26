@@ -1,1 +1,1 @@
-{"lat": 31.701492, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Laurel", "lng": -89.1393, "zip_code": "39440"}
+{"locality": "Laurel", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Laurel"], "postal_code": "39440", "lat": 31.701492, "lng": -89.1393, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jones"}, {"fips": "061", "name": "Jasper"}, {"fips": "153", "name": "Wayne"}]}

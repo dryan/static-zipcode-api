@@ -1,1 +1,1 @@
-{"lat": 41.011464, "region": {"abbr": "NY", "name": "New York"}, "locality": "Palisades", "lng": -73.92585, "zip_code": "10964"}
+{"locality": "Palisades", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Palisades"], "postal_code": "10964", "lat": 41.011464, "lng": -73.92585, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

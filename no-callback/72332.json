@@ -1,1 +1,1 @@
-{"lat": 35.103643, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Edmondson", "lng": -90.31096, "zip_code": "72332"}
+{"locality": "Edmondson", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Edmondson"], "postal_code": "72332", "lat": 35.103643, "lng": -90.31096, "type": "POBOX", "counties": [{"fips": "035", "name": "Crittenden"}]}

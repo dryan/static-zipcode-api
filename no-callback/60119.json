@@ -1,1 +1,1 @@
-{"lat": 41.876506, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elburn", "lng": -88.46429, "zip_code": "60119"}
+{"locality": "Elburn", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Campton Hills", "Elburn"], "postal_code": "60119", "lat": 41.876506, "lng": -88.46429, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}, {"fips": "037", "name": "De Kalb"}]}

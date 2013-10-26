@@ -1,1 +1,1 @@
-{"lat": 36.138298, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Butner", "lng": -78.75882, "zip_code": "27509"}
+{"locality": "Butner", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Butner"], "postal_code": "27509", "lat": 36.138298, "lng": -78.75882, "type": "STANDARD", "counties": [{"fips": "077", "name": "Granville"}]}

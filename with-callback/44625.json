@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.758473, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Rochester", "lng": -81.00795, "zip_code": "44625"});
+zipapicallback({"locality": "East Rochester", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["E Rochester", "East Rochester"], "postal_code": "44625", "lat": 40.758473, "lng": -81.00795, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}, {"fips": "019", "name": "Carroll"}]});

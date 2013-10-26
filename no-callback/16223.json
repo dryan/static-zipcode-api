@@ -1,1 +1,1 @@
-{"lat": 40.954782, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Distant", "lng": -79.37922, "zip_code": "16223"}
+{"locality": "Distant", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Distant"], "postal_code": "16223", "lat": 40.954782, "lng": -79.37922, "type": "POBOX", "counties": [{"fips": "005", "name": "Armstrong"}]}

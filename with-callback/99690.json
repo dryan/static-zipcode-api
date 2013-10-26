@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.527618, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Nightmute", "lng": -164.81976, "zip_code": "99690"});
+zipapicallback({"locality": "Nightmute", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Bethel", "Nightmute"], "postal_code": "99690", "lat": 60.527618, "lng": -164.81976, "type": "POBOX", "counties": []});

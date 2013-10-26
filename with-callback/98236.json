@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.962134, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Clinton", "lng": -122.40089, "zip_code": "98236"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Clinton"], "postal_code": "98236", "lat": 47.962134, "lng": -122.40089, "type": "STANDARD", "counties": [{"fips": "029", "name": "Island"}]});

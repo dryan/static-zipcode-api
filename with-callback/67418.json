@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.18871, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Barnard", "lng": -98.04615, "zip_code": "67418"});
+zipapicallback({"locality": "Barnard", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Barnard"], "postal_code": "67418", "lat": 39.18871, "lng": -98.04615, "type": "STANDARD", "counties": [{"fips": "105", "name": "Lincoln"}, {"fips": "123", "name": "Mitchell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.249655, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Seminole", "lng": -96.65915, "zip_code": "74868"});
+zipapicallback({"locality": "Seminole", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Seminole"], "postal_code": "74868", "lat": 35.249655, "lng": -96.65915, "type": "STANDARD", "counties": [{"fips": "133", "name": "Seminole"}]});

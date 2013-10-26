@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.317882, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Vaiden", "lng": -89.733, "zip_code": "39176"});
+zipapicallback({"locality": "Vaiden", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Vaiden"], "postal_code": "39176", "lat": 33.317882, "lng": -89.733, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "097", "name": "Montgomery"}, {"fips": "007", "name": "Attala"}]});

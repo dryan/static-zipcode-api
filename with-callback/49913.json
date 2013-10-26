@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.239083, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Laurium", "lng": -88.46121, "zip_code": "49913"});
+zipapicallback({"locality": "Calumet", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Calumet", "Laurium"], "postal_code": "49913", "lat": 47.239083, "lng": -88.46121, "type": "STANDARD", "counties": [{"fips": "061", "name": "Houghton"}]});

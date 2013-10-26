@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.533002, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Washington Court", "lng": -83.43905, "zip_code": "43160"});
+zipapicallback({"locality": "Washington Court House", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Washington Court House", "Wshngtn Ct Hs"], "postal_code": "43160", "lat": 39.533002, "lng": -83.43905, "type": "STANDARD", "counties": [{"fips": "047", "name": "Fayette"}, {"fips": "009", "name": "Athens"}, {"fips": "027", "name": "Clinton"}, {"fips": "141", "name": "Ross"}]});

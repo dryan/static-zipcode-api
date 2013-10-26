@@ -1,1 +1,1 @@
-{"lat": 38.54486, "region": {"abbr": "CA", "name": "California"}, "locality": "Windsor", "lng": -122.80785, "zip_code": "95492"}
+{"locality": "Windsor", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Windsor"], "postal_code": "95492", "lat": 38.54486, "lng": -122.80785, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

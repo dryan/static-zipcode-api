@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.105771, "region": {"abbr": "NY", "name": "New York"}, "locality": "Memphis", "lng": -76.41482, "zip_code": "13112"});
+zipapicallback({"locality": "Memphis", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Memphis"], "postal_code": "13112", "lat": 43.105771, "lng": -76.41482, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.628368, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saint Benedict", "lng": -78.73335, "zip_code": "15773"}
+{"locality": "Saint Benedict", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saint Benedict", "St Benedict"], "postal_code": "15773", "lat": 40.628368, "lng": -78.73335, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

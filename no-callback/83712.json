@@ -1,1 +1,1 @@
-{"lat": 43.595763, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Boise", "lng": -116.16367, "zip_code": "83712"}
+{"locality": "Boise", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Boise"], "postal_code": "83712", "lat": 43.595763, "lng": -116.16367, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}]}

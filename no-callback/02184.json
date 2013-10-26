@@ -1,1 +1,1 @@
-{"lat": 42.209555, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Braintree", "lng": -70.99968, "zip_code": "02184"}
+{"locality": "Braintree", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Braintree"], "postal_code": "02184", "lat": 42.209555, "lng": -70.99968, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]}

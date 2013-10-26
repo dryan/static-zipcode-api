@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.213607, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mansfield", "lng": -88.5296, "zip_code": "61854"});
+zipapicallback({"locality": "Mansfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mansfield"], "postal_code": "61854", "lat": 40.213607, "lng": -88.5296, "type": "STANDARD", "counties": [{"fips": "147", "name": "Piatt"}]});

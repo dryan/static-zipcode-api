@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.257131, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Naytahwaush", "lng": -95.61749, "zip_code": "56566"});
+zipapicallback({"locality": "Naytahwaush", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Naytahwaush"], "postal_code": "56566", "lat": 47.257131, "lng": -95.61749, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mahnomen"}]});

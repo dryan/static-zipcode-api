@@ -1,1 +1,1 @@
-{"lat": 42.424338, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Harvard", "lng": -88.61431, "zip_code": "60033"}
+{"locality": "Harvard", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Harvard"], "postal_code": "60033", "lat": 42.424338, "lng": -88.61431, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}, {"fips": "007", "name": "Boone"}]}

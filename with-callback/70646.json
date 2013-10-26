@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.107308, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hayes", "lng": -92.91992, "zip_code": "70646"});
+zipapicallback({"locality": "Hayes", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hayes"], "postal_code": "70646", "lat": 30.107308, "lng": -92.91992, "type": "POBOX", "counties": [{"fips": "019", "name": "Calcasieu"}]});

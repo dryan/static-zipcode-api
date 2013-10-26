@@ -1,1 +1,1 @@
-{"lat": 38.367098, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Windom", "lng": -97.89977, "zip_code": "67491"}
+{"locality": "Windom", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Windom"], "postal_code": "67491", "lat": 38.367098, "lng": -97.89977, "type": "STANDARD", "counties": [{"fips": "113", "name": "McPherson"}, {"fips": "159", "name": "Rice"}]}

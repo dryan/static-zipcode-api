@@ -1,1 +1,1 @@
-{"lat": 43.957025, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Saint Anthony", "lng": -111.70208, "zip_code": "83445"}
+{"locality": "Saint Anthony", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Saint Anthony"], "postal_code": "83445", "lat": 43.957025, "lng": -111.70208, "type": "STANDARD", "counties": [{"fips": "043", "name": "Fremont"}, {"fips": "065", "name": "Madison"}, {"fips": "051", "name": "Jefferson"}]}

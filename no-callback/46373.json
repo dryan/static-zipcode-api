@@ -1,1 +1,1 @@
-{"lat": 41.44862, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Saint John", "lng": -87.47404, "zip_code": "46373"}
+{"locality": "Saint John", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dyer", "Saint John"], "postal_code": "46373", "lat": 41.44862, "lng": -87.47404, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]}

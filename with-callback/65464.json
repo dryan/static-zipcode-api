@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.191845, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Elk Creek", "lng": -91.91627, "zip_code": "65464"});
+zipapicallback({"locality": "Elk Creek", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Elk Creek"], "postal_code": "65464", "lat": 37.191845, "lng": -91.91627, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}]});

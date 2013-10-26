@@ -1,1 +1,1 @@
-{"lat": 43.02419, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Putney", "lng": -72.51725, "zip_code": "05346"}
+{"locality": "Putney", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["E Dummerston", "Putney", "Westminster W", "Westminster West"], "postal_code": "05346", "lat": 43.02419, "lng": -72.51725, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.323499, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Berlin Heights", "lng": -82.4692, "zip_code": "44814"});
+zipapicallback({"locality": "Berlin Heights", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Berlin Heights", "Berlin Hts"], "postal_code": "44814", "lat": 41.323499, "lng": -82.4692, "type": "STANDARD", "counties": [{"fips": "043", "name": "Erie"}]});

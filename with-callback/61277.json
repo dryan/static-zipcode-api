@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.612038, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Prophetstown", "lng": -89.93036, "zip_code": "61277"});
+zipapicallback({"locality": "Prophetstown", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Prophetstown"], "postal_code": "61277", "lat": 41.612038, "lng": -89.93036, "type": "STANDARD", "counties": [{"fips": "195", "name": "Whiteside"}]});

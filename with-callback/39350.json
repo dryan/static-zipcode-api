@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.776368, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Philadelphia", "lng": -89.12788, "zip_code": "39350"});
+zipapicallback({"locality": "Philadelphia", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Choctaw", "Philadelphia"], "postal_code": "39350", "lat": 32.776368, "lng": -89.12788, "type": "STANDARD", "counties": [{"fips": "099", "name": "Neshoba"}, {"fips": "159", "name": "Winston"}, {"fips": "079", "name": "Leake"}, {"fips": "069", "name": "Kemper"}]});

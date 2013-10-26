@@ -1,1 +1,1 @@
-{"lat": 38.156248, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Clearfield", "lng": -83.41586, "zip_code": "40313"}
+{"locality": "Clearfield", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Clearfield"], "postal_code": "40313", "lat": 38.156248, "lng": -83.41586, "type": "STANDARD", "counties": [{"fips": "205", "name": "Rowan"}]}

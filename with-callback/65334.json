@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.825456, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hughesville", "lng": -93.25182, "zip_code": "65334"});
+zipapicallback({"locality": "Hughesville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hughesville"], "postal_code": "65334", "lat": 38.825456, "lng": -93.25182, "type": "STANDARD", "counties": [{"fips": "159", "name": "Pettis"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.805379, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Haltom City", "lng": -97.27036, "zip_code": "76117"}
+{"locality": "Haltom City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth", "Haltom City", "N Richland Hills", "N Richlnd Hls", "North Richland Hills"], "postal_code": "76117", "lat": 32.805379, "lng": -97.27036, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]}

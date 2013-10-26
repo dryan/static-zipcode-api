@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.082782, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Lakewood", "lng": -74.2094, "zip_code": "08701"});
+zipapicallback({"locality": "Lakewood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Lakewood"], "postal_code": "08701", "lat": 40.082782, "lng": -74.2094, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

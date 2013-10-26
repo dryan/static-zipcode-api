@@ -1,1 +1,1 @@
-{"lat": 38.877563, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Dwight", "lng": -96.58981, "zip_code": "66849"}
+{"locality": "Dwight", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Dwight"], "postal_code": "66849", "lat": 38.877563, "lng": -96.58981, "type": "STANDARD", "counties": [{"fips": "127", "name": "Morris"}, {"fips": "061", "name": "Geary"}]}

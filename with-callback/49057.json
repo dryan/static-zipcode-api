@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.19923, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hartford", "lng": -86.16943, "zip_code": "49057"});
+zipapicallback({"locality": "Hartford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hartford"], "postal_code": "49057", "lat": 42.19923, "lng": -86.16943, "type": "STANDARD", "counties": [{"fips": "159", "name": "Van Buren"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.717801, "region": {"abbr": "NY", "name": "New York"}, "locality": "Truxton", "lng": -75.97209, "zip_code": "13158"}
+{"locality": "Truxton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cuyler", "East Homer", "Truxton"], "postal_code": "13158", "lat": 42.717801, "lng": -75.97209, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cortland"}]}

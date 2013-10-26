@@ -1,1 +1,1 @@
-{"lat": 45.714093, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Carp Lake", "lng": -84.79969, "zip_code": "49718"}
+{"locality": "Carp Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Carp Lake"], "postal_code": "49718", "lat": 45.714093, "lng": -84.79969, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "031", "name": "Cheboygan"}]}

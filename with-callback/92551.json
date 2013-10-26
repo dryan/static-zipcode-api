@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.889035, "region": {"abbr": "CA", "name": "California"}, "locality": "Moreno Valley", "lng": -117.22046, "zip_code": "92551"});
+zipapicallback({"locality": "Moreno Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Moreno Valley"], "postal_code": "92551", "lat": 33.889035, "lng": -117.22046, "type": "STANDARD", "counties": []});

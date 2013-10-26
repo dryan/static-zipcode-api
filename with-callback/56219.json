@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.606998, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Browns Valley", "lng": -96.81833, "zip_code": "56219"});
+zipapicallback({"locality": "Browns Valley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Browns Valley"], "postal_code": "56219", "lat": 45.606998, "lng": -96.81833, "type": "STANDARD", "counties": [{"fips": "155", "name": "Traverse"}, {"fips": "109", "name": "Olmsted"}, {"fips": "011", "name": "Big Stone"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.450931, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Pleasant Hill", "lng": -90.87779, "zip_code": "62366"});
+zipapicallback({"locality": "Pleasant Hill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Pleasant Hill"], "postal_code": "62366", "lat": 39.450931, "lng": -90.87779, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pike"}, {"fips": "013", "name": "Calhoun"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.369313, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Cloverdale", "lng": -79.90303, "zip_code": "24077"}
+{"locality": "Cloverdale", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cloverdale"], "postal_code": "24077", "lat": 37.369313, "lng": -79.90303, "type": "STANDARD", "counties": [{"fips": "023", "name": "Botetourt"}]}

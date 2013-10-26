@@ -1,1 +1,1 @@
-{"lat": 36.353757, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Gladstone", "lng": -103.96571, "zip_code": "88422"}
+{"locality": "Gladstone", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Gladstone"], "postal_code": "88422", "lat": 36.353757, "lng": -103.96571, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]}

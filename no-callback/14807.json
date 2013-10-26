@@ -1,1 +1,1 @@
-{"lat": 42.410387, "region": {"abbr": "NY", "name": "New York"}, "locality": "Arkport", "lng": -77.71394, "zip_code": "14807"}
+{"locality": "Arkport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Arkport"], "postal_code": "14807", "lat": 42.410387, "lng": -77.71394, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "003", "name": "Allegany"}]}

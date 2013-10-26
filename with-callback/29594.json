@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.645047, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Tatum", "lng": -79.58188, "zip_code": "29594"});
+zipapicallback({"locality": "Tatum", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Tatum"], "postal_code": "29594", "lat": 34.645047, "lng": -79.58188, "type": "POBOX", "counties": [{"fips": "069", "name": "Marlboro"}]});

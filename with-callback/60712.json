@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.005331, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lincolnwood", "lng": -87.73545, "zip_code": "60712"});
+zipapicallback({"locality": "Lincolnwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lincolnwood"], "postal_code": "60712", "lat": 42.005331, "lng": -87.73545, "type": "STANDARD", "counties": []});

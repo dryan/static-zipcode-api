@@ -1,1 +1,1 @@
-{"lat": 30.04401, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lutcher", "lng": -90.69956, "zip_code": "70071"}
+{"locality": "Lutcher", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lutcher"], "postal_code": "70071", "lat": 30.04401, "lng": -90.69956, "type": "STANDARD", "counties": [{"fips": "093", "name": "St. James"}]}

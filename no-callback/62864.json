@@ -1,1 +1,1 @@
-{"lat": 38.322558, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Vernon", "lng": -88.90842, "zip_code": "62864"}
+{"locality": "Mount Vernon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Vernon"], "postal_code": "62864", "lat": 38.322558, "lng": -88.90842, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]}

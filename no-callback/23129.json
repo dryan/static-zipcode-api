@@ -1,1 +1,1 @@
-{"lat": 37.698646, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Oilville", "lng": -77.77111, "zip_code": "23129"}
+{"locality": "Oilville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Oilville"], "postal_code": "23129", "lat": 37.698646, "lng": -77.77111, "type": "STANDARD", "counties": [{"fips": "075", "name": "Goochland"}]}

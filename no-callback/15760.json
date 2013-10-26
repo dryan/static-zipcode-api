@@ -1,1 +1,1 @@
-{"lat": 40.652164, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marsteller", "lng": -78.79936, "zip_code": "15760"}
+{"locality": "Marsteller", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marsteller"], "postal_code": "15760", "lat": 40.652164, "lng": -78.79936, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.46077, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bruce Crossing", "lng": -89.15645, "zip_code": "49912"});
+zipapicallback({"locality": "Bruce Crossing", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bruce Crossing", "Bruce Xing"], "postal_code": "49912", "lat": 46.46077, "lng": -89.15645, "type": "STANDARD", "counties": [{"fips": "131", "name": "Ontonagon"}]});

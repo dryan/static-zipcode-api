@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.059474, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Renick", "lng": -80.35569, "zip_code": "24966"});
+zipapicallback({"locality": "Renick", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Auto", "Falling Sprg", "Renick"], "postal_code": "24966", "lat": 38.059474, "lng": -80.35569, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.362227, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Westminster", "lng": -96.46299, "zip_code": "75485"});
+zipapicallback({"locality": "Westminster", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Westminster"], "postal_code": "75485", "lat": 33.362227, "lng": -96.46299, "type": "POBOX", "counties": []});

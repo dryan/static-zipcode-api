@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.047431, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Chetopa", "lng": -95.08365, "zip_code": "67336"});
+zipapicallback({"locality": "Chetopa", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Chetopa"], "postal_code": "67336", "lat": 37.047431, "lng": -95.08365, "type": "STANDARD", "counties": [{"fips": "099", "name": "Labette"}, {"fips": "021", "name": "Cherokee"}]});

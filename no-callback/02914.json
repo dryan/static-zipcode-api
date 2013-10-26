@@ -1,1 +1,1 @@
-{"lat": 41.8124, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "East Providence", "lng": -71.36834, "zip_code": "02914"}
+{"locality": "East Providence", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["E Providence", "East Providence"], "postal_code": "02914", "lat": 41.8124, "lng": -71.36834, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]}

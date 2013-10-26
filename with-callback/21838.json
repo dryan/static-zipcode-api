@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.018482, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Marion Station", "lng": -75.7389, "zip_code": "21838"});
+zipapicallback({"locality": "Marion Station", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Marion", "Marion Sta", "Marion Station"], "postal_code": "21838", "lat": 38.018482, "lng": -75.7389, "type": "STANDARD", "counties": [{"fips": "039", "name": "Somerset"}]});

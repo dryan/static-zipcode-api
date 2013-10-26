@@ -1,1 +1,1 @@
-{"lat": 37.557975, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Flat Top", "lng": -81.09537, "zip_code": "25841"}
+{"locality": "Flat Top", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Flat Top"], "postal_code": "25841", "lat": 37.557975, "lng": -81.09537, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]}

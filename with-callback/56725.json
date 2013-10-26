@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.128712, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Goodridge", "lng": -95.82013, "zip_code": "56725"});
+zipapicallback({"locality": "Goodridge", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Goodridge"], "postal_code": "56725", "lat": 48.128712, "lng": -95.82013, "type": "STANDARD", "counties": [{"fips": "113", "name": "Pennington"}, {"fips": "089", "name": "Marshall"}, {"fips": "007", "name": "Beltrami"}]});

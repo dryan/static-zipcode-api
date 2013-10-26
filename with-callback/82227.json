@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.785056, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Manville", "lng": -104.75034, "zip_code": "82227"});
+zipapicallback({"locality": "Manville", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Keeline", "Manville"], "postal_code": "82227", "lat": 42.785056, "lng": -104.75034, "type": "STANDARD", "counties": [{"fips": "027", "name": "Niobrara"}]});

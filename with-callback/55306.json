@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.732569, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Burnsville", "lng": -93.28909, "zip_code": "55306"});
+zipapicallback({"locality": "Burnsville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Burnsville"], "postal_code": "55306", "lat": 44.732569, "lng": -93.28909, "type": "STANDARD", "counties": []});

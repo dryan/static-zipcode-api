@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.01965, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Braxton", "lng": -89.9742, "zip_code": "39044"});
+zipapicallback({"locality": "Braxton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Braxton"], "postal_code": "39044", "lat": 32.01965, "lng": -89.9742, "type": "STANDARD", "counties": [{"fips": "127", "name": "Simpson"}, {"fips": "121", "name": "Rankin"}]});

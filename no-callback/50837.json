@@ -1,1 +1,1 @@
-{"lat": 41.237084, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bridgewater", "lng": -94.68361, "zip_code": "50837"}
+{"locality": "Bridgewater", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bridgewater"], "postal_code": "50837", "lat": 41.237084, "lng": -94.68361, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}, {"fips": "029", "name": "Cass"}, {"fips": "003", "name": "Adams"}]}

@@ -1,1 +1,1 @@
-{"lat": 28.143377, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Odessa", "lng": -82.59054, "zip_code": "33556"}
+{"locality": "Odessa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Odessa"], "postal_code": "33556", "lat": 28.143377, "lng": -82.59054, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pasco"}, {"fips": "057", "name": "Hillsborough"}, {"fips": "103", "name": "Pinellas"}]}

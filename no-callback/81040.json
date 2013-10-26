@@ -1,1 +1,1 @@
-{"lat": 37.777997, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Farisita", "lng": -105.20072, "zip_code": "81040"}
+{"locality": "Gardner", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Gardner"], "postal_code": "81040", "lat": 37.777997, "lng": -105.20072, "type": "STANDARD", "counties": [{"fips": "055", "name": "Huerfano"}]}

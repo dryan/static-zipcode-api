@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.468977, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rose City", "lng": -84.19608, "zip_code": "48654"});
+zipapicallback({"locality": "Rose City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rose City"], "postal_code": "48654", "lat": 44.468977, "lng": -84.19608, "type": "STANDARD", "counties": [{"fips": "129", "name": "Ogemaw"}, {"fips": "135", "name": "Oscoda"}]});

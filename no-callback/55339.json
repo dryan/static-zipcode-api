@@ -1,1 +1,1 @@
-{"lat": 44.730662, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hamburg", "lng": -93.9577, "zip_code": "55339"}
+{"locality": "Hamburg", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hamburg"], "postal_code": "55339", "lat": 44.730662, "lng": -93.9577, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}, {"fips": "143", "name": "Sibley"}, {"fips": "085", "name": "McLeod"}]}

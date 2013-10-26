@@ -1,1 +1,1 @@
-{"lat": 43.89867, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Filion", "lng": -83.01232, "zip_code": "48432"}
+{"locality": "Filion", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Filion"], "postal_code": "48432", "lat": 43.89867, "lng": -83.01232, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]}

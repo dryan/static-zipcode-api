@@ -1,1 +1,1 @@
-{"lat": 46.28232, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Dwight", "lng": -96.68494, "zip_code": "58075"}
+{"locality": "Wahpeton", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Dwight", "Galchutt", "Great Bend", "Wahpeton"], "postal_code": "58075", "lat": 46.28232, "lng": -96.68494, "type": "STANDARD", "counties": [{"fips": "077", "name": "Richland"}]}

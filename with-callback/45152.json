@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.350319, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Morrow", "lng": -84.11606, "zip_code": "45152"});
+zipapicallback({"locality": "Morrow", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Morrow"], "postal_code": "45152", "lat": 39.350319, "lng": -84.11606, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]});

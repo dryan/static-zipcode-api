@@ -1,1 +1,1 @@
-{"lat": 41.551883, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bettendorf", "lng": -90.48975, "zip_code": "52722"}
+{"locality": "Bettendorf", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bettendorf", "Riverdale"], "postal_code": "52722", "lat": 41.551883, "lng": -90.48975, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]}

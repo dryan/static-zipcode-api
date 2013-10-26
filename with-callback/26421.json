@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.183473, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pullman", "lng": -80.92668, "zip_code": "26421"});
+zipapicallback({"locality": "Pullman", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pullman"], "postal_code": "26421", "lat": 39.183473, "lng": -80.92668, "type": "STANDARD", "counties": [{"fips": "085", "name": "Ritchie"}]});

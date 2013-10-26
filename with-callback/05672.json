@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.475387, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Stowe", "lng": -72.70225, "zip_code": "05672"});
+zipapicallback({"locality": "Stowe", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Stowe"], "postal_code": "05672", "lat": 44.475387, "lng": -72.70225, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}]});

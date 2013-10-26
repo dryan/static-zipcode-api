@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.92301, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cowdrey", "lng": -106.33104, "zip_code": "80434"});
+zipapicallback({"locality": "Cowdrey", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cowdrey"], "postal_code": "80434", "lat": 40.92301, "lng": -106.33104, "type": "POBOX", "counties": [{"fips": "057", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.100501, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Amarillo", "lng": -101.80606, "zip_code": "79118"}
+{"locality": "Amarillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Amarillo", "Palisades", "Timbercreek Canyon", "Timbercrk Cyn"], "postal_code": "79118", "lat": 35.100501, "lng": -101.80606, "type": "STANDARD", "counties": [{"fips": "381", "name": "Randall"}]}

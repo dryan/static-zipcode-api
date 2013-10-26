@@ -1,1 +1,1 @@
-{"lat": 44.821446, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Depoe Bay", "lng": -124.05729, "zip_code": "97341"}
+{"locality": "Depoe Bay", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Depoe Bay"], "postal_code": "97341", "lat": 44.821446, "lng": -124.05729, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]}

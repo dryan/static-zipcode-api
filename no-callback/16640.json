@@ -1,1 +1,1 @@
-{"lat": 40.711195, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Flinton", "lng": -78.56081, "zip_code": "16640"}
+{"locality": "Flinton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Flinton"], "postal_code": "16640", "lat": 40.711195, "lng": -78.56081, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

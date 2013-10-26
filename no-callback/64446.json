@@ -1,1 +1,1 @@
-{"lat": 40.321432, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fairfax", "lng": -95.41748, "zip_code": "64446"}
+{"locality": "Fairfax", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fairfax"], "postal_code": "64446", "lat": 40.321432, "lng": -95.41748, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}, {"fips": "087", "name": "Holt"}]}

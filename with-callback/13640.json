@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.318866, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wellesley Island", "lng": -75.99068, "zip_code": "13640"});
+zipapicallback({"locality": "Wellesley Island", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fineview", "Wellesley Is", "Wellesley Island"], "postal_code": "13640", "lat": 44.318866, "lng": -75.99068, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]});

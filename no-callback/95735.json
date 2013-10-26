@@ -1,1 +1,1 @@
-{"lat": 38.805745, "region": {"abbr": "CA", "name": "California"}, "locality": "Twin Bridges", "lng": -120.13213, "zip_code": "95735"}
+{"locality": "Twin Bridges", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Twin Bridges"], "postal_code": "95735", "lat": 38.805745, "lng": -120.13213, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]}

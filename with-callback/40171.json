@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.969766, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Union Star", "lng": -86.43079, "zip_code": "40171"});
+zipapicallback({"locality": "Union Star", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Union Star"], "postal_code": "40171", "lat": 37.969766, "lng": -86.43079, "type": "STANDARD", "counties": [{"fips": "027", "name": "Breckinridge"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.090714, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Melrose", "lng": -84.41948, "zip_code": "45861"});
+zipapicallback({"locality": "Melrose", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Melrose"], "postal_code": "45861", "lat": 41.090714, "lng": -84.41948, "type": "POBOX", "counties": [{"fips": "125", "name": "Paulding"}]});

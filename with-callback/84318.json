@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.801888, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Hyde Park", "lng": -111.81535, "zip_code": "84318"});
+zipapicallback({"locality": "Hyde Park", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Hyde Park"], "postal_code": "84318", "lat": 41.801888, "lng": -111.81535, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cache"}]});

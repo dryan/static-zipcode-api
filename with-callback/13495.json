@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.110619, "region": {"abbr": "NY", "name": "New York"}, "locality": "Yorkville", "lng": -75.27716, "zip_code": "13495"});
+zipapicallback({"locality": "Yorkville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Yorkville"], "postal_code": "13495", "lat": 43.110619, "lng": -75.27716, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.934757, "region": {"abbr": "NY", "name": "New York"}, "locality": "Buffalo", "lng": -78.8118, "zip_code": "14215"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buffalo", "Cheektowaga", "Snyder"], "postal_code": "14215", "lat": 42.934757, "lng": -78.8118, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

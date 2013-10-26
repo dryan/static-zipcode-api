@@ -1,1 +1,1 @@
-{"lat": 41.023872, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Highland Center", "lng": -92.41741, "zip_code": "52501"}
+{"locality": "Ottumwa", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ottumwa"], "postal_code": "52501", "lat": 41.023872, "lng": -92.41741, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wapello"}]}

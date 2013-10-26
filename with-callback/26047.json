@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.519953, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "New Cumberland", "lng": -80.58925, "zip_code": "26047"});
+zipapicallback({"locality": "New Cumberland", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["New Cumberland", "New Cumberlnd"], "postal_code": "26047", "lat": 40.519953, "lng": -80.58925, "type": "STANDARD", "counties": [{"fips": "029", "name": "Hancock"}]});

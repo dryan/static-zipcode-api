@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.244818, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Garrison", "lng": -93.8155, "zip_code": "56450"});
+zipapicallback({"locality": "Garrison", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Garrison"], "postal_code": "56450", "lat": 46.244818, "lng": -93.8155, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crow Wing"}, {"fips": "095", "name": "Mille Lacs"}]});

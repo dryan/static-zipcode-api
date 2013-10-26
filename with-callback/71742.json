@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.834201, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Fordyce", "lng": -92.43421, "zip_code": "71742"});
+zipapicallback({"locality": "Fordyce", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Fordyce"], "postal_code": "71742", "lat": 33.834201, "lng": -92.43421, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dallas"}]});

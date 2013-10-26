@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.515311, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Dolores", "lng": -108.45204, "zip_code": "81323"});
+zipapicallback({"locality": "Dolores", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Dolores"], "postal_code": "81323", "lat": 37.515311, "lng": -108.45204, "type": "STANDARD", "counties": [{"fips": "083", "name": "Montezuma"}, {"fips": "033", "name": "Dolores"}]});

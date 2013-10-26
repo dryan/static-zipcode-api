@@ -1,1 +1,1 @@
-{"lat": 27.676376, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Indian River Sho", "lng": -80.37248, "zip_code": "32963"}
+{"locality": "Vero Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Indian River Shores", "Indn Riv Shrs", "Orchid", "Vero Beach"], "postal_code": "32963", "lat": 27.676376, "lng": -80.37248, "type": "STANDARD", "counties": [{"fips": "061", "name": "Indian River"}]}

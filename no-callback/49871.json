@@ -1,1 +1,1 @@
-{"lat": 46.440274, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Palmer", "lng": -87.58988, "zip_code": "49871"}
+{"locality": "Palmer", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Palmer"], "postal_code": "49871", "lat": 46.440274, "lng": -87.58988, "type": "POBOX", "counties": [{"fips": "103", "name": "Marquette"}]}

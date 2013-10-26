@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.291896, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Timberlake", "lng": -78.93552, "zip_code": "27583"});
+zipapicallback({"locality": "Timberlake", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Timberlake"], "postal_code": "27583", "lat": 36.291896, "lng": -78.93552, "type": "STANDARD", "counties": [{"fips": "145", "name": "Person"}]});

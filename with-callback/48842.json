@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.639235, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Holt", "lng": -84.52702, "zip_code": "48842"});
+zipapicallback({"locality": "Holt", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Holt"], "postal_code": "48842", "lat": 42.639235, "lng": -84.52702, "type": "STANDARD", "counties": [{"fips": "065", "name": "Ingham"}]});

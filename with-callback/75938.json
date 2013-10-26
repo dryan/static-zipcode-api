@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.916106, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rockland", "lng": -94.35108, "zip_code": "75938"});
+zipapicallback({"locality": "Colmesneil", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Colmesneil", "Rockland"], "postal_code": "75938", "lat": 30.916106, "lng": -94.35108, "type": "STANDARD", "counties": [{"fips": "457", "name": "Tyler"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.043409, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Modoc", "lng": -85.11692, "zip_code": "47358"});
+zipapicallback({"locality": "Modoc", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Modoc"], "postal_code": "47358", "lat": 40.043409, "lng": -85.11692, "type": "STANDARD", "counties": [{"fips": "135", "name": "Randolph"}, {"fips": "177", "name": "Wayne"}]});

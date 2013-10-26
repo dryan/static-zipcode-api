@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.976983, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Fairview", "lng": -87.14128, "zip_code": "37062"});
+zipapicallback({"locality": "Fairview", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Fairview"], "postal_code": "37062", "lat": 35.976983, "lng": -87.14128, "type": "STANDARD", "counties": [{"fips": "187", "name": "Williamson"}, {"fips": "043", "name": "Dickson"}]});

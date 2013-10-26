@@ -1,1 +1,1 @@
-{"lat": 37.699662, "region": {"abbr": "CA", "name": "California"}, "locality": "Yosemite National P", "lng": -119.67529, "zip_code": "95389"}
+{"locality": "Yosemite National Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tuolumne Mdws", "Tuolumne Meadows", "Wawona", "Yosemite National Park", "Yosemite Ntpk"], "postal_code": "95389", "lat": 37.699662, "lng": -119.67529, "type": "STANDARD", "counties": [{"fips": "043", "name": "Mariposa"}]}

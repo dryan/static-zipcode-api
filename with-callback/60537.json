@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.56253, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Millington", "lng": -88.59921, "zip_code": "60537"});
+zipapicallback({"locality": "Millington", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Millington"], "postal_code": "60537", "lat": 41.56253, "lng": -88.59921, "type": "POBOX", "counties": [{"fips": "093", "name": "Kendall"}]});

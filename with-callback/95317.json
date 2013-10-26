@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.127525, "region": {"abbr": "CA", "name": "California"}, "locality": "El Nido", "lng": -120.50574, "zip_code": "95317"});
+zipapicallback({"locality": "El Nido", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Nido"], "postal_code": "95317", "lat": 37.127525, "lng": -120.50574, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]});

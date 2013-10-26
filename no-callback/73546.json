@@ -1,1 +1,1 @@
-{"lat": 34.239154, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Grandfield", "lng": -98.72275, "zip_code": "73546"}
+{"locality": "Grandfield", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Grandfield"], "postal_code": "73546", "lat": 34.239154, "lng": -98.72275, "type": "STANDARD", "counties": [{"fips": "141", "name": "Tillman"}, {"fips": "067", "name": "Jefferson"}]}

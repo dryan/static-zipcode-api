@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.988674, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Milford", "lng": -77.29047, "zip_code": "22514"});
+zipapicallback({"locality": "Milford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Milford"], "postal_code": "22514", "lat": 37.988674, "lng": -77.29047, "type": "STANDARD", "counties": [{"fips": "033", "name": "Caroline"}]});

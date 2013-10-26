@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.011365, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Hilaire", "lng": -96.20491, "zip_code": "56754"});
+zipapicallback({"locality": "Saint Hilaire", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Hilaire"], "postal_code": "56754", "lat": 48.011365, "lng": -96.20491, "type": "STANDARD", "counties": [{"fips": "113", "name": "Pennington"}, {"fips": "125", "name": "Red Lake"}]});

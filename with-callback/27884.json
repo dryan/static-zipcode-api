@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.700448, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Stokes", "lng": -77.27014, "zip_code": "27884"});
+zipapicallback({"locality": "Stokes", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Stokes"], "postal_code": "27884", "lat": 35.700448, "lng": -77.27014, "type": "STANDARD", "counties": [{"fips": "147", "name": "Pitt"}]});

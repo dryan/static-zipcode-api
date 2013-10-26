@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.745973, "region": {"abbr": "CA", "name": "California"}, "locality": "Cohasset", "lng": -121.84259, "zip_code": "95926"});
+zipapicallback({"locality": "Chico", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Chico"], "postal_code": "95926", "lat": 39.745973, "lng": -121.84259, "type": "STANDARD", "counties": [{"fips": "007", "name": "Butte"}, {"fips": "103", "name": "Tehama"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.269157, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hampton", "lng": -82.17558, "zip_code": "37658"}
+{"locality": "Hampton", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hampton"], "postal_code": "37658", "lat": 36.269157, "lng": -82.17558, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carter"}, {"fips": "171", "name": "Unicoi"}]}

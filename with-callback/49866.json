@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.517192, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Negaunee", "lng": -87.58245, "zip_code": "49866"});
+zipapicallback({"locality": "Negaunee", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Negaunee"], "postal_code": "49866", "lat": 46.517192, "lng": -87.58245, "type": "STANDARD", "counties": [{"fips": "103", "name": "Marquette"}]});

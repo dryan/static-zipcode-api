@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.985004, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Derby Line", "lng": -72.05857, "zip_code": "05830"});
+zipapicallback({"locality": "Derby Line", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Derby Line"], "postal_code": "05830", "lat": 44.985004, "lng": -72.05857, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]});

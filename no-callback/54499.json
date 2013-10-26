@@ -1,1 +1,1 @@
-{"lat": 44.797279, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wittenberg", "lng": -89.18442, "zip_code": "54499"}
+{"locality": "Wittenberg", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wittenberg"], "postal_code": "54499", "lat": 44.797279, "lng": -89.18442, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}, {"fips": "135", "name": "Waupaca"}, {"fips": "097", "name": "Portage"}, {"fips": "073", "name": "Marathon"}]}

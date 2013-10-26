@@ -1,1 +1,1 @@
-{"lat": 29.575183, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Altair", "lng": -96.46831, "zip_code": "77412"}
+{"locality": "Altair", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Altair"], "postal_code": "77412", "lat": 29.575183, "lng": -96.46831, "type": "POBOX", "counties": [{"fips": "089", "name": "Colorado"}]}

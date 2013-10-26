@@ -1,1 +1,1 @@
-{"lat": 43.975269, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dover", "lng": -92.14213, "zip_code": "55929"}
+{"locality": "Dover", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dover"], "postal_code": "55929", "lat": 43.975269, "lng": -92.14213, "type": "STANDARD", "counties": [{"fips": "109", "name": "Olmsted"}]}

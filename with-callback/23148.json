@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.837177, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Indian Neck", "lng": -77.05555, "zip_code": "23148"});
+zipapicallback({"locality": "Saint Stephens Church", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cauthornville", "Indian Neck", "Saint Stephens Church", "St Stephens Church", "St Stephns Ch"], "postal_code": "23148", "lat": 37.837177, "lng": -77.05555, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]});

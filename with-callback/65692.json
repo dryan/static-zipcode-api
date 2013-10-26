@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.602467, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Koshkonong", "lng": -91.64615, "zip_code": "65692"});
+zipapicallback({"locality": "Koshkonong", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Koshkonong"], "postal_code": "65692", "lat": 36.602467, "lng": -91.64615, "type": "STANDARD", "counties": [{"fips": "149", "name": "Oregon"}, {"fips": "091", "name": "Howell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.28447, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rudolph", "lng": -83.69515, "zip_code": "43462"});
+zipapicallback({"locality": "Rudolph", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rudolph"], "postal_code": "43462", "lat": 41.28447, "lng": -83.69515, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}]});

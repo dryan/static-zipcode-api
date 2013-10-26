@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.272147, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "West Haven", "lng": -72.96496, "zip_code": "06516"});
+zipapicallback({"locality": "West Haven", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["W Haven", "West Haven"], "postal_code": "06516", "lat": 41.272147, "lng": -72.96496, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]});

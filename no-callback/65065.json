@@ -1,1 +1,1 @@
-{"lat": 38.130807, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Osage Beach", "lng": -92.66935, "zip_code": "65065"}
+{"locality": "Osage Beach", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Osage Beach"], "postal_code": "65065", "lat": 38.130807, "lng": -92.66935, "type": "STANDARD", "counties": [{"fips": "029", "name": "Camden"}]}

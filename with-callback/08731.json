@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.848035, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Forked River", "lng": -74.21297, "zip_code": "08731"});
+zipapicallback({"locality": "Forked River", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Forked River"], "postal_code": "08731", "lat": 39.848035, "lng": -74.21297, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

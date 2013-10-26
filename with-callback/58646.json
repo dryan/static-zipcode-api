@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.379559, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Burt", "lng": -102.28758, "zip_code": "58646"});
+zipapicallback({"locality": "Mott", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Burt", "Mott"], "postal_code": "58646", "lat": 46.379559, "lng": -102.28758, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hettinger"}, {"fips": "089", "name": "Stark"}, {"fips": "001", "name": "Adams"}]});

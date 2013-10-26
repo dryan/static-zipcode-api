@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.508481, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Silt", "lng": -107.66873, "zip_code": "81652"});
+zipapicallback({"locality": "Silt", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Silt"], "postal_code": "81652", "lat": 39.508481, "lng": -107.66873, "type": "STANDARD", "counties": [{"fips": "045", "name": "Garfield"}]});

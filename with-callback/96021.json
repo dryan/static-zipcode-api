@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.918271, "region": {"abbr": "CA", "name": "California"}, "locality": "Corning", "lng": -122.21393, "zip_code": "96021"});
+zipapicallback({"locality": "Corning", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Corning"], "postal_code": "96021", "lat": 39.918271, "lng": -122.21393, "type": "STANDARD", "counties": [{"fips": "103", "name": "Tehama"}, {"fips": "089", "name": "Shasta"}]});

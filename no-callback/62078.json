@@ -1,1 +1,1 @@
-{"lat": 39.477337, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Patterson", "lng": -90.48002, "zip_code": "62078"}
+{"locality": "Patterson", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Patterson"], "postal_code": "62078", "lat": 39.477337, "lng": -90.48002, "type": "POBOX", "counties": [{"fips": "061", "name": "Greene"}]}

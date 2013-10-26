@@ -1,1 +1,1 @@
-{"lat": 36.383753, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ringwood", "lng": -98.27411, "zip_code": "73768"}
+{"locality": "Ringwood", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ringwood"], "postal_code": "73768", "lat": 36.383753, "lng": -98.27411, "type": "STANDARD", "counties": [{"fips": "093", "name": "Major"}, {"fips": "003", "name": "Alfalfa"}]}

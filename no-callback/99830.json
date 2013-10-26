@@ -1,1 +1,1 @@
-{"lat": 56.975011, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kake", "lng": -133.9323, "zip_code": "99830"}
+{"locality": "Kake", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kake"], "postal_code": "99830", "lat": 56.975011, "lng": -133.9323, "type": "POBOX", "counties": [{"fips": "280", "name": "Wrangell-Petersburg"}]}

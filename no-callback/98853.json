@@ -1,1 +1,1 @@
-{"lat": 47.417461, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Stratford", "lng": -119.28312, "zip_code": "98853"}
+{"locality": "Stratford", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Stratford"], "postal_code": "98853", "lat": 47.417461, "lng": -119.28312, "type": "POBOX", "counties": [{"fips": "025", "name": "Grant"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.626947, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pontiac", "lng": -83.30243, "zip_code": "48341"});
+zipapicallback({"locality": "Pontiac", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pontiac"], "postal_code": "48341", "lat": 42.626947, "lng": -83.30243, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 42.567701, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gordon", "lng": -102.00083, "zip_code": "69343"}
+{"locality": "Gordon", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gordon"], "postal_code": "69343", "lat": 42.567701, "lng": -102.00083, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sheridan"}, {"fips": "031", "name": "Cherry"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.081548, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Haven", "lng": -84.98664, "zip_code": "46774"}
+{"locality": "New Haven", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Haven"], "postal_code": "46774", "lat": 41.081548, "lng": -84.98664, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]}

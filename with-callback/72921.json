@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.48891, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Alma", "lng": -94.20897, "zip_code": "72921"});
+zipapicallback({"locality": "Alma", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Alma"], "postal_code": "72921", "lat": 35.48891, "lng": -94.20897, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}]});

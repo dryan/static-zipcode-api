@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.566266, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Windom", "lng": -96.01082, "zip_code": "75492"});
+zipapicallback({"locality": "Windom", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Windom"], "postal_code": "75492", "lat": 33.566266, "lng": -96.01082, "type": "STANDARD", "counties": [{"fips": "147", "name": "Fannin"}]});

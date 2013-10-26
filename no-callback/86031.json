@@ -1,1 +1,1 @@
-{"lat": 35.48041, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Indian Wells", "lng": -110.09228, "zip_code": "86031"}
+{"locality": "Indian Wells", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Holbrook", "Indian Wells"], "postal_code": "86031", "lat": 35.48041, "lng": -110.09228, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

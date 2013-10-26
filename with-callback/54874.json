@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.58521, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wentworth", "lng": -91.95129, "zip_code": "54874"});
+zipapicallback({"locality": "South Range", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["South Range", "Wentworth"], "postal_code": "54874", "lat": 46.58521, "lng": -91.95129, "type": "STANDARD", "counties": [{"fips": "031", "name": "Douglas"}]});

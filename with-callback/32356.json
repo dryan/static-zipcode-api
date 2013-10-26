@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.900822, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Salem", "lng": -83.42088, "zip_code": "32356"});
+zipapicallback({"locality": "Salem", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Salem"], "postal_code": "32356", "lat": 29.900822, "lng": -83.42088, "type": "STANDARD", "counties": [{"fips": "123", "name": "Taylor"}, {"fips": "029", "name": "Dixie"}]});

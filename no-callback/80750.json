@@ -1,1 +1,1 @@
-{"lat": 40.382063, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Snyder", "lng": -103.60936, "zip_code": "80750"}
+{"locality": "Snyder", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Snyder"], "postal_code": "80750", "lat": 40.382063, "lng": -103.60936, "type": "STANDARD", "counties": [{"fips": "087", "name": "Morgan"}]}

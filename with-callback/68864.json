@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.244441, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Palmer", "lng": -98.22475, "zip_code": "68864"});
+zipapicallback({"locality": "Palmer", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Palmer"], "postal_code": "68864", "lat": 41.244441, "lng": -98.22475, "type": "STANDARD", "counties": [{"fips": "121", "name": "Merrick"}, {"fips": "093", "name": "Howard"}, {"fips": "125", "name": "Nance"}]});

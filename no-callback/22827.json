@@ -1,1 +1,1 @@
-{"lat": 38.404364, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Elkton", "lng": -78.62907, "zip_code": "22827"}
+{"locality": "Elkton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Elkton"], "postal_code": "22827", "lat": 38.404364, "lng": -78.62907, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}, {"fips": "139", "name": "Page"}]}

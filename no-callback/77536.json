@@ -1,1 +1,1 @@
-{"lat": 29.687657, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Deer Park", "lng": -95.1201, "zip_code": "77536"}
+{"locality": "Deer Park", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Deer Park"], "postal_code": "77536", "lat": 29.687657, "lng": -95.1201, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

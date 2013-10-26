@@ -1,1 +1,1 @@
-{"lat": 61.785228, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Russian", "lng": -161.36476, "zip_code": "99657"}
+{"locality": "Russian Mission", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Russian Mission", "Russian Msn"], "postal_code": "99657", "lat": 61.785228, "lng": -161.36476, "type": "POBOX", "counties": [{"fips": "270", "name": "Wade Hampton"}]}

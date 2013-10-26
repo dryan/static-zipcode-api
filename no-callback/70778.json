@@ -1,1 +1,1 @@
-{"lat": 30.182068, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Sorrento", "lng": -90.85707, "zip_code": "70778"}
+{"locality": "Sorrento", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Sorrento"], "postal_code": "70778", "lat": 30.182068, "lng": -90.85707, "type": "STANDARD", "counties": [{"fips": "005", "name": "Ascension"}]}

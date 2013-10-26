@@ -1,1 +1,1 @@
-{"lat": 36.958048, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Drakes Branch", "lng": -78.53403, "zip_code": "23937"}
+{"locality": "Drakes Branch", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Drakes Branch"], "postal_code": "23937", "lat": 36.958048, "lng": -78.53403, "type": "STANDARD", "counties": [{"fips": "037", "name": "Charlotte"}]}

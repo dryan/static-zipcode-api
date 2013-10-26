@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.299293, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ashland City", "lng": -87.06949, "zip_code": "37015"});
+zipapicallback({"locality": "Ashland City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Ashland City"], "postal_code": "37015", "lat": 36.299293, "lng": -87.06949, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cheatham"}, {"fips": "125", "name": "Montgomery"}, {"fips": "037", "name": "Davidson"}]});

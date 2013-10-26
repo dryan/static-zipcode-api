@@ -1,1 +1,1 @@
-{"lat": 40.024138, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "South Connellsvi", "lng": -79.58414, "zip_code": "15425"}
+{"locality": "Connellsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Connellsville", "S Connellsvl"], "postal_code": "15425", "lat": 40.024138, "lng": -79.58414, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

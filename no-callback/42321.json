@@ -1,1 +1,1 @@
-{"lat": 37.177839, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Beech Creek", "lng": -87.05761, "zip_code": "42321"}
+{"locality": "Beech Creek", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Beech Creek"], "postal_code": "42321", "lat": 37.177839, "lng": -87.05761, "type": "STANDARD", "counties": [{"fips": "177", "name": "Muhlenberg"}]}

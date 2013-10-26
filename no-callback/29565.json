@@ -1,1 +1,1 @@
-{"lat": 34.340797, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Latta", "lng": -79.45893, "zip_code": "29565"}
+{"locality": "Latta", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Latta"], "postal_code": "29565", "lat": 34.340797, "lng": -79.45893, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dillon"}, {"fips": "069", "name": "Marlboro"}, {"fips": "067", "name": "Marion"}]}

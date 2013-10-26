@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.760034, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Garfield", "lng": -107.27535, "zip_code": "87936"});
+zipapicallback({"locality": "Garfield", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Garfield"], "postal_code": "87936", "lat": 32.760034, "lng": -107.27535, "type": "STANDARD", "counties": [{"fips": "013", "name": "Dona Ana"}]});

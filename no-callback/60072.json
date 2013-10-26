@@ -1,1 +1,1 @@
-{"lat": 42.405464, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ringwood", "lng": -88.30274, "zip_code": "60072"}
+{"locality": "Ringwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ringwood"], "postal_code": "60072", "lat": 42.405464, "lng": -88.30274, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}]}

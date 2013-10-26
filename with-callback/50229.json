@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.381146, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Prole", "lng": -93.77547, "zip_code": "50229"});
+zipapicallback({"locality": "Prole", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Prole"], "postal_code": "50229", "lat": 41.381146, "lng": -93.77547, "type": "STANDARD", "counties": [{"fips": "181", "name": "Warren"}, {"fips": "121", "name": "Madison"}]});

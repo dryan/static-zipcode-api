@@ -1,1 +1,1 @@
-{"lat": 47.470971, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Port Orchard", "lng": -122.66335, "zip_code": "98367"}
+{"locality": "Port Orchard", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Port Orchard"], "postal_code": "98367", "lat": 47.470971, "lng": -122.66335, "type": "STANDARD", "counties": []}

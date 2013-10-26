@@ -1,1 +1,1 @@
-{"lat": 33.681768, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fayette", "lng": -87.83026, "zip_code": "35555"}
+{"locality": "Fayette", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fayette"], "postal_code": "35555", "lat": 33.681768, "lng": -87.83026, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fayette"}, {"fips": "127", "name": "Walker"}, {"fips": "075", "name": "Lamar"}, {"fips": "125", "name": "Tuscaloosa"}, {"fips": "107", "name": "Pickens"}]}

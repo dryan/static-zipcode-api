@@ -1,1 +1,1 @@
-{"lat": 39.522181, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Eminence", "lng": -86.64102, "zip_code": "46125"}
+{"locality": "Eminence", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Eminence"], "postal_code": "46125", "lat": 39.522181, "lng": -86.64102, "type": "POBOX", "counties": [{"fips": "109", "name": "Morgan"}]}

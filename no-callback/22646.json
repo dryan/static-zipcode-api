@@ -1,1 +1,1 @@
-{"lat": 39.069682, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Millwood", "lng": -78.03752, "zip_code": "22646"}
+{"locality": "Millwood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Millwood"], "postal_code": "22646", "lat": 39.069682, "lng": -78.03752, "type": "POBOX", "counties": [{"fips": "043", "name": "Clarke"}]}

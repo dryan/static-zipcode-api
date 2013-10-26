@@ -1,1 +1,1 @@
-{"lat": 41.231146, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Treynor", "lng": -95.61155, "zip_code": "51575"}
+{"locality": "Treynor", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Treynor"], "postal_code": "51575", "lat": 41.231146, "lng": -95.61155, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]}

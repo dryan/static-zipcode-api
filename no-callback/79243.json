@@ -1,1 +1,1 @@
-{"lat": 33.787306, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mcadoo", "lng": -100.98464, "zip_code": "79243"}
+{"locality": "Mcadoo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mcadoo"], "postal_code": "79243", "lat": 33.787306, "lng": -100.98464, "type": "STANDARD", "counties": [{"fips": "125", "name": "Dickens"}, {"fips": "107", "name": "Crosby"}]}

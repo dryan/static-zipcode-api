@@ -1,1 +1,1 @@
-{"lat": 40.233504, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "West Point", "lng": -91.19727, "zip_code": "62380"}
+{"locality": "West Point", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["West Point"], "postal_code": "62380", "lat": 40.233504, "lng": -91.19727, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}, {"fips": "001", "name": "Adams"}]}

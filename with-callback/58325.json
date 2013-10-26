@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.272135, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Churchs Ferry", "lng": -99.16654, "zip_code": "58325"});
+zipapicallback({"locality": "Churchs Ferry", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Churchs Ferry"], "postal_code": "58325", "lat": 48.272135, "lng": -99.16654, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}, {"fips": "005", "name": "Benson"}]});

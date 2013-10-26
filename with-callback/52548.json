@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.085573, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Chillicothe", "lng": -92.52863, "zip_code": "52548"});
+zipapicallback({"locality": "Chillicothe", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Chillicothe"], "postal_code": "52548", "lat": 41.085573, "lng": -92.52863, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wapello"}]});

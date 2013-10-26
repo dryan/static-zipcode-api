@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.022849, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pacific Junction", "lng": -95.80303, "zip_code": "51561"});
+zipapicallback({"locality": "Pacific Junction", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pacific Jct", "Pacific Junction"], "postal_code": "51561", "lat": 41.022849, "lng": -95.80303, "type": "STANDARD", "counties": [{"fips": "129", "name": "Mills"}]});

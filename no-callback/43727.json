@@ -1,1 +1,1 @@
-{"lat": 39.873402, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chandlersville", "lng": -81.81724, "zip_code": "43727"}
+{"locality": "Chandlersville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Chandlersville", "Chandlersvlle"], "postal_code": "43727", "lat": 39.873402, "lng": -81.81724, "type": "STANDARD", "counties": [{"fips": "119", "name": "Muskingum"}]}

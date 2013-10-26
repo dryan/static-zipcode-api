@@ -1,1 +1,1 @@
-{"lat": 40.953126, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Oradell", "lng": -74.03379, "zip_code": "07649"}
+{"locality": "Oradell", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Oradell"], "postal_code": "07649", "lat": 40.953126, "lng": -74.03379, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

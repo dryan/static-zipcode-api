@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.58816, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Fonda", "lng": -94.84192, "zip_code": "50540"});
+zipapicallback({"locality": "Fonda", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Fonda"], "postal_code": "50540", "lat": 42.58816, "lng": -94.84192, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pocahontas"}]});

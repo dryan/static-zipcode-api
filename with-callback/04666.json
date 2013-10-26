@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.975116, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Pembroke", "lng": -67.1946, "zip_code": "04666"});
+zipapicallback({"locality": "Pembroke", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Charlotte", "Pembroke"], "postal_code": "04666", "lat": 44.975116, "lng": -67.1946, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.138832, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Heiskell", "lng": -84.03142, "zip_code": "37754"}
+{"locality": "Heiskell", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Heiskell"], "postal_code": "37754", "lat": 36.138832, "lng": -84.03142, "type": "STANDARD", "counties": [{"fips": "093", "name": "Knox"}, {"fips": "001", "name": "Anderson"}, {"fips": "173", "name": "Union"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.736595, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Carver", "lng": -93.65619, "zip_code": "55315"});
+zipapicallback({"locality": "Carver", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Carver"], "postal_code": "55315", "lat": 44.736595, "lng": -93.65619, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carver"}]});

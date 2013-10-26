@@ -1,1 +1,1 @@
-{"lat": 38.991916, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Troy", "lng": -90.98649, "zip_code": "63379"}
+{"locality": "Troy", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Troy"], "postal_code": "63379", "lat": 38.991916, "lng": -90.98649, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}]}

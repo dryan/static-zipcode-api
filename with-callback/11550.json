@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.702271, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hempstead", "lng": -73.61741, "zip_code": "11550"});
+zipapicallback({"locality": "Hempstead", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hempstead", "S Hempstead", "South Hempstead"], "postal_code": "11550", "lat": 40.702271, "lng": -73.61741, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.05991, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Amlin", "lng": -83.18299, "zip_code": "43002"}
+{"locality": "Amlin", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Amlin"], "postal_code": "43002", "lat": 40.05991, "lng": -83.18299, "type": "POBOX", "counties": [{"fips": "049", "name": "Franklin"}, {"fips": "097", "name": "Madison"}, {"fips": "159", "name": "Union"}]}

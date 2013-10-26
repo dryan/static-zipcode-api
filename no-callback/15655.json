@@ -1,1 +1,1 @@
-{"lat": 40.202095, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Laughlintown", "lng": -79.19266, "zip_code": "15655"}
+{"locality": "Laughlintown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Laughlintown"], "postal_code": "15655", "lat": 40.202095, "lng": -79.19266, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

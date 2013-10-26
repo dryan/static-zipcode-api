@@ -1,1 +1,1 @@
-{"lat": 38.403011, "region": {"abbr": "CA", "name": "California"}, "locality": "Yountville", "lng": -122.36228, "zip_code": "94599"}
+{"locality": "Yountville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yountville"], "postal_code": "94599", "lat": 38.403011, "lng": -122.36228, "type": "STANDARD", "counties": [{"fips": "055", "name": "Napa"}]}

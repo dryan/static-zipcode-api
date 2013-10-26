@@ -1,1 +1,1 @@
-{"lat": 48.869494, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Salol", "lng": -95.51436, "zip_code": "56756"}
+{"locality": "Salol", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Salol"], "postal_code": "56756", "lat": 48.869494, "lng": -95.51436, "type": "STANDARD", "counties": [{"fips": "135", "name": "Roseau"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.09809, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Arcadia", "lng": -95.02441, "zip_code": "51430"}
+{"locality": "Arcadia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Arcadia"], "postal_code": "51430", "lat": 42.09809, "lng": -95.02441, "type": "STANDARD", "counties": [{"fips": "027", "name": "Carroll"}]}

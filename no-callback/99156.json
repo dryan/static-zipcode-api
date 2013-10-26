@@ -1,1 +1,1 @@
-{"lat": 48.159752, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Newport", "lng": -117.16984, "zip_code": "99156"}
+{"locality": "Newport", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Newport"], "postal_code": "99156", "lat": 48.159752, "lng": -117.16984, "type": "STANDARD", "counties": [{"fips": "051", "name": "Pend Oreille"}, {"fips": "063", "name": "Spokane"}]}

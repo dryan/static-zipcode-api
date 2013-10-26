@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.832798, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Bloomfield", "lng": -72.72642, "zip_code": "06002"});
+zipapicallback({"locality": "Bloomfield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Bloomfield"], "postal_code": "06002", "lat": 41.832798, "lng": -72.72642, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

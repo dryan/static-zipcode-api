@@ -1,1 +1,1 @@
-{"lat": 37.312239, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Jolo", "lng": -81.82478, "zip_code": "24850"}
+{"locality": "Jolo", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Jolo"], "postal_code": "24850", "lat": 37.312239, "lng": -81.82478, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]}

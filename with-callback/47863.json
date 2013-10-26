@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.580862, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Goshen", "lng": -87.46293, "zip_code": "47863"});
+zipapicallback({"locality": "New Goshen", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Goshen"], "postal_code": "47863", "lat": 39.580862, "lng": -87.46293, "type": "POBOX", "counties": [{"fips": "167", "name": "Vigo"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.133513, "region": {"abbr": "CA", "name": "California"}, "locality": "Calabasas", "lng": -118.66464, "zip_code": "91302"}
+{"locality": "Calabasas", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Calabasas", "Hidden Hills", "Monte Nido", "Woodland Hills", "Woodland Hls"], "postal_code": "91302", "lat": 34.133513, "lng": -118.66464, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]}

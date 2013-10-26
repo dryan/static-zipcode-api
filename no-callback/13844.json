@@ -1,1 +1,1 @@
-{"lat": 42.603506, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Plymouth", "lng": -75.67053, "zip_code": "13844"}
+{"locality": "South Plymouth", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["So Plymouth", "South Plymouth"], "postal_code": "13844", "lat": 42.603506, "lng": -75.67053, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}]}

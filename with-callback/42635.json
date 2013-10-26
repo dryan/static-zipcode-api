@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.663153, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hollyhill", "lng": -84.41611, "zip_code": "42635"});
+zipapicallback({"locality": "Pine Knot", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Pine Knot"], "postal_code": "42635", "lat": 36.663153, "lng": -84.41611, "type": "STANDARD", "counties": [{"fips": "147", "name": "McCreary"}]});

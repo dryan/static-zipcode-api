@@ -1,1 +1,1 @@
-{"lat": 37.580346, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "West End", "lng": -77.48831, "zip_code": "23230"}
+{"locality": "Richmond", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Richmond"], "postal_code": "23230", "lat": 37.580346, "lng": -77.48831, "type": "STANDARD", "counties": [{"fips": "087", "name": "Henrico"}, {"fips": "760", "name": "Richmond (City)"}]}

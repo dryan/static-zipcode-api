@@ -1,1 +1,1 @@
-{"lat": 35.109275, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Verden", "lng": -98.08247, "zip_code": "73092"}
+{"locality": "Verden", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Verden"], "postal_code": "73092", "lat": 35.109275, "lng": -98.08247, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grady"}, {"fips": "015", "name": "Caddo"}]}

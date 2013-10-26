@@ -1,1 +1,1 @@
-{"lat": 47.669608, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Brantford", "lng": -99.10553, "zip_code": "58356"}
+{"locality": "New Rockford", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Brantford", "Bremen", "New Rockford"], "postal_code": "58356", "lat": 47.669608, "lng": -99.10553, "type": "STANDARD", "counties": [{"fips": "027", "name": "Eddy"}, {"fips": "031", "name": "Foster"}, {"fips": "103", "name": "Wells"}]}

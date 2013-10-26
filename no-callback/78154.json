@@ -1,1 +1,1 @@
-{"lat": 29.577359, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Selma", "lng": -98.2787, "zip_code": "78154"}
+{"locality": "Schertz", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Schertz", "Selma"], "postal_code": "78154", "lat": 29.577359, "lng": -98.2787, "type": "STANDARD", "counties": [{"fips": "187", "name": "Guadalupe"}, {"fips": "029", "name": "Bexar"}, {"fips": "091", "name": "Comal"}]}

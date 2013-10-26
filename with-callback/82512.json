@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.428698, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Crowheart", "lng": -109.21806, "zip_code": "82512"});
+zipapicallback({"locality": "Crowheart", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Burris", "Crowheart"], "postal_code": "82512", "lat": 43.428698, "lng": -109.21806, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]});

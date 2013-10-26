@@ -1,1 +1,1 @@
-{"lat": 38.252854, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Louisville", "lng": -85.75137, "zip_code": "40202"}
+{"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Louisville"], "postal_code": "40202", "lat": 38.252854, "lng": -85.75137, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]}

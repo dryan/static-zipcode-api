@@ -1,1 +1,1 @@
-{"lat": 37.434719, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Birdsnest", "lng": -75.87767, "zip_code": "23307"}
+{"locality": "Birdsnest", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Birdsnest"], "postal_code": "23307", "lat": 37.434719, "lng": -75.87767, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]}

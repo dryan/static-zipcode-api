@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.173408, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "La Loma", "lng": -104.98272, "zip_code": "87724"});
+zipapicallback({"locality": "La Loma", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["La Loma"], "postal_code": "87724", "lat": 35.173408, "lng": -104.98272, "type": "STANDARD", "counties": [{"fips": "019", "name": "Guadalupe"}]});

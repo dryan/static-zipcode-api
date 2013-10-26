@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.031642, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Winigan", "lng": -92.9641, "zip_code": "63566"});
+zipapicallback({"locality": "Winigan", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Winigan"], "postal_code": "63566", "lat": 40.031642, "lng": -92.9641, "type": "STANDARD", "counties": [{"fips": "211", "name": "Sullivan"}, {"fips": "115", "name": "Linn"}]});

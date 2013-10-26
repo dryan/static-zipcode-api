@@ -1,1 +1,1 @@
-{"lat": 32.715412, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Millsap", "lng": -98.00165, "zip_code": "76066"}
+{"locality": "Millsap", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cool", "Millsap"], "postal_code": "76066", "lat": 32.715412, "lng": -98.00165, "type": "STANDARD", "counties": [{"fips": "367", "name": "Parker"}, {"fips": "363", "name": "Palo Pinto"}]}

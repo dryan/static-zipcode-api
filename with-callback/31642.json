@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.27291, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Pearson", "lng": -82.83342, "zip_code": "31642"});
+zipapicallback({"locality": "Pearson", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pearson"], "postal_code": "31642", "lat": 31.27291, "lng": -82.83342, "type": "STANDARD", "counties": [{"fips": "003", "name": "Atkinson"}, {"fips": "065", "name": "Clinch"}, {"fips": "069", "name": "Coffee"}]});

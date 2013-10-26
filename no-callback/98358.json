@@ -1,1 +1,1 @@
-{"lat": 48.058323, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Nordland", "lng": -122.68794, "zip_code": "98358"}
+{"locality": "Nordland", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Nordland"], "postal_code": "98358", "lat": 48.058323, "lng": -122.68794, "type": "STANDARD", "counties": [{"fips": "031", "name": "Jefferson"}]}

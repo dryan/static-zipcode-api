@@ -1,1 +1,1 @@
-{"lat": 35.163915, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wooster", "lng": -92.45297, "zip_code": "72181"}
+{"locality": "Wooster", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wooster"], "postal_code": "72181", "lat": 35.163915, "lng": -92.45297, "type": "STANDARD", "counties": [{"fips": "045", "name": "Faulkner"}]}

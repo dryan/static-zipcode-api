@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.14445, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rowe", "lng": -81.99735, "zip_code": "24646"});
+zipapicallback({"locality": "Rowe", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rowe"], "postal_code": "24646", "lat": 37.14445, "lng": -81.99735, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}, {"fips": "167", "name": "Russell"}]});

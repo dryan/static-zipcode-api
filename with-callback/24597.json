@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.782331, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ingram", "lng": -79.1237, "zip_code": "24597"});
+zipapicallback({"locality": "Vernon Hill", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ingram", "Vernon Hill"], "postal_code": "24597", "lat": 36.782331, "lng": -79.1237, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}, {"fips": "143", "name": "Pittsylvania"}]});

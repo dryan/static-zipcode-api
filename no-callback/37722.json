@@ -1,1 +1,1 @@
-{"lat": 35.820011, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cosby", "lng": -83.24441, "zip_code": "37722"}
+{"locality": "Cosby", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cosby"], "postal_code": "37722", "lat": 35.820011, "lng": -83.24441, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cocke"}, {"fips": "155", "name": "Sevier"}]}

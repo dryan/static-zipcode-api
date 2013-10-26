@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.732092, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sabine Pass", "lng": -93.90117, "zip_code": "77655"});
+zipapicallback({"locality": "Sabine Pass", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sabine Pass"], "postal_code": "77655", "lat": 29.732092, "lng": -93.90117, "type": "STANDARD", "counties": [{"fips": "245", "name": "Jefferson"}]});

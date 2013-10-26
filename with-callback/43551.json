@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.540724, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Perrysburg", "lng": -83.58904, "zip_code": "43551"});
+zipapicallback({"locality": "Perrysburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Perrysburg"], "postal_code": "43551", "lat": 41.540724, "lng": -83.58904, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}]});

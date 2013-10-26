@@ -1,1 +1,1 @@
-{"lat": 45.290863, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Correll", "lng": -96.16888, "zip_code": "56227"}
+{"locality": "Correll", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Correll"], "postal_code": "56227", "lat": 45.290863, "lng": -96.16888, "type": "STANDARD", "counties": [{"fips": "011", "name": "Big Stone"}]}

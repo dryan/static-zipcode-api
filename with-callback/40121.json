@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.895491, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Fort Knox", "lng": -85.9662, "zip_code": "40121"});
+zipapicallback({"locality": "Fort Knox", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Fort Knox"], "postal_code": "40121", "lat": 37.895491, "lng": -85.9662, "type": "STANDARD", "counties": [{"fips": "093", "name": "Hardin"}]});

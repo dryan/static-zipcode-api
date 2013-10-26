@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.519197, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stockville", "lng": -100.37754, "zip_code": "69042"});
+zipapicallback({"locality": "Stockville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stockville"], "postal_code": "69042", "lat": 40.519197, "lng": -100.37754, "type": "STANDARD", "counties": [{"fips": "063", "name": "Frontier"}]});

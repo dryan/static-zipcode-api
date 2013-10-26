@@ -1,1 +1,1 @@
-{"lat": 37.494728, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Sawyer", "lng": -98.68324, "zip_code": "67134"}
+{"locality": "Sawyer", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Sawyer"], "postal_code": "67134", "lat": 37.494728, "lng": -98.68324, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pratt"}, {"fips": "007", "name": "Barber"}]}

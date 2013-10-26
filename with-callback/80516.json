@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.051051, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Erie", "lng": -105.02767, "zip_code": "80516"});
+zipapicallback({"locality": "Erie", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Erie", "Frederick"], "postal_code": "80516", "lat": 40.051051, "lng": -105.02767, "type": "STANDARD", "counties": [{"fips": "013", "name": "Boulder"}]});

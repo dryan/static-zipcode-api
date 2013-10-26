@@ -1,1 +1,1 @@
-{"lat": 48.787016, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hallock", "lng": -96.95434, "zip_code": "56728"}
+{"locality": "Hallock", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hallock"], "postal_code": "56728", "lat": 48.787016, "lng": -96.95434, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kittson"}]}

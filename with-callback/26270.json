@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.915141, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Harman", "lng": -79.53066, "zip_code": "26270"});
+zipapicallback({"locality": "Harman", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Harman"], "postal_code": "26270", "lat": 38.915141, "lng": -79.53066, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}, {"fips": "071", "name": "Pendleton"}]});

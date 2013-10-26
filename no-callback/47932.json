@@ -1,1 +1,1 @@
-{"lat": 40.133867, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Covington", "lng": -87.40081, "zip_code": "47932"}
+{"locality": "Covington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Covington"], "postal_code": "47932", "lat": 40.133867, "lng": -87.40081, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fountain"}]}

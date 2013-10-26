@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.064734, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Laird", "lng": -102.21336, "zip_code": "80758"});
+zipapicallback({"locality": "Wray", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Laird", "Wray"], "postal_code": "80758", "lat": 40.064734, "lng": -102.21336, "type": "STANDARD", "counties": [{"fips": "125", "name": "Yuma"}]});

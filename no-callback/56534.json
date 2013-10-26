@@ -1,1 +1,1 @@
-{"lat": 46.470638, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Erhard", "lng": -96.01013, "zip_code": "56534"}
+{"locality": "Erhard", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Erhard"], "postal_code": "56534", "lat": 46.470638, "lng": -96.01013, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]}

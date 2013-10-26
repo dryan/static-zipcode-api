@@ -1,1 +1,1 @@
-{"lat": 33.04314, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Scroggins", "lng": -95.19302, "zip_code": "75480"}
+{"locality": "Scroggins", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Scroggins"], "postal_code": "75480", "lat": 33.04314, "lng": -95.19302, "type": "STANDARD", "counties": [{"fips": "159", "name": "Franklin"}, {"fips": "499", "name": "Wood"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.693435, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Scotland", "lng": -72.09891, "zip_code": "06264"}
+{"locality": "Scotland", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Scotland"], "postal_code": "06264", "lat": 41.693435, "lng": -72.09891, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]}

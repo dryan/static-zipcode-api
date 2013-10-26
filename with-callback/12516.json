@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.112895, "region": {"abbr": "NY", "name": "New York"}, "locality": "Copake", "lng": -73.56201, "zip_code": "12516"});
+zipapicallback({"locality": "Copake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Copake"], "postal_code": "12516", "lat": 42.112895, "lng": -73.56201, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]});

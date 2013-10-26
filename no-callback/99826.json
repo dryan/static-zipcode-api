@@ -1,1 +1,1 @@
-{"lat": 58.434052, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Gustavus", "lng": -135.73088, "zip_code": "99826"}
+{"locality": "Gustavus", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Gustavus"], "postal_code": "99826", "lat": 58.434052, "lng": -135.73088, "type": "POBOX", "counties": [{"fips": "231", "name": "Skagway-Yakutat-Angoon"}]}

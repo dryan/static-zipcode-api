@@ -1,1 +1,1 @@
-{"lat": 36.971021, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Gretna", "lng": -79.31787, "zip_code": "24557"}
+{"locality": "Gretna", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Gretna"], "postal_code": "24557", "lat": 36.971021, "lng": -79.31787, "type": "STANDARD", "counties": [{"fips": "143", "name": "Pittsylvania"}, {"fips": "083", "name": "Halifax"}]}

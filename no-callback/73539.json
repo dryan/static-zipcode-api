@@ -1,1 +1,1 @@
-{"lat": 34.457367, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Elmer", "lng": -99.28051, "zip_code": "73539"}
+{"locality": "Elmer", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Elmer"], "postal_code": "73539", "lat": 34.457367, "lng": -99.28051, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jackson"}]}

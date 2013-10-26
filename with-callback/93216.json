@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.771876, "region": {"abbr": "CA", "name": "California"}, "locality": "Delano", "lng": -119.26984, "zip_code": "93216"});
+zipapicallback({"locality": "Delano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Delano"], "postal_code": "93216", "lat": 35.771876, "lng": -119.26984, "type": "POBOX", "counties": [{"fips": "029", "name": "Kern"}]});

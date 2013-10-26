@@ -1,1 +1,1 @@
-zipapicallback({"lat": 59.279037, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Haines", "lng": -135.6122, "zip_code": "99827"});
+zipapicallback({"locality": "Haines", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Haines"], "postal_code": "99827", "lat": 59.279037, "lng": -135.6122, "type": "STANDARD", "counties": [{"fips": "231", "name": "Skagway-Yakutat-Angoon"}]});

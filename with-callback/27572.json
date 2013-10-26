@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.238956, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Rougemont", "lng": -78.88293, "zip_code": "27572"});
+zipapicallback({"locality": "Rougemont", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Rougemont"], "postal_code": "27572", "lat": 36.238956, "lng": -78.88293, "type": "STANDARD", "counties": [{"fips": "063", "name": "Durham"}, {"fips": "145", "name": "Person"}, {"fips": "135", "name": "Orange"}, {"fips": "077", "name": "Granville"}]});

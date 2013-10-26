@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.883556, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Holland", "lng": -97.396, "zip_code": "76534"});
+zipapicallback({"locality": "Holland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Holland"], "postal_code": "76534", "lat": 30.883556, "lng": -97.396, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}, {"fips": "331", "name": "Milam"}]});

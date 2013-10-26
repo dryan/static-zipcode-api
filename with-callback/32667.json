@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.502067, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Micanopy", "lng": -82.27775, "zip_code": "32667"});
+zipapicallback({"locality": "Micanopy", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Micanopy"], "postal_code": "32667", "lat": 29.502067, "lng": -82.27775, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alachua"}, {"fips": "083", "name": "Marion"}]});

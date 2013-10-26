@@ -1,1 +1,1 @@
-{"lat": 38.282767, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Grahn", "lng": -83.0727, "zip_code": "41142"}
+{"locality": "Grahn", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Grahn"], "postal_code": "41142", "lat": 38.282767, "lng": -83.0727, "type": "POBOX", "counties": [{"fips": "043", "name": "Carter"}]}

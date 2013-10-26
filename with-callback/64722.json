@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.266148, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Amoret", "lng": -94.55686, "zip_code": "64722"});
+zipapicallback({"locality": "Amoret", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Amoret"], "postal_code": "64722", "lat": 38.266148, "lng": -94.55686, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bates"}]});

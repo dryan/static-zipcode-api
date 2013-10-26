@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.555846, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Waldo", "lng": -82.94995, "zip_code": "41632"});
+zipapicallback({"locality": "Gunlock", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gunlock", "Waldo"], "postal_code": "41632", "lat": 37.555846, "lng": -82.94995, "type": "STANDARD", "counties": [{"fips": "153", "name": "Magoffin"}]});

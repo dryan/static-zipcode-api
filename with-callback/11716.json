@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.770042, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bohemia", "lng": -73.11376, "zip_code": "11716"});
+zipapicallback({"locality": "Bohemia", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bohemia"], "postal_code": "11716", "lat": 40.770042, "lng": -73.11376, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.232465, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wetumka", "lng": -96.23571, "zip_code": "74883"}
+{"locality": "Wetumka", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wetumka"], "postal_code": "74883", "lat": 35.232465, "lng": -96.23571, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hughes"}, {"fips": "107", "name": "Okfuskee"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.680083, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ventress", "lng": -91.39852, "zip_code": "70783"});
+zipapicallback({"locality": "Ventress", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ventress"], "postal_code": "70783", "lat": 30.680083, "lng": -91.39852, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pointe Coupee"}]});

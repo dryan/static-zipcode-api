@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.41798, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Greenwood", "lng": -97.46457, "zip_code": "76246"});
+zipapicallback({"locality": "Greenwood", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Greenwood"], "postal_code": "76246", "lat": 33.41798, "lng": -97.46457, "type": "POBOX", "counties": [{"fips": "497", "name": "Wise"}]});

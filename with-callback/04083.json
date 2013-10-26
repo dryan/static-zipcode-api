@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.467037, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Springvale", "lng": -70.80275, "zip_code": "04083"});
+zipapicallback({"locality": "Springvale", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Springvale"], "postal_code": "04083", "lat": 43.467037, "lng": -70.80275, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]});

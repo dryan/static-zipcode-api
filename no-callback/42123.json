@@ -1,1 +1,1 @@
-{"lat": 36.820727, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Austin", "lng": -86.00112, "zip_code": "42123"}
+{"locality": "Austin", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Austin"], "postal_code": "42123", "lat": 36.820727, "lng": -86.00112, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barren"}]}

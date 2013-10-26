@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.266812, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Earle", "lng": -90.46421, "zip_code": "72331"});
+zipapicallback({"locality": "Earle", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Earle", "Twist"], "postal_code": "72331", "lat": 35.266812, "lng": -90.46421, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crittenden"}, {"fips": "123", "name": "St. Francis"}, {"fips": "037", "name": "Cross"}]});

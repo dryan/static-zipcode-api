@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.827233, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Coldiron", "lng": -83.4645, "zip_code": "40819"});
+zipapicallback({"locality": "Coldiron", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Coldiron", "Molus"], "postal_code": "40819", "lat": 36.827233, "lng": -83.4645, "type": "STANDARD", "counties": [{"fips": "095", "name": "Harlan"}]});

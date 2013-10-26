@@ -1,1 +1,1 @@
-{"lat": 41.676676, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mongaup Valley", "lng": -74.80674, "zip_code": "12762"}
+{"locality": "Mongaup Valley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mongaup Valley", "Mongaup Vly"], "postal_code": "12762", "lat": 41.676676, "lng": -74.80674, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

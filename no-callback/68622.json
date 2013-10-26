@@ -1,1 +1,1 @@
-{"lat": 41.909737, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bartlett", "lng": -98.51413, "zip_code": "68622"}
+{"locality": "Bartlett", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bartlett"], "postal_code": "68622", "lat": 41.909737, "lng": -98.51413, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wheeler"}]}

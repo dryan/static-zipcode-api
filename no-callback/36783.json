@@ -1,1 +1,1 @@
-{"lat": 32.263473, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Thomaston", "lng": -87.60214, "zip_code": "36783"}
+{"locality": "Thomaston", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Thomaston"], "postal_code": "36783", "lat": 32.263473, "lng": -87.60214, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}, {"fips": "131", "name": "Wilcox"}]}

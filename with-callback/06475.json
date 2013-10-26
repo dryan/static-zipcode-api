@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.289348, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Old Saybrook", "lng": -72.38285, "zip_code": "06475"});
+zipapicallback({"locality": "Old Saybrook", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Old Saybrook"], "postal_code": "06475", "lat": 41.289348, "lng": -72.38285, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}, {"fips": "001", "name": "Fairfield"}, {"fips": "009", "name": "New Haven"}]});

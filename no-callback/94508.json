@@ -1,1 +1,1 @@
-{"lat": 38.568307, "region": {"abbr": "CA", "name": "California"}, "locality": "Angwin", "lng": -122.45084, "zip_code": "94508"}
+{"locality": "Angwin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Angwin"], "postal_code": "94508", "lat": 38.568307, "lng": -122.45084, "type": "STANDARD", "counties": [{"fips": "055", "name": "Napa"}]}

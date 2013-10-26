@@ -1,1 +1,1 @@
-zipapicallback({"lat": 58.217621, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Egegik", "lng": -157.34841, "zip_code": "99579"});
+zipapicallback({"locality": "Egegik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Egegik"], "postal_code": "99579", "lat": 58.217621, "lng": -157.34841, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]});

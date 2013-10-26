@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.044219, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dayton", "lng": -94.88864, "zip_code": "77535"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dayton", "Dayton Lakes", "Mont Belvieu", "Old River-winfree", "Old Rvr-wnfre"], "postal_code": "77535", "lat": 30.044219, "lng": -94.88864, "type": "STANDARD", "counties": [{"fips": "291", "name": "Liberty"}, {"fips": "071", "name": "Chambers"}]});

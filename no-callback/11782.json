@@ -1,1 +1,1 @@
-{"lat": 40.739869, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cherry Grove", "lng": -73.07198, "zip_code": "11782"}
+{"locality": "Sayville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cherry Grove", "Fire Is Pines", "Fire Island Pines", "Sayville"], "postal_code": "11782", "lat": 40.739869, "lng": -73.07198, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.820367, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Robert", "lng": -92.19165, "zip_code": "65583"}
+{"locality": "Waynesville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Waynesville"], "postal_code": "65583", "lat": 37.820367, "lng": -92.19165, "type": "STANDARD", "counties": [{"fips": "169", "name": "Pulaski"}]}

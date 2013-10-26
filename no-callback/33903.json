@@ -1,1 +1,1 @@
-{"lat": 26.698526, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Myers", "lng": -81.9178, "zip_code": "33903"}
+{"locality": "North Fort Myers", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Myers", "N Fort Myers", "N Ft Myers", "No Fort Myers", "No Ft Myers", "North Fort Myers"], "postal_code": "33903", "lat": 26.698526, "lng": -81.9178, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}]}

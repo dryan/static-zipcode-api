@@ -1,1 +1,1 @@
-{"lat": 35.765669, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Keams Canyon", "lng": -110.18617, "zip_code": "86034"}
+{"locality": "Keams Canyon", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Keams Canyon"], "postal_code": "86034", "lat": 35.765669, "lng": -110.18617, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.393366, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Citra", "lng": -82.09805, "zip_code": "32113"}
+{"locality": "Citra", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Citra"], "postal_code": "32113", "lat": 29.393366, "lng": -82.09805, "type": "STANDARD", "counties": []}

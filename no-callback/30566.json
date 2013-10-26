@@ -1,1 +1,1 @@
-{"lat": 34.236556, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Oakwood", "lng": -83.89115, "zip_code": "30566"}
+{"locality": "Oakwood", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Oakwood"], "postal_code": "30566", "lat": 34.236556, "lng": -83.89115, "type": "STANDARD", "counties": [{"fips": "139", "name": "Hall"}]}

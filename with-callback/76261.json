@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.817816, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ringgold", "lng": -97.94159, "zip_code": "76261"});
+zipapicallback({"locality": "Ringgold", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ringgold"], "postal_code": "76261", "lat": 33.817816, "lng": -97.94159, "type": "STANDARD", "counties": [{"fips": "337", "name": "Montague"}, {"fips": "077", "name": "Clay"}]});

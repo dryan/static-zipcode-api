@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.427837, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Beeler", "lng": -100.16811, "zip_code": "67518"});
+zipapicallback({"locality": "Beeler", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Beeler"], "postal_code": "67518", "lat": 38.427837, "lng": -100.16811, "type": "STANDARD", "counties": [{"fips": "135", "name": "Ness"}, {"fips": "101", "name": "Lane"}]});

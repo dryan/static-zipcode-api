@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.091551, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Farmington", "lng": -116.99158, "zip_code": "99128"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Farmington"], "postal_code": "99128", "lat": 47.091551, "lng": -116.99158, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

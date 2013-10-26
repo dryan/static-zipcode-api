@@ -1,1 +1,1 @@
-{"lat": 45.547869, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Buffalo", "lng": -103.58054, "zip_code": "57720"}
+{"locality": "Buffalo", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Buffalo"], "postal_code": "57720", "lat": 45.547869, "lng": -103.58054, "type": "STANDARD", "counties": [{"fips": "063", "name": "Harding"}]}

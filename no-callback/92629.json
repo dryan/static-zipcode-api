@@ -1,1 +1,1 @@
-{"lat": 33.475302, "region": {"abbr": "CA", "name": "California"}, "locality": "Monarch Bay", "lng": -117.70327, "zip_code": "92629"}
+{"locality": "Dana Point", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dana Point", "Monarch Bay", "Monarch Beach"], "postal_code": "92629", "lat": 33.475302, "lng": -117.70327, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]}

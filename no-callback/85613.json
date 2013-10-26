@@ -1,1 +1,1 @@
-{"lat": 31.541437, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Fort Huachuca", "lng": -110.30004, "zip_code": "85613"}
+{"locality": "Fort Huachuca", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Fort Huachuca", "Sierra Vista"], "postal_code": "85613", "lat": 31.541437, "lng": -110.30004, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]}

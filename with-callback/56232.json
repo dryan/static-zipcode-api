@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.932368, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dawson", "lng": -96.04823, "zip_code": "56232"});
+zipapicallback({"locality": "Dawson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dawson"], "postal_code": "56232", "lat": 44.932368, "lng": -96.04823, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lac Qui Parle"}, {"fips": "173", "name": "Yellow Medicine"}]});

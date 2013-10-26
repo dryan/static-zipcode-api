@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.265289, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Richfield", "lng": -88.20144, "zip_code": "53076"});
+zipapicallback({"locality": "Richfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Richfield"], "postal_code": "53076", "lat": 43.265289, "lng": -88.20144, "type": "STANDARD", "counties": [{"fips": "131", "name": "Washington"}]});

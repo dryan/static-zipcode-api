@@ -1,1 +1,1 @@
-{"lat": 42.034776, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elgin", "lng": -88.32393, "zip_code": "60123"}
+{"locality": "Elgin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elgin"], "postal_code": "60123", "lat": 42.034776, "lng": -88.32393, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]}

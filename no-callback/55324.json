@@ -1,1 +1,1 @@
-{"lat": 45.057766, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Darwin", "lng": -94.40368, "zip_code": "55324"}
+{"locality": "Darwin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Darwin"], "postal_code": "55324", "lat": 45.057766, "lng": -94.40368, "type": "STANDARD", "counties": [{"fips": "093", "name": "Meeker"}]}

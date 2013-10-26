@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.349977, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Homestown", "lng": -89.80605, "zip_code": "63879"});
+zipapicallback({"locality": "Wardell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Homestown", "Wardell"], "postal_code": "63879", "lat": 36.349977, "lng": -89.80605, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pemiscot"}, {"fips": "143", "name": "New Madrid"}]});

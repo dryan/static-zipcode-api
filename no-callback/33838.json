@@ -1,1 +1,1 @@
-{"lat": 28.021066, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Dundee", "lng": -81.61872, "zip_code": "33838"}
+{"locality": "Dundee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Dundee"], "postal_code": "33838", "lat": 28.021066, "lng": -81.61872, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.970776, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Glasgow", "lng": -85.91232, "zip_code": "42141"});
+zipapicallback({"locality": "Glasgow", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Glasgow", "Lamb"], "postal_code": "42141", "lat": 36.970776, "lng": -85.91232, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barren"}, {"fips": "169", "name": "Metcalfe"}]});

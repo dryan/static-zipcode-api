@@ -1,1 +1,1 @@
-{"lat": 41.208327, "region": {"abbr": "NY", "name": "New York"}, "locality": "Thiells", "lng": -74.02105, "zip_code": "10984"}
+{"locality": "Thiells", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Thiells"], "postal_code": "10984", "lat": 41.208327, "lng": -74.02105, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

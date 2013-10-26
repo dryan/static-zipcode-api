@@ -1,1 +1,1 @@
-{"lat": 42.101928, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Davis Junction", "lng": -89.09369, "zip_code": "61020"}
+{"locality": "Davis Junction", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Davis Jct", "Davis Junction"], "postal_code": "61020", "lat": 42.101928, "lng": -89.09369, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}, {"fips": "201", "name": "Winnebago"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.732886, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "New Market", "lng": -94.88772, "zip_code": "51646"}
+{"locality": "New Market", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["New Market"], "postal_code": "51646", "lat": 40.732886, "lng": -94.88772, "type": "STANDARD", "counties": [{"fips": "173", "name": "Taylor"}]}

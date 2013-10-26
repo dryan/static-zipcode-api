@@ -1,1 +1,1 @@
-{"lat": 42.111836, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Norfolk", "lng": -71.32855, "zip_code": "02056"}
+{"locality": "Norfolk", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Norfolk"], "postal_code": "02056", "lat": 42.111836, "lng": -71.32855, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]}

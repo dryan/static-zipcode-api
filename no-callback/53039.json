@@ -1,1 +1,1 @@
-{"lat": 43.378828, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Juneau", "lng": -88.70876, "zip_code": "53039"}
+{"locality": "Juneau", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Juneau"], "postal_code": "53039", "lat": 43.378828, "lng": -88.70876, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

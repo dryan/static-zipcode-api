@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.73045, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Bloomfield", "lng": -92.44441, "zip_code": "52537"});
+zipapicallback({"locality": "Bloomfield", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Bloomfield", "West Grove"], "postal_code": "52537", "lat": 40.73045, "lng": -92.44441, "type": "STANDARD", "counties": [{"fips": "051", "name": "Davis"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.7683, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Orange", "lng": -74.23603, "zip_code": "07050"}
+{"locality": "Orange", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Orange"], "postal_code": "07050", "lat": 40.7683, "lng": -74.23603, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

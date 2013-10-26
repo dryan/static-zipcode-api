@@ -1,1 +1,1 @@
-{"lat": 35.101727, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Albuquerque", "lng": -106.67238, "zip_code": "87104"}
+{"locality": "Albuquerque", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Albuquerque"], "postal_code": "87104", "lat": 35.101727, "lng": -106.67238, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bernalillo"}]}

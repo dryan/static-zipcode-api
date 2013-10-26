@@ -1,1 +1,1 @@
-{"lat": 30.6316, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Loxley", "lng": -87.75299, "zip_code": "36551"}
+{"locality": "Loxley", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Loxley"], "postal_code": "36551", "lat": 30.6316, "lng": -87.75299, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}, {"fips": "097", "name": "Mobile"}]}

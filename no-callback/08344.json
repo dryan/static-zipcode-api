@@ -1,1 +1,1 @@
-{"lat": 39.562763, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Newfield", "lng": -75.00955, "zip_code": "08344"}
+{"locality": "Newfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Newfield"], "postal_code": "08344", "lat": 39.562763, "lng": -75.00955, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}, {"fips": "033", "name": "Salem"}, {"fips": "001", "name": "Atlantic"}, {"fips": "011", "name": "Cumberland"}]}

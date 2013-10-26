@@ -1,1 +1,1 @@
-{"lat": 39.861413, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Westville", "lng": -75.13284, "zip_code": "08093"}
+{"locality": "Westville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["West Deptford", "Westville"], "postal_code": "08093", "lat": 39.861413, "lng": -75.13284, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}]}

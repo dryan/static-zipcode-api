@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.887682, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Beebe River", "lng": -71.65161, "zip_code": "03223"});
+zipapicallback({"locality": "Campton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Campton", "Ellsworth", "Thornton"], "postal_code": "03223", "lat": 43.887682, "lng": -71.65161, "type": "STANDARD", "counties": [{"fips": "009", "name": "Grafton"}]});

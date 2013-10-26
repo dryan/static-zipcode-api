@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.370415, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Estes Park", "lng": -105.51722, "zip_code": "80517"});
+zipapicallback({"locality": "Estes Park", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Estes Park"], "postal_code": "80517", "lat": 40.370415, "lng": -105.51722, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}]});

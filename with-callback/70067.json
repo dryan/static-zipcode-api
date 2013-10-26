@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.652752, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lafitte", "lng": -90.1012, "zip_code": "70067"});
+zipapicallback({"locality": "Lafitte", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Jean Lafitte", "Lafitte"], "postal_code": "70067", "lat": 29.652752, "lng": -90.1012, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]});

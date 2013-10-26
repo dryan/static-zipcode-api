@@ -1,1 +1,1 @@
-{"lat": 40.125278, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brownstown", "lng": -76.21665, "zip_code": "17508"}
+{"locality": "Brownstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brownstown"], "postal_code": "17508", "lat": 40.125278, "lng": -76.21665, "type": "POBOX", "counties": [{"fips": "071", "name": "Lancaster"}]}

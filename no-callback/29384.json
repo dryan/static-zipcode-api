@@ -1,1 +1,1 @@
-{"lat": 34.323605, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Waterloo", "lng": -82.08325, "zip_code": "29384"}
+{"locality": "Waterloo", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Waterloo"], "postal_code": "29384", "lat": 34.323605, "lng": -82.08325, "type": "STANDARD", "counties": [{"fips": "059", "name": "Laurens"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.285196, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Frenchville", "lng": -68.38716, "zip_code": "04745"});
+zipapicallback({"locality": "Frenchville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Frenchville", "Upper Frenchville", "Upper Frnchvl"], "postal_code": "04745", "lat": 47.285196, "lng": -68.38716, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

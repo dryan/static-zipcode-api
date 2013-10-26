@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.373845, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Youngstown", "lng": -85.52891, "zip_code": "32466"});
+zipapicallback({"locality": "Youngstown", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Youngstown"], "postal_code": "32466", "lat": 30.373845, "lng": -85.52891, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bay"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.724883, "region": {"abbr": "NY", "name": "New York"}, "locality": "Levittown", "lng": -73.51739, "zip_code": "11756"}
+{"locality": "Levittown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Levittown"], "postal_code": "11756", "lat": 40.724883, "lng": -73.51739, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}, {"fips": "103", "name": "Suffolk"}]}

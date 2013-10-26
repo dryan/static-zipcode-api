@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.781133, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Springville", "lng": -86.45052, "zip_code": "35146"});
+zipapicallback({"locality": "Springville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Springville"], "postal_code": "35146", "lat": 33.781133, "lng": -86.45052, "type": "STANDARD", "counties": [{"fips": "115", "name": "St. Clair"}, {"fips": "009", "name": "Blount"}, {"fips": "073", "name": "Jefferson"}]});

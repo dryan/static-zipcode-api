@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.738973, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Secor", "lng": -89.13579, "zip_code": "61771"});
+zipapicallback({"locality": "Secor", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Secor"], "postal_code": "61771", "lat": 40.738973, "lng": -89.13579, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}]});

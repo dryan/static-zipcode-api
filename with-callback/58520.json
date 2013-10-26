@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.657221, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Almont", "lng": -101.53747, "zip_code": "58520"});
+zipapicallback({"locality": "Almont", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Almont"], "postal_code": "58520", "lat": 46.657221, "lng": -101.53747, "type": "STANDARD", "counties": [{"fips": "059", "name": "Morton"}, {"fips": "037", "name": "Grant"}]});

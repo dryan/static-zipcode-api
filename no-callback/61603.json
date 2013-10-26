@@ -1,1 +1,1 @@
-{"lat": 40.712887, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Peoria Heights", "lng": -89.57904, "zip_code": "61603"}
+{"locality": "Peoria", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Peoria"], "postal_code": "61603", "lat": 40.712887, "lng": -89.57904, "type": "STANDARD", "counties": [{"fips": "143", "name": "Peoria"}]}

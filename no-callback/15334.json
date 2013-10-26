@@ -1,1 +1,1 @@
-{"lat": 39.809756, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Garards Fort", "lng": -79.9969, "zip_code": "15334"}
+{"locality": "Garards Fort", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Garards Fort"], "postal_code": "15334", "lat": 39.809756, "lng": -79.9969, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]}

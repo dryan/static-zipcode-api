@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.922806, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Milford", "lng": -75.41449, "zip_code": "19963"});
+zipapicallback({"locality": "Milford", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Milford"], "postal_code": "19963", "lat": 38.922806, "lng": -75.41449, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}, {"fips": "001", "name": "Kent"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.088463, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Mount Vernon", "lng": -88.03007, "zip_code": "36560"}
+{"locality": "Mount Vernon", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Mount Vernon"], "postal_code": "36560", "lat": 31.088463, "lng": -88.03007, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

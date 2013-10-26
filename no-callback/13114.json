@@ -1,1 +1,1 @@
-{"lat": 43.468092, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mexico", "lng": -76.2382, "zip_code": "13114"}
+{"locality": "Mexico", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mexico"], "postal_code": "13114", "lat": 43.468092, "lng": -76.2382, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}]}

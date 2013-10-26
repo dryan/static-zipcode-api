@@ -1,1 +1,1 @@
-zipapicallback({"lat": 57.777622, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tenakee Springs", "lng": -135.20777, "zip_code": "99841"});
+zipapicallback({"locality": "Tenakee Springs", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Tenakee Spgs", "Tenakee Springs"], "postal_code": "99841", "lat": 57.777622, "lng": -135.20777, "type": "POBOX", "counties": [{"fips": "231", "name": "Skagway-Yakutat-Angoon"}]});

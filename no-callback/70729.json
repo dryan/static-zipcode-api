@@ -1,1 +1,1 @@
-{"lat": 30.546033, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Erwinville", "lng": -91.41898, "zip_code": "70729"}
+{"locality": "Erwinville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bueche", "Erwinville"], "postal_code": "70729", "lat": 30.546033, "lng": -91.41898, "type": "STANDARD", "counties": [{"fips": "121", "name": "West Baton Rouge"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.342991, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Knoxville", "lng": -77.66014, "zip_code": "21758"});
+zipapicallback({"locality": "Knoxville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Brunswick", "Knoxville"], "postal_code": "21758", "lat": 39.342991, "lng": -77.66014, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}, {"fips": "043", "name": "Washington"}]});

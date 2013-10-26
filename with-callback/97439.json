@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.009099, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Florence", "lng": -124.08307, "zip_code": "97439"});
+zipapicallback({"locality": "Florence", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Dunes City", "Florence"], "postal_code": "97439", "lat": 44.009099, "lng": -124.08307, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.5738, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Tinley Park", "lng": -87.80389, "zip_code": "60477"}
+{"locality": "Tinley Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Orland Hills", "Tinley Park"], "postal_code": "60477", "lat": 41.5738, "lng": -87.80389, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "197", "name": "Will"}]}

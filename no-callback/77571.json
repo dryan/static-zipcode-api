@@ -1,1 +1,1 @@
-{"lat": 29.666781, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Shoreacres", "lng": -95.04487, "zip_code": "77571"}
+{"locality": "La Porte", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["La Porte", "Shoreacres"], "postal_code": "77571", "lat": 29.666781, "lng": -95.04487, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}]}

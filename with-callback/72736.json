@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.412233, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gravette", "lng": -94.45226, "zip_code": "72736"});
+zipapicallback({"locality": "Gravette", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gravette"], "postal_code": "72736", "lat": 36.412233, "lng": -94.45226, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]});

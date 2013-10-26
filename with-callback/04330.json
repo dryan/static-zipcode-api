@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.344406, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Augusta", "lng": -69.76345, "zip_code": "04330"});
+zipapicallback({"locality": "Augusta", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Augusta", "Chelsea", "Sidney"], "postal_code": "04330", "lat": 44.344406, "lng": -69.76345, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

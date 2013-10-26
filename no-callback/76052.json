@@ -1,1 +1,1 @@
-{"lat": 32.972998, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Haslet", "lng": -97.35592, "zip_code": "76052"}
+{"locality": "Haslet", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Haslet"], "postal_code": "76052", "lat": 32.972998, "lng": -97.35592, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}, {"fips": "121", "name": "Denton"}]}

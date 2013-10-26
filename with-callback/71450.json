@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.77112, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Marthaville", "lng": -93.41547, "zip_code": "71450"});
+zipapicallback({"locality": "Marthaville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Marthaville"], "postal_code": "71450", "lat": 31.77112, "lng": -93.41547, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}, {"fips": "085", "name": "Sabine"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.369811, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ratcliff", "lng": -95.09184, "zip_code": "75858"});
+zipapicallback({"locality": "Ratcliff", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ratcliff"], "postal_code": "75858", "lat": 31.369811, "lng": -95.09184, "type": "POBOX", "counties": [{"fips": "225", "name": "Houston"}]});

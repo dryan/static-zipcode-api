@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.441994, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pensacola", "lng": -87.25472, "zip_code": "32505"});
+zipapicallback({"locality": "Pensacola", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pensacola"], "postal_code": "32505", "lat": 30.441994, "lng": -87.25472, "type": "STANDARD", "counties": [{"fips": "033", "name": "Escambia"}, {"fips": "113", "name": "Santa Rosa"}]});

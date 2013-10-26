@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.443746, "region": {"abbr": "CA", "name": "California"}, "locality": "Goleta", "lng": -119.94215, "zip_code": "93117"});
+zipapicallback({"locality": "Goleta", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Gaviota", "Goleta", "Isla Vista", "Santa Barbara"], "postal_code": "93117", "lat": 34.443746, "lng": -119.94215, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]});

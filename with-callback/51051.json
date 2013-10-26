@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.20486, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rodney", "lng": -95.95294, "zip_code": "51051"});
+zipapicallback({"locality": "Rodney", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rodney"], "postal_code": "51051", "lat": 42.20486, "lng": -95.95294, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monona"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.857079, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Tamworth", "lng": -71.25988, "zip_code": "03886"}
+{"locality": "Tamworth", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Tamworth"], "postal_code": "03886", "lat": 43.857079, "lng": -71.25988, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.205771, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Browns Summit", "lng": -79.69839, "zip_code": "27214"});
+zipapicallback({"locality": "Browns Summit", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Browns Summit"], "postal_code": "27214", "lat": 36.205771, "lng": -79.69839, "type": "STANDARD", "counties": [{"fips": "081", "name": "Guilford"}, {"fips": "157", "name": "Rockingham"}]});

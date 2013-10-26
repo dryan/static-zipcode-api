@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.289041, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Manly", "lng": -93.20838, "zip_code": "50456"});
+zipapicallback({"locality": "Manly", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Manly"], "postal_code": "50456", "lat": 43.289041, "lng": -93.20838, "type": "STANDARD", "counties": [{"fips": "195", "name": "Worth"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.454441, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Avondale", "lng": -112.32401, "zip_code": "85323"});
+zipapicallback({"locality": "Avondale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Avondale"], "postal_code": "85323", "lat": 33.454441, "lng": -112.32401, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

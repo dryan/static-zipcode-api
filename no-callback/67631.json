@@ -1,1 +1,1 @@
-{"lat": 39.028141, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Collyer", "lng": -100.08722, "zip_code": "67631"}
+{"locality": "Collyer", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Collyer"], "postal_code": "67631", "lat": 39.028141, "lng": -100.08722, "type": "STANDARD", "counties": [{"fips": "195", "name": "Trego"}, {"fips": "065", "name": "Graham"}, {"fips": "179", "name": "Sheridan"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.426786, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Harrisonburg", "lng": -78.88153, "zip_code": "22801"}
+{"locality": "Harrisonburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Harrisonburg"], "postal_code": "22801", "lat": 38.426786, "lng": -78.88153, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}, {"fips": "167", "name": "Russell"}]}

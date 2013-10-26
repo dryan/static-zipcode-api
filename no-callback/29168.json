@@ -1,1 +1,1 @@
-{"lat": 33.881986, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Wedgefield", "lng": -80.50487, "zip_code": "29168"}
+{"locality": "Wedgefield", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Wedgefield"], "postal_code": "29168", "lat": 33.881986, "lng": -80.50487, "type": "STANDARD", "counties": [{"fips": "085", "name": "Sumter"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.014685, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Gladehill", "lng": -79.75335, "zip_code": "24092"});
+zipapicallback({"locality": "Glade Hill", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Glade Hill"], "postal_code": "24092", "lat": 37.014685, "lng": -79.75335, "type": "STANDARD", "counties": [{"fips": "067", "name": "Franklin"}]});

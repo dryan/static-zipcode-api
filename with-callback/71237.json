@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.597244, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Epps", "lng": -91.47664, "zip_code": "71237"});
+zipapicallback({"locality": "Epps", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Epps"], "postal_code": "71237", "lat": 32.597244, "lng": -91.47664, "type": "STANDARD", "counties": [{"fips": "123", "name": "West Carroll"}, {"fips": "083", "name": "Richland"}, {"fips": "035", "name": "East Carroll"}, {"fips": "065", "name": "Madison"}]});

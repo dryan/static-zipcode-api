@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.271585, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Tuscaloosa", "lng": -87.50611, "zip_code": "35406"});
+zipapicallback({"locality": "Tuscaloosa", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Tuscaloosa"], "postal_code": "35406", "lat": 33.271585, "lng": -87.50611, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]});

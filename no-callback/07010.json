@@ -1,1 +1,1 @@
-{"lat": 40.82154, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cliffside Park", "lng": -73.98949, "zip_code": "07010"}
+{"locality": "Cliffside Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cliffside Park", "Cliffside Pk"], "postal_code": "07010", "lat": 40.82154, "lng": -73.98949, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

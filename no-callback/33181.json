@@ -1,1 +1,1 @@
-{"lat": 25.897372, "region": {"abbr": "FL", "name": "Florida"}, "locality": "North Miami Beac", "lng": -80.16048, "zip_code": "33181"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Miami", "N Miami Beach", "North Miami", "North Miami Beach"], "postal_code": "33181", "lat": 25.897372, "lng": -80.16048, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

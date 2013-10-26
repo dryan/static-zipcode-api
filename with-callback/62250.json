@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.540238, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hoffman", "lng": -89.26294, "zip_code": "62250"});
+zipapicallback({"locality": "Hoffman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hoffman"], "postal_code": "62250", "lat": 38.540238, "lng": -89.26294, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]});

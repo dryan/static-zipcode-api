@@ -1,1 +1,1 @@
-{"lat": 45.840565, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Royalton", "lng": -94.26434, "zip_code": "56373"}
+{"locality": "Royalton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Royalton"], "postal_code": "56373", "lat": 45.840565, "lng": -94.26434, "type": "STANDARD", "counties": [{"fips": "097", "name": "Morrison"}, {"fips": "009", "name": "Benton"}]}

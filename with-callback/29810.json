@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.010041, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Allendale", "lng": -81.33069, "zip_code": "29810"});
+zipapicallback({"locality": "Allendale", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Allendale"], "postal_code": "29810", "lat": 33.010041, "lng": -81.33069, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allendale"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.884299, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Columbiana", "lng": -80.68652, "zip_code": "44408"}
+{"locality": "Columbiana", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Columbiana"], "postal_code": "44408", "lat": 40.884299, "lng": -80.68652, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}, {"fips": "099", "name": "Mahoning"}]}

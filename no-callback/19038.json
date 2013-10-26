@@ -1,1 +1,1 @@
-{"lat": 40.10346, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glenside", "lng": -75.16829, "zip_code": "19038"}
+{"locality": "Glenside", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Erdenheim", "Glenside", "Laverock", "Wyndmoor"], "postal_code": "19038", "lat": 40.10346, "lng": -75.16829, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

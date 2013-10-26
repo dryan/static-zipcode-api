@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.008344, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Fedora", "lng": -97.79178, "zip_code": "57337"});
+zipapicallback({"locality": "Fedora", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Fedora"], "postal_code": "57337", "lat": 44.008344, "lng": -97.79178, "type": "STANDARD", "counties": [{"fips": "097", "name": "Miner"}, {"fips": "111", "name": "Sanborn"}]});

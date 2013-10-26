@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.03324, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Aniwa", "lng": -89.28376, "zip_code": "54408"});
+zipapicallback({"locality": "Aniwa", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Aniwa"], "postal_code": "54408", "lat": 45.03324, "lng": -89.28376, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}, {"fips": "073", "name": "Marathon"}, {"fips": "067", "name": "Langlade"}]});

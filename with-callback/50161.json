@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.86625, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Maxwell", "lng": -93.40134, "zip_code": "50161"});
+zipapicallback({"locality": "Maxwell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Maxwell"], "postal_code": "50161", "lat": 41.86625, "lng": -93.40134, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}, {"fips": "153", "name": "Polk"}]});

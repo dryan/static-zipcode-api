@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.24356, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lakeview", "lng": -79.31355, "zip_code": "28350"});
+zipapicallback({"locality": "Lakeview", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lakeview"], "postal_code": "28350", "lat": 35.24356, "lng": -79.31355, "type": "POBOX", "counties": [{"fips": "125", "name": "Moore"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.710056, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Bradley", "lng": -81.95196, "zip_code": "33835"});
+zipapicallback({"locality": "Bradley", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bradley"], "postal_code": "33835", "lat": 27.710056, "lng": -81.95196, "type": "POBOX", "counties": [{"fips": "105", "name": "Polk"}]});

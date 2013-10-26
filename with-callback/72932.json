@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.604409, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cedarville", "lng": -94.37313, "zip_code": "72932"});
+zipapicallback({"locality": "Cedarville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cedarville"], "postal_code": "72932", "lat": 35.604409, "lng": -94.37313, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}]});

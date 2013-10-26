@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.070659, "region": {"abbr": "CA", "name": "California"}, "locality": "El Monte", "lng": -118.01383, "zip_code": "91732"});
+zipapicallback({"locality": "El Monte", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["City Industry", "City Of Industry", "El Monte"], "postal_code": "91732", "lat": 34.070659, "lng": -118.01383, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

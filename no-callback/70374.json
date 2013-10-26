@@ -1,1 +1,1 @@
-{"lat": 29.620122, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lockport", "lng": -90.49218, "zip_code": "70374"}
+{"locality": "Lockport", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lockport"], "postal_code": "70374", "lat": 29.620122, "lng": -90.49218, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]}

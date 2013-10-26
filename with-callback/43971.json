@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.152615, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Yorkville", "lng": -80.70789, "zip_code": "43971"});
+zipapicallback({"locality": "Yorkville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Yorkville"], "postal_code": "43971", "lat": 40.152615, "lng": -80.70789, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}, {"fips": "081", "name": "Jefferson"}]});

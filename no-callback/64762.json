@@ -1,1 +1,1 @@
-{"lat": 37.555366, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Liberal", "lng": -94.51496, "zip_code": "64762"}
+{"locality": "Liberal", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Liberal"], "postal_code": "64762", "lat": 37.555366, "lng": -94.51496, "type": "STANDARD", "counties": [{"fips": "011", "name": "Barton"}, {"fips": "217", "name": "Vernon"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.795301, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hanover", "lng": -76.97727, "zip_code": "17331"}
+{"locality": "Hanover", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hanover"], "postal_code": "17331", "lat": 39.795301, "lng": -76.97727, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}, {"fips": "001", "name": "Adams"}]}

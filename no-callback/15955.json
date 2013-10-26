@@ -1,1 +1,1 @@
-{"lat": 40.324295, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sidman", "lng": -78.7063, "zip_code": "15955"}
+{"locality": "Sidman", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sidman"], "postal_code": "15955", "lat": 40.324295, "lng": -78.7063, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

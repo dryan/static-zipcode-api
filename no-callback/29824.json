@@ -1,1 +1,1 @@
-{"lat": 33.819096, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Edgefield", "lng": -81.95036, "zip_code": "29824"}
+{"locality": "Edgefield", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Edgefield"], "postal_code": "29824", "lat": 33.819096, "lng": -81.95036, "type": "STANDARD", "counties": [{"fips": "037", "name": "Edgefield"}, {"fips": "047", "name": "Greenwood"}]}

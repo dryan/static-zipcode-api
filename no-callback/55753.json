@@ -1,1 +1,1 @@
-{"lat": 47.39654, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Keewatin", "lng": -93.07651, "zip_code": "55753"}
+{"locality": "Keewatin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Keewatin"], "postal_code": "55753", "lat": 47.39654, "lng": -93.07651, "type": "POBOX", "counties": [{"fips": "061", "name": "Itasca"}]}

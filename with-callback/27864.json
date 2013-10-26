@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.795738, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Pinetops", "lng": -77.64106, "zip_code": "27864"});
+zipapicallback({"locality": "Pinetops", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Pinetops"], "postal_code": "27864", "lat": 35.795738, "lng": -77.64106, "type": "STANDARD", "counties": [{"fips": "065", "name": "Edgecombe"}]});

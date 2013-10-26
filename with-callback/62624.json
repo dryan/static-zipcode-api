@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.153557, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bader", "lng": -90.35255, "zip_code": "62624"});
+zipapicallback({"locality": "Browning", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bader", "Bluff City", "Browning"], "postal_code": "62624", "lat": 40.153557, "lng": -90.35255, "type": "STANDARD", "counties": [{"fips": "169", "name": "Schuyler"}, {"fips": "057", "name": "Fulton"}]});

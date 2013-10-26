@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.56578, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Boggstown", "lng": -85.92481, "zip_code": "46110"});
+zipapicallback({"locality": "Boggstown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Boggstown"], "postal_code": "46110", "lat": 39.56578, "lng": -85.92481, "type": "STANDARD", "counties": [{"fips": "145", "name": "Shelby"}, {"fips": "081", "name": "Johnson"}]});

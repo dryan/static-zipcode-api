@@ -1,1 +1,1 @@
-{"lat": 43.048663, "region": {"abbr": "NY", "name": "New York"}, "locality": "Henrietta", "lng": -77.60843, "zip_code": "14467"}
+{"locality": "Henrietta", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Henrietta"], "postal_code": "14467", "lat": 43.048663, "lng": -77.60843, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}]}

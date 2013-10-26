@@ -1,1 +1,1 @@
-{"lat": 42.668825, "region": {"abbr": "NY", "name": "New York"}, "locality": "Schoharie", "lng": -74.30134, "zip_code": "12157"}
+{"locality": "Schoharie", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Schoharie"], "postal_code": "12157", "lat": 42.668825, "lng": -74.30134, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}, {"fips": "001", "name": "Albany"}, {"fips": "093", "name": "Schenectady"}]}

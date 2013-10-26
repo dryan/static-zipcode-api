@@ -1,1 +1,1 @@
-{"lat": 32.417269, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dyess Afb", "lng": -99.82203, "zip_code": "79607"}
+{"locality": "Dyess Afb", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Abilene", "Dyess Afb"], "postal_code": "79607", "lat": 32.417269, "lng": -99.82203, "type": "STANDARD", "counties": [{"fips": "441", "name": "Taylor"}]}

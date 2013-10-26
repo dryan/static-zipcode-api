@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.075315, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Long Pond", "lng": -75.43058, "zip_code": "18334"});
+zipapicallback({"locality": "Long Pond", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Long Pond"], "postal_code": "18334", "lat": 41.075315, "lng": -75.43058, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

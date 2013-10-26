@@ -1,1 +1,1 @@
-{"lat": 42.263623, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mundelein", "lng": -88.01172, "zip_code": "60060"}
+{"locality": "Mundelein", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Long Grove", "Mundelein"], "postal_code": "60060", "lat": 42.263623, "lng": -88.01172, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

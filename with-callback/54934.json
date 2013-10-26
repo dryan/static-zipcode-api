@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.00443, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Eureka", "lng": -88.84108, "zip_code": "54934"});
+zipapicallback({"locality": "Eureka", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Eureka"], "postal_code": "54934", "lat": 44.00443, "lng": -88.84108, "type": "POBOX", "counties": [{"fips": "139", "name": "Winnebago"}]});

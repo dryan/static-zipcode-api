@@ -1,1 +1,1 @@
-{"lat": 40.953141, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Portersville", "lng": -80.14799, "zip_code": "16051"}
+{"locality": "Portersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Portersville"], "postal_code": "16051", "lat": 40.953141, "lng": -80.14799, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "073", "name": "Lawrence"}]}

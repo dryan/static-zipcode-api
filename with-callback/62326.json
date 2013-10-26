@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.421857, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Colchester", "lng": -90.80333, "zip_code": "62326"});
+zipapicallback({"locality": "Colchester", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Colchester"], "postal_code": "62326", "lat": 40.421857, "lng": -90.80333, "type": "STANDARD", "counties": [{"fips": "109", "name": "McDonough"}, {"fips": "067", "name": "Hancock"}]});

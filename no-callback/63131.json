@@ -1,1 +1,1 @@
-{"lat": 38.618582, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Des Peres", "lng": -90.43643, "zip_code": "63131"}
+{"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Des Peres", "Frontenac", "Saint Louis"], "postal_code": "63131", "lat": 38.618582, "lng": -90.43643, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

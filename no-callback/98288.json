@@ -1,1 +1,1 @@
-{"lat": 47.658047, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Skykomish", "lng": -121.41445, "zip_code": "98288"}
+{"locality": "Skykomish", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Skykomish"], "postal_code": "98288", "lat": 47.658047, "lng": -121.41445, "type": "POBOX", "counties": [{"fips": "033", "name": "King"}]}

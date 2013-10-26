@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.990781, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Carlos", "lng": -95.27033, "zip_code": "56319"});
+zipapicallback({"locality": "Carlos", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Carlos"], "postal_code": "56319", "lat": 45.990781, "lng": -95.27033, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "153", "name": "Todd"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.012084, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Clayton", "lng": -117.57306, "zip_code": "99110"}
+{"locality": "Clayton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Clayton"], "postal_code": "99110", "lat": 48.012084, "lng": -117.57306, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}, {"fips": "063", "name": "Spokane"}]}

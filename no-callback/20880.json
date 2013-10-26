@@ -1,1 +1,1 @@
-{"lat": 39.139535, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Washington Grove", "lng": -77.17592, "zip_code": "20880"}
+{"locality": "Washington Grove", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Washingtn Grv", "Washington Grove"], "postal_code": "20880", "lat": 39.139535, "lng": -77.17592, "type": "POBOX", "counties": [{"fips": "031", "name": "Montgomery"}]}

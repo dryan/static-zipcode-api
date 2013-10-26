@@ -1,1 +1,1 @@
-{"lat": 39.668998, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Marceline", "lng": -92.92916, "zip_code": "64658"}
+{"locality": "Marceline", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Marceline"], "postal_code": "64658", "lat": 39.668998, "lng": -92.92916, "type": "STANDARD", "counties": [{"fips": "115", "name": "Linn"}, {"fips": "121", "name": "MacOn"}, {"fips": "041", "name": "Chariton"}]}

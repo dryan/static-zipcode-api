@@ -1,1 +1,1 @@
-{"lat": 39.90035, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Red Lion", "lng": -76.59778, "zip_code": "17356"}
+{"locality": "Red Lion", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Red Lion"], "postal_code": "17356", "lat": 39.90035, "lng": -76.59778, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

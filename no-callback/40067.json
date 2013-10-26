@@ -1,1 +1,1 @@
-{"lat": 38.210818, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Simpsonville", "lng": -85.36122, "zip_code": "40067"}
+{"locality": "Simpsonville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Simpsonville"], "postal_code": "40067", "lat": 38.210818, "lng": -85.36122, "type": "STANDARD", "counties": [{"fips": "211", "name": "Shelby"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.885863, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Ten Sleep", "lng": -107.36569, "zip_code": "82442"}
+{"locality": "Ten Sleep", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Ten Sleep"], "postal_code": "82442", "lat": 43.885863, "lng": -107.36569, "type": "STANDARD", "counties": [{"fips": "043", "name": "Washakie"}]}

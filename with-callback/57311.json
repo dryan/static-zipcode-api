@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.645927, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Farmer", "lng": -97.76631, "zip_code": "57311"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Alexandria", "Farmer"], "postal_code": "57311", "lat": 43.645927, "lng": -97.76631, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hanson"}, {"fips": "067", "name": "Hutchinson"}, {"fips": "097", "name": "Miner"}]});

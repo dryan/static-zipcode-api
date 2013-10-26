@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.290543, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Hazen", "lng": -101.61207, "zip_code": "58545"});
+zipapicallback({"locality": "Hazen", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hazen", "Pick City"], "postal_code": "58545", "lat": 47.290543, "lng": -101.61207, "type": "STANDARD", "counties": [{"fips": "057", "name": "Mercer"}, {"fips": "065", "name": "Oliver"}]});

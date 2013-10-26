@@ -1,1 +1,1 @@
-{"lat": 33.817438, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Stone Mountain", "lng": -84.13167, "zip_code": "30087"}
+{"locality": "Stone Mountain", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Smoke Rise", "Stone Mountain", "Stone Mtn"], "postal_code": "30087", "lat": 33.817438, "lng": -84.13167, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "135", "name": "Gwinnett"}]}

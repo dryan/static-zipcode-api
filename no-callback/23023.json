@@ -1,1 +1,1 @@
-{"lat": 37.777938, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bruington", "lng": -76.95055, "zip_code": "23023"}
+{"locality": "Bruington", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bruington"], "postal_code": "23023", "lat": 37.777938, "lng": -76.95055, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]}

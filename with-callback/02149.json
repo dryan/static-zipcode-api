@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.409916, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Everett", "lng": -71.0522, "zip_code": "02149"});
+zipapicallback({"locality": "Everett", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Everett"], "postal_code": "02149", "lat": 42.409916, "lng": -71.0522, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

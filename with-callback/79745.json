@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.847071, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kermit", "lng": -103.08399, "zip_code": "79745"});
+zipapicallback({"locality": "Kermit", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kermit"], "postal_code": "79745", "lat": 31.847071, "lng": -103.08399, "type": "STANDARD", "counties": [{"fips": "495", "name": "Winkler"}]});

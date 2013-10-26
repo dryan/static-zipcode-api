@@ -1,1 +1,1 @@
-{"lat": 33.263039, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Decatur", "lng": -97.55657, "zip_code": "76234"}
+{"locality": "Decatur", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Decatur"], "postal_code": "76234", "lat": 33.263039, "lng": -97.55657, "type": "STANDARD", "counties": [{"fips": "497", "name": "Wise"}, {"fips": "121", "name": "Denton"}, {"fips": "337", "name": "Montague"}, {"fips": "097", "name": "Cooke"}]}

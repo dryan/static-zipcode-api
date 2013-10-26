@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.218412, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Phippsburg", "lng": -106.94494, "zip_code": "80469"});
+zipapicallback({"locality": "Phippsburg", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Phippsburg"], "postal_code": "80469", "lat": 40.218412, "lng": -106.94494, "type": "POBOX", "counties": [{"fips": "107", "name": "Routt"}]});

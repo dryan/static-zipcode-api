@@ -1,1 +1,1 @@
-{"lat": 47.84311, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Mill Creek", "lng": -122.20457, "zip_code": "98012"}
+{"locality": "Bothell", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bothell", "Mill Creek"], "postal_code": "98012", "lat": 47.84311, "lng": -122.20457, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}, {"fips": "033", "name": "King"}]}

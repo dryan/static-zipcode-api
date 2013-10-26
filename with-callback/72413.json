@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.323353, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Biggers", "lng": -90.81054, "zip_code": "72413"});
+zipapicallback({"locality": "Biggers", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Biggers"], "postal_code": "72413", "lat": 36.323353, "lng": -90.81054, "type": "STANDARD", "counties": [{"fips": "121", "name": "Randolph"}]});

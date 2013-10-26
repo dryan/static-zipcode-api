@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.497511, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lackawaxen", "lng": -75.01149, "zip_code": "18435"});
+zipapicallback({"locality": "Lackawaxen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lackawaxen"], "postal_code": "18435", "lat": 41.497511, "lng": -75.01149, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pike"}]});

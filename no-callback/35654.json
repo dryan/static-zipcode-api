@@ -1,1 +1,1 @@
-{"lat": 34.516472, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Russellville", "lng": -87.65265, "zip_code": "35654"}
+{"locality": "Russellville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Russellville"], "postal_code": "35654", "lat": 34.516472, "lng": -87.65265, "type": "STANDARD", "counties": []}

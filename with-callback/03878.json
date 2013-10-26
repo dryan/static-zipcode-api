@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.253783, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Somersworth", "lng": -70.87549, "zip_code": "03878"});
+zipapicallback({"locality": "Somersworth", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Somersworth"], "postal_code": "03878", "lat": 43.253783, "lng": -70.87549, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.71299, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fort Belvoir", "lng": -77.16615, "zip_code": "22060"});
+zipapicallback({"locality": "Fort Belvoir", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Belvoir", "Ft Belvoir"], "postal_code": "22060", "lat": 38.71299, "lng": -77.16615, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]});

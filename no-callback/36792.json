@@ -1,1 +1,1 @@
-{"lat": 32.917983, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Randolph", "lng": -86.89046, "zip_code": "36792"}
+{"locality": "Randolph", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Randolph"], "postal_code": "36792", "lat": 32.917983, "lng": -86.89046, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bibb"}, {"fips": "021", "name": "Chilton"}]}

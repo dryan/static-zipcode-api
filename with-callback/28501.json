@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.260895, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Kinston", "lng": -77.56469, "zip_code": "28501"});
+zipapicallback({"locality": "Kinston", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Kinston"], "postal_code": "28501", "lat": 35.260895, "lng": -77.56469, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lenoir"}]});

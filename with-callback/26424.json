@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.268207, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Rosemont", "lng": -80.1652, "zip_code": "26424"});
+zipapicallback({"locality": "Rosemont", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Rosemont"], "postal_code": "26424", "lat": 39.268207, "lng": -80.1652, "type": "POBOX", "counties": [{"fips": "091", "name": "Taylor"}]});

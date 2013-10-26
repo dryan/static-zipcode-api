@@ -1,1 +1,1 @@
-{"lat": 38.313717, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kyana", "lng": -86.81523, "zip_code": "47575"}
+{"locality": "Saint Anthony", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kyana", "Saint Anthony"], "postal_code": "47575", "lat": 38.313717, "lng": -86.81523, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dubois"}]}

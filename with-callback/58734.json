@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.506446, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Donnybrook", "lng": -101.96379, "zip_code": "58734"});
+zipapicallback({"locality": "Donnybrook", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Coulee", "Donnybrook"], "postal_code": "58734", "lat": 48.506446, "lng": -101.96379, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}, {"fips": "013", "name": "Burke"}, {"fips": "075", "name": "Renville"}, {"fips": "061", "name": "Mountrail"}]});

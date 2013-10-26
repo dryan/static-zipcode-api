@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.057528, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Necedah", "lng": -90.07117, "zip_code": "54646"});
+zipapicallback({"locality": "Necedah", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Necedah"], "postal_code": "54646", "lat": 44.057528, "lng": -90.07117, "type": "STANDARD", "counties": [{"fips": "057", "name": "Juneau"}, {"fips": "001", "name": "Adams"}]});

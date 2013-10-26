@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.808301, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Amana", "lng": -91.87512, "zip_code": "52203"});
+zipapicallback({"locality": "Amana", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Amana", "West Amana"], "postal_code": "52203", "lat": 41.808301, "lng": -91.87512, "type": "STANDARD", "counties": [{"fips": "095", "name": "Iowa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.282728, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Zaleski", "lng": -82.39623, "zip_code": "45698"});
+zipapicallback({"locality": "Zaleski", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Zaleski"], "postal_code": "45698", "lat": 39.282728, "lng": -82.39623, "type": "POBOX", "counties": [{"fips": "163", "name": "Vinton"}]});

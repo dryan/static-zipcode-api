@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.097861, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Girdletree", "lng": -75.39378, "zip_code": "21829"});
+zipapicallback({"locality": "Girdletree", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Girdletree"], "postal_code": "21829", "lat": 38.097861, "lng": -75.39378, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]});

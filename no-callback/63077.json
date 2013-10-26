@@ -1,1 +1,1 @@
-{"lat": 38.336093, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Clair", "lng": -90.98902, "zip_code": "63077"}
+{"locality": "Saint Clair", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Clair"], "postal_code": "63077", "lat": 38.336093, "lng": -90.98902, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]}

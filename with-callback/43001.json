@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.091576, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Alexandria", "lng": -82.61225, "zip_code": "43001"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Alexandria"], "postal_code": "43001", "lat": 40.091576, "lng": -82.61225, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}]});

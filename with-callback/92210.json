@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.70129, "region": {"abbr": "CA", "name": "California"}, "locality": "Indian Wells", "lng": -116.34148, "zip_code": "92210"});
+zipapicallback({"locality": "Indian Wells", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Indian Wells", "Palm Desert"], "postal_code": "92210", "lat": 33.70129, "lng": -116.34148, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]});

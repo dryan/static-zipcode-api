@@ -1,1 +1,1 @@
-{"lat": 34.948211, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Sasakwa", "lng": -96.53394, "zip_code": "74867"}
+{"locality": "Sasakwa", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Sasakwa"], "postal_code": "74867", "lat": 34.948211, "lng": -96.53394, "type": "STANDARD", "counties": [{"fips": "133", "name": "Seminole"}, {"fips": "063", "name": "Hughes"}]}

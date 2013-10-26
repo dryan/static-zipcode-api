@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.459314, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Fenwick Island", "lng": -75.05356, "zip_code": "19944"});
+zipapicallback({"locality": "Fenwick Island", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Fenwick Island", "Fenwick Isle", "Selbyville"], "postal_code": "19944", "lat": 38.459314, "lng": -75.05356, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

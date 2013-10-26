@@ -1,1 +1,1 @@
-{"lat": 39.287254, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Smithburg", "lng": -80.73186, "zip_code": "26436"}
+{"locality": "Smithburg", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Smithburg"], "postal_code": "26436", "lat": 39.287254, "lng": -80.73186, "type": "POBOX", "counties": [{"fips": "017", "name": "Doddridge"}]}

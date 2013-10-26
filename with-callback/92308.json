@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.447959, "region": {"abbr": "CA", "name": "California"}, "locality": "Apple Valley", "lng": -117.19222, "zip_code": "92308"});
+zipapicallback({"locality": "Apple Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Apple Valley", "Jess Ranch"], "postal_code": "92308", "lat": 34.447959, "lng": -117.19222, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

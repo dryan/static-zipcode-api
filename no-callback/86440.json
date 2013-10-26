@@ -1,1 +1,1 @@
-{"lat": 34.888406, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Mohave Valley", "lng": -114.57354, "zip_code": "86440"}
+{"locality": "Mohave Valley", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Mohave Valley"], "postal_code": "86440", "lat": 34.888406, "lng": -114.57354, "type": "STANDARD", "counties": [{"fips": "015", "name": "Mohave"}]}

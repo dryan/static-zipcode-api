@@ -1,1 +1,1 @@
-{"lat": 35.025423, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Five Points", "lng": -87.29104, "zip_code": "38457"}
+{"locality": "Five Points", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Five Points"], "postal_code": "38457", "lat": 35.025423, "lng": -87.29104, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}]}

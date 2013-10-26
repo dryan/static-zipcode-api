@@ -1,1 +1,1 @@
-{"lat": 40.655909, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wilmot", "lng": -81.63929, "zip_code": "44689"}
+{"locality": "Wilmot", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wilmot"], "postal_code": "44689", "lat": 40.655909, "lng": -81.63929, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}, {"fips": "075", "name": "Holmes"}]}

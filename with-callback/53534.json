@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.841688, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Edgerton", "lng": -89.07223, "zip_code": "53534"});
+zipapicallback({"locality": "Edgerton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Edgerton"], "postal_code": "53534", "lat": 42.841688, "lng": -89.07223, "type": "STANDARD", "counties": [{"fips": "105", "name": "Rock"}, {"fips": "025", "name": "Dane"}, {"fips": "055", "name": "Jefferson"}]});

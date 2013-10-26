@@ -1,1 +1,1 @@
-{"lat": 36.475414, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Sanostee", "lng": -108.81089, "zip_code": "87461"}
+{"locality": "Sanostee", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Sanostee"], "postal_code": "87461", "lat": 36.475414, "lng": -108.81089, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

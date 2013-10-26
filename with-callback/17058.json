@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.53526, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mifflin", "lng": -77.46457, "zip_code": "17058"});
+zipapicallback({"locality": "Mifflin", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mifflin"], "postal_code": "17058", "lat": 40.53526, "lng": -77.46457, "type": "STANDARD", "counties": [{"fips": "067", "name": "Juniata"}]});

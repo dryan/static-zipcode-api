@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.393967, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Mesa", "lng": -111.64302, "zip_code": "85208"});
+zipapicallback({"locality": "Mesa", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Mesa"], "postal_code": "85208", "lat": 33.393967, "lng": -111.64302, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.7785, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hazelwood", "lng": -90.37005, "zip_code": "63042"});
+zipapicallback({"locality": "Hazelwood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hazelwood"], "postal_code": "63042", "lat": 38.7785, "lng": -90.37005, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

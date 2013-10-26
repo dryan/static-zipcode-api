@@ -1,1 +1,1 @@
-{"lat": 33.979401, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Duluth", "lng": -84.15118, "zip_code": "30096"}
+{"locality": "Duluth", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Berkeley Lake", "Duluth"], "postal_code": "30096", "lat": 33.979401, "lng": -84.15118, "type": "STANDARD", "counties": []}

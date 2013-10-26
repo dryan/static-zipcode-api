@@ -1,1 +1,1 @@
-{"lat": 41.160579, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hazen", "lng": -79.06479, "zip_code": "15825"}
+{"locality": "Brookville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brookville", "Hazen"], "postal_code": "15825", "lat": 41.160579, "lng": -79.06479, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]}

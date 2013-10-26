@@ -1,1 +1,1 @@
-{"lat": 32.86814, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fort Worth", "lng": -97.28566, "zip_code": "76137"}
+{"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth", "Haltom City", "Watauga"], "postal_code": "76137", "lat": 32.86814, "lng": -97.28566, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.742668, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Edgewater", "lng": -91.47648, "zip_code": "54834"}
+{"locality": "Edgewater", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Edgewater"], "postal_code": "54834", "lat": 45.742668, "lng": -91.47648, "type": "POBOX", "counties": [{"fips": "113", "name": "Sawyer"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.843778, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Freeport", "lng": -70.10172, "zip_code": "04032"});
+zipapicallback({"locality": "Freeport", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Freeport"], "postal_code": "04032", "lat": 43.843778, "lng": -70.10172, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

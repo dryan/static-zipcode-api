@@ -1,1 +1,1 @@
-{"lat": 40.164049, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brunnerville", "lng": -76.29946, "zip_code": "17543"}
+{"locality": "Lititz", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brunnerville", "Lititz"], "postal_code": "17543", "lat": 40.164049, "lng": -76.29946, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.205853, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Sagle", "lng": -116.5571, "zip_code": "83860"}
+{"locality": "Sagle", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Sagle"], "postal_code": "83860", "lat": 48.205853, "lng": -116.5571, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]}

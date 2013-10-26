@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.966064, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Schurz", "lng": -118.67848, "zip_code": "89427"});
+zipapicallback({"locality": "Schurz", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Schurz"], "postal_code": "89427", "lat": 38.966064, "lng": -118.67848, "type": "POBOX", "counties": [{"fips": "021", "name": "Mineral"}]});

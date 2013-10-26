@@ -1,1 +1,1 @@
-{"lat": 47.475797, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Finley", "lng": -97.80427, "zip_code": "58230"}
+{"locality": "Finley", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Finley"], "postal_code": "58230", "lat": 47.475797, "lng": -97.80427, "type": "STANDARD", "counties": [{"fips": "091", "name": "Steele"}]}

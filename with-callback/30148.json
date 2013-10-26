@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.452988, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Marble Hill", "lng": -84.25925, "zip_code": "30148"});
+zipapicallback({"locality": "Marble Hill", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Marble Hill"], "postal_code": "30148", "lat": 34.452988, "lng": -84.25925, "type": "STANDARD", "counties": [{"fips": "227", "name": "Pickens"}]});

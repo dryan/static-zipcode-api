@@ -1,1 +1,1 @@
-{"lat": 39.853674, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Clayton", "lng": -84.34125, "zip_code": "45315"}
+{"locality": "Clayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Clayton"], "postal_code": "45315", "lat": 39.853674, "lng": -84.34125, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}]}

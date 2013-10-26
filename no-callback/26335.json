@@ -1,1 +1,1 @@
-{"lat": 38.856879, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Gem", "lng": -80.66528, "zip_code": "26335"}
+{"locality": "Burnsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Burnsville", "Gem"], "postal_code": "26335", "lat": 38.856879, "lng": -80.66528, "type": "STANDARD", "counties": [{"fips": "007", "name": "Braxton"}, {"fips": "021", "name": "Gilmer"}]}

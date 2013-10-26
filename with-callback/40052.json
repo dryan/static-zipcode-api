@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.585365, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "New Hope", "lng": -85.50817, "zip_code": "40052"});
+zipapicallback({"locality": "New Hope", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["New Hope"], "postal_code": "40052", "lat": 37.585365, "lng": -85.50817, "type": "STANDARD", "counties": [{"fips": "123", "name": "Larue"}, {"fips": "155", "name": "Marion"}, {"fips": "179", "name": "Nelson"}]});

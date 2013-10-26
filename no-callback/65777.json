@@ -1,1 +1,1 @@
-{"lat": 36.524268, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Moody", "lng": -91.98863, "zip_code": "65777"}
+{"locality": "Moody", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Moody"], "postal_code": "65777", "lat": 36.524268, "lng": -91.98863, "type": "STANDARD", "counties": [{"fips": "091", "name": "Howell"}]}

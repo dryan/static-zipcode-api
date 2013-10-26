@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.427504, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ladonia", "lng": -95.95578, "zip_code": "75449"});
+zipapicallback({"locality": "Ladonia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ladonia"], "postal_code": "75449", "lat": 33.427504, "lng": -95.95578, "type": "STANDARD", "counties": [{"fips": "147", "name": "Fannin"}]});

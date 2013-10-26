@@ -1,1 +1,1 @@
-{"lat": 40.694214, "region": {"abbr": "NY", "name": "New York"}, "locality": "Brooklyn", "lng": -73.96529, "zip_code": "11205"}
+{"locality": "Brooklyn", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brooklyn"], "postal_code": "11205", "lat": 40.694214, "lng": -73.96529, "type": "STANDARD", "counties": [{"fips": "047", "name": "Kings"}]}

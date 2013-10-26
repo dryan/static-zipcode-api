@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.37815, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Raymondville", "lng": -91.78576, "zip_code": "65555"});
+zipapicallback({"locality": "Raymondville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Raymondville"], "postal_code": "65555", "lat": 37.37815, "lng": -91.78576, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}]});

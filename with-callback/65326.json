@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.203621, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Edwards", "lng": -93.14236, "zip_code": "65326"});
+zipapicallback({"locality": "Edwards", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Edwards"], "postal_code": "65326", "lat": 38.203621, "lng": -93.14236, "type": "STANDARD", "counties": [{"fips": "015", "name": "Benton"}, {"fips": "085", "name": "Hickory"}, {"fips": "029", "name": "Camden"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.611434, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Allen", "lng": -82.72503, "zip_code": "41601"}
+{"locality": "Allen", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Allen"], "postal_code": "41601", "lat": 37.611434, "lng": -82.72503, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

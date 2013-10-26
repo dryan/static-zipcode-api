@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.172831, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Simla", "lng": -104.08793, "zip_code": "80835"});
+zipapicallback({"locality": "Simla", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Simla"], "postal_code": "80835", "lat": 39.172831, "lng": -104.08793, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elbert"}, {"fips": "041", "name": "El Paso"}]});

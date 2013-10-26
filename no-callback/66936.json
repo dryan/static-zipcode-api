@@ -1,1 +1,1 @@
-{"lat": 39.908065, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Burr Oak", "lng": -98.29451, "zip_code": "66936"}
+{"locality": "Burr Oak", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Burr Oak"], "postal_code": "66936", "lat": 39.908065, "lng": -98.29451, "type": "STANDARD", "counties": [{"fips": "089", "name": "Jewell"}]}

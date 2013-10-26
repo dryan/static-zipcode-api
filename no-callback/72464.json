@@ -1,1 +1,1 @@
-{"lat": 36.458348, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Saint Francis", "lng": -90.14377, "zip_code": "72464"}
+{"locality": "Saint Francis", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Saint Francis"], "postal_code": "72464", "lat": 36.458348, "lng": -90.14377, "type": "POBOX", "counties": [{"fips": "021", "name": "Clay"}]}

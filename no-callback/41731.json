@@ -1,1 +1,1 @@
-{"lat": 37.115385, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ulvah", "lng": -83.08501, "zip_code": "41731"}
+{"locality": "Cornettsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cornettsville", "Daisy", "Leatherwood", "Ulvah"], "postal_code": "41731", "lat": 37.115385, "lng": -83.08501, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}, {"fips": "133", "name": "Letcher"}]}

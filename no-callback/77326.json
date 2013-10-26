@@ -1,1 +1,1 @@
-{"lat": 30.519883, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ace", "lng": -94.81869, "zip_code": "77326"}
+{"locality": "Ace", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ace"], "postal_code": "77326", "lat": 30.519883, "lng": -94.81869, "type": "POBOX", "counties": [{"fips": "373", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.815316, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Branch", "lng": -74.97995, "zip_code": "12766"}
+{"locality": "North Branch", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North Branch"], "postal_code": "12766", "lat": 41.815316, "lng": -74.97995, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

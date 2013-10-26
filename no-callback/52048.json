@@ -1,1 +1,1 @@
-{"lat": 42.738079, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Garber", "lng": -91.25078, "zip_code": "52048"}
+{"locality": "Garber", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Garber"], "postal_code": "52048", "lat": 42.738079, "lng": -91.25078, "type": "STANDARD", "counties": [{"fips": "043", "name": "Clayton"}]}

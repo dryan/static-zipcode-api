@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.325944, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Lincolnville", "lng": -69.03065, "zip_code": "04849"});
+zipapicallback({"locality": "Lincolnville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Lincolnville", "Northport"], "postal_code": "04849", "lat": 44.325944, "lng": -69.03065, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

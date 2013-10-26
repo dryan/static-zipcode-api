@@ -1,1 +1,1 @@
-{"lat": 43.949901, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Woolwich", "lng": -69.78298, "zip_code": "04579"}
+{"locality": "Woolwich", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Woolwich"], "postal_code": "04579", "lat": 43.949901, "lng": -69.78298, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]}

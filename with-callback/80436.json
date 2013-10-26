@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.766277, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Dumont", "lng": -105.61523, "zip_code": "80436"});
+zipapicallback({"locality": "Dumont", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Dumont"], "postal_code": "80436", "lat": 39.766277, "lng": -105.61523, "type": "POBOX", "counties": [{"fips": "019", "name": "Clear Creek"}]});

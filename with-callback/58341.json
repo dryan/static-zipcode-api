@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.767862, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Manfred", "lng": -99.84416, "zip_code": "58341"});
+zipapicallback({"locality": "Harvey", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Hamberg", "Harvey", "Heimdal", "Manfred", "Selz"], "postal_code": "58341", "lat": 47.767862, "lng": -99.84416, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wells"}, {"fips": "083", "name": "Sheridan"}, {"fips": "069", "name": "Pierce"}, {"fips": "005", "name": "Benson"}]});

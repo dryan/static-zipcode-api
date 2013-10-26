@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.605039, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Salem", "lng": -86.08928, "zip_code": "47167"});
+zipapicallback({"locality": "Salem", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Salem"], "postal_code": "47167", "lat": 38.605039, "lng": -86.08928, "type": "STANDARD", "counties": [{"fips": "175", "name": "Washington"}]});

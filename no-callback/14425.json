@@ -1,1 +1,1 @@
-{"lat": 42.985007, "region": {"abbr": "NY", "name": "New York"}, "locality": "Canandaigua", "lng": -77.346, "zip_code": "14425"}
+{"locality": "Farmington", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Canandaigua", "Farmington"], "postal_code": "14425", "lat": 42.985007, "lng": -77.346, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}, {"fips": "055", "name": "Monroe"}]}

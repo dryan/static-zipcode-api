@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.608083, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Midkiff", "lng": -101.86524, "zip_code": "79755"});
+zipapicallback({"locality": "Midkiff", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Midkiff"], "postal_code": "79755", "lat": 31.608083, "lng": -101.86524, "type": "STANDARD", "counties": [{"fips": "461", "name": "Upton"}]});

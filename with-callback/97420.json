@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.357357, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Charleston", "lng": -124.21086, "zip_code": "97420"});
+zipapicallback({"locality": "Coos Bay", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Charleston", "Coos Bay"], "postal_code": "97420", "lat": 43.357357, "lng": -124.21086, "type": "STANDARD", "counties": [{"fips": "011", "name": "Coos"}]});

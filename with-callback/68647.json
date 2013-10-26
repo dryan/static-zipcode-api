@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.504301, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Monroe", "lng": -97.60921, "zip_code": "68647"});
+zipapicallback({"locality": "Monroe", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Monroe"], "postal_code": "68647", "lat": 41.504301, "lng": -97.60921, "type": "STANDARD", "counties": [{"fips": "141", "name": "Platte"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.606337, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Aplington", "lng": -92.8988, "zip_code": "50604"}
+{"locality": "Aplington", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Aplington"], "postal_code": "50604", "lat": 42.606337, "lng": -92.8988, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]}

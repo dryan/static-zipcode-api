@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.815171, "region": {"abbr": "NY", "name": "New York"}, "locality": "Stanley", "lng": -77.1321, "zip_code": "14561"});
+zipapicallback({"locality": "Stanley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Stanley"], "postal_code": "14561", "lat": 42.815171, "lng": -77.1321, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}, {"fips": "123", "name": "Yates"}, {"fips": "009", "name": "Cattaraugus"}]});

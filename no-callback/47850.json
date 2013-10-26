@@ -1,1 +1,1 @@
-{"lat": 39.25182, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Farmersburg", "lng": -87.40974, "zip_code": "47850"}
+{"locality": "Farmersburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Farmersburg"], "postal_code": "47850", "lat": 39.25182, "lng": -87.40974, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sullivan"}, {"fips": "167", "name": "Vigo"}]}

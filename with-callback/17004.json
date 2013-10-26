@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.597698, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Belleville", "lng": -77.73883, "zip_code": "17004"});
+zipapicallback({"locality": "Belleville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Belleville"], "postal_code": "17004", "lat": 40.597698, "lng": -77.73883, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mifflin"}]});

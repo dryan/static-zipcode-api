@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.086954, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Primghar", "lng": -95.61476, "zip_code": "51245"});
+zipapicallback({"locality": "Primghar", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Primghar"], "postal_code": "51245", "lat": 43.086954, "lng": -95.61476, "type": "STANDARD", "counties": [{"fips": "141", "name": "O'Brien"}]});

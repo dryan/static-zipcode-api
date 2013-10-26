@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.227919, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Mount Gilead", "lng": -79.99741, "zip_code": "27306"});
+zipapicallback({"locality": "Mount Gilead", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Mount Gilead"], "postal_code": "27306", "lat": 35.227919, "lng": -79.99741, "type": "STANDARD", "counties": [{"fips": "123", "name": "Montgomery"}, {"fips": "153", "name": "Richmond"}]});

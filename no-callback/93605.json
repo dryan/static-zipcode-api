@@ -1,1 +1,1 @@
-{"lat": 37.191503, "region": {"abbr": "CA", "name": "California"}, "locality": "Big Creek", "lng": -119.26372, "zip_code": "93605"}
+{"locality": "Big Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big Creek"], "postal_code": "93605", "lat": 37.191503, "lng": -119.26372, "type": "POBOX", "counties": [{"fips": "019", "name": "Fresno"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.780515, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Camanche", "lng": -90.28869, "zip_code": "52730"}
+{"locality": "Camanche", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Camanche"], "postal_code": "52730", "lat": 41.780515, "lng": -90.28869, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clinton"}]}

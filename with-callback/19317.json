@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.851803, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Chadds Ford", "lng": -75.5961, "zip_code": "19317"});
+zipapicallback({"locality": "Chadds Ford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chadds Ford"], "postal_code": "19317", "lat": 39.851803, "lng": -75.5961, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}, {"fips": "029", "name": "Chester"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.641852, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Fanwood", "lng": -74.38533, "zip_code": "07023"}
+{"locality": "Fanwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fanwood"], "postal_code": "07023", "lat": 40.641852, "lng": -74.38533, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]}

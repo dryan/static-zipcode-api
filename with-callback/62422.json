@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.251624, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cowden", "lng": -88.86505, "zip_code": "62422"});
+zipapicallback({"locality": "Cowden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cowden"], "postal_code": "62422", "lat": 39.251624, "lng": -88.86505, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}, {"fips": "051", "name": "Fayette"}, {"fips": "057", "name": "Fulton"}]});

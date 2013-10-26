@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.679321, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Presque Isle", "lng": -68.00216, "zip_code": "04769"});
+zipapicallback({"locality": "Presque Isle", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Presque Isle"], "postal_code": "04769", "lat": 46.679321, "lng": -68.00216, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

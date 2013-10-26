@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.305512, "region": {"abbr": "CA", "name": "California"}, "locality": "Tupman", "lng": -119.38925, "zip_code": "93276"});
+zipapicallback({"locality": "Tupman", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tupman"], "postal_code": "93276", "lat": 35.305512, "lng": -119.38925, "type": "POBOX", "counties": [{"fips": "029", "name": "Kern"}]});

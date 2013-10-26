@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.018602, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Coxs Mills", "lng": -80.85231, "zip_code": "26342"});
+zipapicallback({"locality": "Coxs Mills", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Coxs Mills"], "postal_code": "26342", "lat": 39.018602, "lng": -80.85231, "type": "STANDARD", "counties": [{"fips": "021", "name": "Gilmer"}, {"fips": "085", "name": "Ritchie"}]});

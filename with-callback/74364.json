@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.197948, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Leach", "lng": -94.96707, "zip_code": "74364"});
+zipapicallback({"locality": "Rose", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rose"], "postal_code": "74364", "lat": 36.197948, "lng": -94.96707, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mayes"}, {"fips": "041", "name": "Delaware"}, {"fips": "021", "name": "Cherokee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.345833, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Auburndale", "lng": -71.24735, "zip_code": "02466"});
+zipapicallback({"locality": "Auburndale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Auburndale"], "postal_code": "02466", "lat": 42.345833, "lng": -71.24735, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 32.723865, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gail", "lng": -101.45811, "zip_code": "79738"}
+{"locality": "Gail", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gail"], "postal_code": "79738", "lat": 32.723865, "lng": -101.45811, "type": "STANDARD", "counties": [{"fips": "033", "name": "Borden"}]}

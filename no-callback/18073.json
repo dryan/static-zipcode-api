@@ -1,1 +1,1 @@
-{"lat": 40.388263, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pennsburg", "lng": -75.48659, "zip_code": "18073"}
+{"locality": "Pennsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pennsburg", "Red Hill"], "postal_code": "18073", "lat": 40.388263, "lng": -75.48659, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "009", "name": "Bedford"}, {"fips": "017", "name": "Bucks"}]}

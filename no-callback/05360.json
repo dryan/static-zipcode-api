@@ -1,1 +1,1 @@
-{"lat": 43.028157, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "West Wardsboro", "lng": -72.87914, "zip_code": "05360"}
+{"locality": "West Wardsboro", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Stratton", "W Wardsboro", "West Wardsboro"], "postal_code": "05360", "lat": 43.028157, "lng": -72.87914, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]}

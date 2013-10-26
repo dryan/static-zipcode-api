@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.055115, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Antioch", "lng": -86.64782, "zip_code": "37013"});
+zipapicallback({"locality": "Antioch", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Antioch", "Cane Ridge"], "postal_code": "37013", "lat": 36.055115, "lng": -86.64782, "type": "STANDARD", "counties": [{"fips": "037", "name": "Davidson"}]});

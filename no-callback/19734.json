@@ -1,1 +1,1 @@
-{"lat": 39.386601, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Townsend", "lng": -75.66801, "zip_code": "19734"}
+{"locality": "Townsend", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Townsend"], "postal_code": "19734", "lat": 39.386601, "lng": -75.66801, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]}

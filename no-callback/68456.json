@@ -1,1 +1,1 @@
-{"lat": 40.898329, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Utica", "lng": -97.32084, "zip_code": "68456"}
+{"locality": "Utica", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Utica"], "postal_code": "68456", "lat": 40.898329, "lng": -97.32084, "type": "STANDARD", "counties": [{"fips": "159", "name": "Seward"}]}

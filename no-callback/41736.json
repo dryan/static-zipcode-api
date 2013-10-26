@@ -1,1 +1,1 @@
-{"lat": 37.370521, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dice", "lng": -83.23714, "zip_code": "41736"}
+{"locality": "Dice", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Dice"], "postal_code": "41736", "lat": 37.370521, "lng": -83.23714, "type": "POBOX", "counties": [{"fips": "193", "name": "Perry"}]}

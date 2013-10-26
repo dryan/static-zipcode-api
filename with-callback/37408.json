@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.030907, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Chattanooga", "lng": -85.31004, "zip_code": "37408"});
+zipapicallback({"locality": "Chattanooga", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Chattanooga"], "postal_code": "37408", "lat": 35.030907, "lng": -85.31004, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]});

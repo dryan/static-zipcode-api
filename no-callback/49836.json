@@ -1,1 +1,1 @@
-{"lat": 46.180416, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Germfask", "lng": -85.90176, "zip_code": "49836"}
+{"locality": "Germfask", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Germfask"], "postal_code": "49836", "lat": 46.180416, "lng": -85.90176, "type": "STANDARD", "counties": [{"fips": "153", "name": "Schoolcraft"}, {"fips": "097", "name": "MacKinac"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.437077, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Millersville", "lng": -89.85836, "zip_code": "63766"}
+{"locality": "Millersville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Millersville"], "postal_code": "63766", "lat": 37.437077, "lng": -89.85836, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cape Girardeau"}, {"fips": "017", "name": "Bollinger"}]}

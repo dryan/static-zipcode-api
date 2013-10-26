@@ -1,1 +1,1 @@
-{"lat": 47.67903, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kirkland", "lng": -122.1934, "zip_code": "98033"}
+{"locality": "Kirkland", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kirkland"], "postal_code": "98033", "lat": 47.67903, "lng": -122.1934, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

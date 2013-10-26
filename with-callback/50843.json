@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.242612, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cumberland", "lng": -94.9015, "zip_code": "50843"});
+zipapicallback({"locality": "Cumberland", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cumberland"], "postal_code": "50843", "lat": 41.242612, "lng": -94.9015, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cass"}, {"fips": "137", "name": "Montgomery"}, {"fips": "003", "name": "Adams"}]});

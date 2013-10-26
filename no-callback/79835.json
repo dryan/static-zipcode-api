@@ -1,1 +1,1 @@
-{"lat": 31.932926, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Canutillo", "lng": -106.59577, "zip_code": "79835"}
+{"locality": "Canutillo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Canutillo"], "postal_code": "79835", "lat": 31.932926, "lng": -106.59577, "type": "STANDARD", "counties": [{"fips": "141", "name": "El Paso"}]}

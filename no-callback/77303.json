@@ -1,1 +1,1 @@
-{"lat": 30.368543, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cut And Shoot", "lng": -95.40217, "zip_code": "77303"}
+{"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe", "Cut And Shoot"], "postal_code": "77303", "lat": 30.368543, "lng": -95.40217, "type": "STANDARD", "counties": [{"fips": "339", "name": "Montgomery"}]}

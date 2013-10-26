@@ -1,1 +1,1 @@
-{"lat": 33.362351, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mc Neil", "lng": -93.20045, "zip_code": "71752"}
+{"locality": "Mc Neil", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mc Neil"], "postal_code": "71752", "lat": 33.362351, "lng": -93.20045, "type": "STANDARD", "counties": [{"fips": "027", "name": "Columbia"}, {"fips": "099", "name": "Nevada"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.87131, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Augustine", "lng": -81.29464, "zip_code": "32084"});
+zipapicallback({"locality": "Saint Augustine", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Augustine", "Saint Augustine Beach", "St Aug Beach", "St Augustine", "St Augustine Beach"], "postal_code": "32084", "lat": 29.87131, "lng": -81.29464, "type": "STANDARD", "counties": [{"fips": "109", "name": "Saint Johns"}, {"fips": "127", "name": "Volusia"}]});

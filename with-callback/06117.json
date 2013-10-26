@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.791399, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "W Hartford", "lng": -72.74853, "zip_code": "06117"});
+zipapicallback({"locality": "West Hartford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Hartford", "West Hartford", "West Hartfrd"], "postal_code": "06117", "lat": 41.791399, "lng": -72.74853, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

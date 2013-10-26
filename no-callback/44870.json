@@ -1,1 +1,1 @@
-{"lat": 41.42646, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sandusky", "lng": -82.71083, "zip_code": "44870"}
+{"locality": "Sandusky", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sandusky"], "postal_code": "44870", "lat": 41.42646, "lng": -82.71083, "type": "STANDARD", "counties": [{"fips": "043", "name": "Erie"}, {"fips": "143", "name": "Sandusky"}]}

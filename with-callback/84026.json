@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.294693, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Fort Duchesne", "lng": -109.82903, "zip_code": "84026"});
+zipapicallback({"locality": "Fort Duchesne", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Fort Duchesne", "Gusher", "Ouray"], "postal_code": "84026", "lat": 40.294693, "lng": -109.82903, "type": "STANDARD", "counties": [{"fips": "047", "name": "Uintah"}]});

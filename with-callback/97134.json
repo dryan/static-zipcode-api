@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.461852, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Oceanside", "lng": -123.96804, "zip_code": "97134"});
+zipapicallback({"locality": "Oceanside", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Oceanside"], "postal_code": "97134", "lat": 45.461852, "lng": -123.96804, "type": "POBOX", "counties": [{"fips": "057", "name": "Tillamook"}]});

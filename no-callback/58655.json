@@ -1,1 +1,1 @@
-{"lat": 46.808668, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "South Heart", "lng": -103.03364, "zip_code": "58655"}
+{"locality": "South Heart", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["South Heart"], "postal_code": "58655", "lat": 46.808668, "lng": -103.03364, "type": "STANDARD", "counties": [{"fips": "089", "name": "Stark"}]}

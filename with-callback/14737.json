@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.335628, "region": {"abbr": "NY", "name": "New York"}, "locality": "Franklinville", "lng": -78.43114, "zip_code": "14737"});
+zipapicallback({"locality": "Franklinville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Franklinville"], "postal_code": "14737", "lat": 42.335628, "lng": -78.43114, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}, {"fips": "003", "name": "Allegany"}]});

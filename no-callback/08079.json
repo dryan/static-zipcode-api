@@ -1,1 +1,1 @@
-{"lat": 39.549912, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Salem", "lng": -75.43943, "zip_code": "08079"}
+{"locality": "Salem", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mannington", "Salem"], "postal_code": "08079", "lat": 39.549912, "lng": -75.43943, "type": "STANDARD", "counties": [{"fips": "033", "name": "Salem"}]}

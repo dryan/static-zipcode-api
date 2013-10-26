@@ -1,1 +1,1 @@
-{"lat": 33.73297, "region": {"abbr": "CA", "name": "California"}, "locality": "Irvine", "lng": -117.76932, "zip_code": "92602"}
+{"locality": "Irvine", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Irvine"], "postal_code": "92602", "lat": 33.73297, "lng": -117.76932, "type": "STANDARD", "counties": []}

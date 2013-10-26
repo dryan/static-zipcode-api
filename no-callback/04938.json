@@ -1,1 +1,1 @@
-{"lat": 44.66776, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Farmington", "lng": -70.12362, "zip_code": "04938"}
+{"locality": "Farmington", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Chesterville", "Farmington", "Industry"], "postal_code": "04938", "lat": 44.66776, "lng": -70.12362, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.360111, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bay View", "lng": -84.93774, "zip_code": "49770"}
+{"locality": "Petoskey", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bay Harbor", "Bay View", "Petoskey"], "postal_code": "49770", "lat": 45.360111, "lng": -84.93774, "type": "STANDARD", "counties": [{"fips": "047", "name": "Emmet"}, {"fips": "029", "name": "Charlevoix"}]}

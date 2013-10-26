@@ -1,1 +1,1 @@
-{"lat": 33.054591, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Juliette", "lng": -83.78583, "zip_code": "31046"}
+{"locality": "Juliette", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Juliette"], "postal_code": "31046", "lat": 33.054591, "lng": -83.78583, "type": "STANDARD", "counties": [{"fips": "207", "name": "Monroe"}, {"fips": "169", "name": "Jones"}]}

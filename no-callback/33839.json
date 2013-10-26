@@ -1,1 +1,1 @@
-{"lat": 27.98038, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Eagle Lake", "lng": -81.75531, "zip_code": "33839"}
+{"locality": "Eagle Lake", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Eagle Lake"], "postal_code": "33839", "lat": 27.98038, "lng": -81.75531, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

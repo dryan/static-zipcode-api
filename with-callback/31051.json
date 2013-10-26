@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.148624, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Lilly", "lng": -83.88003, "zip_code": "31051"});
+zipapicallback({"locality": "Lilly", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Lilly"], "postal_code": "31051", "lat": 32.148624, "lng": -83.88003, "type": "POBOX", "counties": [{"fips": "093", "name": "Dooly"}]});

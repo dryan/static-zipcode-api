@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.103903, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Continental", "lng": -84.25371, "zip_code": "45831"});
+zipapicallback({"locality": "Continental", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Continental"], "postal_code": "45831", "lat": 41.103903, "lng": -84.25371, "type": "STANDARD", "counties": [{"fips": "137", "name": "Putnam"}, {"fips": "125", "name": "Paulding"}]});

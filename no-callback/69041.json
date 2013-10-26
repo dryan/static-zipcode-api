@@ -1,1 +1,1 @@
-{"lat": 40.133487, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Parks", "lng": -101.7201, "zip_code": "69041"}
+{"locality": "Parks", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Parks"], "postal_code": "69041", "lat": 40.133487, "lng": -101.7201, "type": "STANDARD", "counties": [{"fips": "057", "name": "Dundy"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.59466, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Hamburg", "lng": -73.89579, "zip_code": "12590"}
+{"locality": "Wappingers Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Hamburg", "Wappingers Falls", "Wappingers Fl"], "postal_code": "12590", "lat": 41.59466, "lng": -73.89579, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}]}

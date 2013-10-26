@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.207547, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Buhl", "lng": -87.75054, "zip_code": "35446"});
+zipapicallback({"locality": "Buhl", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Buhl"], "postal_code": "35446", "lat": 33.207547, "lng": -87.75054, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]});

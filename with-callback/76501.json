@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.093215, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Temple", "lng": -97.31086, "zip_code": "76501"});
+zipapicallback({"locality": "Temple", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Temple"], "postal_code": "76501", "lat": 31.093215, "lng": -97.31086, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}]});

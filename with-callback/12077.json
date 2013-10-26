@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.600551, "region": {"abbr": "NY", "name": "New York"}, "locality": "Glenmont", "lng": -73.79621, "zip_code": "12077"});
+zipapicallback({"locality": "Glenmont", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glenmont"], "postal_code": "12077", "lat": 42.600551, "lng": -73.79621, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]});

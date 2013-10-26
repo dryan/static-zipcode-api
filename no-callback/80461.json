@@ -1,1 +1,1 @@
-{"lat": 39.231776, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Leadville", "lng": -106.31399, "zip_code": "80461"}
+{"locality": "Leadville", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Leadville"], "postal_code": "80461", "lat": 39.231776, "lng": -106.31399, "type": "STANDARD", "counties": [{"fips": "065", "name": "Lake"}]}

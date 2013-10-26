@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.039636, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Linton", "lng": -87.16987, "zip_code": "47441"});
+zipapicallback({"locality": "Linton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Linton"], "postal_code": "47441", "lat": 39.039636, "lng": -87.16987, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]});

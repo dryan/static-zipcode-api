@@ -1,1 +1,1 @@
-{"lat": 38.007639, "region": {"abbr": "CA", "name": "California"}, "locality": "Woodacre", "lng": -122.63914, "zip_code": "94973"}
+{"locality": "Woodacre", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Woodacre"], "postal_code": "94973", "lat": 38.007639, "lng": -122.63914, "type": "POBOX", "counties": [{"fips": "041", "name": "Marin"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.747024, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Mason", "lng": -71.77591, "zip_code": "03048"}
+{"locality": "Greenville", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Greenville", "Mason"], "postal_code": "03048", "lat": 42.747024, "lng": -71.77591, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.870051, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Castlewood", "lng": -82.27792, "zip_code": "24224"}
+{"locality": "Castlewood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Castlewood"], "postal_code": "24224", "lat": 36.870051, "lng": -82.27792, "type": "STANDARD", "counties": [{"fips": "167", "name": "Russell"}]}

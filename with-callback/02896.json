@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.988166, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "North Smithfield", "lng": -71.55188, "zip_code": "02896"});
+zipapicallback({"locality": "North Smithfield", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["N Smithfield", "North Smithfield"], "postal_code": "02896", "lat": 41.988166, "lng": -71.55188, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.886944, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Fort Stewart", "lng": -81.60109, "zip_code": "31315"});
+zipapicallback({"locality": "Fort Stewart", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Fort Stewart", "Hinesville"], "postal_code": "31315", "lat": 31.886944, "lng": -81.60109, "type": "STANDARD", "counties": []});

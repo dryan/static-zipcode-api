@@ -1,1 +1,1 @@
-{"lat": 41.792609, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Snowville", "lng": -112.91032, "zip_code": "84336"}
+{"locality": "Snowville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Snowville"], "postal_code": "84336", "lat": 41.792609, "lng": -112.91032, "type": "STANDARD", "counties": [{"fips": "003", "name": "Box Elder"}]}

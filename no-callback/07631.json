@@ -1,1 +1,1 @@
-{"lat": 40.893343, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Englewood", "lng": -73.9758, "zip_code": "07631"}
+{"locality": "Englewood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Englewood"], "postal_code": "07631", "lat": 40.893343, "lng": -73.9758, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

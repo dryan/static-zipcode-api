@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.617073, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hawkins", "lng": -95.22445, "zip_code": "75765"});
+zipapicallback({"locality": "Hawkins", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hawkins", "Holly Lake Ranch", "Holly Lk Rnch"], "postal_code": "75765", "lat": 32.617073, "lng": -95.22445, "type": "STANDARD", "counties": [{"fips": "499", "name": "Wood"}, {"fips": "459", "name": "Upshur"}]});

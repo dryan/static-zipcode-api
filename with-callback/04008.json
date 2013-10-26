@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.023057, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bowdoinham", "lng": -69.88369, "zip_code": "04008"});
+zipapicallback({"locality": "Bowdoinham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bowdoinham"], "postal_code": "04008", "lat": 44.023057, "lng": -69.88369, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]});

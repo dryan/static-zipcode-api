@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.247209, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Spiro", "lng": -94.62105, "zip_code": "74959"});
+zipapicallback({"locality": "Spiro", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fort Coffee", "Spiro"], "postal_code": "74959", "lat": 35.247209, "lng": -94.62105, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Flore"}]});

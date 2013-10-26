@@ -1,1 +1,1 @@
-{"lat": 42.473737, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Scales Mound", "lng": -90.25362, "zip_code": "61075"}
+{"locality": "Scales Mound", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Scales Mound"], "postal_code": "61075", "lat": 42.473737, "lng": -90.25362, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jo Daviess"}]}

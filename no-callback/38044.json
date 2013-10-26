@@ -1,1 +1,1 @@
-{"lat": 35.211663, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hornsby", "lng": -88.80988, "zip_code": "38044"}
+{"locality": "Hornsby", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hornsby"], "postal_code": "38044", "lat": 35.211663, "lng": -88.80988, "type": "STANDARD", "counties": [{"fips": "069", "name": "Hardeman"}]}

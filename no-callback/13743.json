@@ -1,1 +1,1 @@
-{"lat": 42.213965, "region": {"abbr": "NY", "name": "New York"}, "locality": "Candor", "lng": -76.34099, "zip_code": "13743"}
+{"locality": "Candor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Candor"], "postal_code": "13743", "lat": 42.213965, "lng": -76.34099, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}]}

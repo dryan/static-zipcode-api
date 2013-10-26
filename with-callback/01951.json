@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.780141, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Newbury", "lng": -70.86866, "zip_code": "01951"});
+zipapicallback({"locality": "Newbury", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Newbury", "Newburyport"], "postal_code": "01951", "lat": 42.780141, "lng": -70.86866, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]});

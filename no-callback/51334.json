@@ -1,1 +1,1 @@
-{"lat": 43.401328, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Estherville", "lng": -94.81524, "zip_code": "51334"}
+{"locality": "Estherville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Estherville", "Gruver"], "postal_code": "51334", "lat": 43.401328, "lng": -94.81524, "type": "STANDARD", "counties": [{"fips": "063", "name": "Emmet"}]}

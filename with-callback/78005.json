@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.976757, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bigfoot", "lng": -98.84426, "zip_code": "78005"});
+zipapicallback({"locality": "Bigfoot", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bigfoot"], "postal_code": "78005", "lat": 28.976757, "lng": -98.84426, "type": "STANDARD", "counties": [{"fips": "163", "name": "Frio"}]});

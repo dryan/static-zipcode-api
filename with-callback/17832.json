@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.80436, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marion Heights", "lng": -76.46387, "zip_code": "17832"});
+zipapicallback({"locality": "Marion Heights", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marion Height", "Marion Heights"], "postal_code": "17832", "lat": 40.80436, "lng": -76.46387, "type": "POBOX", "counties": [{"fips": "097", "name": "Northumberland"}]});

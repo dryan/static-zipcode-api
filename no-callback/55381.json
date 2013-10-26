@@ -1,1 +1,1 @@
-{"lat": 44.904987, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Silver Lake", "lng": -94.18802, "zip_code": "55381"}
+{"locality": "Silver Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Silver Lake"], "postal_code": "55381", "lat": 44.904987, "lng": -94.18802, "type": "STANDARD", "counties": [{"fips": "085", "name": "McLeod"}, {"fips": "171", "name": "Wright"}]}

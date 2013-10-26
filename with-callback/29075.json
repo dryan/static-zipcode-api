@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.194914, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Little Mountain", "lng": -81.39016, "zip_code": "29075"});
+zipapicallback({"locality": "Little Mountain", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Little Mountain", "Little Mtn"], "postal_code": "29075", "lat": 34.194914, "lng": -81.39016, "type": "STANDARD", "counties": [{"fips": "071", "name": "Newberry"}, {"fips": "063", "name": "Lexington"}, {"fips": "079", "name": "Richland"}]});

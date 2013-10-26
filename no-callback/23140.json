@@ -1,1 +1,1 @@
-{"lat": 37.438569, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Providence Forge", "lng": -77.03578, "zip_code": "23140"}
+{"locality": "Providence Forge", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Provdence Frg", "Providence Forge"], "postal_code": "23140", "lat": 37.438569, "lng": -77.03578, "type": "STANDARD", "counties": [{"fips": "127", "name": "New Kent"}]}

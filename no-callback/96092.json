@@ -1,1 +1,1 @@
-{"lat": 39.941595, "region": {"abbr": "CA", "name": "California"}, "locality": "Vina", "lng": -122.03746, "zip_code": "96092"}
+{"locality": "Vina", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Vina"], "postal_code": "96092", "lat": 39.941595, "lng": -122.03746, "type": "POBOX", "counties": [{"fips": "103", "name": "Tehama"}]}

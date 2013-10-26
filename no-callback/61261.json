@@ -1,1 +1,1 @@
-{"lat": 41.719782, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lyndon", "lng": -89.92116, "zip_code": "61261"}
+{"locality": "Lyndon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lyndon"], "postal_code": "61261", "lat": 41.719782, "lng": -89.92116, "type": "STANDARD", "counties": [{"fips": "195", "name": "Whiteside"}, {"fips": "161", "name": "Rock Island"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.629413, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Tiverton", "lng": -71.18724, "zip_code": "02878"});
+zipapicallback({"locality": "Tiverton", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Tiverton"], "postal_code": "02878", "lat": 41.629413, "lng": -71.18724, "type": "STANDARD", "counties": [{"fips": "005", "name": "Newport"}]});

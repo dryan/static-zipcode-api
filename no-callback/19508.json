@@ -1,1 +1,1 @@
-{"lat": 40.267165, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Birdsboro", "lng": -75.8254, "zip_code": "19508"}
+{"locality": "Birdsboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Birdsboro"], "postal_code": "19508", "lat": 40.267165, "lng": -75.8254, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}]}

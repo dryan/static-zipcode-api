@@ -1,1 +1,1 @@
-{"lat": 29.143045, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Yancey", "lng": -99.19045, "zip_code": "78886"}
+{"locality": "Yancey", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Yancey"], "postal_code": "78886", "lat": 29.143045, "lng": -99.19045, "type": "STANDARD", "counties": [{"fips": "325", "name": "Medina"}]}

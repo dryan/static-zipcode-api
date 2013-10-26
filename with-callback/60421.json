@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.429681, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elwood", "lng": -88.10284, "zip_code": "60421"});
+zipapicallback({"locality": "Elwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elwood"], "postal_code": "60421", "lat": 41.429681, "lng": -88.10284, "type": "STANDARD", "counties": [{"fips": "197", "name": "Will"}]});

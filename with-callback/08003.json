@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.879713, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cherry Hill", "lng": -74.9719, "zip_code": "08003"});
+zipapicallback({"locality": "Cherry Hill", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cherry Hill"], "postal_code": "08003", "lat": 39.879713, "lng": -74.9719, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}, {"fips": "009", "name": "Cape May"}, {"fips": "001", "name": "Atlantic"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.946404, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Chalmette", "lng": -89.96118, "zip_code": "70043"});
+zipapicallback({"locality": "Chalmette", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Chalmette"], "postal_code": "70043", "lat": 29.946404, "lng": -89.96118, "type": "STANDARD", "counties": [{"fips": "087", "name": "St. Bernard"}]});

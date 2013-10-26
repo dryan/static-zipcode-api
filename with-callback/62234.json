@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.679282, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Collinsville", "lng": -89.99407, "zip_code": "62234"});
+zipapicallback({"locality": "Collinsville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Collinsville"], "postal_code": "62234", "lat": 38.679282, "lng": -89.99407, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}, {"fips": "163", "name": "St Clair"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.81488, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hubbardsville", "lng": -75.43424, "zip_code": "13355"});
+zipapicallback({"locality": "Hubbardsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hubbardsville"], "postal_code": "13355", "lat": 42.81488, "lng": -75.43424, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]});

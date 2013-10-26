@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.160126, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Jasonville", "lng": -87.19961, "zip_code": "47438"});
+zipapicallback({"locality": "Jasonville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Jasonville"], "postal_code": "47438", "lat": 39.160126, "lng": -87.19961, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}, {"fips": "021", "name": "Clay"}, {"fips": "153", "name": "Sullivan"}]});

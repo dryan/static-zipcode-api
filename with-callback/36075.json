@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.399994, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Shorter", "lng": -85.9237, "zip_code": "36075"});
+zipapicallback({"locality": "Shorter", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Shorter"], "postal_code": "36075", "lat": 32.399994, "lng": -85.9237, "type": "STANDARD", "counties": [{"fips": "087", "name": "MacOn"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.310781, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Weiser", "lng": -116.93326, "zip_code": "83672"}
+{"locality": "Weiser", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Weiser"], "postal_code": "83672", "lat": 44.310781, "lng": -116.93326, "type": "STANDARD", "counties": [{"fips": "087", "name": "Washington"}]}

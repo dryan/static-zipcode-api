@@ -1,1 +1,1 @@
-{"lat": 37.605626, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Uniontown", "lng": -89.6774, "zip_code": "63783"}
+{"locality": "Uniontown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Uniontown"], "postal_code": "63783", "lat": 37.605626, "lng": -89.6774, "type": "STANDARD", "counties": [{"fips": "157", "name": "Perry"}]}

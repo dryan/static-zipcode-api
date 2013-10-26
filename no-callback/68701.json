@@ -1,1 +1,1 @@
-{"lat": 42.026209, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Norfolk", "lng": -97.41741, "zip_code": "68701"}
+{"locality": "Norfolk", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hadar", "Norfolk"], "postal_code": "68701", "lat": 42.026209, "lng": -97.41741, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}, {"fips": "167", "name": "Stanton"}, {"fips": "169", "name": "Thayer"}, {"fips": "139", "name": "Pierce"}]}

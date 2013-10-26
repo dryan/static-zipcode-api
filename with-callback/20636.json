@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.349517, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Hollywood", "lng": -76.54839, "zip_code": "20636"});
+zipapicallback({"locality": "Hollywood", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hollywood"], "postal_code": "20636", "lat": 38.349517, "lng": -76.54839, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

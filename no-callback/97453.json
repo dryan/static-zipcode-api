@@ -1,1 +1,1 @@
-{"lat": 44.018992, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Mapleton", "lng": -123.87221, "zip_code": "97453"}
+{"locality": "Mapleton", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Mapleton"], "postal_code": "97453", "lat": 44.018992, "lng": -123.87221, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

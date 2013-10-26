@@ -1,1 +1,1 @@
-{"lat": 41.613743, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mashpee", "lng": -70.48754, "zip_code": "02649"}
+{"locality": "Mashpee", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Mashpee"], "postal_code": "02649", "lat": 41.613743, "lng": -70.48754, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

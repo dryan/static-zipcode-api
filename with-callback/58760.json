@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.686244, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Maxbass", "lng": -101.15787, "zip_code": "58760"});
+zipapicallback({"locality": "Maxbass", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Maxbass"], "postal_code": "58760", "lat": 48.686244, "lng": -101.15787, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bottineau"}]});

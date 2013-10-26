@@ -1,1 +1,1 @@
-{"lat": 42.671214, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Geneva", "lng": -93.13215, "zip_code": "50633"}
+{"locality": "Geneva", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Geneva"], "postal_code": "50633", "lat": 42.671214, "lng": -93.13215, "type": "STANDARD", "counties": [{"fips": "069", "name": "Franklin"}]}

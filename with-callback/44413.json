@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.838456, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "East Palestine", "lng": -80.54601, "zip_code": "44413"});
+zipapicallback({"locality": "East Palestine", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["E Palestine", "East Palestine"], "postal_code": "44413", "lat": 40.838456, "lng": -80.54601, "type": "STANDARD", "counties": [{"fips": "029", "name": "Columbiana"}]});

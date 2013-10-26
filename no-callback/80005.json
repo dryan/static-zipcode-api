@@ -1,1 +1,1 @@
-{"lat": 39.843304, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Arvada", "lng": -105.11896, "zip_code": "80005"}
+{"locality": "Arvada", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Arvada", "Westminster"], "postal_code": "80005", "lat": 39.843304, "lng": -105.11896, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}]}

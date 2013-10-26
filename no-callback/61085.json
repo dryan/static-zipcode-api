@@ -1,1 +1,1 @@
-{"lat": 42.350108, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Stockton", "lng": -90.02362, "zip_code": "61085"}
+{"locality": "Stockton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Stockton"], "postal_code": "61085", "lat": 42.350108, "lng": -90.02362, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jo Daviess"}]}

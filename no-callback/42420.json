@@ -1,1 +1,1 @@
-{"lat": 37.825094, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Henderson", "lng": -87.56055, "zip_code": "42420"}
+{"locality": "Henderson", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Henderson"], "postal_code": "42420", "lat": 37.825094, "lng": -87.56055, "type": "STANDARD", "counties": [{"fips": "101", "name": "Henderson"}]}

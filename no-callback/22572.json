@@ -1,1 +1,1 @@
-{"lat": 37.957869, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Nomini Grove", "lng": -76.75725, "zip_code": "22572"}
+{"locality": "Warsaw", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Foneswood", "Warsaw"], "postal_code": "22572", "lat": 37.957869, "lng": -76.75725, "type": "STANDARD", "counties": [{"fips": "159", "name": "Richmond"}]}

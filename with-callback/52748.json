@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.659064, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Eldridge", "lng": -90.56866, "zip_code": "52748"});
+zipapicallback({"locality": "Eldridge", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Eldridge"], "postal_code": "52748", "lat": 41.659064, "lng": -90.56866, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]});

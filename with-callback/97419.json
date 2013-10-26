@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.181193, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Cheshire", "lng": -123.38603, "zip_code": "97419"});
+zipapicallback({"locality": "Cheshire", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Cheshire"], "postal_code": "97419", "lat": 44.181193, "lng": -123.38603, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

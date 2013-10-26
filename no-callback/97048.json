@@ -1,1 +1,1 @@
-{"lat": 46.054948, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Rainier", "lng": -122.95714, "zip_code": "97048"}
+{"locality": "Rainier", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Prescott", "Rainier"], "postal_code": "97048", "lat": 46.054948, "lng": -122.95714, "type": "STANDARD", "counties": [{"fips": "009", "name": "Columbia"}]}

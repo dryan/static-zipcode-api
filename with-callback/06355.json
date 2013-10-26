@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.360798, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Mystic", "lng": -71.97281, "zip_code": "06355"});
+zipapicallback({"locality": "Mystic", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Mystic"], "postal_code": "06355", "lat": 41.360798, "lng": -71.97281, "type": "STANDARD", "counties": [{"fips": "011", "name": "New London"}]});

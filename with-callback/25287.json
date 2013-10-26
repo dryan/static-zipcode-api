@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.950609, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "West Columbia", "lng": -82.0603, "zip_code": "25287"});
+zipapicallback({"locality": "West Columbia", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lakin", "West Columbia"], "postal_code": "25287", "lat": 38.950609, "lng": -82.0603, "type": "STANDARD", "counties": [{"fips": "053", "name": "Mason"}]});

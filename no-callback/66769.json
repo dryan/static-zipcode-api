@@ -1,1 +1,1 @@
-{"lat": 37.840828, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Redfield", "lng": -94.89202, "zip_code": "66769"}
+{"locality": "Redfield", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Redfield"], "postal_code": "66769", "lat": 37.840828, "lng": -94.89202, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bourbon"}]}

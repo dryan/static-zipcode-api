@@ -1,1 +1,1 @@
-{"lat": 36.949144, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Manchester", "lng": -98.04938, "zip_code": "73758"}
+{"locality": "Manchester", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Manchester"], "postal_code": "73758", "lat": 36.949144, "lng": -98.04938, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}, {"fips": "003", "name": "Alfalfa"}]}

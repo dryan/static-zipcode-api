@@ -1,1 +1,1 @@
-{"lat": 43.303613, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Weston", "lng": -72.79134, "zip_code": "05161"}
+{"locality": "Weston", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Weston"], "postal_code": "05161", "lat": 43.303613, "lng": -72.79134, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]}

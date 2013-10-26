@@ -1,1 +1,1 @@
-{"lat": 38.442906, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Columbia", "lng": -90.20775, "zip_code": "62236"}
+{"locality": "Columbia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Columbia"], "postal_code": "62236", "lat": 38.442906, "lng": -90.20775, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monroe"}, {"fips": "163", "name": "St Clair"}]}

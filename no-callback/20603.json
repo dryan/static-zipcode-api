@@ -1,1 +1,1 @@
-{"lat": 38.631542, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Saint Charles", "lng": -76.95723, "zip_code": "20603"}
+{"locality": "Waldorf", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Saint Charles", "Waldorf"], "postal_code": "20603", "lat": 38.631542, "lng": -76.95723, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

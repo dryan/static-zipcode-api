@@ -1,1 +1,1 @@
-{"lat": 39.119161, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Newtown", "lng": -84.33389, "zip_code": "45244"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Anderson", "Cincinnati", "Newtown"], "postal_code": "45244", "lat": 39.119161, "lng": -84.33389, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

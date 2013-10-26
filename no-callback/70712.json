@@ -1,1 +1,1 @@
-{"lat": 30.949066, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Angola", "lng": -91.59294, "zip_code": "70712"}
+{"locality": "Angola", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Angola"], "postal_code": "70712", "lat": 30.949066, "lng": -91.59294, "type": "POBOX", "counties": [{"fips": "125", "name": "West Feliciana"}]}

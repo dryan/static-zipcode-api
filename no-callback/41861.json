@@ -1,1 +1,1 @@
-{"lat": 37.386051, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Raven", "lng": -82.83138, "zip_code": "41861"}
+{"locality": "Raven", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Raven"], "postal_code": "41861", "lat": 37.386051, "lng": -82.83138, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]}

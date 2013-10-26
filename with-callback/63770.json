@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.593256, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Old Appleton", "lng": -89.70949, "zip_code": "63770"});
+zipapicallback({"locality": "Old Appleton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Old Appleton"], "postal_code": "63770", "lat": 37.593256, "lng": -89.70949, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cape Girardeau"}]});

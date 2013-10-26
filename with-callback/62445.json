@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.183055, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Montrose", "lng": -88.3404, "zip_code": "62445"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Montrose"], "postal_code": "62445", "lat": 39.183055, "lng": -88.3404, "type": "STANDARD", "counties": [{"fips": "049", "name": "Effingham"}, {"fips": "035", "name": "Cumberland"}, {"fips": "079", "name": "Jasper"}]});

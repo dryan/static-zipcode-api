@@ -1,1 +1,1 @@
-{"lat": 39.9451, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Atglen", "lng": -75.97024, "zip_code": "19310"}
+{"locality": "Atglen", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Atglen", "Steelville"], "postal_code": "19310", "lat": 39.9451, "lng": -75.97024, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "071", "name": "Lancaster"}]}

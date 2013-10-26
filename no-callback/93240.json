@@ -1,1 +1,1 @@
-{"lat": 35.617148, "region": {"abbr": "CA", "name": "California"}, "locality": "Mountain Mesa", "lng": -118.45299, "zip_code": "93240"}
+{"locality": "Lake Isabella", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lake Isabella", "Mountain Mesa"], "postal_code": "93240", "lat": 35.617148, "lng": -118.45299, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

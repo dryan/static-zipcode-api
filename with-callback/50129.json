@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.017677, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Jefferson", "lng": -94.37939, "zip_code": "50129"});
+zipapicallback({"locality": "Jefferson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Jefferson"], "postal_code": "50129", "lat": 42.017677, "lng": -94.37939, "type": "STANDARD", "counties": [{"fips": "073", "name": "Greene"}]});

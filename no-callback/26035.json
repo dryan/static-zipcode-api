@@ -1,1 +1,1 @@
-{"lat": 40.352943, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Colliers", "lng": -80.55585, "zip_code": "26035"}
+{"locality": "Colliers", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Colliers"], "postal_code": "26035", "lat": 40.352943, "lng": -80.55585, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brooke"}]}

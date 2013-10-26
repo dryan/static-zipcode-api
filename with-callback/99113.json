@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.577614, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Colton", "lng": -117.16133, "zip_code": "99113"});
+zipapicallback({"locality": "Colton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Colton"], "postal_code": "99113", "lat": 46.577614, "lng": -117.16133, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

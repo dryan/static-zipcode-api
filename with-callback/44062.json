@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.462346, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Middlefield", "lng": -81.03666, "zip_code": "44062"});
+zipapicallback({"locality": "Middlefield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Middlefield"], "postal_code": "44062", "lat": 41.462346, "lng": -81.03666, "type": "STANDARD", "counties": [{"fips": "055", "name": "Geauga"}, {"fips": "155", "name": "Trumbull"}, {"fips": "007", "name": "Ashtabula"}]});

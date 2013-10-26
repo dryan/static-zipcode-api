@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.160758, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Girard", "lng": -80.693, "zip_code": "44420"});
+zipapicallback({"locality": "Girard", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Girard"], "postal_code": "44420", "lat": 41.160758, "lng": -80.693, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}]});

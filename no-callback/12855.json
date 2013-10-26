@@ -1,1 +1,1 @@
-{"lat": 43.996303, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Hudson", "lng": -73.72147, "zip_code": "12855"}
+{"locality": "North Hudson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["North Hudson"], "postal_code": "12855", "lat": 43.996303, "lng": -73.72147, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

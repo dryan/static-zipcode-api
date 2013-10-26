@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.516794, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Uniontown", "lng": -117.08202, "zip_code": "99179"});
+zipapicallback({"locality": "Uniontown", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Uniontown"], "postal_code": "99179", "lat": 46.516794, "lng": -117.08202, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

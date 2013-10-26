@@ -1,1 +1,1 @@
-{"lat": 44.632199, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Shell", "lng": -107.67034, "zip_code": "82441"}
+{"locality": "Shell", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Shell"], "postal_code": "82441", "lat": 44.632199, "lng": -107.67034, "type": "STANDARD", "counties": [{"fips": "003", "name": "Big Horn"}]}

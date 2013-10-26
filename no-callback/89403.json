@@ -1,1 +1,1 @@
-{"lat": 39.25468, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Dayton", "lng": -119.51494, "zip_code": "89403"}
+{"locality": "Dayton", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Dayton"], "postal_code": "89403", "lat": 39.25468, "lng": -119.51494, "type": "STANDARD", "counties": [{"fips": "019", "name": "Lyon"}, {"fips": "029", "name": "Storey"}]}

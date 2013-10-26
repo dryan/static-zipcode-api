@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.202178, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Andrews", "lng": -83.81695, "zip_code": "28901"});
+zipapicallback({"locality": "Andrews", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Andrews"], "postal_code": "28901", "lat": 35.202178, "lng": -83.81695, "type": "STANDARD", "counties": [{"fips": "039", "name": "Cherokee"}]});

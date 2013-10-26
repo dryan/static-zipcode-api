@@ -1,1 +1,1 @@
-{"lat": 44.248179, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Waumandee", "lng": -91.83124, "zip_code": "54622"}
+{"locality": "Cochrane", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Buffalo City", "Cochrane", "Waumandee"], "postal_code": "54622", "lat": 44.248179, "lng": -91.83124, "type": "STANDARD", "counties": [{"fips": "011", "name": "Buffalo"}]}

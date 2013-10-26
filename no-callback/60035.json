@@ -1,1 +1,1 @@
-{"lat": 42.181875, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Highland Park", "lng": -87.80956, "zip_code": "60035"}
+{"locality": "Highland Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Highland Park"], "postal_code": "60035", "lat": 42.181875, "lng": -87.80956, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

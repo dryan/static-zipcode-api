@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.67845, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Reedsville", "lng": -77.60264, "zip_code": "17084"});
+zipapicallback({"locality": "Reedsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reedsville"], "postal_code": "17084", "lat": 40.67845, "lng": -77.60264, "type": "STANDARD", "counties": [{"fips": "087", "name": "Mifflin"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.986173, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Camargo", "lng": -99.23866, "zip_code": "73835"}
+{"locality": "Camargo", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Camargo"], "postal_code": "73835", "lat": 35.986173, "lng": -99.23866, "type": "STANDARD", "counties": [{"fips": "043", "name": "Dewey"}]}

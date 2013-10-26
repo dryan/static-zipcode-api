@@ -1,1 +1,1 @@
-{"lat": 43.643195, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Waterboro", "lng": -70.73033, "zip_code": "04061"}
+{"locality": "North Waterboro", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["N Waterboro", "North Waterboro"], "postal_code": "04061", "lat": 43.643195, "lng": -70.73033, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

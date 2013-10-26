@@ -1,1 +1,1 @@
-{"lat": 33.815996, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bagwell", "lng": -95.14402, "zip_code": "75412"}
+{"locality": "Bagwell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bagwell"], "postal_code": "75412", "lat": 33.815996, "lng": -95.14402, "type": "STANDARD", "counties": [{"fips": "387", "name": "Red River"}]}

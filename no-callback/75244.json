@@ -1,1 +1,1 @@
-{"lat": 32.922624, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Farmers Branch", "lng": -96.83616, "zip_code": "75244"}
+{"locality": "Dallas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dallas", "Farmers Branch", "Farmers Brnch", "North Branch"], "postal_code": "75244", "lat": 32.922624, "lng": -96.83616, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

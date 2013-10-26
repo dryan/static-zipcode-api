@@ -1,1 +1,1 @@
-{"lat": 38.024849, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Valles Mines", "lng": -90.44667, "zip_code": "63087"}
+{"locality": "Valles Mines", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Valles Mines"], "postal_code": "63087", "lat": 38.024849, "lng": -90.44667, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]}

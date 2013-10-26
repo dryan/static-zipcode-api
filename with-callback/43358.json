@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.413252, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "West Mansfield", "lng": -83.53853, "zip_code": "43358"});
+zipapicallback({"locality": "West Mansfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["W Mansfield", "West Mansfield"], "postal_code": "43358", "lat": 40.413252, "lng": -83.53853, "type": "STANDARD", "counties": [{"fips": "091", "name": "Logan"}, {"fips": "159", "name": "Union"}]});

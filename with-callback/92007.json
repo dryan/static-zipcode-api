@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.026742, "region": {"abbr": "CA", "name": "California"}, "locality": "Cardiff By The S", "lng": -117.27816, "zip_code": "92007"});
+zipapicallback({"locality": "Cardiff By The Sea", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cardiff", "Cardiff By The Sea"], "postal_code": "92007", "lat": 33.026742, "lng": -117.27816, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

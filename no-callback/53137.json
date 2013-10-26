@@ -1,1 +1,1 @@
-{"lat": 43.000999, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Helenville", "lng": -88.66382, "zip_code": "53137"}
+{"locality": "Helenville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Helenville"], "postal_code": "53137", "lat": 43.000999, "lng": -88.66382, "type": "STANDARD", "counties": [{"fips": "055", "name": "Jefferson"}]}

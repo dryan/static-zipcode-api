@@ -1,1 +1,1 @@
-{"lat": 41.564177, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Morris", "lng": -77.31191, "zip_code": "16938"}
+{"locality": "Morris", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morris"], "postal_code": "16938", "lat": 41.564177, "lng": -77.31191, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "081", "name": "Lycoming"}]}

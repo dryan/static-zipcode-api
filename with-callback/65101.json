@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.535897, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jefferson City", "lng": -92.13905, "zip_code": "65101"});
+zipapicallback({"locality": "Jefferson City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cedar City", "Jefferson City", "Jefferson Cty"], "postal_code": "65101", "lat": 38.535897, "lng": -92.13905, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}, {"fips": "151", "name": "Osage"}]});

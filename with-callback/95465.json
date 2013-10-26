@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.409993, "region": {"abbr": "CA", "name": "California"}, "locality": "Occidental", "lng": -122.98347, "zip_code": "95465"});
+zipapicallback({"locality": "Occidental", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Occidental"], "postal_code": "95465", "lat": 38.409993, "lng": -122.98347, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]});

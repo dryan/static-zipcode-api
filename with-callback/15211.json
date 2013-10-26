@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.428369, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Washington", "lng": -80.01269, "zip_code": "15211"});
+zipapicallback({"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Washington", "Mt Washington", "Pittsburgh"], "postal_code": "15211", "lat": 40.428369, "lng": -80.01269, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

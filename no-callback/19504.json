@@ -1,1 +1,1 @@
-{"lat": 40.404892, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Barto", "lng": -75.58992, "zip_code": "19504"}
+{"locality": "Barto", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Barto"], "postal_code": "19504", "lat": 40.404892, "lng": -75.58992, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}, {"fips": "091", "name": "Montgomery"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.723788, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Cottonwood", "lng": -112.01002, "zip_code": "86326"});
+zipapicallback({"locality": "Cottonwood", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Cottonwood"], "postal_code": "86326", "lat": 34.723788, "lng": -112.01002, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

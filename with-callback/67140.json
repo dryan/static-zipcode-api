@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.065497, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "South Haven", "lng": -97.36562, "zip_code": "67140"});
+zipapicallback({"locality": "South Haven", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hunnewell", "South Haven"], "postal_code": "67140", "lat": 37.065497, "lng": -97.36562, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}]});

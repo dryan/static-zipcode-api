@@ -1,1 +1,1 @@
-{"lat": 43.858226, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ticonderoga", "lng": -73.45414, "zip_code": "12883"}
+{"locality": "Ticonderoga", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ticonderoga"], "postal_code": "12883", "lat": 43.858226, "lng": -73.45414, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}, {"fips": "115", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.289893, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Conroe", "lng": -95.32698, "zip_code": "77306"});
+zipapicallback({"locality": "Conroe", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Conroe", "Cut And Shoot"], "postal_code": "77306", "lat": 30.289893, "lng": -95.32698, "type": "STANDARD", "counties": []});

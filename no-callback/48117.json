@@ -1,1 +1,1 @@
-{"lat": 42.05589, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Carleton", "lng": -83.40605, "zip_code": "48117"}
+{"locality": "Carleton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Carleton"], "postal_code": "48117", "lat": 42.05589, "lng": -83.40605, "type": "STANDARD", "counties": [{"fips": "115", "name": "Monroe"}]}

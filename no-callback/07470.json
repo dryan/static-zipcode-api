@@ -1,1 +1,1 @@
-{"lat": 40.943608, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wayne", "lng": -74.25004, "zip_code": "07470"}
+{"locality": "Wayne", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wayne"], "postal_code": "07470", "lat": 40.943608, "lng": -74.25004, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}, {"fips": "003", "name": "Bergen"}]}

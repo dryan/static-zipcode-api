@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+# you'll need to download http://zips.dryan.io/zip-county.txt into the datasets directory to run this
+
 import os, json, sys
 from titlecase import titlecase
 

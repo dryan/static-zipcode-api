@@ -1,1 +1,1 @@
-{"lat": 36.166515, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Banner Elk", "lng": -81.84672, "zip_code": "28604"}
+{"locality": "Banner Elk", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Banner Elk", "Beech Mnt", "Beech Mountain", "Seven Devils", "Sugar Mountain", "Sugar Mtn"], "postal_code": "28604", "lat": 36.166515, "lng": -81.84672, "type": "STANDARD", "counties": [{"fips": "011", "name": "Avery"}, {"fips": "189", "name": "Watauga"}]}

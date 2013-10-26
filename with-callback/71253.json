@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.995821, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Kilbourne", "lng": -91.31686, "zip_code": "71253"});
+zipapicallback({"locality": "Kilbourne", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Kilbourne"], "postal_code": "71253", "lat": 32.995821, "lng": -91.31686, "type": "POBOX", "counties": [{"fips": "123", "name": "West Carroll"}]});

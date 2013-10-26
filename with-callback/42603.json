@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.7703, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Alpha", "lng": -85.01043, "zip_code": "42603"});
+zipapicallback({"locality": "Alpha", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Alpha"], "postal_code": "42603", "lat": 36.7703, "lng": -85.01043, "type": "STANDARD", "counties": [{"fips": "231", "name": "Wayne"}, {"fips": "053", "name": "Clinton"}]});

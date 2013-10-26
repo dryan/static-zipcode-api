@@ -1,1 +1,1 @@
-{"lat": 37.942532, "region": {"abbr": "CA", "name": "California"}, "locality": "Copperopolis", "lng": -120.65786, "zip_code": "95228"}
+{"locality": "Copperopolis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Copperopolis"], "postal_code": "95228", "lat": 37.942532, "lng": -120.65786, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]}

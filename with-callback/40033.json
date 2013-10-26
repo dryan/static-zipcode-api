@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.565894, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lebanon", "lng": -85.25148, "zip_code": "40033"});
+zipapicallback({"locality": "Lebanon", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Calvary", "Lebanon"], "postal_code": "40033", "lat": 37.565894, "lng": -85.25148, "type": "STANDARD", "counties": [{"fips": "155", "name": "Marion"}, {"fips": "229", "name": "Washington"}]});

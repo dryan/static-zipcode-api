@@ -1,1 +1,1 @@
-{"lat": 45.513242, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Portland", "lng": -122.49985, "zip_code": "97233"}
+{"locality": "Portland", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Portland"], "postal_code": "97233", "lat": 45.513242, "lng": -122.49985, "type": "STANDARD", "counties": [{"fips": "051", "name": "Multnomah"}]}

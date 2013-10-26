@@ -1,1 +1,1 @@
-{"lat": 38.791938, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Plainville", "lng": -87.13975, "zip_code": "47568"}
+{"locality": "Plainville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Plainville"], "postal_code": "47568", "lat": 38.791938, "lng": -87.13975, "type": "STANDARD", "counties": [{"fips": "027", "name": "Daviess"}]}

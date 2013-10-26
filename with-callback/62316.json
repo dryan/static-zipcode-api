@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.232385, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bowen", "lng": -91.05746, "zip_code": "62316"});
+zipapicallback({"locality": "Bowen", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bowen"], "postal_code": "62316", "lat": 40.232385, "lng": -91.05746, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}, {"fips": "001", "name": "Adams"}]});

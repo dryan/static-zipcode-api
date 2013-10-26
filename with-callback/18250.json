@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.826908, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Summit Hill", "lng": -75.8674, "zip_code": "18250"});
+zipapicallback({"locality": "Summit Hill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Summit Hill"], "postal_code": "18250", "lat": 40.826908, "lng": -75.8674, "type": "STANDARD", "counties": [{"fips": "025", "name": "Carbon"}]});

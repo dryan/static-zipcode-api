@@ -1,1 +1,1 @@
-{"lat": 38.55044, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Millville", "lng": -75.09928, "zip_code": "19970"}
+{"locality": "Ocean View", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Clarksville", "Millville", "Ocean View"], "postal_code": "19970", "lat": 38.55044, "lng": -75.09928, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

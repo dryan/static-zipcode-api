@@ -1,1 +1,1 @@
-{"lat": 39.005918, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hartford", "lng": -81.99083, "zip_code": "25247"}
+{"locality": "Hartford", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hartford", "Hartford City"], "postal_code": "25247", "lat": 39.005918, "lng": -81.99083, "type": "POBOX", "counties": [{"fips": "053", "name": "Mason"}]}

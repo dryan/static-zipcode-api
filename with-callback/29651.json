@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.937356, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Greer", "lng": -82.22117, "zip_code": "29651"});
+zipapicallback({"locality": "Greer", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Greer"], "postal_code": "29651", "lat": 34.937356, "lng": -82.22117, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}, {"fips": "083", "name": "Spartanburg"}]});

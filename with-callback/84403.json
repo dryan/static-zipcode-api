@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.188093, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Ogden", "lng": -111.94608, "zip_code": "84403"});
+zipapicallback({"locality": "Ogden", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Ogden", "South Ogden", "South Weber", "Uintah"], "postal_code": "84403", "lat": 41.188093, "lng": -111.94608, "type": "STANDARD", "counties": [{"fips": "057", "name": "Weber"}]});

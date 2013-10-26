@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.180507, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hermitage", "lng": -86.60111, "zip_code": "37076"});
+zipapicallback({"locality": "Hermitage", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hermitage"], "postal_code": "37076", "lat": 36.180507, "lng": -86.60111, "type": "STANDARD", "counties": [{"fips": "037", "name": "Davidson"}, {"fips": "189", "name": "Wilson"}]});

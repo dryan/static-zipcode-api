@@ -1,1 +1,1 @@
-{"lat": 36.921199, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ava", "lng": -92.66205, "zip_code": "65608"}
+{"locality": "Ava", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ava"], "postal_code": "65608", "lat": 36.921199, "lng": -92.66205, "type": "STANDARD", "counties": [{"fips": "067", "name": "Douglas"}, {"fips": "213", "name": "Taney"}, {"fips": "153", "name": "Ozark"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.924427, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Junedale", "lng": -75.94189, "zip_code": "18230"}
+{"locality": "Junedale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Junedale"], "postal_code": "18230", "lat": 40.924427, "lng": -75.94189, "type": "POBOX", "counties": [{"fips": "025", "name": "Carbon"}]}

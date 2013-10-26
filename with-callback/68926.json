@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.106595, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Beaver City", "lng": -99.8225, "zip_code": "68926"});
+zipapicallback({"locality": "Beaver City", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Beaver City"], "postal_code": "68926", "lat": 40.106595, "lng": -99.8225, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.052712, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Brashear", "lng": -95.72124, "zip_code": "75420"});
+zipapicallback({"locality": "Brashear", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brashear"], "postal_code": "75420", "lat": 33.052712, "lng": -95.72124, "type": "STANDARD", "counties": [{"fips": "223", "name": "Hopkins"}]});

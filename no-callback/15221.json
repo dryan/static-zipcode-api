@@ -1,1 +1,1 @@
-{"lat": 40.438035, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wilkinsburg", "lng": -79.87191, "zip_code": "15221"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh", "Wilkinsburg"], "postal_code": "15221", "lat": 40.438035, "lng": -79.87191, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

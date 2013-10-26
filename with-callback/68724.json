@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.62177, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Center", "lng": -97.87578, "zip_code": "68724"});
+zipapicallback({"locality": "Center", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Center"], "postal_code": "68724", "lat": 42.62177, "lng": -97.87578, "type": "STANDARD", "counties": [{"fips": "107", "name": "Knox"}]});

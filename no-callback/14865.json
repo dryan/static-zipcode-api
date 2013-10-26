@@ -1,1 +1,1 @@
-{"lat": 42.352725, "region": {"abbr": "NY", "name": "New York"}, "locality": "Montour Falls", "lng": -76.84258, "zip_code": "14865"}
+{"locality": "Montour Falls", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Montour Falls"], "postal_code": "14865", "lat": 42.352725, "lng": -76.84258, "type": "STANDARD", "counties": [{"fips": "097", "name": "Schuyler"}]}

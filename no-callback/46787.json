@@ -1,1 +1,1 @@
-{"lat": 41.080236, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "South Whitley", "lng": -85.62796, "zip_code": "46787"}
+{"locality": "South Whitley", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["South Whitley"], "postal_code": "46787", "lat": 41.080236, "lng": -85.62796, "type": "STANDARD", "counties": [{"fips": "183", "name": "Whitley"}, {"fips": "169", "name": "Wabash"}, {"fips": "069", "name": "Huntington"}, {"fips": "085", "name": "Kosciusko"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.41483, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Moffett", "lng": -94.45263, "zip_code": "74946"});
+zipapicallback({"locality": "Moffett", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Moffett"], "postal_code": "74946", "lat": 35.41483, "lng": -94.45263, "type": "POBOX", "counties": [{"fips": "135", "name": "Sequoyah"}]});

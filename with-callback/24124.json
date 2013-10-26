@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.331818, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Narrows", "lng": -80.80847, "zip_code": "24124"});
+zipapicallback({"locality": "Narrows", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Narrows"], "postal_code": "24124", "lat": 37.331818, "lng": -80.80847, "type": "STANDARD", "counties": [{"fips": "071", "name": "Giles"}, {"fips": "021", "name": "Bland"}]});

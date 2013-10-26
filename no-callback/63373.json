@@ -1,1 +1,1 @@
-{"lat": 38.935496, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Portage Des Siou", "lng": -90.3683, "zip_code": "63373"}
+{"locality": "Portage Des Sioux", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Portage Des Sioux", "Prtg De Sioux", "Prtg De Souix"], "postal_code": "63373", "lat": 38.935496, "lng": -90.3683, "type": "STANDARD", "counties": [{"fips": "183", "name": "St Charles"}]}

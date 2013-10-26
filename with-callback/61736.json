@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.395487, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Holder", "lng": -88.8498, "zip_code": "61736"});
+zipapicallback({"locality": "Downs", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Downs", "Holder"], "postal_code": "61736", "lat": 40.395487, "lng": -88.8498, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]});

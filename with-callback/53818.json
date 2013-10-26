@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.743948, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Platteville", "lng": -90.48625, "zip_code": "53818"});
+zipapicallback({"locality": "Platteville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Platteville"], "postal_code": "53818", "lat": 42.743948, "lng": -90.48625, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "049", "name": "Iowa"}, {"fips": "065", "name": "Lafayette"}]});

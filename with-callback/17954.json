@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.690455, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Minersville", "lng": -76.26024, "zip_code": "17954"});
+zipapicallback({"locality": "Minersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Minersville"], "postal_code": "17954", "lat": 40.690455, "lng": -76.26024, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.615409, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Forest Park", "lng": -84.36704, "zip_code": "30297"});
+zipapicallback({"locality": "Forest Park", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Forest Park", "Fort Gillem"], "postal_code": "30297", "lat": 33.615409, "lng": -84.36704, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 34.7964, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lonoke", "lng": -91.90949, "zip_code": "72086"}
+{"locality": "Lonoke", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Lonoke"], "postal_code": "72086", "lat": 34.7964, "lng": -91.90949, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lonoke"}]}

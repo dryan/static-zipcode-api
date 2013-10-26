@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.016612, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lake Tapawingo", "lng": -94.2987, "zip_code": "64015"});
+zipapicallback({"locality": "Blue Springs", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blue Springs", "Lake Tapawingo", "Lake Tapwingo"], "postal_code": "64015", "lat": 39.016612, "lng": -94.2987, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]});

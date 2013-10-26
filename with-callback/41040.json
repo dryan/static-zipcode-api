@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.656527, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Falmouth", "lng": -84.32811, "zip_code": "41040"});
+zipapicallback({"locality": "Falmouth", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Falmouth", "Pendletn Cnty", "Pendleton County"], "postal_code": "41040", "lat": 38.656527, "lng": -84.32811, "type": "STANDARD", "counties": [{"fips": "191", "name": "Pendleton"}]});

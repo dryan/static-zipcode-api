@@ -1,1 +1,1 @@
-{"lat": 44.023714, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Leroy", "lng": -85.44877, "zip_code": "49655"}
+{"locality": "Leroy", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Leroy"], "postal_code": "49655", "lat": 44.023714, "lng": -85.44877, "type": "STANDARD", "counties": [{"fips": "133", "name": "Osceola"}, {"fips": "085", "name": "Lake"}]}

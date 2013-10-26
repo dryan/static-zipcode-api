@@ -1,1 +1,1 @@
-{"lat": 41.021344, "region": {"abbr": "CA", "name": "California"}, "locality": "Madeline", "lng": -120.52472, "zip_code": "96119"}
+{"locality": "Madeline", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Madeline"], "postal_code": "96119", "lat": 41.021344, "lng": -120.52472, "type": "POBOX", "counties": [{"fips": "035", "name": "Lassen"}]}

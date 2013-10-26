@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.502238, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Viola", "lng": -90.65131, "zip_code": "54664"});
+zipapicallback({"locality": "Viola", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Viola"], "postal_code": "54664", "lat": 43.502238, "lng": -90.65131, "type": "STANDARD", "counties": [{"fips": "103", "name": "Richland"}, {"fips": "123", "name": "Vernon"}]});

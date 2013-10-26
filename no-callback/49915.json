@@ -1,1 +1,1 @@
-{"lat": 46.063428, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Caspian", "lng": -88.62738, "zip_code": "49915"}
+{"locality": "Caspian", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Caspian"], "postal_code": "49915", "lat": 46.063428, "lng": -88.62738, "type": "POBOX", "counties": [{"fips": "071", "name": "Iron"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.255694, "region": {"abbr": "NY", "name": "New York"}, "locality": "Alfred", "lng": -77.78904, "zip_code": "14802"}
+{"locality": "Alfred", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Alfred"], "postal_code": "14802", "lat": 42.255694, "lng": -77.78904, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}, {"fips": "055", "name": "Monroe"}]}

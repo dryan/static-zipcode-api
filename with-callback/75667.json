@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.981458, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Laneville", "lng": -94.85741, "zip_code": "75667"});
+zipapicallback({"locality": "Laneville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Laneville"], "postal_code": "75667", "lat": 31.981458, "lng": -94.85741, "type": "STANDARD", "counties": [{"fips": "401", "name": "Rusk"}]});

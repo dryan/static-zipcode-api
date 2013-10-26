@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.728901, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Maplewood", "lng": -74.26821, "zip_code": "07040"});
+zipapicallback({"locality": "Maplewood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Maplewood"], "postal_code": "07040", "lat": 40.728901, "lng": -74.26821, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]});

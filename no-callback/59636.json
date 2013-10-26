@@ -1,1 +1,1 @@
-{"lat": 46.620549, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fort Harrison", "lng": -112.10446, "zip_code": "59636"}
+{"locality": "Fort Harrison", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fort Harrison"], "postal_code": "59636", "lat": 46.620549, "lng": -112.10446, "type": "POBOX", "counties": [{"fips": "049", "name": "Lewis and Clark"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.533237, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Dewey", "lng": -112.20644, "zip_code": "86327"});
+zipapicallback({"locality": "Dewey", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Dewey"], "postal_code": "86327", "lat": 34.533237, "lng": -112.20644, "type": "STANDARD", "counties": [{"fips": "025", "name": "Yavapai"}]});

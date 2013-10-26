@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.115501, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Firestone", "lng": -104.93637, "zip_code": "80520"});
+zipapicallback({"locality": "Firestone", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Firestone"], "postal_code": "80520", "lat": 40.115501, "lng": -104.93637, "type": "POBOX", "counties": [{"fips": "123", "name": "Weld"}]});

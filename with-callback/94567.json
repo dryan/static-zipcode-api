@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.658204, "region": {"abbr": "CA", "name": "California"}, "locality": "Pope Valley", "lng": -122.40441, "zip_code": "94567"});
+zipapicallback({"locality": "Pope Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pope Valley"], "postal_code": "94567", "lat": 38.658204, "lng": -122.40441, "type": "STANDARD", "counties": [{"fips": "055", "name": "Napa"}]});

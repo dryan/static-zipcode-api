@@ -1,1 +1,1 @@
-{"lat": 38.534701, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lesage", "lng": -82.27982, "zip_code": "25537"}
+{"locality": "Lesage", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lesage"], "postal_code": "25537", "lat": 38.534701, "lng": -82.27982, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}]}

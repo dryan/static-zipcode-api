@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.773926, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mackinaw City", "lng": -84.72714, "zip_code": "49701"});
+zipapicallback({"locality": "Mackinaw City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mackinaw City"], "postal_code": "49701", "lat": 45.773926, "lng": -84.72714, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cheboygan"}]});

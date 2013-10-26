@@ -1,1 +1,1 @@
-{"lat": 35.815581, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Carney", "lng": -97.01061, "zip_code": "74832"}
+{"locality": "Carney", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Carney"], "postal_code": "74832", "lat": 35.815581, "lng": -97.01061, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}]}

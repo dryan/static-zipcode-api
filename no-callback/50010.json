@@ -1,1 +1,1 @@
-{"lat": 42.02933, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ames", "lng": -93.60966, "zip_code": "50010"}
+{"locality": "Ames", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ames"], "postal_code": "50010", "lat": 42.02933, "lng": -93.60966, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}, {"fips": "015", "name": "Boone"}]}

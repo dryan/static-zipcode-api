@@ -1,1 +1,1 @@
-{"lat": 34.631305, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Jefferson", "lng": -80.35877, "zip_code": "29718"}
+{"locality": "Jefferson", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Jefferson"], "postal_code": "29718", "lat": 34.631305, "lng": -80.35877, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chesterfield"}]}

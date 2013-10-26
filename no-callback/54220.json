@@ -1,1 +1,1 @@
-{"lat": 44.096194, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Manitowoc", "lng": -87.68919, "zip_code": "54220"}
+{"locality": "Manitowoc", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Manitowoc"], "postal_code": "54220", "lat": 44.096194, "lng": -87.68919, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}]}

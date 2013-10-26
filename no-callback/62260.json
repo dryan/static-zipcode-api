@@ -1,1 +1,1 @@
-{"lat": 38.463718, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Millstadt", "lng": -90.09831, "zip_code": "62260"}
+{"locality": "Millstadt", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Millstadt"], "postal_code": "62260", "lat": 38.463718, "lng": -90.09831, "type": "STANDARD", "counties": [{"fips": "163", "name": "St Clair"}]}

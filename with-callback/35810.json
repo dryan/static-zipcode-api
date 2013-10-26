@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.77624, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Huntsville", "lng": -86.61339, "zip_code": "35810"});
+zipapicallback({"locality": "Huntsville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Huntsville"], "postal_code": "35810", "lat": 34.77624, "lng": -86.61339, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}]});

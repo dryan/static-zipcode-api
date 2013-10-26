@@ -1,1 +1,1 @@
-{"lat": 43.609557, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Pringle", "lng": -103.59517, "zip_code": "57773"}
+{"locality": "Pringle", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Pringle"], "postal_code": "57773", "lat": 43.609557, "lng": -103.59517, "type": "POBOX", "counties": [{"fips": "033", "name": "Custer"}]}

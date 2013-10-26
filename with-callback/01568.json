@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.17382, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Upton", "lng": -71.60971, "zip_code": "01568"});
+zipapicallback({"locality": "Upton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Upton"], "postal_code": "01568", "lat": 42.17382, "lng": -71.60971, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

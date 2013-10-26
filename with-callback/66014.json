@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.226434, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Centerville", "lng": -94.98779, "zip_code": "66014"});
+zipapicallback({"locality": "Centerville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Centerville"], "postal_code": "66014", "lat": 38.226434, "lng": -94.98779, "type": "STANDARD", "counties": [{"fips": "107", "name": "Linn"}, {"fips": "003", "name": "Anderson"}]});

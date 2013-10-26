@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.966106, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Mahaska", "lng": -97.3249, "zip_code": "66955"});
+zipapicallback({"locality": "Mahaska", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Mahaska"], "postal_code": "66955", "lat": 39.966106, "lng": -97.3249, "type": "STANDARD", "counties": [{"fips": "201", "name": "Washington"}, {"fips": "157", "name": "Republic"}]});

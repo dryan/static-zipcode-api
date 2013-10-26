@@ -1,1 +1,1 @@
-{"lat": 38.438617, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "South Point", "lng": -82.55774, "zip_code": "45680"}
+{"locality": "South Point", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["South Point"], "postal_code": "45680", "lat": 38.438617, "lng": -82.55774, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lawrence"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.099547, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kirkville", "lng": -75.9619, "zip_code": "13082"});
+zipapicallback({"locality": "Kirkville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kirkville"], "postal_code": "13082", "lat": 43.099547, "lng": -75.9619, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}, {"fips": "067", "name": "Onondaga"}]});

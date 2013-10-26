@@ -1,1 +1,1 @@
-{"lat": 38.473921, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "High Ridge", "lng": -90.52696, "zip_code": "63049"}
+{"locality": "High Ridge", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Byrnes Mill", "High Ridge"], "postal_code": "63049", "lat": 38.473921, "lng": -90.52696, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-{"lat": 28.495982, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Windermere", "lng": -81.5362, "zip_code": "34786"}
+{"locality": "Windermere", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Windermere"], "postal_code": "34786", "lat": 28.495982, "lng": -81.5362, "type": "STANDARD", "counties": []}

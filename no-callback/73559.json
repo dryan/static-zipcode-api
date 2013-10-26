@@ -1,1 +1,1 @@
-{"lat": 34.696985, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mountain Park", "lng": -98.96184, "zip_code": "73559"}
+{"locality": "Mountain Park", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Mountain Park"], "postal_code": "73559", "lat": 34.696985, "lng": -98.96184, "type": "STANDARD", "counties": [{"fips": "075", "name": "Kiowa"}]}

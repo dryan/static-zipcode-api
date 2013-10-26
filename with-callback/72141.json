@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.51921, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Scotland", "lng": -92.66488, "zip_code": "72141"});
+zipapicallback({"locality": "Scotland", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Scotland"], "postal_code": "72141", "lat": 35.51921, "lng": -92.66488, "type": "STANDARD", "counties": [{"fips": "141", "name": "Van Buren"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.809766, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ore City", "lng": -94.70513, "zip_code": "75683"}
+{"locality": "Ore City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ore City"], "postal_code": "75683", "lat": 32.809766, "lng": -94.70513, "type": "STANDARD", "counties": [{"fips": "459", "name": "Upshur"}, {"fips": "315", "name": "Marion"}, {"fips": "203", "name": "Harrison"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.986699, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bowie", "lng": -76.78612, "zip_code": "20720"}
+{"locality": "Bowie", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bowie"], "postal_code": "20720", "lat": 38.986699, "lng": -76.78612, "type": "STANDARD", "counties": []}

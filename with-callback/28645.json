@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.934783, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lenoir", "lng": -81.54476, "zip_code": "28645"});
+zipapicallback({"locality": "Lenoir", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cajahs Mountain", "Cajahs Mtn", "Cedar Rock", "Lenoir"], "postal_code": "28645", "lat": 35.934783, "lng": -81.54476, "type": "STANDARD", "counties": [{"fips": "027", "name": "Caldwell"}, {"fips": "003", "name": "Alexander"}, {"fips": "023", "name": "Burke"}]});

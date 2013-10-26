@@ -1,1 +1,1 @@
-{"lat": 43.769889, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Taycheedah", "lng": -88.4281, "zip_code": "54935"}
+{"locality": "Fond Du Lac", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fond Du Lac", "N Fond Du Lac", "North Fond Du Lac", "Taycheedah"], "postal_code": "54935", "lat": 43.769889, "lng": -88.4281, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}]}

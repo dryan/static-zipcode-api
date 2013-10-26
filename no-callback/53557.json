@@ -1,1 +1,1 @@
-{"lat": 43.339823, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lowell", "lng": -88.79719, "zip_code": "53557"}
+{"locality": "Lowell", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lowell"], "postal_code": "53557", "lat": 43.339823, "lng": -88.79719, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

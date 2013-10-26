@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.031155, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Yankeetown", "lng": -82.7201, "zip_code": "34498"});
+zipapicallback({"locality": "Yankeetown", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Yankeetown"], "postal_code": "34498", "lat": 29.031155, "lng": -82.7201, "type": "STANDARD", "counties": []});

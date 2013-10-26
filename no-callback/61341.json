@@ -1,1 +1,1 @@
-{"lat": 41.336202, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Marseilles", "lng": -88.69727, "zip_code": "61341"}
+{"locality": "Marseilles", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Marseilles"], "postal_code": "61341", "lat": 41.336202, "lng": -88.69727, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}]}

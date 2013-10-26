@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.305822, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shavertown", "lng": -75.94148, "zip_code": "18708"});
+zipapicallback({"locality": "Shavertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jackson Township", "Jackson Twp", "Shavertown", "Trucksville", "Wilkes Barre"], "postal_code": "18708", "lat": 41.305822, "lng": -75.94148, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

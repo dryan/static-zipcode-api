@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.979941, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Means", "lng": -83.73183, "zip_code": "40346"});
+zipapicallback({"locality": "Means", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Means"], "postal_code": "40346", "lat": 37.979941, "lng": -83.73183, "type": "STANDARD", "counties": [{"fips": "165", "name": "Menifee"}, {"fips": "011", "name": "Bath"}, {"fips": "173", "name": "Montgomery"}]});

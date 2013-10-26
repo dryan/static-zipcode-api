@@ -1,1 +1,1 @@
-{"lat": 35.227869, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mount Vernon", "lng": -92.13033, "zip_code": "72111"}
+{"locality": "Mount Vernon", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mount Vernon"], "postal_code": "72111", "lat": 35.227869, "lng": -92.13033, "type": "STANDARD", "counties": [{"fips": "045", "name": "Faulkner"}, {"fips": "145", "name": "White"}]}

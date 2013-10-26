@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.989241, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Montfort", "lng": -90.43855, "zip_code": "53569"});
+zipapicallback({"locality": "Montfort", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Montfort"], "postal_code": "53569", "lat": 42.989241, "lng": -90.43855, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}, {"fips": "049", "name": "Iowa"}]});

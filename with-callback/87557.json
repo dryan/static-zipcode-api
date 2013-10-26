@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.377149, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Ranchos De Taos", "lng": -105.67963, "zip_code": "87557"});
+zipapicallback({"locality": "Ranchos De Taos", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Ranchos De Taos", "Rnch De Taos"], "postal_code": "87557", "lat": 36.377149, "lng": -105.67963, "type": "STANDARD", "counties": [{"fips": "055", "name": "Taos"}]});

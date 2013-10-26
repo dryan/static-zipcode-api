@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.153959, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "White Castle", "lng": -91.1593, "zip_code": "70788"});
+zipapicallback({"locality": "White Castle", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bayou Goula", "White Castle"], "postal_code": "70788", "lat": 30.153959, "lng": -91.1593, "type": "STANDARD", "counties": [{"fips": "047", "name": "Iberville"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.750164, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kenneth", "lng": -96.06591, "zip_code": "56147"});
+zipapicallback({"locality": "Kenneth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kenneth"], "postal_code": "56147", "lat": 43.750164, "lng": -96.06591, "type": "STANDARD", "counties": [{"fips": "133", "name": "Rock"}, {"fips": "105", "name": "Nobles"}]});

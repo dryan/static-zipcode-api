@@ -1,1 +1,1 @@
-{"lat": 39.842523, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Roachdale", "lng": -86.83174, "zip_code": "46172"}
+{"locality": "Roachdale", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Roachdale"], "postal_code": "46172", "lat": 39.842523, "lng": -86.83174, "type": "STANDARD", "counties": [{"fips": "133", "name": "Putnam"}, {"fips": "107", "name": "Montgomery"}]}

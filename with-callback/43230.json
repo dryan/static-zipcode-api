@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.039963, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Gahanna", "lng": -82.87855, "zip_code": "43230"});
+zipapicallback({"locality": "Columbus", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Columbus", "Gahanna"], "postal_code": "43230", "lat": 40.039963, "lng": -82.87855, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.410693, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Reno", "lng": -79.75012, "zip_code": "16343"}
+{"locality": "Reno", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Reno"], "postal_code": "16343", "lat": 41.410693, "lng": -79.75012, "type": "POBOX", "counties": [{"fips": "121", "name": "Venango"}]}

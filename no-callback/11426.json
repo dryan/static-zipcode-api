@@ -1,1 +1,1 @@
-{"lat": 40.732239, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bellerose", "lng": -73.72108, "zip_code": "11426"}
+{"locality": "Bellerose", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bellerose", "Jamaica"], "postal_code": "11426", "lat": 40.732239, "lng": -73.72108, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.869478, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bancroft", "lng": -84.0761, "zip_code": "48414"});
+zipapicallback({"locality": "Bancroft", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bancroft"], "postal_code": "48414", "lat": 42.869478, "lng": -84.0761, "type": "STANDARD", "counties": [{"fips": "155", "name": "Shiawassee"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.594103, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Las Vegas", "lng": -105.08142, "zip_code": "87701"}
+{"locality": "Las Vegas", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Las Vegas"], "postal_code": "87701", "lat": 35.594103, "lng": -105.08142, "type": "STANDARD", "counties": [{"fips": "047", "name": "San Miguel"}]}

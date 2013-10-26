@@ -1,1 +1,1 @@
-{"lat": 42.261085, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Oakley", "lng": -113.8869, "zip_code": "83346"}
+{"locality": "Oakley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Oakley"], "postal_code": "83346", "lat": 42.261085, "lng": -113.8869, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cassia"}]}

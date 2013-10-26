@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.041335, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Counce", "lng": -88.27379, "zip_code": "38326"});
+zipapicallback({"locality": "Counce", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Counce"], "postal_code": "38326", "lat": 35.041335, "lng": -88.27379, "type": "STANDARD", "counties": [{"fips": "071", "name": "Hardin"}]});

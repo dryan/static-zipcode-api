@@ -1,1 +1,1 @@
-{"lat": 46.900409, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Bonner", "lng": -113.64027, "zip_code": "59823"}
+{"locality": "Bonner", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Bonner", "Greenough", "Potomac"], "postal_code": "59823", "lat": 46.900409, "lng": -113.64027, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}]}

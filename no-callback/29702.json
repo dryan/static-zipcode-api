@@ -1,1 +1,1 @@
-{"lat": 35.118338, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cherokee Falls", "lng": -81.49413, "zip_code": "29702"}
+{"locality": "Blacksburg", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Blacksburg", "Cherokee Falls", "Cherokee Fls", "Kings Creek"], "postal_code": "29702", "lat": 35.118338, "lng": -81.49413, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cherokee"}]}

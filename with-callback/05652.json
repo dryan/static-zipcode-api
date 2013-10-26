@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.715079, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Eden", "lng": -72.5717, "zip_code": "05652"});
+zipapicallback({"locality": "Eden", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Eden"], "postal_code": "05652", "lat": 44.715079, "lng": -72.5717, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}]});

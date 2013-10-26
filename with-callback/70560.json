@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.975453, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "New Iberia", "lng": -91.84073, "zip_code": "70560"});
+zipapicallback({"locality": "New Iberia", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["New Iberia"], "postal_code": "70560", "lat": 29.975453, "lng": -91.84073, "type": "STANDARD", "counties": [{"fips": "045", "name": "Iberia"}]});

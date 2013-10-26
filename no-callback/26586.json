@@ -1,1 +1,1 @@
-{"lat": 39.525505, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Montana Mines", "lng": -80.10866, "zip_code": "26586"}
+{"locality": "Montana Mines", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Montana Mines"], "postal_code": "26586", "lat": 39.525505, "lng": -80.10866, "type": "POBOX", "counties": [{"fips": "049", "name": "Marion"}]}

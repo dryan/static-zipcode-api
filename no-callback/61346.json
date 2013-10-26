@@ -1,1 +1,1 @@
-{"lat": 41.513879, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Bedford", "lng": -89.71842, "zip_code": "61346"}
+{"locality": "New Bedford", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Bedford"], "postal_code": "61346", "lat": 41.513879, "lng": -89.71842, "type": "POBOX", "counties": [{"fips": "011", "name": "Bureau"}]}

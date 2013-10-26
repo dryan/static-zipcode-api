@@ -1,1 +1,1 @@
-{"lat": 34.689821, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Salter Path", "lng": -76.89242, "zip_code": "28575"}
+{"locality": "Salter Path", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Salter Path"], "postal_code": "28575", "lat": 34.689821, "lng": -76.89242, "type": "POBOX", "counties": [{"fips": "031", "name": "Carteret"}]}

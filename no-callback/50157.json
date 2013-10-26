@@ -1,1 +1,1 @@
-{"lat": 41.7388, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Malcom", "lng": -92.56155, "zip_code": "50157"}
+{"locality": "Malcom", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Malcom"], "postal_code": "50157", "lat": 41.7388, "lng": -92.56155, "type": "STANDARD", "counties": [{"fips": "157", "name": "Poweshiek"}]}

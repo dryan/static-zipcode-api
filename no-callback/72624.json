@@ -1,1 +1,1 @@
-{"lat": 36.0717, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Compton", "lng": -93.35157, "zip_code": "72624"}
+{"locality": "Compton", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Compton"], "postal_code": "72624", "lat": 36.0717, "lng": -93.35157, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]}

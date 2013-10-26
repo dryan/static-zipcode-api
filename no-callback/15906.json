@@ -1,1 +1,1 @@
-{"lat": 40.348973, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Johnstown", "lng": -78.94132, "zip_code": "15906"}
+{"locality": "Johnstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Johnstown"], "postal_code": "15906", "lat": 40.348973, "lng": -78.94132, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

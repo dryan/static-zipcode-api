@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.88898, "region": {"abbr": "CA", "name": "California"}, "locality": "Manhattan Beach", "lng": -118.40535, "zip_code": "90266"});
+zipapicallback({"locality": "Manhattan Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Manhattan Bch", "Manhattan Beach"], "postal_code": "90266", "lat": 33.88898, "lng": -118.40535, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.733955, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Davin", "lng": -81.81897, "zip_code": "25617"});
+zipapicallback({"locality": "Davin", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Davin"], "postal_code": "25617", "lat": 37.733955, "lng": -81.81897, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}, {"fips": "109", "name": "Wyoming"}]});

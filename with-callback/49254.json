@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.230336, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Michigan Center", "lng": -84.32597, "zip_code": "49254"});
+zipapicallback({"locality": "Michigan Center", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Michigan Center", "Michigan Ctr"], "postal_code": "49254", "lat": 42.230336, "lng": -84.32597, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]});

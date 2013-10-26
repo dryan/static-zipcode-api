@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.329688, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Guaynabo", "lng": -66.11876, "zip_code": "00971"});
+zipapicallback({"locality": "Guaynabo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Guaynabo"], "postal_code": "00971", "lat": 18.329688, "lng": -66.11876, "type": "STANDARD", "counties": []});

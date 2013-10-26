@@ -1,1 +1,1 @@
-{"lat": 45.062111, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Boyceville", "lng": -92.02641, "zip_code": "54725"}
+{"locality": "Boyceville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Boyceville"], "postal_code": "54725", "lat": 45.062111, "lng": -92.02641, "type": "STANDARD", "counties": [{"fips": "033", "name": "Dunn"}]}

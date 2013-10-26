@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.505902, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Ahsahka", "lng": -116.3187, "zip_code": "83520"});
+zipapicallback({"locality": "Ahsahka", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Ahsahka"], "postal_code": "83520", "lat": 46.505902, "lng": -116.3187, "type": "STANDARD", "counties": [{"fips": "035", "name": "Clearwater"}]});

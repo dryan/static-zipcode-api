@@ -1,1 +1,1 @@
-{"lat": 35.25543, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bolivar", "lng": -88.98751, "zip_code": "38008"}
+{"locality": "Bolivar", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bolivar"], "postal_code": "38008", "lat": 35.25543, "lng": -88.98751, "type": "STANDARD", "counties": [{"fips": "069", "name": "Hardeman"}]}

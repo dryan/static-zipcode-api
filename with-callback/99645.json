@@ -1,1 +1,1 @@
-zipapicallback({"lat": 61.598203, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Butte", "lng": -149.04109, "zip_code": "99645"});
+zipapicallback({"locality": "Palmer", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Palmer"], "postal_code": "99645", "lat": 61.598203, "lng": -149.04109, "type": "STANDARD", "counties": [{"fips": "170", "name": "Matanuska-Susitna"}]});

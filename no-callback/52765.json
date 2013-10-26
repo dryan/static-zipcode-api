@@ -1,1 +1,1 @@
-{"lat": 41.720483, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "New Liberty", "lng": -90.86944, "zip_code": "52765"}
+{"locality": "New Liberty", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["New Liberty"], "postal_code": "52765", "lat": 41.720483, "lng": -90.86944, "type": "STANDARD", "counties": [{"fips": "163", "name": "Scott"}]}

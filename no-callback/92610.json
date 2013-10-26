@@ -1,1 +1,1 @@
-{"lat": 33.685479, "region": {"abbr": "CA", "name": "California"}, "locality": "Foothill Ranch", "lng": -117.6669, "zip_code": "92610"}
+{"locality": "Foothill Ranch", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Toro", "Foothill Ranch", "Foothill Rnch"], "postal_code": "92610", "lat": 33.685479, "lng": -117.6669, "type": "STANDARD", "counties": []}

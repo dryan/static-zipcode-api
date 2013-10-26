@@ -1,1 +1,1 @@
-{"lat": 37.38025, "region": {"abbr": "CA", "name": "California"}, "locality": "Livingston", "lng": -120.72614, "zip_code": "95334"}
+{"locality": "Livingston", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Livingston"], "postal_code": "95334", "lat": 37.38025, "lng": -120.72614, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]}

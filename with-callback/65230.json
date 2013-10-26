@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.29161, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Armstrong", "lng": -92.70579, "zip_code": "65230"});
+zipapicallback({"locality": "Armstrong", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Armstrong"], "postal_code": "65230", "lat": 39.29161, "lng": -92.70579, "type": "STANDARD", "counties": [{"fips": "089", "name": "Howard"}, {"fips": "175", "name": "Randolph"}]});

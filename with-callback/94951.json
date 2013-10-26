@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.314531, "region": {"abbr": "CA", "name": "California"}, "locality": "Penngrove", "lng": -122.66097, "zip_code": "94951"});
+zipapicallback({"locality": "Penngrove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Penngrove"], "postal_code": "94951", "lat": 38.314531, "lng": -122.66097, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.817786, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pahokee", "lng": -80.65425, "zip_code": "33476"});
+zipapicallback({"locality": "Pahokee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Pahokee"], "postal_code": "33476", "lat": 26.817786, "lng": -80.65425, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

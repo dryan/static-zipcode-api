@@ -1,1 +1,1 @@
-{"lat": 39.585484, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Whiting", "lng": -95.6202, "zip_code": "66552"}
+{"locality": "Whiting", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Whiting"], "postal_code": "66552", "lat": 39.585484, "lng": -95.6202, "type": "STANDARD", "counties": [{"fips": "085", "name": "Jackson"}, {"fips": "005", "name": "Atchison"}]}

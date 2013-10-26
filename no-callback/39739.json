@@ -1,1 +1,1 @@
-{"lat": 33.243098, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Brooksville", "lng": -88.60228, "zip_code": "39739"}
+{"locality": "Brooksville", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bigbee Valley", "Brooksville"], "postal_code": "39739", "lat": 33.243098, "lng": -88.60228, "type": "STANDARD", "counties": [{"fips": "103", "name": "Noxubee"}]}

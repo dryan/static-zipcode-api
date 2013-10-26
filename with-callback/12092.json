@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.691779, "region": {"abbr": "NY", "name": "New York"}, "locality": "Howes Cave", "lng": -74.37513, "zip_code": "12092"});
+zipapicallback({"locality": "Howes Cave", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Howes Cave"], "postal_code": "12092", "lat": 42.691779, "lng": -74.37513, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}]});

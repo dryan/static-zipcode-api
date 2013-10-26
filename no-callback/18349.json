@@ -1,1 +1,1 @@
-{"lat": 41.100236, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pocono Manor", "lng": -75.36453, "zip_code": "18349"}
+{"locality": "Pocono Manor", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pocono Manor"], "postal_code": "18349", "lat": 41.100236, "lng": -75.36453, "type": "POBOX", "counties": [{"fips": "089", "name": "Monroe"}]}

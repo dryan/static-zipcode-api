@@ -1,1 +1,1 @@
-{"lat": 41.899294, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Milan", "lng": -76.60496, "zip_code": "18831"}
+{"locality": "Milan", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Milan"], "postal_code": "18831", "lat": 41.899294, "lng": -76.60496, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]}

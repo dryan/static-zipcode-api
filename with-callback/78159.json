@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.269305, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Smiley", "lng": -97.60044, "zip_code": "78159"});
+zipapicallback({"locality": "Smiley", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Smiley"], "postal_code": "78159", "lat": 29.269305, "lng": -97.60044, "type": "STANDARD", "counties": [{"fips": "177", "name": "Gonzales"}]});

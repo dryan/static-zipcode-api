@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.332666, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Holly Hill", "lng": -80.42251, "zip_code": "29059"});
+zipapicallback({"locality": "Holly Hill", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Holly Hill"], "postal_code": "29059", "lat": 33.332666, "lng": -80.42251, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}, {"fips": "015", "name": "Berkeley"}]});

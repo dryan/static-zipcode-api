@@ -1,1 +1,1 @@
-{"lat": 41.91021, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Garden City", "lng": -111.40328, "zip_code": "84028"}
+{"locality": "Garden City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Garden City"], "postal_code": "84028", "lat": 41.91021, "lng": -111.40328, "type": "STANDARD", "counties": [{"fips": "033", "name": "Rich"}]}

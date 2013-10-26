@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.707876, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tyrone", "lng": -108.30257, "zip_code": "88065"});
+zipapicallback({"locality": "Tyrone", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tyrone"], "postal_code": "88065", "lat": 32.707876, "lng": -108.30257, "type": "POBOX", "counties": [{"fips": "017", "name": "Grant"}]});

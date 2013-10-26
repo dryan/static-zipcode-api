@@ -1,1 +1,1 @@
-{"lat": 37.388698, "region": {"abbr": "CA", "name": "California"}, "locality": "Ahwahnee", "lng": -119.72439, "zip_code": "93601"}
+{"locality": "Ahwahnee", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ahwahnee"], "postal_code": "93601", "lat": 37.388698, "lng": -119.72439, "type": "STANDARD", "counties": [{"fips": "039", "name": "Madera"}, {"fips": "043", "name": "Mariposa"}]}

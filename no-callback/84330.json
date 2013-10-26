@@ -1,1 +1,1 @@
-{"lat": 41.875803, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Plymouth", "lng": -112.13957, "zip_code": "84330"}
+{"locality": "Plymouth", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Plymouth"], "postal_code": "84330", "lat": 41.875803, "lng": -112.13957, "type": "POBOX", "counties": [{"fips": "003", "name": "Box Elder"}]}

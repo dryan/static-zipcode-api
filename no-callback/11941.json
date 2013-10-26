@@ -1,1 +1,1 @@
-{"lat": 40.824658, "region": {"abbr": "NY", "name": "New York"}, "locality": "Eastport", "lng": -72.72356, "zip_code": "11941"}
+{"locality": "Eastport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Eastport"], "postal_code": "11941", "lat": 40.824658, "lng": -72.72356, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

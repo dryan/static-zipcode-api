@@ -1,1 +1,1 @@
-{"lat": 29.634216, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Utopia", "lng": -99.48894, "zip_code": "78884"}
+{"locality": "Utopia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Utopia"], "postal_code": "78884", "lat": 29.634216, "lng": -99.48894, "type": "STANDARD", "counties": [{"fips": "463", "name": "Uvalde"}]}

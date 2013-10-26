@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.571544, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Shanghai", "lng": -76.78066, "zip_code": "23110"});
+zipapicallback({"locality": "Mattaponi", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mattaponi"], "postal_code": "23110", "lat": 37.571544, "lng": -76.78066, "type": "STANDARD", "counties": [{"fips": "097", "name": "King and Queen"}]});

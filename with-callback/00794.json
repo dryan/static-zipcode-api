@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.204294, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Barranquitas", "lng": -66.31058, "zip_code": "00794"});
+zipapicallback({"locality": "Barranquitas", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Barranquitas"], "postal_code": "00794", "lat": 18.204294, "lng": -66.31058, "type": "STANDARD", "counties": []});

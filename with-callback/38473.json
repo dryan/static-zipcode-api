@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.026969, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Minor Hill", "lng": -87.16763, "zip_code": "38473"});
+zipapicallback({"locality": "Minor Hill", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Minor Hill"], "postal_code": "38473", "lat": 35.026969, "lng": -87.16763, "type": "STANDARD", "counties": [{"fips": "055", "name": "Giles"}, {"fips": "099", "name": "Lawrence"}]});

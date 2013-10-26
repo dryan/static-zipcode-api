@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.042878, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ancona", "lng": -88.86268, "zip_code": "61311"});
+zipapicallback({"locality": "Ancona", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ancona"], "postal_code": "61311", "lat": 41.042878, "lng": -88.86268, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.469643, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Ambia", "lng": -87.50098, "zip_code": "47917"});
+zipapicallback({"locality": "Ambia", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Ambia"], "postal_code": "47917", "lat": 40.469643, "lng": -87.50098, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}, {"fips": "171", "name": "Warren"}]});

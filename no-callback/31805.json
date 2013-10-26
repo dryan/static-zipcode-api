@@ -1,1 +1,1 @@
-{"lat": 32.285535, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cusseta", "lng": -84.76332, "zip_code": "31805"}
+{"locality": "Cusseta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cusseta"], "postal_code": "31805", "lat": 32.285535, "lng": -84.76332, "type": "STANDARD", "counties": [{"fips": "053", "name": "Chattahoochee"}, {"fips": "259", "name": "Stewart"}, {"fips": "197", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.128301, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Erwin", "lng": -82.4273, "zip_code": "37650"});
+zipapicallback({"locality": "Erwin", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Erwin"], "postal_code": "37650", "lat": 36.128301, "lng": -82.4273, "type": "STANDARD", "counties": [{"fips": "171", "name": "Unicoi"}, {"fips": "173", "name": "Union"}]});

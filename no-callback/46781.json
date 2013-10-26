@@ -1,1 +1,1 @@
-{"lat": 40.641626, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Poneto", "lng": -85.24984, "zip_code": "46781"}
+{"locality": "Poneto", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Poneto"], "postal_code": "46781", "lat": 40.641626, "lng": -85.24984, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wells"}]}

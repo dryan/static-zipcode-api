@@ -1,1 +1,1 @@
-{"lat": 32.620782, "region": {"abbr": "CA", "name": "California"}, "locality": "Potrero", "lng": -116.60671, "zip_code": "91963"}
+{"locality": "Potrero", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Potrero"], "postal_code": "91963", "lat": 32.620782, "lng": -116.60671, "type": "STANDARD", "counties": []}

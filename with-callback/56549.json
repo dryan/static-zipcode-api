@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.864977, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rollag", "lng": -96.30781, "zip_code": "56549"});
+zipapicallback({"locality": "Hawley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hawley", "Rollag"], "postal_code": "56549", "lat": 46.864977, "lng": -96.30781, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]});

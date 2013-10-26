@@ -1,1 +1,1 @@
-{"lat": 37.349023, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cromwell", "lng": -86.76565, "zip_code": "42333"}
+{"locality": "Cromwell", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cromwell"], "postal_code": "42333", "lat": 37.349023, "lng": -86.76565, "type": "STANDARD", "counties": [{"fips": "183", "name": "Ohio"}]}

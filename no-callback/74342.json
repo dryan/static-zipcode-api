@@ -1,1 +1,1 @@
-{"lat": 36.420495, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Eucha", "lng": -94.92621, "zip_code": "74342"}
+{"locality": "Eucha", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Eucha"], "postal_code": "74342", "lat": 36.420495, "lng": -94.92621, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delaware"}]}

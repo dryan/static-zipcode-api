@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.881743, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rio Grande", "lng": -82.38091, "zip_code": "45674"});
+zipapicallback({"locality": "Rio Grande", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rio Grande"], "postal_code": "45674", "lat": 38.881743, "lng": -82.38091, "type": "POBOX", "counties": [{"fips": "053", "name": "Gallia"}]});

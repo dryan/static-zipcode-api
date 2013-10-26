@@ -1,1 +1,1 @@
-{"lat": 35.594579, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Uniontown", "lng": -94.44989, "zip_code": "72955"}
+{"locality": "Uniontown", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Uniontown"], "postal_code": "72955", "lat": 35.594579, "lng": -94.44989, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}]}

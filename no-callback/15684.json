@@ -1,1 +1,1 @@
-{"lat": 40.463572, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Slickville", "lng": -79.51475, "zip_code": "15684"}
+{"locality": "Slickville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Slickville"], "postal_code": "15684", "lat": 40.463572, "lng": -79.51475, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

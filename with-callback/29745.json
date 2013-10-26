@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.005981, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "York", "lng": -81.21176, "zip_code": "29745"});
+zipapicallback({"locality": "York", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["York"], "postal_code": "29745", "lat": 35.005981, "lng": -81.21176, "type": "STANDARD", "counties": [{"fips": "091", "name": "York"}]});

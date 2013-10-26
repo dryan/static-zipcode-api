@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.065334, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rocksprings", "lng": -100.17202, "zip_code": "78880"});
+zipapicallback({"locality": "Rocksprings", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rocksprings"], "postal_code": "78880", "lat": 30.065334, "lng": -100.17202, "type": "STANDARD", "counties": [{"fips": "137", "name": "Edwards"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.532384, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Leamington", "lng": -112.27113, "zip_code": "84638"}
+{"locality": "Leamington", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Leamington"], "postal_code": "84638", "lat": 39.532384, "lng": -112.27113, "type": "POBOX", "counties": [{"fips": "027", "name": "Millard"}]}

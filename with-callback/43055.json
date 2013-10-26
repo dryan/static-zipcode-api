@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.079115, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Newark", "lng": -82.40054, "zip_code": "43055"});
+zipapicallback({"locality": "Newark", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hanover", "Newark"], "postal_code": "43055", "lat": 40.079115, "lng": -82.40054, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}]});

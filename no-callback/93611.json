@@ -1,1 +1,1 @@
-{"lat": 36.840057, "region": {"abbr": "CA", "name": "California"}, "locality": "Clovis", "lng": -119.66107, "zip_code": "93611"}
+{"locality": "Clovis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clovis"], "postal_code": "93611", "lat": 36.840057, "lng": -119.66107, "type": "STANDARD", "counties": []}

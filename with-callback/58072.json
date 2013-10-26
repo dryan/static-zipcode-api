@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.934311, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Valley City", "lng": -98.02374, "zip_code": "58072"});
+zipapicallback({"locality": "Valley City", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Valley City"], "postal_code": "58072", "lat": 46.934311, "lng": -98.02374, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.620175, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Crete", "lng": -96.96099, "zip_code": "68333"}
+{"locality": "Crete", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Crete"], "postal_code": "68333", "lat": 40.620175, "lng": -96.96099, "type": "STANDARD", "counties": [{"fips": "151", "name": "Saline"}, {"fips": "109", "name": "Lancaster"}]}

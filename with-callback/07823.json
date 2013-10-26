@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.82383, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Belvidere", "lng": -75.04585, "zip_code": "07823"});
+zipapicallback({"locality": "Belvidere", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Belvidere"], "postal_code": "07823", "lat": 40.82383, "lng": -75.04585, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]});

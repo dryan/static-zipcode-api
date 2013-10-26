@@ -1,1 +1,1 @@
-{"lat": 44.986761, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Marietta", "lng": -96.40968, "zip_code": "56257"}
+{"locality": "Marietta", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Marietta", "Nassau"], "postal_code": "56257", "lat": 44.986761, "lng": -96.40968, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lac Qui Parle"}, {"fips": "039", "name": "Dodge"}, {"fips": "051", "name": "Grant"}]}

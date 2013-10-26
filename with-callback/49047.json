@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.004729, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dowagiac", "lng": -86.1208, "zip_code": "49047"});
+zipapicallback({"locality": "Dowagiac", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dowagiac"], "postal_code": "49047", "lat": 42.004729, "lng": -86.1208, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cass"}, {"fips": "159", "name": "Van Buren"}]});

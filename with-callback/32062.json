@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.13762, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Mc Alpin", "lng": -82.98732, "zip_code": "32062"});
+zipapicallback({"locality": "Mc Alpin", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Mc Alpin"], "postal_code": "32062", "lat": 30.13762, "lng": -82.98732, "type": "STANDARD", "counties": [{"fips": "121", "name": "Suwannee"}]});

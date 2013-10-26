@@ -1,1 +1,1 @@
-{"lat": 39.067689, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Montrose", "lng": -79.82219, "zip_code": "26283"}
+{"locality": "Montrose", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Montrose"], "postal_code": "26283", "lat": 39.067689, "lng": -79.82219, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}, {"fips": "093", "name": "Tucker"}, {"fips": "001", "name": "Barbour"}]}

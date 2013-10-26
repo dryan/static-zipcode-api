@@ -1,1 +1,1 @@
-{"lat": 40.656302, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cranford", "lng": -74.30371, "zip_code": "07016"}
+{"locality": "Cranford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cranford"], "postal_code": "07016", "lat": 40.656302, "lng": -74.30371, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]}

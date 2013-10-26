@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.665867, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Secondcreek", "lng": -80.44338, "zip_code": "24974"});
+zipapicallback({"locality": "Secondcreek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Secondcreek"], "postal_code": "24974", "lat": 37.665867, "lng": -80.44338, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}, {"fips": "063", "name": "Monroe"}]});

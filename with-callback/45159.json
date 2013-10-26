@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.326987, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Vienna", "lng": -83.68731, "zip_code": "45159"});
+zipapicallback({"locality": "New Vienna", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Vienna"], "postal_code": "45159", "lat": 39.326987, "lng": -83.68731, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.4547, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Manlius", "lng": -89.66966, "zip_code": "61338"});
+zipapicallback({"locality": "Manlius", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Manlius"], "postal_code": "61338", "lat": 41.4547, "lng": -89.66966, "type": "POBOX", "counties": [{"fips": "011", "name": "Bureau"}]});

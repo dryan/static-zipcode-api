@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.632681, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Donaldson", "lng": -76.39579, "zip_code": "17981"});
+zipapicallback({"locality": "Tremont", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Donaldson", "Good Spring", "Joliett", "Tremont", "Zerbe"], "postal_code": "17981", "lat": 40.632681, "lng": -76.39579, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

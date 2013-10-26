@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.540398, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Center Valley", "lng": -75.41501, "zip_code": "18034"});
+zipapicallback({"locality": "Center Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Center Valley"], "postal_code": "18034", "lat": 40.540398, "lng": -75.41501, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}]});

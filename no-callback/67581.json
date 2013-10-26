@@ -1,1 +1,1 @@
-{"lat": 37.967166, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Sylvia", "lng": -98.41303, "zip_code": "67581"}
+{"locality": "Sylvia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Sylvia"], "postal_code": "67581", "lat": 37.967166, "lng": -98.41303, "type": "STANDARD", "counties": [{"fips": "155", "name": "Reno"}, {"fips": "185", "name": "Stafford"}]}

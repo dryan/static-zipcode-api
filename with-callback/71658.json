@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.323463, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Montrose", "lng": -91.54633, "zip_code": "71658"});
+zipapicallback({"locality": "Montrose", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Montrose"], "postal_code": "71658", "lat": 33.323463, "lng": -91.54633, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashley"}]});

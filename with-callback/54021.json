@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.752662, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Prescott", "lng": -92.77958, "zip_code": "54021"});
+zipapicallback({"locality": "Prescott", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Prescott"], "postal_code": "54021", "lat": 44.752662, "lng": -92.77958, "type": "STANDARD", "counties": [{"fips": "093", "name": "Pierce"}]});

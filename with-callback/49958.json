@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.830728, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pelkie", "lng": -88.65751, "zip_code": "49958"});
+zipapicallback({"locality": "Pelkie", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pelkie"], "postal_code": "49958", "lat": 46.830728, "lng": -88.65751, "type": "STANDARD", "counties": [{"fips": "013", "name": "Baraga"}, {"fips": "061", "name": "Houghton"}]});

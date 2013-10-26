@@ -1,1 +1,1 @@
-{"lat": 44.166268, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Jackson", "lng": -71.18089, "zip_code": "03846"}
+{"locality": "Jackson", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Jackson"], "postal_code": "03846", "lat": 44.166268, "lng": -71.18089, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]}

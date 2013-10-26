@@ -1,1 +1,1 @@
-{"lat": 36.133577, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Winston Salem", "lng": -80.2768, "zip_code": "27109"}
+{"locality": "Winston Salem", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Winston Salem"], "postal_code": "27109", "lat": 36.133577, "lng": -80.2768, "type": "STANDARD", "counties": [{"fips": "067", "name": "Forsyth"}]}

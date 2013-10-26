@@ -1,1 +1,1 @@
-{"lat": 48.699642, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lummi Island", "lng": -122.66658, "zip_code": "98262"}
+{"locality": "Lummi Island", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lummi Island"], "postal_code": "98262", "lat": 48.699642, "lng": -122.66658, "type": "STANDARD", "counties": [{"fips": "073", "name": "Whatcom"}]}

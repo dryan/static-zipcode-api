@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.781908, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Martin", "lng": -100.10165, "zip_code": "58758"});
+zipapicallback({"locality": "Martin", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Martin"], "postal_code": "58758", "lat": 47.781908, "lng": -100.10165, "type": "STANDARD", "counties": [{"fips": "083", "name": "Sheridan"}, {"fips": "069", "name": "Pierce"}, {"fips": "103", "name": "Wells"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.408882, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Oak Grove", "lng": -122.61476, "zip_code": "97267"}
+{"locality": "Portland", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Milwaukie", "Oak Grove", "Portland"], "postal_code": "97267", "lat": 45.408882, "lng": -122.61476, "type": "STANDARD", "counties": [{"fips": "005", "name": "Clackamas"}, {"fips": "051", "name": "Multnomah"}]}

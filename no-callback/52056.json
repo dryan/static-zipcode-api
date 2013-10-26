@@ -1,1 +1,1 @@
-{"lat": 42.60483, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Luxemburg", "lng": -91.07654, "zip_code": "52056"}
+{"locality": "Luxemburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Luxemburg"], "postal_code": "52056", "lat": 42.60483, "lng": -91.07654, "type": "POBOX", "counties": [{"fips": "061", "name": "Dubuque"}]}

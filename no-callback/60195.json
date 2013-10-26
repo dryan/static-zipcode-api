@@ -1,1 +1,1 @@
-{"lat": 42.067809, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hoffman Estates", "lng": -88.10828, "zip_code": "60195"}
+{"locality": "Schaumburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hoffman Est", "Hoffman Estates", "Schaumburg"], "postal_code": "60195", "lat": 42.067809, "lng": -88.10828, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

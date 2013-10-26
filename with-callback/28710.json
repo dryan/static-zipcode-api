@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.464897, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bat Cave", "lng": -82.28307, "zip_code": "28710"});
+zipapicallback({"locality": "Bat Cave", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bat Cave"], "postal_code": "28710", "lat": 35.464897, "lng": -82.28307, "type": "POBOX", "counties": [{"fips": "089", "name": "Henderson"}]});

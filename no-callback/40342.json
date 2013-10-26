@@ -1,1 +1,1 @@
-{"lat": 38.012479, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lawrenceburg", "lng": -84.94075, "zip_code": "40342"}
+{"locality": "Lawrenceburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lawrenceburg"], "postal_code": "40342", "lat": 38.012479, "lng": -84.94075, "type": "STANDARD", "counties": [{"fips": "005", "name": "Anderson"}]}

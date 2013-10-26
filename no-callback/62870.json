@@ -1,1 +1,1 @@
-{"lat": 38.614141, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Odin", "lng": -89.04738, "zip_code": "62870"}
+{"locality": "Odin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Odin"], "postal_code": "62870", "lat": 38.614141, "lng": -89.04738, "type": "STANDARD", "counties": [{"fips": "121", "name": "Marion"}]}

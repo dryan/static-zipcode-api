@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.317104, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wanda", "lng": -95.21378, "zip_code": "56294"});
+zipapicallback({"locality": "Wanda", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wanda"], "postal_code": "56294", "lat": 44.317104, "lng": -95.21378, "type": "POBOX", "counties": [{"fips": "127", "name": "Redwood"}, {"fips": "083", "name": "Lyon"}, {"fips": "053", "name": "Hennepin"}]});

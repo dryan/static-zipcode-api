@@ -1,1 +1,1 @@
-{"lat": 39.766617, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Boynton", "lng": -79.06594, "zip_code": "15532"}
+{"locality": "Boynton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Boynton"], "postal_code": "15532", "lat": 39.766617, "lng": -79.06594, "type": "POBOX", "counties": [{"fips": "111", "name": "Somerset"}]}

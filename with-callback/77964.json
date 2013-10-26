@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.369619, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hallettsville", "lng": -96.86644, "zip_code": "77964"});
+zipapicallback({"locality": "Hallettsville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hallettsville", "Speaks"], "postal_code": "77964", "lat": 29.369619, "lng": -96.86644, "type": "STANDARD", "counties": [{"fips": "285", "name": "Lavaca"}, {"fips": "089", "name": "Colorado"}]});

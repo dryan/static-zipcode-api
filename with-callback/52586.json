@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.339202, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rose Hill", "lng": -92.46875, "zip_code": "52586"});
+zipapicallback({"locality": "Rose Hill", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rose Hill"], "postal_code": "52586", "lat": 41.339202, "lng": -92.46875, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mahaska"}]});

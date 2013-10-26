@@ -1,1 +1,1 @@
-{"lat": 32.717109, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Johns Island", "lng": -80.08507, "zip_code": "29455"}
+{"locality": "Johns Island", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Johns Island", "Kiawah Island", "Seabrook Isl", "Seabrook Island"], "postal_code": "29455", "lat": 32.717109, "lng": -80.08507, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}]}

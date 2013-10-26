@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.77692, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Santa Fe", "lng": -87.1517, "zip_code": "38482"});
+zipapicallback({"locality": "Santa Fe", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Santa Fe"], "postal_code": "38482", "lat": 35.77692, "lng": -87.1517, "type": "STANDARD", "counties": [{"fips": "119", "name": "Maury"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.927802, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Onia", "lng": -92.32249, "zip_code": "72663"}
+{"locality": "Onia", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Onia"], "postal_code": "72663", "lat": 35.927802, "lng": -92.32249, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stone"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.203249, "region": {"abbr": "CA", "name": "California"}, "locality": "Pioneertown", "lng": -116.56565, "zip_code": "92268"});
+zipapicallback({"locality": "Pioneertown", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pioneertown"], "postal_code": "92268", "lat": 34.203249, "lng": -116.56565, "type": "POBOX", "counties": [{"fips": "071", "name": "San Bernardino"}]});

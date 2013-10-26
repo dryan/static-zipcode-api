@@ -1,1 +1,1 @@
-{"lat": 43.009728, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "East Sullivan", "lng": -72.19383, "zip_code": "03445"}
+{"locality": "Sullivan", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Sullivan"], "postal_code": "03445", "lat": 43.009728, "lng": -72.19383, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]}

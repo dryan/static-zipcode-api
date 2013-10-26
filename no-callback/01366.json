@@ -1,1 +1,1 @@
-{"lat": 42.474718, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Petersham", "lng": -72.21226, "zip_code": "01366"}
+{"locality": "Petersham", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Petersham"], "postal_code": "01366", "lat": 42.474718, "lng": -72.21226, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

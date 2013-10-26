@@ -1,1 +1,1 @@
-{"lat": 40.963663, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dana", "lng": -88.97932, "zip_code": "61321"}
+{"locality": "Dana", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dana"], "postal_code": "61321", "lat": 40.963663, "lng": -88.97932, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}, {"fips": "203", "name": "Woodford"}, {"fips": "123", "name": "Marshall"}, {"fips": "105", "name": "Livingston"}]}

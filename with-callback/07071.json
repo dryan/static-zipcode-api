@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.808416, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Lyndhurst", "lng": -74.12111, "zip_code": "07071"});
+zipapicallback({"locality": "Lyndhurst", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Lyndhurst"], "postal_code": "07071", "lat": 40.808416, "lng": -74.12111, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

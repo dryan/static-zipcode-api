@@ -1,1 +1,1 @@
-{"lat": 42.109763, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Marshfield", "lng": -70.69172, "zip_code": "02050"}
+{"locality": "Marshfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Marshfield"], "postal_code": "02050", "lat": 42.109763, "lng": -70.69172, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.754255, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Litchfield", "lng": -73.21268, "zip_code": "06759"}
+{"locality": "Litchfield", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Litchfield"], "postal_code": "06759", "lat": 41.754255, "lng": -73.21268, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

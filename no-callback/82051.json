@@ -1,1 +1,1 @@
-{"lat": 41.601379, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Laramie", "lng": -105.65207, "zip_code": "82051"}
+{"locality": "Bosler", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Bosler", "Laramie"], "postal_code": "82051", "lat": 41.601379, "lng": -105.65207, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

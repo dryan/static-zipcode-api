@@ -1,1 +1,1 @@
-{"lat": 32.474499, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Longview", "lng": -94.712, "zip_code": "75602"}
+{"locality": "Longview", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Longview"], "postal_code": "75602", "lat": 32.474499, "lng": -94.712, "type": "STANDARD", "counties": [{"fips": "183", "name": "Gregg"}, {"fips": "203", "name": "Harrison"}]}

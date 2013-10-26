@@ -1,1 +1,1 @@
-{"lat": 41.164209, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Fostoria", "lng": -83.41054, "zip_code": "44830"}
+{"locality": "Fostoria", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Amsden", "Fostoria"], "postal_code": "44830", "lat": 41.164209, "lng": -83.41054, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hancock"}, {"fips": "147", "name": "Seneca"}, {"fips": "173", "name": "Wood"}, {"fips": "143", "name": "Sandusky"}]}

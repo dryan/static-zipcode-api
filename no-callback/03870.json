@@ -1,1 +1,1 @@
-{"lat": 43.000003, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Rye", "lng": -70.76517, "zip_code": "03870"}
+{"locality": "Rye", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Rye"], "postal_code": "03870", "lat": 43.000003, "lng": -70.76517, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

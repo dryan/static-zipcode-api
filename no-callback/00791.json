@@ -1,1 +1,1 @@
-{"lat": 18.147257, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Humacao", "lng": -65.82269, "zip_code": "00791"}
+{"locality": "Humacao", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Humacao"], "postal_code": "00791", "lat": 18.147257, "lng": -65.82269, "type": "STANDARD", "counties": []}

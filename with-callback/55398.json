@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.455085, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Zimmerman", "lng": -93.57873, "zip_code": "55398"});
+zipapicallback({"locality": "Zimmerman", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Zimmerman"], "postal_code": "55398", "lat": 45.455085, "lng": -93.57873, "type": "STANDARD", "counties": [{"fips": "141", "name": "Sherburne"}]});

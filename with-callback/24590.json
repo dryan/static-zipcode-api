@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.806508, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Scottsville", "lng": -78.48134, "zip_code": "24590"});
+zipapicallback({"locality": "Scottsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Scottsville"], "postal_code": "24590", "lat": 37.806508, "lng": -78.48134, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}, {"fips": "029", "name": "Buckingham"}, {"fips": "065", "name": "Fluvanna"}]});

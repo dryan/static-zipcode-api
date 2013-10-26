@@ -1,1 +1,1 @@
-{"lat": 31.74991, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ludowici", "lng": -81.75813, "zip_code": "31316"}
+{"locality": "Ludowici", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ludowici"], "postal_code": "31316", "lat": 31.74991, "lng": -81.75813, "type": "STANDARD", "counties": [{"fips": "183", "name": "Long"}, {"fips": "179", "name": "Liberty"}]}

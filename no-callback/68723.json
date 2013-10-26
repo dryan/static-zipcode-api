@@ -1,1 +1,1 @@
-{"lat": 42.281323, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Carroll", "lng": -97.20373, "zip_code": "68723"}
+{"locality": "Carroll", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Carroll"], "postal_code": "68723", "lat": 42.281323, "lng": -97.20373, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wayne"}]}

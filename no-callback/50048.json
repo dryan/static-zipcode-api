@@ -1,1 +1,1 @@
-{"lat": 41.514342, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Casey", "lng": -94.52139, "zip_code": "50048"}
+{"locality": "Casey", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Casey"], "postal_code": "50048", "lat": 41.514342, "lng": -94.52139, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}, {"fips": "001", "name": "Adair"}]}

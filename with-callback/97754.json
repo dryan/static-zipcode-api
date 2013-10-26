@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.238306, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Prineville", "lng": -120.75682, "zip_code": "97754"});
+zipapicallback({"locality": "Prineville", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Prineville"], "postal_code": "97754", "lat": 44.238306, "lng": -120.75682, "type": "STANDARD", "counties": [{"fips": "013", "name": "Crook"}]});

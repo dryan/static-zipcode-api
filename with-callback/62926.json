@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.363981, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dongola", "lng": -89.15783, "zip_code": "62926"});
+zipapicallback({"locality": "Dongola", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dongola"], "postal_code": "62926", "lat": 37.363981, "lng": -89.15783, "type": "STANDARD", "counties": [{"fips": "181", "name": "Union"}, {"fips": "003", "name": "Alexander"}, {"fips": "153", "name": "Pulaski"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.253086, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Whitney", "lng": -79.40846, "zip_code": "15693"});
+zipapicallback({"locality": "Whitney", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Whitney"], "postal_code": "15693", "lat": 40.253086, "lng": -79.40846, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]});

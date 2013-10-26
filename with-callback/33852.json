@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.293327, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Placid", "lng": -81.38206, "zip_code": "33852"});
+zipapicallback({"locality": "Lake Placid", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Placid"], "postal_code": "33852", "lat": 27.293327, "lng": -81.38206, "type": "STANDARD", "counties": [{"fips": "055", "name": "Highlands"}, {"fips": "105", "name": "Polk"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.826822, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Vine Grove", "lng": -86.00692, "zip_code": "40175"});
+zipapicallback({"locality": "Vine Grove", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Big Spring", "Flaherty", "Vine Grove"], "postal_code": "40175", "lat": 37.826822, "lng": -86.00692, "type": "STANDARD", "counties": [{"fips": "093", "name": "Hardin"}, {"fips": "163", "name": "Meade"}]});

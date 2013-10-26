@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.129817, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Sangerville", "lng": -69.32571, "zip_code": "04479"});
+zipapicallback({"locality": "Sangerville", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Sangerville"], "postal_code": "04479", "lat": 45.129817, "lng": -69.32571, "type": "STANDARD", "counties": [{"fips": "021", "name": "Piscataquis"}]});

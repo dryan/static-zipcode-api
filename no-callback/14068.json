@@ -1,1 +1,1 @@
-{"lat": 43.02534, "region": {"abbr": "NY", "name": "New York"}, "locality": "Getzville", "lng": -78.76241, "zip_code": "14068"}
+{"locality": "Getzville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Getzville"], "postal_code": "14068", "lat": 43.02534, "lng": -78.76241, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.011848, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Plainville", "lng": -71.32392, "zip_code": "02762"});
+zipapicallback({"locality": "Plainville", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Plainville"], "postal_code": "02762", "lat": 42.011848, "lng": -71.32392, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

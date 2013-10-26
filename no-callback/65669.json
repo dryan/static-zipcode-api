@@ -1,1 +1,1 @@
-{"lat": 36.923067, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Highlandville", "lng": -93.30696, "zip_code": "65669"}
+{"locality": "Highlandville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Highlandville"], "postal_code": "65669", "lat": 36.923067, "lng": -93.30696, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "209", "name": "Stone"}]}

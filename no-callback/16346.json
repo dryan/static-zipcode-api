@@ -1,1 +1,1 @@
-{"lat": 41.378236, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Seneca", "lng": -79.6864, "zip_code": "16346"}
+{"locality": "Seneca", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Seneca"], "postal_code": "16346", "lat": 41.378236, "lng": -79.6864, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}]}

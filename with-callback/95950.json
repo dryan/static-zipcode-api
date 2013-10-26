@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.070128, "region": {"abbr": "CA", "name": "California"}, "locality": "Grimes", "lng": -121.8981, "zip_code": "95950"});
+zipapicallback({"locality": "Grimes", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Grimes"], "postal_code": "95950", "lat": 39.070128, "lng": -121.8981, "type": "POBOX", "counties": [{"fips": "011", "name": "Colusa"}]});

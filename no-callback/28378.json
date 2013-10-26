@@ -1,1 +1,1 @@
-{"lat": 34.858715, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Rex", "lng": -79.04705, "zip_code": "28378"}
+{"locality": "Rex", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Rex"], "postal_code": "28378", "lat": 34.858715, "lng": -79.04705, "type": "POBOX", "counties": [{"fips": "155", "name": "Robeson"}]}

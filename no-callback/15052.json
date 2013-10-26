@@ -1,1 +1,1 @@
-{"lat": 40.665001, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Industry", "lng": -80.42534, "zip_code": "15052"}
+{"locality": "Industry", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Industry"], "postal_code": "15052", "lat": 40.665001, "lng": -80.42534, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]}

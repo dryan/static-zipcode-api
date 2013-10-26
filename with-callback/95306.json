@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.432168, "region": {"abbr": "CA", "name": "California"}, "locality": "Catheys Valley", "lng": -120.09682, "zip_code": "95306"});
+zipapicallback({"locality": "Catheys Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Catheys Valley", "Catheys Vly"], "postal_code": "95306", "lat": 37.432168, "lng": -120.09682, "type": "STANDARD", "counties": [{"fips": "043", "name": "Mariposa"}]});

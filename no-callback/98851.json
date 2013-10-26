@@ -1,1 +1,1 @@
-{"lat": 47.400024, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Soap Lake", "lng": -119.4624, "zip_code": "98851"}
+{"locality": "Soap Lake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Soap Lake"], "postal_code": "98851", "lat": 47.400024, "lng": -119.4624, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]}

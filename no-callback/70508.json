@@ -1,1 +1,1 @@
-{"lat": 30.163368, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lafayette", "lng": -92.01974, "zip_code": "70508"}
+{"locality": "Lafayette", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lafayette"], "postal_code": "70508", "lat": 30.163368, "lng": -92.01974, "type": "STANDARD", "counties": [{"fips": "055", "name": "Lafayette"}]}

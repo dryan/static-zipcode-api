@@ -1,1 +1,1 @@
-{"lat": 43.636332, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Victor", "lng": -111.14842, "zip_code": "83455"}
+{"locality": "Victor", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Victor"], "postal_code": "83455", "lat": 43.636332, "lng": -111.14842, "type": "STANDARD", "counties": [{"fips": "081", "name": "Teton"}]}

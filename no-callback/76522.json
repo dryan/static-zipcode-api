@@ -1,1 +1,1 @@
-{"lat": 31.131076, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Izoro", "lng": -97.91666, "zip_code": "76522"}
+{"locality": "Copperas Cove", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Copperas Cove"], "postal_code": "76522", "lat": 31.131076, "lng": -97.91666, "type": "STANDARD", "counties": [{"fips": "099", "name": "Coryell"}, {"fips": "281", "name": "Lampasas"}]}

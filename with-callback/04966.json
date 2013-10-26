@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.840352, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Phillips", "lng": -70.37235, "zip_code": "04966"});
+zipapicallback({"locality": "Phillips", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Avon", "Madrid Twp", "Phillips"], "postal_code": "04966", "lat": 44.840352, "lng": -70.37235, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]});

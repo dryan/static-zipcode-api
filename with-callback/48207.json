@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.352837, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Detroit", "lng": -83.02449, "zip_code": "48207"});
+zipapicallback({"locality": "Detroit", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit"], "postal_code": "48207", "lat": 42.352837, "lng": -83.02449, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]});

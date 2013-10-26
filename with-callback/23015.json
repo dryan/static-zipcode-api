@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.931011, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Beaverdam", "lng": -77.64296, "zip_code": "23015"});
+zipapicallback({"locality": "Beaverdam", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Beaverdam"], "postal_code": "23015", "lat": 37.931011, "lng": -77.64296, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hanover"}]});

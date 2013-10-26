@@ -1,1 +1,1 @@
-{"lat": 48.030848, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Springdale", "lng": -117.79563, "zip_code": "99173"}
+{"locality": "Springdale", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Springdale"], "postal_code": "99173", "lat": 48.030848, "lng": -117.79563, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}]}

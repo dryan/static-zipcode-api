@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.130213, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Doran", "lng": -96.40019, "zip_code": "56522"});
+zipapicallback({"locality": "Campbell", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Campbell", "Doran"], "postal_code": "56522", "lat": 46.130213, "lng": -96.40019, "type": "STANDARD", "counties": [{"fips": "167", "name": "Wilkin"}, {"fips": "111", "name": "Otter Tail"}, {"fips": "051", "name": "Grant"}]});

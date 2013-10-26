@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.405334, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mesick", "lng": -85.71981, "zip_code": "49668"});
+zipapicallback({"locality": "Mesick", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mesick"], "postal_code": "49668", "lat": 44.405334, "lng": -85.71981, "type": "STANDARD", "counties": [{"fips": "165", "name": "Wexford"}, {"fips": "101", "name": "Manistee"}]});

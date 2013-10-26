@@ -1,1 +1,1 @@
-{"lat": 40.149486, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ogden", "lng": -87.96347, "zip_code": "61859"}
+{"locality": "Ogden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ogden"], "postal_code": "61859", "lat": 40.149486, "lng": -87.96347, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]}

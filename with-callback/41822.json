@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.333551, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hindman", "lng": -82.97212, "zip_code": "41822"});
+zipapicallback({"locality": "Hindman", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Brinkley", "Hindman"], "postal_code": "41822", "lat": 37.333551, "lng": -82.97212, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]});

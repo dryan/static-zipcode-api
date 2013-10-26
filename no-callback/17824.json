@@ -1,1 +1,1 @@
-{"lat": 40.848885, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Elysburg", "lng": -76.53547, "zip_code": "17824"}
+{"locality": "Elysburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Elysburg"], "postal_code": "17824", "lat": 40.848885, "lng": -76.53547, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}, {"fips": "037", "name": "Columbia"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.997908, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Mount Carmel", "lng": -82.51411, "zip_code": "29840"});
+zipapicallback({"locality": "Mount Carmel", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Mount Carmel"], "postal_code": "29840", "lat": 33.997908, "lng": -82.51411, "type": "STANDARD", "counties": [{"fips": "065", "name": "McCormick"}]});

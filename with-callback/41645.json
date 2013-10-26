@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.544465, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Langley", "lng": -82.80178, "zip_code": "41645"});
+zipapicallback({"locality": "Langley", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Langley"], "postal_code": "41645", "lat": 37.544465, "lng": -82.80178, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

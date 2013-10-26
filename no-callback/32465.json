@@ -1,1 +1,1 @@
-{"lat": 30.045471, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Wewahitchka", "lng": -85.22822, "zip_code": "32465"}
+{"locality": "Wewahitchka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Wewahitchka"], "postal_code": "32465", "lat": 30.045471, "lng": -85.22822, "type": "STANDARD", "counties": [{"fips": "045", "name": "Gulf"}]}

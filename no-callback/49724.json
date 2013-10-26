@@ -1,1 +1,1 @@
-{"lat": 46.33614, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dafter", "lng": -84.43525, "zip_code": "49724"}
+{"locality": "Dafter", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dafter"], "postal_code": "49724", "lat": 46.33614, "lng": -84.43525, "type": "STANDARD", "counties": [{"fips": "033", "name": "Chippewa"}]}

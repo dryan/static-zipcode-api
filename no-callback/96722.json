@@ -1,1 +1,1 @@
-{"lat": 22.223635, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Princeville", "lng": -159.49025, "zip_code": "96722"}
+{"locality": "Princeville", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Princeville"], "postal_code": "96722", "lat": 22.223635, "lng": -159.49025, "type": "STANDARD", "counties": [{"fips": "007", "name": "Kauai"}]}

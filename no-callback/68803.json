@@ -1,1 +1,1 @@
-{"lat": 40.916866, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Grand Island", "lng": -98.38749, "zip_code": "68803"}
+{"locality": "Grand Island", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Grand Island"], "postal_code": "68803", "lat": 40.916866, "lng": -98.38749, "type": "STANDARD", "counties": [{"fips": "079", "name": "Hall"}, {"fips": "093", "name": "Howard"}]}

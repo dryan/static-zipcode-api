@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.740696, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Capulin", "lng": -103.99329, "zip_code": "88414"});
+zipapicallback({"locality": "Capulin", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Capulin"], "postal_code": "88414", "lat": 36.740696, "lng": -103.99329, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.128112, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lawn", "lng": -99.7639, "zip_code": "79530"}
+{"locality": "Lawn", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lawn"], "postal_code": "79530", "lat": 32.128112, "lng": -99.7639, "type": "STANDARD", "counties": [{"fips": "441", "name": "Taylor"}, {"fips": "399", "name": "Runnels"}]}

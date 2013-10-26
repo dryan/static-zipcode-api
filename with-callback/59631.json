@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.231547, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Basin", "lng": -112.34456, "zip_code": "59631"});
+zipapicallback({"locality": "Basin", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Basin"], "postal_code": "59631", "lat": 46.231547, "lng": -112.34456, "type": "POBOX", "counties": [{"fips": "043", "name": "Jefferson"}]});

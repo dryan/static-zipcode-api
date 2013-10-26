@@ -1,1 +1,1 @@
-{"lat": 41.990295, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Vining", "lng": -92.38059, "zip_code": "52348"}
+{"locality": "Vining", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Vining"], "postal_code": "52348", "lat": 41.990295, "lng": -92.38059, "type": "POBOX", "counties": [{"fips": "171", "name": "Tama"}]}

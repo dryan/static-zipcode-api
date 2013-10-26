@@ -1,1 +1,1 @@
-{"lat": 30.98676, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Cottonport", "lng": -92.04319, "zip_code": "71327"}
+{"locality": "Cottonport", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Cottonport"], "postal_code": "71327", "lat": 30.98676, "lng": -92.04319, "type": "STANDARD", "counties": [{"fips": "009", "name": "Avoyelles"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.041416, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Colbert", "lng": -83.21997, "zip_code": "30628"});
+zipapicallback({"locality": "Colbert", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Colbert"], "postal_code": "30628", "lat": 34.041416, "lng": -83.21997, "type": "STANDARD", "counties": [{"fips": "195", "name": "Madison"}, {"fips": "221", "name": "Oglethorpe"}]});

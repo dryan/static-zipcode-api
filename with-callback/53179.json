@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.515668, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Trevor", "lng": -88.13454, "zip_code": "53179"});
+zipapicallback({"locality": "Trevor", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Trevor"], "postal_code": "53179", "lat": 42.515668, "lng": -88.13454, "type": "STANDARD", "counties": [{"fips": "059", "name": "Kenosha"}]});

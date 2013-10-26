@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.542536, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gary", "lng": -87.3581, "zip_code": "46408"});
+zipapicallback({"locality": "Gary", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gary"], "postal_code": "46408", "lat": 41.542536, "lng": -87.3581, "type": "STANDARD", "counties": [{"fips": "089", "name": "Lake"}]});

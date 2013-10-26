@@ -1,1 +1,1 @@
-{"lat": 44.369557, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Searsmont", "lng": -69.1882, "zip_code": "04973"}
+{"locality": "Searsmont", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Searsmont"], "postal_code": "04973", "lat": 44.369557, "lng": -69.1882, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]}

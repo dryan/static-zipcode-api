@@ -1,1 +1,1 @@
-{"lat": 34.106965, "region": {"abbr": "CA", "name": "California"}, "locality": "San Bernardino", "lng": -117.2975, "zip_code": "92410"}
+{"locality": "San Bernardino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Bernardino", "Sn Bernrdno"], "postal_code": "92410", "lat": 34.106965, "lng": -117.2975, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

@@ -1,1 +1,1 @@
-{"lat": 47.077257, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Beach", "lng": -103.93051, "zip_code": "58621"}
+{"locality": "Beach", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Beach", "Trotters"], "postal_code": "58621", "lat": 47.077257, "lng": -103.93051, "type": "STANDARD", "counties": [{"fips": "033", "name": "Golden Valley"}, {"fips": "053", "name": "McKenzie"}]}

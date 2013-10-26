@@ -1,1 +1,1 @@
-{"lat": 47.365882, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Haugan", "lng": -115.49151, "zip_code": "59842"}
+{"locality": "Haugan", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Haugan"], "postal_code": "59842", "lat": 47.365882, "lng": -115.49151, "type": "POBOX", "counties": [{"fips": "061", "name": "Mineral"}]}

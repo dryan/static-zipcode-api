@@ -1,1 +1,1 @@
-{"lat": 25.431506, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Florida City", "lng": -80.51382, "zip_code": "33034"}
+{"locality": "Homestead", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Flamingo Ldge", "Flamingo Lodge", "Florida City", "Homestead"], "postal_code": "33034", "lat": 25.431506, "lng": -80.51382, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

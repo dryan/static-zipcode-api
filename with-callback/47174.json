@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.210303, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Sulphur", "lng": -86.46657, "zip_code": "47174"});
+zipapicallback({"locality": "Sulphur", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Sulphur"], "postal_code": "47174", "lat": 38.210303, "lng": -86.46657, "type": "STANDARD", "counties": [{"fips": "025", "name": "Crawford"}]});

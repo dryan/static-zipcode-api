@@ -1,1 +1,1 @@
-{"lat": 42.739447, "region": {"abbr": "NY", "name": "New York"}, "locality": "Warsaw", "lng": -78.15948, "zip_code": "14569"}
+{"locality": "Warsaw", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Warsaw"], "postal_code": "14569", "lat": 42.739447, "lng": -78.15948, "type": "STANDARD", "counties": [{"fips": "121", "name": "Wyoming"}]}

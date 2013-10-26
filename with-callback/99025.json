@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.751434, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Newman Lake", "lng": -117.06934, "zip_code": "99025"});
+zipapicallback({"locality": "Newman Lake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Newman Lake"], "postal_code": "99025", "lat": 47.751434, "lng": -117.06934, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]});

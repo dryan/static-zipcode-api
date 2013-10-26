@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.575888, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Coleharbor", "lng": -101.19002, "zip_code": "58531"});
+zipapicallback({"locality": "Coleharbor", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Coleharbor"], "postal_code": "58531", "lat": 47.575888, "lng": -101.19002, "type": "STANDARD", "counties": [{"fips": "055", "name": "McLean"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.372202, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Galva", "lng": -97.53229, "zip_code": "67443"});
+zipapicallback({"locality": "Galva", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Galva"], "postal_code": "67443", "lat": 38.372202, "lng": -97.53229, "type": "STANDARD", "counties": [{"fips": "113", "name": "McPherson"}]});

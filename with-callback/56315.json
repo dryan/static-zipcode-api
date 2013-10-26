@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.968739, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brandon", "lng": -95.5942, "zip_code": "56315"});
+zipapicallback({"locality": "Brandon", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brandon", "Millerville"], "postal_code": "56315", "lat": 45.968739, "lng": -95.5942, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}, {"fips": "111", "name": "Otter Tail"}]});

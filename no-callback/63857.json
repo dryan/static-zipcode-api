@@ -1,1 +1,1 @@
-{"lat": 36.237128, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kennett", "lng": -90.04866, "zip_code": "63857"}
+{"locality": "Kennett", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kennett"], "postal_code": "63857", "lat": 36.237128, "lng": -90.04866, "type": "STANDARD", "counties": [{"fips": "069", "name": "Dunklin"}, {"fips": "155", "name": "Pemiscot"}]}

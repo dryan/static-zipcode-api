@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.231091, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Skytop", "lng": -75.23884, "zip_code": "18357"});
+zipapicallback({"locality": "Skytop", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Skytop"], "postal_code": "18357", "lat": 41.231091, "lng": -75.23884, "type": "POBOX", "counties": [{"fips": "089", "name": "Monroe"}]});

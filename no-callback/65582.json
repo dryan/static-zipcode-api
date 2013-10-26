@@ -1,1 +1,1 @@
-{"lat": 38.175146, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Vienna", "lng": -91.94655, "zip_code": "65582"}
+{"locality": "Vienna", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Vienna"], "postal_code": "65582", "lat": 38.175146, "lng": -91.94655, "type": "STANDARD", "counties": [{"fips": "125", "name": "Maries"}, {"fips": "151", "name": "Osage"}]}

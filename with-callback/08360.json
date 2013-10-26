@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.492265, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Vineland", "lng": -75.01887, "zip_code": "08360"});
+zipapicallback({"locality": "Vineland", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Vineland"], "postal_code": "08360", "lat": 39.492265, "lng": -75.01887, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cumberland"}, {"fips": "001", "name": "Atlantic"}, {"fips": "015", "name": "Gloucester"}]});

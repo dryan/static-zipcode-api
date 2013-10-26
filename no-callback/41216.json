@@ -1,1 +1,1 @@
-{"lat": 37.756007, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "East Point", "lng": -82.81931, "zip_code": "41216"}
+{"locality": "East Point", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["East Point"], "postal_code": "41216", "lat": 37.756007, "lng": -82.81931, "type": "STANDARD", "counties": [{"fips": "115", "name": "Johnson"}, {"fips": "071", "name": "Floyd"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.085986, "region": {"abbr": "CA", "name": "California"}, "locality": "Davenport", "lng": -122.22638, "zip_code": "95017"}
+{"locality": "Davenport", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Davenport"], "postal_code": "95017", "lat": 37.085986, "lng": -122.22638, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}]}

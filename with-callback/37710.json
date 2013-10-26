@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.15231, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Devonia", "lng": -84.28968, "zip_code": "37710"});
+zipapicallback({"locality": "Briceville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Briceville", "Devonia"], "postal_code": "37710", "lat": 36.15231, "lng": -84.28968, "type": "STANDARD", "counties": [{"fips": "001", "name": "Anderson"}]});

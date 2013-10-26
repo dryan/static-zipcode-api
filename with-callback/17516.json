@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.938255, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Conestoga", "lng": -76.36066, "zip_code": "17516"});
+zipapicallback({"locality": "Conestoga", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Conestoga"], "postal_code": "17516", "lat": 39.938255, "lng": -76.36066, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

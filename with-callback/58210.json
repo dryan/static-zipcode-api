@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.391059, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Adams", "lng": -98.11173, "zip_code": "58210"});
+zipapicallback({"locality": "Adams", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Adams"], "postal_code": "58210", "lat": 48.391059, "lng": -98.11173, "type": "STANDARD", "counties": [{"fips": "099", "name": "Walsh"}]});

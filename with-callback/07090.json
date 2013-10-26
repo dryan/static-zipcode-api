@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.649202, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Westfield", "lng": -74.34567, "zip_code": "07090"});
+zipapicallback({"locality": "Westfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Westfield"], "postal_code": "07090", "lat": 40.649202, "lng": -74.34567, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}, {"fips": "039", "name": "Union"}]});

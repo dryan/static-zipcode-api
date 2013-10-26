@@ -1,1 +1,1 @@
-{"lat": 45.081266, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "White Bear Lake", "lng": -93.01146, "zip_code": "55110"}
+{"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dellwood", "Saint Paul", "Vadnais Heights", "Vadnais Hts", "White Bear Lake", "White Bear Lk", "White Bear Township", "White Bear Tp"], "postal_code": "55110", "lat": 45.081266, "lng": -93.01146, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anoka"}, {"fips": "123", "name": "Ramsey"}, {"fips": "163", "name": "Washington"}]}

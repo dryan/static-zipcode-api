@@ -1,1 +1,1 @@
-{"lat": 43.557529, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Dubois", "lng": -109.70709, "zip_code": "82513"}
+{"locality": "Dubois", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Dubois"], "postal_code": "82513", "lat": 43.557529, "lng": -109.70709, "type": "STANDARD", "counties": [{"fips": "013", "name": "Fremont"}]}

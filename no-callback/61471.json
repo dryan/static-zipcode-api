@@ -1,1 +1,1 @@
-{"lat": 40.696535, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Raritan", "lng": -90.82607, "zip_code": "61471"}
+{"locality": "Raritan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Raritan"], "postal_code": "61471", "lat": 40.696535, "lng": -90.82607, "type": "POBOX", "counties": [{"fips": "071", "name": "Henderson"}]}

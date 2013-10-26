@@ -1,1 +1,1 @@
-{"lat": 36.930995, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Gray", "lng": -83.98146, "zip_code": "40734"}
+{"locality": "Gray", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Gray"], "postal_code": "40734", "lat": 36.930995, "lng": -83.98146, "type": "STANDARD", "counties": [{"fips": "121", "name": "Knox"}]}

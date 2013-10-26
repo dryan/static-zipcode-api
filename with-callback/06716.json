@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.594785, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Wolcott", "lng": -72.97889, "zip_code": "06716"});
+zipapicallback({"locality": "Wolcott", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Waterbury", "Wolcott"], "postal_code": "06716", "lat": 41.594785, "lng": -72.97889, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]});

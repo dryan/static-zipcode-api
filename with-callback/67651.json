@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.202987, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Natoma", "lng": -99.04018, "zip_code": "67651"});
+zipapicallback({"locality": "Natoma", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Natoma"], "postal_code": "67651", "lat": 39.202987, "lng": -99.04018, "type": "STANDARD", "counties": [{"fips": "141", "name": "Osborne"}, {"fips": "167", "name": "Russell"}, {"fips": "051", "name": "Ellis"}, {"fips": "163", "name": "Rooks"}]});

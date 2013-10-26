@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.725834, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Harrisburg", "lng": -88.54208, "zip_code": "62946"});
+zipapicallback({"locality": "Harrisburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Harrisburg"], "postal_code": "62946", "lat": 37.725834, "lng": -88.54208, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}, {"fips": "151", "name": "Pope"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.337092, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Harpersville", "lng": -86.44085, "zip_code": "35078"});
+zipapicallback({"locality": "Harpersville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Harpersville"], "postal_code": "35078", "lat": 33.337092, "lng": -86.44085, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}, {"fips": "017", "name": "Chambers"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.788898, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Abrams", "lng": -88.04535, "zip_code": "54101"}
+{"locality": "Abrams", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Abrams"], "postal_code": "54101", "lat": 44.788898, "lng": -88.04535, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}]}

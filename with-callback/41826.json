@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.164562, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Jeremiah", "lng": -82.93047, "zip_code": "41826"});
+zipapicallback({"locality": "Jeremiah", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Jeremiah"], "postal_code": "41826", "lat": 37.164562, "lng": -82.93047, "type": "STANDARD", "counties": [{"fips": "133", "name": "Letcher"}]});

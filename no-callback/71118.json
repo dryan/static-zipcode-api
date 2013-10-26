@@ -1,1 +1,1 @@
-{"lat": 32.397255, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Shreveport", "lng": -93.8043, "zip_code": "71118"}
+{"locality": "Shreveport", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Shreveport"], "postal_code": "71118", "lat": 32.397255, "lng": -93.8043, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]}

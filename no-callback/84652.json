@@ -1,1 +1,1 @@
-{"lat": 38.974463, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Redmond", "lng": -111.92215, "zip_code": "84652"}
+{"locality": "Redmond", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Redmond"], "postal_code": "84652", "lat": 38.974463, "lng": -111.92215, "type": "POBOX", "counties": [{"fips": "041", "name": "Sevier"}]}

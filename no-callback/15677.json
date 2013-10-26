@@ -1,1 +1,1 @@
-{"lat": 40.175368, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rector", "lng": -79.23651, "zip_code": "15677"}
+{"locality": "Rector", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Rector"], "postal_code": "15677", "lat": 40.175368, "lng": -79.23651, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

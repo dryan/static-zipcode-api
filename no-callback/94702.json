@@ -1,1 +1,1 @@
-{"lat": 37.865026, "region": {"abbr": "CA", "name": "California"}, "locality": "Berkeley", "lng": -122.2859, "zip_code": "94702"}
+{"locality": "Berkeley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Berkeley"], "postal_code": "94702", "lat": 37.865026, "lng": -122.2859, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

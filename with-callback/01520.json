@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.338962, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Holden", "lng": -71.84434, "zip_code": "01520"});
+zipapicallback({"locality": "Holden", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Holden"], "postal_code": "01520", "lat": 42.338962, "lng": -71.84434, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]});

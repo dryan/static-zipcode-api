@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.27471, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bragg City", "lng": -89.87346, "zip_code": "63827"});
+zipapicallback({"locality": "Bragg City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bragg City"], "postal_code": "63827", "lat": 36.27471, "lng": -89.87346, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pemiscot"}]});

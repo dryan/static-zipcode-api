@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.048423, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Tannersville", "lng": -75.31865, "zip_code": "18372"});
+zipapicallback({"locality": "Tannersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Tannersville"], "postal_code": "18372", "lat": 41.048423, "lng": -75.31865, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

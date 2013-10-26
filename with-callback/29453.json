@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.235105, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Shulerville", "lng": -79.61472, "zip_code": "29453"});
+zipapicallback({"locality": "Jamestown", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Jamestown", "Shulerville"], "postal_code": "29453", "lat": 33.235105, "lng": -79.61472, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]});

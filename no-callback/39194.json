@@ -1,1 +1,1 @@
-{"lat": 32.855811, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Yazoo City", "lng": -90.4497, "zip_code": "39194"}
+{"locality": "Yazoo City", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Yazoo City"], "postal_code": "39194", "lat": 32.855811, "lng": -90.4497, "type": "STANDARD", "counties": [{"fips": "163", "name": "Yazoo"}, {"fips": "053", "name": "Humphreys"}]}

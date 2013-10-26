@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.812635, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cooleemee", "lng": -80.55724, "zip_code": "27014"});
+zipapicallback({"locality": "Cooleemee", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cooleemee"], "postal_code": "27014", "lat": 35.812635, "lng": -80.55724, "type": "POBOX", "counties": [{"fips": "059", "name": "Davie"}]});

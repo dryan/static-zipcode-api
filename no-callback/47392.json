@@ -1,1 +1,1 @@
-{"lat": 39.903236, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Webster", "lng": -84.94334, "zip_code": "47392"}
+{"locality": "Webster", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Webster"], "postal_code": "47392", "lat": 39.903236, "lng": -84.94334, "type": "STANDARD", "counties": [{"fips": "177", "name": "Wayne"}]}

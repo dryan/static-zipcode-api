@@ -1,1 +1,1 @@
-{"lat": 39.676558, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chatham", "lng": -89.69902, "zip_code": "62629"}
+{"locality": "Chatham", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chatham"], "postal_code": "62629", "lat": 39.676558, "lng": -89.69902, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]}

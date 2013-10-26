@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.83902, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "North Scituate", "lng": -71.6257, "zip_code": "02857"});
+zipapicallback({"locality": "North Scituate", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["N Scituate", "North Scituate", "Scituate"], "postal_code": "02857", "lat": 41.83902, "lng": -71.6257, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]});

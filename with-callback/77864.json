@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.956147, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Madisonville", "lng": -95.91606, "zip_code": "77864"});
+zipapicallback({"locality": "Madisonville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Madisonville"], "postal_code": "77864", "lat": 30.956147, "lng": -95.91606, "type": "STANDARD", "counties": [{"fips": "313", "name": "Madison"}]});

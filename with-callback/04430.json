@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.631824, "region": {"abbr": "ME", "name": "Maine"}, "locality": "East Millinocket", "lng": -68.58178, "zip_code": "04430"});
+zipapicallback({"locality": "East Millinocket", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["E Millinocket", "East Millinocket"], "postal_code": "04430", "lat": 45.631824, "lng": -68.58178, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

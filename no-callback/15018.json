@@ -1,1 +1,1 @@
-{"lat": 40.266358, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Buena Vista", "lng": -79.79325, "zip_code": "15018"}
+{"locality": "Buena Vista", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Buena Vista"], "postal_code": "15018", "lat": 40.266358, "lng": -79.79325, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

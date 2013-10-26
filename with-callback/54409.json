@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.121666, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Antigo", "lng": -89.13388, "zip_code": "54409"});
+zipapicallback({"locality": "Antigo", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Antigo"], "postal_code": "54409", "lat": 45.121666, "lng": -89.13388, "type": "STANDARD", "counties": [{"fips": "067", "name": "Langlade"}, {"fips": "073", "name": "Marathon"}, {"fips": "115", "name": "Shawano"}]});

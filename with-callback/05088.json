@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.676947, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Wilder", "lng": -72.3082, "zip_code": "05088"});
+zipapicallback({"locality": "Wilder", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Wilder"], "postal_code": "05088", "lat": 43.676947, "lng": -72.3082, "type": "POBOX", "counties": [{"fips": "027", "name": "Windsor"}]});

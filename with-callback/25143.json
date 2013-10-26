@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.417852, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Nitro", "lng": -81.8321, "zip_code": "25143"});
+zipapicallback({"locality": "Nitro", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Nitro"], "postal_code": "25143", "lat": 38.417852, "lng": -81.8321, "type": "STANDARD", "counties": [{"fips": "039", "name": "Kanawha"}, {"fips": "079", "name": "Putnam"}]});

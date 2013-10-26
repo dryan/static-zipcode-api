@@ -1,1 +1,1 @@
-{"lat": 41.4376, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Saint Marys", "lng": -78.54272, "zip_code": "15857"}
+{"locality": "Saint Marys", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Saint Marys"], "postal_code": "15857", "lat": 41.4376, "lng": -78.54272, "type": "STANDARD", "counties": [{"fips": "047", "name": "Elk"}]}

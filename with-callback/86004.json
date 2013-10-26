@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.253002, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Flagstaff", "lng": -111.44851, "zip_code": "86004"});
+zipapicallback({"locality": "Flagstaff", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Flagstaff"], "postal_code": "86004", "lat": 35.253002, "lng": -111.44851, "type": "STANDARD", "counties": [{"fips": "005", "name": "Coconino"}]});

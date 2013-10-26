@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.37956, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Moca", "lng": -67.08424, "zip_code": "00676"});
+zipapicallback({"locality": "Moca", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Moca"], "postal_code": "00676", "lat": 18.37956, "lng": -67.08424, "type": "STANDARD", "counties": []});

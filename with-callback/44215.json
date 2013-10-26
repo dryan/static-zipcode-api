@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.069151, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Chippewa Lake", "lng": -81.90358, "zip_code": "44215"});
+zipapicallback({"locality": "Chippewa Lake", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Chippewa Lake", "Medina"], "postal_code": "44215", "lat": 41.069151, "lng": -81.90358, "type": "STANDARD", "counties": [{"fips": "103", "name": "Medina"}]});

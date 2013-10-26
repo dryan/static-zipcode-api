@@ -1,1 +1,1 @@
-{"lat": 41.337187, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Hiram", "lng": -81.16699, "zip_code": "44234"}
+{"locality": "Hiram", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Hiram"], "postal_code": "44234", "lat": 41.337187, "lng": -81.16699, "type": "STANDARD", "counties": [{"fips": "133", "name": "Portage"}, {"fips": "055", "name": "Geauga"}]}

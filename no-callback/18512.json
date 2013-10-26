@@ -1,1 +1,1 @@
-{"lat": 41.427199, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dunmore", "lng": -75.61821, "zip_code": "18512"}
+{"locality": "Scranton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dunmore", "Scranton", "Throop"], "postal_code": "18512", "lat": 41.427199, "lng": -75.61821, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]}

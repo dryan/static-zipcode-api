@@ -1,1 +1,1 @@
-{"lat": 31.567171, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jack", "lng": -85.93102, "zip_code": "36346"}
+{"locality": "Jack", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jack"], "postal_code": "36346", "lat": 31.567171, "lng": -85.93102, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}]}

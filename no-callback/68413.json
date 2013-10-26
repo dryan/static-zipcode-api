@@ -1,1 +1,1 @@
-{"lat": 40.833188, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Nehawka", "lng": -96.00315, "zip_code": "68413"}
+{"locality": "Nehawka", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Nehawka"], "postal_code": "68413", "lat": 40.833188, "lng": -96.00315, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}, {"fips": "131", "name": "Otoe"}]}

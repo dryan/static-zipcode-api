@@ -1,1 +1,1 @@
-{"lat": 43.852619, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "North Thetford", "lng": -72.18798, "zip_code": "05054"}
+{"locality": "North Thetford", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["N Thetford", "North Thetford"], "postal_code": "05054", "lat": 43.852619, "lng": -72.18798, "type": "POBOX", "counties": [{"fips": "017", "name": "Orange"}]}

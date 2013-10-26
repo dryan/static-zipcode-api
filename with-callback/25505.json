@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.009633, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Big Creek", "lng": -82.04481, "zip_code": "25505"});
+zipapicallback({"locality": "Big Creek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Big Creek"], "postal_code": "25505", "lat": 38.009633, "lng": -82.04481, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}]});

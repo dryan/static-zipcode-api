@@ -1,1 +1,1 @@
-{"lat": 42.702128, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Okemos", "lng": -84.41946, "zip_code": "48864"}
+{"locality": "Okemos", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Okemos"], "postal_code": "48864", "lat": 42.702128, "lng": -84.41946, "type": "STANDARD", "counties": [{"fips": "065", "name": "Ingham"}]}

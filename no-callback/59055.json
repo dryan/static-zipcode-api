@@ -1,1 +1,1 @@
-{"lat": 46.13263, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Melville", "lng": -109.89746, "zip_code": "59055"}
+{"locality": "Melville", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Melville"], "postal_code": "59055", "lat": 46.13263, "lng": -109.89746, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sweet Grass"}]}

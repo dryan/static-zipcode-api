@@ -1,1 +1,1 @@
-{"lat": 37.559878, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "West Point", "lng": -76.83018, "zip_code": "23181"}
+{"locality": "West Point", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Cologne", "West Point"], "postal_code": "23181", "lat": 37.559878, "lng": -76.83018, "type": "STANDARD", "counties": [{"fips": "101", "name": "King William"}]}

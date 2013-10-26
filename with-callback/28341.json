@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.119076, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Faison", "lng": -78.16439, "zip_code": "28341"});
+zipapicallback({"locality": "Faison", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Faison"], "postal_code": "28341", "lat": 35.119076, "lng": -78.16439, "type": "STANDARD", "counties": [{"fips": "061", "name": "Duplin"}]});

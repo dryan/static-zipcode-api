@@ -1,1 +1,1 @@
-{"lat": 28.169309, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tynan", "lng": -97.75404, "zip_code": "78391"}
+{"locality": "Tynan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tynan"], "postal_code": "78391", "lat": 28.169309, "lng": -97.75404, "type": "STANDARD", "counties": [{"fips": "025", "name": "Bee"}]}

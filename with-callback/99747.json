@@ -1,1 +1,1 @@
-zipapicallback({"lat": 70.13346, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kaktovik", "lng": -143.62436, "zip_code": "99747"});
+zipapicallback({"locality": "Kaktovik", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kaktovik"], "postal_code": "99747", "lat": 70.13346, "lng": -143.62436, "type": "POBOX", "counties": [{"fips": "185", "name": "North Slope"}]});

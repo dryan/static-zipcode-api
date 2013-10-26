@@ -1,1 +1,1 @@
-{"lat": 29.152396, "region": {"abbr": "TX", "name": "Texas"}, "locality": "West Columbia", "lng": -95.66319, "zip_code": "77486"}
+{"locality": "West Columbia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["West Columbia"], "postal_code": "77486", "lat": 29.152396, "lng": -95.66319, "type": "STANDARD", "counties": [{"fips": "039", "name": "Brazoria"}]}

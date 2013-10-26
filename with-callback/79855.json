@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.099326, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Kent", "lng": -104.69511, "zip_code": "79855"});
+zipapicallback({"locality": "Van Horn", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kent", "Van Horn"], "postal_code": "79855", "lat": 31.099326, "lng": -104.69511, "type": "POBOX", "counties": [{"fips": "109", "name": "Culberson"}]});

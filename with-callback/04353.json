@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.209878, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Whitefield", "lng": -69.60427, "zip_code": "04353"});
+zipapicallback({"locality": "Whitefield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Whitefield"], "postal_code": "04353", "lat": 44.209878, "lng": -69.60427, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lincoln"}]});

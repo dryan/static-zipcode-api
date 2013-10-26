@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.592182, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Hiko", "lng": -115.28676, "zip_code": "89017"});
+zipapicallback({"locality": "Hiko", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Hiko"], "postal_code": "89017", "lat": 37.592182, "lng": -115.28676, "type": "STANDARD", "counties": [{"fips": "017", "name": "Lincoln"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.500385, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Condon", "lng": -113.72687, "zip_code": "59826"}
+{"locality": "Condon", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Condon"], "postal_code": "59826", "lat": 47.500385, "lng": -113.72687, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}]}

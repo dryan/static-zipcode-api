@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.103341, "region": {"abbr": "CA", "name": "California"}, "locality": "San Dimas", "lng": -117.81814, "zip_code": "91773"});
+zipapicallback({"locality": "San Dimas", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Dimas"], "postal_code": "91773", "lat": 34.103341, "lng": -117.81814, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

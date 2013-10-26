@@ -1,1 +1,1 @@
-{"lat": 41.644833, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Honeyville", "lng": -112.09427, "zip_code": "84314"}
+{"locality": "Honeyville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Honeyville"], "postal_code": "84314", "lat": 41.644833, "lng": -112.09427, "type": "STANDARD", "counties": [{"fips": "003", "name": "Box Elder"}]}

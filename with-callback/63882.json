@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.911648, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wyatt", "lng": -89.22208, "zip_code": "63882"});
+zipapicallback({"locality": "Wyatt", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wyatt"], "postal_code": "63882", "lat": 36.911648, "lng": -89.22208, "type": "POBOX", "counties": [{"fips": "133", "name": "Mississippi"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.421799, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bridgewater", "lng": -67.89417, "zip_code": "04735"}
+{"locality": "Bridgewater", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bridgewater"], "postal_code": "04735", "lat": 46.421799, "lng": -67.89417, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

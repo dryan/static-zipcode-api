@@ -1,1 +1,1 @@
-{"lat": 38.245298, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Canvas", "lng": -80.75434, "zip_code": "26662"}
+{"locality": "Canvas", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Canvas"], "postal_code": "26662", "lat": 38.245298, "lng": -80.75434, "type": "STANDARD", "counties": [{"fips": "067", "name": "Nicholas"}]}

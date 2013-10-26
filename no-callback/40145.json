@@ -1,1 +1,1 @@
-{"lat": 37.652706, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hudson", "lng": -86.3173, "zip_code": "40145"}
+{"locality": "Hudson", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hudson"], "postal_code": "40145", "lat": 37.652706, "lng": -86.3173, "type": "STANDARD", "counties": [{"fips": "027", "name": "Breckinridge"}]}

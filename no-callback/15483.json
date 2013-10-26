@@ -1,1 +1,1 @@
-{"lat": 40.081257, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Stockdale", "lng": -79.85174, "zip_code": "15483"}
+{"locality": "Stockdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Stockdale"], "postal_code": "15483", "lat": 40.081257, "lng": -79.85174, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]}

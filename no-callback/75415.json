@@ -1,1 +1,1 @@
-{"lat": 33.460447, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ben Franklin", "lng": -95.75734, "zip_code": "75415"}
+{"locality": "Ben Franklin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ben Franklin"], "postal_code": "75415", "lat": 33.460447, "lng": -95.75734, "type": "STANDARD", "counties": [{"fips": "119", "name": "Delta"}]}

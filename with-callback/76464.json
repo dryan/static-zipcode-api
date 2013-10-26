@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.57665, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Moran", "lng": -99.18511, "zip_code": "76464"});
+zipapicallback({"locality": "Moran", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Moran"], "postal_code": "76464", "lat": 32.57665, "lng": -99.18511, "type": "STANDARD", "counties": [{"fips": "417", "name": "Shackelford"}, {"fips": "429", "name": "Stephens"}, {"fips": "059", "name": "Callahan"}]});

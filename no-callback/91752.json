@@ -1,1 +1,1 @@
-{"lat": 34.001846, "region": {"abbr": "CA", "name": "California"}, "locality": "Mira Loma", "lng": -117.52759, "zip_code": "91752"}
+{"locality": "Mira Loma", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Eastvale", "Mira Loma"], "postal_code": "91752", "lat": 34.001846, "lng": -117.52759, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]}

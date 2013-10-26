@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.978787, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ramage", "lng": -81.81354, "zip_code": "25114"});
+zipapicallback({"locality": "Jeffrey", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Jeffrey", "Ramage"], "postal_code": "25114", "lat": 37.978787, "lng": -81.81354, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]});

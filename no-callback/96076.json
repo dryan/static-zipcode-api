@@ -1,1 +1,1 @@
-{"lat": 40.366349, "region": {"abbr": "CA", "name": "California"}, "locality": "Wildwood", "lng": -122.94566, "zip_code": "96076"}
+{"locality": "Platina", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Platina", "Wildwood"], "postal_code": "96076", "lat": 40.366349, "lng": -122.94566, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]}

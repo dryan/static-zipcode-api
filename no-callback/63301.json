@@ -1,1 +1,1 @@
-{"lat": 38.808583, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Saint Charles", "lng": -90.50687, "zip_code": "63301"}
+{"locality": "Saint Charles", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Charles"], "postal_code": "63301", "lat": 38.808583, "lng": -90.50687, "type": "STANDARD", "counties": [{"fips": "183", "name": "St Charles"}]}

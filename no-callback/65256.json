@@ -1,1 +1,1 @@
-{"lat": 39.137047, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Harrisburg", "lng": -92.45914, "zip_code": "65256"}
+{"locality": "Harrisburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Harrisburg"], "postal_code": "65256", "lat": 39.137047, "lng": -92.45914, "type": "STANDARD", "counties": [{"fips": "019", "name": "Boone"}, {"fips": "089", "name": "Howard"}]}

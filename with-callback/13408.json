@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.923334, "region": {"abbr": "NY", "name": "New York"}, "locality": "Morrisville", "lng": -75.66314, "zip_code": "13408"});
+zipapicallback({"locality": "Morrisville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Morrisville"], "postal_code": "13408", "lat": 42.923334, "lng": -75.66314, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.714179, "region": {"abbr": "CA", "name": "California"}, "locality": "Dublin", "lng": -121.92567, "zip_code": "94568"});
+zipapicallback({"locality": "Dublin", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dublin", "Pleasanton"], "postal_code": "94568", "lat": 37.714179, "lng": -121.92567, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

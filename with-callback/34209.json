@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.488866, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Palma Sola", "lng": -82.62737, "zip_code": "34209"});
+zipapicallback({"locality": "Bradenton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bradenton", "Palma Sola"], "postal_code": "34209", "lat": 27.488866, "lng": -82.62737, "type": "STANDARD", "counties": [{"fips": "081", "name": "Manatee"}]});

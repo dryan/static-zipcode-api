@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.027797, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Colebrook", "lng": -73.11835, "zip_code": "06021"});
+zipapicallback({"locality": "Colebrook", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Colebrook"], "postal_code": "06021", "lat": 42.027797, "lng": -73.11835, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

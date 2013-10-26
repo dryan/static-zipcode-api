@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.969624, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clayville", "lng": -75.22603, "zip_code": "13322"});
+zipapicallback({"locality": "Clayville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clayville"], "postal_code": "13322", "lat": 42.969624, "lng": -75.22603, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}, {"fips": "043", "name": "Herkimer"}]});

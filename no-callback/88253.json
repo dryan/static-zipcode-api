@@ -1,1 +1,1 @@
-{"lat": 32.954421, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Lake Arthur", "lng": -104.45187, "zip_code": "88253"}
+{"locality": "Lake Arthur", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lake Arthur"], "postal_code": "88253", "lat": 32.954421, "lng": -104.45187, "type": "STANDARD", "counties": [{"fips": "005", "name": "Chaves"}]}

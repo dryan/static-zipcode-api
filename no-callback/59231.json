@@ -1,1 +1,1 @@
-{"lat": 48.404667, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Saint Marie Cpu", "lng": -106.53357, "zip_code": "59231"}
+{"locality": "Saint Marie", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Glasgow", "Saint Marie"], "postal_code": "59231", "lat": 48.404667, "lng": -106.53357, "type": "POBOX", "counties": []}

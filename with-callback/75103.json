@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.532449, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Canton", "lng": -95.88, "zip_code": "75103"});
+zipapicallback({"locality": "Canton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Canton"], "postal_code": "75103", "lat": 32.532449, "lng": -95.88, "type": "STANDARD", "counties": [{"fips": "467", "name": "Van Zandt"}]});

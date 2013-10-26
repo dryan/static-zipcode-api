@@ -1,1 +1,1 @@
-{"lat": 31.058563, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hilltop Lakes", "lng": -96.15852, "zip_code": "77871"}
+{"locality": "Normangee", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hilltop Lakes", "Normangee"], "postal_code": "77871", "lat": 31.058563, "lng": -96.15852, "type": "STANDARD", "counties": [{"fips": "313", "name": "Madison"}]}

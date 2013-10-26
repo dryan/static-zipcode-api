@@ -1,1 +1,1 @@
-{"lat": 18.013353, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Ponce", "lng": -66.65218, "zip_code": "00728"}
+{"locality": "Ponce", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Ponce"], "postal_code": "00728", "lat": 18.013353, "lng": -66.65218, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 46.648121, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kahlotus", "lng": -118.55652, "zip_code": "99335"}
+{"locality": "Kahlotus", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kahlotus"], "postal_code": "99335", "lat": 46.648121, "lng": -118.55652, "type": "POBOX", "counties": [{"fips": "021", "name": "Franklin"}]}

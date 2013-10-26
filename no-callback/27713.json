@@ -1,1 +1,1 @@
-{"lat": 35.905765, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Research Triangl", "lng": -78.92113, "zip_code": "27713"}
+{"locality": "Durham", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Durham"], "postal_code": "27713", "lat": 35.905765, "lng": -78.92113, "type": "STANDARD", "counties": [{"fips": "063", "name": "Durham"}, {"fips": "053", "name": "Currituck"}]}

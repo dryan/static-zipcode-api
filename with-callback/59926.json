@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.36435, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Martin City", "lng": -113.98182, "zip_code": "59926"});
+zipapicallback({"locality": "Martin City", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Martin City"], "postal_code": "59926", "lat": 48.36435, "lng": -113.98182, "type": "STANDARD", "counties": [{"fips": "029", "name": "Flathead"}]});

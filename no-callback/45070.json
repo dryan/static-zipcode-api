@@ -1,1 +1,1 @@
-{"lat": 39.588878, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "West Elkton", "lng": -84.55562, "zip_code": "45070"}
+{"locality": "West Elkton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["West Elkton"], "postal_code": "45070", "lat": 39.588878, "lng": -84.55562, "type": "POBOX", "counties": [{"fips": "135", "name": "Preble"}]}

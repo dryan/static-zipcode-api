@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.579488, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Oklahoma City", "lng": -97.56496, "zip_code": "73120"});
+zipapicallback({"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nichols Hills", "Oklahoma City", "The Village", "Village"], "postal_code": "73120", "lat": 35.579488, "lng": -97.56496, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]});

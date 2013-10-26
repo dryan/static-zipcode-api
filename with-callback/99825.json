@@ -1,1 +1,1 @@
-zipapicallback({"lat": 58.068878, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Elfin Cove", "lng": -136.27833, "zip_code": "99825"});
+zipapicallback({"locality": "Elfin Cove", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Elfin Cove"], "postal_code": "99825", "lat": 58.068878, "lng": -136.27833, "type": "POBOX", "counties": [{"fips": "231", "name": "Skagway-Yakutat-Angoon"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.629637, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Timberon", "lng": -105.68663, "zip_code": "88350"}
+{"locality": "Timberon", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cloudcroft", "Timberon"], "postal_code": "88350", "lat": 32.629637, "lng": -105.68663, "type": "POBOX", "counties": [{"fips": "035", "name": "Otero"}]}

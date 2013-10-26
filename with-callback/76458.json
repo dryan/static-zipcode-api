@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.200265, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Jacksboro", "lng": -98.15778, "zip_code": "76458"});
+zipapicallback({"locality": "Jacksboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Jacksboro"], "postal_code": "76458", "lat": 33.200265, "lng": -98.15778, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 45.631637, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Eden", "lng": -97.36164, "zip_code": "57232"}
+{"locality": "Eden", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Eden"], "postal_code": "57232", "lat": 45.631637, "lng": -97.36164, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marshall"}, {"fips": "037", "name": "Day"}]}

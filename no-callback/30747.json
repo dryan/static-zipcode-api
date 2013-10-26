@@ -1,1 +1,1 @@
-{"lat": 34.489848, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Summerville", "lng": -85.32928, "zip_code": "30747"}
+{"locality": "Summerville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Summerville"], "postal_code": "30747", "lat": 34.489848, "lng": -85.32928, "type": "STANDARD", "counties": [{"fips": "055", "name": "Chattooga"}]}

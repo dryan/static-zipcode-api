@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.040749, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Englewood", "lng": -99.98903, "zip_code": "67840"});
+zipapicallback({"locality": "Englewood", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Englewood"], "postal_code": "67840", "lat": 37.040749, "lng": -99.98903, "type": "POBOX", "counties": [{"fips": "025", "name": "Clark"}]});

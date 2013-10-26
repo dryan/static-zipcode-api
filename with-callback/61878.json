@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.243692, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Thomasboro", "lng": -88.17296, "zip_code": "61878"});
+zipapicallback({"locality": "Thomasboro", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Thomasboro"], "postal_code": "61878", "lat": 40.243692, "lng": -88.17296, "type": "STANDARD", "counties": [{"fips": "019", "name": "Champaign"}]});

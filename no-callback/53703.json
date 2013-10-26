@@ -1,1 +1,1 @@
-{"lat": 43.078646, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Madison", "lng": -89.37727, "zip_code": "53703"}
+{"locality": "Madison", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Madison"], "postal_code": "53703", "lat": 43.078646, "lng": -89.37727, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dane"}]}

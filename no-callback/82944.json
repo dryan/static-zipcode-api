@@ -1,1 +1,1 @@
-{"lat": 41.10401, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Robertson", "lng": -110.53733, "zip_code": "82944"}
+{"locality": "Robertson", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Robertson"], "postal_code": "82944", "lat": 41.10401, "lng": -110.53733, "type": "POBOX", "counties": [{"fips": "041", "name": "Uinta"}]}

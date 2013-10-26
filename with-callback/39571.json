@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.371623, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Pass Christian", "lng": -89.27038, "zip_code": "39571"});
+zipapicallback({"locality": "Pass Christian", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Pass Chris", "Pass Christian", "Pass Christin"], "postal_code": "39571", "lat": 30.371623, "lng": -89.27038, "type": "STANDARD", "counties": [{"fips": "047", "name": "Harrison"}, {"fips": "045", "name": "Hancock"}]});

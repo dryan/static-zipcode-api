@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.583224, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Scarborough", "lng": -70.35268, "zip_code": "04074"});
+zipapicallback({"locality": "Scarborough", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Pine Point", "Scarborough"], "postal_code": "04074", "lat": 43.583224, "lng": -70.35268, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

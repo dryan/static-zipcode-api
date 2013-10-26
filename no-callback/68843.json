@@ -1,1 +1,1 @@
-{"lat": 40.894366, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hampton", "lng": -97.89355, "zip_code": "68843"}
+{"locality": "Hampton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hampton"], "postal_code": "68843", "lat": 40.894366, "lng": -97.89355, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hamilton"}, {"fips": "185", "name": "York"}]}

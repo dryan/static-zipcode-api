@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.766787, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Moundville", "lng": -94.45313, "zip_code": "64771"});
+zipapicallback({"locality": "Moundville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Moundville"], "postal_code": "64771", "lat": 37.766787, "lng": -94.45313, "type": "STANDARD", "counties": [{"fips": "217", "name": "Vernon"}]});

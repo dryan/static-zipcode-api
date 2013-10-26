@@ -1,1 +1,1 @@
-{"lat": 47.757804, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lutsen", "lng": -90.63836, "zip_code": "55612"}
+{"locality": "Lutsen", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lutsen"], "postal_code": "55612", "lat": 47.757804, "lng": -90.63836, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

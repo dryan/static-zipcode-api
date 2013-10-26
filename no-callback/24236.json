@@ -1,1 +1,1 @@
-{"lat": 36.624632, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Damascus", "lng": -81.76732, "zip_code": "24236"}
+{"locality": "Damascus", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Damascus"], "postal_code": "24236", "lat": 36.624632, "lng": -81.76732, "type": "STANDARD", "counties": [{"fips": "091", "name": "Highland"}]}

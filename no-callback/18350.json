@@ -1,1 +1,1 @@
-{"lat": 41.116737, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pocono Pines", "lng": -75.46037, "zip_code": "18350"}
+{"locality": "Pocono Pines", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pocono Pines"], "postal_code": "18350", "lat": 41.116737, "lng": -75.46037, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.309201, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mountain Home", "lng": -82.37338, "zip_code": "37684"}
+{"locality": "Mountain Home", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mountain Home", "Mtn Home"], "postal_code": "37684", "lat": 36.309201, "lng": -82.37338, "type": "POBOX", "counties": [{"fips": "179", "name": "Washington"}]}

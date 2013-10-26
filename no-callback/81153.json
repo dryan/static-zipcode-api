@@ -1,1 +1,1 @@
-{"lat": 37.127132, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "San Pablo", "lng": -105.3675, "zip_code": "81153"}
+{"locality": "San Pablo", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["El Rito", "La Valley", "Los Fuertes", "San Francisco", "San Pablo", "San Pedro"], "postal_code": "81153", "lat": 37.127132, "lng": -105.3675, "type": "POBOX", "counties": [{"fips": "023", "name": "Costilla"}]}

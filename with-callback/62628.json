@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.770936, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chapin", "lng": -90.39307, "zip_code": "62628"});
+zipapicallback({"locality": "Chapin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chapin"], "postal_code": "62628", "lat": 39.770936, "lng": -90.39307, "type": "STANDARD", "counties": [{"fips": "137", "name": "Morgan"}, {"fips": "171", "name": "Scott"}]});

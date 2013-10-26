@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.409219, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Oliver", "lng": -79.98948, "zip_code": "15210"});
+zipapicallback({"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Oliver", "Mt Oliver", "Pittsburgh"], "postal_code": "15210", "lat": 40.409219, "lng": -79.98948, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

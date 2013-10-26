@@ -1,1 +1,1 @@
-{"lat": 38.699654, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hanover", "lng": -85.47234, "zip_code": "47243"}
+{"locality": "Hanover", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hanover"], "postal_code": "47243", "lat": 38.699654, "lng": -85.47234, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jefferson"}, {"fips": "019", "name": "Clark"}]}

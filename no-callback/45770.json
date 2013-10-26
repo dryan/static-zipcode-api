@@ -1,1 +1,1 @@
-{"lat": 38.988699, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Portland", "lng": -81.8019, "zip_code": "45770"}
+{"locality": "Portland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Portland"], "postal_code": "45770", "lat": 38.988699, "lng": -81.8019, "type": "STANDARD", "counties": [{"fips": "105", "name": "Meigs"}]}

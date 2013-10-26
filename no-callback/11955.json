@@ -1,1 +1,1 @@
-{"lat": 40.805789, "region": {"abbr": "NY", "name": "New York"}, "locality": "Moriches", "lng": -72.82092, "zip_code": "11955"}
+{"locality": "Moriches", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Moriches"], "postal_code": "11955", "lat": 40.805789, "lng": -72.82092, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

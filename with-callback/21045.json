@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.207523, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Columbia", "lng": -76.82527, "zip_code": "21045"});
+zipapicallback({"locality": "Columbia", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Columbia"], "postal_code": "21045", "lat": 39.207523, "lng": -76.82527, "type": "STANDARD", "counties": [{"fips": "027", "name": "Howard"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.436061, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Middle River", "lng": -96.06973, "zip_code": "56737"});
+zipapicallback({"locality": "Middle River", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Middle River"], "postal_code": "56737", "lat": 48.436061, "lng": -96.06973, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}]});

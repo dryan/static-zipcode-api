@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.077723, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Two Harbors", "lng": -91.66464, "zip_code": "55616"});
+zipapicallback({"locality": "Two Harbors", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Two Harbors"], "postal_code": "55616", "lat": 47.077723, "lng": -91.66464, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lake"}]});

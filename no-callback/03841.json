@@ -1,1 +1,1 @@
-{"lat": 42.880837, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Hampstead", "lng": -71.18252, "zip_code": "03841"}
+{"locality": "Hampstead", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Hampstead"], "postal_code": "03841", "lat": 42.880837, "lng": -71.18252, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]}

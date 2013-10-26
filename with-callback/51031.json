@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.79728, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Le Mars", "lng": -96.17167, "zip_code": "51031"});
+zipapicallback({"locality": "Le Mars", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Le Mars"], "postal_code": "51031", "lat": 42.79728, "lng": -96.17167, "type": "STANDARD", "counties": [{"fips": "149", "name": "Plymouth"}]});

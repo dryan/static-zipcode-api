@@ -1,1 +1,1 @@
-{"lat": 41.603581, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Wickliffe", "lng": -81.47087, "zip_code": "44092"}
+{"locality": "Wickliffe", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Wickliffe", "Willoughby Hills", "Wiloughby Hls"], "postal_code": "44092", "lat": 41.603581, "lng": -81.47087, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lake"}]}

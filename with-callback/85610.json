@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.724946, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Elfrida", "lng": -109.64646, "zip_code": "85610"});
+zipapicallback({"locality": "Elfrida", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Elfrida"], "postal_code": "85610", "lat": 31.724946, "lng": -109.64646, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]});

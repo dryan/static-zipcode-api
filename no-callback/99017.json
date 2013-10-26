@@ -1,1 +1,1 @@
-{"lat": 47.197445, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lamont", "lng": -117.85558, "zip_code": "99017"}
+{"locality": "Lamont", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lamont", "Sprague"], "postal_code": "99017", "lat": 47.197445, "lng": -117.85558, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}, {"fips": "043", "name": "Lincoln"}]}

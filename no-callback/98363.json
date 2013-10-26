@@ -1,1 +1,1 @@
-{"lat": 48.102836, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Port Angeles", "lng": -123.63765, "zip_code": "98363"}
+{"locality": "Port Angeles", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Port Angeles"], "postal_code": "98363", "lat": 48.102836, "lng": -123.63765, "type": "STANDARD", "counties": []}

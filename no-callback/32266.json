@@ -1,1 +1,1 @@
-{"lat": 30.316641, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Neptune Beach", "lng": -81.40308, "zip_code": "32266"}
+{"locality": "Neptune Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jacksonville", "Neptune Beach"], "postal_code": "32266", "lat": 30.316641, "lng": -81.40308, "type": "STANDARD", "counties": []}

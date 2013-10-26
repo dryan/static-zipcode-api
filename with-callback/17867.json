@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.708236, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rebuck", "lng": -76.68758, "zip_code": "17867"});
+zipapicallback({"locality": "Rebuck", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Rebuck"], "postal_code": "17867", "lat": 40.708236, "lng": -76.68758, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]});

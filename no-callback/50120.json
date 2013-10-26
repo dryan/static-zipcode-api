@@ -1,1 +1,1 @@
-{"lat": 41.940175, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Haverhill", "lng": -92.96979, "zip_code": "50120"}
+{"locality": "Haverhill", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Haverhill"], "postal_code": "50120", "lat": 41.940175, "lng": -92.96979, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]}

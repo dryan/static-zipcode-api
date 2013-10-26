@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.940536, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Solon", "lng": -69.80759, "zip_code": "04979"});
+zipapicallback({"locality": "Solon", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Solon"], "postal_code": "04979", "lat": 44.940536, "lng": -69.80759, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.610306, "region": {"abbr": "NY", "name": "New York"}, "locality": "Berne", "lng": -74.15692, "zip_code": "12023"});
+zipapicallback({"locality": "Berne", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Berne"], "postal_code": "12023", "lat": 42.610306, "lng": -74.15692, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}, {"fips": "095", "name": "Schoharie"}]});

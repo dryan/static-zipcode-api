@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.999757, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dale", "lng": -88.50469, "zip_code": "62829"});
+zipapicallback({"locality": "Dale", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dale"], "postal_code": "62829", "lat": 37.999757, "lng": -88.50469, "type": "POBOX", "counties": [{"fips": "065", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.314189, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Taconite", "lng": -93.38487, "zip_code": "55786"}
+{"locality": "Taconite", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Taconite"], "postal_code": "55786", "lat": 47.314189, "lng": -93.38487, "type": "POBOX", "counties": [{"fips": "061", "name": "Itasca"}]}

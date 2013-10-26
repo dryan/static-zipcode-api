@@ -1,1 +1,1 @@
-{"lat": 37.621745, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lakeside", "lng": -77.48896, "zip_code": "23228"}
+{"locality": "Henrico", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Henrico", "Richmond"], "postal_code": "23228", "lat": 37.621745, "lng": -77.48896, "type": "STANDARD", "counties": [{"fips": "087", "name": "Henrico"}, {"fips": "760", "name": "Richmond (City)"}]}

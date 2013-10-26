@@ -1,1 +1,1 @@
-{"lat": 33.915528, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Roaring Springs", "lng": -100.81731, "zip_code": "79256"}
+{"locality": "Roaring Springs", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Roaring Spngs", "Roaring Springs"], "postal_code": "79256", "lat": 33.915528, "lng": -100.81731, "type": "STANDARD", "counties": [{"fips": "345", "name": "Motley"}, {"fips": "125", "name": "Dickens"}]}

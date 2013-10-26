@@ -1,1 +1,1 @@
-{"lat": 48.897816, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Whitetail", "lng": -105.16316, "zip_code": "59276"}
+{"locality": "Whitetail", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Whitetail"], "postal_code": "59276", "lat": 48.897816, "lng": -105.16316, "type": "STANDARD", "counties": [{"fips": "019", "name": "Daniels"}]}

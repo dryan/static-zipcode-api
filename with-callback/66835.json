@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.513771, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Americus", "lng": -96.25853, "zip_code": "66835"});
+zipapicallback({"locality": "Americus", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Americus"], "postal_code": "66835", "lat": 38.513771, "lng": -96.25853, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lyon"}, {"fips": "127", "name": "Morris"}]});

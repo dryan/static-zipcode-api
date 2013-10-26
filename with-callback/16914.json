@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.86401, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Columbia Cross R", "lng": -76.76982, "zip_code": "16914"});
+zipapicallback({"locality": "Columbia Cross Roads", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Columbia Cross Roads", "Columbia X Rd"], "postal_code": "16914", "lat": 41.86401, "lng": -76.76982, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}, {"fips": "117", "name": "Tioga"}]});

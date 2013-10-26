@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.855002, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Doswell", "lng": -77.47011, "zip_code": "23047"});
+zipapicallback({"locality": "Doswell", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Doswell"], "postal_code": "23047", "lat": 37.855002, "lng": -77.47011, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hanover"}, {"fips": "033", "name": "Caroline"}]});

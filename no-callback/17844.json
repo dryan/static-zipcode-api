@@ -1,1 +1,1 @@
-{"lat": 40.928666, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mifflinburg", "lng": -77.05294, "zip_code": "17844"}
+{"locality": "Mifflinburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mifflinburg"], "postal_code": "17844", "lat": 40.928666, "lng": -77.05294, "type": "STANDARD", "counties": [{"fips": "119", "name": "Union"}, {"fips": "109", "name": "Snyder"}]}

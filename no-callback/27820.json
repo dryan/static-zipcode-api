@@ -1,1 +1,1 @@
-{"lat": 36.416472, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Conway", "lng": -77.23117, "zip_code": "27820"}
+{"locality": "Conway", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Conway", "Milwaukee"], "postal_code": "27820", "lat": 36.416472, "lng": -77.23117, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]}

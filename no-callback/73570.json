@@ -1,1 +1,1 @@
-{"lat": 34.500298, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tipton", "lng": -99.12375, "zip_code": "73570"}
+{"locality": "Tipton", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Tipton"], "postal_code": "73570", "lat": 34.500298, "lng": -99.12375, "type": "STANDARD", "counties": [{"fips": "141", "name": "Tillman"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.005075, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Sunbury", "lng": -79.8851, "zip_code": "16061"});
+zipapicallback({"locality": "West Sunbury", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["West Sunbury"], "postal_code": "16061", "lat": 41.005075, "lng": -79.8851, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]});

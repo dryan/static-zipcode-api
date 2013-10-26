@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.214012, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Pulaski", "lng": -89.21039, "zip_code": "62976"});
+zipapicallback({"locality": "Pulaski", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Pulaski"], "postal_code": "62976", "lat": 37.214012, "lng": -89.21039, "type": "STANDARD", "counties": [{"fips": "153", "name": "Pulaski"}]});

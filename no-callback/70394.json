@@ -1,1 +1,1 @@
-{"lat": 29.715302, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Raceland", "lng": -90.6097, "zip_code": "70394"}
+{"locality": "Raceland", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Raceland"], "postal_code": "70394", "lat": 29.715302, "lng": -90.6097, "type": "STANDARD", "counties": [{"fips": "057", "name": "Lafourche"}]}

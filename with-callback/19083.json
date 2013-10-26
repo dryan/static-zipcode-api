@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.978728, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Havertown", "lng": -75.30861, "zip_code": "19083"});
+zipapicallback({"locality": "Havertown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Havertown", "Lower Merion"], "postal_code": "19083", "lat": 39.978728, "lng": -75.30861, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

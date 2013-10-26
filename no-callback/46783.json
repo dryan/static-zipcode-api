@@ -1,1 +1,1 @@
-{"lat": 40.967646, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Roanoke", "lng": -85.34315, "zip_code": "46783"}
+{"locality": "Roanoke", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Roanoke"], "postal_code": "46783", "lat": 40.967646, "lng": -85.34315, "type": "STANDARD", "counties": [{"fips": "069", "name": "Huntington"}, {"fips": "003", "name": "Allen"}, {"fips": "179", "name": "Wells"}, {"fips": "183", "name": "Whitley"}]}

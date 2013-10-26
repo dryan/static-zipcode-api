@@ -1,1 +1,1 @@
-{"lat": 46.24656, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ringling", "lng": -110.79404, "zip_code": "59642"}
+{"locality": "Ringling", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ringling"], "postal_code": "59642", "lat": 46.24656, "lng": -110.79404, "type": "POBOX", "counties": [{"fips": "059", "name": "Meagher"}]}

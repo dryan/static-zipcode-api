@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.113004, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Tazewell", "lng": -81.50326, "zip_code": "24651"});
+zipapicallback({"locality": "Tazewell", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Tazewell"], "postal_code": "24651", "lat": 37.113004, "lng": -81.50326, "type": "STANDARD", "counties": [{"fips": "185", "name": "Tazewell"}]});

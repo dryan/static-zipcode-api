@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.90802, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Clearwater", "lng": -82.71365, "zip_code": "33760"});
+zipapicallback({"locality": "Clearwater", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Clearwater"], "postal_code": "33760", "lat": 27.90802, "lng": -82.71365, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 39.456484, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Odessa", "lng": -75.65976, "zip_code": "19730"}
+{"locality": "Odessa", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Odessa"], "postal_code": "19730", "lat": 39.456484, "lng": -75.65976, "type": "POBOX", "counties": [{"fips": "003", "name": "New Castle"}]}

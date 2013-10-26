@@ -1,1 +1,1 @@
-{"lat": 39.228859, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lockland", "lng": -84.45707, "zip_code": "45215"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Arlington Heights", "Arlington Hts", "Cincinnati", "Lockland", "Reading", "Wyoming"], "postal_code": "45215", "lat": 39.228859, "lng": -84.45707, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

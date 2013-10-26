@@ -1,1 +1,1 @@
-{"lat": 29.902193, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Violet", "lng": -89.89726, "zip_code": "70092"}
+{"locality": "Violet", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Violet"], "postal_code": "70092", "lat": 29.902193, "lng": -89.89726, "type": "STANDARD", "counties": [{"fips": "087", "name": "St. Bernard"}]}

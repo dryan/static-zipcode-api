@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.302177, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Wickes", "lng": -94.35083, "zip_code": "71973"});
+zipapicallback({"locality": "Wickes", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Wickes"], "postal_code": "71973", "lat": 34.302177, "lng": -94.35083, "type": "STANDARD", "counties": [{"fips": "113", "name": "Polk"}]});

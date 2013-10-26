@@ -1,1 +1,1 @@
-{"lat": 33.925768, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Burneyville", "lng": -97.36956, "zip_code": "73430"}
+{"locality": "Burneyville", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Burneyville"], "postal_code": "73430", "lat": 33.925768, "lng": -97.36956, "type": "STANDARD", "counties": [{"fips": "085", "name": "Love"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.392118, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Pearson", "lng": -89.0051, "zip_code": "54462"});
+zipapicallback({"locality": "Pearson", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Pearson"], "postal_code": "54462", "lat": 45.392118, "lng": -89.0051, "type": "STANDARD", "counties": [{"fips": "067", "name": "Langlade"}]});

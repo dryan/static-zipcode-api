@@ -1,1 +1,1 @@
-{"lat": 44.319897, "region": {"abbr": "NY", "name": "New York"}, "locality": "Gouverneur", "lng": -75.45537, "zip_code": "13642"}
+{"locality": "Gouverneur", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Balmat", "Gouverneur"], "postal_code": "13642", "lat": 44.319897, "lng": -75.45537, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}, {"fips": "087", "name": "Rockland"}, {"fips": "045", "name": "Jefferson"}]}

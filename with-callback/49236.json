@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.067837, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Clinton", "lng": -83.95779, "zip_code": "49236"});
+zipapicallback({"locality": "Clinton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Clinton"], "postal_code": "49236", "lat": 42.067837, "lng": -83.95779, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}, {"fips": "161", "name": "Washtenaw"}]});

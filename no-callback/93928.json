@@ -1,1 +1,1 @@
-{"lat": 36.015388, "region": {"abbr": "CA", "name": "California"}, "locality": "Jolon", "lng": -121.24839, "zip_code": "93928"}
+{"locality": "Jolon", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fort Hunter Liggett", "Ft H Liggett", "Jolon"], "postal_code": "93928", "lat": 36.015388, "lng": -121.24839, "type": "POBOX", "counties": [{"fips": "053", "name": "Monterey"}]}

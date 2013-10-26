@@ -1,1 +1,1 @@
-{"lat": 30.42007, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Blountstown", "lng": -85.07299, "zip_code": "32424"}
+{"locality": "Blountstown", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Blountstown"], "postal_code": "32424", "lat": 30.42007, "lng": -85.07299, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.300126, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Springfield", "lng": -72.47767, "zip_code": "05156"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Springfield"], "postal_code": "05156", "lat": 43.300126, "lng": -72.47767, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

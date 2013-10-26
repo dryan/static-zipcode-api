@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.584448, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Skippers", "lng": -77.58854, "zip_code": "23879"});
+zipapicallback({"locality": "Skippers", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Skippers"], "postal_code": "23879", "lat": 36.584448, "lng": -77.58854, "type": "STANDARD", "counties": [{"fips": "081", "name": "Greensville"}, {"fips": "183", "name": "Sussex"}]});

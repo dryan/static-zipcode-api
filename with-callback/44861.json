@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.240649, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Old Fort", "lng": -83.15, "zip_code": "44861"});
+zipapicallback({"locality": "Old Fort", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Old Fort"], "postal_code": "44861", "lat": 41.240649, "lng": -83.15, "type": "POBOX", "counties": [{"fips": "147", "name": "Seneca"}]});

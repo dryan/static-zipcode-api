@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.619313, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Coldspring", "lng": -95.13802, "zip_code": "77331"});
+zipapicallback({"locality": "Coldspring", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Coldspring"], "postal_code": "77331", "lat": 30.619313, "lng": -95.13802, "type": "STANDARD", "counties": [{"fips": "407", "name": "San Jacinto"}]});

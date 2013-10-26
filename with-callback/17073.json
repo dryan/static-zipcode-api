@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.308675, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Newmanstown", "lng": -76.24974, "zip_code": "17073"});
+zipapicallback({"locality": "Newmanstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Newmanstown"], "postal_code": "17073", "lat": 40.308675, "lng": -76.24974, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lebanon"}, {"fips": "133", "name": "York"}]});

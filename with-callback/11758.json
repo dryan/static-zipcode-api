@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.68085, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Massapequa", "lng": -73.46289, "zip_code": "11758"});
+zipapicallback({"locality": "Massapequa", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Massapequa", "N Massapequa", "North Massapequa"], "postal_code": "11758", "lat": 40.68085, "lng": -73.46289, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

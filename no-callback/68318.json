@@ -1,1 +1,1 @@
-{"lat": 40.14601, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Blue Springs", "lng": -96.66049, "zip_code": "68318"}
+{"locality": "Blue Springs", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Blue Springs"], "postal_code": "68318", "lat": 40.14601, "lng": -96.66049, "type": "STANDARD", "counties": [{"fips": "067", "name": "Gage"}]}

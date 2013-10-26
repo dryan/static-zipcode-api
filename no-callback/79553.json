@@ -1,1 +1,1 @@
-{"lat": 32.943145, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Stamford", "lng": -99.81595, "zip_code": "79553"}
+{"locality": "Stamford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Stamford"], "postal_code": "79553", "lat": 32.943145, "lng": -99.81595, "type": "STANDARD", "counties": [{"fips": "253", "name": "Jones"}, {"fips": "207", "name": "Haskell"}]}

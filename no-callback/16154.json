@@ -1,1 +1,1 @@
-{"lat": 41.330028, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Transfer", "lng": -80.42771, "zip_code": "16154"}
+{"locality": "Transfer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Transfer"], "postal_code": "16154", "lat": 41.330028, "lng": -80.42771, "type": "STANDARD", "counties": [{"fips": "085", "name": "Mercer"}]}

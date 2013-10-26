@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.58675, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bremerton", "lng": -122.62371, "zip_code": "98310"});
+zipapicallback({"locality": "Bremerton", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bremerton"], "postal_code": "98310", "lat": 47.58675, "lng": -122.62371, "type": "STANDARD", "counties": [{"fips": "035", "name": "Kitsap"}, {"fips": "053", "name": "Pierce"}]});

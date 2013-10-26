@@ -1,1 +1,1 @@
-{"lat": 28.805331, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Coleman", "lng": -82.07371, "zip_code": "33521"}
+{"locality": "Coleman", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Coleman"], "postal_code": "33521", "lat": 28.805331, "lng": -82.07371, "type": "POBOX", "counties": [{"fips": "119", "name": "Sumter"}]}

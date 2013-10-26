@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.777314, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Chatsworth", "lng": -74.5354, "zip_code": "08019"});
+zipapicallback({"locality": "Chatsworth", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Chatsworth"], "postal_code": "08019", "lat": 39.777314, "lng": -74.5354, "type": "STANDARD", "counties": [{"fips": "005", "name": "Burlington"}]});

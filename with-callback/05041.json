@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.966821, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "East Randolph", "lng": -72.54784, "zip_code": "05041"});
+zipapicallback({"locality": "East Randolph", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["East Randolph"], "postal_code": "05041", "lat": 43.966821, "lng": -72.54784, "type": "STANDARD", "counties": [{"fips": "017", "name": "Orange"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.53932, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Roundup", "lng": -108.53775, "zip_code": "59072"});
+zipapicallback({"locality": "Roundup", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Roundup"], "postal_code": "59072", "lat": 46.53932, "lng": -108.53775, "type": "STANDARD", "counties": [{"fips": "065", "name": "Musselshell"}]});

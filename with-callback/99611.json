@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.587598, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kenai", "lng": -151.23355, "zip_code": "99611"});
+zipapicallback({"locality": "Kenai", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kenai", "Nikiski"], "postal_code": "99611", "lat": 60.587598, "lng": -151.23355, "type": "STANDARD", "counties": [{"fips": "122", "name": "Kenai Peninsula"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.882858, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Flanagan", "lng": -88.85739, "zip_code": "61740"});
+zipapicallback({"locality": "Flanagan", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Flanagan"], "postal_code": "61740", "lat": 40.882858, "lng": -88.85739, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

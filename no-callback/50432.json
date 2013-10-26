@@ -1,1 +1,1 @@
-{"lat": 43.222661, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Crystal Lake", "lng": -93.7909, "zip_code": "50432"}
+{"locality": "Crystal Lake", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Crystal Lake"], "postal_code": "50432", "lat": 43.222661, "lng": -93.7909, "type": "POBOX", "counties": [{"fips": "081", "name": "Hancock"}]}

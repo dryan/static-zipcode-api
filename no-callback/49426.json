@@ -1,1 +1,1 @@
-{"lat": 42.873302, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hudsonville", "lng": -85.87861, "zip_code": "49426"}
+{"locality": "Hudsonville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hudsonville"], "postal_code": "49426", "lat": 42.873302, "lng": -85.87861, "type": "STANDARD", "counties": [{"fips": "139", "name": "Ottawa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.450082, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Liberty Center", "lng": -83.97563, "zip_code": "43532"});
+zipapicallback({"locality": "Liberty Center", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Liberty Center", "Liberty Ctr"], "postal_code": "43532", "lat": 41.450082, "lng": -83.97563, "type": "STANDARD", "counties": [{"fips": "069", "name": "Henry"}, {"fips": "095", "name": "Lucas"}, {"fips": "051", "name": "Fulton"}]});

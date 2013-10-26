@@ -1,1 +1,1 @@
-{"lat": 36.828831, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Yale", "lng": -77.28288, "zip_code": "23897"}
+{"locality": "Yale", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Yale"], "postal_code": "23897", "lat": 36.828831, "lng": -77.28288, "type": "STANDARD", "counties": [{"fips": "183", "name": "Sussex"}]}

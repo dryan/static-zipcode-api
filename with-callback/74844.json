@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.878209, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Francis", "lng": -96.58838, "zip_code": "74844"});
+zipapicallback({"locality": "Francis", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Francis"], "postal_code": "74844", "lat": 34.878209, "lng": -96.58838, "type": "POBOX", "counties": [{"fips": "123", "name": "Pontotoc"}]});

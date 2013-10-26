@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.334744, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Abie", "lng": -96.94965, "zip_code": "68001"});
+zipapicallback({"locality": "Abie", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Abie"], "postal_code": "68001", "lat": 41.334744, "lng": -96.94965, "type": "POBOX", "counties": [{"fips": "023", "name": "Butler"}]});

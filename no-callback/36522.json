@@ -1,1 +1,1 @@
-{"lat": 31.0753, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Citronelle", "lng": -88.2633, "zip_code": "36522"}
+{"locality": "Citronelle", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Citronelle"], "postal_code": "36522", "lat": 31.0753, "lng": -88.2633, "type": "STANDARD", "counties": [{"fips": "097", "name": "Mobile"}]}

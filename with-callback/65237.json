@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.782638, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Bunceton", "lng": -92.81139, "zip_code": "65237"});
+zipapicallback({"locality": "Bunceton", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bunceton"], "postal_code": "65237", "lat": 38.782638, "lng": -92.81139, "type": "STANDARD", "counties": [{"fips": "053", "name": "Cooper"}]});

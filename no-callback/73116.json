@@ -1,1 +1,1 @@
-{"lat": 35.544864, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nichols Hills", "lng": -97.55637, "zip_code": "73116"}
+{"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nichols Hills", "Oklahoma City"], "postal_code": "73116", "lat": 35.544864, "lng": -97.55637, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]}

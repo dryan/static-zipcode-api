@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.212287, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hugheston", "lng": -81.34327, "zip_code": "25110"});
+zipapicallback({"locality": "Hugheston", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Hugheston"], "postal_code": "25110", "lat": 38.212287, "lng": -81.34327, "type": "POBOX", "counties": [{"fips": "039", "name": "Kanawha"}]});

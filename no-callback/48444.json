@@ -1,1 +1,1 @@
-{"lat": 43.038967, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Imlay City", "lng": -83.06067, "zip_code": "48444"}
+{"locality": "Imlay City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Imlay City"], "postal_code": "48444", "lat": 43.038967, "lng": -83.06067, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}, {"fips": "147", "name": "Saint Clair"}]}

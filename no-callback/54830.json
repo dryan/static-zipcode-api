@@ -1,1 +1,1 @@
-{"lat": 46.036193, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Dairyland", "lng": -92.21802, "zip_code": "54830"}
+{"locality": "Danbury", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dairyland", "Danbury", "Webb Lake", "Yellow Lake"], "postal_code": "54830", "lat": 46.036193, "lng": -92.21802, "type": "STANDARD", "counties": [{"fips": "013", "name": "Burnett"}, {"fips": "031", "name": "Douglas"}]}

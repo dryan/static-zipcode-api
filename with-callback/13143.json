@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.235909, "region": {"abbr": "NY", "name": "New York"}, "locality": "Red Creek", "lng": -76.71545, "zip_code": "13143"});
+zipapicallback({"locality": "Red Creek", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Red Creek"], "postal_code": "13143", "lat": 43.235909, "lng": -76.71545, "type": "STANDARD", "counties": [{"fips": "117", "name": "Wayne"}, {"fips": "011", "name": "Cayuga"}, {"fips": "017", "name": "Chenango"}]});

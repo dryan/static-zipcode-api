@@ -1,1 +1,1 @@
-{"lat": 38.30126, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Issue", "lng": -76.91539, "zip_code": "20645"}
+{"locality": "Issue", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Issue", "Swan Point"], "postal_code": "20645", "lat": 38.30126, "lng": -76.91539, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

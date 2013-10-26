@@ -1,1 +1,1 @@
-{"lat": 36.165779, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Chinle", "lng": -109.61956, "zip_code": "86503"}
+{"locality": "Chinle", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Chinle"], "postal_code": "86503", "lat": 36.165779, "lng": -109.61956, "type": "STANDARD", "counties": [{"fips": "001", "name": "Apache"}]}

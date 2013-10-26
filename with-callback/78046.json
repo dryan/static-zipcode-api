@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.435814, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Laredo", "lng": -99.45996, "zip_code": "78046"});
+zipapicallback({"locality": "Laredo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["El Cenizo", "Laredo"], "postal_code": "78046", "lat": 27.435814, "lng": -99.45996, "type": "STANDARD", "counties": []});

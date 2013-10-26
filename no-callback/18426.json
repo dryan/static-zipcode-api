@@ -1,1 +1,1 @@
-{"lat": 41.337195, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Greentown", "lng": -75.27069, "zip_code": "18426"}
+{"locality": "Greentown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Greentown"], "postal_code": "18426", "lat": 41.337195, "lng": -75.27069, "type": "STANDARD", "counties": [{"fips": "103", "name": "Pike"}]}

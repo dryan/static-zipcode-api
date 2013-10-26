@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.914169, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Forgan", "lng": -100.61244, "zip_code": "73938"});
+zipapicallback({"locality": "Forgan", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Forgan"], "postal_code": "73938", "lat": 36.914169, "lng": -100.61244, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}]});

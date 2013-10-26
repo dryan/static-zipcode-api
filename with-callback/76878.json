@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.722813, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Santa Anna", "lng": -99.2959, "zip_code": "76878"});
+zipapicallback({"locality": "Santa Anna", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Santa Anna", "Whon"], "postal_code": "76878", "lat": 31.722813, "lng": -99.2959, "type": "STANDARD", "counties": [{"fips": "083", "name": "Coleman"}]});

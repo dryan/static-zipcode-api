@@ -1,1 +1,1 @@
-{"lat": 38.896413, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Oolitic", "lng": -86.52474, "zip_code": "47451"}
+{"locality": "Oolitic", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Oolitic"], "postal_code": "47451", "lat": 38.896413, "lng": -86.52474, "type": "STANDARD", "counties": [{"fips": "093", "name": "Lawrence"}]}

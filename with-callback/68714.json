@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.53961, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Bassett", "lng": -99.52938, "zip_code": "68714"});
+zipapicallback({"locality": "Bassett", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bassett", "Rose"], "postal_code": "68714", "lat": 42.53961, "lng": -99.52938, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rock"}]});

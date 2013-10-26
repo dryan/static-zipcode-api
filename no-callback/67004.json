@@ -1,1 +1,1 @@
-{"lat": 37.270346, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Argonia", "lng": -97.76478, "zip_code": "67004"}
+{"locality": "Argonia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Argonia"], "postal_code": "67004", "lat": 37.270346, "lng": -97.76478, "type": "STANDARD", "counties": [{"fips": "191", "name": "Sumner"}, {"fips": "095", "name": "Kingman"}, {"fips": "077", "name": "Harper"}]}

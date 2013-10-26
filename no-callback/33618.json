@@ -1,1 +1,1 @@
-{"lat": 28.071502, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Carrollwood", "lng": -82.49392, "zip_code": "33618"}
+{"locality": "Tampa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Carrollwood", "Tampa"], "postal_code": "33618", "lat": 28.071502, "lng": -82.49392, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

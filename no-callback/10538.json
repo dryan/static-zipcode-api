@@ -1,1 +1,1 @@
-{"lat": 40.933089, "region": {"abbr": "NY", "name": "New York"}, "locality": "Larchmont", "lng": -73.75615, "zip_code": "10538"}
+{"locality": "Larchmont", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Larchmont"], "postal_code": "10538", "lat": 40.933089, "lng": -73.75615, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.413437, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Rogersville", "lng": -82.96804, "zip_code": "37857"}
+{"locality": "Rogersville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Rogersville"], "postal_code": "37857", "lat": 36.413437, "lng": -82.96804, "type": "STANDARD", "counties": [{"fips": "073", "name": "Hawkins"}, {"fips": "059", "name": "Greene"}, {"fips": "163", "name": "Sullivan"}]}

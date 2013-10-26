@@ -1,1 +1,1 @@
-{"lat": 43.484445, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rake", "lng": -93.91817, "zip_code": "50465"}
+{"locality": "Rake", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rake"], "postal_code": "50465", "lat": 43.484445, "lng": -93.91817, "type": "POBOX", "counties": [{"fips": "189", "name": "Winnebago"}]}

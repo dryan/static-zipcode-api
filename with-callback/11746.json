@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.821698, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dix Hills", "lng": -73.37553, "zip_code": "11746"});
+zipapicallback({"locality": "Huntington Station", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dix Hills", "Huntingtn Sta", "Huntington Station"], "postal_code": "11746", "lat": 40.821698, "lng": -73.37553, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

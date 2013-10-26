@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.017756, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Sweet", "lng": -116.31264, "zip_code": "83670"});
+zipapicallback({"locality": "Sweet", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Sweet"], "postal_code": "83670", "lat": 44.017756, "lng": -116.31264, "type": "STANDARD", "counties": [{"fips": "045", "name": "Gem"}]});

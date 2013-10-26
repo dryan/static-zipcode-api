@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.094396, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mendon", "lng": -91.26558, "zip_code": "62351"});
+zipapicallback({"locality": "Mendon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mendon"], "postal_code": "62351", "lat": 40.094396, "lng": -91.26558, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "067", "name": "Hancock"}]});

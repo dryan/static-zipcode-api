@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.116982, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Park", "lng": -100.35656, "zip_code": "67751"});
+zipapicallback({"locality": "Park", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Park"], "postal_code": "67751", "lat": 39.116982, "lng": -100.35656, "type": "STANDARD", "counties": [{"fips": "063", "name": "Gove"}, {"fips": "179", "name": "Sheridan"}]});

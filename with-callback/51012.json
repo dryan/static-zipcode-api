@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.754004, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cherokee", "lng": -95.54919, "zip_code": "51012"});
+zipapicallback({"locality": "Cherokee", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cherokee"], "postal_code": "51012", "lat": 42.754004, "lng": -95.54919, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cherokee"}]});

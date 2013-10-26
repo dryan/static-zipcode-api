@@ -1,1 +1,1 @@
-{"lat": 43.907282, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Westfield", "lng": -89.49412, "zip_code": "53964"}
+{"locality": "Westfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Westfield"], "postal_code": "53964", "lat": 43.907282, "lng": -89.49412, "type": "STANDARD", "counties": [{"fips": "077", "name": "Marquette"}, {"fips": "001", "name": "Adams"}, {"fips": "137", "name": "Waushara"}]}

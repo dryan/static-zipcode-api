@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.401282, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Adair", "lng": -90.50153, "zip_code": "61411"});
+zipapicallback({"locality": "Adair", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Adair"], "postal_code": "61411", "lat": 40.401282, "lng": -90.50153, "type": "STANDARD", "counties": [{"fips": "109", "name": "McDonough"}, {"fips": "057", "name": "Fulton"}]});

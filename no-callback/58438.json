@@ -1,1 +1,1 @@
-{"lat": 47.652764, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fessenden", "lng": -99.61938, "zip_code": "58438"}
+{"locality": "Fessenden", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Fessenden"], "postal_code": "58438", "lat": 47.652764, "lng": -99.61938, "type": "STANDARD", "counties": [{"fips": "103", "name": "Wells"}]}

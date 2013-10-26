@@ -1,1 +1,1 @@
-{"lat": 41.047627, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Cos Cob", "lng": -73.59508, "zip_code": "06807"}
+{"locality": "Cos Cob", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Cos Cob"], "postal_code": "06807", "lat": 41.047627, "lng": -73.59508, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]}

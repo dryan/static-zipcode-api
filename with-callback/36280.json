@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.366136, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Woodland", "lng": -85.36501, "zip_code": "36280"});
+zipapicallback({"locality": "Woodland", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Newell", "Woodland"], "postal_code": "36280", "lat": 33.366136, "lng": -85.36501, "type": "STANDARD", "counties": [{"fips": "111", "name": "Randolph"}]});

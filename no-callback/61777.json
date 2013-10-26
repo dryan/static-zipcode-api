@@ -1,1 +1,1 @@
-{"lat": 40.240627, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wapella", "lng": -88.96635, "zip_code": "61777"}
+{"locality": "Wapella", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wapella"], "postal_code": "61777", "lat": 40.240627, "lng": -88.96635, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dewitt"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.881149, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Lake Hiawatha", "lng": -74.38112, "zip_code": "07034"}
+{"locality": "Lake Hiawatha", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Lake Hiawatha"], "postal_code": "07034", "lat": 40.881149, "lng": -74.38112, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

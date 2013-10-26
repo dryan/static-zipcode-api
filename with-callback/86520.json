@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.045603, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Blue Gap", "lng": -110.00633, "zip_code": "86520"});
+zipapicallback({"locality": "Blue Gap", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Blue Gap", "Pinon"], "postal_code": "86520", "lat": 36.045603, "lng": -110.00633, "type": "POBOX", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 40.917556, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "New Springfield", "lng": -80.60039, "zip_code": "44443"}
+{"locality": "New Springfield", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["New Springfield", "New Springfld"], "postal_code": "44443", "lat": 40.917556, "lng": -80.60039, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mahoning"}, {"fips": "029", "name": "Columbiana"}]}

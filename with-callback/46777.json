@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.880397, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Ossian", "lng": -85.15936, "zip_code": "46777"});
+zipapicallback({"locality": "Ossian", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Ossian"], "postal_code": "46777", "lat": 40.880397, "lng": -85.15936, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wells"}, {"fips": "003", "name": "Allen"}, {"fips": "001", "name": "Adams"}]});

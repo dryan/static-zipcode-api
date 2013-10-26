@@ -1,1 +1,1 @@
-{"lat": 38.399525, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sadieville", "lng": -84.53353, "zip_code": "40370"}
+{"locality": "Sadieville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sadieville"], "postal_code": "40370", "lat": 38.399525, "lng": -84.53353, "type": "STANDARD", "counties": [{"fips": "209", "name": "Scott"}, {"fips": "097", "name": "Harrison"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.007389, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hillsdale", "lng": -74.04247, "zip_code": "07642"});
+zipapicallback({"locality": "Hillsdale", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hillsdale"], "postal_code": "07642", "lat": 41.007389, "lng": -74.04247, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

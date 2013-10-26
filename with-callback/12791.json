@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.807694, "region": {"abbr": "NY", "name": "New York"}, "locality": "Youngsville", "lng": -74.87957, "zip_code": "12791"});
+zipapicallback({"locality": "Youngsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Youngsville"], "postal_code": "12791", "lat": 41.807694, "lng": -74.87957, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

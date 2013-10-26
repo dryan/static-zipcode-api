@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.204434, "region": {"abbr": "CA", "name": "California"}, "locality": "Dutch Flat", "lng": -120.83816, "zip_code": "95714"});
+zipapicallback({"locality": "Dutch Flat", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dutch Flat"], "postal_code": "95714", "lat": 39.204434, "lng": -120.83816, "type": "POBOX", "counties": [{"fips": "061", "name": "Placer"}]});

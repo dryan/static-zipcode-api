@@ -1,1 +1,1 @@
-{"lat": 26.28828, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Naples", "lng": -81.78726, "zip_code": "34110"}
+{"locality": "Naples", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Naples"], "postal_code": "34110", "lat": 26.28828, "lng": -81.78726, "type": "STANDARD", "counties": []}

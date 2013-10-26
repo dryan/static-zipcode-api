@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.910408, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Shamrock", "lng": -96.57768, "zip_code": "74068"});
+zipapicallback({"locality": "Shamrock", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Shamrock"], "postal_code": "74068", "lat": 35.910408, "lng": -96.57768, "type": "POBOX", "counties": [{"fips": "037", "name": "Creek"}]});

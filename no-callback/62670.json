@@ -1,1 +1,1 @@
-{"lat": 39.735761, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bates", "lng": -89.88669, "zip_code": "62670"}
+{"locality": "New Berlin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bates", "Berlin", "Curran", "New Berlin", "Old Berlin"], "postal_code": "62670", "lat": 39.735761, "lng": -89.88669, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}, {"fips": "137", "name": "Morgan"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.966812, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Delair", "lng": -75.05681, "zip_code": "08110"});
+zipapicallback({"locality": "Pennsauken", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Delair", "Pennsauken"], "postal_code": "08110", "lat": 39.966812, "lng": -75.05681, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]});

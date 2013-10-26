@@ -1,1 +1,1 @@
-{"lat": 38.813761, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Brookville", "lng": -97.9286, "zip_code": "67425"}
+{"locality": "Brookville", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Brookville"], "postal_code": "67425", "lat": 38.813761, "lng": -97.9286, "type": "STANDARD", "counties": [{"fips": "169", "name": "Saline"}, {"fips": "053", "name": "Ellsworth"}, {"fips": "105", "name": "Lincoln"}]}

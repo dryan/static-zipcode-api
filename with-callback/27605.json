@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.788284, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Raleigh", "lng": -78.65316, "zip_code": "27605"});
+zipapicallback({"locality": "Raleigh", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Raleigh"], "postal_code": "27605", "lat": 35.788284, "lng": -78.65316, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.935263, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Columbus", "lng": -83.04558, "zip_code": "43223"}
+{"locality": "Columbus", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Columbus"], "postal_code": "43223", "lat": 39.935263, "lng": -83.04558, "type": "STANDARD", "counties": [{"fips": "049", "name": "Franklin"}]}

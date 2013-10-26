@@ -1,1 +1,1 @@
-{"lat": 46.878062, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dilworth", "lng": -96.70242, "zip_code": "56529"}
+{"locality": "Dilworth", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dilworth"], "postal_code": "56529", "lat": 46.878062, "lng": -96.70242, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}]}

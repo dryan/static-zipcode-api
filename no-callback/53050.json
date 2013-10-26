@@ -1,1 +1,1 @@
-{"lat": 43.499518, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mayville", "lng": -88.53911, "zip_code": "53050"}
+{"locality": "Mayville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mayville"], "postal_code": "53050", "lat": 43.499518, "lng": -88.53911, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.036882, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Port Hadlock", "lng": -122.7599, "zip_code": "98339"}
+{"locality": "Port Hadlock", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Port Hadlock"], "postal_code": "98339", "lat": 48.036882, "lng": -122.7599, "type": "STANDARD", "counties": [{"fips": "031", "name": "Jefferson"}]}

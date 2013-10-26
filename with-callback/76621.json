@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.884263, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Abbott", "lng": -97.08385, "zip_code": "76621"});
+zipapicallback({"locality": "Abbott", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Abbott"], "postal_code": "76621", "lat": 31.884263, "lng": -97.08385, "type": "STANDARD", "counties": [{"fips": "217", "name": "Hill"}, {"fips": "309", "name": "McLennan"}]});

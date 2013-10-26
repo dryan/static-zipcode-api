@@ -1,1 +1,1 @@
-{"lat": 31.468911, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Angelo", "lng": -100.4387, "zip_code": "76903"}
+{"locality": "San Angelo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Angelo"], "postal_code": "76903", "lat": 31.468911, "lng": -100.4387, "type": "STANDARD", "counties": [{"fips": "451", "name": "Tom Green"}]}

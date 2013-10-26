@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.29141, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Carleton", "lng": -97.68109, "zip_code": "68326"});
+zipapicallback({"locality": "Carleton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Carleton"], "postal_code": "68326", "lat": 40.29141, "lng": -97.68109, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}, {"fips": "059", "name": "Fillmore"}]});

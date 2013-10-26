@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.950725, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Solomon", "lng": -97.39924, "zip_code": "67480"});
+zipapicallback({"locality": "Solomon", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Solomon"], "postal_code": "67480", "lat": 38.950725, "lng": -97.39924, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dickinson"}, {"fips": "143", "name": "Ottawa"}, {"fips": "169", "name": "Saline"}]});

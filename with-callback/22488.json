@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.046358, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Kinsale", "lng": -76.57924, "zip_code": "22488"});
+zipapicallback({"locality": "Kinsale", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Kinsale"], "postal_code": "22488", "lat": 38.046358, "lng": -76.57924, "type": "STANDARD", "counties": [{"fips": "193", "name": "Westmoreland"}]});

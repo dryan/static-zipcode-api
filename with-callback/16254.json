@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.255691, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Shippenville", "lng": -79.45122, "zip_code": "16254"});
+zipapicallback({"locality": "Shippenville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Shippenville"], "postal_code": "16254", "lat": 41.255691, "lng": -79.45122, "type": "STANDARD", "counties": [{"fips": "031", "name": "Clarion"}]});

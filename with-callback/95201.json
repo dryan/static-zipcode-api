@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Stockton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stockton"], "postal_code": "95201", "type": "POBOX", "counties": [{"fips": "077", "name": "San Joaquin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.582188, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Branchville", "lng": -77.27759, "zip_code": "23828"});
+zipapicallback({"locality": "Branchville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Branchville"], "postal_code": "23828", "lat": 36.582188, "lng": -77.27759, "type": "STANDARD", "counties": [{"fips": "175", "name": "Southampton"}]});

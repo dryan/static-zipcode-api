@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.519177, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lyle", "lng": -92.96466, "zip_code": "55953"});
+zipapicallback({"locality": "Lyle", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lyle"], "postal_code": "55953", "lat": 43.519177, "lng": -92.96466, "type": "STANDARD", "counties": [{"fips": "099", "name": "Mower"}, {"fips": "047", "name": "Freeborn"}, {"fips": "131", "name": "Rice"}]});

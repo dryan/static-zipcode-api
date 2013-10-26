@@ -1,1 +1,1 @@
-{"lat": 41.569496, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Waterbury", "lng": -73.04484, "zip_code": "06710"}
+{"locality": "Waterbury", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Waterbury"], "postal_code": "06710", "lat": 41.569496, "lng": -73.04484, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]}

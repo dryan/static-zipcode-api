@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.028275, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Petrolia", "lng": -79.75423, "zip_code": "16050"});
+zipapicallback({"locality": "Petrolia", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Petrolia"], "postal_code": "16050", "lat": 41.028275, "lng": -79.75423, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}]});

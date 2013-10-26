@@ -1,1 +1,1 @@
-{"lat": 46.861527, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lake Park", "lng": -96.10974, "zip_code": "56554"}
+{"locality": "Lake Park", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lake Park"], "postal_code": "56554", "lat": 46.861527, "lng": -96.10974, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}, {"fips": "027", "name": "Clay"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.835642, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Polacca", "lng": -110.36628, "zip_code": "86042"}
+{"locality": "Polacca", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Polacca"], "postal_code": "86042", "lat": 35.835642, "lng": -110.36628, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]}

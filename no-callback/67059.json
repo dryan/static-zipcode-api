@@ -1,1 +1,1 @@
-{"lat": 37.658761, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Haviland", "lng": -99.09672, "zip_code": "67059"}
+{"locality": "Haviland", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Haviland"], "postal_code": "67059", "lat": 37.658761, "lng": -99.09672, "type": "STANDARD", "counties": [{"fips": "097", "name": "Kiowa"}, {"fips": "047", "name": "Edwards"}, {"fips": "151", "name": "Pratt"}]}

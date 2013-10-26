@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.878058, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Plover", "lng": -94.624, "zip_code": "50573"});
+zipapicallback({"locality": "Plover", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Plover"], "postal_code": "50573", "lat": 42.878058, "lng": -94.624, "type": "POBOX", "counties": [{"fips": "151", "name": "Pocahontas"}]});

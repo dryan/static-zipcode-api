@@ -1,1 +1,1 @@
-{"lat": 39.569596, "region": {"abbr": "UT", "name": "Utah"}, "locality": "East Carbon", "lng": -110.34199, "zip_code": "84520"}
+{"locality": "East Carbon", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["East Carbon"], "postal_code": "84520", "lat": 39.569596, "lng": -110.34199, "type": "STANDARD", "counties": [{"fips": "007", "name": "Carbon"}]}

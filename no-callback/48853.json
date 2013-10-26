@@ -1,1 +1,1 @@
-{"lat": 43.102399, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Maple Rapids", "lng": -84.69278, "zip_code": "48853"}
+{"locality": "Maple Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Maple Rapids"], "postal_code": "48853", "lat": 43.102399, "lng": -84.69278, "type": "POBOX", "counties": [{"fips": "037", "name": "Clinton"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.106363, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wilsonville", "lng": -100.11077, "zip_code": "69046"});
+zipapicallback({"locality": "Wilsonville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wilsonville"], "postal_code": "69046", "lat": 40.106363, "lng": -100.11077, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}, {"fips": "145", "name": "Red Willow"}]});

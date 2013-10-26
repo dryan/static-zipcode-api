@@ -1,1 +1,1 @@
-{"lat": 39.049377, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Arnold", "lng": -76.49892, "zip_code": "21012"}
+{"locality": "Arnold", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Arnold"], "postal_code": "21012", "lat": 39.049377, "lng": -76.49892, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}, {"fips": "001", "name": "Allegany"}]}

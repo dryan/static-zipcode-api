@@ -1,1 +1,1 @@
-{"lat": 43.672525, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Crooks", "lng": -96.81757, "zip_code": "57020"}
+{"locality": "Crooks", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Crooks", "Renner"], "postal_code": "57020", "lat": 43.672525, "lng": -96.81757, "type": "STANDARD", "counties": [{"fips": "099", "name": "Minnehaha"}]}

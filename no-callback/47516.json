@@ -1,1 +1,1 @@
-{"lat": 38.762261, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bruceville", "lng": -87.4228, "zip_code": "47516"}
+{"locality": "Bruceville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bruceville"], "postal_code": "47516", "lat": 38.762261, "lng": -87.4228, "type": "STANDARD", "counties": [{"fips": "083", "name": "Knox"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.519522, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Munger", "lng": -83.76529, "zip_code": "48747"});
+zipapicallback({"locality": "Munger", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Munger"], "postal_code": "48747", "lat": 43.519522, "lng": -83.76529, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}]});

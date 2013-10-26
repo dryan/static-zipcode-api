@@ -1,1 +1,1 @@
-{"lat": 36.339548, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Cofield", "lng": -76.88086, "zip_code": "27922"}
+{"locality": "Cofield", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Cofield"], "postal_code": "27922", "lat": 36.339548, "lng": -76.88086, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hertford"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.291512, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Emden", "lng": -89.47436, "zip_code": "62635"}
+{"locality": "Emden", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Emden"], "postal_code": "62635", "lat": 40.291512, "lng": -89.47436, "type": "STANDARD", "counties": [{"fips": "107", "name": "Logan"}, {"fips": "179", "name": "Tazewell"}]}

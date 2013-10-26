@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.103044, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Belfry", "lng": -109.06992, "zip_code": "59008"});
+zipapicallback({"locality": "Belfry", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Belfry"], "postal_code": "59008", "lat": 45.103044, "lng": -109.06992, "type": "STANDARD", "counties": [{"fips": "009", "name": "Carbon"}]});

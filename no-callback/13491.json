@@ -1,1 +1,1 @@
-{"lat": 42.862696, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Winfield", "lng": -75.17053, "zip_code": "13491"}
+{"locality": "West Winfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["West Exeter", "West Winfield"], "postal_code": "13491", "lat": 42.862696, "lng": -75.17053, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}, {"fips": "065", "name": "Oneida"}, {"fips": "077", "name": "Otsego"}, {"fips": "053", "name": "Madison"}]}

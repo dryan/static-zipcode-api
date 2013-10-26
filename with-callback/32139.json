@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.385225, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Georgetown", "lng": -81.61052, "zip_code": "32139"});
+zipapicallback({"locality": "Georgetown", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Georgetown"], "postal_code": "32139", "lat": 29.385225, "lng": -81.61052, "type": "STANDARD", "counties": []});

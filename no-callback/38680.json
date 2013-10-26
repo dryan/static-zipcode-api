@@ -1,1 +1,1 @@
-{"lat": 34.961576, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Walls", "lng": -90.12315, "zip_code": "38680"}
+{"locality": "Walls", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Walls"], "postal_code": "38680", "lat": 34.961576, "lng": -90.12315, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Soto"}]}

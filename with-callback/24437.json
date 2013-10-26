@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.212067, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fort Defiance", "lng": -78.94563, "zip_code": "24437"});
+zipapicallback({"locality": "Fort Defiance", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Defiance"], "postal_code": "24437", "lat": 38.212067, "lng": -78.94563, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.500388, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Ralston", "lng": -96.74013, "zip_code": "74650"});
+zipapicallback({"locality": "Ralston", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Ralston"], "postal_code": "74650", "lat": 36.500388, "lng": -96.74013, "type": "STANDARD", "counties": [{"fips": "117", "name": "Pawnee"}, {"fips": "113", "name": "Osage"}]});

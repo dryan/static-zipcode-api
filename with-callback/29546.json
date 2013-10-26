@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.939996, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Gresham", "lng": -79.36142, "zip_code": "29546"});
+zipapicallback({"locality": "Gresham", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Brittons Neck", "Gresham"], "postal_code": "29546", "lat": 33.939996, "lng": -79.36142, "type": "STANDARD", "counties": [{"fips": "067", "name": "Marion"}]});

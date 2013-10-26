@@ -1,1 +1,1 @@
-{"lat": 37.683273, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lynco", "lng": -81.66048, "zip_code": "24857"}
+{"locality": "Lynco", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lynco"], "postal_code": "24857", "lat": 37.683273, "lng": -81.66048, "type": "POBOX", "counties": [{"fips": "109", "name": "Wyoming"}]}

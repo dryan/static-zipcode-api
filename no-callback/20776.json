@@ -1,1 +1,1 @@
-{"lat": 38.86313, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Harwood", "lng": -76.61917, "zip_code": "20776"}
+{"locality": "Harwood", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Harwood"], "postal_code": "20776", "lat": 38.86313, "lng": -76.61917, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

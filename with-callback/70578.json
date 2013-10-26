@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.234581, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Rayne", "lng": -92.26431, "zip_code": "70578"});
+zipapicallback({"locality": "Rayne", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Rayne"], "postal_code": "70578", "lat": 30.234581, "lng": -92.26431, "type": "STANDARD", "counties": [{"fips": "113", "name": "Vermilion"}, {"fips": "001", "name": "Acadia"}, {"fips": "055", "name": "Lafayette"}]});

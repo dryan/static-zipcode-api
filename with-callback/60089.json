@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.167638, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Buffalo Grove", "lng": -87.96393, "zip_code": "60089"});
+zipapicallback({"locality": "Buffalo Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Buffalo Grove"], "postal_code": "60089", "lat": 42.167638, "lng": -87.96393, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "097", "name": "Lake"}]});

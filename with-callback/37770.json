@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.133166, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lancing", "lng": -84.66792, "zip_code": "37770"});
+zipapicallback({"locality": "Lancing", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lancing"], "postal_code": "37770", "lat": 36.133166, "lng": -84.66792, "type": "STANDARD", "counties": [{"fips": "129", "name": "Morgan"}]});

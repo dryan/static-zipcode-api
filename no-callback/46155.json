@@ -1,1 +1,1 @@
-{"lat": 39.743346, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Mays", "lng": -85.43035, "zip_code": "46155"}
+{"locality": "Mays", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Mays"], "postal_code": "46155", "lat": 39.743346, "lng": -85.43035, "type": "POBOX", "counties": [{"fips": "139", "name": "Rush"}]}

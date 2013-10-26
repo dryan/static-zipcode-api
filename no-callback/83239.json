@@ -1,1 +1,1 @@
-{"lat": 42.483479, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Georgetown", "lng": -111.35333, "zip_code": "83239"}
+{"locality": "Georgetown", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Georgetown"], "postal_code": "83239", "lat": 42.483479, "lng": -111.35333, "type": "POBOX", "counties": [{"fips": "007", "name": "Bear Lake"}]}

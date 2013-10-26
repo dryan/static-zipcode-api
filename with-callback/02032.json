@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.153912, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "East Walpole", "lng": -71.21362, "zip_code": "02032"});
+zipapicallback({"locality": "East Walpole", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["East Walpole"], "postal_code": "02032", "lat": 42.153912, "lng": -71.21362, "type": "STANDARD", "counties": [{"fips": "021", "name": "Norfolk"}]});

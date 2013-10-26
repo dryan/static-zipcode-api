@@ -1,1 +1,1 @@
-{"lat": 38.861194, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Victoria", "lng": -99.15047, "zip_code": "67671"}
+{"locality": "Victoria", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Victoria"], "postal_code": "67671", "lat": 38.861194, "lng": -99.15047, "type": "STANDARD", "counties": [{"fips": "051", "name": "Ellis"}]}

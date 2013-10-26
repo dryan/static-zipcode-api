@@ -1,1 +1,1 @@
-{"lat": 34.032097, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gadsden", "lng": -86.0353, "zip_code": "35904"}
+{"locality": "Gadsden", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gadsden"], "postal_code": "35904", "lat": 34.032097, "lng": -86.0353, "type": "STANDARD", "counties": [{"fips": "055", "name": "Etowah"}]}

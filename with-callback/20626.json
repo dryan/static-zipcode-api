@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.229113, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Coltons Point", "lng": -76.75829, "zip_code": "20626"});
+zipapicallback({"locality": "Coltons Point", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Coltons Point"], "postal_code": "20626", "lat": 38.229113, "lng": -76.75829, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.033475, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "New Orleans", "lng": -89.97736, "zip_code": "70127"});
+zipapicallback({"locality": "New Orleans", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["New Orleans"], "postal_code": "70127", "lat": 30.033475, "lng": -89.97736, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orleans"}]});

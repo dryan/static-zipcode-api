@@ -1,1 +1,1 @@
-{"lat": 38.96555, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lyons", "lng": -87.09917, "zip_code": "47443"}
+{"locality": "Lyons", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lyons"], "postal_code": "47443", "lat": 38.96555, "lng": -87.09917, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]}

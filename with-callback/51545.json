@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.812797, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Little Sioux", "lng": -96.03218, "zip_code": "51545"});
+zipapicallback({"locality": "Little Sioux", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Little Sioux"], "postal_code": "51545", "lat": 41.812797, "lng": -96.03218, "type": "STANDARD", "counties": [{"fips": "085", "name": "Harrison"}, {"fips": "133", "name": "Monona"}]});

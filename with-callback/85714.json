@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.170277, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Tucson", "lng": -110.95525, "zip_code": "85714"});
+zipapicallback({"locality": "Tucson", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Tucson"], "postal_code": "85714", "lat": 32.170277, "lng": -110.95525, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}]});

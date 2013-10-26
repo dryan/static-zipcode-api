@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.330983, "region": {"abbr": "TX", "name": "Texas"}, "locality": "New Home", "lng": -101.91065, "zip_code": "79383"});
+zipapicallback({"locality": "New Home", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["New Home"], "postal_code": "79383", "lat": 33.330983, "lng": -101.91065, "type": "POBOX", "counties": [{"fips": "305", "name": "Lynn"}]});

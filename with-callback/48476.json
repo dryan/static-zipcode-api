@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.939379, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Vernon", "lng": -84.03166, "zip_code": "48476"});
+zipapicallback({"locality": "Vernon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Vernon"], "postal_code": "48476", "lat": 42.939379, "lng": -84.03166, "type": "POBOX", "counties": [{"fips": "155", "name": "Shiawassee"}]});

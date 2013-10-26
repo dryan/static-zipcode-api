@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.864326, "region": {"abbr": "NY", "name": "New York"}, "locality": "Parksville", "lng": -74.72961, "zip_code": "12768"});
+zipapicallback({"locality": "Parksville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Parksville"], "postal_code": "12768", "lat": 41.864326, "lng": -74.72961, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]});

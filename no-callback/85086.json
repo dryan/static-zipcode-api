@@ -1,1 +1,1 @@
-{"lat": 33.831866, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Phoenix", "lng": -112.06339, "zip_code": "85086"}
+{"locality": "Phoenix", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Anthem", "Desert Hills", "Phoenix"], "postal_code": "85086", "lat": 33.831866, "lng": -112.06339, "type": "STANDARD", "counties": []}

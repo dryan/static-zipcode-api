@@ -1,1 +1,1 @@
-zipapicallback({"lat": 17.970112, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Aguirre", "lng": -66.22291, "zip_code": "00704"});
+zipapicallback({"locality": "Aguirre", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Aguirre"], "postal_code": "00704", "lat": 17.970112, "lng": -66.22291, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 35.690088, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bunch", "lng": -94.76307, "zip_code": "74931"}
+{"locality": "Bunch", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bunch"], "postal_code": "74931", "lat": 35.690088, "lng": -94.76307, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.936145, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dryden", "lng": -83.13471, "zip_code": "48428"});
+zipapicallback({"locality": "Dryden", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dryden"], "postal_code": "48428", "lat": 42.936145, "lng": -83.13471, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}]});

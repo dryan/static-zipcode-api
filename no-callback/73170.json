@@ -1,1 +1,1 @@
-{"lat": 35.338716, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Moore", "lng": -97.53569, "zip_code": "73170"}
+{"locality": "Oklahoma City", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Moore", "Oklahoma City"], "postal_code": "73170", "lat": 35.338716, "lng": -97.53569, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cleveland"}, {"fips": "109", "name": "Oklahoma"}]}

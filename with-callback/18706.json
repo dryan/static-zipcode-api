@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.209869, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ashley", "lng": -75.91781, "zip_code": "18706"});
+zipapicallback({"locality": "Wilkes Barre", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ashley", "Hanover Township", "Hanover Twp", "Laurel Run", "Sugar Notch", "Warrior Run", "Wilkes Barre", "Wilkes Barre Township", "Wlks Barr Twp"], "postal_code": "18706", "lat": 41.209869, "lng": -75.91781, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

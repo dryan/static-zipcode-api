@@ -1,1 +1,1 @@
-{"lat": 40.169518, "region": {"abbr": "CA", "name": "California"}, "locality": "Alderpoint", "lng": -123.60216, "zip_code": "95511"}
+{"locality": "Alderpoint", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alderpoint"], "postal_code": "95511", "lat": 40.169518, "lng": -123.60216, "type": "STANDARD", "counties": []}

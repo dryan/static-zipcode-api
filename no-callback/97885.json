@@ -1,1 +1,1 @@
-{"lat": 45.568843, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Wallowa", "lng": -117.52645, "zip_code": "97885"}
+{"locality": "Wallowa", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Wallowa"], "postal_code": "97885", "lat": 45.568843, "lng": -117.52645, "type": "STANDARD", "counties": [{"fips": "063", "name": "Wallowa"}]}

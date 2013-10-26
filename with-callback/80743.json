@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.215063, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Otis", "lng": -102.95628, "zip_code": "80743"});
+zipapicallback({"locality": "Otis", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Otis"], "postal_code": "80743", "lat": 40.215063, "lng": -102.95628, "type": "STANDARD", "counties": [{"fips": "121", "name": "Washington"}, {"fips": "075", "name": "Logan"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.115431, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Zalma", "lng": -90.10392, "zip_code": "63787"}
+{"locality": "Zalma", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Arab", "Zalma"], "postal_code": "63787", "lat": 37.115431, "lng": -90.10392, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bollinger"}, {"fips": "223", "name": "Wayne"}]}

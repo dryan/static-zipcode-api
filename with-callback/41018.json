@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.013755, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Erlanger", "lng": -84.60229, "zip_code": "41018"});
+zipapicallback({"locality": "Erlanger", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Covington", "Edgewood", "Elsmere", "Erlanger"], "postal_code": "41018", "lat": 39.013755, "lng": -84.60229, "type": "STANDARD", "counties": [{"fips": "117", "name": "Kenton"}, {"fips": "113", "name": "Jessamine"}]});

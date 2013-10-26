@@ -1,1 +1,1 @@
-{"lat": 40.500115, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Erwinna", "lng": -75.07901, "zip_code": "18920"}
+{"locality": "Erwinna", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Erwinna"], "postal_code": "18920", "lat": 40.500115, "lng": -75.07901, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

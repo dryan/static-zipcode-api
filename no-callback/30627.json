@@ -1,1 +1,1 @@
-{"lat": 33.994139, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Carlton", "lng": -82.97819, "zip_code": "30627"}
+{"locality": "Carlton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Carlton"], "postal_code": "30627", "lat": 33.994139, "lng": -82.97819, "type": "STANDARD", "counties": [{"fips": "195", "name": "Madison"}, {"fips": "221", "name": "Oglethorpe"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.542097, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Myers", "lng": -81.69984, "zip_code": "33913"}
+{"locality": "Fort Myers", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Myers", "Miromar Lakes"], "postal_code": "33913", "lat": 26.542097, "lng": -81.69984, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}]}

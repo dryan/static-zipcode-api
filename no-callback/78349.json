@@ -1,1 +1,1 @@
-{"lat": 27.316167, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Concepcion", "lng": -98.29797, "zip_code": "78349"}
+{"locality": "Concepcion", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Concepcion"], "postal_code": "78349", "lat": 27.316167, "lng": -98.29797, "type": "STANDARD", "counties": [{"fips": "131", "name": "Duval"}]}

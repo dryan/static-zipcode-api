@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.790622, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Jericho", "lng": -80.38489, "zip_code": "29426"});
+zipapicallback({"locality": "Adams Run", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Adams Run", "Jericho"], "postal_code": "29426", "lat": 32.790622, "lng": -80.38489, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}]});

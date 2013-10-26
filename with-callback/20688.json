@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.339176, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Solomons", "lng": -76.46568, "zip_code": "20688"});
+zipapicallback({"locality": "Solomons", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Solomons"], "postal_code": "20688", "lat": 38.339176, "lng": -76.46568, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]});

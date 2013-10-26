@@ -1,1 +1,1 @@
-{"lat": 38.426602, "region": {"abbr": "CA", "name": "California"}, "locality": "Amador City", "lng": -120.8275, "zip_code": "95601"}
+{"locality": "Amador City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Amador City"], "postal_code": "95601", "lat": 38.426602, "lng": -120.8275, "type": "POBOX", "counties": [{"fips": "005", "name": "Amador"}]}

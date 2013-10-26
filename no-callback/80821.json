@@ -1,1 +1,1 @@
-{"lat": 39.020889, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hugo", "lng": -103.48045, "zip_code": "80821"}
+{"locality": "Hugo", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Boyero", "Hugo"], "postal_code": "80821", "lat": 39.020889, "lng": -103.48045, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lincoln"}]}

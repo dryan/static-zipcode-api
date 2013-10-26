@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.981075, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Laura", "lng": -84.42201, "zip_code": "45337"});
+zipapicallback({"locality": "Laura", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Laura", "Potsdm"], "postal_code": "45337", "lat": 39.981075, "lng": -84.42201, "type": "STANDARD", "counties": [{"fips": "109", "name": "Miami"}, {"fips": "037", "name": "Darke"}]});

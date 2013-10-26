@@ -1,1 +1,1 @@
-{"lat": 40.183763, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gwynedd Valley", "lng": -75.26271, "zip_code": "19437"}
+{"locality": "Gwynedd Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gwynedd Valley", "Gwynedd Vly"], "postal_code": "19437", "lat": 40.183763, "lng": -75.26271, "type": "POBOX", "counties": [{"fips": "091", "name": "Montgomery"}]}

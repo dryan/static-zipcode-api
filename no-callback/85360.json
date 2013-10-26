@@ -1,1 +1,1 @@
-{"lat": 34.681394, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Wikieup", "lng": -113.5935, "zip_code": "85360"}
+{"locality": "Wikieup", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Wikieup"], "postal_code": "85360", "lat": 34.681394, "lng": -113.5935, "type": "POBOX", "counties": [{"fips": "015", "name": "Mohave"}]}

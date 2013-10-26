@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.907619, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elkville", "lng": -89.23151, "zip_code": "62932"});
+zipapicallback({"locality": "Elkville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elkville"], "postal_code": "62932", "lat": 37.907619, "lng": -89.23151, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}, {"fips": "055", "name": "Franklin"}]});

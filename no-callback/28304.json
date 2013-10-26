@@ -1,1 +1,1 @@
-{"lat": 35.02844, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Fayetteville", "lng": -78.97037, "zip_code": "28304"}
+{"locality": "Fayetteville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Fayetteville"], "postal_code": "28304", "lat": 35.02844, "lng": -78.97037, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cumberland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.070337, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hustontown", "lng": -78.02273, "zip_code": "17229"});
+zipapicallback({"locality": "Hustontown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hustontown"], "postal_code": "17229", "lat": 40.070337, "lng": -78.02273, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}, {"fips": "061", "name": "Huntingdon"}]});

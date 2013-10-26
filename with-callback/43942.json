@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.861984, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Powhatan Point", "lng": -80.82023, "zip_code": "43942"});
+zipapicallback({"locality": "Powhatan Point", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Powhatan Point", "Powhatan Pt"], "postal_code": "43942", "lat": 39.861984, "lng": -80.82023, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}, {"fips": "111", "name": "Monroe"}]});

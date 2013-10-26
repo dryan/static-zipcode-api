@@ -1,1 +1,1 @@
-{"lat": 44.452277, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Plover", "lng": -89.54399, "zip_code": "54467"}
+{"locality": "Plover", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Plover"], "postal_code": "54467", "lat": 44.452277, "lng": -89.54399, "type": "STANDARD", "counties": [{"fips": "097", "name": "Portage"}]}

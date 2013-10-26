@@ -1,1 +1,1 @@
-{"lat": 41.053528, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clarence", "lng": -77.96226, "zip_code": "16829"}
+{"locality": "Clarence", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clarence"], "postal_code": "16829", "lat": 41.053528, "lng": -77.96226, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}]}

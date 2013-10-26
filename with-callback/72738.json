@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.155775, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Hindsville", "lng": -93.88706, "zip_code": "72738"});
+zipapicallback({"locality": "Hindsville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Hindsville"], "postal_code": "72738", "lat": 36.155775, "lng": -93.88706, "type": "STANDARD", "counties": [{"fips": "087", "name": "Madison"}, {"fips": "143", "name": "Washington"}, {"fips": "007", "name": "Benton"}]});

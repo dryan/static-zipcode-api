@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.698373, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Weimar", "lng": -96.75932, "zip_code": "78962"});
+zipapicallback({"locality": "Weimar", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Weimar"], "postal_code": "78962", "lat": 29.698373, "lng": -96.75932, "type": "STANDARD", "counties": [{"fips": "089", "name": "Colorado"}, {"fips": "149", "name": "Fayette"}]});

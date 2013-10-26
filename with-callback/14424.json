@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.85297, "region": {"abbr": "NY", "name": "New York"}, "locality": "Canandaigua", "lng": -77.29466, "zip_code": "14424"});
+zipapicallback({"locality": "Canandaigua", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Canandaigua"], "postal_code": "14424", "lat": 42.85297, "lng": -77.29466, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}]});

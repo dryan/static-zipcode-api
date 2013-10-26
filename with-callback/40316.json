@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.933123, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Denniston", "lng": -83.52303, "zip_code": "40316"});
+zipapicallback({"locality": "Denniston", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Denniston"], "postal_code": "40316", "lat": 37.933123, "lng": -83.52303, "type": "STANDARD", "counties": [{"fips": "165", "name": "Menifee"}]});

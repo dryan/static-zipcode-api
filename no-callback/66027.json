@@ -1,1 +1,1 @@
-{"lat": 39.348031, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Fort Leavenworth", "lng": -94.93177, "zip_code": "66027"}
+{"locality": "Fort Leavenworth", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Fort Leavenworth", "Ft Leavnwrth"], "postal_code": "66027", "lat": 39.348031, "lng": -94.93177, "type": "STANDARD", "counties": [{"fips": "103", "name": "Leavenworth"}]}

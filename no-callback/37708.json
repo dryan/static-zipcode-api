@@ -1,1 +1,1 @@
-{"lat": 36.320262, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bean Station", "lng": -83.32206, "zip_code": "37708"}
+{"locality": "Bean Station", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bean Station"], "postal_code": "37708", "lat": 36.320262, "lng": -83.32206, "type": "STANDARD", "counties": [{"fips": "057", "name": "Grainger"}]}

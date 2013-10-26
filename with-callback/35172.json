@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.823416, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Trafford", "lng": -86.71537, "zip_code": "35172"});
+zipapicallback({"locality": "Trafford", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["County Line", "Trafford"], "postal_code": "35172", "lat": 33.823416, "lng": -86.71537, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}, {"fips": "009", "name": "Blount"}]});

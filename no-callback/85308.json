@@ -1,1 +1,1 @@
-{"lat": 33.657722, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Glendale", "lng": -112.17825, "zip_code": "85308"}
+{"locality": "Glendale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Glendale"], "postal_code": "85308", "lat": 33.657722, "lng": -112.17825, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

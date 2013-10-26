@@ -1,1 +1,1 @@
-{"lat": 35.241311, "region": {"abbr": "CA", "name": "California"}, "locality": "Keene", "lng": -118.59338, "zip_code": "93531"}
+{"locality": "Keene", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Keene"], "postal_code": "93531", "lat": 35.241311, "lng": -118.59338, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

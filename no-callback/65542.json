@@ -1,1 +1,1 @@
-{"lat": 37.489718, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Licking", "lng": -91.87351, "zip_code": "65542"}
+{"locality": "Licking", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Licking"], "postal_code": "65542", "lat": 37.489718, "lng": -91.87351, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}, {"fips": "161", "name": "Phelps"}, {"fips": "065", "name": "Dent"}]}

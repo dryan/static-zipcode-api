@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.428269, "region": {"abbr": "NY", "name": "New York"}, "locality": "Washingtonville", "lng": -74.16178, "zip_code": "10992"});
+zipapicallback({"locality": "Washingtonville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Washingtonville", "Washingtonvle"], "postal_code": "10992", "lat": 41.428269, "lng": -74.16178, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

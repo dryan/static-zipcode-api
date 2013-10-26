@@ -1,1 +1,1 @@
-{"lat": 30.517099, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Caldwell", "lng": -96.67247, "zip_code": "77836"}
+{"locality": "Caldwell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Caldwell"], "postal_code": "77836", "lat": 30.517099, "lng": -96.67247, "type": "STANDARD", "counties": [{"fips": "051", "name": "Burleson"}]}

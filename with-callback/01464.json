@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.559289, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Shirley Center", "lng": -71.64555, "zip_code": "01464"});
+zipapicallback({"locality": "Shirley", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Shirley", "Shirley Center", "Shirley Ctr"], "postal_code": "01464", "lat": 42.559289, "lng": -71.64555, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]});

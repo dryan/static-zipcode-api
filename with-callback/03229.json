@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.204192, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Hopkinton", "lng": -71.70711, "zip_code": "03229"});
+zipapicallback({"locality": "Contoocook", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Contoocook", "Hopkinton"], "postal_code": "03229", "lat": 43.204192, "lng": -71.70711, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]});

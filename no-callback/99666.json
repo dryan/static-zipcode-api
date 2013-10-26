@@ -1,1 +1,1 @@
-{"lat": 62.495675, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Nunam Iqua", "lng": -164.97188, "zip_code": "99666"}
+{"locality": "Nunam Iqua", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Nunam Iqua"], "postal_code": "99666", "lat": 62.495675, "lng": -164.97188, "type": "POBOX", "counties": []}

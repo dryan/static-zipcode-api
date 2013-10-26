@@ -1,1 +1,1 @@
-{"lat": 40.832449, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Verona", "lng": -74.24227, "zip_code": "07044"}
+{"locality": "Verona", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Verona"], "postal_code": "07044", "lat": 40.832449, "lng": -74.24227, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

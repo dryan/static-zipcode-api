@@ -1,1 +1,1 @@
-{"lat": 35.567189, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "China Grove", "lng": -80.59116, "zip_code": "28023"}
+{"locality": "China Grove", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["China Grove"], "postal_code": "28023", "lat": 35.567189, "lng": -80.59116, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rowan"}]}

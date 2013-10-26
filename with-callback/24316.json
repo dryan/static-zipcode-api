@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.937195, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Broadford", "lng": -81.67617, "zip_code": "24316"});
+zipapicallback({"locality": "Broadford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Broadford"], "postal_code": "24316", "lat": 36.937195, "lng": -81.67617, "type": "STANDARD", "counties": [{"fips": "185", "name": "Tazewell"}, {"fips": "173", "name": "Smyth"}]});

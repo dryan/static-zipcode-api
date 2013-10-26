@@ -1,1 +1,1 @@
-{"lat": 39.821336, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fairchance", "lng": -79.75186, "zip_code": "15436"}
+{"locality": "Fairchance", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fairchance"], "postal_code": "15436", "lat": 39.821336, "lng": -79.75186, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

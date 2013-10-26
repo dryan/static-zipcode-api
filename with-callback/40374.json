@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.201485, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sharpsburg", "lng": -83.91734, "zip_code": "40374"});
+zipapicallback({"locality": "Sharpsburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bethel", "Sharpsburg"], "postal_code": "40374", "lat": 38.201485, "lng": -83.91734, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bath"}, {"fips": "017", "name": "Bourbon"}, {"fips": "181", "name": "Nicholas"}]});

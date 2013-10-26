@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.555197, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Empire", "lng": -119.35093, "zip_code": "89405"});
+zipapicallback({"locality": "Empire", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Empire"], "postal_code": "89405", "lat": 40.555197, "lng": -119.35093, "type": "POBOX", "counties": [{"fips": "031", "name": "Washoe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.898387, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Tamassee", "lng": -83.04391, "zip_code": "29686"});
+zipapicallback({"locality": "Tamassee", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Tamassee"], "postal_code": "29686", "lat": 34.898387, "lng": -83.04391, "type": "STANDARD", "counties": [{"fips": "073", "name": "Oconee"}]});

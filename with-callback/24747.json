@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.394221, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Duhring", "lng": -81.21868, "zip_code": "24747"});
+zipapicallback({"locality": "Rock", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Duhring", "Mc Comas", "Rock"], "postal_code": "24747", "lat": 37.394221, "lng": -81.21868, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}, {"fips": "047", "name": "McDowell"}]});

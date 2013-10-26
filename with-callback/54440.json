@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.830734, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hatley", "lng": -89.37414, "zip_code": "54440"});
+zipapicallback({"locality": "Hatley", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hatley"], "postal_code": "54440", "lat": 44.830734, "lng": -89.37414, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}]});

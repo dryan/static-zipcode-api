@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.118998, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Darlington", "lng": -86.76265, "zip_code": "47940"});
+zipapicallback({"locality": "Darlington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Darlington"], "postal_code": "47940", "lat": 40.118998, "lng": -86.76265, "type": "STANDARD", "counties": [{"fips": "107", "name": "Montgomery"}]});

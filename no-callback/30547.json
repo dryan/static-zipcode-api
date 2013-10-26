@@ -1,1 +1,1 @@
-{"lat": 34.348822, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Homer", "lng": -83.47738, "zip_code": "30547"}
+{"locality": "Homer", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Homer"], "postal_code": "30547", "lat": 34.348822, "lng": -83.47738, "type": "STANDARD", "counties": [{"fips": "011", "name": "Banks"}]}

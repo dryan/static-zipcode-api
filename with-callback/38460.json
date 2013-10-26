@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.08957, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Goodspring", "lng": -87.16259, "zip_code": "38460"});
+zipapicallback({"locality": "Goodspring", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Goodspring"], "postal_code": "38460", "lat": 35.08957, "lng": -87.16259, "type": "STANDARD", "counties": [{"fips": "055", "name": "Giles"}]});

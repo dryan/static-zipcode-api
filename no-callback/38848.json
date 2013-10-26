@@ -1,1 +1,1 @@
-{"lat": 33.924023, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Greenwood Spring", "lng": -88.29002, "zip_code": "38848"}
+{"locality": "Greenwood Springs", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Greenwood Spg", "Greenwood Spr", "Greenwood Springs"], "postal_code": "38848", "lat": 33.924023, "lng": -88.29002, "type": "STANDARD", "counties": [{"fips": "095", "name": "Monroe"}]}

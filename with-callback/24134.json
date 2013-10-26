@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.291252, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Pearisburg", "lng": -80.73601, "zip_code": "24134"});
+zipapicallback({"locality": "Pearisburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Pearisburg"], "postal_code": "24134", "lat": 37.291252, "lng": -80.73601, "type": "STANDARD", "counties": [{"fips": "071", "name": "Giles"}]});

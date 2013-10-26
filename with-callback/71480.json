@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.861708, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Urania", "lng": -92.29141, "zip_code": "71480"});
+zipapicallback({"locality": "Urania", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Urania"], "postal_code": "71480", "lat": 31.861708, "lng": -92.29141, "type": "POBOX", "counties": [{"fips": "059", "name": "La Salle"}]});

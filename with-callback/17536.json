@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.840243, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kirkwood", "lng": -76.07373, "zip_code": "17536"});
+zipapicallback({"locality": "Kirkwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kirkwood"], "postal_code": "17536", "lat": 39.840243, "lng": -76.07373, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

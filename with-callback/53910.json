@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.908737, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Adams", "lng": -89.80722, "zip_code": "53910"});
+zipapicallback({"locality": "Adams", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Adams"], "postal_code": "53910", "lat": 43.908737, "lng": -89.80722, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

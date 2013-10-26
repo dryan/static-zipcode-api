@@ -1,1 +1,1 @@
-{"lat": 35.576402, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Huron", "lng": -88.51041, "zip_code": "38345"}
+{"locality": "Huron", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Huron"], "postal_code": "38345", "lat": 35.576402, "lng": -88.51041, "type": "STANDARD", "counties": [{"fips": "077", "name": "Henderson"}]}

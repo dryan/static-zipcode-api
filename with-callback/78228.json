@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.457281, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Antonio", "lng": -98.5665, "zip_code": "78228"});
+zipapicallback({"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Antonio"], "postal_code": "78228", "lat": 29.457281, "lng": -98.5665, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]});

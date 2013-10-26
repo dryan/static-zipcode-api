@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.621398, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Blockton", "lng": -94.47619, "zip_code": "50836"});
+zipapicallback({"locality": "Blockton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Blockton", "Maloy"], "postal_code": "50836", "lat": 40.621398, "lng": -94.47619, "type": "STANDARD", "counties": [{"fips": "173", "name": "Taylor"}, {"fips": "159", "name": "Ringgold"}]});

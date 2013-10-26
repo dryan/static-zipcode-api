@@ -1,1 +1,1 @@
-{"lat": 38.278069, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Garnett", "lng": -95.25997, "zip_code": "66032"}
+{"locality": "Garnett", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Garnett"], "postal_code": "66032", "lat": 38.278069, "lng": -95.25997, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anderson"}, {"fips": "031", "name": "Coffey"}]}

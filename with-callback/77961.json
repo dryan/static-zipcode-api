@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.861398, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Francitas", "lng": -96.34404, "zip_code": "77961"});
+zipapicallback({"locality": "Francitas", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Francitas"], "postal_code": "77961", "lat": 28.861398, "lng": -96.34404, "type": "POBOX", "counties": [{"fips": "239", "name": "Jackson"}]});

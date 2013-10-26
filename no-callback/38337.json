@@ -1,1 +1,1 @@
-{"lat": 35.794403, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Gadsden", "lng": -89.01731, "zip_code": "38337"}
+{"locality": "Gadsden", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Gadsden"], "postal_code": "38337", "lat": 35.794403, "lng": -89.01731, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crockett"}]}

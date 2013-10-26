@@ -1,1 +1,1 @@
-{"lat": 38.96624, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hawk Point", "lng": -91.14919, "zip_code": "63349"}
+{"locality": "Hawk Point", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hawk Point"], "postal_code": "63349", "lat": 38.96624, "lng": -91.14919, "type": "STANDARD", "counties": [{"fips": "113", "name": "Lincoln"}, {"fips": "219", "name": "Warren"}]}

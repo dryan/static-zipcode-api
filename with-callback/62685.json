@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.14665, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Royal Lakes", "lng": -90.00059, "zip_code": "62685"});
+zipapicallback({"locality": "Shipman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Plainview", "Royal Lakes", "Shipman"], "postal_code": "62685", "lat": 39.14665, "lng": -90.00059, "type": "STANDARD", "counties": [{"fips": "117", "name": "MacOupin"}]});

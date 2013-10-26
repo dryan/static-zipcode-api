@@ -1,1 +1,1 @@
-{"lat": 41.730533, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hometown", "lng": -87.73198, "zip_code": "60456"}
+{"locality": "Hometown", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hometown", "Oak Lawn"], "postal_code": "60456", "lat": 41.730533, "lng": -87.73198, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

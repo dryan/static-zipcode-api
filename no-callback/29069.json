@@ -1,1 +1,1 @@
-{"lat": 34.183978, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Lamar", "lng": -80.07629, "zip_code": "29069"}
+{"locality": "Lamar", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Lamar"], "postal_code": "29069", "lat": 34.183978, "lng": -80.07629, "type": "STANDARD", "counties": [{"fips": "031", "name": "Darlington"}, {"fips": "061", "name": "Lee"}]}

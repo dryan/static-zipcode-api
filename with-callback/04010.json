@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.938741, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Brownfield", "lng": -70.90049, "zip_code": "04010"});
+zipapicallback({"locality": "Brownfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Brownfield"], "postal_code": "04010", "lat": 43.938741, "lng": -70.90049, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]});

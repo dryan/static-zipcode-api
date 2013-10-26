@@ -1,1 +1,1 @@
-{"lat": 40.724168, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Millburn", "lng": -74.29913, "zip_code": "07041"}
+{"locality": "Millburn", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Millburn"], "postal_code": "07041", "lat": 40.724168, "lng": -74.29913, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

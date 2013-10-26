@@ -1,1 +1,1 @@
-{"lat": 35.751554, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bone Cave", "lng": -85.63943, "zip_code": "38581"}
+{"locality": "Rock Island", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bone Cave", "Rock Island"], "postal_code": "38581", "lat": 35.751554, "lng": -85.63943, "type": "STANDARD", "counties": [{"fips": "177", "name": "Warren"}, {"fips": "041", "name": "Dekalb"}, {"fips": "175", "name": "Van Buren"}]}

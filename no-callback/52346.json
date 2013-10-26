@@ -1,1 +1,1 @@
-{"lat": 42.010556, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Van Horne", "lng": -92.08308, "zip_code": "52346"}
+{"locality": "Van Horne", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Van Horne"], "postal_code": "52346", "lat": 42.010556, "lng": -92.08308, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]}

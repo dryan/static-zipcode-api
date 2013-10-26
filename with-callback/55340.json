@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.07343, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hamel", "lng": -93.56455, "zip_code": "55340"});
+zipapicallback({"locality": "Hamel", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Corcoran", "Hamel", "Medina"], "postal_code": "55340", "lat": 45.07343, "lng": -93.56455, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]});

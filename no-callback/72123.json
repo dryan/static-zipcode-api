@@ -1,1 +1,1 @@
-{"lat": 35.256759, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Patterson", "lng": -91.23819, "zip_code": "72123"}
+{"locality": "Patterson", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Patterson"], "postal_code": "72123", "lat": 35.256759, "lng": -91.23819, "type": "POBOX", "counties": [{"fips": "147", "name": "Woodruff"}]}

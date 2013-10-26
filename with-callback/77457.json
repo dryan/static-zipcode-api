@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.67494, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Matagorda", "lng": -95.9653, "zip_code": "77457"});
+zipapicallback({"locality": "Matagorda", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Matagorda"], "postal_code": "77457", "lat": 28.67494, "lng": -95.9653, "type": "POBOX", "counties": [{"fips": "321", "name": "Matagorda"}]});

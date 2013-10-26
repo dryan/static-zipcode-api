@@ -1,1 +1,1 @@
-{"lat": 36.116401, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Okeene", "lng": -98.33352, "zip_code": "73763"}
+{"locality": "Okeene", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Okeene"], "postal_code": "73763", "lat": 36.116401, "lng": -98.33352, "type": "STANDARD", "counties": [{"fips": "011", "name": "Blaine"}, {"fips": "093", "name": "Major"}, {"fips": "073", "name": "Kingfisher"}]}

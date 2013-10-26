@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.952303, "region": {"abbr": "CA", "name": "California"}, "locality": "Desert Hot Sprin", "lng": -116.50804, "zip_code": "92240"});
+zipapicallback({"locality": "Desert Hot Springs", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Desert Hot Springs", "Dsrt Hot Spgs"], "postal_code": "92240", "lat": 33.952303, "lng": -116.50804, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}]});

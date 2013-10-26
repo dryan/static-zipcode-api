@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.994595, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Willow Hill", "lng": -88.00464, "zip_code": "62480"});
+zipapicallback({"locality": "Willow Hill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Willow Hill"], "postal_code": "62480", "lat": 38.994595, "lng": -88.00464, "type": "STANDARD", "counties": [{"fips": "079", "name": "Jasper"}]});

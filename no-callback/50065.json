@@ -1,1 +1,1 @@
-{"lat": 40.623677, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pleasanton", "lng": -93.80106, "zip_code": "50065"}
+{"locality": "Davis City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Davis City", "Pleasanton"], "postal_code": "50065", "lat": 40.623677, "lng": -93.80106, "type": "STANDARD", "counties": [{"fips": "053", "name": "Decatur"}]}

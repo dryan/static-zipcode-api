@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.211982, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ocean Grove", "lng": -74.00916, "zip_code": "07756"});
+zipapicallback({"locality": "Ocean Grove", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ocean Grove"], "postal_code": "07756", "lat": 40.211982, "lng": -74.00916, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]});

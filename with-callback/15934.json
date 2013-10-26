@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.280875, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Elton", "lng": -78.80196, "zip_code": "15934"});
+zipapicallback({"locality": "Elton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Elton"], "postal_code": "15934", "lat": 40.280875, "lng": -78.80196, "type": "POBOX", "counties": [{"fips": "021", "name": "Cambria"}]});

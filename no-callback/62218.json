@@ -1,1 +1,1 @@
-{"lat": 38.535097, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bartelso", "lng": -89.46426, "zip_code": "62218"}
+{"locality": "Bartelso", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bartelso"], "postal_code": "62218", "lat": 38.535097, "lng": -89.46426, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clinton"}]}

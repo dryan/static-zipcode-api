@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.686766, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ozone", "lng": -93.42258, "zip_code": "72854"});
+zipapicallback({"locality": "Ozone", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ozone"], "postal_code": "72854", "lat": 35.686766, "lng": -93.42258, "type": "STANDARD", "counties": [{"fips": "071", "name": "Johnson"}]});

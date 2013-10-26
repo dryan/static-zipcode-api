@@ -1,1 +1,1 @@
-{"lat": 39.481247, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Middlebourne", "lng": -80.87533, "zip_code": "26149"}
+{"locality": "Middlebourne", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Middlebourne", "Wick"], "postal_code": "26149", "lat": 39.481247, "lng": -80.87533, "type": "STANDARD", "counties": [{"fips": "095", "name": "Tyler"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.463533, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Bude", "lng": -90.84522, "zip_code": "39630"}
+{"locality": "Bude", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bude"], "postal_code": "39630", "lat": 31.463533, "lng": -90.84522, "type": "STANDARD", "counties": [{"fips": "037", "name": "Franklin"}]}

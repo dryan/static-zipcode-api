@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.50963, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dubuque", "lng": -90.75329, "zip_code": "52002"});
+zipapicallback({"locality": "Dubuque", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Asbury", "Dubuque"], "postal_code": "52002", "lat": 42.50963, "lng": -90.75329, "type": "STANDARD", "counties": []});

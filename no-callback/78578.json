@@ -1,1 +1,1 @@
-{"lat": 26.080434, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Port Isabel", "lng": -97.25024, "zip_code": "78578"}
+{"locality": "Port Isabel", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Laguna Heights", "Laguna Hts", "Laguna Vista", "Port Isabel"], "postal_code": "78578", "lat": 26.080434, "lng": -97.25024, "type": "STANDARD", "counties": [{"fips": "061", "name": "Cameron"}]}

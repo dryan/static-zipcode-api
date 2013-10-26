@@ -1,1 +1,1 @@
-{"lat": 38.817788, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Wilson", "lng": -98.44972, "zip_code": "67490"}
+{"locality": "Wilson", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Wilson"], "postal_code": "67490", "lat": 38.817788, "lng": -98.44972, "type": "STANDARD", "counties": [{"fips": "053", "name": "Ellsworth"}, {"fips": "167", "name": "Russell"}, {"fips": "105", "name": "Lincoln"}]}

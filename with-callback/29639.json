@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.325575, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Due West", "lng": -82.4023, "zip_code": "29639"});
+zipapicallback({"locality": "Due West", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Due West"], "postal_code": "29639", "lat": 34.325575, "lng": -82.4023, "type": "STANDARD", "counties": [{"fips": "001", "name": "Abbeville"}]});

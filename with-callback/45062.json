@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.480856, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Seven Mile", "lng": -84.55382, "zip_code": "45062"});
+zipapicallback({"locality": "Seven Mile", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Seven Mile"], "postal_code": "45062", "lat": 39.480856, "lng": -84.55382, "type": "POBOX", "counties": [{"fips": "017", "name": "Butler"}]});

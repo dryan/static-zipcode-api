@@ -1,1 +1,1 @@
-{"lat": 29.883266, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Charenton", "lng": -91.5301, "zip_code": "70523"}
+{"locality": "Charenton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Charenton"], "postal_code": "70523", "lat": 29.883266, "lng": -91.5301, "type": "POBOX", "counties": [{"fips": "101", "name": "St. Mary"}]}

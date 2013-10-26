@@ -1,1 +1,1 @@
-{"lat": 38.287411, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Owensville", "lng": -87.72954, "zip_code": "47665"}
+{"locality": "Owensville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Owensville"], "postal_code": "47665", "lat": 38.287411, "lng": -87.72954, "type": "STANDARD", "counties": [{"fips": "051", "name": "Gibson"}]}

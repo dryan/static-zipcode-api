@@ -1,1 +1,1 @@
-{"lat": 37.261609, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rocky Gap", "lng": -81.10659, "zip_code": "24366"}
+{"locality": "Rocky Gap", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rocky Gap"], "postal_code": "24366", "lat": 37.261609, "lng": -81.10659, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bland"}]}

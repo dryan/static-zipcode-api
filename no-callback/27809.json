@@ -1,1 +1,1 @@
-{"lat": 36.032405, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Battleboro", "lng": -77.78636, "zip_code": "27809"}
+{"locality": "Battleboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Battleboro"], "postal_code": "27809", "lat": 36.032405, "lng": -77.78636, "type": "STANDARD", "counties": [{"fips": "065", "name": "Edgecombe"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.588341, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Union", "lng": -89.13047, "zip_code": "39365"});
+zipapicallback({"locality": "Union", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Union"], "postal_code": "39365", "lat": 32.588341, "lng": -89.13047, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}, {"fips": "099", "name": "Neshoba"}, {"fips": "069", "name": "Kemper"}, {"fips": "079", "name": "Leake"}]});

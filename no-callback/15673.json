@@ -1,1 +1,1 @@
-{"lat": 40.593301, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "North Apollo", "lng": -79.55779, "zip_code": "15673"}
+{"locality": "North Apollo", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["North Apollo"], "postal_code": "15673", "lat": 40.593301, "lng": -79.55779, "type": "POBOX", "counties": [{"fips": "005", "name": "Armstrong"}]}

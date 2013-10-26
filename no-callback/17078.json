@@ -1,1 +1,1 @@
-{"lat": 40.304156, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Palmyra", "lng": -76.5912, "zip_code": "17078"}
+{"locality": "Palmyra", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Palmyra"], "postal_code": "17078", "lat": 40.304156, "lng": -76.5912, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lebanon"}, {"fips": "043", "name": "Dauphin"}]}

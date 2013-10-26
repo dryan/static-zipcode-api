@@ -1,1 +1,1 @@
-{"lat": 40.344319, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Larimer", "lng": -79.72574, "zip_code": "15647"}
+{"locality": "Larimer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Larimer"], "postal_code": "15647", "lat": 40.344319, "lng": -79.72574, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]}

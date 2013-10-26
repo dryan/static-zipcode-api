@@ -1,1 +1,1 @@
-{"lat": 38.412764, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gerald", "lng": -91.3246, "zip_code": "63037"}
+{"locality": "Gerald", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gerald"], "postal_code": "63037", "lat": 38.412764, "lng": -91.3246, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]}

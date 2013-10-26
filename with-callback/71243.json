@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.950754, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fort Necessity", "lng": -91.78463, "zip_code": "71243"});
+zipapicallback({"locality": "Fort Necessity", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Extension", "Fort Necessity", "Ft Necessity"], "postal_code": "71243", "lat": 31.950754, "lng": -91.78463, "type": "STANDARD", "counties": [{"fips": "041", "name": "Franklin"}]});

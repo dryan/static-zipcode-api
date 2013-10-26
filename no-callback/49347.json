@@ -1,1 +1,1 @@
-{"lat": 43.3157, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Trufant", "lng": -85.35285, "zip_code": "49347"}
+{"locality": "Trufant", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Trufant"], "postal_code": "49347", "lat": 43.3157, "lng": -85.35285, "type": "STANDARD", "counties": [{"fips": "117", "name": "Montcalm"}, {"fips": "081", "name": "Kent"}]}

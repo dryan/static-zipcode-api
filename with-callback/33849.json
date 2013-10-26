@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.24625, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Kathleen", "lng": -82.06358, "zip_code": "33849"});
+zipapicallback({"locality": "Kathleen", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kathleen"], "postal_code": "33849", "lat": 28.24625, "lng": -82.06358, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]});

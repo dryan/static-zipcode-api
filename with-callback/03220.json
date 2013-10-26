@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.459555, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Belmont", "lng": -71.47352, "zip_code": "03220"});
+zipapicallback({"locality": "Belmont", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Belmont"], "postal_code": "03220", "lat": 43.459555, "lng": -71.47352, "type": "STANDARD", "counties": [{"fips": "001", "name": "Belknap"}, {"fips": "011", "name": "Hillsborough"}]});

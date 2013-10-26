@@ -1,1 +1,1 @@
-{"lat": 39.840491, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mont Alto", "lng": -77.55239, "zip_code": "17237"}
+{"locality": "Mont Alto", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mont Alto"], "postal_code": "17237", "lat": 39.840491, "lng": -77.55239, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}, {"fips": "043", "name": "Dauphin"}]}

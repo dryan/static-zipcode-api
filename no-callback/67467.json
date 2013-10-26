@@ -1,1 +1,1 @@
-{"lat": 39.131275, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Minneapolis", "lng": -97.70794, "zip_code": "67467"}
+{"locality": "Minneapolis", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ada", "Minneapolis", "Wells"], "postal_code": "67467", "lat": 39.131275, "lng": -97.70794, "type": "STANDARD", "counties": [{"fips": "143", "name": "Ottawa"}]}

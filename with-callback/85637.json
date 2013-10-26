@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.733433, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sonoita", "lng": -110.66869, "zip_code": "85637"});
+zipapicallback({"locality": "Sonoita", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sonoita"], "postal_code": "85637", "lat": 31.733433, "lng": -110.66869, "type": "STANDARD", "counties": [{"fips": "023", "name": "Santa Cruz"}, {"fips": "019", "name": "Pima"}]});

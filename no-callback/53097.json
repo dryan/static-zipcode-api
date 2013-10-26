@@ -1,1 +1,1 @@
-{"lat": 43.234506, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mequon", "lng": -88.00914, "zip_code": "53097"}
+{"locality": "Mequon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mequon", "Thiensville"], "postal_code": "53097", "lat": 43.234506, "lng": -88.00914, "type": "STANDARD", "counties": []}

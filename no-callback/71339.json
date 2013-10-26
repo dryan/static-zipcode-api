@@ -1,1 +1,1 @@
-{"lat": 31.024614, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Hamburg", "lng": -91.92715, "zip_code": "71339"}
+{"locality": "Hamburg", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Hamburg"], "postal_code": "71339", "lat": 31.024614, "lng": -91.92715, "type": "POBOX", "counties": [{"fips": "009", "name": "Avoyelles"}]}

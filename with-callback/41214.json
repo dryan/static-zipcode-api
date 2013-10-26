@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.775385, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Davella", "lng": -82.57034, "zip_code": "41214"});
+zipapicallback({"locality": "Debord", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Davella", "Debord"], "postal_code": "41214", "lat": 37.775385, "lng": -82.57034, "type": "STANDARD", "counties": [{"fips": "159", "name": "Martin"}]});

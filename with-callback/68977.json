@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.092127, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stamford", "lng": -99.63058, "zip_code": "68977"});
+zipapicallback({"locality": "Stamford", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stamford"], "postal_code": "68977", "lat": 40.092127, "lng": -99.63058, "type": "STANDARD", "counties": [{"fips": "083", "name": "Harlan"}, {"fips": "065", "name": "Furnas"}]});

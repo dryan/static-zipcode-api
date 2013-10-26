@@ -1,1 +1,1 @@
-{"lat": 38.279059, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lyndon", "lng": -85.59037, "zip_code": "40242"}
+{"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Briarwood", "Langdon Place", "Louisville", "Lyndon", "Meadow Vale", "Murray Hill", "Old Brownsboro Place", "Old Brownsbro", "Plantation", "Rolling Hills"], "postal_code": "40242", "lat": 38.279059, "lng": -85.59037, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}]}

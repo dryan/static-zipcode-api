@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.358334, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mount Crawford", "lng": -78.90667, "zip_code": "22841"});
+zipapicallback({"locality": "Mount Crawford", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Mount Crawford", "Mt Crawford"], "postal_code": "22841", "lat": 38.358334, "lng": -78.90667, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}, {"fips": "015", "name": "Augusta"}]});

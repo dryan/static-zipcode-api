@@ -1,1 +1,1 @@
-{"lat": 43.834331, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Truman", "lng": -94.4436, "zip_code": "56088"}
+{"locality": "Truman", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Truman"], "postal_code": "56088", "lat": 43.834331, "lng": -94.4436, "type": "STANDARD", "counties": [{"fips": "091", "name": "Martin"}, {"fips": "013", "name": "Blue Earth"}, {"fips": "165", "name": "Watonwan"}]}

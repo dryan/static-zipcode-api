@@ -1,1 +1,1 @@
-{"lat": 35.322849, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Erwin", "lng": -78.68964, "zip_code": "28339"}
+{"locality": "Erwin", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Erwin"], "postal_code": "28339", "lat": 35.322849, "lng": -78.68964, "type": "STANDARD", "counties": [{"fips": "085", "name": "Harnett"}]}

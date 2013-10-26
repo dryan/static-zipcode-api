@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.803168, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Knightstown", "lng": -85.51553, "zip_code": "46148"});
+zipapicallback({"locality": "Knightstown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Knightstown"], "postal_code": "46148", "lat": 39.803168, "lng": -85.51553, "type": "STANDARD", "counties": [{"fips": "065", "name": "Henry"}, {"fips": "059", "name": "Hancock"}, {"fips": "139", "name": "Rush"}]});

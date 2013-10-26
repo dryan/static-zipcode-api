@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.055737, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Christiansburg", "lng": -84.02525, "zip_code": "45389"});
+zipapicallback({"locality": "Christiansburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Christiansbrg", "Christiansburg"], "postal_code": "45389", "lat": 40.055737, "lng": -84.02525, "type": "POBOX", "counties": [{"fips": "021", "name": "Champaign"}]});

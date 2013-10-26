@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.059559, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Edna", "lng": -95.356, "zip_code": "67342"});
+zipapicallback({"locality": "Edna", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Edna"], "postal_code": "67342", "lat": 37.059559, "lng": -95.356, "type": "STANDARD", "counties": [{"fips": "099", "name": "Labette"}]});

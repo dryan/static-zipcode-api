@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.697701, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Berkey", "lng": -83.83446, "zip_code": "43504"});
+zipapicallback({"locality": "Berkey", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Berkey"], "postal_code": "43504", "lat": 41.697701, "lng": -83.83446, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lucas"}]});

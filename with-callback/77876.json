@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.647831, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Shiro", "lng": -95.83191, "zip_code": "77876"});
+zipapicallback({"locality": "Shiro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Shiro"], "postal_code": "77876", "lat": 30.647831, "lng": -95.83191, "type": "POBOX", "counties": [{"fips": "471", "name": "Walker"}]});

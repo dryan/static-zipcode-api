@@ -1,1 +1,1 @@
-{"lat": 34.284935, "region": {"abbr": "CA", "name": "California"}, "locality": "San Fernando", "lng": -118.43821, "zip_code": "91340"}
+{"locality": "San Fernando", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Fernando"], "postal_code": "91340", "lat": 34.284935, "lng": -118.43821, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]}

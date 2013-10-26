@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.513011, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Christmas", "lng": -80.99418, "zip_code": "32709"});
+zipapicallback({"locality": "Christmas", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Christmas"], "postal_code": "32709", "lat": 28.513011, "lng": -80.99418, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]});

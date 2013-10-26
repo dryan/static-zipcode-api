@@ -1,1 +1,1 @@
-{"lat": 43.11545, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dolgeville", "lng": -74.74379, "zip_code": "13329"}
+{"locality": "Dolgeville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dolgeville"], "postal_code": "13329", "lat": 43.11545, "lng": -74.74379, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}, {"fips": "035", "name": "Fulton"}]}

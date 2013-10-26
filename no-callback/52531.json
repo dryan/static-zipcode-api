@@ -1,1 +1,1 @@
-{"lat": 41.026796, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Albia", "lng": -92.7984, "zip_code": "52531"}
+{"locality": "Albia", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Albia", "Hiteman"], "postal_code": "52531", "lat": 41.026796, "lng": -92.7984, "type": "STANDARD", "counties": [{"fips": "135", "name": "Monroe"}]}

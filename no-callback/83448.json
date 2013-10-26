@@ -1,1 +1,1 @@
-{"lat": 43.860023, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Sugar City", "lng": -111.70879, "zip_code": "83448"}
+{"locality": "Sugar City", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Sugar City"], "postal_code": "83448", "lat": 43.860023, "lng": -111.70879, "type": "STANDARD", "counties": [{"fips": "065", "name": "Madison"}, {"fips": "043", "name": "Fremont"}]}

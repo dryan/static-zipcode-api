@@ -1,1 +1,1 @@
-{"lat": 42.430684, "region": {"abbr": "NY", "name": "New York"}, "locality": "Greenville", "lng": -74.03728, "zip_code": "12083"}
+{"locality": "Greenville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Greenville", "Norton Hill", "S Westerlo", "South Westerlo"], "postal_code": "12083", "lat": 42.430684, "lng": -74.03728, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}, {"fips": "001", "name": "Albany"}]}

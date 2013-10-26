@@ -1,1 +1,1 @@
-{"lat": 35.822918, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hartford", "lng": -83.10835, "zip_code": "37753"}
+{"locality": "Hartford", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hartford"], "postal_code": "37753", "lat": 35.822918, "lng": -83.10835, "type": "STANDARD", "counties": [{"fips": "029", "name": "Cocke"}]}

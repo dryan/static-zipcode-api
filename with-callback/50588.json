@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.646924, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Storm Lake", "lng": -95.1807, "zip_code": "50588"});
+zipapicallback({"locality": "Storm Lake", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lakeside", "Storm Lake"], "postal_code": "50588", "lat": 42.646924, "lng": -95.1807, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buena Vista"}]});

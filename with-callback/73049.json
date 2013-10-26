@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.572909, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Jones", "lng": -97.29596, "zip_code": "73049"});
+zipapicallback({"locality": "Jones", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Jones"], "postal_code": "73049", "lat": 35.572909, "lng": -97.29596, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}]});

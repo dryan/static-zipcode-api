@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.892445, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Atlantic", "lng": -75.51107, "zip_code": "23303"});
+zipapicallback({"locality": "Atlantic", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Atlantic"], "postal_code": "23303", "lat": 37.892445, "lng": -75.51107, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

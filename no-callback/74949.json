@@ -1,1 +1,1 @@
-{"lat": 34.669198, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Muse", "lng": -94.75729, "zip_code": "74949"}
+{"locality": "Muse", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Muse"], "postal_code": "74949", "lat": 34.669198, "lng": -94.75729, "type": "STANDARD", "counties": [{"fips": "079", "name": "Le Flore"}]}

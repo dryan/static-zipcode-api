@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.654622, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Litchville", "lng": -98.20015, "zip_code": "58461"});
+zipapicallback({"locality": "Litchville", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Litchville"], "postal_code": "58461", "lat": 46.654622, "lng": -98.20015, "type": "STANDARD", "counties": [{"fips": "003", "name": "Barnes"}, {"fips": "045", "name": "Lamoure"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.739587, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Callery", "lng": -80.03721, "zip_code": "16024"}
+{"locality": "Callery", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Callery"], "postal_code": "16024", "lat": 40.739587, "lng": -80.03721, "type": "POBOX", "counties": [{"fips": "019", "name": "Butler"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.620755, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Landess", "lng": -85.50548, "zip_code": "46991"});
+zipapicallback({"locality": "Van Buren", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Van Buren"], "postal_code": "46991", "lat": 40.620755, "lng": -85.50548, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}, {"fips": "179", "name": "Wells"}, {"fips": "069", "name": "Huntington"}]});

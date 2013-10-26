@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.485617, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Westgate", "lng": -82.58294, "zip_code": "34205"});
+zipapicallback({"locality": "Bradenton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bradenton"], "postal_code": "34205", "lat": 27.485617, "lng": -82.58294, "type": "STANDARD", "counties": [{"fips": "081", "name": "Manatee"}]});

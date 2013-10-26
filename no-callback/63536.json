@@ -1,1 +1,1 @@
-{"lat": 40.486993, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Downing", "lng": -92.36284, "zip_code": "63536"}
+{"locality": "Downing", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Downing"], "postal_code": "63536", "lat": 40.486993, "lng": -92.36284, "type": "STANDARD", "counties": [{"fips": "197", "name": "Schuyler"}, {"fips": "199", "name": "Scotland"}]}

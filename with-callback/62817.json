@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.954727, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Broughton", "lng": -88.47128, "zip_code": "62817"});
+zipapicallback({"locality": "Broughton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Broughton", "Dale"], "postal_code": "62817", "lat": 37.954727, "lng": -88.47128, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hamilton"}]});

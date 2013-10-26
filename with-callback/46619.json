@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.667797, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "South Bend", "lng": -86.31341, "zip_code": "46619"});
+zipapicallback({"locality": "South Bend", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["South Bend"], "postal_code": "46619", "lat": 41.667797, "lng": -86.31341, "type": "STANDARD", "counties": [{"fips": "141", "name": "Saint Joseph"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.171782, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Des Lacs", "lng": -101.60981, "zip_code": "58733"});
+zipapicallback({"locality": "Des Lacs", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Des Lacs"], "postal_code": "58733", "lat": 48.171782, "lng": -101.60981, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}]});

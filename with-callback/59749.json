@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.528809, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Sheridan", "lng": -112.1097, "zip_code": "59749"});
+zipapicallback({"locality": "Sheridan", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Sheridan"], "postal_code": "59749", "lat": 45.528809, "lng": -112.1097, "type": "STANDARD", "counties": [{"fips": "057", "name": "Madison"}]});

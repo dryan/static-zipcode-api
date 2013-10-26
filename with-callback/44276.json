@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.951253, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sterling", "lng": -81.82651, "zip_code": "44276"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sterling"], "postal_code": "44276", "lat": 40.951253, "lng": -81.82651, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}]});

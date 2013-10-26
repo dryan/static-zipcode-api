@@ -1,1 +1,1 @@
-{"lat": 42.285987, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Parma", "lng": -84.59305, "zip_code": "49269"}
+{"locality": "Parma", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Parma"], "postal_code": "49269", "lat": 42.285987, "lng": -84.59305, "type": "STANDARD", "counties": [{"fips": "075", "name": "Jackson"}]}

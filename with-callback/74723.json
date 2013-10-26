@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.997865, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bennington", "lng": -96.02963, "zip_code": "74723"});
+zipapicallback({"locality": "Bennington", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bennington", "Wade"], "postal_code": "74723", "lat": 33.997865, "lng": -96.02963, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bryan"}]});

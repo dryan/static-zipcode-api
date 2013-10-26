@@ -1,1 +1,1 @@
-{"lat": 44.813419, "region": {"abbr": "NY", "name": "New York"}, "locality": "Malone", "lng": -74.2772, "zip_code": "12953"}
+{"locality": "Malone", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Malone"], "postal_code": "12953", "lat": 44.813419, "lng": -74.2772, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}, {"fips": "003", "name": "Allegany"}]}

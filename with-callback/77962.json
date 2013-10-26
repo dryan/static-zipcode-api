@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.02864, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ganado", "lng": -96.50513, "zip_code": "77962"});
+zipapicallback({"locality": "Ganado", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ganado"], "postal_code": "77962", "lat": 29.02864, "lng": -96.50513, "type": "STANDARD", "counties": [{"fips": "239", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.083011, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Lewiston Woodvil", "lng": -77.19032, "zip_code": "27849"});
+zipapicallback({"locality": "Lewiston Woodville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Lewiston", "Lewiston Woodville"], "postal_code": "27849", "lat": 36.083011, "lng": -77.19032, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bertie"}]});

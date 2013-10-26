@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.558344, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glenwood", "lng": -82.17149, "zip_code": "25520"});
+zipapicallback({"locality": "Glenwood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glenwood"], "postal_code": "25520", "lat": 38.558344, "lng": -82.17149, "type": "STANDARD", "counties": [{"fips": "053", "name": "Mason"}, {"fips": "011", "name": "Cabell"}]});

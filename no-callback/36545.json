@@ -1,1 +1,1 @@
-{"lat": 31.508231, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jackson", "lng": -87.88346, "zip_code": "36545"}
+{"locality": "Jackson", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jackson", "Salipta", "Walker Spgs", "Walker Springs"], "postal_code": "36545", "lat": 31.508231, "lng": -87.88346, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clarke"}, {"fips": "097", "name": "Mobile"}]}

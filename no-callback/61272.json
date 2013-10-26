@@ -1,1 +1,1 @@
-{"lat": 41.223984, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "New Boston", "lng": -91.0123, "zip_code": "61272"}
+{"locality": "New Boston", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["New Boston"], "postal_code": "61272", "lat": 41.223984, "lng": -91.0123, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mercer"}]}

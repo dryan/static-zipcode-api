@@ -1,1 +1,1 @@
-{"lat": 38.48444, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pigeon", "lng": -81.19156, "zip_code": "25164"}
+{"locality": "Procious", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ovapa", "Pigeon", "Procious"], "postal_code": "25164", "lat": 38.48444, "lng": -81.19156, "type": "STANDARD", "counties": [{"fips": "015", "name": "Clay"}]}

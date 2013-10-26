@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.271872, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Hathaway", "lng": -106.21374, "zip_code": "59333"});
+zipapicallback({"locality": "Hathaway", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Hathaway"], "postal_code": "59333", "lat": 46.271872, "lng": -106.21374, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rosebud"}]});

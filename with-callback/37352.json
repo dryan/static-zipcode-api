@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.276795, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lynchburg", "lng": -86.35264, "zip_code": "37352"});
+zipapicallback({"locality": "Lynchburg", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lynchburg"], "postal_code": "37352", "lat": 35.276795, "lng": -86.35264, "type": "STANDARD", "counties": [{"fips": "127", "name": "Moore"}]});

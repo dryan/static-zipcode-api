@@ -1,1 +1,1 @@
-{"lat": 39.285323, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Augusta", "lng": -78.59401, "zip_code": "26704"}
+{"locality": "Augusta", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Augusta"], "postal_code": "26704", "lat": 39.285323, "lng": -78.59401, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hampshire"}]}

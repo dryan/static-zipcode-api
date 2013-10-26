@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.408295, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Alexandria", "lng": -79.43967, "zip_code": "15670"});
+zipapicallback({"locality": "New Alexandria", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Alexandri", "New Alexandria"], "postal_code": "15670", "lat": 40.408295, "lng": -79.43967, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}]});

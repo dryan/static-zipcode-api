@@ -1,1 +1,1 @@
-{"lat": 31.165903, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Purvis", "lng": -89.41323, "zip_code": "39475"}
+{"locality": "Purvis", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Purvis"], "postal_code": "39475", "lat": 31.165903, "lng": -89.41323, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lamar"}, {"fips": "035", "name": "Forrest"}]}

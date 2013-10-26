@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.668554, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Chester", "lng": -94.27583, "zip_code": "72934"});
+zipapicallback({"locality": "Chester", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Chester"], "postal_code": "72934", "lat": 35.668554, "lng": -94.27583, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crawford"}]});

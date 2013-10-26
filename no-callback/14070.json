@@ -1,1 +1,1 @@
-{"lat": 42.453234, "region": {"abbr": "NY", "name": "New York"}, "locality": "Gowanda", "lng": -78.9348, "zip_code": "14070"}
+{"locality": "Gowanda", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Gowanda"], "postal_code": "14070", "lat": 42.453234, "lng": -78.9348, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}, {"fips": "029", "name": "Erie"}]}

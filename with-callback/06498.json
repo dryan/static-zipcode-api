@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.289499, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Westbrook", "lng": -72.46087, "zip_code": "06498"});
+zipapicallback({"locality": "Westbrook", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Westbrook"], "postal_code": "06498", "lat": 41.289499, "lng": -72.46087, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}, {"fips": "011", "name": "New London"}]});

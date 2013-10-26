@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.677082, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hunnewell", "lng": -91.8584, "zip_code": "63443"});
+zipapicallback({"locality": "Hunnewell", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hunnewell"], "postal_code": "63443", "lat": 39.677082, "lng": -91.8584, "type": "STANDARD", "counties": [{"fips": "205", "name": "Shelby"}, {"fips": "137", "name": "Monroe"}, {"fips": "127", "name": "Marion"}]});

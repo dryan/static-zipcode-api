@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.188258, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Mermentau", "lng": -92.57614, "zip_code": "70556"});
+zipapicallback({"locality": "Mermentau", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Mermentau"], "postal_code": "70556", "lat": 30.188258, "lng": -92.57614, "type": "POBOX", "counties": [{"fips": "001", "name": "Acadia"}]});

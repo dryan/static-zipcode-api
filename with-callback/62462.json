@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.223922, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Sigel", "lng": -88.47715, "zip_code": "62462"});
+zipapicallback({"locality": "Sigel", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Sigel"], "postal_code": "62462", "lat": 39.223922, "lng": -88.47715, "type": "STANDARD", "counties": [{"fips": "173", "name": "Shelby"}, {"fips": "035", "name": "Cumberland"}, {"fips": "049", "name": "Effingham"}]});

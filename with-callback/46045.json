@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.289779, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Goldsmith", "lng": -86.15004, "zip_code": "46045"});
+zipapicallback({"locality": "Goldsmith", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Goldsmith"], "postal_code": "46045", "lat": 40.289779, "lng": -86.15004, "type": "POBOX", "counties": [{"fips": "159", "name": "Tipton"}]});

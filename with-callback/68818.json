@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.83605, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Aurora", "lng": -98.00493, "zip_code": "68818"});
+zipapicallback({"locality": "Aurora", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Aurora"], "postal_code": "68818", "lat": 40.83605, "lng": -98.00493, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hamilton"}, {"fips": "035", "name": "Clay"}]});

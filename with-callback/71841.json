@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.163393, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gillham", "lng": -94.3049, "zip_code": "71841"});
+zipapicallback({"locality": "Gillham", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gillham"], "postal_code": "71841", "lat": 34.163393, "lng": -94.3049, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sevier"}]});

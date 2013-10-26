@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.080196, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Tarrytown", "lng": -73.85721, "zip_code": "10591"});
+zipapicallback({"locality": "Tarrytown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["N Tarrytown", "North Tarrytown", "Sleepy Hollow", "Tarrytown"], "postal_code": "10591", "lat": 41.080196, "lng": -73.85721, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

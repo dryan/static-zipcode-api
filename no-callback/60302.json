@@ -1,1 +1,1 @@
-{"lat": 41.893941, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oak Park", "lng": -87.78899, "zip_code": "60302"}
+{"locality": "Oak Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Oak Park"], "postal_code": "60302", "lat": 41.893941, "lng": -87.78899, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

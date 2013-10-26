@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.956471, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Pierce City", "lng": -94.02134, "zip_code": "65723"});
+zipapicallback({"locality": "Pierce City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Pierce City"], "postal_code": "65723", "lat": 36.956471, "lng": -94.02134, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lawrence"}, {"fips": "145", "name": "Newton"}, {"fips": "009", "name": "Barry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.439762, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Eunice", "lng": -103.23598, "zip_code": "88231"});
+zipapicallback({"locality": "Eunice", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Eunice"], "postal_code": "88231", "lat": 32.439762, "lng": -103.23598, "type": "POBOX", "counties": [{"fips": "025", "name": "Lea"}]});

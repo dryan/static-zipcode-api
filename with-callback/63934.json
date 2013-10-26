@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.20739, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clubb", "lng": -90.38829, "zip_code": "63934"});
+zipapicallback({"locality": "Clubb", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clubb", "Silva"], "postal_code": "63934", "lat": 37.20739, "lng": -90.38829, "type": "STANDARD", "counties": [{"fips": "223", "name": "Wayne"}]});

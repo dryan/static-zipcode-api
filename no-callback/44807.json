@@ -1,1 +1,1 @@
-{"lat": 41.069216, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Carrothers", "lng": -82.87708, "zip_code": "44807"}
+{"locality": "Attica", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Attica", "Carrothers"], "postal_code": "44807", "lat": 41.069216, "lng": -82.87708, "type": "STANDARD", "counties": [{"fips": "147", "name": "Seneca"}, {"fips": "077", "name": "Huron"}]}

@@ -1,1 +1,1 @@
-{"lat": 48.235694, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Malta", "lng": -107.80711, "zip_code": "59538"}
+{"locality": "Malta", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Malta"], "postal_code": "59538", "lat": 48.235694, "lng": -107.80711, "type": "STANDARD", "counties": [{"fips": "071", "name": "Phillips"}]}

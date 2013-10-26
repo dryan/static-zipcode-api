@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.634693, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wynnewood", "lng": -97.16322, "zip_code": "73098"});
+zipapicallback({"locality": "Wynnewood", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wynnewood"], "postal_code": "73098", "lat": 34.634693, "lng": -97.16322, "type": "STANDARD", "counties": [{"fips": "049", "name": "Garvin"}]});

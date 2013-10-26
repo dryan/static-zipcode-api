@@ -1,1 +1,1 @@
-{"lat": 32.683644, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Dubach", "lng": -92.67179, "zip_code": "71235"}
+{"locality": "Dubach", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Dubach"], "postal_code": "71235", "lat": 32.683644, "lng": -92.67179, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lincoln"}, {"fips": "111", "name": "Union"}, {"fips": "027", "name": "Claiborne"}]}

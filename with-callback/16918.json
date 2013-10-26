@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.936663, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cowanesque", "lng": -77.49843, "zip_code": "16918"});
+zipapicallback({"locality": "Cowanesque", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cowanesque"], "postal_code": "16918", "lat": 41.936663, "lng": -77.49843, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}]});

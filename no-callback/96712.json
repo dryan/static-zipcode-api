@@ -1,1 +1,1 @@
-{"lat": 21.630633, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Haleiwa", "lng": -158.07448, "zip_code": "96712"}
+{"locality": "Haleiwa", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Haleiwa"], "postal_code": "96712", "lat": 21.630633, "lng": -158.07448, "type": "STANDARD", "counties": [{"fips": "003", "name": "Honolulu"}, {"fips": "009", "name": "Maui"}]}

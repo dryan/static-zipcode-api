@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.999245, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Plattsmouth", "lng": -95.91589, "zip_code": "68048"});
+zipapicallback({"locality": "Plattsmouth", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Plattsmouth"], "postal_code": "68048", "lat": 40.999245, "lng": -95.91589, "type": "STANDARD", "counties": [{"fips": "025", "name": "Cass"}, {"fips": "153", "name": "Sarpy"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.210744, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "North Branch", "lng": -83.20549, "zip_code": "48461"});
+zipapicallback({"locality": "North Branch", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["North Branch"], "postal_code": "48461", "lat": 43.210744, "lng": -83.20549, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}]});

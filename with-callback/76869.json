@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.909853, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pontotoc", "lng": -98.98395, "zip_code": "76869"});
+zipapicallback({"locality": "Pontotoc", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pontotoc"], "postal_code": "76869", "lat": 30.909853, "lng": -98.98395, "type": "STANDARD", "counties": [{"fips": "319", "name": "Mason"}, {"fips": "411", "name": "San Saba"}, {"fips": "299", "name": "Llano"}]});

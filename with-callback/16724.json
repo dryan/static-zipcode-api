@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.747898, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Crosby", "lng": -78.37938, "zip_code": "16724"});
+zipapicallback({"locality": "Crosby", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Crosby"], "postal_code": "16724", "lat": 41.747898, "lng": -78.37938, "type": "POBOX", "counties": [{"fips": "083", "name": "McKean"}]});

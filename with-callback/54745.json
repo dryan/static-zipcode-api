@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.253108, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Holcombe", "lng": -91.1559, "zip_code": "54745"});
+zipapicallback({"locality": "Holcombe", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Holcombe"], "postal_code": "54745", "lat": 45.253108, "lng": -91.1559, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chippewa"}, {"fips": "107", "name": "Rusk"}]});

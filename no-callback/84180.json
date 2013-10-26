@@ -1,1 +1,1 @@
-{"lat": 40.770248, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Salt Lake City", "lng": -111.90077, "zip_code": "84180"}
+{"locality": "Salt Lake City", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Salt Lake City", "Salt Lake Cty", "Slc"], "postal_code": "84180", "lat": 40.770248, "lng": -111.90077, "type": "STANDARD", "counties": [{"fips": "035", "name": "Salt Lake"}]}

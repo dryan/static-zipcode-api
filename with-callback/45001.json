@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.137818, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Addyston", "lng": -84.7079, "zip_code": "45001"});
+zipapicallback({"locality": "Addyston", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Addyston"], "postal_code": "45001", "lat": 39.137818, "lng": -84.7079, "type": "POBOX", "counties": [{"fips": "061", "name": "Hamilton"}]});

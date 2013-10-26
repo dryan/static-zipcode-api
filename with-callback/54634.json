@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.610055, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Yuba", "lng": -90.40896, "zip_code": "54634"});
+zipapicallback({"locality": "Hillsboro", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bloom City", "Hillsboro", "Yuba"], "postal_code": "54634", "lat": 43.610055, "lng": -90.40896, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}, {"fips": "103", "name": "Richland"}, {"fips": "057", "name": "Juneau"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.276949, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cotter", "lng": -92.53279, "zip_code": "72626"});
+zipapicallback({"locality": "Cotter", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cotter"], "postal_code": "72626", "lat": 36.276949, "lng": -92.53279, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baxter"}]});

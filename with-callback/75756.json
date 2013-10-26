@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.306045, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Edom", "lng": -95.60507, "zip_code": "75756"});
+zipapicallback({"locality": "Brownsboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brownsboro", "Edom"], "postal_code": "75756", "lat": 32.306045, "lng": -95.60507, "type": "STANDARD", "counties": [{"fips": "213", "name": "Henderson"}, {"fips": "467", "name": "Van Zandt"}]});

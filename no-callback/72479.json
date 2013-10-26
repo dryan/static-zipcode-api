@@ -1,1 +1,1 @@
-{"lat": 35.62608, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Weiner", "lng": -90.89575, "zip_code": "72479"}
+{"locality": "Weiner", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Weiner"], "postal_code": "72479", "lat": 35.62608, "lng": -90.89575, "type": "STANDARD", "counties": [{"fips": "111", "name": "Poinsett"}, {"fips": "067", "name": "Jackson"}]}

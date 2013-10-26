@@ -1,1 +1,1 @@
-{"lat": 37.451894, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Moon", "lng": -76.2904, "zip_code": "23119"}
+{"locality": "Moon", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Moon"], "postal_code": "23119", "lat": 37.451894, "lng": -76.2904, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]}

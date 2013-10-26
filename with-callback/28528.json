@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.732744, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Gloucester", "lng": -76.53869, "zip_code": "28528"});
+zipapicallback({"locality": "Gloucester", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Gloucester"], "postal_code": "28528", "lat": 34.732744, "lng": -76.53869, "type": "STANDARD", "counties": [{"fips": "031", "name": "Carteret"}]});

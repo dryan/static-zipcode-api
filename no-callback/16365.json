@@ -1,1 +1,1 @@
-{"lat": 41.853225, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "North Warren", "lng": -79.15521, "zip_code": "16365"}
+{"locality": "Warren", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["North Warren", "Warren"], "postal_code": "16365", "lat": 41.853225, "lng": -79.15521, "type": "STANDARD", "counties": [{"fips": "123", "name": "Warren"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.713078, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sarver", "lng": -79.73603, "zip_code": "16055"});
+zipapicallback({"locality": "Sarver", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sarver"], "postal_code": "16055", "lat": 40.713078, "lng": -79.73603, "type": "STANDARD", "counties": [{"fips": "019", "name": "Butler"}, {"fips": "005", "name": "Armstrong"}, {"fips": "003", "name": "Allegheny"}]});

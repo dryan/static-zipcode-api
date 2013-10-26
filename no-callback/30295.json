@@ -1,1 +1,1 @@
-{"lat": 33.101705, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Zebulon", "lng": -84.31252, "zip_code": "30295"}
+{"locality": "Zebulon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Zebulon"], "postal_code": "30295", "lat": 33.101705, "lng": -84.31252, "type": "STANDARD", "counties": [{"fips": "231", "name": "Pike"}, {"fips": "171", "name": "Lamar"}]}

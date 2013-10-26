@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.744906, "region": {"abbr": "NY", "name": "New York"}, "locality": "Inlet", "lng": -74.77476, "zip_code": "13360"});
+zipapicallback({"locality": "Inlet", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Inlet"], "postal_code": "13360", "lat": 43.744906, "lng": -74.77476, "type": "STANDARD", "counties": [{"fips": "041", "name": "Hamilton"}]});

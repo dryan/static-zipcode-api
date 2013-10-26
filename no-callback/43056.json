@@ -1,1 +1,1 @@
-{"lat": 40.017096, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Heath", "lng": -82.34322, "zip_code": "43056"}
+{"locality": "Heath", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Heath", "Newark"], "postal_code": "43056", "lat": 40.017096, "lng": -82.34322, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}, {"fips": "119", "name": "Muskingum"}]}

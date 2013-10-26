@@ -1,1 +1,1 @@
-{"lat": 34.118206, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cave Spring", "lng": -85.34001, "zip_code": "30124"}
+{"locality": "Cave Spring", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cave Spring"], "postal_code": "30124", "lat": 34.118206, "lng": -85.34001, "type": "STANDARD", "counties": [{"fips": "115", "name": "Floyd"}, {"fips": "233", "name": "Polk"}]}

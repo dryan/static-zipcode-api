@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.168307, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mc Callsburg", "lng": -93.39718, "zip_code": "50154"});
+zipapicallback({"locality": "Mc Callsburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mc Callsburg"], "postal_code": "50154", "lat": 42.168307, "lng": -93.39718, "type": "STANDARD", "counties": [{"fips": "169", "name": "Story"}]});

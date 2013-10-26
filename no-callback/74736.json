@@ -1,1 +1,1 @@
-{"lat": 33.917419, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Garvin", "lng": -94.96494, "zip_code": "74736"}
+{"locality": "Garvin", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Garvin"], "postal_code": "74736", "lat": 33.917419, "lng": -94.96494, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]}

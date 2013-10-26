@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.458459, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Tillman", "lng": -81.10567, "zip_code": "29943"});
+zipapicallback({"locality": "Tillman", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Tillman"], "postal_code": "29943", "lat": 32.458459, "lng": -81.10567, "type": "STANDARD", "counties": [{"fips": "053", "name": "Jasper"}]});

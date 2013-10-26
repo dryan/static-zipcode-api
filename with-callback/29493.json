@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.03378, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Williams", "lng": -80.84282, "zip_code": "29493"});
+zipapicallback({"locality": "Williams", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Williams"], "postal_code": "29493", "lat": 33.03378, "lng": -80.84282, "type": "POBOX", "counties": [{"fips": "029", "name": "Colleton"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.039068, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Lexington", "lng": -97.29276, "zip_code": "73051"}
+{"locality": "Lexington", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lexington", "Slaughterville", "Slaughtervl"], "postal_code": "73051", "lat": 35.039068, "lng": -97.29276, "type": "STANDARD", "counties": [{"fips": "027", "name": "Cleveland"}, {"fips": "125", "name": "Pottawatomie"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.766057, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Good Hope", "lng": -83.57597, "zip_code": "30641"}
+{"locality": "Good Hope", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Good Hope"], "postal_code": "30641", "lat": 33.766057, "lng": -83.57597, "type": "STANDARD", "counties": [{"fips": "297", "name": "Walton"}]}

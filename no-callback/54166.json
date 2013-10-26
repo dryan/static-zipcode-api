@@ -1,1 +1,1 @@
-{"lat": 44.779241, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Shawano", "lng": -88.60636, "zip_code": "54166"}
+{"locality": "Shawano", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Shawano"], "postal_code": "54166", "lat": 44.779241, "lng": -88.60636, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}]}

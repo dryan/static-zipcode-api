@@ -1,1 +1,1 @@
-{"lat": 39.61098, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Morgantown", "lng": -79.89947, "zip_code": "26508"}
+{"locality": "Morgantown", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Little Falls", "Morgantown"], "postal_code": "26508", "lat": 39.61098, "lng": -79.89947, "type": "STANDARD", "counties": []}

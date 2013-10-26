@@ -1,1 +1,1 @@
-{"lat": 27.884565, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Portland", "lng": -97.32054, "zip_code": "78374"}
+{"locality": "Portland", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Portland"], "postal_code": "78374", "lat": 27.884565, "lng": -97.32054, "type": "STANDARD", "counties": [{"fips": "409", "name": "San Patricio"}, {"fips": "355", "name": "Nueces"}]}

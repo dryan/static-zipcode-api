@@ -1,1 +1,1 @@
-{"lat": 39.8989, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Yoe", "lng": -76.64405, "zip_code": "17313"}
+{"locality": "Dallastown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dallastown", "Yoe"], "postal_code": "17313", "lat": 39.8989, "lng": -76.64405, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

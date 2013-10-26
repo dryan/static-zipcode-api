@@ -1,1 +1,1 @@
-{"lat": 30.103644, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Driftwood", "lng": -98.03875, "zip_code": "78619"}
+{"locality": "Driftwood", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Driftwood"], "postal_code": "78619", "lat": 30.103644, "lng": -98.03875, "type": "STANDARD", "counties": [{"fips": "209", "name": "Hays"}]}

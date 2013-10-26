@@ -1,1 +1,1 @@
-{"lat": 41.702935, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Granville Summit", "lng": -76.71175, "zip_code": "16926"}
+{"locality": "Granville Summit", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Granville Smt", "Granville Summit"], "postal_code": "16926", "lat": 41.702935, "lng": -76.71175, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]}

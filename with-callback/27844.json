@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.255897, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hollister", "lng": -77.93998, "zip_code": "27844"});
+zipapicallback({"locality": "Hollister", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hollister"], "postal_code": "27844", "lat": 36.255897, "lng": -77.93998, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]});

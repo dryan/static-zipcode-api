@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.509416, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Green Spring", "lng": -78.6438, "zip_code": "26722"});
+zipapicallback({"locality": "Green Spring", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Green Spring"], "postal_code": "26722", "lat": 39.509416, "lng": -78.6438, "type": "STANDARD", "counties": [{"fips": "027", "name": "Hampshire"}]});

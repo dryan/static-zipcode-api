@@ -1,1 +1,1 @@
-{"lat": 40.679413, "region": {"abbr": "NY", "name": "New York"}, "locality": "Roosevelt", "lng": -73.58694, "zip_code": "11575"}
+{"locality": "Roosevelt", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Roosevelt"], "postal_code": "11575", "lat": 40.679413, "lng": -73.58694, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

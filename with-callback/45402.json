@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.757758, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dayton", "lng": -84.18848, "zip_code": "45402"});
+zipapicallback({"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dayton"], "postal_code": "45402", "lat": 39.757758, "lng": -84.18848, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.470822, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Hopkinton", "lng": -71.77722, "zip_code": "02833"});
+zipapicallback({"locality": "Hopkinton", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Hopkinton"], "postal_code": "02833", "lat": 41.470822, "lng": -71.77722, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]});

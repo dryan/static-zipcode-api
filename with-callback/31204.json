@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.844872, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Macon", "lng": -83.67119, "zip_code": "31204"});
+zipapicallback({"locality": "Macon", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Macon", "Payne", "Payne City"], "postal_code": "31204", "lat": 32.844872, "lng": -83.67119, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bibb"}]});

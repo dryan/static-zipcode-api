@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.855103, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Keene", "lng": -78.56162, "zip_code": "22946"});
+zipapicallback({"locality": "Keene", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Keene"], "postal_code": "22946", "lat": 37.855103, "lng": -78.56162, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}]});

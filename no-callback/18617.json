@@ -1,1 +1,1 @@
-{"lat": 41.175582, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glen Lyon", "lng": -76.07455, "zip_code": "18617"}
+{"locality": "Glen Lyon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Glen Lyon"], "postal_code": "18617", "lat": 41.175582, "lng": -76.07455, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.540052, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Littleton", "lng": -71.49085, "zip_code": "01460"}
+{"locality": "Littleton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Littleton"], "postal_code": "01460", "lat": 42.540052, "lng": -71.49085, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

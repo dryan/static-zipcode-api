@@ -1,1 +1,1 @@
-{"lat": 38.720425, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bridgeport", "lng": -87.76815, "zip_code": "62417"}
+{"locality": "Bridgeport", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bridgeport"], "postal_code": "62417", "lat": 38.720425, "lng": -87.76815, "type": "STANDARD", "counties": [{"fips": "101", "name": "Lawrence"}]}

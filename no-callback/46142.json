@@ -1,1 +1,1 @@
-{"lat": 39.62068, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Greenwood", "lng": -86.15126, "zip_code": "46142"}
+{"locality": "Greenwood", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Greenwood"], "postal_code": "46142", "lat": 39.62068, "lng": -86.15126, "type": "STANDARD", "counties": [{"fips": "081", "name": "Johnson"}, {"fips": "097", "name": "Marion"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.161795, "region": {"abbr": "CA", "name": "California"}, "locality": "Yucca Valley", "lng": -116.41246, "zip_code": "92284"}
+{"locality": "Yucca Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Yucca Valley"], "postal_code": "92284", "lat": 34.161795, "lng": -116.41246, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

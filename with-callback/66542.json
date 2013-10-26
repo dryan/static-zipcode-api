@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.020437, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Tecumseh", "lng": -95.55336, "zip_code": "66542"});
+zipapicallback({"locality": "Tecumseh", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Tecumseh"], "postal_code": "66542", "lat": 39.020437, "lng": -95.55336, "type": "STANDARD", "counties": [{"fips": "177", "name": "Shawnee"}]});

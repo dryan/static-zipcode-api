@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.768143, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Proctor", "lng": -80.79867, "zip_code": "26055"});
+zipapicallback({"locality": "Proctor", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Proctor"], "postal_code": "26055", "lat": 39.768143, "lng": -80.79867, "type": "STANDARD", "counties": [{"fips": "051", "name": "Marshall"}, {"fips": "103", "name": "Wetzel"}]});

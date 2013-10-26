@@ -1,1 +1,1 @@
-{"lat": 43.229236, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Dixon", "lng": -99.42096, "zip_code": "57533"}
+{"locality": "Gregory", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Dixon", "Gregory", "Iona"], "postal_code": "57533", "lat": 43.229236, "lng": -99.42096, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gregory"}, {"fips": "123", "name": "Tripp"}]}

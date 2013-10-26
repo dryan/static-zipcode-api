@@ -1,1 +1,1 @@
-{"lat": 37.043142, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Essie", "lng": -83.48892, "zip_code": "40827"}
+{"locality": "Essie", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Essie"], "postal_code": "40827", "lat": 37.043142, "lng": -83.48892, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}, {"fips": "001", "name": "Adair"}]}

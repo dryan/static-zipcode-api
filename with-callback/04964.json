@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.924121, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Oquossoc", "lng": -70.76786, "zip_code": "04964"});
+zipapicallback({"locality": "Oquossoc", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Adamstown Twp", "Oquossoc"], "postal_code": "04964", "lat": 44.924121, "lng": -70.76786, "type": "POBOX", "counties": [{"fips": "017", "name": "Oxford"}]});

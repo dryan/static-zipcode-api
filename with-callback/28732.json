@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.437611, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Fletcher", "lng": -82.48999, "zip_code": "28732"});
+zipapicallback({"locality": "Fletcher", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Fletcher"], "postal_code": "28732", "lat": 35.437611, "lng": -82.48999, "type": "STANDARD", "counties": [{"fips": "089", "name": "Henderson"}, {"fips": "021", "name": "Buncombe"}]});

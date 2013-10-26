@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.788679, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Keystone Heights", "lng": -82.00421, "zip_code": "32656"});
+zipapicallback({"locality": "Keystone Heights", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Keystone Heights", "Keystone Hgts"], "postal_code": "32656", "lat": 29.788679, "lng": -82.00421, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clay"}, {"fips": "007", "name": "Bradford"}]});

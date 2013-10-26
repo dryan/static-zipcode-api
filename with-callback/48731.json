@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.83014, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Elkton", "lng": -83.16143, "zip_code": "48731"});
+zipapicallback({"locality": "Elkton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Elkton"], "postal_code": "48731", "lat": 43.83014, "lng": -83.16143, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}, {"fips": "069", "name": "Iosco"}]});

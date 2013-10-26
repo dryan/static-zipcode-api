@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.249363, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Littleton", "lng": -90.66845, "zip_code": "61452"});
+zipapicallback({"locality": "Littleton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Littleton"], "postal_code": "61452", "lat": 40.249363, "lng": -90.66845, "type": "STANDARD", "counties": [{"fips": "169", "name": "Schuyler"}]});

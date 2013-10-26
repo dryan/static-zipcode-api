@@ -1,1 +1,1 @@
-{"lat": 43.94674, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Pejepscot", "lng": -69.96163, "zip_code": "04086"}
+{"locality": "Topsham", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Pejepscot", "Topsham"], "postal_code": "04086", "lat": 43.94674, "lng": -69.96163, "type": "STANDARD", "counties": [{"fips": "023", "name": "Sagadahoc"}]}

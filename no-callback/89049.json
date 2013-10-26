@@ -1,1 +1,1 @@
-{"lat": 38.307931, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Tonopah", "lng": -116.92779, "zip_code": "89049"}
+{"locality": "Tonopah", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Tonopah"], "postal_code": "89049", "lat": 38.307931, "lng": -116.92779, "type": "STANDARD", "counties": [{"fips": "023", "name": "Nye"}, {"fips": "009", "name": "Esmeralda"}]}

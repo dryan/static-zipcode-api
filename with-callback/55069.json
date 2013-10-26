@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.690784, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rush City", "lng": -92.96843, "zip_code": "55069"});
+zipapicallback({"locality": "Rush City", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rush City"], "postal_code": "55069", "lat": 45.690784, "lng": -92.96843, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chisago"}, {"fips": "115", "name": "Pine"}]});

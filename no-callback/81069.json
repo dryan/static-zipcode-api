@@ -1,1 +1,1 @@
-{"lat": 37.909758, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rye", "lng": -104.89892, "zip_code": "81069"}
+{"locality": "Rye", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rye"], "postal_code": "81069", "lat": 37.909758, "lng": -104.89892, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pueblo"}]}

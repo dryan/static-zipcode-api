@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.658738, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Townsend", "lng": -71.69204, "zip_code": "01469"});
+zipapicallback({"locality": "Townsend", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Townsend"], "postal_code": "01469", "lat": 42.658738, "lng": -71.69204, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

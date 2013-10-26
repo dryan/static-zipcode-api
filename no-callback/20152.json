@@ -1,1 +1,1 @@
-{"lat": 38.90371, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chantilly", "lng": -77.5038, "zip_code": "20152"}
+{"locality": "Chantilly", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chantilly", "Fairfax", "South Riding"], "postal_code": "20152", "lat": 38.90371, "lng": -77.5038, "type": "STANDARD", "counties": []}

@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Sterling", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sterling"], "postal_code": "18463", "type": "STANDARD", "counties": [{"fips": "127", "name": "Wayne"}, {"fips": "103", "name": "Pike"}]});

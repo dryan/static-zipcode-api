@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.284101, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Hobbs", "lng": -85.94676, "zip_code": "46047"});
+zipapicallback({"locality": "Hobbs", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Hobbs"], "postal_code": "46047", "lat": 40.284101, "lng": -85.94676, "type": "POBOX", "counties": [{"fips": "159", "name": "Tipton"}]});

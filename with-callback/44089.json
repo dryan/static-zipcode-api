@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.407845, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Vermilion", "lng": -82.3648, "zip_code": "44089"});
+zipapicallback({"locality": "Vermilion", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Vermilion"], "postal_code": "44089", "lat": 41.407845, "lng": -82.3648, "type": "STANDARD", "counties": [{"fips": "043", "name": "Erie"}, {"fips": "093", "name": "Lorain"}]});

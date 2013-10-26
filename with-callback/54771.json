@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.95298, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Thorp", "lng": -90.79784, "zip_code": "54771"});
+zipapicallback({"locality": "Thorp", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Thorp"], "postal_code": "54771", "lat": 44.95298, "lng": -90.79784, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "119", "name": "Taylor"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.227576, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Jonesville", "lng": -80.82988, "zip_code": "28642"});
+zipapicallback({"locality": "Jonesville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Jonesville"], "postal_code": "28642", "lat": 36.227576, "lng": -80.82988, "type": "STANDARD", "counties": [{"fips": "197", "name": "Yadkin"}, {"fips": "193", "name": "Wilkes"}]});

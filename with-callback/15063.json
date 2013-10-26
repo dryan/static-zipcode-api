@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.196694, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Monongahela", "lng": -79.92642, "zip_code": "15063"});
+zipapicallback({"locality": "Monongahela", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Monongahela"], "postal_code": "15063", "lat": 40.196694, "lng": -79.92642, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}, {"fips": "007", "name": "Beaver"}, {"fips": "003", "name": "Allegheny"}]});

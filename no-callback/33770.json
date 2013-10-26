@@ -1,1 +1,1 @@
-{"lat": 27.916149, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Largo", "lng": -82.80122, "zip_code": "33770"}
+{"locality": "Largo", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Belleair Blf", "Belleair Bluffs", "Largo"], "postal_code": "33770", "lat": 27.916149, "lng": -82.80122, "type": "STANDARD", "counties": []}

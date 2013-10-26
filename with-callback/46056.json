@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.974904, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Markleville", "lng": -85.61733, "zip_code": "46056"});
+zipapicallback({"locality": "Markleville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Markleville"], "postal_code": "46056", "lat": 39.974904, "lng": -85.61733, "type": "STANDARD", "counties": [{"fips": "095", "name": "Madison"}, {"fips": "065", "name": "Henry"}, {"fips": "059", "name": "Hancock"}]});

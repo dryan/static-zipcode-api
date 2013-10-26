@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.319654, "region": {"abbr": "NY", "name": "New York"}, "locality": "Belfast", "lng": -78.13384, "zip_code": "14711"});
+zipapicallback({"locality": "Belfast", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Belfast"], "postal_code": "14711", "lat": 42.319654, "lng": -78.13384, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]});

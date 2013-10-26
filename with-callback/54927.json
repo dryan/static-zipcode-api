@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.101044, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Butte Des Morts", "lng": -88.65531, "zip_code": "54927"});
+zipapicallback({"locality": "Butte Des Morts", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bte Des Morts", "Butte Des Morts"], "postal_code": "54927", "lat": 44.101044, "lng": -88.65531, "type": "POBOX", "counties": [{"fips": "139", "name": "Winnebago"}]});

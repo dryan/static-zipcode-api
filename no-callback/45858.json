@@ -1,1 +1,1 @@
-{"lat": 41.106245, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mc Comb", "lng": -83.80463, "zip_code": "45858"}
+{"locality": "Mc Comb", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mc Comb"], "postal_code": "45858", "lat": 41.106245, "lng": -83.80463, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hancock"}, {"fips": "137", "name": "Putnam"}]}

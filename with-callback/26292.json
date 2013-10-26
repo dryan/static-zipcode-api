@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.149624, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Thomas", "lng": -79.5003, "zip_code": "26292"});
+zipapicallback({"locality": "Thomas", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Thomas"], "postal_code": "26292", "lat": 39.149624, "lng": -79.5003, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}, {"fips": "093", "name": "Tucker"}]});

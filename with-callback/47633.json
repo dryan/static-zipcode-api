@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.168191, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Poseyville", "lng": -87.78113, "zip_code": "47633"});
+zipapicallback({"locality": "Poseyville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Poseyville"], "postal_code": "47633", "lat": 38.168191, "lng": -87.78113, "type": "STANDARD", "counties": [{"fips": "129", "name": "Posey"}]});

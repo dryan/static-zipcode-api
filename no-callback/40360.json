@@ -1,1 +1,1 @@
-{"lat": 38.152302, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Owingsville", "lng": -83.76603, "zip_code": "40360"}
+{"locality": "Owingsville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Owingsville"], "postal_code": "40360", "lat": 38.152302, "lng": -83.76603, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bath"}]}

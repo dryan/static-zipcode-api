@@ -1,1 +1,1 @@
-{"lat": 43.730791, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bailey Island", "lng": -69.99448, "zip_code": "04003"}
+{"locality": "Bailey Island", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bailey Island"], "postal_code": "04003", "lat": 43.730791, "lng": -69.99448, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

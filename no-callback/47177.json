@@ -1,1 +1,1 @@
-{"lat": 38.603451, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Underwood", "lng": -85.76711, "zip_code": "47177"}
+{"locality": "Underwood", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Underwood"], "postal_code": "47177", "lat": 38.603451, "lng": -85.76711, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "143", "name": "Scott"}]}

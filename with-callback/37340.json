@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.013853, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Guild", "lng": -85.53107, "zip_code": "37340"});
+zipapicallback({"locality": "Guild", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Guild"], "postal_code": "37340", "lat": 35.013853, "lng": -85.53107, "type": "STANDARD", "counties": [{"fips": "115", "name": "Marion"}]});

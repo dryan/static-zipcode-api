@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.974296, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Dodgeville", "lng": -90.14404, "zip_code": "53533"});
+zipapicallback({"locality": "Dodgeville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dodgeville"], "postal_code": "53533", "lat": 42.974296, "lng": -90.14404, "type": "STANDARD", "counties": [{"fips": "049", "name": "Iowa"}]});

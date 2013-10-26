@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.912923, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Moundsville", "lng": -80.73701, "zip_code": "26041"});
+zipapicallback({"locality": "Moundsville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Moundsville"], "postal_code": "26041", "lat": 39.912923, "lng": -80.73701, "type": "STANDARD", "counties": [{"fips": "051", "name": "Marshall"}]});

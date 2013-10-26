@@ -1,1 +1,1 @@
-{"lat": 36.489216, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dugginsville", "lng": -92.69301, "zip_code": "65761"}
+{"locality": "Theodosia", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dugginsville", "Theodosia"], "postal_code": "65761", "lat": 36.489216, "lng": -92.69301, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}, {"fips": "213", "name": "Taney"}]}

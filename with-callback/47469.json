@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.584248, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "West Baden Sprin", "lng": -86.61296, "zip_code": "47469"});
+zipapicallback({"locality": "West Baden Springs", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["W Baden Sprgs", "West Baden Springs"], "postal_code": "47469", "lat": 38.584248, "lng": -86.61296, "type": "STANDARD", "counties": [{"fips": "117", "name": "Orange"}, {"fips": "101", "name": "Martin"}]});

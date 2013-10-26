@@ -1,1 +1,1 @@
-{"lat": 42.539952, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Arimo", "lng": -112.23971, "zip_code": "83214"}
+{"locality": "Arimo", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Arimo"], "postal_code": "83214", "lat": 42.539952, "lng": -112.23971, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bannock"}]}

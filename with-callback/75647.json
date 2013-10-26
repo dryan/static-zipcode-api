@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.531814, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gladewater", "lng": -94.94358, "zip_code": "75647"});
+zipapicallback({"locality": "Gladewater", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gladewater"], "postal_code": "75647", "lat": 32.531814, "lng": -94.94358, "type": "STANDARD", "counties": [{"fips": "183", "name": "Gregg"}, {"fips": "459", "name": "Upshur"}, {"fips": "423", "name": "Smith"}]});

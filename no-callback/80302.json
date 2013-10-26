@@ -1,1 +1,1 @@
-{"lat": 40.020885, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Boulder", "lng": -105.29673, "zip_code": "80302"}
+{"locality": "Boulder", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Boulder"], "postal_code": "80302", "lat": 40.020885, "lng": -105.29673, "type": "STANDARD", "counties": [{"fips": "013", "name": "Boulder"}, {"fips": "031", "name": "Denver"}]}

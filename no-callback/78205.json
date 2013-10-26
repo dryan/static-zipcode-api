@@ -1,1 +1,1 @@
-{"lat": 29.425932, "region": {"abbr": "TX", "name": "Texas"}, "locality": "San Antonio", "lng": -98.48931, "zip_code": "78205"}
+{"locality": "San Antonio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["San Antonio"], "postal_code": "78205", "lat": 29.425932, "lng": -98.48931, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

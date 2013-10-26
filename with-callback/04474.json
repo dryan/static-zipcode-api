@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.721393, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Orrington", "lng": -68.78905, "zip_code": "04474"});
+zipapicallback({"locality": "Orrington", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Orrington"], "postal_code": "04474", "lat": 44.721393, "lng": -68.78905, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "009", "name": "Hancock"}]});

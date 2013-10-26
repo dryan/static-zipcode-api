@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.530915, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Trinity", "lng": -83.38506, "zip_code": "41179"});
+zipapicallback({"locality": "Vanceburg", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Camp Dix", "Concord", "Trinity", "Vanceburg"], "postal_code": "41179", "lat": 38.530915, "lng": -83.38506, "type": "STANDARD", "counties": [{"fips": "135", "name": "Lewis"}, {"fips": "161", "name": "Mason"}]});

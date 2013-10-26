@@ -1,1 +1,1 @@
-{"lat": 38.924739, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lenexa", "lng": -94.70473, "zip_code": "66210"}
+{"locality": "Overland Park", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lenexa", "Overland Park", "Shawnee Mission", "Shawnee Msn"], "postal_code": "66210", "lat": 38.924739, "lng": -94.70473, "type": "STANDARD", "counties": [{"fips": "091", "name": "Johnson"}]}

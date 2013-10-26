@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.140637, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Magnolia", "lng": -87.6801, "zip_code": "36754"});
+zipapicallback({"locality": "Magnolia", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Magnolia"], "postal_code": "36754", "lat": 32.140637, "lng": -87.6801, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.666646, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fowlerville", "lng": -84.07542, "zip_code": "48836"});
+zipapicallback({"locality": "Fowlerville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fowlerville"], "postal_code": "48836", "lat": 42.666646, "lng": -84.07542, "type": "STANDARD", "counties": [{"fips": "093", "name": "Livingston"}, {"fips": "045", "name": "Eaton"}]});

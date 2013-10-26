@@ -1,1 +1,1 @@
-{"lat": 44.060947, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Ashton", "lng": -111.40548, "zip_code": "83420"}
+{"locality": "Ashton", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Ashton"], "postal_code": "83420", "lat": 44.060947, "lng": -111.40548, "type": "STANDARD", "counties": [{"fips": "043", "name": "Fremont"}]}

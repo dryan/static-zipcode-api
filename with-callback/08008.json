@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.614596, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Harvey Cedars", "lng": -74.2005, "zip_code": "08008"});
+zipapicallback({"locality": "Beach Haven", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Beach Haven", "Harvey Cedars", "Long Bch Twp", "Long Beach", "Long Beach Township", "Ship Bottom", "Surf City"], "postal_code": "08008", "lat": 39.614596, "lng": -74.2005, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

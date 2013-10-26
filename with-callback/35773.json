@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.90267, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Toney", "lng": -86.71367, "zip_code": "35773"});
+zipapicallback({"locality": "Toney", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Toney"], "postal_code": "35773", "lat": 34.90267, "lng": -86.71367, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "083", "name": "Limestone"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.847973, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Coleman", "lng": -99.45514, "zip_code": "76834"});
+zipapicallback({"locality": "Coleman", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Coleman"], "postal_code": "76834", "lat": 31.847973, "lng": -99.45514, "type": "STANDARD", "counties": [{"fips": "083", "name": "Coleman"}]});

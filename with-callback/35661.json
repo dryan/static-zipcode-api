@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.759947, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Muscle Shoals", "lng": -87.62705, "zip_code": "35661"});
+zipapicallback({"locality": "Muscle Shoals", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Muscle Shoals"], "postal_code": "35661", "lat": 34.759947, "lng": -87.62705, "type": "STANDARD", "counties": [{"fips": "033", "name": "Colbert"}]});

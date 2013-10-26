@@ -1,1 +1,1 @@
-{"lat": 36.753498, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Dora", "lng": -92.17819, "zip_code": "65637"}
+{"locality": "Dora", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dora"], "postal_code": "65637", "lat": 36.753498, "lng": -92.17819, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}, {"fips": "067", "name": "Douglas"}, {"fips": "091", "name": "Howell"}]}

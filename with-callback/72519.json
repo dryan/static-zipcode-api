@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.132092, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Jordan", "lng": -92.16638, "zip_code": "72519"});
+zipapicallback({"locality": "Calico Rock", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Calico Rock", "Jordan"], "postal_code": "72519", "lat": 36.132092, "lng": -92.16638, "type": "STANDARD", "counties": [{"fips": "065", "name": "Izard"}]});

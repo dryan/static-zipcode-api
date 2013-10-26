@@ -1,1 +1,1 @@
-{"lat": 33.434562, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Roopville", "lng": -85.16973, "zip_code": "30170"}
+{"locality": "Roopville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Roopville"], "postal_code": "30170", "lat": 33.434562, "lng": -85.16973, "type": "STANDARD", "counties": [{"fips": "045", "name": "Carroll"}, {"fips": "149", "name": "Heard"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.81315, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Montclair", "lng": -74.21576, "zip_code": "07042"});
+zipapicallback({"locality": "Montclair", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Montclair"], "postal_code": "07042", "lat": 40.81315, "lng": -74.21576, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]});

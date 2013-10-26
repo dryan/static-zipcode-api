@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.417184, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Stephenson", "lng": -87.6281, "zip_code": "49887"});
+zipapicallback({"locality": "Stephenson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Cedar River", "Stephenson"], "postal_code": "49887", "lat": 45.417184, "lng": -87.6281, "type": "STANDARD", "counties": [{"fips": "109", "name": "Menominee"}]});

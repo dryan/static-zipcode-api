@@ -1,1 +1,1 @@
-{"lat": 43.405689, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Howard City", "lng": -85.47744, "zip_code": "49329"}
+{"locality": "Howard City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Howard City"], "postal_code": "49329", "lat": 43.405689, "lng": -85.47744, "type": "STANDARD", "counties": [{"fips": "117", "name": "Montcalm"}, {"fips": "123", "name": "Newaygo"}]}

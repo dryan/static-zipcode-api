@@ -1,1 +1,1 @@
-{"lat": 47.504496, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bemidji", "lng": -94.87105, "zip_code": "56601"}
+{"locality": "Bemidji", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bemidji", "Turtle River", "Wilton"], "postal_code": "56601", "lat": 47.504496, "lng": -94.87105, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beltrami"}, {"fips": "057", "name": "Hubbard"}]}

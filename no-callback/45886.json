@@ -1,1 +1,1 @@
-{"lat": 40.9871, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Scott", "lng": -84.6073, "zip_code": "45886"}
+{"locality": "Scott", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Scott"], "postal_code": "45886", "lat": 40.9871, "lng": -84.6073, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mercer"}, {"fips": "125", "name": "Paulding"}]}

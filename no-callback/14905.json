@@ -1,1 +1,1 @@
-{"lat": 42.087824, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elmira", "lng": -76.83686, "zip_code": "14905"}
+{"locality": "Elmira", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elmira"], "postal_code": "14905", "lat": 42.087824, "lng": -76.83686, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chemung"}]}

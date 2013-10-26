@@ -1,1 +1,1 @@
-{"lat": 40.003442, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "York Springs", "lng": -77.1099, "zip_code": "17372"}
+{"locality": "York Springs", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["York Springs"], "postal_code": "17372", "lat": 40.003442, "lng": -77.1099, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]}

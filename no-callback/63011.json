@@ -1,1 +1,1 @@
-{"lat": 38.601403, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Manchester", "lng": -90.55209, "zip_code": "63011"}
+{"locality": "Ballwin", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ballwin", "Ellisville", "Manchester", "Wildwood"], "postal_code": "63011", "lat": 38.601403, "lng": -90.55209, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

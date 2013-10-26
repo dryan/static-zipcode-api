@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.930861, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Hurley", "lng": -93.49861, "zip_code": "65675"});
+zipapicallback({"locality": "Hurley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Hurley"], "postal_code": "65675", "lat": 36.930861, "lng": -93.49861, "type": "POBOX", "counties": [{"fips": "209", "name": "Stone"}]});

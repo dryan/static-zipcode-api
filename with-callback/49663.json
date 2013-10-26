@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.426913, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Manton", "lng": -85.37836, "zip_code": "49663"});
+zipapicallback({"locality": "Manton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Manton"], "postal_code": "49663", "lat": 44.426913, "lng": -85.37836, "type": "STANDARD", "counties": [{"fips": "165", "name": "Wexford"}, {"fips": "113", "name": "Missaukee"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.088295, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Bradford", "lng": -68.90997, "zip_code": "04410"}
+{"locality": "Bradford", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Bradford"], "postal_code": "04410", "lat": 45.088295, "lng": -68.90997, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "021", "name": "Piscataquis"}]}

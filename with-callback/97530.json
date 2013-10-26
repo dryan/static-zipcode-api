@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.224913, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Applegate", "lng": -123.04526, "zip_code": "97530"});
+zipapicallback({"locality": "Jacksonville", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Applegate", "Jacksonville"], "postal_code": "97530", "lat": 42.224913, "lng": -123.04526, "type": "STANDARD", "counties": [{"fips": "029", "name": "Jackson"}]});

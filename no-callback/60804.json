@@ -1,1 +1,1 @@
-{"lat": 41.844382, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cicero", "lng": -87.7599, "zip_code": "60804"}
+{"locality": "Cicero", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chicago", "Cicero"], "postal_code": "60804", "lat": 41.844382, "lng": -87.7599, "type": "STANDARD", "counties": []}

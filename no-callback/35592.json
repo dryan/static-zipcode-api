@@ -1,1 +1,1 @@
-{"lat": 33.752857, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Vernon", "lng": -88.0996, "zip_code": "35592"}
+{"locality": "Vernon", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Vernon"], "postal_code": "35592", "lat": 33.752857, "lng": -88.0996, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lamar"}]}

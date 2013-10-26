@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.50482, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Cook", "lng": -96.17229, "zip_code": "68329"});
+zipapicallback({"locality": "Cook", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cook"], "postal_code": "68329", "lat": 40.50482, "lng": -96.17229, "type": "STANDARD", "counties": [{"fips": "097", "name": "Johnson"}, {"fips": "131", "name": "Otoe"}, {"fips": "127", "name": "Nemaha"}]});

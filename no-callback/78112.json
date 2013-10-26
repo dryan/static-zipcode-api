@@ -1,1 +1,1 @@
-{"lat": 29.221682, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Elmendorf", "lng": -98.36902, "zip_code": "78112"}
+{"locality": "Elmendorf", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Elmendorf"], "postal_code": "78112", "lat": 29.221682, "lng": -98.36902, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

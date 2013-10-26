@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.689123, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Alpha", "lng": -75.17243, "zip_code": "08865"});
+zipapicallback({"locality": "Phillipsburg", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Alpha", "Phillipsburg"], "postal_code": "08865", "lat": 40.689123, "lng": -75.17243, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]});

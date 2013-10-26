@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.561455, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lampe", "lng": -93.46715, "zip_code": "65681"});
+zipapicallback({"locality": "Lampe", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lampe"], "postal_code": "65681", "lat": 36.561455, "lng": -93.46715, "type": "STANDARD", "counties": [{"fips": "209", "name": "Stone"}]});

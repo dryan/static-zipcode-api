@@ -1,1 +1,1 @@
-{"lat": 38.054111, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Bacova", "lng": -79.84575, "zip_code": "24412"}
+{"locality": "Bacova", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Bacova"], "postal_code": "24412", "lat": 38.054111, "lng": -79.84575, "type": "POBOX", "counties": [{"fips": "017", "name": "Bath"}]}

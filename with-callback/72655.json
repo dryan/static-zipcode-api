@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.927363, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Mount Judea", "lng": -93.0179, "zip_code": "72655"});
+zipapicallback({"locality": "Mount Judea", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bass", "Mount Judea"], "postal_code": "72655", "lat": 35.927363, "lng": -93.0179, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]});

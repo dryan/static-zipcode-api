@@ -1,1 +1,1 @@
-{"lat": 37.175339, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Chama", "lng": -105.34164, "zip_code": "81126"}
+{"locality": "Chama", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Chama"], "postal_code": "81126", "lat": 37.175339, "lng": -105.34164, "type": "POBOX", "counties": [{"fips": "023", "name": "Costilla"}]}

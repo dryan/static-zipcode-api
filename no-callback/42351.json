@@ -1,1 +1,1 @@
-{"lat": 37.918157, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lewisport", "lng": -86.89243, "zip_code": "42351"}
+{"locality": "Lewisport", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lewisport"], "postal_code": "42351", "lat": 37.918157, "lng": -86.89243, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hancock"}, {"fips": "059", "name": "Daviess"}]}

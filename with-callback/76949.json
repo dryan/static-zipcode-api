@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.047723, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Silver", "lng": -100.69452, "zip_code": "76949"});
+zipapicallback({"locality": "Silver", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Silver"], "postal_code": "76949", "lat": 32.047723, "lng": -100.69452, "type": "STANDARD", "counties": [{"fips": "081", "name": "Coke"}]});

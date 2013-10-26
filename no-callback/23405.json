@@ -1,1 +1,1 @@
-{"lat": 37.425567, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Machipongo", "lng": -75.93117, "zip_code": "23405"}
+{"locality": "Machipongo", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Machipongo"], "postal_code": "23405", "lat": 37.425567, "lng": -75.93117, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]}

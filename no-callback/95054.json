@@ -1,1 +1,1 @@
-{"lat": 37.39324, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Clara", "lng": -121.96066, "zip_code": "95054"}
+{"locality": "Santa Clara", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Clara"], "postal_code": "95054", "lat": 37.39324, "lng": -121.96066, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}]}

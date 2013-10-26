@@ -1,1 +1,1 @@
-{"lat": 43.959478, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lake George", "lng": -84.93861, "zip_code": "48633"}
+{"locality": "Lake George", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lake George"], "postal_code": "48633", "lat": 43.959478, "lng": -84.93861, "type": "POBOX", "counties": [{"fips": "035", "name": "Clare"}]}

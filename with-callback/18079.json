@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.744055, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Slatedale", "lng": -75.65864, "zip_code": "18079"});
+zipapicallback({"locality": "Slatedale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Slatedale"], "postal_code": "18079", "lat": 40.744055, "lng": -75.65864, "type": "POBOX", "counties": [{"fips": "077", "name": "Lehigh"}]});

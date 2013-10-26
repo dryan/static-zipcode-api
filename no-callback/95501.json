@@ -1,1 +1,1 @@
-{"lat": 40.793739, "region": {"abbr": "CA", "name": "California"}, "locality": "Eureka", "lng": -124.16102, "zip_code": "95501"}
+{"locality": "Eureka", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Eureka"], "postal_code": "95501", "lat": 40.793739, "lng": -124.16102, "type": "STANDARD", "counties": [{"fips": "023", "name": "Humboldt"}]}

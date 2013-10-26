@@ -1,1 +1,1 @@
-{"lat": 42.642471, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Topsfield", "lng": -70.94424, "zip_code": "01983"}
+{"locality": "Topsfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Topsfield"], "postal_code": "01983", "lat": 42.642471, "lng": -70.94424, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

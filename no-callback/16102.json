@@ -1,1 +1,1 @@
-{"lat": 40.970991, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Castle", "lng": -80.38291, "zip_code": "16102"}
+{"locality": "New Castle", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Castle"], "postal_code": "16102", "lat": 40.970991, "lng": -80.38291, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}]}

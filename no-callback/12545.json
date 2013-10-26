@@ -1,1 +1,1 @@
-{"lat": 41.785109, "region": {"abbr": "NY", "name": "New York"}, "locality": "Millbrook", "lng": -73.68075, "zip_code": "12545"}
+{"locality": "Millbrook", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Millbrook"], "postal_code": "12545", "lat": 41.785109, "lng": -73.68075, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.802232, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kreamer", "lng": -76.96291, "zip_code": "17833"}
+{"locality": "Kreamer", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kreamer"], "postal_code": "17833", "lat": 40.802232, "lng": -76.96291, "type": "POBOX", "counties": [{"fips": "109", "name": "Snyder"}]}

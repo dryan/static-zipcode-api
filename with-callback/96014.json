@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.32211, "region": {"abbr": "CA", "name": "California"}, "locality": "Callahan", "lng": -122.81535, "zip_code": "96014"});
+zipapicallback({"locality": "Callahan", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Callahan"], "postal_code": "96014", "lat": 41.32211, "lng": -122.81535, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]});

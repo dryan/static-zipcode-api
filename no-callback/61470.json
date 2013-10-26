@@ -1,1 +1,1 @@
-{"lat": 40.614899, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Prairie City", "lng": -90.47345, "zip_code": "61470"}
+{"locality": "Prairie City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Prairie City"], "postal_code": "61470", "lat": 40.614899, "lng": -90.47345, "type": "STANDARD", "counties": [{"fips": "109", "name": "McDonough"}, {"fips": "057", "name": "Fulton"}]}

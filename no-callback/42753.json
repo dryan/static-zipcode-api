@@ -1,1 +1,1 @@
-{"lat": 37.242258, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Knifley", "lng": -85.20271, "zip_code": "42753"}
+{"locality": "Knifley", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Knifley"], "postal_code": "42753", "lat": 37.242258, "lng": -85.20271, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adair"}]}

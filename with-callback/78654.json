@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.566681, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cypress Mill", "lng": -98.30756, "zip_code": "78654"});
+zipapicallback({"locality": "Marble Falls", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Granite Shls", "Highland Haven", "Highland Havn", "Marble Falls", "Meadowlakes"], "postal_code": "78654", "lat": 30.566681, "lng": -98.30756, "type": "STANDARD", "counties": [{"fips": "031", "name": "Blanco"}, {"fips": "053", "name": "Burnet"}, {"fips": "299", "name": "Llano"}, {"fips": "453", "name": "Travis"}]});

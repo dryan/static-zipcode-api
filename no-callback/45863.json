@@ -1,1 +1,1 @@
-{"lat": 40.892251, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Middle Point", "lng": -84.45548, "zip_code": "45863"}
+{"locality": "Middle Point", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Middle Point"], "postal_code": "45863", "lat": 40.892251, "lng": -84.45548, "type": "STANDARD", "counties": [{"fips": "161", "name": "Van Wert"}]}

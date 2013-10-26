@@ -1,1 +1,1 @@
-{"lat": 39.579649, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Oldtown", "lng": -78.55826, "zip_code": "21555"}
+{"locality": "Oldtown", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Oldtown"], "postal_code": "21555", "lat": 39.579649, "lng": -78.55826, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allegany"}]}

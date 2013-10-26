@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.480704, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Arundel", "lng": -70.45871, "zip_code": "04005"});
+zipapicallback({"locality": "Biddeford", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Biddeford", "Dayton"], "postal_code": "04005", "lat": 43.480704, "lng": -70.45871, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]});

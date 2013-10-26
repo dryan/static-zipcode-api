@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.938629, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Clarkston", "lng": -112.0433, "zip_code": "84305"});
+zipapicallback({"locality": "Clarkston", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Clarkston"], "postal_code": "84305", "lat": 41.938629, "lng": -112.0433, "type": "POBOX", "counties": [{"fips": "005", "name": "Cache"}]});

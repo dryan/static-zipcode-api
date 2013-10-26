@@ -1,1 +1,1 @@
-{"lat": 34.128998, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Chapin", "lng": -81.33822, "zip_code": "29036"}
+{"locality": "Chapin", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Chapin"], "postal_code": "29036", "lat": 34.128998, "lng": -81.33822, "type": "STANDARD", "counties": [{"fips": "063", "name": "Lexington"}, {"fips": "079", "name": "Richland"}, {"fips": "071", "name": "Newberry"}]}

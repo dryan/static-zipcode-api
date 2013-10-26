@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.064946, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Blackstone", "lng": -88.66836, "zip_code": "61313"});
+zipapicallback({"locality": "Blackstone", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Blackstone"], "postal_code": "61313", "lat": 41.064946, "lng": -88.66836, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

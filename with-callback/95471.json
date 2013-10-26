@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.522499, "region": {"abbr": "CA", "name": "California"}, "locality": "Rio Nido", "lng": -122.97967, "zip_code": "95471"});
+zipapicallback({"locality": "Rio Nido", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rio Nido"], "postal_code": "95471", "lat": 38.522499, "lng": -122.97967, "type": "POBOX", "counties": [{"fips": "097", "name": "Sonoma"}]});

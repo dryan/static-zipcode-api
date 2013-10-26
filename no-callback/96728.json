@@ -1,1 +1,1 @@
-{"lat": 19.866007, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Honomu", "lng": -155.12172, "zip_code": "96728"}
+{"locality": "Honomu", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Honomu"], "postal_code": "96728", "lat": 19.866007, "lng": -155.12172, "type": "POBOX", "counties": [{"fips": "001", "name": "Hawaii"}]}

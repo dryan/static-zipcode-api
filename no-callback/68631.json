@@ -1,1 +1,1 @@
-{"lat": 41.692408, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Creston", "lng": -97.35456, "zip_code": "68631"}
+{"locality": "Creston", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Creston"], "postal_code": "68631", "lat": 41.692408, "lng": -97.35456, "type": "STANDARD", "counties": [{"fips": "141", "name": "Platte"}, {"fips": "167", "name": "Stanton"}]}

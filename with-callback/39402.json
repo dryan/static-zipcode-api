@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.325437, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Hattiesburg", "lng": -89.37926, "zip_code": "39402"});
+zipapicallback({"locality": "Hattiesburg", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hattiesburg"], "postal_code": "39402", "lat": 31.325437, "lng": -89.37926, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lamar"}, {"fips": "035", "name": "Forrest"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.096056, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Valley Station", "lng": -85.85994, "zip_code": "40272"}
+{"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Louisville", "Valley Station", "Valley Statn"], "postal_code": "40272", "lat": 38.096056, "lng": -85.85994, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}, {"fips": "029", "name": "Bullitt"}]}

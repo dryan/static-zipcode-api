@@ -1,1 +1,1 @@
-{"lat": 36.897777, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Welch", "lng": -95.15249, "zip_code": "74369"}
+{"locality": "Welch", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Welch"], "postal_code": "74369", "lat": 36.897777, "lng": -95.15249, "type": "STANDARD", "counties": [{"fips": "035", "name": "Craig"}]}

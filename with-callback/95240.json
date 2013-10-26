@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.12463, "region": {"abbr": "CA", "name": "California"}, "locality": "Lodi", "lng": -121.25039, "zip_code": "95240"});
+zipapicallback({"locality": "Lodi", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lodi"], "postal_code": "95240", "lat": 38.12463, "lng": -121.25039, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]});

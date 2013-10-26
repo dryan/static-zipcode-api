@@ -1,1 +1,1 @@
-{"lat": 40.852931, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Wallington", "lng": -74.10925, "zip_code": "07057"}
+{"locality": "Wallington", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wallington"], "postal_code": "07057", "lat": 40.852931, "lng": -74.10925, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.362729, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Coahoma", "lng": -90.5035, "zip_code": "38617"}
+{"locality": "Coahoma", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Coahoma", "Rich"], "postal_code": "38617", "lat": 34.362729, "lng": -90.5035, "type": "STANDARD", "counties": [{"fips": "119", "name": "Quitman"}]}

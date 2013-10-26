@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.230734, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Grantville", "lng": -84.82543, "zip_code": "30220"});
+zipapicallback({"locality": "Grantville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Grantville"], "postal_code": "30220", "lat": 33.230734, "lng": -84.82543, "type": "STANDARD", "counties": [{"fips": "077", "name": "Coweta"}, {"fips": "285", "name": "Troup"}, {"fips": "199", "name": "Meriwether"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.036721, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Truchas", "lng": -105.78702, "zip_code": "87578"});
+zipapicallback({"locality": "Truchas", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Truchas"], "postal_code": "87578", "lat": 36.036721, "lng": -105.78702, "type": "POBOX", "counties": [{"fips": "039", "name": "Rio Arriba"}]});

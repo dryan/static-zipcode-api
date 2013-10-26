@@ -1,1 +1,1 @@
-{"lat": 35.525338, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Cottonwood Cove", "lng": -114.91149, "zip_code": "89046"}
+{"locality": "Searchlight", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Cottonwood Cv", "Searchlight"], "postal_code": "89046", "lat": 35.525338, "lng": -114.91149, "type": "STANDARD", "counties": [{"fips": "003", "name": "Clark"}]}

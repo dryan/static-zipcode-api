@@ -1,1 +1,1 @@
-{"lat": 37.504558, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Camp Creek", "lng": -81.11622, "zip_code": "25820"}
+{"locality": "Camp Creek", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Camp Creek"], "postal_code": "25820", "lat": 37.504558, "lng": -81.11622, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}]}

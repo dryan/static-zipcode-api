@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.086218, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Latham", "lng": -83.31764, "zip_code": "45646"});
+zipapicallback({"locality": "Latham", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Latham"], "postal_code": "45646", "lat": 39.086218, "lng": -83.31764, "type": "STANDARD", "counties": [{"fips": "131", "name": "Pike"}]});

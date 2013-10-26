@@ -1,1 +1,1 @@
-{"lat": 30.890906, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Barwick", "lng": -83.73816, "zip_code": "31720"}
+{"locality": "Barwick", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Barwick"], "postal_code": "31720", "lat": 30.890906, "lng": -83.73816, "type": "POBOX", "counties": [{"fips": "027", "name": "Brooks"}]}

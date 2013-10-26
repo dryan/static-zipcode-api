@@ -1,1 +1,1 @@
-{"lat": 40.430727, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saybrook", "lng": -88.52548, "zip_code": "61770"}
+{"locality": "Saybrook", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Saybrook"], "postal_code": "61770", "lat": 40.430727, "lng": -88.52548, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

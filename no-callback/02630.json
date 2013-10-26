@@ -1,1 +1,1 @@
-{"lat": 41.700327, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Barnstable", "lng": -70.29568, "zip_code": "02630"}
+{"locality": "Barnstable", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Barnstable"], "postal_code": "02630", "lat": 41.700327, "lng": -70.29568, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

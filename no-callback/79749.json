@@ -1,1 +1,1 @@
-{"lat": 32.255909, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lenorah", "lng": -101.81824, "zip_code": "79749"}
+{"locality": "Lenorah", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lenorah"], "postal_code": "79749", "lat": 32.255909, "lng": -101.81824, "type": "STANDARD", "counties": [{"fips": "317", "name": "Martin"}]}

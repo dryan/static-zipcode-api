@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.084554, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kansas City", "lng": -94.58296, "zip_code": "64108"});
+zipapicallback({"locality": "Kansas City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kansas City"], "postal_code": "64108", "lat": 39.084554, "lng": -94.58296, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.630268, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Everman", "lng": -97.27102, "zip_code": "76140"});
+zipapicallback({"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Everman", "Forest Hill", "Fort Worth", "Ft Worth"], "postal_code": "76140", "lat": 32.630268, "lng": -97.27102, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}]});

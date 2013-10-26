@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.408295, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Prewitt", "lng": -107.98853, "zip_code": "87045"});
+zipapicallback({"locality": "Prewitt", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Prewitt"], "postal_code": "87045", "lat": 35.408295, "lng": -107.98853, "type": "STANDARD", "counties": [{"fips": "031", "name": "McKinley"}]});

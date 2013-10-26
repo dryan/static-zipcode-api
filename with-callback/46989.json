@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.457599, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Upland", "lng": -85.49089, "zip_code": "46989"});
+zipapicallback({"locality": "Upland", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Upland"], "postal_code": "46989", "lat": 40.457599, "lng": -85.49089, "type": "STANDARD", "counties": [{"fips": "053", "name": "Grant"}, {"fips": "009", "name": "Blackford"}, {"fips": "035", "name": "Delaware"}]});

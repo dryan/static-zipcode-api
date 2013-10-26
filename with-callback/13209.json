@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.081324, "region": {"abbr": "NY", "name": "New York"}, "locality": "Solvay", "lng": -76.23488, "zip_code": "13209"});
+zipapicallback({"locality": "Syracuse", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Solvay", "Syracuse"], "postal_code": "13209", "lat": 43.081324, "lng": -76.23488, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]});

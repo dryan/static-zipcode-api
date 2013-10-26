@@ -1,1 +1,1 @@
-{"lat": 35.59824, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Oktaha", "lng": -95.48434, "zip_code": "74450"}
+{"locality": "Oktaha", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Oktaha"], "postal_code": "74450", "lat": 35.59824, "lng": -95.48434, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "091", "name": "McIntosh"}]}

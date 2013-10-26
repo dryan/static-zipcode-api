@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.397077, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Newport", "lng": -81.25508, "zip_code": "45768"});
+zipapicallback({"locality": "Newport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Newport"], "postal_code": "45768", "lat": 39.397077, "lng": -81.25508, "type": "STANDARD", "counties": [{"fips": "167", "name": "Washington"}]});

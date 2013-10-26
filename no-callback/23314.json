@@ -1,1 +1,1 @@
-{"lat": 36.940626, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Carrollton", "lng": -76.5378, "zip_code": "23314"}
+{"locality": "Carrollton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Carrollton"], "postal_code": "23314", "lat": 36.940626, "lng": -76.5378, "type": "STANDARD", "counties": [{"fips": "093", "name": "Isle of Wight"}]}

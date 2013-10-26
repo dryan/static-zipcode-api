@@ -1,1 +1,1 @@
-{"lat": 45.73451, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Brush Prairie", "lng": -122.48034, "zip_code": "98606"}
+{"locality": "Brush Prairie", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Brush Prairie"], "postal_code": "98606", "lat": 45.73451, "lng": -122.48034, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}]}

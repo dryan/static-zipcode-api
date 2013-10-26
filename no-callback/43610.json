@@ -1,1 +1,1 @@
-{"lat": 41.676299, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Toledo", "lng": -83.55996, "zip_code": "43610"}
+{"locality": "Toledo", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Toledo"], "postal_code": "43610", "lat": 41.676299, "lng": -83.55996, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lucas"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.068411, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Saint Joseph", "lng": -92.74248, "zip_code": "54082"}
+{"locality": "Houlton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Houlton"], "postal_code": "54082", "lat": 45.068411, "lng": -92.74248, "type": "STANDARD", "counties": [{"fips": "109", "name": "St Croix"}]}

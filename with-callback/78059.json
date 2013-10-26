@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.19085, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Natalia", "lng": -98.84676, "zip_code": "78059"});
+zipapicallback({"locality": "Natalia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Natalia"], "postal_code": "78059", "lat": 29.19085, "lng": -98.84676, "type": "STANDARD", "counties": [{"fips": "325", "name": "Medina"}]});

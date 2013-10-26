@@ -1,1 +1,1 @@
-{"lat": 42.211636, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elsmere", "lng": -100.2201, "zip_code": "69135"}
+{"locality": "Elsmere", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Elsmere"], "postal_code": "69135", "lat": 42.211636, "lng": -100.2201, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cherry"}, {"fips": "017", "name": "Brown"}]}

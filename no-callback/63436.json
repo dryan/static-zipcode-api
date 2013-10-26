@@ -1,1 +1,1 @@
-{"lat": 39.501697, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Center", "lng": -91.5367, "zip_code": "63436"}
+{"locality": "Center", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Center"], "postal_code": "63436", "lat": 39.501697, "lng": -91.5367, "type": "STANDARD", "counties": [{"fips": "173", "name": "Ralls"}]}

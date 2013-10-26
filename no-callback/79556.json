@@ -1,1 +1,1 @@
-{"lat": 32.465621, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sweetwater", "lng": -100.39814, "zip_code": "79556"}
+{"locality": "Sweetwater", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sweetwater"], "postal_code": "79556", "lat": 32.465621, "lng": -100.39814, "type": "STANDARD", "counties": [{"fips": "353", "name": "Nolan"}, {"fips": "151", "name": "Fisher"}]}

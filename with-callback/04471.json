@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.909516, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Amity", "lng": -67.85856, "zip_code": "04471"});
+zipapicallback({"locality": "Orient", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Amity", "Cary Plt", "Orient"], "postal_code": "04471", "lat": 45.909516, "lng": -67.85856, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]});

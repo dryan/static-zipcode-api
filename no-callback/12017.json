@@ -1,1 +1,1 @@
-{"lat": 42.323565, "region": {"abbr": "NY", "name": "New York"}, "locality": "Austerlitz", "lng": -73.45257, "zip_code": "12017"}
+{"locality": "Austerlitz", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Austerlitz"], "postal_code": "12017", "lat": 42.323565, "lng": -73.45257, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]}

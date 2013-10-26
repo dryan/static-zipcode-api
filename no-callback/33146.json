@@ -1,1 +1,1 @@
-{"lat": 25.720728, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Coral Gables", "lng": -80.27255, "zip_code": "33146"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Coconut Grove", "Coral Gables", "Miami", "South Miami", "Univ Of Miami", "University Of Miami"], "postal_code": "33146", "lat": 25.720728, "lng": -80.27255, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

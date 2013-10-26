@@ -1,1 +1,1 @@
-{"lat": 43.313002, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Clyman", "lng": -88.71989, "zip_code": "53016"}
+{"locality": "Clyman", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Clyman"], "postal_code": "53016", "lat": 43.313002, "lng": -88.71989, "type": "POBOX", "counties": [{"fips": "027", "name": "Dodge"}]}

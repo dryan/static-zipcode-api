@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.765621, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Packwaukee", "lng": -89.45736, "zip_code": "53953"});
+zipapicallback({"locality": "Packwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Packwaukee"], "postal_code": "53953", "lat": 43.765621, "lng": -89.45736, "type": "POBOX", "counties": [{"fips": "077", "name": "Marquette"}]});

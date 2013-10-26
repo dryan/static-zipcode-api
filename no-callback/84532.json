@@ -1,1 +1,1 @@
-{"lat": 38.572778, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Moab", "lng": -109.49392, "zip_code": "84532"}
+{"locality": "Moab", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Castle Valley", "Moab"], "postal_code": "84532", "lat": 38.572778, "lng": -109.49392, "type": "STANDARD", "counties": [{"fips": "019", "name": "Grand"}]}

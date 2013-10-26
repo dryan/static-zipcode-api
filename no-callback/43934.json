@@ -1,1 +1,1 @@
-{"lat": 40.076176, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lansing", "lng": -80.78926, "zip_code": "43934"}
+{"locality": "Lansing", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lansing"], "postal_code": "43934", "lat": 40.076176, "lng": -80.78926, "type": "POBOX", "counties": [{"fips": "013", "name": "Belmont"}]}

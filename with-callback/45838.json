@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.740456, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Elgin", "lng": -84.47602, "zip_code": "45838"});
+zipapicallback({"locality": "Elgin", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Elgin"], "postal_code": "45838", "lat": 40.740456, "lng": -84.47602, "type": "POBOX", "counties": [{"fips": "161", "name": "Van Wert"}]});

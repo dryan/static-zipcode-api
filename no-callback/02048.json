@@ -1,1 +1,1 @@
-{"lat": 42.019982, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Mansfield", "lng": -71.2191, "zip_code": "02048"}
+{"locality": "Mansfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Mansfield"], "postal_code": "02048", "lat": 42.019982, "lng": -71.2191, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}, {"fips": "025", "name": "Suffolk"}]}

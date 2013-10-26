@@ -1,1 +1,1 @@
-{"lat": 42.74891, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cropseyville", "lng": -73.49405, "zip_code": "12052"}
+{"locality": "Cropseyville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cropseyville"], "postal_code": "12052", "lat": 42.74891, "lng": -73.49405, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]}

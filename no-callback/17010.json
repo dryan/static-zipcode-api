@@ -1,1 +1,1 @@
-{"lat": 40.280149, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Campbelltown", "lng": -76.5806, "zip_code": "17010"}
+{"locality": "Campbelltown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Campbelltown"], "postal_code": "17010", "lat": 40.280149, "lng": -76.5806, "type": "POBOX", "counties": [{"fips": "075", "name": "Lebanon"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.020978, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Horatio", "lng": -80.56786, "zip_code": "29062"});
+zipapicallback({"locality": "Horatio", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Horatio"], "postal_code": "29062", "lat": 34.020978, "lng": -80.56786, "type": "POBOX", "counties": [{"fips": "085", "name": "Sumter"}]});

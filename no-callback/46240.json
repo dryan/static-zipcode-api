@@ -1,1 +1,1 @@
-{"lat": 39.902039, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Nora", "lng": -86.12948, "zip_code": "46240"}
+{"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "Nora", "Williams Creek", "Williams Crk"], "postal_code": "46240", "lat": 39.902039, "lng": -86.12948, "type": "STANDARD", "counties": [{"fips": "097", "name": "Marion"}, {"fips": "057", "name": "Hamilton"}]}

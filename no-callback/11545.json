@@ -1,1 +1,1 @@
-{"lat": 40.823957, "region": {"abbr": "NY", "name": "New York"}, "locality": "Glen Head", "lng": -73.60415, "zip_code": "11545"}
+{"locality": "Glen Head", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Glen Head"], "postal_code": "11545", "lat": 40.823957, "lng": -73.60415, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]}

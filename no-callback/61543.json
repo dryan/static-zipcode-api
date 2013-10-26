@@ -1,1 +1,1 @@
-{"lat": 40.392048, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Liverpool", "lng": -89.99885, "zip_code": "61543"}
+{"locality": "Liverpool", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Liverpool"], "postal_code": "61543", "lat": 40.392048, "lng": -89.99885, "type": "POBOX", "counties": [{"fips": "057", "name": "Fulton"}]}

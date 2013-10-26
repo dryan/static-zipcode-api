@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.567399, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "La Harpe", "lng": -90.97066, "zip_code": "61450"});
+zipapicallback({"locality": "La Harpe", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["La Harpe"], "postal_code": "61450", "lat": 40.567399, "lng": -90.97066, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}, {"fips": "109", "name": "McDonough"}, {"fips": "071", "name": "Henderson"}]});

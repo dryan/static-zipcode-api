@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.973042, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "New Church", "lng": -75.53045, "zip_code": "23415"});
+zipapicallback({"locality": "New Church", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["New Church"], "postal_code": "23415", "lat": 37.973042, "lng": -75.53045, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]});

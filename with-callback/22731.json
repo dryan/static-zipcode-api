@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.345179, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Pratts", "lng": -78.26151, "zip_code": "22731"});
+zipapicallback({"locality": "Pratts", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Pratts"], "postal_code": "22731", "lat": 38.345179, "lng": -78.26151, "type": "STANDARD", "counties": [{"fips": "113", "name": "Madison"}]});

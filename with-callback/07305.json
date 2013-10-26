@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.701302, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Jersey City", "lng": -74.08843, "zip_code": "07305"});
+zipapicallback({"locality": "Jersey City", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Jersey City"], "postal_code": "07305", "lat": 40.701302, "lng": -74.08843, "type": "STANDARD", "counties": [{"fips": "017", "name": "Hudson"}]});

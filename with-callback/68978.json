@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.03686, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Superior", "lng": -98.07828, "zip_code": "68978"});
+zipapicallback({"locality": "Superior", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Superior"], "postal_code": "68978", "lat": 40.03686, "lng": -98.07828, "type": "STANDARD", "counties": [{"fips": "129", "name": "Nuckolls"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.478502, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lloyd", "lng": -84.02083, "zip_code": "32337"});
+zipapicallback({"locality": "Lloyd", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lloyd"], "postal_code": "32337", "lat": 30.478502, "lng": -84.02083, "type": "POBOX", "counties": [{"fips": "065", "name": "Jefferson"}]});

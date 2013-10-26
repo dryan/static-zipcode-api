@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.758733, "region": {"abbr": "NY", "name": "New York"}, "locality": "Adirondack", "lng": -73.76206, "zip_code": "12808"});
+zipapicallback({"locality": "Adirondack", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Adirondack"], "postal_code": "12808", "lat": 43.758733, "lng": -73.76206, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}]});

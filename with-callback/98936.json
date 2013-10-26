@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.540842, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Moxee", "lng": -120.33322, "zip_code": "98936"});
+zipapicallback({"locality": "Moxee", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Moxee"], "postal_code": "98936", "lat": 46.540842, "lng": -120.33322, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]});

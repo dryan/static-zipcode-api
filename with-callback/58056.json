@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.252754, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Luverne", "lng": -97.93864, "zip_code": "58056"});
+zipapicallback({"locality": "Luverne", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Luverne"], "postal_code": "58056", "lat": 47.252754, "lng": -97.93864, "type": "STANDARD", "counties": [{"fips": "091", "name": "Steele"}, {"fips": "039", "name": "Griggs"}, {"fips": "003", "name": "Barnes"}]});

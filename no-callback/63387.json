@@ -1,1 +1,1 @@
-{"lat": 39.184054, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Whiteside", "lng": -91.02078, "zip_code": "63387"}
+{"locality": "Whiteside", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Whiteside"], "postal_code": "63387", "lat": 39.184054, "lng": -91.02078, "type": "POBOX", "counties": [{"fips": "113", "name": "Lincoln"}]}

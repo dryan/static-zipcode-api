@@ -1,1 +1,1 @@
-{"lat": 31.172641, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Chancellor", "lng": -85.86482, "zip_code": "36316"}
+{"locality": "Chancellor", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Chancellor"], "postal_code": "36316", "lat": 31.172641, "lng": -85.86482, "type": "STANDARD", "counties": [{"fips": "061", "name": "Geneva"}, {"fips": "031", "name": "Coffee"}]}

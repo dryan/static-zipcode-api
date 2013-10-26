@@ -1,1 +1,1 @@
-{"lat": 41.736523, "region": {"abbr": "NY", "name": "New York"}, "locality": "Swan Lake", "lng": -74.82634, "zip_code": "12783"}
+{"locality": "Swan Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Swan Lake"], "postal_code": "12783", "lat": 41.736523, "lng": -74.82634, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.145982, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hoskins", "lng": -97.3009, "zip_code": "68740"}
+{"locality": "Hoskins", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hoskins"], "postal_code": "68740", "lat": 42.145982, "lng": -97.3009, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wayne"}, {"fips": "167", "name": "Stanton"}]}

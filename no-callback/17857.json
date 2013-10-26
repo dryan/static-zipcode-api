@@ -1,1 +1,1 @@
-{"lat": 40.899361, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Northumberland", "lng": -76.78947, "zip_code": "17857"}
+{"locality": "Northumberland", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Northumberland", "Northumberlnd"], "postal_code": "17857", "lat": 40.899361, "lng": -76.78947, "type": "STANDARD", "counties": [{"fips": "097", "name": "Northumberland"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.413817, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Hibbing", "lng": -92.94228, "zip_code": "55746"});
+zipapicallback({"locality": "Hibbing", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hibbing", "Kelly Lake"], "postal_code": "55746", "lat": 47.413817, "lng": -92.94228, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "061", "name": "Itasca"}]});

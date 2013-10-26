@@ -1,1 +1,1 @@
-{"lat": 40.7935, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Belleville", "lng": -74.16144, "zip_code": "07109"}
+{"locality": "Belleville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Belleville"], "postal_code": "07109", "lat": 40.7935, "lng": -74.16144, "type": "STANDARD", "counties": [{"fips": "013", "name": "Essex"}]}

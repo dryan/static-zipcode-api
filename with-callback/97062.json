@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.373991, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Tualatin", "lng": -122.77127, "zip_code": "97062"});
+zipapicallback({"locality": "Tualatin", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Tualatin"], "postal_code": "97062", "lat": 45.373991, "lng": -122.77127, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "005", "name": "Clackamas"}, {"fips": "065", "name": "Wasco"}, {"fips": "051", "name": "Multnomah"}]});

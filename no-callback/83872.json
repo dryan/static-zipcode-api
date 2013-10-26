@@ -1,1 +1,1 @@
-{"lat": 46.861905, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Viola", "lng": -116.96316, "zip_code": "83872"}
+{"locality": "Viola", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Viola"], "postal_code": "83872", "lat": 46.861905, "lng": -116.96316, "type": "STANDARD", "counties": [{"fips": "057", "name": "Latah"}]}

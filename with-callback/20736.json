@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.694074, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Owings", "lng": -76.61793, "zip_code": "20736"});
+zipapicallback({"locality": "Owings", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Owings"], "postal_code": "20736", "lat": 38.694074, "lng": -76.61793, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calvert"}]});

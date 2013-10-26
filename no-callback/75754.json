@@ -1,1 +1,1 @@
-{"lat": 32.412451, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ben Wheeler", "lng": -95.66711, "zip_code": "75754"}
+{"locality": "Ben Wheeler", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ben Wheeler", "Edom"], "postal_code": "75754", "lat": 32.412451, "lng": -95.66711, "type": "STANDARD", "counties": [{"fips": "467", "name": "Van Zandt"}, {"fips": "423", "name": "Smith"}]}

@@ -1,1 +1,1 @@
-{"lat": 26.974858, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Englewood", "lng": -82.3665, "zip_code": "34223"}
+{"locality": "Englewood", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Englewood"], "postal_code": "34223", "lat": 26.974858, "lng": -82.3665, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}, {"fips": "015", "name": "Charlotte"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.703427, "region": {"abbr": "CA", "name": "California"}, "locality": "San Leandro", "lng": -122.128, "zip_code": "94578"}
+{"locality": "San Leandro", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Leandro"], "postal_code": "94578", "lat": 37.703427, "lng": -122.128, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]}

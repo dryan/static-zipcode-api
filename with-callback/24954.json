@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.196374, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Minnehaha Spring", "lng": -80.05957, "zip_code": "24954"});
+zipapicallback({"locality": "Marlinton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Marlinton", "Minehaha Spgs", "Minnehaha Springs"], "postal_code": "24954", "lat": 38.196374, "lng": -80.05957, "type": "STANDARD", "counties": [{"fips": "075", "name": "Pocahontas"}]});

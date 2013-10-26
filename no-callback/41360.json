@@ -1,1 +1,1 @@
-{"lat": 37.791388, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Pine Ridge", "lng": -83.64971, "zip_code": "41360"}
+{"locality": "Pine Ridge", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Pine Ridge"], "postal_code": "41360", "lat": 37.791388, "lng": -83.64971, "type": "STANDARD", "counties": [{"fips": "237", "name": "Wolfe"}]}

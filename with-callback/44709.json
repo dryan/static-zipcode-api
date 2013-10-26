@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.836508, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "North Canton", "lng": -81.38548, "zip_code": "44709"});
+zipapicallback({"locality": "Canton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Canton", "North Canton"], "postal_code": "44709", "lat": 40.836508, "lng": -81.38548, "type": "STANDARD", "counties": [{"fips": "151", "name": "Stark"}]});

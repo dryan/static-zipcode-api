@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.542322, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Deerfield", "lng": -72.6091, "zip_code": "01342"});
+zipapicallback({"locality": "Deerfield", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Deerfield"], "postal_code": "01342", "lat": 42.542322, "lng": -72.6091, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]});

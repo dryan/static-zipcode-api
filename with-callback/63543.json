@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.361121, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gorin", "lng": -92.01979, "zip_code": "63543"});
+zipapicallback({"locality": "Gorin", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gorin"], "postal_code": "63543", "lat": 40.361121, "lng": -92.01979, "type": "STANDARD", "counties": [{"fips": "199", "name": "Scotland"}, {"fips": "045", "name": "Clark"}, {"fips": "103", "name": "Knox"}]});

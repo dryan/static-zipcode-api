@@ -1,1 +1,1 @@
-{"lat": 36.940538, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lennig", "lng": -78.98017, "zip_code": "24577"}
+{"locality": "Nathalie", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lennig", "Nathalie", "Republican Grove", "Republicn Grv"], "postal_code": "24577", "lat": 36.940538, "lng": -78.98017, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]}

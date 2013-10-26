@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.953782, "region": {"abbr": "NY", "name": "New York"}, "locality": "Constable", "lng": -74.32809, "zip_code": "12926"});
+zipapicallback({"locality": "Constable", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Constable"], "postal_code": "12926", "lat": 44.953782, "lng": -74.32809, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}]});

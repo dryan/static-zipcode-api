@@ -1,1 +1,1 @@
-{"lat": 41.177457, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Branchville", "lng": -74.75904, "zip_code": "07826"}
+{"locality": "Branchville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Branchville", "Sandyston"], "postal_code": "07826", "lat": 41.177457, "lng": -74.75904, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}]}

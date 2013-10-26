@@ -1,1 +1,1 @@
-{"lat": 30.289646, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Waveland", "lng": -89.38349, "zip_code": "39576"}
+{"locality": "Waveland", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Waveland"], "postal_code": "39576", "lat": 30.289646, "lng": -89.38349, "type": "STANDARD", "counties": [{"fips": "045", "name": "Hancock"}]}

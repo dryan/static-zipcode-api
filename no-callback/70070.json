@@ -1,1 +1,1 @@
-{"lat": 29.907162, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Luling", "lng": -90.35142, "zip_code": "70070"}
+{"locality": "Luling", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Luling"], "postal_code": "70070", "lat": 29.907162, "lng": -90.35142, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Charles"}]}

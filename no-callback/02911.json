@@ -1,1 +1,1 @@
-{"lat": 41.853699, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Centredale", "lng": -71.47354, "zip_code": "02911"}
+{"locality": "North Providence", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["N Providence", "North Providence", "Providence"], "postal_code": "02911", "lat": 41.853699, "lng": -71.47354, "type": "STANDARD", "counties": [{"fips": "007", "name": "Providence"}]}

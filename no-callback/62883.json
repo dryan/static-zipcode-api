@@ -1,1 +1,1 @@
-{"lat": 38.164136, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Scheller", "lng": -89.11908, "zip_code": "62883"}
+{"locality": "Scheller", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Scheller"], "postal_code": "62883", "lat": 38.164136, "lng": -89.11908, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}, {"fips": "145", "name": "Perry"}, {"fips": "055", "name": "Franklin"}]}

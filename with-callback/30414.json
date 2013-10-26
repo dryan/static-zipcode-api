@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.15499, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bellville", "lng": -81.97826, "zip_code": "30414"});
+zipapicallback({"locality": "Bellville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Bellville"], "postal_code": "30414", "lat": 32.15499, "lng": -81.97826, "type": "POBOX", "counties": [{"fips": "109", "name": "Evans"}]});

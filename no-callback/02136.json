@@ -1,1 +1,1 @@
-{"lat": 42.252198, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hyde Park", "lng": -71.12593, "zip_code": "02136"}
+{"locality": "Hyde Park", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston", "Hyde Park", "Readville"], "postal_code": "02136", "lat": 42.252198, "lng": -71.12593, "type": "STANDARD", "counties": [{"fips": "025", "name": "Suffolk"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.324175, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Rapidan", "lng": -78.05877, "zip_code": "22733"});
+zipapicallback({"locality": "Rapidan", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Rapidan"], "postal_code": "22733", "lat": 38.324175, "lng": -78.05877, "type": "STANDARD", "counties": [{"fips": "047", "name": "Culpeper"}, {"fips": "137", "name": "Orange"}]});

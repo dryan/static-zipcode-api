@@ -1,1 +1,1 @@
-{"lat": 42.98995, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Fennimore", "lng": -90.63483, "zip_code": "53809"}
+{"locality": "Fennimore", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fennimore"], "postal_code": "53809", "lat": 42.98995, "lng": -90.63483, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grant"}]}

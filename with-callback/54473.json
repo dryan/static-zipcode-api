@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.641554, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Rosholt", "lng": -89.33596, "zip_code": "54473"});
+zipapicallback({"locality": "Rosholt", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Rosholt"], "postal_code": "54473", "lat": 44.641554, "lng": -89.33596, "type": "STANDARD", "counties": [{"fips": "097", "name": "Portage"}, {"fips": "073", "name": "Marathon"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.809604, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Clarkston", "lng": -84.2387, "zip_code": "30021"}
+{"locality": "Clarkston", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Clarkston"], "postal_code": "30021", "lat": 33.809604, "lng": -84.2387, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "087", "name": "Decatur"}]}

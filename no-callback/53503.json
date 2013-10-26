@@ -1,1 +1,1 @@
-{"lat": 43.150122, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Arena", "lng": -89.92545, "zip_code": "53503"}
+{"locality": "Arena", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Arena"], "postal_code": "53503", "lat": 43.150122, "lng": -89.92545, "type": "STANDARD", "counties": [{"fips": "049", "name": "Iowa"}]}

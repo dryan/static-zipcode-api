@@ -1,1 +1,1 @@
-{"lat": 46.726395, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Selah", "lng": -120.56997, "zip_code": "98942"}
+{"locality": "Selah", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Selah"], "postal_code": "98942", "lat": 46.726395, "lng": -120.56997, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

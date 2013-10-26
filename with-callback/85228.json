@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.967829, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Coolidge", "lng": -111.52617, "zip_code": "85228"});
+zipapicallback({"locality": "Coolidge", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Coolidge"], "postal_code": "85228", "lat": 32.967829, "lng": -111.52617, "type": "STANDARD", "counties": [{"fips": "021", "name": "Pinal"}, {"fips": "013", "name": "Maricopa"}]});

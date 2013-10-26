@@ -1,1 +1,1 @@
-{"lat": 43.785416, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Brothers", "lng": -120.51518, "zip_code": "97712"}
+{"locality": "Brothers", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Brothers"], "postal_code": "97712", "lat": 43.785416, "lng": -120.51518, "type": "STANDARD", "counties": [{"fips": "017", "name": "Deschutes"}]}

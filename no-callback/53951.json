@@ -1,1 +1,1 @@
-{"lat": 43.393526, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "North Freedom", "lng": -89.84489, "zip_code": "53951"}
+{"locality": "North Freedom", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["North Freedom"], "postal_code": "53951", "lat": 43.393526, "lng": -89.84489, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}]}

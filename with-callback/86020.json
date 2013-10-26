@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.182818, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Cameron", "lng": -111.5472, "zip_code": "86020"});
+zipapicallback({"locality": "Cameron", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Cameron"], "postal_code": "86020", "lat": 36.182818, "lng": -111.5472, "type": "POBOX", "counties": [{"fips": "005", "name": "Coconino"}]});

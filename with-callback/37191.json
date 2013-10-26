@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.503792, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Woodlawn", "lng": -87.54263, "zip_code": "37191"});
+zipapicallback({"locality": "Woodlawn", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Woodlawn"], "postal_code": "37191", "lat": 36.503792, "lng": -87.54263, "type": "STANDARD", "counties": [{"fips": "125", "name": "Montgomery"}]});

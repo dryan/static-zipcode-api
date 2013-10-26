@@ -1,1 +1,1 @@
-{"lat": 45.932174, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Acton", "lng": -108.68933, "zip_code": "59002"}
+{"locality": "Acton", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Acton", "Molt"], "postal_code": "59002", "lat": 45.932174, "lng": -108.68933, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]}

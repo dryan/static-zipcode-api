@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.54748, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Reynolds", "lng": -84.10042, "zip_code": "31076"});
+zipapicallback({"locality": "Reynolds", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Reynolds"], "postal_code": "31076", "lat": 32.54748, "lng": -84.10042, "type": "STANDARD", "counties": [{"fips": "269", "name": "Taylor"}, {"fips": "193", "name": "MacOn"}]});

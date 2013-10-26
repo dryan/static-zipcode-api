@@ -1,1 +1,1 @@
-{"lat": 34.137179, "region": {"abbr": "CA", "name": "California"}, "locality": "Big River", "lng": -114.35823, "zip_code": "92242"}
+{"locality": "Earp", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Big River", "Earp"], "postal_code": "92242", "lat": 34.137179, "lng": -114.35823, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

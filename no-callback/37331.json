@@ -1,1 +1,1 @@
-{"lat": 35.325991, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Etowah", "lng": -84.53015, "zip_code": "37331"}
+{"locality": "Etowah", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Etowah"], "postal_code": "37331", "lat": 35.325991, "lng": -84.53015, "type": "STANDARD", "counties": [{"fips": "107", "name": "McMinn"}]}

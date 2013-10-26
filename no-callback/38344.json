@@ -1,1 +1,1 @@
-{"lat": 35.995802, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Huntingdon", "lng": -88.41385, "zip_code": "38344"}
+{"locality": "Huntingdon", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Huntingdon"], "postal_code": "38344", "lat": 35.995802, "lng": -88.41385, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carroll"}]}

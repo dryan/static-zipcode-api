@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.593911, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Haxtun", "lng": -102.58831, "zip_code": "80731"});
+zipapicallback({"locality": "Haxtun", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Haxtun"], "postal_code": "80731", "lat": 40.593911, "lng": -102.58831, "type": "STANDARD", "counties": [{"fips": "095", "name": "Phillips"}, {"fips": "075", "name": "Logan"}, {"fips": "125", "name": "Yuma"}]});

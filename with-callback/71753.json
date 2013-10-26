@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.249608, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Magnolia", "lng": -93.20427, "zip_code": "71753"});
+zipapicallback({"locality": "Magnolia", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Magnolia", "Village"], "postal_code": "71753", "lat": 33.249608, "lng": -93.20427, "type": "STANDARD", "counties": [{"fips": "027", "name": "Columbia"}, {"fips": "019", "name": "Clark"}]});

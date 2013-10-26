@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.785816, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Farmington", "lng": -108.14505, "zip_code": "87402"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Farmington"], "postal_code": "87402", "lat": 36.785816, "lng": -108.14505, "type": "STANDARD", "counties": []});

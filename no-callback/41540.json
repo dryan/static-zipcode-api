@@ -1,1 +1,1 @@
-{"lat": 37.396574, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lick Creek", "lng": -82.33349, "zip_code": "41540"}
+{"locality": "Lick Creek", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lick Creek"], "postal_code": "41540", "lat": 37.396574, "lng": -82.33349, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

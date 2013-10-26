@@ -1,1 +1,1 @@
-{"lat": 36.011662, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Flag Pond", "lng": -82.56056, "zip_code": "37657"}
+{"locality": "Flag Pond", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Flag Pond"], "postal_code": "37657", "lat": 36.011662, "lng": -82.56056, "type": "STANDARD", "counties": [{"fips": "171", "name": "Unicoi"}]}

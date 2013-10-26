@@ -1,1 +1,1 @@
-{"lat": 45.737525, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Billings", "lng": -108.48754, "zip_code": "59101"}
+{"locality": "Billings", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Billings"], "postal_code": "59101", "lat": 45.737525, "lng": -108.48754, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]}

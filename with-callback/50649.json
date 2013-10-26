@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.662282, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Kesley", "lng": -92.91099, "zip_code": "50649"});
+zipapicallback({"locality": "Kesley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kesley"], "postal_code": "50649", "lat": 42.662282, "lng": -92.91099, "type": "STANDARD", "counties": [{"fips": "023", "name": "Butler"}]});

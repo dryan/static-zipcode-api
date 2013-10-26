@@ -1,1 +1,1 @@
-{"lat": 39.976898, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East York", "lng": -76.67785, "zip_code": "17402"}
+{"locality": "York", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["East York", "York"], "postal_code": "17402", "lat": 39.976898, "lng": -76.67785, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

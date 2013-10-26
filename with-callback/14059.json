@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.834159, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elma", "lng": -78.64246, "zip_code": "14059"});
+zipapicallback({"locality": "Elma", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elma"], "postal_code": "14059", "lat": 42.834159, "lng": -78.64246, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

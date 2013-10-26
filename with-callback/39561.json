@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.704034, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mc Henry", "lng": -89.15395, "zip_code": "39561"});
+zipapicallback({"locality": "Mc Henry", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mc Henry"], "postal_code": "39561", "lat": 30.704034, "lng": -89.15395, "type": "STANDARD", "counties": [{"fips": "131", "name": "Stone"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.081086, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Lonetree", "lng": -110.22391, "zip_code": "82936"});
+zipapicallback({"locality": "Lonetree", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Lonetree"], "postal_code": "82936", "lat": 41.081086, "lng": -110.22391, "type": "STANDARD", "counties": [{"fips": "041", "name": "Uinta"}]});

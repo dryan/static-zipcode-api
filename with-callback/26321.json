@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.051863, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Alum Bridge", "lng": -80.6844, "zip_code": "26321"});
+zipapicallback({"locality": "Alum Bridge", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Alum Bridge", "Vadis"], "postal_code": "26321", "lat": 39.051863, "lng": -80.6844, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]});

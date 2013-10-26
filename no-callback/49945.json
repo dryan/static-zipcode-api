@@ -1,1 +1,1 @@
-{"lat": 47.17583, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Gay", "lng": -88.32904, "zip_code": "49945"}
+{"locality": "Lake Linden", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Gay", "Lake Linden"], "postal_code": "49945", "lat": 47.17583, "lng": -88.32904, "type": "STANDARD", "counties": [{"fips": "061", "name": "Houghton"}, {"fips": "083", "name": "Keweenaw"}]}

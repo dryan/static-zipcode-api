@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.825527, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sacul", "lng": -94.91759, "zip_code": "75788"});
+zipapicallback({"locality": "Sacul", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sacul"], "postal_code": "75788", "lat": 31.825527, "lng": -94.91759, "type": "POBOX", "counties": [{"fips": "347", "name": "Nacogdoches"}]});

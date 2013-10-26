@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.505963, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Comstock", "lng": -92.17646, "zip_code": "54826"});
+zipapicallback({"locality": "Comstock", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Comstock"], "postal_code": "54826", "lat": 45.505963, "lng": -92.17646, "type": "STANDARD", "counties": [{"fips": "005", "name": "Barron"}, {"fips": "095", "name": "Polk"}]});

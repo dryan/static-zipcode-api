@@ -1,1 +1,1 @@
-{"lat": 41.991654, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Britton", "lng": -83.82631, "zip_code": "49229"}
+{"locality": "Britton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Britton", "Ridgeway"], "postal_code": "49229", "lat": 41.991654, "lng": -83.82631, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}, {"fips": "161", "name": "Washtenaw"}, {"fips": "115", "name": "Monroe"}]}

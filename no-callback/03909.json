@@ -1,1 +1,1 @@
-{"lat": 43.159537, "region": {"abbr": "ME", "name": "Maine"}, "locality": "York", "lng": -70.65239, "zip_code": "03909"}
+{"locality": "York", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["York"], "postal_code": "03909", "lat": 43.159537, "lng": -70.65239, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

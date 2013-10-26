@@ -1,1 +1,1 @@
-{"lat": 26.016984, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hollywood", "lng": -80.14925, "zip_code": "33020"}
+{"locality": "Hollywood", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hollywood"], "postal_code": "33020", "lat": 26.016984, "lng": -80.14925, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

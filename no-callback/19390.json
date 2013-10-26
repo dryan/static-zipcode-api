@@ -1,1 +1,1 @@
-{"lat": 39.820841, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Grove", "lng": -75.84233, "zip_code": "19390"}
+{"locality": "West Grove", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Chatham", "West Grove"], "postal_code": "19390", "lat": 39.820841, "lng": -75.84233, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}]}

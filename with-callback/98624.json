@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.312541, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ilwaco", "lng": -124.02968, "zip_code": "98624"});
+zipapicallback({"locality": "Ilwaco", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ilwaco"], "postal_code": "98624", "lat": 46.312541, "lng": -124.02968, "type": "STANDARD", "counties": [{"fips": "049", "name": "Pacific"}]});

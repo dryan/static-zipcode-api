@@ -1,1 +1,1 @@
-{"lat": 39.258653, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Loveland", "lng": -84.2651, "zip_code": "45140"}
+{"locality": "Loveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Loveland", "Montgomery"], "postal_code": "45140", "lat": 39.258653, "lng": -84.2651, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clermont"}, {"fips": "061", "name": "Hamilton"}]}

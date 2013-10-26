@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.664895, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Woodville", "lng": -86.23363, "zip_code": "35776"});
+zipapicallback({"locality": "Woodville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Woodville"], "postal_code": "35776", "lat": 34.664895, "lng": -86.23363, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}, {"fips": "089", "name": "Madison"}, {"fips": "095", "name": "Marshall"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.209307, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Coloma", "lng": -86.3337, "zip_code": "49038"}
+{"locality": "Coloma", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Coloma"], "postal_code": "49038", "lat": 42.209307, "lng": -86.3337, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}, {"fips": "159", "name": "Van Buren"}]}

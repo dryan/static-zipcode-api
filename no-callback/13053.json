@@ -1,1 +1,1 @@
-{"lat": 42.483348, "region": {"abbr": "NY", "name": "New York"}, "locality": "Dryden", "lng": -76.27901, "zip_code": "13053"}
+{"locality": "Dryden", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Dryden"], "postal_code": "13053", "lat": 42.483348, "lng": -76.27901, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tompkins"}, {"fips": "023", "name": "Cortland"}]}

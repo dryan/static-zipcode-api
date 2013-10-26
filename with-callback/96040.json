@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.788512, "region": {"abbr": "CA", "name": "California"}, "locality": "Hat Creek", "lng": -121.47668, "zip_code": "96040"});
+zipapicallback({"locality": "Hat Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hat Creek"], "postal_code": "96040", "lat": 40.788512, "lng": -121.47668, "type": "STANDARD", "counties": [{"fips": "089", "name": "Shasta"}]});

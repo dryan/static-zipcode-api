@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.074399, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Peru", "lng": -96.09053, "zip_code": "67360"});
+zipapicallback({"locality": "Peru", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Peru"], "postal_code": "67360", "lat": 37.074399, "lng": -96.09053, "type": "STANDARD", "counties": [{"fips": "019", "name": "Chautauqua"}]});

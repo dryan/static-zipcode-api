@@ -1,1 +1,1 @@
-{"lat": 38.258941, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Anchorage", "lng": -85.55574, "zip_code": "40223"}
+{"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Anchorage", "Blue Rdg Mnr", "Blue Ridge Manor", "Louisville", "Meadowbrk Frm", "Meadowbrook Farm", "Moorland", "Sycamore", "Wildwood"], "postal_code": "40223", "lat": 38.258941, "lng": -85.55574, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}, {"fips": "211", "name": "Shelby"}, {"fips": "185", "name": "Oldham"}]}

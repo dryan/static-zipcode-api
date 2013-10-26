@@ -1,1 +1,1 @@
-{"lat": 38.214254, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glasgow", "lng": -81.42028, "zip_code": "25086"}
+{"locality": "Glasgow", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glasgow"], "postal_code": "25086", "lat": 38.214254, "lng": -81.42028, "type": "POBOX", "counties": [{"fips": "039", "name": "Kanawha"}]}

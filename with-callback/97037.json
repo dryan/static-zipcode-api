@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.093643, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Maupin", "lng": -121.10814, "zip_code": "97037"});
+zipapicallback({"locality": "Maupin", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Maupin"], "postal_code": "97037", "lat": 45.093643, "lng": -121.10814, "type": "STANDARD", "counties": [{"fips": "065", "name": "Wasco"}]});

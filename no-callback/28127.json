@@ -1,1 +1,1 @@
-{"lat": 35.463024, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "New London", "lng": -80.1649, "zip_code": "28127"}
+{"locality": "New London", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Badin Lake", "New London"], "postal_code": "28127", "lat": 35.463024, "lng": -80.1649, "type": "STANDARD", "counties": [{"fips": "167", "name": "Stanly"}]}

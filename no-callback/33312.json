@@ -1,1 +1,1 @@
-{"lat": 26.094665, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Lauderdale", "lng": -80.17987, "zip_code": "33312"}
+{"locality": "Fort Lauderdale", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Davie", "Fort Lauderdale", "Ft Lauderdale"], "postal_code": "33312", "lat": 26.094665, "lng": -80.17987, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]}

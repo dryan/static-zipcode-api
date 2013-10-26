@@ -1,1 +1,1 @@
-{"lat": 43.049536, "region": {"abbr": "NY", "name": "New York"}, "locality": "Clinton", "lng": -75.37656, "zip_code": "13323"}
+{"locality": "Clinton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Clinton"], "postal_code": "13323", "lat": 43.049536, "lng": -75.37656, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]}

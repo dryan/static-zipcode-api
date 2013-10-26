@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.919808, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Berryman", "lng": -91.25495, "zip_code": "65565"});
+zipapicallback({"locality": "Steelville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Berryman", "Courtois", "Steelville"], "postal_code": "65565", "lat": 37.919808, "lng": -91.25495, "type": "STANDARD", "counties": [{"fips": "055", "name": "Crawford"}, {"fips": "221", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.574834, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Quail Heights", "lng": -80.3467, "zip_code": "33189"});
+zipapicallback({"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cutler Bay", "Miami", "Quail Heights"], "postal_code": "33189", "lat": 25.574834, "lng": -80.3467, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]});

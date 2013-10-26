@@ -1,1 +1,1 @@
-{"lat": 38.87672, "region": {"abbr": "CA", "name": "California"}, "locality": "Newcastle", "lng": -121.14213, "zip_code": "95658"}
+{"locality": "Newcastle", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Newcastle"], "postal_code": "95658", "lat": 38.87672, "lng": -121.14213, "type": "STANDARD", "counties": [{"fips": "061", "name": "Placer"}]}

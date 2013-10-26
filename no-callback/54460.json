@@ -1,1 +1,1 @@
-{"lat": 44.945107, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Owen", "lng": -90.53973, "zip_code": "54460"}
+{"locality": "Owen", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Owen"], "postal_code": "54460", "lat": 44.945107, "lng": -90.53973, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "119", "name": "Taylor"}]}

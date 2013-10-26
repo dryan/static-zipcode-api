@@ -1,1 +1,1 @@
-{"lat": 39.771663, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Edgemoor", "lng": -75.49656, "zip_code": "19809"}
+{"locality": "Wilmington", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Bellefonte", "Edgemoor", "Wilmington"], "postal_code": "19809", "lat": 39.771663, "lng": -75.49656, "type": "STANDARD", "counties": [{"fips": "003", "name": "New Castle"}]}

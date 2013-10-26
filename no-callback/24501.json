@@ -1,1 +1,1 @@
-{"lat": 37.390209, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lynchburg", "lng": -79.16132, "zip_code": "24501"}
+{"locality": "Lynchburg", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lynchburg"], "postal_code": "24501", "lat": 37.390209, "lng": -79.16132, "type": "STANDARD", "counties": [{"fips": "031", "name": "Campbell"}, {"fips": "680", "name": "Lynchburg (City)"}]}

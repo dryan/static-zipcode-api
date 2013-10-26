@@ -1,1 +1,1 @@
-{"lat": 36.049348, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Frank", "lng": -81.94286, "zip_code": "28657"}
+{"locality": "Newland", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Frank", "Newland"], "postal_code": "28657", "lat": 36.049348, "lng": -81.94286, "type": "STANDARD", "counties": [{"fips": "011", "name": "Avery"}, {"fips": "023", "name": "Burke"}]}

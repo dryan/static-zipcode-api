@@ -1,1 +1,1 @@
-{"lat": 43.80576, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mount Calvary", "lng": -88.25436, "zip_code": "53057"}
+{"locality": "Mount Calvary", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mount Calvary"], "postal_code": "53057", "lat": 43.80576, "lng": -88.25436, "type": "STANDARD", "counties": [{"fips": "039", "name": "Fond Du Lac"}]}

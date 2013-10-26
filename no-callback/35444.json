@@ -1,1 +1,1 @@
-{"lat": 33.276411, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Brookwood", "lng": -87.3052, "zip_code": "35444"}
+{"locality": "Brookwood", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Brookwood"], "postal_code": "35444", "lat": 33.276411, "lng": -87.3052, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}, {"fips": "073", "name": "Jefferson"}]}

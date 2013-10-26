@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.043505, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Cowpens", "lng": -81.81026, "zip_code": "29330"});
+zipapicallback({"locality": "Cowpens", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Cowpens"], "postal_code": "29330", "lat": 35.043505, "lng": -81.81026, "type": "STANDARD", "counties": [{"fips": "083", "name": "Spartanburg"}, {"fips": "021", "name": "Cherokee"}]});

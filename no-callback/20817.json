@@ -1,1 +1,1 @@
-{"lat": 38.996842, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "West Bethesda", "lng": -77.13519, "zip_code": "20817"}
+{"locality": "Bethesda", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bethesda", "Westlake"], "postal_code": "20817", "lat": 38.996842, "lng": -77.13519, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

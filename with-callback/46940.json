@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.680911, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "La Fontaine", "lng": -85.72135, "zip_code": "46940"});
+zipapicallback({"locality": "La Fontaine", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["La Fontaine"], "postal_code": "46940", "lat": 40.680911, "lng": -85.72135, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wabash"}, {"fips": "069", "name": "Huntington"}, {"fips": "053", "name": "Grant"}]});

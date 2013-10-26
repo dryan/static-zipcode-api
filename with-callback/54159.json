@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.207353, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Porterfield", "lng": -87.80061, "zip_code": "54159"});
+zipapicallback({"locality": "Porterfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Porterfield"], "postal_code": "54159", "lat": 45.207353, "lng": -87.80061, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}]});

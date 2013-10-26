@@ -1,1 +1,1 @@
-{"lat": 37.85017, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cook Station", "lng": -91.49431, "zip_code": "65449"}
+{"locality": "Cook Sta", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cook Sta"], "postal_code": "65449", "lat": 37.85017, "lng": -91.49431, "type": "STANDARD", "counties": [{"fips": "161", "name": "Phelps"}, {"fips": "055", "name": "Crawford"}]}

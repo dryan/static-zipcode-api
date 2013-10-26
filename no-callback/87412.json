@@ -1,1 +1,1 @@
-{"lat": 36.681819, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Blanco", "lng": -107.48121, "zip_code": "87412"}
+{"locality": "Blanco", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Blanco"], "postal_code": "87412", "lat": 36.681819, "lng": -107.48121, "type": "STANDARD", "counties": [{"fips": "045", "name": "San Juan"}]}

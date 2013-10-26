@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.27442, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Grandview", "lng": -97.19282, "zip_code": "76050"});
+zipapicallback({"locality": "Grandview", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Grandview"], "postal_code": "76050", "lat": 32.27442, "lng": -97.19282, "type": "STANDARD", "counties": [{"fips": "251", "name": "Johnson"}, {"fips": "139", "name": "Ellis"}, {"fips": "217", "name": "Hill"}]});

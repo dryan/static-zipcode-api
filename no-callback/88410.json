@@ -1,1 +1,1 @@
-{"lat": 35.890633, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Amistad", "lng": -103.20194, "zip_code": "88410"}
+{"locality": "Amistad", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Amistad"], "postal_code": "88410", "lat": 35.890633, "lng": -103.20194, "type": "STANDARD", "counties": [{"fips": "059", "name": "Union"}]}

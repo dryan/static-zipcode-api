@@ -1,1 +1,1 @@
-{"lat": 34.790635, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Rush Springs", "lng": -97.93807, "zip_code": "73082"}
+{"locality": "Rush Springs", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Rush Springs"], "postal_code": "73082", "lat": 34.790635, "lng": -97.93807, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grady"}]}

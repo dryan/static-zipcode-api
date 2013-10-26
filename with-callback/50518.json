@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.523953, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Barnum", "lng": -94.35401, "zip_code": "50518"});
+zipapicallback({"locality": "Barnum", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Barnum"], "postal_code": "50518", "lat": 42.523953, "lng": -94.35401, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]});

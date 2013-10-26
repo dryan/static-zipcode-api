@@ -1,1 +1,1 @@
-{"lat": 47.10167, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Arthur", "lng": -97.2147, "zip_code": "58006"}
+{"locality": "Arthur", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Arthur"], "postal_code": "58006", "lat": 47.10167, "lng": -97.2147, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]}

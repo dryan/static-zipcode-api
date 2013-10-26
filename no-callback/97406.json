@@ -1,1 +1,1 @@
-{"lat": 42.625928, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Agness", "lng": -124.05435, "zip_code": "97406"}
+{"locality": "Agness", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Agness"], "postal_code": "97406", "lat": 42.625928, "lng": -124.05435, "type": "STANDARD", "counties": [{"fips": "015", "name": "Curry"}]}

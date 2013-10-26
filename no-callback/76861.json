@@ -1,1 +1,1 @@
-{"lat": 31.58901, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Miles", "lng": -100.1911, "zip_code": "76861"}
+{"locality": "Miles", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Miles"], "postal_code": "76861", "lat": 31.58901, "lng": -100.1911, "type": "STANDARD", "counties": [{"fips": "399", "name": "Runnels"}, {"fips": "095", "name": "Concho"}]}

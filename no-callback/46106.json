@@ -1,1 +1,1 @@
-{"lat": 39.514024, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Bargersville", "lng": -86.18812, "zip_code": "46106"}
+{"locality": "Bargersville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bargersville"], "postal_code": "46106", "lat": 39.514024, "lng": -86.18812, "type": "STANDARD", "counties": [{"fips": "081", "name": "Johnson"}, {"fips": "109", "name": "Morgan"}]}

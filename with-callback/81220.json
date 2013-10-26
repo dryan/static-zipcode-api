@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.321598, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cimarron", "lng": -107.4166, "zip_code": "81220"});
+zipapicallback({"locality": "Cimarron", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cimarron"], "postal_code": "81220", "lat": 38.321598, "lng": -107.4166, "type": "STANDARD", "counties": [{"fips": "085", "name": "Montrose"}, {"fips": "051", "name": "Gunnison"}]});

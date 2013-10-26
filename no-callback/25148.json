@@ -1,1 +1,1 @@
-{"lat": 38.04358, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Orgas", "lng": -81.57171, "zip_code": "25148"}
+{"locality": "Orgas", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Orgas"], "postal_code": "25148", "lat": 38.04358, "lng": -81.57171, "type": "STANDARD", "counties": [{"fips": "005", "name": "Boone"}]}

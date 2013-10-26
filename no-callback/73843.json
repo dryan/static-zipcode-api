@@ -1,1 +1,1 @@
-{"lat": 36.41954, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Gage", "lng": -99.84131, "zip_code": "73843"}
+{"locality": "Gage", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Gage"], "postal_code": "73843", "lat": 36.41954, "lng": -99.84131, "type": "STANDARD", "counties": [{"fips": "045", "name": "Ellis"}, {"fips": "007", "name": "Beaver"}]}

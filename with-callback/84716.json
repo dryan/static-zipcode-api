@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.94512, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Boulder", "lng": -111.09991, "zip_code": "84716"});
+zipapicallback({"locality": "Boulder", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Boulder"], "postal_code": "84716", "lat": 37.94512, "lng": -111.09991, "type": "POBOX", "counties": [{"fips": "017", "name": "Garfield"}]});

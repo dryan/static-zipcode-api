@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.630396, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Centertown", "lng": -92.39311, "zip_code": "65023"});
+zipapicallback({"locality": "Centertown", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Centertown"], "postal_code": "65023", "lat": 38.630396, "lng": -92.39311, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}, {"fips": "135", "name": "Moniteau"}]});

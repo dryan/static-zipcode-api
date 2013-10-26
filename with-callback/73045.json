@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.491184, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Harrah", "lng": -97.16132, "zip_code": "73045"});
+zipapicallback({"locality": "Harrah", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Harrah"], "postal_code": "73045", "lat": 35.491184, "lng": -97.16132, "type": "STANDARD", "counties": [{"fips": "109", "name": "Oklahoma"}, {"fips": "125", "name": "Pottawatomie"}, {"fips": "081", "name": "Lincoln"}]});

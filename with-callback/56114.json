@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.971169, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Avoca", "lng": -95.6128, "zip_code": "56114"});
+zipapicallback({"locality": "Avoca", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Avoca"], "postal_code": "56114", "lat": 43.971169, "lng": -95.6128, "type": "STANDARD", "counties": [{"fips": "101", "name": "Murray"}]});

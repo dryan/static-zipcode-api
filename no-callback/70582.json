@@ -1,1 +1,1 @@
-{"lat": 30.148473, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Saint Martinvill", "lng": -91.8003, "zip_code": "70582"}
+{"locality": "Saint Martinville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Parks", "Saint Martinville", "St Martinvlle"], "postal_code": "70582", "lat": 30.148473, "lng": -91.8003, "type": "STANDARD", "counties": [{"fips": "099", "name": "St. Martin"}]}

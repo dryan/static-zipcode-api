@@ -1,1 +1,1 @@
-{"lat": 37.165828, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Eminence", "lng": -91.36574, "zip_code": "65466"}
+{"locality": "Eminence", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Eminence"], "postal_code": "65466", "lat": 37.165828, "lng": -91.36574, "type": "STANDARD", "counties": [{"fips": "203", "name": "Shannon"}]}

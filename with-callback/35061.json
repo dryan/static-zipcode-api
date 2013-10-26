@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.462541, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Dolomite", "lng": -86.95736, "zip_code": "35061"});
+zipapicallback({"locality": "Dolomite", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Dolomite"], "postal_code": "35061", "lat": 33.462541, "lng": -86.95736, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}]});

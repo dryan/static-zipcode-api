@@ -1,1 +1,1 @@
-{"lat": 41.433856, "region": {"abbr": "NY", "name": "New York"}, "locality": "Salisbury Mills", "lng": -74.11963, "zip_code": "12577"}
+{"locality": "Salisbury Mills", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Salisbury Mills", "Salisbury Mls"], "postal_code": "12577", "lat": 41.433856, "lng": -74.11963, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

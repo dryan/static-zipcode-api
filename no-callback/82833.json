@@ -1,1 +1,1 @@
-{"lat": 44.615453, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Big Horn", "lng": -107.10625, "zip_code": "82833"}
+{"locality": "Big Horn", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Big Horn"], "postal_code": "82833", "lat": 44.615453, "lng": -107.10625, "type": "POBOX", "counties": [{"fips": "033", "name": "Sheridan"}]}

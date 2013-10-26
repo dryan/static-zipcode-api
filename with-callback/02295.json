@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Boston", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston"], "postal_code": "02295", "type": "UNIQUE", "counties": [{"fips": "025", "name": "Suffolk"}]});

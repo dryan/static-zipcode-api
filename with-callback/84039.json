@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.401201, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Lapoint", "lng": -109.81677, "zip_code": "84039"});
+zipapicallback({"locality": "Lapoint", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Lapoint"], "postal_code": "84039", "lat": 40.401201, "lng": -109.81677, "type": "STANDARD", "counties": [{"fips": "047", "name": "Uintah"}]});

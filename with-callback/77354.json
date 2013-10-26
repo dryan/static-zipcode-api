@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.194267, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Magnolia", "lng": -95.63918, "zip_code": "77354"});
+zipapicallback({"locality": "Magnolia", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Decker Pr", "Decker Prairie", "Magnolia", "The Woodlands"], "postal_code": "77354", "lat": 30.194267, "lng": -95.63918, "type": "STANDARD", "counties": []});

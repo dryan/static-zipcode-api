@@ -1,1 +1,1 @@
-{"lat": 48.286717, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Harlow", "lng": -99.42675, "zip_code": "58346"}
+{"locality": "Leeds", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Harlow", "Leeds"], "postal_code": "58346", "lat": 48.286717, "lng": -99.42675, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}, {"fips": "095", "name": "Towner"}, {"fips": "069", "name": "Pierce"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.343394, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Concord", "lng": -78.96433, "zip_code": "24538"}
+{"locality": "Concord", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Concord"], "postal_code": "24538", "lat": 37.343394, "lng": -78.96433, "type": "STANDARD", "counties": [{"fips": "031", "name": "Campbell"}, {"fips": "011", "name": "Appomattox"}]}

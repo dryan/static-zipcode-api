@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.830184, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Wilton", "lng": -71.78177, "zip_code": "03086"});
+zipapicallback({"locality": "Wilton", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Wilton"], "postal_code": "03086", "lat": 42.830184, "lng": -71.78177, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]});

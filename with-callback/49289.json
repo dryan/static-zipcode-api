@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.770793, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Weston", "lng": -84.09996, "zip_code": "49289"});
+zipapicallback({"locality": "Weston", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Weston"], "postal_code": "49289", "lat": 41.770793, "lng": -84.09996, "type": "POBOX", "counties": [{"fips": "091", "name": "Lenawee"}]});

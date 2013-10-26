@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.94939, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Knife River", "lng": -91.78525, "zip_code": "55609"});
+zipapicallback({"locality": "Knife River", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Knife River"], "postal_code": "55609", "lat": 46.94939, "lng": -91.78525, "type": "POBOX", "counties": [{"fips": "075", "name": "Lake"}]});

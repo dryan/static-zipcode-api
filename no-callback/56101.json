@@ -1,1 +1,1 @@
-{"lat": 43.870469, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wilder", "lng": -95.13275, "zip_code": "56101"}
+{"locality": "Windom", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wilder", "Windom"], "postal_code": "56101", "lat": 43.870469, "lng": -95.13275, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cottonwood"}, {"fips": "063", "name": "Jackson"}]}

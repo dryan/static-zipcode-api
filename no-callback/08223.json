@@ -1,1 +1,1 @@
-{"lat": 39.264412, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Marmora", "lng": -74.64986, "zip_code": "08223"}
+{"locality": "Marmora", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Marmora"], "postal_code": "08223", "lat": 39.264412, "lng": -74.64986, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cape May"}]}

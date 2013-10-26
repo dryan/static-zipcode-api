@@ -1,1 +1,1 @@
-{"lat": 44.325285, "region": {"abbr": "ME", "name": "Maine"}, "locality": "West Paris", "lng": -70.52451, "zip_code": "04289"}
+{"locality": "West Paris", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["West Paris"], "postal_code": "04289", "lat": 44.325285, "lng": -70.52451, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]}

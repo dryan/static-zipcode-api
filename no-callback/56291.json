@@ -1,1 +1,1 @@
-{"lat": 44.598116, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Taunton", "lng": -96.06801, "zip_code": "56291"}
+{"locality": "Taunton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Taunton"], "postal_code": "56291", "lat": 44.598116, "lng": -96.06801, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lyon"}, {"fips": "173", "name": "Yellow Medicine"}, {"fips": "081", "name": "Lincoln"}]}

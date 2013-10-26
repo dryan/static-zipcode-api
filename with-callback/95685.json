@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.394464, "region": {"abbr": "CA", "name": "California"}, "locality": "Sutter Creek", "lng": -120.79015, "zip_code": "95685"});
+zipapicallback({"locality": "Sutter Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sutter Creek"], "postal_code": "95685", "lat": 38.394464, "lng": -120.79015, "type": "STANDARD", "counties": [{"fips": "005", "name": "Amador"}]});

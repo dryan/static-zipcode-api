@@ -1,1 +1,1 @@
-{"lat": 39.205852, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mount Clare", "lng": -80.29416, "zip_code": "26408"}
+{"locality": "Mount Clare", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Craigmoore", "Mount Clare"], "postal_code": "26408", "lat": 39.205852, "lng": -80.29416, "type": "STANDARD", "counties": [{"fips": "033", "name": "Harrison"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.886163, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Parowan", "lng": -112.83945, "zip_code": "84761"}
+{"locality": "Parowan", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Parowan"], "postal_code": "84761", "lat": 37.886163, "lng": -112.83945, "type": "POBOX", "counties": [{"fips": "021", "name": "Iron"}]}

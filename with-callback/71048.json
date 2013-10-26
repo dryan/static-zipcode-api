@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.830135, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lisbon", "lng": -92.85568, "zip_code": "71048"});
+zipapicallback({"locality": "Lisbon", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lisbon"], "postal_code": "71048", "lat": 32.830135, "lng": -92.85568, "type": "STANDARD", "counties": [{"fips": "027", "name": "Claiborne"}]});

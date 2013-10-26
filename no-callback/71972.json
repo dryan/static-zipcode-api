@@ -1,1 +1,1 @@
-{"lat": 34.381056, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Vandervoort", "lng": -94.19716, "zip_code": "71972"}
+{"locality": "Vandervoort", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Vandervoort"], "postal_code": "71972", "lat": 34.381056, "lng": -94.19716, "type": "STANDARD", "counties": [{"fips": "113", "name": "Polk"}]}

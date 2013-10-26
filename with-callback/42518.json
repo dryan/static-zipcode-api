@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.94593, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bronston", "lng": -84.63278, "zip_code": "42518"});
+zipapicallback({"locality": "Bronston", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bronston"], "postal_code": "42518", "lat": 36.94593, "lng": -84.63278, "type": "STANDARD", "counties": [{"fips": "199", "name": "Pulaski"}, {"fips": "231", "name": "Wayne"}]});

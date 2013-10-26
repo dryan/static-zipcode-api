@@ -1,1 +1,1 @@
-{"lat": 45.767489, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Radisson", "lng": -91.22193, "zip_code": "54867"}
+{"locality": "Radisson", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Radisson"], "postal_code": "54867", "lat": 45.767489, "lng": -91.22193, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sawyer"}]}

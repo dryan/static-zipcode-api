@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.853441, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Clayton", "lng": -84.20769, "zip_code": "49235"});
+zipapicallback({"locality": "Clayton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Clayton", "Clayton Twp"], "postal_code": "49235", "lat": 41.853441, "lng": -84.20769, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]});

@@ -1,1 +1,1 @@
-{"lat": 27.963849, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tampa", "lng": -82.43193, "zip_code": "33605"}
+{"locality": "Tampa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Tampa", "Ybor City"], "postal_code": "33605", "lat": 27.963849, "lng": -82.43193, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hillsborough"}]}

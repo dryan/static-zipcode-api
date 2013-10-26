@@ -1,1 +1,1 @@
-{"lat": 40.874092, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Van Wert", "lng": -84.57871, "zip_code": "45891"}
+{"locality": "Van Wert", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Van Wert"], "postal_code": "45891", "lat": 40.874092, "lng": -84.57871, "type": "STANDARD", "counties": [{"fips": "161", "name": "Van Wert"}]}

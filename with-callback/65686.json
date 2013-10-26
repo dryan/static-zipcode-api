@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.63101, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Kimberling City", "lng": -93.43392, "zip_code": "65686"});
+zipapicallback({"locality": "Kimberling City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Kimberling City", "Kimberling Cy"], "postal_code": "65686", "lat": 36.63101, "lng": -93.43392, "type": "STANDARD", "counties": [{"fips": "209", "name": "Stone"}]});

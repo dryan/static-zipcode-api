@@ -1,1 +1,1 @@
-{"lat": 44.85549, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Newport", "lng": -69.26397, "zip_code": "04953"}
+{"locality": "Newport", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Newport"], "postal_code": "04953", "lat": 44.85549, "lng": -69.26397, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "025", "name": "Somerset"}]}

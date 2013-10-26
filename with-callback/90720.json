@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.794028, "region": {"abbr": "CA", "name": "California"}, "locality": "Rossmoor", "lng": -118.07218, "zip_code": "90720"});
+zipapicallback({"locality": "Los Alamitos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cypress", "Los Alamitos", "Rossmoor"], "postal_code": "90720", "lat": 33.794028, "lng": -118.07218, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]});

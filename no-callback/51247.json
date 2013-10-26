@@ -1,1 +1,1 @@
-{"lat": 43.192619, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rock Valley", "lng": -96.32412, "zip_code": "51247"}
+{"locality": "Rock Valley", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Rock Valley"], "postal_code": "51247", "lat": 43.192619, "lng": -96.32412, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sioux"}]}

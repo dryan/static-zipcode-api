@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.675393, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Jennings", "lng": -79.17045, "zip_code": "21536"});
+zipapicallback({"locality": "Grantsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Grantsville", "Jennings"], "postal_code": "21536", "lat": 39.675393, "lng": -79.17045, "type": "STANDARD", "counties": [{"fips": "023", "name": "Garrett"}]});

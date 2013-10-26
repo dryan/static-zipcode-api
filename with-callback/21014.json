@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.536057, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bel Air", "lng": -76.34957, "zip_code": "21014"});
+zipapicallback({"locality": "Bel Air", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bel Air"], "postal_code": "21014", "lat": 39.536057, "lng": -76.34957, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}, {"fips": "005", "name": "Baltimore"}]});

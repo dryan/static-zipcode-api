@@ -1,1 +1,1 @@
-{"lat": 43.217155, "region": {"abbr": "NY", "name": "New York"}, "locality": "Medina", "lng": -78.38746, "zip_code": "14103"}
+{"locality": "Medina", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Medina"], "postal_code": "14103", "lat": 43.217155, "lng": -78.38746, "type": "STANDARD", "counties": [{"fips": "073", "name": "Orleans"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.585536, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wyoming", "lng": -81.60347, "zip_code": "24898"}
+{"locality": "Wyoming", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Wyoming"], "postal_code": "24898", "lat": 37.585536, "lng": -81.60347, "type": "STANDARD", "counties": [{"fips": "109", "name": "Wyoming"}]}

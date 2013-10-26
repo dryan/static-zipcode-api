@@ -1,1 +1,1 @@
-{"lat": 42.416745, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Arlington", "lng": -71.17761, "zip_code": "02476"}
+{"locality": "Arlington", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Arlington"], "postal_code": "02476", "lat": 42.416745, "lng": -71.17761, "type": "STANDARD", "counties": []}

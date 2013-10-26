@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.849136, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Baileys Crossroa", "lng": -77.14081, "zip_code": "22041"});
+zipapicallback({"locality": "Falls Church", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Baileys Crossroads", "Baileys Xrds", "Falls Church"], "postal_code": "22041", "lat": 38.849136, "lng": -77.14081, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]});

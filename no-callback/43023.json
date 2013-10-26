@@ -1,1 +1,1 @@
-{"lat": 40.070985, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Granville", "lng": -82.52134, "zip_code": "43023"}
+{"locality": "Granville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Granville"], "postal_code": "43023", "lat": 40.070985, "lng": -82.52134, "type": "STANDARD", "counties": [{"fips": "089", "name": "Licking"}]}

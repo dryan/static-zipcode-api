@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.984514, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Neopit", "lng": -88.85947, "zip_code": "54150"});
+zipapicallback({"locality": "Neopit", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Neopit"], "postal_code": "54150", "lat": 44.984514, "lng": -88.85947, "type": "STANDARD", "counties": [{"fips": "078", "name": "Menominee"}]});

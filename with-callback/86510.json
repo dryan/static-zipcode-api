@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.110934, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Pinon", "lng": -110.20181, "zip_code": "86510"});
+zipapicallback({"locality": "Pinon", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Pinon"], "postal_code": "86510", "lat": 36.110934, "lng": -110.20181, "type": "POBOX", "counties": [{"fips": "017", "name": "Navajo"}]});

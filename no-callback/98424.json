@@ -1,1 +1,1 @@
-{"lat": 47.242186, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Fife", "lng": -122.35916, "zip_code": "98424"}
+{"locality": "Tacoma", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Fife", "Tacoma"], "postal_code": "98424", "lat": 47.242186, "lng": -122.35916, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]}

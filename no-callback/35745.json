@@ -1,1 +1,1 @@
-{"lat": 34.929269, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Estillfork", "lng": -86.20726, "zip_code": "35745"}
+{"locality": "Estillfork", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Estillfork"], "postal_code": "35745", "lat": 34.929269, "lng": -86.20726, "type": "STANDARD", "counties": [{"fips": "071", "name": "Jackson"}]}

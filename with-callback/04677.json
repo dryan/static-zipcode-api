@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.482607, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Sorrento", "lng": -68.18185, "zip_code": "04677"});
+zipapicallback({"locality": "Sorrento", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Sorrento"], "postal_code": "04677", "lat": 44.482607, "lng": -68.18185, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]});

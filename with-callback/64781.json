@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.981824, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Roscoe", "lng": -93.80721, "zip_code": "64781"});
+zipapicallback({"locality": "Roscoe", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Roscoe"], "postal_code": "64781", "lat": 37.981824, "lng": -93.80721, "type": "POBOX", "counties": [{"fips": "185", "name": "St. Clair"}]});

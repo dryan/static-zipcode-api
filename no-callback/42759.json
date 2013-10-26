@@ -1,1 +1,1 @@
-{"lat": 36.824961, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Marrowbone", "lng": -85.50481, "zip_code": "42759"}
+{"locality": "Marrowbone", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Marrowbone"], "postal_code": "42759", "lat": 36.824961, "lng": -85.50481, "type": "POBOX", "counties": [{"fips": "057", "name": "Cumberland"}]}

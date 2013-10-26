@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.839588, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Palm Beach Garde", "lng": -80.08824, "zip_code": "33410"});
+zipapicallback({"locality": "Palm Beach Gardens", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["N Palm Beach", "North Palm Beach", "Palm Bch Gdns", "Palm Beach Gardens", "Riviera Beach", "West Palm Bch", "West Palm Beach"], "postal_code": "33410", "lat": 26.839588, "lng": -80.08824, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}]});

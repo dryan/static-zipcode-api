@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.879576, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Gray", "lng": -70.3533, "zip_code": "04039"});
+zipapicallback({"locality": "Gray", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Gray"], "postal_code": "04039", "lat": 43.879576, "lng": -70.3533, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

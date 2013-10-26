@@ -1,1 +1,1 @@
-{"lat": 41.688163, "region": {"abbr": "CA", "name": "California"}, "locality": "Lake City", "lng": -120.23924, "zip_code": "96115"}
+{"locality": "Lake City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lake City"], "postal_code": "96115", "lat": 41.688163, "lng": -120.23924, "type": "STANDARD", "counties": [{"fips": "049", "name": "Modoc"}]}

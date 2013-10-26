@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.901887, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Lovington", "lng": -103.44623, "zip_code": "88260"});
+zipapicallback({"locality": "Lovington", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lovington"], "postal_code": "88260", "lat": 32.901887, "lng": -103.44623, "type": "STANDARD", "counties": [{"fips": "025", "name": "Lea"}]});

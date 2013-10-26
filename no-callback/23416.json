@@ -1,1 +1,1 @@
-{"lat": 37.9268, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Oak Hall", "lng": -75.55339, "zip_code": "23416"}
+{"locality": "Oak Hall", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Oak Hall"], "postal_code": "23416", "lat": 37.9268, "lng": -75.55339, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]}

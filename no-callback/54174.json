@@ -1,1 +1,1 @@
-{"lat": 45.047766, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Suring", "lng": -88.37913, "zip_code": "54174"}
+{"locality": "Suring", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Suring"], "postal_code": "54174", "lat": 45.047766, "lng": -88.37913, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}, {"fips": "078", "name": "Menominee"}]}

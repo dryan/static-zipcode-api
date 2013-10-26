@@ -1,1 +1,1 @@
-{"lat": 34.139397, "region": {"abbr": "CA", "name": "California"}, "locality": "Universal City", "lng": -118.35034, "zip_code": "91608"}
+{"locality": "Universal City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Hollywood", "North Hollywood", "Universal City", "Universal Cty"], "postal_code": "91608", "lat": 34.139397, "lng": -118.35034, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

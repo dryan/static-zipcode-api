@@ -1,1 +1,1 @@
-{"lat": 37.322234, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Weeksbury", "lng": -82.69699, "zip_code": "41667"}
+{"locality": "Weeksbury", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Weeksbury"], "postal_code": "41667", "lat": 37.322234, "lng": -82.69699, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

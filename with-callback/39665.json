@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.643751, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Sontag", "lng": -90.20776, "zip_code": "39665"});
+zipapicallback({"locality": "Sontag", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Sontag"], "postal_code": "39665", "lat": 31.643751, "lng": -90.20776, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lawrence"}, {"fips": "085", "name": "Lincoln"}]});

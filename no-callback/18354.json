@@ -1,1 +1,1 @@
-{"lat": 40.922005, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sciota", "lng": -75.32185, "zip_code": "18354"}
+{"locality": "Sciota", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sciota"], "postal_code": "18354", "lat": 40.922005, "lng": -75.32185, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]}

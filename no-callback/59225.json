@@ -1,1 +1,1 @@
-{"lat": 48.202722, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lustre", "lng": -105.96719, "zip_code": "59225"}
+{"locality": "Frazer", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Frazer", "Lustre"], "postal_code": "59225", "lat": 48.202722, "lng": -105.96719, "type": "STANDARD", "counties": [{"fips": "105", "name": "Valley"}]}

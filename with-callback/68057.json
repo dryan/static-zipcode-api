@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.653831, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Scribner", "lng": -96.708, "zip_code": "68057"});
+zipapicallback({"locality": "Scribner", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Scribner"], "postal_code": "68057", "lat": 41.653831, "lng": -96.708, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dodge"}, {"fips": "039", "name": "Cuming"}]});

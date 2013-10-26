@@ -1,1 +1,1 @@
-{"lat": 39.193513, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Gunnison", "lng": -111.85047, "zip_code": "84634"}
+{"locality": "Gunnison", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Gunnison"], "postal_code": "84634", "lat": 39.193513, "lng": -111.85047, "type": "POBOX", "counties": [{"fips": "039", "name": "Sanpete"}]}

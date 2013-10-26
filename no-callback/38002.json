@@ -1,1 +1,1 @@
-{"lat": 35.272386, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Arlington", "lng": -89.71198, "zip_code": "38002"}
+{"locality": "Arlington", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Arlington", "Lakeland"], "postal_code": "38002", "lat": 35.272386, "lng": -89.71198, "type": "STANDARD", "counties": [{"fips": "157", "name": "Shelby"}, {"fips": "015", "name": "Cannon"}]}

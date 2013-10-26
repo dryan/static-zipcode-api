@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.978549, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Kinzua", "lng": -120.14934, "zip_code": "97830"});
+zipapicallback({"locality": "Fossil", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Fossil", "Kinzua", "Mayville"], "postal_code": "97830", "lat": 44.978549, "lng": -120.14934, "type": "STANDARD", "counties": [{"fips": "069", "name": "Wheeler"}]});

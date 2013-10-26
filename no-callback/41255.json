@@ -1,1 +1,1 @@
-{"lat": 37.916221, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sitka", "lng": -82.83962, "zip_code": "41255"}
+{"locality": "Sitka", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sitka"], "postal_code": "41255", "lat": 37.916221, "lng": -82.83962, "type": "STANDARD", "counties": [{"fips": "115", "name": "Johnson"}]}

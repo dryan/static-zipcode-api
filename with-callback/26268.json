@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.780919, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Glady", "lng": -79.74674, "zip_code": "26268"});
+zipapicallback({"locality": "Glady", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Glady"], "postal_code": "26268", "lat": 38.780919, "lng": -79.74674, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}]});

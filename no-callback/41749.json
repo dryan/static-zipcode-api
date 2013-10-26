@@ -1,1 +1,1 @@
-{"lat": 37.17621, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Dryhill", "lng": -83.38301, "zip_code": "41749"}
+{"locality": "Hyden", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Confluence", "Dryhill", "Hyden", "Kaliopi"], "postal_code": "41749", "lat": 37.17621, "lng": -83.38301, "type": "STANDARD", "counties": [{"fips": "131", "name": "Leslie"}]}

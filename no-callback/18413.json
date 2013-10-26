@@ -1,1 +1,1 @@
-{"lat": 41.64872, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clifford", "lng": -75.59722, "zip_code": "18413"}
+{"locality": "Clifford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clifford"], "postal_code": "18413", "lat": 41.64872, "lng": -75.59722, "type": "POBOX", "counties": [{"fips": "115", "name": "Susquehanna"}]}

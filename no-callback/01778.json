@@ -1,1 +1,1 @@
-{"lat": 42.345583, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wayland", "lng": -71.35643, "zip_code": "01778"}
+{"locality": "Wayland", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wayland"], "postal_code": "01778", "lat": 42.345583, "lng": -71.35643, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

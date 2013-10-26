@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.037822, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Varna", "lng": -89.25682, "zip_code": "61375"});
+zipapicallback({"locality": "Varna", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Varna"], "postal_code": "61375", "lat": 41.037822, "lng": -89.25682, "type": "STANDARD", "counties": [{"fips": "123", "name": "Marshall"}]});

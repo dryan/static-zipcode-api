@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.205729, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Boulder", "lng": -112.06748, "zip_code": "59632"});
+zipapicallback({"locality": "Boulder", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Boulder"], "postal_code": "59632", "lat": 46.205729, "lng": -112.06748, "type": "STANDARD", "counties": [{"fips": "043", "name": "Jefferson"}]});

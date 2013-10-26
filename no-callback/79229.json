@@ -1,1 +1,1 @@
-{"lat": 33.654512, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Dickens", "lng": -100.75517, "zip_code": "79229"}
+{"locality": "Dickens", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Dickens"], "postal_code": "79229", "lat": 33.654512, "lng": -100.75517, "type": "STANDARD", "counties": [{"fips": "125", "name": "Dickens"}]}

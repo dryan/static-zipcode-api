@@ -1,1 +1,1 @@
-{"lat": 42.009216, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Elgin", "lng": -98.13311, "zip_code": "68636"}
+{"locality": "Elgin", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Elgin"], "postal_code": "68636", "lat": 42.009216, "lng": -98.13311, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}, {"fips": "183", "name": "Wheeler"}]}

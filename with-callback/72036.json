@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.011873, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Cotton Plant", "lng": -91.25449, "zip_code": "72036"});
+zipapicallback({"locality": "Cotton Plant", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Cotton Plant"], "postal_code": "72036", "lat": 35.011873, "lng": -91.25449, "type": "STANDARD", "counties": [{"fips": "147", "name": "Woodruff"}]});

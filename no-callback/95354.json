@@ -1,1 +1,1 @@
-{"lat": 37.644481, "region": {"abbr": "CA", "name": "California"}, "locality": "Modesto", "lng": -120.98043, "zip_code": "95354"}
+{"locality": "Modesto", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Modesto"], "postal_code": "95354", "lat": 37.644481, "lng": -120.98043, "type": "STANDARD", "counties": [{"fips": "099", "name": "Stanislaus"}]}

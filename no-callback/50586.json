@@ -1,1 +1,1 @@
-{"lat": 42.402475, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Somers", "lng": -94.4351, "zip_code": "50586"}
+{"locality": "Somers", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Somers"], "postal_code": "50586", "lat": 42.402475, "lng": -94.4351, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}]}

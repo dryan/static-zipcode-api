@@ -1,1 +1,1 @@
-{"lat": 36.953559, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sharon Grove", "lng": -87.09887, "zip_code": "42280"}
+{"locality": "Sharon Grove", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sharon Grove"], "postal_code": "42280", "lat": 36.953559, "lng": -87.09887, "type": "STANDARD", "counties": [{"fips": "219", "name": "Todd"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.786334, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chrisman", "lng": -87.66325, "zip_code": "61924"}
+{"locality": "Chrisman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chrisman"], "postal_code": "61924", "lat": 39.786334, "lng": -87.66325, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edgar"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.514845, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Laredo", "lng": -99.49991, "zip_code": "78040"});
+zipapicallback({"locality": "Laredo", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Laredo"], "postal_code": "78040", "lat": 27.514845, "lng": -99.49991, "type": "STANDARD", "counties": [{"fips": "479", "name": "Webb"}, {"fips": "029", "name": "Bexar"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.723259, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brownton", "lng": -94.33922, "zip_code": "55312"}
+{"locality": "Brownton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brownton"], "postal_code": "55312", "lat": 44.723259, "lng": -94.33922, "type": "STANDARD", "counties": [{"fips": "085", "name": "McLeod"}, {"fips": "143", "name": "Sibley"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.382581, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Waverly", "lng": -95.62641, "zip_code": "66871"});
+zipapicallback({"locality": "Waverly", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Waverly"], "postal_code": "66871", "lat": 38.382581, "lng": -95.62641, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffey"}, {"fips": "139", "name": "Osage"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.455118, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Corliss", "lng": -80.06008, "zip_code": "15204"});
+zipapicallback({"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Corliss", "Pittsburgh"], "postal_code": "15204", "lat": 40.455118, "lng": -80.06008, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

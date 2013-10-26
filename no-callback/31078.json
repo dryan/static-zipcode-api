@@ -1,1 +1,1 @@
-{"lat": 32.702635, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Roberta", "lng": -84.03811, "zip_code": "31078"}
+{"locality": "Roberta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Roberta"], "postal_code": "31078", "lat": 32.702635, "lng": -84.03811, "type": "STANDARD", "counties": [{"fips": "079", "name": "Crawford"}]}

@@ -1,1 +1,1 @@
-{"lat": 43.553904, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "North Clarendon", "lng": -72.96168, "zip_code": "05759"}
+{"locality": "North Clarendon", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["N Clarendon", "North Clarendon"], "postal_code": "05759", "lat": 43.553904, "lng": -72.96168, "type": "STANDARD", "counties": [{"fips": "021", "name": "Rutland"}]}

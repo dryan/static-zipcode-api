@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.099732, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Elmira", "lng": -123.38787, "zip_code": "97437"});
+zipapicallback({"locality": "Elmira", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Elmira"], "postal_code": "97437", "lat": 44.099732, "lng": -123.38787, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]});

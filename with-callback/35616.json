@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.748498, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cherokee", "lng": -87.9986, "zip_code": "35616"});
+zipapicallback({"locality": "Cherokee", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Cherokee"], "postal_code": "35616", "lat": 34.748498, "lng": -87.9986, "type": "STANDARD", "counties": [{"fips": "033", "name": "Colbert"}]});

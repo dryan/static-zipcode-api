@@ -1,1 +1,1 @@
-{"lat": 43.520576, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Rothbury", "lng": -86.27335, "zip_code": "49452"}
+{"locality": "Rothbury", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Rothbury"], "postal_code": "49452", "lat": 43.520576, "lng": -86.27335, "type": "STANDARD", "counties": [{"fips": "127", "name": "Oceana"}]}

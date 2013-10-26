@@ -1,1 +1,1 @@
-{"lat": 58.71163, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "South", "lng": -157.01746, "zip_code": "99670"}
+{"locality": "South Naknek", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["South Naknek"], "postal_code": "99670", "lat": 58.71163, "lng": -157.01746, "type": "POBOX", "counties": [{"fips": "060", "name": "Bristol Bay"}]}

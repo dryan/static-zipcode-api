@@ -1,1 +1,1 @@
-{"lat": 47.86527, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Sultan", "lng": -121.78899, "zip_code": "98294"}
+{"locality": "Sultan", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Sultan"], "postal_code": "98294", "lat": 47.86527, "lng": -121.78899, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}]}

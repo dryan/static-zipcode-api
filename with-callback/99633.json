@@ -1,1 +1,1 @@
-zipapicallback({"lat": 58.745436, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Naknek", "lng": -156.95331, "zip_code": "99633"});
+zipapicallback({"locality": "Naknek", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Naknek"], "postal_code": "99633", "lat": 58.745436, "lng": -156.95331, "type": "POBOX", "counties": [{"fips": "060", "name": "Bristol Bay"}]});

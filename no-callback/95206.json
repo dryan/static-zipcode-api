@@ -1,1 +1,1 @@
-{"lat": 37.922024, "region": {"abbr": "CA", "name": "California"}, "locality": "Stockton", "lng": -121.3025, "zip_code": "95206"}
+{"locality": "Stockton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stockton"], "postal_code": "95206", "lat": 37.922024, "lng": -121.3025, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

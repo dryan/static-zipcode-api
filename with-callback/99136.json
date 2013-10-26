@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.669207, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Hay", "lng": -117.96015, "zip_code": "99136"});
+zipapicallback({"locality": "Hay", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Hay"], "postal_code": "99136", "lat": 46.669207, "lng": -117.96015, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.949001, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Corinna", "lng": -69.27327, "zip_code": "04928"});
+zipapicallback({"locality": "Corinna", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Corinna"], "postal_code": "04928", "lat": 44.949001, "lng": -69.27327, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}, {"fips": "025", "name": "Somerset"}]});

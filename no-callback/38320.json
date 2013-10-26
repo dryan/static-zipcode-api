@@ -1,1 +1,1 @@
-{"lat": 36.050286, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Camden", "lng": -88.10137, "zip_code": "38320"}
+{"locality": "Camden", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Camden"], "postal_code": "38320", "lat": 36.050286, "lng": -88.10137, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benton"}]}

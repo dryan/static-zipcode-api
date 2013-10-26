@@ -1,1 +1,1 @@
-{"lat": 45.602343, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Columbus", "lng": -109.2671, "zip_code": "59019"}
+{"locality": "Columbus", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Columbus"], "postal_code": "59019", "lat": 45.602343, "lng": -109.2671, "type": "STANDARD", "counties": [{"fips": "095", "name": "Stillwater"}]}

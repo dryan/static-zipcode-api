@@ -1,1 +1,1 @@
-{"lat": 40.580773, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Converse", "lng": -85.86648, "zip_code": "46919"}
+{"locality": "Converse", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Converse"], "postal_code": "46919", "lat": 40.580773, "lng": -85.86648, "type": "STANDARD", "counties": [{"fips": "103", "name": "Miami"}, {"fips": "169", "name": "Wabash"}, {"fips": "053", "name": "Grant"}, {"fips": "067", "name": "Howard"}]}

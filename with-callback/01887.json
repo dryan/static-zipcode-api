@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.558576, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wilmington", "lng": -71.17031, "zip_code": "01887"});
+zipapicallback({"locality": "Wilmington", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wilmington"], "postal_code": "01887", "lat": 42.558576, "lng": -71.17031, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "009", "name": "Essex"}]});

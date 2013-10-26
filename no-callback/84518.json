@@ -1,1 +1,1 @@
-{"lat": 39.350034, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Cleveland", "lng": -110.87184, "zip_code": "84518"}
+{"locality": "Cleveland", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Cleveland"], "postal_code": "84518", "lat": 39.350034, "lng": -110.87184, "type": "POBOX", "counties": [{"fips": "015", "name": "Emery"}]}

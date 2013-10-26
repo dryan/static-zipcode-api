@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.629988, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Alkabo", "lng": -103.93903, "zip_code": "58845"});
+zipapicallback({"locality": "Grenora", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Alkabo", "Grenora"], "postal_code": "58845", "lat": 48.629988, "lng": -103.93903, "type": "STANDARD", "counties": [{"fips": "105", "name": "Williams"}, {"fips": "023", "name": "Divide"}]});

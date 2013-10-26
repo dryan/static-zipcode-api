@@ -1,1 +1,1 @@
-{"lat": 31.726898, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Soso", "lng": -89.30528, "zip_code": "39480"}
+{"locality": "Soso", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Soso"], "postal_code": "39480", "lat": 31.726898, "lng": -89.30528, "type": "STANDARD", "counties": [{"fips": "067", "name": "Jones"}, {"fips": "061", "name": "Jasper"}]}

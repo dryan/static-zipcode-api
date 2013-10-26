@@ -1,1 +1,1 @@
-{"lat": 45.990556, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Elbow Lake", "lng": -95.96704, "zip_code": "56531"}
+{"locality": "Elbow Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Elbow Lake"], "postal_code": "56531", "lat": 45.990556, "lng": -95.96704, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grant"}, {"fips": "111", "name": "Otter Tail"}]}

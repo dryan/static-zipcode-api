@@ -1,1 +1,1 @@
-{"lat": 46.662006, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Cowiche", "lng": -120.71558, "zip_code": "98923"}
+{"locality": "Cowiche", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Cowiche"], "postal_code": "98923", "lat": 46.662006, "lng": -120.71558, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

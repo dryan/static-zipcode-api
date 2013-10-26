@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.936896, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cape May Point", "lng": -74.96526, "zip_code": "08212"});
+zipapicallback({"locality": "Cape May Point", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cape May Point", "Cape May Pt"], "postal_code": "08212", "lat": 38.936896, "lng": -74.96526, "type": "POBOX", "counties": [{"fips": "009", "name": "Cape May"}]});

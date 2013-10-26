@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.694938, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Stewartsville", "lng": -75.11181, "zip_code": "08886"});
+zipapicallback({"locality": "Stewartsville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Stewartsville"], "postal_code": "08886", "lat": 40.694938, "lng": -75.11181, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]});

@@ -1,1 +1,1 @@
-{"lat": 35.127495, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Kinta", "lng": -95.23098, "zip_code": "74552"}
+{"locality": "Kinta", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Kinta"], "postal_code": "74552", "lat": 35.127495, "lng": -95.23098, "type": "STANDARD", "counties": [{"fips": "061", "name": "Haskell"}]}

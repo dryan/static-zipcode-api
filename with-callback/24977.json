@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.893306, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Smoot", "lng": -80.65773, "zip_code": "24977"});
+zipapicallback({"locality": "Smoot", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Meadow Bluff", "Smoot"], "postal_code": "24977", "lat": 37.893306, "lng": -80.65773, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]});

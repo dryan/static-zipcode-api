@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.088889, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Mullen", "lng": -101.09299, "zip_code": "69152"});
+zipapicallback({"locality": "Mullen", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Mullen"], "postal_code": "69152", "lat": 42.088889, "lng": -101.09299, "type": "STANDARD", "counties": [{"fips": "091", "name": "Hooker"}]});

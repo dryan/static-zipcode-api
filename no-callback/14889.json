@@ -1,1 +1,1 @@
-{"lat": 42.212809, "region": {"abbr": "NY", "name": "New York"}, "locality": "Van Etten", "lng": -76.58618, "zip_code": "14889"}
+{"locality": "Van Etten", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Van Etten"], "postal_code": "14889", "lat": 42.212809, "lng": -76.58618, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chemung"}, {"fips": "097", "name": "Schuyler"}, {"fips": "107", "name": "Tioga"}]}

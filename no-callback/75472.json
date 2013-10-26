@@ -1,1 +1,1 @@
-{"lat": 32.906194, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Point", "lng": -95.87967, "zip_code": "75472"}
+{"locality": "Point", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["East Tawakoni", "Point"], "postal_code": "75472", "lat": 32.906194, "lng": -95.87967, "type": "STANDARD", "counties": [{"fips": "379", "name": "Rains"}]}

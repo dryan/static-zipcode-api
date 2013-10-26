@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.088719, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Dupont", "lng": -122.64326, "zip_code": "98327"});
+zipapicallback({"locality": "Dupont", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Dupont"], "postal_code": "98327", "lat": 47.088719, "lng": -122.64326, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.160825, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Riddlesburg", "lng": -78.25489, "zip_code": "16672"});
+zipapicallback({"locality": "Riddlesburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Riddlesburg"], "postal_code": "16672", "lat": 40.160825, "lng": -78.25489, "type": "POBOX", "counties": [{"fips": "009", "name": "Bedford"}]});

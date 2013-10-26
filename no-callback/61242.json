@@ -1,1 +1,1 @@
-{"lat": 41.697188, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Cordova", "lng": -90.30177, "zip_code": "61242"}
+{"locality": "Cordova", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Cordova"], "postal_code": "61242", "lat": 41.697188, "lng": -90.30177, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rock Island"}]}

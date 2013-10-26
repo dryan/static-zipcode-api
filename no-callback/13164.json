@@ -1,1 +1,1 @@
-{"lat": 43.088699, "region": {"abbr": "NY", "name": "New York"}, "locality": "Warners", "lng": -76.31946, "zip_code": "13164"}
+{"locality": "Warners", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Warners"], "postal_code": "13164", "lat": 43.088699, "lng": -76.31946, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]}

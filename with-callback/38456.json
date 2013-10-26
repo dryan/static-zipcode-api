@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.336135, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ethridge", "lng": -87.26409, "zip_code": "38456"});
+zipapicallback({"locality": "Ethridge", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Ethridge"], "postal_code": "38456", "lat": 35.336135, "lng": -87.26409, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}]});

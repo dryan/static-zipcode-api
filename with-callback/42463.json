@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.488169, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wheatcroft", "lng": -87.8631, "zip_code": "42463"});
+zipapicallback({"locality": "Wheatcroft", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Wheatcroft"], "postal_code": "42463", "lat": 37.488169, "lng": -87.8631, "type": "POBOX", "counties": [{"fips": "233", "name": "Webster"}]});

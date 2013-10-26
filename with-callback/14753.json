@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.035792, "region": {"abbr": "NY", "name": "New York"}, "locality": "Limestone", "lng": -78.61789, "zip_code": "14753"});
+zipapicallback({"locality": "Limestone", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Limestone"], "postal_code": "14753", "lat": 42.035792, "lng": -78.61789, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]});

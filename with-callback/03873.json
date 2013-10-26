@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.929588, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Sandown", "lng": -71.18444, "zip_code": "03873"});
+zipapicallback({"locality": "Sandown", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Sandown"], "postal_code": "03873", "lat": 42.929588, "lng": -71.18444, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}]});

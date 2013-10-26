@@ -1,1 +1,1 @@
-{"lat": 43.884985, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ellendale", "lng": -93.2917, "zip_code": "56026"}
+{"locality": "Ellendale", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ellendale"], "postal_code": "56026", "lat": 43.884985, "lng": -93.2917, "type": "STANDARD", "counties": [{"fips": "147", "name": "Steele"}, {"fips": "047", "name": "Freeborn"}, {"fips": "161", "name": "Waseca"}]}

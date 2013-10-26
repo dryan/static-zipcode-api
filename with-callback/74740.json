@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.784733, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tom", "lng": -94.60436, "zip_code": "74740"});
+zipapicallback({"locality": "Haworth", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Haworth", "Tom"], "postal_code": "74740", "lat": 33.784733, "lng": -94.60436, "type": "STANDARD", "counties": [{"fips": "089", "name": "McCurtain"}]});

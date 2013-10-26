@@ -1,1 +1,1 @@
-{"lat": 40.187914, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Graham", "lng": -95.02142, "zip_code": "64455"}
+{"locality": "Graham", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Graham"], "postal_code": "64455", "lat": 40.187914, "lng": -95.02142, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}, {"fips": "003", "name": "Andrew"}]}

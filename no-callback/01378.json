@@ -1,1 +1,1 @@
-{"lat": 42.667152, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Warwick", "lng": -72.32729, "zip_code": "01378"}
+{"locality": "Warwick", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Orange", "Warwick"], "postal_code": "01378", "lat": 42.667152, "lng": -72.32729, "type": "STANDARD", "counties": []}

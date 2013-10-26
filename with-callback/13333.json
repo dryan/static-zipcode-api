@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.843048, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Springfield", "lng": -74.80882, "zip_code": "13333"});
+zipapicallback({"locality": "East Springfield", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["E Springfield", "East Springfield"], "postal_code": "13333", "lat": 42.843048, "lng": -74.80882, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]});

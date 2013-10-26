@@ -1,1 +1,1 @@
-{"lat": 35.348089, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Central City", "lng": -94.17279, "zip_code": "72941"}
+{"locality": "Lavaca", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Central City", "Lavaca"], "postal_code": "72941", "lat": 35.348089, "lng": -94.17279, "type": "STANDARD", "counties": [{"fips": "131", "name": "Sebastian"}, {"fips": "047", "name": "Franklin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.125536, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Hopedale", "lng": -71.53662, "zip_code": "01747"});
+zipapicallback({"locality": "Hopedale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Hopedale"], "postal_code": "01747", "lat": 42.125536, "lng": -71.53662, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}, {"fips": "017", "name": "Middlesex"}]});

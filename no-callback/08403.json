@@ -1,1 +1,1 @@
-{"lat": 39.314766, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Longport", "lng": -74.52675, "zip_code": "08403"}
+{"locality": "Longport", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Longport"], "postal_code": "08403", "lat": 39.314766, "lng": -74.52675, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.502833, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Duncan", "lng": -97.95185, "zip_code": "73533"}
+{"locality": "Duncan", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Duncan", "Empire City"], "postal_code": "73533", "lat": 34.502833, "lng": -97.95185, "type": "STANDARD", "counties": [{"fips": "137", "name": "Stephens"}]}

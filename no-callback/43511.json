@@ -1,1 +1,1 @@
-{"lat": 41.26256, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Custar", "lng": -83.82917, "zip_code": "43511"}
+{"locality": "Custar", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Custar"], "postal_code": "43511", "lat": 41.26256, "lng": -83.82917, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}, {"fips": "069", "name": "Henry"}]}

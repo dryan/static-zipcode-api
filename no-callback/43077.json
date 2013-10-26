@@ -1,1 +1,1 @@
-{"lat": 40.136336, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Unionville Center", "lng": -83.3415, "zip_code": "43077"}
+{"locality": "Unionville Center", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Unionville Center", "Unionvlle Ctr"], "postal_code": "43077", "lat": 40.136336, "lng": -83.3415, "type": "POBOX", "counties": [{"fips": "159", "name": "Union"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.517539, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Minotola", "lng": -74.94972, "zip_code": "08341"}
+{"locality": "Minotola", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Minotola"], "postal_code": "08341", "lat": 39.517539, "lng": -74.94972, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.286954, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Zwingle", "lng": -90.71627, "zip_code": "52079"});
+zipapicallback({"locality": "Zwingle", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Zwingle"], "postal_code": "52079", "lat": 42.286954, "lng": -90.71627, "type": "STANDARD", "counties": [{"fips": "061", "name": "Dubuque"}]});

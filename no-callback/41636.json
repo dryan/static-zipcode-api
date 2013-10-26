@@ -1,1 +1,1 @@
-{"lat": 37.398774, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Buckingham", "lng": -82.73257, "zip_code": "41636"}
+{"locality": "Hi Hat", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Buckingham", "Hi Hat", "Price"], "postal_code": "41636", "lat": 37.398774, "lng": -82.73257, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]}

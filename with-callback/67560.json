@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.443723, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ness City", "lng": -99.92622, "zip_code": "67560"});
+zipapicallback({"locality": "Ness City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ness City"], "postal_code": "67560", "lat": 38.443723, "lng": -99.92622, "type": "STANDARD", "counties": [{"fips": "135", "name": "Ness"}]});

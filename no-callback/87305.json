@@ -1,1 +1,1 @@
-{"lat": 35.376892, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Gallup", "lng": -108.78661, "zip_code": "87305"}
+{"locality": "Gallup", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Gallup"], "postal_code": "87305", "lat": 35.376892, "lng": -108.78661, "type": "POBOX", "counties": [{"fips": "031", "name": "McKinley"}]}

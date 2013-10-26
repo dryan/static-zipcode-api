@@ -1,1 +1,1 @@
-{"lat": 46.956644, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Alborn", "lng": -92.63972, "zip_code": "55702"}
+{"locality": "Alborn", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Alborn"], "postal_code": "55702", "lat": 46.956644, "lng": -92.63972, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}]}

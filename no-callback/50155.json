@@ -1,1 +1,1 @@
-{"lat": 41.210955, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Macksburg", "lng": -94.18994, "zip_code": "50155"}
+{"locality": "Macksburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Macksburg"], "postal_code": "50155", "lat": 41.210955, "lng": -94.18994, "type": "STANDARD", "counties": [{"fips": "121", "name": "Madison"}]}

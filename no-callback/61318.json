@@ -1,1 +1,1 @@
-{"lat": 41.710715, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Compton", "lng": -89.07807, "zip_code": "61318"}
+{"locality": "Compton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Compton"], "postal_code": "61318", "lat": 41.710715, "lng": -89.07807, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lee"}]}

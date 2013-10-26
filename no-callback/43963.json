@@ -1,1 +1,1 @@
-{"lat": 40.170721, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Tiltonsville", "lng": -80.69768, "zip_code": "43963"}
+{"locality": "Tiltonsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Tiltonsville"], "postal_code": "43963", "lat": 40.170721, "lng": -80.69768, "type": "STANDARD", "counties": [{"fips": "081", "name": "Jefferson"}]}

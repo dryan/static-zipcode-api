@@ -1,1 +1,1 @@
-{"lat": 33.851965, "region": {"abbr": "CA", "name": "California"}, "locality": "Lakewood", "lng": -118.1468, "zip_code": "90712"}
+{"locality": "Lakewood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lakewood"], "postal_code": "90712", "lat": 33.851965, "lng": -118.1468, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

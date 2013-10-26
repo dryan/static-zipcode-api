@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.445032, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Norway", "lng": -81.12334, "zip_code": "29113"});
+zipapicallback({"locality": "Norway", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Norway"], "postal_code": "29113", "lat": 33.445032, "lng": -81.12334, "type": "STANDARD", "counties": [{"fips": "075", "name": "Orangeburg"}]});

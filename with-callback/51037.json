@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.821249, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Meriden", "lng": -95.62735, "zip_code": "51037"});
+zipapicallback({"locality": "Meriden", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Meriden"], "postal_code": "51037", "lat": 42.821249, "lng": -95.62735, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cherokee"}]});

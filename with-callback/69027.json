@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.429297, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Enders", "lng": -101.53601, "zip_code": "69027"});
+zipapicallback({"locality": "Enders", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Enders"], "postal_code": "69027", "lat": 40.429297, "lng": -101.53601, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chase"}, {"fips": "057", "name": "Dundy"}]});

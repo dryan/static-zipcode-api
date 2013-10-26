@@ -1,1 +1,1 @@
-{"lat": 35.47031, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Bath", "lng": -76.77855, "zip_code": "27808"}
+{"locality": "Bath", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Bath"], "postal_code": "27808", "lat": 35.47031, "lng": -76.77855, "type": "STANDARD", "counties": [{"fips": "013", "name": "Beaufort"}]}

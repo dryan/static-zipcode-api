@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.054666, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Rockville", "lng": -94.07515, "zip_code": "64780"});
+zipapicallback({"locality": "Rockville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Rockville"], "postal_code": "64780", "lat": 38.054666, "lng": -94.07515, "type": "STANDARD", "counties": [{"fips": "013", "name": "Bates"}, {"fips": "185", "name": "St. Clair"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.899409, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Enterprise", "lng": -91.91043, "zip_code": "71425"}
+{"locality": "Enterprise", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Enterprise"], "postal_code": "71425", "lat": 31.899409, "lng": -91.91043, "type": "STANDARD", "counties": [{"fips": "025", "name": "Catahoula"}]}

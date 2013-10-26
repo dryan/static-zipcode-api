@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.921564, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Port Arthur", "lng": -93.92694, "zip_code": "77642"});
+zipapicallback({"locality": "Port Arthur", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Port Arthur"], "postal_code": "77642", "lat": 29.921564, "lng": -93.92694, "type": "STANDARD", "counties": [{"fips": "245", "name": "Jefferson"}]});

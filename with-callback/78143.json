@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.248705, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pandora", "lng": -97.84412, "zip_code": "78143"});
+zipapicallback({"locality": "Pandora", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pandora"], "postal_code": "78143", "lat": 29.248705, "lng": -97.84412, "type": "POBOX", "counties": [{"fips": "493", "name": "Wilson"}]});

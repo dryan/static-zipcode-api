@@ -1,1 +1,1 @@
-{"lat": 34.177606, "region": {"abbr": "CA", "name": "California"}, "locality": "Burbank", "lng": -118.30954, "zip_code": "91502"}
+{"locality": "Burbank", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Burbank"], "postal_code": "91502", "lat": 34.177606, "lng": -118.30954, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

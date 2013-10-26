@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.039928, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Greenwood", "lng": -78.75894, "zip_code": "22943"});
+zipapicallback({"locality": "Greenwood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Greenwood"], "postal_code": "22943", "lat": 38.039928, "lng": -78.75894, "type": "STANDARD", "counties": [{"fips": "003", "name": "Albemarle"}]});

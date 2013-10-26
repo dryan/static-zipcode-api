@@ -1,1 +1,1 @@
-{"lat": 30.460464, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Willow City", "lng": -98.71911, "zip_code": "78675"}
+{"locality": "Willow City", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Willow City"], "postal_code": "78675", "lat": 30.460464, "lng": -98.71911, "type": "STANDARD", "counties": [{"fips": "171", "name": "Gillespie"}]}

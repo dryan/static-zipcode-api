@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.879391, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Bowler", "lng": -88.95511, "zip_code": "54416"});
+zipapicallback({"locality": "Bowler", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Bowler"], "postal_code": "54416", "lat": 44.879391, "lng": -88.95511, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.60916, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Camas", "lng": -122.40547, "zip_code": "98607"}
+{"locality": "Camas", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Camas"], "postal_code": "98607", "lat": 45.60916, "lng": -122.40547, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}]}

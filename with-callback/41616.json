@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.587133, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "David", "lng": -82.87272, "zip_code": "41616"});
+zipapicallback({"locality": "David", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["David"], "postal_code": "41616", "lat": 37.587133, "lng": -82.87272, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

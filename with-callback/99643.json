@@ -1,1 +1,1 @@
-zipapicallback({"lat": 57.19926, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Old Harbor", "lng": -153.30438, "zip_code": "99643"});
+zipapicallback({"locality": "Old Harbor", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Old Harbor"], "postal_code": "99643", "lat": 57.19926, "lng": -153.30438, "type": "POBOX", "counties": [{"fips": "150", "name": "Kodiak Island"}]});

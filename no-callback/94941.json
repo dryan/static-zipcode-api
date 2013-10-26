@@ -1,1 +1,1 @@
-{"lat": 37.898058, "region": {"abbr": "CA", "name": "California"}, "locality": "Mill Valley", "lng": -122.54134, "zip_code": "94941"}
+{"locality": "Mill Valley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mill Valley"], "postal_code": "94941", "lat": 37.898058, "lng": -122.54134, "type": "STANDARD", "counties": [{"fips": "041", "name": "Marin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.810606, "region": {"abbr": "NY", "name": "New York"}, "locality": "Holtsville", "lng": -73.04036, "zip_code": "11742"});
+zipapicallback({"locality": "Holtsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Holtsville"], "postal_code": "11742", "lat": 40.810606, "lng": -73.04036, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

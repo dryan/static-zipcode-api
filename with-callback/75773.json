@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.674657, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mineola", "lng": -95.46982, "zip_code": "75773"});
+zipapicallback({"locality": "Mineola", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mineola"], "postal_code": "75773", "lat": 32.674657, "lng": -95.46982, "type": "STANDARD", "counties": [{"fips": "499", "name": "Wood"}]});

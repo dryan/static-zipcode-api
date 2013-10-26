@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.048448, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Portal", "lng": -109.19635, "zip_code": "85632"});
+zipapicallback({"locality": "San Simon", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Portal", "San Simon"], "postal_code": "85632", "lat": 32.048448, "lng": -109.19635, "type": "STANDARD", "counties": [{"fips": "003", "name": "Cochise"}]});

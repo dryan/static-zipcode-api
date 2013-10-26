@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.964111, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Doylestown", "lng": -81.68961, "zip_code": "44230"});
+zipapicallback({"locality": "Doylestown", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Doylestown"], "postal_code": "44230", "lat": 40.964111, "lng": -81.68961, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wayne"}, {"fips": "153", "name": "Summit"}, {"fips": "103", "name": "Medina"}]});

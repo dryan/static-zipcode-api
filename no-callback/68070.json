@@ -1,1 +1,1 @@
-{"lat": 41.200338, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Weston", "lng": -96.78359, "zip_code": "68070"}
+{"locality": "Weston", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Weston"], "postal_code": "68070", "lat": 41.200338, "lng": -96.78359, "type": "STANDARD", "counties": [{"fips": "155", "name": "Saunders"}]}

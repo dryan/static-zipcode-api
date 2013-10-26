@@ -1,1 +1,1 @@
-{"lat": 40.537142, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kintnersville", "lng": -75.21189, "zip_code": "18930"}
+{"locality": "Kintnersville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kintnersville"], "postal_code": "18930", "lat": 40.537142, "lng": -75.21189, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

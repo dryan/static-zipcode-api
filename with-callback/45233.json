@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.117065, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Saylor Park", "lng": -84.67173, "zip_code": "45233"});
+zipapicallback({"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Sayler Park"], "postal_code": "45233", "lat": 39.117065, "lng": -84.67173, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]});

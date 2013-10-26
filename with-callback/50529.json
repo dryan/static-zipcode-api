@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.720708, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Dakota City", "lng": -94.20185, "zip_code": "50529"});
+zipapicallback({"locality": "Dakota City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Dakota City"], "postal_code": "50529", "lat": 42.720708, "lng": -94.20185, "type": "STANDARD", "counties": [{"fips": "091", "name": "Humboldt"}]});

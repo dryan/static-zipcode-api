@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.453178, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Chiefland", "lng": -82.86837, "zip_code": "32626"});
+zipapicallback({"locality": "Chiefland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Chiefland"], "postal_code": "32626", "lat": 29.453178, "lng": -82.86837, "type": "STANDARD", "counties": [{"fips": "075", "name": "Levy"}]});

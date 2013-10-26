@@ -1,1 +1,1 @@
-{"lat": 39.78583, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Meadville", "lng": -93.30007, "zip_code": "64659"}
+{"locality": "Meadville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Meadville"], "postal_code": "64659", "lat": 39.78583, "lng": -93.30007, "type": "STANDARD", "counties": [{"fips": "115", "name": "Linn"}]}

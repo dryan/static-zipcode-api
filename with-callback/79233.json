@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.545031, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Estelline", "lng": -100.43729, "zip_code": "79233"});
+zipapicallback({"locality": "Estelline", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Estelline"], "postal_code": "79233", "lat": 34.545031, "lng": -100.43729, "type": "POBOX", "counties": [{"fips": "191", "name": "Hall"}]});

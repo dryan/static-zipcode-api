@@ -1,1 +1,1 @@
-{"lat": 34.49284, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Sulphur", "lng": -96.98606, "zip_code": "73086"}
+{"locality": "Sulphur", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Sulphur"], "postal_code": "73086", "lat": 34.49284, "lng": -96.98606, "type": "STANDARD", "counties": [{"fips": "099", "name": "Murray"}]}

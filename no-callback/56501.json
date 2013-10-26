@@ -1,1 +1,1 @@
-{"lat": 46.809965, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Detroit Lakes", "lng": -95.8518, "zip_code": "56501"}
+{"locality": "Detroit Lakes", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Detroit Lakes"], "postal_code": "56501", "lat": 46.809965, "lng": -95.8518, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}, {"fips": "111", "name": "Otter Tail"}]}

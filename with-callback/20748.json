@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.822163, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Temple Hills", "lng": -76.93974, "zip_code": "20748"});
+zipapicallback({"locality": "Temple Hills", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Camp Springs", "Hillcrest Heights", "Hillcrest Hts", "Marlow Heights", "Marlow Hgts", "Temple Hills"], "postal_code": "20748", "lat": 38.822163, "lng": -76.93974, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}]});

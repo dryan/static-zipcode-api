@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.694974, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Rising Sun", "lng": -76.05395, "zip_code": "21911"});
+zipapicallback({"locality": "Rising Sun", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Rising Sun"], "postal_code": "21911", "lat": 39.694974, "lng": -76.05395, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cecil"}]});

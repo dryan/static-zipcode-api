@@ -1,1 +1,1 @@
-{"lat": 42.065474, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Palo", "lng": -91.8005, "zip_code": "52324"}
+{"locality": "Palo", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Palo"], "postal_code": "52324", "lat": 42.065474, "lng": -91.8005, "type": "STANDARD", "counties": [{"fips": "113", "name": "Linn"}]}

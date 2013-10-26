@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.860447, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Wood River", "lng": -90.09418, "zip_code": "62095"});
+zipapicallback({"locality": "Wood River", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Wood River"], "postal_code": "62095", "lat": 38.860447, "lng": -90.09418, "type": "STANDARD", "counties": [{"fips": "119", "name": "Madison"}]});

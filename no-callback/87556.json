@@ -1,1 +1,1 @@
-{"lat": 36.735033, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Questa", "lng": -105.58602, "zip_code": "87556"}
+{"locality": "Questa", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Questa"], "postal_code": "87556", "lat": 36.735033, "lng": -105.58602, "type": "STANDARD", "counties": [{"fips": "055", "name": "Taos"}]}

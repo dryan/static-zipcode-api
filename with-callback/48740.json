@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.663477, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Harrisville", "lng": -83.3516, "zip_code": "48740"});
+zipapicallback({"locality": "Harrisville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Harrisville"], "postal_code": "48740", "lat": 44.663477, "lng": -83.3516, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alcona"}]});

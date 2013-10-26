@@ -1,1 +1,1 @@
-{"lat": 36.326001, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "State Road", "lng": -80.86182, "zip_code": "28676"}
+{"locality": "State Road", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["State Road"], "postal_code": "28676", "lat": 36.326001, "lng": -80.86182, "type": "STANDARD", "counties": [{"fips": "171", "name": "Surry"}, {"fips": "193", "name": "Wilkes"}]}

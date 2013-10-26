@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.080393, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wells Tannery", "lng": -78.15342, "zip_code": "16691"});
+zipapicallback({"locality": "Wells Tannery", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wells Tannery"], "postal_code": "16691", "lat": 40.080393, "lng": -78.15342, "type": "STANDARD", "counties": [{"fips": "057", "name": "Fulton"}]});

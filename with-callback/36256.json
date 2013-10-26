@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.032076, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Daviston", "lng": -85.69962, "zip_code": "36256"});
+zipapicallback({"locality": "Daviston", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Daviston", "New Site"], "postal_code": "36256", "lat": 33.032076, "lng": -85.69962, "type": "STANDARD", "counties": [{"fips": "123", "name": "Tallapoosa"}, {"fips": "027", "name": "Clay"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.392933, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cocoa", "lng": -80.79585, "zip_code": "32926"});
+zipapicallback({"locality": "Cocoa", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cocoa"], "postal_code": "32926", "lat": 28.392933, "lng": -80.79585, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]});

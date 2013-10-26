@@ -1,1 +1,1 @@
-{"lat": 33.397441, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Sterrett", "lng": -86.54218, "zip_code": "35147"}
+{"locality": "Sterrett", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Sterrett", "Westover"], "postal_code": "35147", "lat": 33.397441, "lng": -86.54218, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]}

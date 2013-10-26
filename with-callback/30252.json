@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.464387, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mcdonough", "lng": -84.08154, "zip_code": "30252"});
+zipapicallback({"locality": "Mcdonough", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mcdonough"], "postal_code": "30252", "lat": 33.464387, "lng": -84.08154, "type": "STANDARD", "counties": []});

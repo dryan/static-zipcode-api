@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.745623, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Darien", "lng": -87.98108, "zip_code": "60561"});
+zipapicallback({"locality": "Darien", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Darien"], "postal_code": "60561", "lat": 41.745623, "lng": -87.98108, "type": "STANDARD", "counties": []});

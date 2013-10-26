@@ -1,1 +1,1 @@
-{"lat": 41.28595, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lynn Center", "lng": -90.36117, "zip_code": "61262"}
+{"locality": "Lynn Center", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lynn Center"], "postal_code": "61262", "lat": 41.28595, "lng": -90.36117, "type": "STANDARD", "counties": [{"fips": "073", "name": "Henry"}]}

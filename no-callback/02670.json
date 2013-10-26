@@ -1,1 +1,1 @@
-{"lat": 41.659749, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Dennis", "lng": -70.17089, "zip_code": "02670"}
+{"locality": "West Dennis", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["West Dennis"], "postal_code": "02670", "lat": 41.659749, "lng": -70.17089, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

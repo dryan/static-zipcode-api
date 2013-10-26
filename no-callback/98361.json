@@ -1,1 +1,1 @@
-{"lat": 46.580048, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Packwood", "lng": -121.61674, "zip_code": "98361"}
+{"locality": "Packwood", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Packwood"], "postal_code": "98361", "lat": 46.580048, "lng": -121.61674, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lewis"}]}

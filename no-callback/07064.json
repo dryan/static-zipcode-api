@@ -1,1 +1,1 @@
-{"lat": 40.569504, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Port Reading", "lng": -74.24774, "zip_code": "07064"}
+{"locality": "Port Reading", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Port Reading"], "postal_code": "07064", "lat": 40.569504, "lng": -74.24774, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

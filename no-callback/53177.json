@@ -1,1 +1,1 @@
-{"lat": 42.699169, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Sturtevant", "lng": -87.91692, "zip_code": "53177"}
+{"locality": "Sturtevant", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mount Pleasant", "Mt Pleasant", "Sturtevant"], "postal_code": "53177", "lat": 42.699169, "lng": -87.91692, "type": "STANDARD", "counties": [{"fips": "059", "name": "Kenosha"}, {"fips": "101", "name": "Racine"}]}

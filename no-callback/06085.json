@@ -1,1 +1,1 @@
-{"lat": 41.749832, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Unionville", "lng": -72.8898, "zip_code": "06085"}
+{"locality": "Unionville", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Unionville"], "postal_code": "06085", "lat": 41.749832, "lng": -72.8898, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

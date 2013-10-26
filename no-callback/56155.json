@@ -1,1 +1,1 @@
-{"lat": 43.763442, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Lismore", "lng": -95.94459, "zip_code": "56155"}
+{"locality": "Lismore", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Lismore"], "postal_code": "56155", "lat": 43.763442, "lng": -95.94459, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}]}

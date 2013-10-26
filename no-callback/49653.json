@@ -1,1 +1,1 @@
-{"lat": 44.975051, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lake Leelanau", "lng": -85.72325, "zip_code": "49653"}
+{"locality": "Lake Leelanau", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lake Leelanau"], "postal_code": "49653", "lat": 44.975051, "lng": -85.72325, "type": "STANDARD", "counties": [{"fips": "089", "name": "Leelanau"}]}

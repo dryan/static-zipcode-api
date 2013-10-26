@@ -1,1 +1,1 @@
-{"lat": 37.952168, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Withams", "lng": -75.59681, "zip_code": "23488"}
+{"locality": "Withams", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Withams"], "postal_code": "23488", "lat": 37.952168, "lng": -75.59681, "type": "STANDARD", "counties": [{"fips": "001", "name": "Accomack"}]}

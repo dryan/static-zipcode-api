@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.68858, "region": {"abbr": "CA", "name": "California"}, "locality": "San Leandro", "lng": -122.15421, "zip_code": "94579"});
+zipapicallback({"locality": "San Leandro", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Leandro"], "postal_code": "94579", "lat": 37.68858, "lng": -122.15421, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alameda"}]});

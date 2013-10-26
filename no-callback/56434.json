@@ -1,1 +1,1 @@
-{"lat": 46.376819, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Aldrich", "lng": -94.93781, "zip_code": "56434"}
+{"locality": "Aldrich", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Aldrich"], "postal_code": "56434", "lat": 46.376819, "lng": -94.93781, "type": "STANDARD", "counties": [{"fips": "159", "name": "Wadena"}]}

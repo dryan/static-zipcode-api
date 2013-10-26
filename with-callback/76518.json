@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.851275, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Buckholts", "lng": -97.13837, "zip_code": "76518"});
+zipapicallback({"locality": "Buckholts", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Buckholts"], "postal_code": "76518", "lat": 30.851275, "lng": -97.13837, "type": "STANDARD", "counties": [{"fips": "331", "name": "Milam"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.487219, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Buck Creek", "lng": -86.76381, "zip_code": "47924"});
+zipapicallback({"locality": "Buck Creek", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Buck Creek"], "postal_code": "47924", "lat": 40.487219, "lng": -86.76381, "type": "POBOX", "counties": [{"fips": "157", "name": "Tippecanoe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.098253, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Carland", "lng": -84.37722, "zip_code": "48831"});
+zipapicallback({"locality": "Elsie", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Carland", "Elsie"], "postal_code": "48831", "lat": 43.098253, "lng": -84.37722, "type": "STANDARD", "counties": [{"fips": "037", "name": "Clinton"}, {"fips": "057", "name": "Gratiot"}, {"fips": "145", "name": "Saginaw"}, {"fips": "155", "name": "Shiawassee"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.689909, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Linn", "lng": -97.10565, "zip_code": "66953"}
+{"locality": "Linn", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Linn"], "postal_code": "66953", "lat": 39.689909, "lng": -97.10565, "type": "STANDARD", "counties": [{"fips": "201", "name": "Washington"}]}

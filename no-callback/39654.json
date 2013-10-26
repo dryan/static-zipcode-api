@@ -1,1 +1,1 @@
-{"lat": 31.544331, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Monticello", "lng": -90.1213, "zip_code": "39654"}
+{"locality": "Monticello", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Monticello"], "postal_code": "39654", "lat": 31.544331, "lng": -90.1213, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lawrence"}, {"fips": "091", "name": "Marion"}, {"fips": "085", "name": "Lincoln"}]}

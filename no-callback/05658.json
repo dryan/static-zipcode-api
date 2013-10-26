@@ -1,1 +1,1 @@
-{"lat": 44.353823, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Marshfield", "lng": -72.34925, "zip_code": "05658"}
+{"locality": "Marshfield", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Marshfield"], "postal_code": "05658", "lat": 44.353823, "lng": -72.34925, "type": "STANDARD", "counties": [{"fips": "023", "name": "Washington"}, {"fips": "005", "name": "Caledonia"}]}

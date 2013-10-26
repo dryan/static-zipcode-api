@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.770006, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hardwood", "lng": -87.34617, "zip_code": "49807"});
+zipapicallback({"locality": "Bark River", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bark River", "Hardwood", "Schaffer"], "postal_code": "49807", "lat": 45.770006, "lng": -87.34617, "type": "STANDARD", "counties": [{"fips": "041", "name": "Delta"}, {"fips": "109", "name": "Menominee"}]});

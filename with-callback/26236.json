@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.752157, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Selbyville", "lng": -80.23537, "zip_code": "26236"});
+zipapicallback({"locality": "Selbyville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Selbyville"], "postal_code": "26236", "lat": 38.752157, "lng": -80.23537, "type": "STANDARD", "counties": [{"fips": "097", "name": "Upshur"}, {"fips": "083", "name": "Randolph"}]});

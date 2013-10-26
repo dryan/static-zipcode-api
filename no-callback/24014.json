@@ -1,1 +1,1 @@
-{"lat": 37.236753, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Roanoke", "lng": -79.93549, "zip_code": "24014"}
+{"locality": "Roanoke", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Roanoke"], "postal_code": "24014", "lat": 37.236753, "lng": -79.93549, "type": "STANDARD", "counties": [{"fips": "770", "name": "Roanoke (City)"}, {"fips": "161", "name": "Roanoke"}]}

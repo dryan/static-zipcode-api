@@ -1,1 +1,1 @@
-{"lat": 32.919093, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Bonita", "lng": -91.67737, "zip_code": "71223"}
+{"locality": "Bonita", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bonita"], "postal_code": "71223", "lat": 32.919093, "lng": -91.67737, "type": "STANDARD", "counties": [{"fips": "067", "name": "Morehouse"}]}

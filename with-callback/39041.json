@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.39336, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Bolton", "lng": -90.47024, "zip_code": "39041"});
+zipapicallback({"locality": "Bolton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bolton"], "postal_code": "39041", "lat": 32.39336, "lng": -90.47024, "type": "STANDARD", "counties": [{"fips": "049", "name": "Hinds"}]});

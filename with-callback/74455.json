@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.355394, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Porum", "lng": -95.28635, "zip_code": "74455"});
+zipapicallback({"locality": "Porum", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Porum"], "postal_code": "74455", "lat": 35.355394, "lng": -95.28635, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "091", "name": "McIntosh"}]});

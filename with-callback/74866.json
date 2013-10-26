@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.062235, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Saint Louis", "lng": -96.8355, "zip_code": "74866"});
+zipapicallback({"locality": "Saint Louis", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Saint Louis"], "postal_code": "74866", "lat": 35.062235, "lng": -96.8355, "type": "POBOX", "counties": [{"fips": "125", "name": "Pottawatomie"}]});

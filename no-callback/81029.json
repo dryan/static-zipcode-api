@@ -1,1 +1,1 @@
-{"lat": 37.136682, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Campo", "lng": -102.5296, "zip_code": "81029"}
+{"locality": "Campo", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Campo"], "postal_code": "81029", "lat": 37.136682, "lng": -102.5296, "type": "STANDARD", "counties": [{"fips": "009", "name": "Baca"}]}

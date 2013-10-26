@@ -1,1 +1,1 @@
-{"lat": 28.744182, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Yalaha", "lng": -81.81859, "zip_code": "34797"}
+{"locality": "Yalaha", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Howey In Hls", "Howey In The Hills", "Yalaha"], "postal_code": "34797", "lat": 28.744182, "lng": -81.81859, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.424499, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Edgemont", "lng": -103.90273, "zip_code": "57735"});
+zipapicallback({"locality": "Edgemont", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Ardmore", "Burdock", "Dewey", "Edgemont", "Provo"], "postal_code": "57735", "lat": 43.424499, "lng": -103.90273, "type": "STANDARD", "counties": [{"fips": "047", "name": "Fall River"}, {"fips": "033", "name": "Custer"}]});

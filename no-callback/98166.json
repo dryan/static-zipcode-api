@@ -1,1 +1,1 @@
-{"lat": 47.458821, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Normandy Park", "lng": -122.34943, "zip_code": "98166"}
+{"locality": "Seattle", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Burien", "Normandy Park", "Seattle"], "postal_code": "98166", "lat": 47.458821, "lng": -122.34943, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.083644, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Lutts", "lng": -87.91309, "zip_code": "38471"}
+{"locality": "Lutts", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Lutts"], "postal_code": "38471", "lat": 35.083644, "lng": -87.91309, "type": "STANDARD", "counties": [{"fips": "181", "name": "Wayne"}]}

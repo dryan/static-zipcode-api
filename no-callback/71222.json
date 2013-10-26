@@ -1,1 +1,1 @@
-{"lat": 32.829213, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Bernice", "lng": -92.65296, "zip_code": "71222"}
+{"locality": "Bernice", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bernice"], "postal_code": "71222", "lat": 32.829213, "lng": -92.65296, "type": "STANDARD", "counties": [{"fips": "111", "name": "Union"}, {"fips": "027", "name": "Claiborne"}]}

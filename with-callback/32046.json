@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.685319, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hilliard", "lng": -81.93061, "zip_code": "32046"});
+zipapicallback({"locality": "Hilliard", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hilliard"], "postal_code": "32046", "lat": 30.685319, "lng": -81.93061, "type": "STANDARD", "counties": [{"fips": "089", "name": "Nassau"}]});

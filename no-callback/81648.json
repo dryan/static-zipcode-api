@@ -1,1 +1,1 @@
-{"lat": 40.011447, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rangely", "lng": -108.77528, "zip_code": "81648"}
+{"locality": "Rangely", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rangely"], "postal_code": "81648", "lat": 40.011447, "lng": -108.77528, "type": "STANDARD", "counties": [{"fips": "103", "name": "Rio Blanco"}]}

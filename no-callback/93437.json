@@ -1,1 +1,1 @@
-{"lat": 34.73489, "region": {"abbr": "CA", "name": "California"}, "locality": "Lompoc", "lng": -120.53467, "zip_code": "93437"}
+{"locality": "Lompoc", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lompoc", "Vafb", "Vandenberg Afb", "Vandenbrg Afb"], "postal_code": "93437", "lat": 34.73489, "lng": -120.53467, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.839274, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Kingston", "lng": -84.50562, "zip_code": "37763"}
+{"locality": "Kingston", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Kingston"], "postal_code": "37763", "lat": 35.839274, "lng": -84.50562, "type": "STANDARD", "counties": [{"fips": "145", "name": "Roane"}, {"fips": "093", "name": "Knox"}, {"fips": "163", "name": "Sullivan"}]}

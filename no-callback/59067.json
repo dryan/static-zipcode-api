@@ -1,1 +1,1 @@
-{"lat": 45.951002, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Rapelje", "lng": -109.28883, "zip_code": "59067"}
+{"locality": "Rapelje", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Rapelje"], "postal_code": "59067", "lat": 45.951002, "lng": -109.28883, "type": "STANDARD", "counties": [{"fips": "095", "name": "Stillwater"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.499829, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Cuchara", "lng": -105.02943, "zip_code": "81055"}
+{"locality": "La Veta", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["La Veta"], "postal_code": "81055", "lat": 37.499829, "lng": -105.02943, "type": "STANDARD", "counties": [{"fips": "055", "name": "Huerfano"}]}

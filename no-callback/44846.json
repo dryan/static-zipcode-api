@@ -1,1 +1,1 @@
-{"lat": 41.306205, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Milan", "lng": -82.60611, "zip_code": "44846"}
+{"locality": "Milan", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Milan"], "postal_code": "44846", "lat": 41.306205, "lng": -82.60611, "type": "STANDARD", "counties": [{"fips": "043", "name": "Erie"}, {"fips": "077", "name": "Huron"}]}

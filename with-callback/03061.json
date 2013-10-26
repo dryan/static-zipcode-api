@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Nashua", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Nashua"], "postal_code": "03061", "type": "POBOX", "counties": [{"fips": "001", "name": "Belknap"}, {"fips": "011", "name": "Hillsborough"}]});

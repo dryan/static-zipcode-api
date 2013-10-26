@@ -1,1 +1,1 @@
-{"lat": 44.29382, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Greenville", "lng": -88.53557, "zip_code": "54942"}
+{"locality": "Greenville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Greenville"], "postal_code": "54942", "lat": 44.29382, "lng": -88.53557, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}]}

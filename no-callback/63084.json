@@ -1,1 +1,1 @@
-{"lat": 38.434806, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Union", "lng": -91.00353, "zip_code": "63084"}
+{"locality": "Union", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Union"], "postal_code": "63084", "lat": 38.434806, "lng": -91.00353, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.57971, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Wheeler", "lng": -88.60817, "zip_code": "38880"});
+zipapicallback({"locality": "Wheeler", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Wheeler"], "postal_code": "38880", "lat": 34.57971, "lng": -88.60817, "type": "POBOX", "counties": [{"fips": "117", "name": "Prentiss"}]});

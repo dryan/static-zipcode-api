@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.878215, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Arlington", "lng": -77.06845, "zip_code": "22211"});
+zipapicallback({"locality": "Fort Myer", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Fort Myer", "Ft Myer"], "postal_code": "22211", "lat": 38.878215, "lng": -77.06845, "type": "STANDARD", "counties": [{"fips": "013", "name": "Arlington"}]});

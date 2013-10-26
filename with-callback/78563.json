@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.633158, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Linn", "lng": -98.21578, "zip_code": "78563"});
+zipapicallback({"locality": "Linn", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Linn"], "postal_code": "78563", "lat": 26.633158, "lng": -98.21578, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}, {"fips": "427", "name": "Starr"}]});

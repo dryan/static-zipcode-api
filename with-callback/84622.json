@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.114649, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Centerfield", "lng": -111.80511, "zip_code": "84622"});
+zipapicallback({"locality": "Centerfield", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Centerfield"], "postal_code": "84622", "lat": 39.114649, "lng": -111.80511, "type": "POBOX", "counties": [{"fips": "039", "name": "Sanpete"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.779344, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Silas", "lng": -88.30045, "zip_code": "36919"}
+{"locality": "Silas", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bolinger", "Silas"], "postal_code": "36919", "lat": 31.779344, "lng": -88.30045, "type": "STANDARD", "counties": [{"fips": "023", "name": "Choctaw"}, {"fips": "129", "name": "Washington"}]}

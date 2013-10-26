@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.06623, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Miranda", "lng": -99.1345, "zip_code": "57438"});
+zipapicallback({"locality": "Faulkton", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Faulkton", "Miranda", "Norbeck", "Wecota"], "postal_code": "57438", "lat": 45.06623, "lng": -99.1345, "type": "STANDARD", "counties": [{"fips": "049", "name": "Faulk"}]});

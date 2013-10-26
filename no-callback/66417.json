@@ -1,1 +1,1 @@
-{"lat": 39.655741, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Corning", "lng": -96.03394, "zip_code": "66417"}
+{"locality": "Corning", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Corning"], "postal_code": "66417", "lat": 39.655741, "lng": -96.03394, "type": "STANDARD", "counties": [{"fips": "131", "name": "Nemaha"}]}

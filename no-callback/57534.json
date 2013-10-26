@@ -1,1 +1,1 @@
-{"lat": 43.630273, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hamill", "lng": -99.7528, "zip_code": "57534"}
+{"locality": "Hamill", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hamill"], "postal_code": "57534", "lat": 43.630273, "lng": -99.7528, "type": "STANDARD", "counties": [{"fips": "123", "name": "Tripp"}, {"fips": "085", "name": "Lyman"}]}

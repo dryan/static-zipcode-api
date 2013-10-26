@@ -1,1 +1,1 @@
-{"lat": 25.860373, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hialeah", "lng": -80.27174, "zip_code": "33013"}
+{"locality": "Hialeah", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hialeah"], "postal_code": "33013", "lat": 25.860373, "lng": -80.27174, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

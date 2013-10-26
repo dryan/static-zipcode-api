@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.602126, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Justice", "lng": -81.84968, "zip_code": "24851"});
+zipapicallback({"locality": "Justice", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Justice"], "postal_code": "24851", "lat": 37.602126, "lng": -81.84968, "type": "POBOX", "counties": [{"fips": "059", "name": "Mingo"}]});

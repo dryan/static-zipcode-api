@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.876235, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Liberty", "lng": -91.1106, "zip_code": "62347"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Liberty"], "postal_code": "62347", "lat": 39.876235, "lng": -91.1106, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.332926, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Milliken", "lng": -104.85394, "zip_code": "80543"}
+{"locality": "Milliken", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Milliken"], "postal_code": "80543", "lat": 40.332926, "lng": -104.85394, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

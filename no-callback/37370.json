@@ -1,1 +1,1 @@
-{"lat": 35.363968, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Riceville", "lng": -84.70392, "zip_code": "37370"}
+{"locality": "Riceville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Riceville"], "postal_code": "37370", "lat": 35.363968, "lng": -84.70392, "type": "STANDARD", "counties": [{"fips": "107", "name": "McMinn"}]}

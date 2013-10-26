@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.27062, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Whites Creek", "lng": -86.82052, "zip_code": "37189"});
+zipapicallback({"locality": "Whites Creek", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Whites Creek"], "postal_code": "37189", "lat": 36.27062, "lng": -86.82052, "type": "STANDARD", "counties": [{"fips": "037", "name": "Davidson"}, {"fips": "187", "name": "Williamson"}]});

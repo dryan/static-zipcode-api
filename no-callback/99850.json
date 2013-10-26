@@ -1,1 +1,1 @@
-{"lat": 58.411303, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Juneau", "lng": -135.40874, "zip_code": "99850"}
+{"locality": "Juneau", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Juneau"], "postal_code": "99850", "lat": 58.411303, "lng": -135.40874, "type": "POBOX", "counties": [{"fips": "220", "name": "Sitka"}, {"fips": "100", "name": "Haines"}, {"fips": "231", "name": "Skagway-Yakutat-Angoon"}, {"fips": "110", "name": "Juneau"}]}

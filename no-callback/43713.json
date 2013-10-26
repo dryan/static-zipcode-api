@@ -1,1 +1,1 @@
-{"lat": 39.989191, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Somerton", "lng": -81.17197, "zip_code": "43713"}
+{"locality": "Barnesville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Barnesville", "Somerton"], "postal_code": "43713", "lat": 39.989191, "lng": -81.17197, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}, {"fips": "121", "name": "Noble"}]}

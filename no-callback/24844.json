@@ -1,1 +1,1 @@
-{"lat": 37.469496, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Iaeger", "lng": -81.79548, "zip_code": "24844"}
+{"locality": "Iaeger", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Iaeger"], "postal_code": "24844", "lat": 37.469496, "lng": -81.79548, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}, {"fips": "109", "name": "Wyoming"}]}

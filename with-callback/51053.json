@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.498879, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Schaller", "lng": -95.28976, "zip_code": "51053"});
+zipapicallback({"locality": "Schaller", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Schaller"], "postal_code": "51053", "lat": 42.498879, "lng": -95.28976, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]});

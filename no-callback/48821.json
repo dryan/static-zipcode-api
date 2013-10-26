@@ -1,1 +1,1 @@
-{"lat": 42.645985, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Dimondale", "lng": -84.64772, "zip_code": "48821"}
+{"locality": "Dimondale", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Dimondale"], "postal_code": "48821", "lat": 42.645985, "lng": -84.64772, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}]}

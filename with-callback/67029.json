@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.259332, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Coldwater", "lng": -99.33385, "zip_code": "67029"});
+zipapicallback({"locality": "Coldwater", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Coldwater"], "postal_code": "67029", "lat": 37.259332, "lng": -99.33385, "type": "STANDARD", "counties": [{"fips": "033", "name": "Comanche"}, {"fips": "097", "name": "Kiowa"}]});

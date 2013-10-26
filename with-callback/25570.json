@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.225065, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Wayne", "lng": -82.43909, "zip_code": "25570"});
+zipapicallback({"locality": "Wayne", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Wayne"], "postal_code": "25570", "lat": 38.225065, "lng": -82.43909, "type": "STANDARD", "counties": [{"fips": "099", "name": "Wayne"}]});

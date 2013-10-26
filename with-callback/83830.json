@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.10625, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Fernwood", "lng": -116.38764, "zip_code": "83830"});
+zipapicallback({"locality": "Fernwood", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Fernwood"], "postal_code": "83830", "lat": 47.10625, "lng": -116.38764, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benewah"}]});

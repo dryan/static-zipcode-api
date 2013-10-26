@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.025367, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Lapine", "lng": -86.34182, "zip_code": "36046"});
+zipapicallback({"locality": "Lapine", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Lapine"], "postal_code": "36046", "lat": 32.025367, "lng": -86.34182, "type": "STANDARD", "counties": [{"fips": "101", "name": "Montgomery"}, {"fips": "041", "name": "Crenshaw"}]});

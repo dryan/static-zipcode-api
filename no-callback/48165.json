@@ -1,1 +1,1 @@
-{"lat": 42.501401, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "New Hudson", "lng": -83.62916, "zip_code": "48165"}
+{"locality": "New Hudson", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["New Hudson"], "postal_code": "48165", "lat": 42.501401, "lng": -83.62916, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

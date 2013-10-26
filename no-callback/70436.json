@@ -1,1 +1,1 @@
-{"lat": 30.793858, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Fluker", "lng": -90.51026, "zip_code": "70436"}
+{"locality": "Fluker", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Fluker"], "postal_code": "70436", "lat": 30.793858, "lng": -90.51026, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}]}

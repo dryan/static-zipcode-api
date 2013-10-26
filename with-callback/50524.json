@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.603391, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Clare", "lng": -94.36129, "zip_code": "50524"});
+zipapicallback({"locality": "Clare", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Clare"], "postal_code": "50524", "lat": 42.603391, "lng": -94.36129, "type": "STANDARD", "counties": [{"fips": "187", "name": "Webster"}]});

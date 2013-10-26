@@ -1,1 +1,1 @@
-{"lat": 38.136132, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Mc Clave", "lng": -102.88325, "zip_code": "81057"}
+{"locality": "Mc Clave", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Mc Clave"], "postal_code": "81057", "lat": 38.136132, "lng": -102.88325, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bent"}]}

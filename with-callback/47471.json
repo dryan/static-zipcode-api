@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.123925, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Worthington", "lng": -86.9845, "zip_code": "47471"});
+zipapicallback({"locality": "Worthington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Worthington"], "postal_code": "47471", "lat": 39.123925, "lng": -86.9845, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}, {"fips": "119", "name": "Owen"}]});

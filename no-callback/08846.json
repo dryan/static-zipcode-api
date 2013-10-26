@@ -1,1 +1,1 @@
-{"lat": 40.574552, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Middlesex", "lng": -74.50187, "zip_code": "08846"}
+{"locality": "Middlesex", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Middlesex"], "postal_code": "08846", "lat": 40.574552, "lng": -74.50187, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

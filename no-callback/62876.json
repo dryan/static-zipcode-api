@@ -1,1 +1,1 @@
-{"lat": 38.282464, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Radom", "lng": -89.19356, "zip_code": "62876"}
+{"locality": "Radom", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Radom"], "postal_code": "62876", "lat": 38.282464, "lng": -89.19356, "type": "POBOX", "counties": [{"fips": "189", "name": "Washington"}]}

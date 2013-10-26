@@ -1,1 +1,1 @@
-{"lat": 38.585331, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Uler", "lng": -81.17428, "zip_code": "25266"}
+{"locality": "Newton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Newton", "Uler"], "postal_code": "25266", "lat": 38.585331, "lng": -81.17428, "type": "STANDARD", "counties": [{"fips": "087", "name": "Roane"}, {"fips": "015", "name": "Clay"}]}

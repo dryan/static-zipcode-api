@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.897901, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Terry", "lng": -105.46339, "zip_code": "59349"});
+zipapicallback({"locality": "Terry", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Terry"], "postal_code": "59349", "lat": 46.897901, "lng": -105.46339, "type": "STANDARD", "counties": [{"fips": "079", "name": "Prairie"}]});

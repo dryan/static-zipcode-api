@@ -1,1 +1,1 @@
-{"lat": 30.349136, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alpine", "lng": -103.69271, "zip_code": "79831"}
+{"locality": "Alpine", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alpine"], "postal_code": "79831", "lat": 30.349136, "lng": -103.69271, "type": "POBOX", "counties": [{"fips": "043", "name": "Brewster"}]}

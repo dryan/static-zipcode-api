@@ -1,1 +1,1 @@
-{"lat": 47.297368, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Ephrata", "lng": -119.57129, "zip_code": "98823"}
+{"locality": "Ephrata", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Ephrata"], "postal_code": "98823", "lat": 47.297368, "lng": -119.57129, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]}

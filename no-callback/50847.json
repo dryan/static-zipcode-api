@@ -1,1 +1,1 @@
-{"lat": 41.142185, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Grant", "lng": -94.98414, "zip_code": "50847"}
+{"locality": "Grant", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Grant"], "postal_code": "50847", "lat": 41.142185, "lng": -94.98414, "type": "POBOX", "counties": [{"fips": "137", "name": "Montgomery"}]}

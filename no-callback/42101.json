@@ -1,1 +1,1 @@
-{"lat": 37.010643, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Plum Springs", "lng": -86.46145, "zip_code": "42101"}
+{"locality": "Bowling Green", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bowling Green", "Hadley", "Plum Springs", "Richardsville"], "postal_code": "42101", "lat": 37.010643, "lng": -86.46145, "type": "STANDARD", "counties": [{"fips": "227", "name": "Warren"}, {"fips": "213", "name": "Simpson"}, {"fips": "031", "name": "Butler"}, {"fips": "061", "name": "Edmonson"}]}

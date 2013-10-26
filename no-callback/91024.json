@@ -1,1 +1,1 @@
-{"lat": 34.164806, "region": {"abbr": "CA", "name": "California"}, "locality": "Sierra Madre", "lng": -118.0509, "zip_code": "91024"}
+{"locality": "Sierra Madre", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sierra Madre"], "postal_code": "91024", "lat": 34.164806, "lng": -118.0509, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

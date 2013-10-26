@@ -1,1 +1,1 @@
-{"lat": 30.264611, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Iberville", "lng": -91.09595, "zip_code": "70776"}
+{"locality": "Saint Gabriel", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Iberville", "Saint Gabriel"], "postal_code": "70776", "lat": 30.264611, "lng": -91.09595, "type": "STANDARD", "counties": [{"fips": "047", "name": "Iberville"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.833414, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Gustine", "lng": -98.37248, "zip_code": "76455"}
+{"locality": "Gustine", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Gustine"], "postal_code": "76455", "lat": 31.833414, "lng": -98.37248, "type": "STANDARD", "counties": [{"fips": "093", "name": "Comanche"}]}

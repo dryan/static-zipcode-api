@@ -1,1 +1,1 @@
-{"lat": 39.819, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Grandview", "lng": -89.64379, "zip_code": "62702"}
+{"locality": "Springfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Grandview", "Springfield"], "postal_code": "62702", "lat": 39.819, "lng": -89.64379, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}]}

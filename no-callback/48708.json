@@ -1,1 +1,1 @@
-{"lat": 43.583323, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bay City", "lng": -83.87869, "zip_code": "48708"}
+{"locality": "Bay City", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bay City"], "postal_code": "48708", "lat": 43.583323, "lng": -83.87869, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bay"}]}

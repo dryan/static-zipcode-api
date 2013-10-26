@@ -1,1 +1,1 @@
-{"lat": 40.616347, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Cincinnati", "lng": -92.92738, "zip_code": "52549"}
+{"locality": "Cincinnati", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Cincinnati"], "postal_code": "52549", "lat": 40.616347, "lng": -92.92738, "type": "STANDARD", "counties": [{"fips": "007", "name": "Appanoose"}]}

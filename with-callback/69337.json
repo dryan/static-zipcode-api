@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.808213, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Chadron", "lng": -103.00219, "zip_code": "69337"});
+zipapicallback({"locality": "Chadron", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Chadron"], "postal_code": "69337", "lat": 42.808213, "lng": -103.00219, "type": "STANDARD", "counties": [{"fips": "045", "name": "Dawes"}]});

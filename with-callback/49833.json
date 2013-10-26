@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.291233, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Little Lake", "lng": -87.33355, "zip_code": "49833"});
+zipapicallback({"locality": "Little Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Little Lake"], "postal_code": "49833", "lat": 46.291233, "lng": -87.33355, "type": "POBOX", "counties": [{"fips": "103", "name": "Marquette"}]});

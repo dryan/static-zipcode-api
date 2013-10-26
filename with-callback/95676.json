@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.909351, "region": {"abbr": "CA", "name": "California"}, "locality": "Robbins", "lng": -121.71843, "zip_code": "95676"});
+zipapicallback({"locality": "Robbins", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Robbins"], "postal_code": "95676", "lat": 38.909351, "lng": -121.71843, "type": "POBOX", "counties": [{"fips": "101", "name": "Sutter"}]});

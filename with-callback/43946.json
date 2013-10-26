@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.646462, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sardis", "lng": -80.96151, "zip_code": "43946"});
+zipapicallback({"locality": "Sardis", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sardis"], "postal_code": "43946", "lat": 39.646462, "lng": -80.96151, "type": "STANDARD", "counties": [{"fips": "111", "name": "Monroe"}]});

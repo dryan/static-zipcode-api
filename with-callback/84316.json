@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.773176, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Howell", "lng": -112.45965, "zip_code": "84316"});
+zipapicallback({"locality": "Howell", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Howell"], "postal_code": "84316", "lat": 41.773176, "lng": -112.45965, "type": "POBOX", "counties": [{"fips": "003", "name": "Box Elder"}]});

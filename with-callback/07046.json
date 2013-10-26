@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.892021, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mountain Lakes", "lng": -74.44022, "zip_code": "07046"});
+zipapicallback({"locality": "Mountain Lakes", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mountain Lakes", "Mountain Lks"], "postal_code": "07046", "lat": 40.892021, "lng": -74.44022, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]});

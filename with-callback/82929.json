@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.587387, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Little America", "lng": -109.82274, "zip_code": "82929"});
+zipapicallback({"locality": "Little America", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Litl America", "Little America"], "postal_code": "82929", "lat": 41.587387, "lng": -109.82274, "type": "POBOX", "counties": [{"fips": "037", "name": "Sweetwater"}]});

@@ -1,1 +1,1 @@
-{"lat": 46.040316, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Nashua", "lng": -96.31772, "zip_code": "56565"}
+{"locality": "Nashua", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Nashua"], "postal_code": "56565", "lat": 46.040316, "lng": -96.31772, "type": "STANDARD", "counties": [{"fips": "167", "name": "Wilkin"}, {"fips": "051", "name": "Grant"}]}

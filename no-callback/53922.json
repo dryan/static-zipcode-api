@@ -1,1 +1,1 @@
-{"lat": 43.518602, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Burnett", "lng": -88.71347, "zip_code": "53922"}
+{"locality": "Burnett", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Burnett"], "postal_code": "53922", "lat": 43.518602, "lng": -88.71347, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dodge"}]}

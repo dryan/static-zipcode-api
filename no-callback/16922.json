@@ -1,1 +1,1 @@
-{"lat": 41.678935, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Galeton", "lng": -77.68562, "zip_code": "16922"}
+{"locality": "Galeton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Galeton"], "postal_code": "16922", "lat": 41.678935, "lng": -77.68562, "type": "STANDARD", "counties": [{"fips": "105", "name": "Potter"}, {"fips": "117", "name": "Tioga"}]}

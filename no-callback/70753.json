@@ -1,1 +1,1 @@
-{"lat": 30.917437, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Lettsworth", "lng": -91.7126, "zip_code": "70753"}
+{"locality": "Lettsworth", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Lettsworth"], "postal_code": "70753", "lat": 30.917437, "lng": -91.7126, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pointe Coupee"}]}

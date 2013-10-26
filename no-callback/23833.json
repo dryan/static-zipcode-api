@@ -1,1 +1,1 @@
-{"lat": 37.197024, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Church Road", "lng": -77.66932, "zip_code": "23833"}
+{"locality": "Church Road", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Church Road"], "postal_code": "23833", "lat": 37.197024, "lng": -77.66932, "type": "STANDARD", "counties": [{"fips": "053", "name": "Dinwiddie"}]}

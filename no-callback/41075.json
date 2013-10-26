@@ -1,1 +1,1 @@
-{"lat": 39.076011, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Fort Thomas", "lng": -84.45127, "zip_code": "41075"}
+{"locality": "Fort Thomas", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Fort Thomas", "Kenton Vale", "Newport"], "postal_code": "41075", "lat": 39.076011, "lng": -84.45127, "type": "STANDARD", "counties": [{"fips": "037", "name": "Campbell"}]}

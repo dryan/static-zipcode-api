@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.291966, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Capulin", "lng": -106.12085, "zip_code": "81124"});
+zipapicallback({"locality": "Capulin", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Capulin"], "postal_code": "81124", "lat": 37.291966, "lng": -106.12085, "type": "POBOX", "counties": [{"fips": "021", "name": "Conejos"}]});

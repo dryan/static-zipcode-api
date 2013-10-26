@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.165299, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Balta", "lng": -100.0384, "zip_code": "58313"});
+zipapicallback({"locality": "Balta", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Balta"], "postal_code": "58313", "lat": 48.165299, "lng": -100.0384, "type": "STANDARD", "counties": [{"fips": "069", "name": "Pierce"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.753108, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Dayton", "lng": -84.24715, "zip_code": "45417"}
+{"locality": "Dayton", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Dayton"], "postal_code": "45417", "lat": 39.753108, "lng": -84.24715, "type": "STANDARD", "counties": [{"fips": "113", "name": "Montgomery"}]}

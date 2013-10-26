@@ -1,1 +1,1 @@
-{"lat": 41.532992, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Middlebury", "lng": -73.11555, "zip_code": "06762"}
+{"locality": "Middlebury", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Middlebury"], "postal_code": "06762", "lat": 41.532992, "lng": -73.11555, "type": "STANDARD", "counties": [{"fips": "009", "name": "New Haven"}]}

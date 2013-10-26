@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.657694, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bennettsville", "lng": -79.69151, "zip_code": "29512"});
+zipapicallback({"locality": "Bennettsville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bennettsville"], "postal_code": "29512", "lat": 34.657694, "lng": -79.69151, "type": "STANDARD", "counties": [{"fips": "069", "name": "Marlboro"}]});

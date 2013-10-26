@@ -1,1 +1,1 @@
-{"lat": 42.748888, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Nashua", "lng": -71.46492, "zip_code": "03060"}
+{"locality": "Nashua", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Nashua"], "postal_code": "03060", "lat": 42.748888, "lng": -71.46492, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}]}

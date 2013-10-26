@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.994379, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Saint Michael", "lng": -98.86913, "zip_code": "58370"});
+zipapicallback({"locality": "Saint Michael", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Saint Michael"], "postal_code": "58370", "lat": 47.994379, "lng": -98.86913, "type": "STANDARD", "counties": [{"fips": "005", "name": "Benson"}]});

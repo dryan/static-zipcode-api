@@ -1,1 +1,1 @@
-{"lat": 48.073998, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Plaza", "lng": -101.9763, "zip_code": "58771"}
+{"locality": "Plaza", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Plaza"], "postal_code": "58771", "lat": 48.073998, "lng": -101.9763, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mountrail"}, {"fips": "055", "name": "McLean"}, {"fips": "101", "name": "Ward"}]}

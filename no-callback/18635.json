@@ -1,1 +1,1 @@
-{"lat": 41.038241, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nescopeck", "lng": -76.20682, "zip_code": "18635"}
+{"locality": "Nescopeck", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Nescopeck"], "postal_code": "18635", "lat": 41.038241, "lng": -76.20682, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}, {"fips": "037", "name": "Columbia"}]}

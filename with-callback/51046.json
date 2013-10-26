@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.976116, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Paullina", "lng": -95.65772, "zip_code": "51046"});
+zipapicallback({"locality": "Paullina", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Paullina"], "postal_code": "51046", "lat": 42.976116, "lng": -95.65772, "type": "STANDARD", "counties": [{"fips": "141", "name": "O'Brien"}]});

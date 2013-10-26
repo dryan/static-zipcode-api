@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.571804, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Great Cacapon", "lng": -78.37183, "zip_code": "25422"});
+zipapicallback({"locality": "Great Cacapon", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Great Cacapon"], "postal_code": "25422", "lat": 39.571804, "lng": -78.37183, "type": "STANDARD", "counties": [{"fips": "065", "name": "Morgan"}]});

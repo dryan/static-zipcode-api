@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.645998, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Somonauk", "lng": -88.69, "zip_code": "60552"});
+zipapicallback({"locality": "Somonauk", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Somonauk"], "postal_code": "60552", "lat": 41.645998, "lng": -88.69, "type": "STANDARD", "counties": [{"fips": "037", "name": "De Kalb"}]});

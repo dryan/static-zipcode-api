@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.891137, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "New Cambria", "lng": -97.51114, "zip_code": "67470"});
+zipapicallback({"locality": "New Cambria", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["New Cambria"], "postal_code": "67470", "lat": 38.891137, "lng": -97.51114, "type": "STANDARD", "counties": [{"fips": "169", "name": "Saline"}, {"fips": "143", "name": "Ottawa"}]});

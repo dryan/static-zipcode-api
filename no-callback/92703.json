@@ -1,1 +1,1 @@
-{"lat": 33.747067, "region": {"abbr": "CA", "name": "California"}, "locality": "Santa Ana", "lng": -117.90433, "zip_code": "92703"}
+{"locality": "Santa Ana", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Ana"], "postal_code": "92703", "lat": 33.747067, "lng": -117.90433, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]}

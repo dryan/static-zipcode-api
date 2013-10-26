@@ -1,1 +1,1 @@
-{"lat": 47.222328, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Tekoa", "lng": -117.08133, "zip_code": "99033"}
+{"locality": "Tekoa", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Tekoa"], "postal_code": "99033", "lat": 47.222328, "lng": -117.08133, "type": "STANDARD", "counties": [{"fips": "075", "name": "Whitman"}, {"fips": "063", "name": "Spokane"}]}

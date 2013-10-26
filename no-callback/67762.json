@@ -1,1 +1,1 @@
-{"lat": 38.930464, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Weskan", "lng": -101.99084, "zip_code": "67762"}
+{"locality": "Weskan", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Weskan"], "postal_code": "67762", "lat": 38.930464, "lng": -101.99084, "type": "STANDARD", "counties": [{"fips": "199", "name": "Wallace"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.825578, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Clearville", "lng": -78.4423, "zip_code": "15535"}
+{"locality": "Clearville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Clearville"], "postal_code": "15535", "lat": 39.825578, "lng": -78.4423, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]}

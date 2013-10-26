@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.538589, "region": {"abbr": "NY", "name": "New York"}, "locality": "Maryland", "lng": -74.92185, "zip_code": "12116"});
+zipapicallback({"locality": "Maryland", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Maryland"], "postal_code": "12116", "lat": 42.538589, "lng": -74.92185, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]});

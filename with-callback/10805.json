@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.897783, "region": {"abbr": "NY", "name": "New York"}, "locality": "New Rochelle", "lng": -73.77933, "zip_code": "10805"});
+zipapicallback({"locality": "New Rochelle", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["New Rochelle"], "postal_code": "10805", "lat": 40.897783, "lng": -73.77933, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

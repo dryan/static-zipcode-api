@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.419572, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Duncansville", "lng": -78.44934, "zip_code": "16635"});
+zipapicallback({"locality": "Duncansville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Duncansville"], "postal_code": "16635", "lat": 40.419572, "lng": -78.44934, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}]});

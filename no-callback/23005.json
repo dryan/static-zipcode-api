@@ -1,1 +1,1 @@
-{"lat": 37.754254, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Ashland", "lng": -77.47465, "zip_code": "23005"}
+{"locality": "Ashland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Ashland"], "postal_code": "23005", "lat": 37.754254, "lng": -77.47465, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hanover"}]}

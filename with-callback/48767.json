@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.645608, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Unionville", "lng": -83.46527, "zip_code": "48767"});
+zipapicallback({"locality": "Unionville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Unionville"], "postal_code": "48767", "lat": 43.645608, "lng": -83.46527, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}, {"fips": "063", "name": "Huron"}]});

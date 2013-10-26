@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.620636, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Leland", "lng": -88.78895, "zip_code": "60531"});
+zipapicallback({"locality": "Leland", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Leland"], "postal_code": "60531", "lat": 41.620636, "lng": -88.78895, "type": "STANDARD", "counties": [{"fips": "099", "name": "La Salle"}]});

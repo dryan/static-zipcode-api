@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.310967, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Halifax", "lng": -77.57821, "zip_code": "27839"});
+zipapicallback({"locality": "Halifax", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Halifax"], "postal_code": "27839", "lat": 36.310967, "lng": -77.57821, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]});

@@ -1,1 +1,1 @@
-{"lat": 30.120443, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bastrop", "lng": -97.30991, "zip_code": "78602"}
+{"locality": "Bastrop", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bastrop"], "postal_code": "78602", "lat": 30.120443, "lng": -97.30991, "type": "STANDARD", "counties": [{"fips": "021", "name": "Bastrop"}]}

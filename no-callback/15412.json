@@ -1,1 +1,1 @@
-{"lat": 40.100345, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Allenport", "lng": -79.846, "zip_code": "15412"}
+{"locality": "Allenport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Allenport"], "postal_code": "15412", "lat": 40.100345, "lng": -79.846, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-{"lat": 37.716311, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Flat", "lng": -83.51835, "zip_code": "41301"}
+{"locality": "Campton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bethany", "Burkhart", "Campton", "Flat", "Gillmore", "Lee City", "Leeco", "Mary", "Maytown", "Valeria", "Zachariah"], "postal_code": "41301", "lat": 37.716311, "lng": -83.51835, "type": "STANDARD", "counties": [{"fips": "237", "name": "Wolfe"}, {"fips": "175", "name": "Morgan"}, {"fips": "129", "name": "Lee"}, {"fips": "025", "name": "Breathitt"}]}

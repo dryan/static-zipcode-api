@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.661026, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Sunnyside", "lng": -110.58819, "zip_code": "84539"});
+zipapicallback({"locality": "Sunnyside", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Sunnyside"], "postal_code": "84539", "lat": 39.661026, "lng": -110.58819, "type": "POBOX", "counties": [{"fips": "007", "name": "Carbon"}]});

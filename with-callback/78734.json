@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.378675, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lakeway", "lng": -97.95028, "zip_code": "78734"});
+zipapicallback({"locality": "Austin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Austin", "Bee Cave", "Bee Caves", "Lakeway"], "postal_code": "78734", "lat": 30.378675, "lng": -97.95028, "type": "STANDARD", "counties": [{"fips": "453", "name": "Travis"}, {"fips": "209", "name": "Hays"}]});

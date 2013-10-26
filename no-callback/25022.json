@@ -1,1 +1,1 @@
-{"lat": 37.858735, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Blair", "lng": -81.81253, "zip_code": "25022"}
+{"locality": "Blair", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Blair"], "postal_code": "25022", "lat": 37.858735, "lng": -81.81253, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]}

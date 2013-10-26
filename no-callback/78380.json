@@ -1,1 +1,1 @@
-{"lat": 27.782255, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Robstown", "lng": -97.68609, "zip_code": "78380"}
+{"locality": "Robstown", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Robstown"], "postal_code": "78380", "lat": 27.782255, "lng": -97.68609, "type": "STANDARD", "counties": [{"fips": "355", "name": "Nueces"}, {"fips": "249", "name": "Jim Wells"}]}

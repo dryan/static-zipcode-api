@@ -1,1 +1,1 @@
-{"lat": 40.606221, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Bellville", "lng": -82.52073, "zip_code": "44813"}
+{"locality": "Bellville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Bellville"], "postal_code": "44813", "lat": 40.606221, "lng": -82.52073, "type": "STANDARD", "counties": [{"fips": "139", "name": "Richland"}, {"fips": "117", "name": "Morrow"}, {"fips": "083", "name": "Knox"}]}

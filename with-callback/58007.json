@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.020312, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Ayr", "lng": -97.45571, "zip_code": "58007"});
+zipapicallback({"locality": "Ayr", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Ayr"], "postal_code": "58007", "lat": 47.020312, "lng": -97.45571, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]});

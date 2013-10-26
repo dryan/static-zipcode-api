@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.305697, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Elaine", "lng": -90.85597, "zip_code": "72333"});
+zipapicallback({"locality": "Elaine", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Elaine"], "postal_code": "72333", "lat": 34.305697, "lng": -90.85597, "type": "STANDARD", "counties": [{"fips": "107", "name": "Phillips"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.127516, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Tamaroa", "lng": -89.22926, "zip_code": "62888"});
+zipapicallback({"locality": "Tamaroa", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Tamaroa"], "postal_code": "62888", "lat": 38.127516, "lng": -89.22926, "type": "STANDARD", "counties": [{"fips": "145", "name": "Perry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.998199, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Hurley", "lng": -74.10967, "zip_code": "12491"});
+zipapicallback({"locality": "West Hurley", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["West Hurley"], "postal_code": "12491", "lat": 41.998199, "lng": -74.10967, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

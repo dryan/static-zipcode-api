@@ -1,1 +1,1 @@
-{"lat": 37.855873, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Davisport", "lng": -82.62091, "zip_code": "41262"}
+{"locality": "Tomahawk", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Davisport", "Milo", "Tomahawk"], "postal_code": "41262", "lat": 37.855873, "lng": -82.62091, "type": "STANDARD", "counties": [{"fips": "159", "name": "Martin"}]}

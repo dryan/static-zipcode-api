@@ -1,1 +1,1 @@
-{"lat": 40.832663, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Goehner", "lng": -97.22019, "zip_code": "68364"}
+{"locality": "Goehner", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Goehner"], "postal_code": "68364", "lat": 40.832663, "lng": -97.22019, "type": "POBOX", "counties": [{"fips": "159", "name": "Seward"}]}

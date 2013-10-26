@@ -1,1 +1,1 @@
-{"lat": 34.811777, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Hernando", "lng": -90.01917, "zip_code": "38632"}
+{"locality": "Hernando", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hernando"], "postal_code": "38632", "lat": 34.811777, "lng": -90.01917, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Soto"}]}

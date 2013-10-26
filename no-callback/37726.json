@@ -1,1 +1,1 @@
-{"lat": 36.186086, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Deer Lodge", "lng": -84.838, "zip_code": "37726"}
+{"locality": "Deer Lodge", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Deer Lodge"], "postal_code": "37726", "lat": 36.186086, "lng": -84.838, "type": "STANDARD", "counties": [{"fips": "129", "name": "Morgan"}, {"fips": "049", "name": "Fentress"}]}

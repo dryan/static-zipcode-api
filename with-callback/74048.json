@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.690587, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nowata", "lng": -95.62751, "zip_code": "74048"});
+zipapicallback({"locality": "Nowata", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nowata"], "postal_code": "74048", "lat": 36.690587, "lng": -95.62751, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nowata"}, {"fips": "131", "name": "Rogers"}, {"fips": "147", "name": "Washington"}]});

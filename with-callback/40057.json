@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.386916, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cropper", "lng": -85.06609, "zip_code": "40057"});
+zipapicallback({"locality": "Pleasureville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cropper", "Defoe", "Franklinton", "Pleasureville"], "postal_code": "40057", "lat": 38.386916, "lng": -85.06609, "type": "STANDARD", "counties": [{"fips": "103", "name": "Henry"}, {"fips": "211", "name": "Shelby"}]});

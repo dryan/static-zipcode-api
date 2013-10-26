@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.452497, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tarkio", "lng": -95.3661, "zip_code": "64491"});
+zipapicallback({"locality": "Tarkio", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tarkio"], "postal_code": "64491", "lat": 40.452497, "lng": -95.3661, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}]});

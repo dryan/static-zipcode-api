@@ -1,1 +1,1 @@
-{"lat": 37.61966, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mc Daniels", "lng": -86.45078, "zip_code": "40152"}
+{"locality": "Mc Daniels", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mc Daniels"], "postal_code": "40152", "lat": 37.61966, "lng": -86.45078, "type": "STANDARD", "counties": [{"fips": "027", "name": "Breckinridge"}]}

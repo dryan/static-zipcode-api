@@ -1,1 +1,1 @@
-{"lat": 42.9843, "region": {"abbr": "NY", "name": "New York"}, "locality": "Deansboro", "lng": -75.4224, "zip_code": "13328"}
+{"locality": "Deansboro", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Deansboro"], "postal_code": "13328", "lat": 42.9843, "lng": -75.4224, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]}

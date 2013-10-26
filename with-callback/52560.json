@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.852256, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Floris", "lng": -92.24785, "zip_code": "52560"});
+zipapicallback({"locality": "Floris", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Floris"], "postal_code": "52560", "lat": 40.852256, "lng": -92.24785, "type": "STANDARD", "counties": [{"fips": "051", "name": "Davis"}]});

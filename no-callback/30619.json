@@ -1,1 +1,1 @@
-{"lat": 33.863663, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Arnoldsville", "lng": -83.24825, "zip_code": "30619"}
+{"locality": "Arnoldsville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Arnoldsville"], "postal_code": "30619", "lat": 33.863663, "lng": -83.24825, "type": "STANDARD", "counties": [{"fips": "221", "name": "Oglethorpe"}, {"fips": "219", "name": "Oconee"}]}

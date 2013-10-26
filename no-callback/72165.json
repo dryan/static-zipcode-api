@@ -1,1 +1,1 @@
-{"lat": 35.594246, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Thida", "lng": -91.45052, "zip_code": "72165"}
+{"locality": "Thida", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Thida"], "postal_code": "72165", "lat": 35.594246, "lng": -91.45052, "type": "STANDARD", "counties": [{"fips": "063", "name": "Independence"}]}

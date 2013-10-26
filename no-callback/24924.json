@@ -1,1 +1,1 @@
-{"lat": 38.185341, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Buckeye", "lng": -80.13261, "zip_code": "24924"}
+{"locality": "Buckeye", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Buckeye"], "postal_code": "24924", "lat": 38.185341, "lng": -80.13261, "type": "STANDARD", "counties": [{"fips": "075", "name": "Pocahontas"}]}

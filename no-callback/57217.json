@@ -1,1 +1,1 @@
-{"lat": 45.085704, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Bradley", "lng": -97.688, "zip_code": "57217"}
+{"locality": "Bradley", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bradley", "Crocker"], "postal_code": "57217", "lat": 45.085704, "lng": -97.688, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clark"}]}

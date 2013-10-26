@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.790385, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kerhonkson", "lng": -74.30413, "zip_code": "12446"});
+zipapicallback({"locality": "Kerhonkson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Kerhonkson"], "postal_code": "12446", "lat": 41.790385, "lng": -74.30413, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ulster"}]});

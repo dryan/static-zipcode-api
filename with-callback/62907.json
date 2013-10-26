@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.871546, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Ava", "lng": -89.50721, "zip_code": "62907"});
+zipapicallback({"locality": "Ava", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Ava"], "postal_code": "62907", "lat": 37.871546, "lng": -89.50721, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jackson"}]});

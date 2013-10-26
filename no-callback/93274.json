@@ -1,1 +1,1 @@
-{"lat": 36.201451, "region": {"abbr": "CA", "name": "California"}, "locality": "Tulare", "lng": -119.34994, "zip_code": "93274"}
+{"locality": "Tulare", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Tulare"], "postal_code": "93274", "lat": 36.201451, "lng": -119.34994, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tulare"}]}

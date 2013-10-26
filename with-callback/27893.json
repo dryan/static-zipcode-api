@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.715315, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Wilson", "lng": -77.91989, "zip_code": "27893"});
+zipapicallback({"locality": "Wilson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Wilson"], "postal_code": "27893", "lat": 35.715315, "lng": -77.91989, "type": "STANDARD", "counties": [{"fips": "195", "name": "Wilson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.748534, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Freeport", "lng": -80.39778, "zip_code": "15352"});
+zipapicallback({"locality": "New Freeport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Freeport", "Pine Bank"], "postal_code": "15352", "lat": 39.748534, "lng": -80.39778, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

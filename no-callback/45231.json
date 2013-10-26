@@ -1,1 +1,1 @@
-{"lat": 39.242608, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Cincinnati", "lng": -84.5453, "zip_code": "45231"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Mount Healthy", "Wyoming"], "postal_code": "45231", "lat": 39.242608, "lng": -84.5453, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

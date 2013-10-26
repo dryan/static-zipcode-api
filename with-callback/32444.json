@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.239849, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lynn Haven", "lng": -85.64577, "zip_code": "32444"});
+zipapicallback({"locality": "Lynn Haven", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lynn Haven"], "postal_code": "32444", "lat": 30.239849, "lng": -85.64577, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bay"}]});

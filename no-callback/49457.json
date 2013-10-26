@@ -1,1 +1,1 @@
-{"lat": 43.360182, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Twin Lake", "lng": -86.18835, "zip_code": "49457"}
+{"locality": "Twin Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Twin Lake"], "postal_code": "49457", "lat": 43.360182, "lng": -86.18835, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.711769, "region": {"abbr": "NY", "name": "New York"}, "locality": "Morrisonville", "lng": -73.58219, "zip_code": "12962"});
+zipapicallback({"locality": "Morrisonville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Morrisonville"], "postal_code": "12962", "lat": 44.711769, "lng": -73.58219, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clinton"}]});

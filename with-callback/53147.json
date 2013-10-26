@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.587613, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lake Geneva", "lng": -88.45828, "zip_code": "53147"});
+zipapicallback({"locality": "Lake Geneva", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lake Geneva"], "postal_code": "53147", "lat": 42.587613, "lng": -88.45828, "type": "STANDARD", "counties": [{"fips": "127", "name": "Walworth"}]});

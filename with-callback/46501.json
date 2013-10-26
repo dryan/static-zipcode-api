@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.224036, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Argos", "lng": -86.24521, "zip_code": "46501"});
+zipapicallback({"locality": "Argos", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Argos"], "postal_code": "46501", "lat": 41.224036, "lng": -86.24521, "type": "STANDARD", "counties": [{"fips": "099", "name": "Marshall"}, {"fips": "049", "name": "Fulton"}]});

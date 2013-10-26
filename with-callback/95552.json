@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.390478, "region": {"abbr": "CA", "name": "California"}, "locality": "Mad River", "lng": -123.41309, "zip_code": "95552"});
+zipapicallback({"locality": "Mad River", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mad River"], "postal_code": "95552", "lat": 40.390478, "lng": -123.41309, "type": "STANDARD", "counties": [{"fips": "105", "name": "Trinity"}]});

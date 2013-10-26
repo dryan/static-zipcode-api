@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.639575, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Rockaway", "lng": -73.66703, "zip_code": "11518"});
+zipapicallback({"locality": "East Rockaway", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Rockaway"], "postal_code": "11518", "lat": 40.639575, "lng": -73.66703, "type": "STANDARD", "counties": [{"fips": "059", "name": "Nassau"}]});

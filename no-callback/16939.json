@@ -1,1 +1,1 @@
-{"lat": 41.677577, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Morris Run", "lng": -77.01677, "zip_code": "16939"}
+{"locality": "Morris Run", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morris Run"], "postal_code": "16939", "lat": 41.677577, "lng": -77.01677, "type": "POBOX", "counties": [{"fips": "105", "name": "Potter"}, {"fips": "117", "name": "Tioga"}]}

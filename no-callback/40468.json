@@ -1,1 +1,1 @@
-{"lat": 37.65487, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Perryville", "lng": -84.98037, "zip_code": "40468"}
+{"locality": "Perryville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Perryville"], "postal_code": "40468", "lat": 37.65487, "lng": -84.98037, "type": "STANDARD", "counties": [{"fips": "021", "name": "Boyle"}, {"fips": "167", "name": "Mercer"}, {"fips": "229", "name": "Washington"}]}

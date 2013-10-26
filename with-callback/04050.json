@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.692683, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Long Island", "lng": -70.15475, "zip_code": "04050"});
+zipapicallback({"locality": "Long Island", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Long Island"], "postal_code": "04050", "lat": 43.692683, "lng": -70.15475, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

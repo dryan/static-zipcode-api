@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.887923, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Indian Rocks Beach", "lng": -82.84703, "zip_code": "33785"});
+zipapicallback({"locality": "Indian Rocks Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Belleair Bch", "Belleair Beach", "Indian Rk Bch", "Indian Rks Beach", "Indian Rocks Beach", "Indian Shores"], "postal_code": "33785", "lat": 27.887923, "lng": -82.84703, "type": "STANDARD", "counties": []});

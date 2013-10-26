@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.222677, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Seeley Lake", "lng": -113.52551, "zip_code": "59868"});
+zipapicallback({"locality": "Seeley Lake", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Seeley Lake"], "postal_code": "59868", "lat": 47.222677, "lng": -113.52551, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}]});

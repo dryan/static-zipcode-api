@@ -1,1 +1,1 @@
-{"lat": 41.051097, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Granite Canon", "lng": -105.19216, "zip_code": "82059"}
+{"locality": "Granite Canon", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Granite Canon", "Granite Canyon", "Harriman"], "postal_code": "82059", "lat": 41.051097, "lng": -105.19216, "type": "POBOX", "counties": [{"fips": "021", "name": "Laramie"}]}

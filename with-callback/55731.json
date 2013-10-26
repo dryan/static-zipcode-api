@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.913365, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Ely", "lng": -91.91712, "zip_code": "55731"});
+zipapicallback({"locality": "Ely", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Ely"], "postal_code": "55731", "lat": 47.913365, "lng": -91.91712, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "075", "name": "Lake"}]});

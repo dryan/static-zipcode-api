@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.394253, "region": {"abbr": "CA", "name": "California"}, "locality": "Valyermo", "lng": -117.69475, "zip_code": "93563"});
+zipapicallback({"locality": "Valyermo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Pearblossom", "Valyermo"], "postal_code": "93563", "lat": 34.394253, "lng": -117.69475, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

@@ -1,1 +1,1 @@
-{"lat": 29.715795, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Barataria", "lng": -90.12419, "zip_code": "70036"}
+{"locality": "Barataria", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Barataria"], "postal_code": "70036", "lat": 29.715795, "lng": -90.12419, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]}

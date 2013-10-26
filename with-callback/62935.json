@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.836537, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Galatia", "lng": -88.62298, "zip_code": "62935"});
+zipapicallback({"locality": "Galatia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Galatia", "Harco"], "postal_code": "62935", "lat": 37.836537, "lng": -88.62298, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}, {"fips": "065", "name": "Hamilton"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.192236, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Roan Mountain", "lng": -82.0975, "zip_code": "37687"}
+{"locality": "Roan Mountain", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Roan Mountain"], "postal_code": "37687", "lat": 36.192236, "lng": -82.0975, "type": "STANDARD", "counties": [{"fips": "019", "name": "Carter"}]}

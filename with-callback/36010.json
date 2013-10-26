@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.678393, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Brundidge", "lng": -85.82425, "zip_code": "36010"});
+zipapicallback({"locality": "Brundidge", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Brundidge"], "postal_code": "36010", "lat": 31.678393, "lng": -85.82425, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}, {"fips": "031", "name": "Coffee"}, {"fips": "045", "name": "Dale"}]});

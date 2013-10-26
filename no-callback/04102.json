@@ -1,1 +1,1 @@
-{"lat": 43.658632, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Portland", "lng": -70.2911, "zip_code": "04102"}
+{"locality": "Portland", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Portland"], "postal_code": "04102", "lat": 43.658632, "lng": -70.2911, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

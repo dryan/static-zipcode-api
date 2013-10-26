@@ -1,1 +1,1 @@
-{"lat": 37.381189, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bonnieville", "lng": -85.88175, "zip_code": "42713"}
+{"locality": "Bonnieville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bonnieville"], "postal_code": "42713", "lat": 37.381189, "lng": -85.88175, "type": "STANDARD", "counties": [{"fips": "099", "name": "Hart"}]}

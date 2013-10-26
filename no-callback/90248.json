@@ -1,1 +1,1 @@
-{"lat": 33.870466, "region": {"abbr": "CA", "name": "California"}, "locality": "Gardena", "lng": -118.28813, "zip_code": "90248"}
+{"locality": "Gardena", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Gardena"], "postal_code": "90248", "lat": 33.870466, "lng": -118.28813, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

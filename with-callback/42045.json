@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.031683, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Iuka", "lng": -88.24498, "zip_code": "42045"});
+zipapicallback({"locality": "Grand Rivers", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Grand Rivers", "Iuka"], "postal_code": "42045", "lat": 37.031683, "lng": -88.24498, "type": "STANDARD", "counties": [{"fips": "139", "name": "Livingston"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.808395, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Sophia", "lng": -79.90244, "zip_code": "27350"});
+zipapicallback({"locality": "Sophia", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Sophia"], "postal_code": "27350", "lat": 35.808395, "lng": -79.90244, "type": "STANDARD", "counties": [{"fips": "151", "name": "Randolph"}]});

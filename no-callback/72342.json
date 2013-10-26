@@ -1,1 +1,1 @@
-{"lat": 34.485028, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Helena", "lng": -90.64636, "zip_code": "72342"}
+{"locality": "Helena", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Helena"], "postal_code": "72342", "lat": 34.485028, "lng": -90.64636, "type": "STANDARD", "counties": [{"fips": "107", "name": "Phillips"}]}

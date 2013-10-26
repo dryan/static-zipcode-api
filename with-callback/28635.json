@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.315077, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hays", "lng": -81.13146, "zip_code": "28635"});
+zipapicallback({"locality": "Hays", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hays"], "postal_code": "28635", "lat": 36.315077, "lng": -81.13146, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}]});

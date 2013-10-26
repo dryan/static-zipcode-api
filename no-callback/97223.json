@@ -1,1 +1,1 @@
-{"lat": 45.43884, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Garden Home", "lng": -122.78224, "zip_code": "97223"}
+{"locality": "Portland", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Portland", "Tigard"], "postal_code": "97223", "lat": 45.43884, "lng": -122.78224, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "051", "name": "Multnomah"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.351597, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Eugene", "lng": -92.3956, "zip_code": "65032"});
+zipapicallback({"locality": "Eugene", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Eugene"], "postal_code": "65032", "lat": 38.351597, "lng": -92.3956, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}, {"fips": "131", "name": "Miller"}]});

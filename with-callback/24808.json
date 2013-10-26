@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.338242, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Anawalt", "lng": -81.43081, "zip_code": "24808"});
+zipapicallback({"locality": "Anawalt", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Anawalt", "Leckie"], "postal_code": "24808", "lat": 37.338242, "lng": -81.43081, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]});

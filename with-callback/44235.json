@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.028815, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Homerville", "lng": -82.11496, "zip_code": "44235"});
+zipapicallback({"locality": "Homerville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Homerville"], "postal_code": "44235", "lat": 41.028815, "lng": -82.11496, "type": "STANDARD", "counties": [{"fips": "103", "name": "Medina"}, {"fips": "005", "name": "Ashland"}]});

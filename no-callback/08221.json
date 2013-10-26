@@ -1,1 +1,1 @@
-{"lat": 39.348616, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Linwood", "lng": -74.57387, "zip_code": "08221"}
+{"locality": "Linwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Linwood"], "postal_code": "08221", "lat": 39.348616, "lng": -74.57387, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

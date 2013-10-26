@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.332618, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Winterset", "lng": -94.03802, "zip_code": "50273"});
+zipapicallback({"locality": "Winterset", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Winterset"], "postal_code": "50273", "lat": 41.332618, "lng": -94.03802, "type": "STANDARD", "counties": [{"fips": "121", "name": "Madison"}]});

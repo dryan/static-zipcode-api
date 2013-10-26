@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.799008, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Lowell", "lng": -72.45025, "zip_code": "05847"});
+zipapicallback({"locality": "Lowell", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Lowell"], "postal_code": "05847", "lat": 44.799008, "lng": -72.45025, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]});

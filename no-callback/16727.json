@@ -1,1 +1,1 @@
-{"lat": 41.976763, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Derrick City", "lng": -78.53541, "zip_code": "16727"}
+{"locality": "Derrick City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Derrick City"], "postal_code": "16727", "lat": 41.976763, "lng": -78.53541, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]}

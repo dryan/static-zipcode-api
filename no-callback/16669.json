@@ -1,1 +1,1 @@
-{"lat": 40.627047, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Petersburg", "lng": -77.96449, "zip_code": "16669"}
+{"locality": "Petersburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Petersburg"], "postal_code": "16669", "lat": 40.627047, "lng": -77.96449, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.498791, "region": {"abbr": "NY", "name": "New York"}, "locality": "Collins", "lng": -78.8835, "zip_code": "14034"}
+{"locality": "Collins", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Collins"], "postal_code": "14034", "lat": 42.498791, "lng": -78.8835, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

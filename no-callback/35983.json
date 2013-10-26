@@ -1,1 +1,1 @@
-{"lat": 34.189256, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Leesburg", "lng": -85.76816, "zip_code": "35983"}
+{"locality": "Leesburg", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Leesburg", "Sand Rock", "Sandrock"], "postal_code": "35983", "lat": 34.189256, "lng": -85.76816, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cherokee"}]}

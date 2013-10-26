@@ -1,1 +1,1 @@
-{"lat": 45.92084, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Nelson", "lng": -95.23965, "zip_code": "56355"}
+{"locality": "Nelson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Nelson"], "postal_code": "56355", "lat": 45.92084, "lng": -95.23965, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}]}

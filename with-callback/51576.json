@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.388244, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Underwood", "lng": -95.68777, "zip_code": "51576"});
+zipapicallback({"locality": "Underwood", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Underwood"], "postal_code": "51576", "lat": 41.388244, "lng": -95.68777, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]});

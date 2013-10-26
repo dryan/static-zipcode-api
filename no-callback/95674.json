@@ -1,1 +1,1 @@
-{"lat": 38.961976, "region": {"abbr": "CA", "name": "California"}, "locality": "Rio Oso", "lng": -121.48166, "zip_code": "95674"}
+{"locality": "Rio Oso", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rio Oso"], "postal_code": "95674", "lat": 38.961976, "lng": -121.48166, "type": "STANDARD", "counties": [{"fips": "101", "name": "Sutter"}]}

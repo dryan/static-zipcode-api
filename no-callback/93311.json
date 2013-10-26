@@ -1,1 +1,1 @@
-{"lat": 35.200467, "region": {"abbr": "CA", "name": "California"}, "locality": "Bakersfield", "lng": -119.17399, "zip_code": "93311"}
+{"locality": "Bakersfield", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bakersfield"], "postal_code": "93311", "lat": 35.200467, "lng": -119.17399, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

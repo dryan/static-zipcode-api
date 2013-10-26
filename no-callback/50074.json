@@ -1,1 +1,1 @@
-{"lat": 40.852515, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ellston", "lng": -94.07546, "zip_code": "50074"}
+{"locality": "Ellston", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Beaconsfield", "Ellston"], "postal_code": "50074", "lat": 40.852515, "lng": -94.07546, "type": "STANDARD", "counties": [{"fips": "159", "name": "Ringgold"}]}

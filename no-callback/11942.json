@@ -1,1 +1,1 @@
-{"lat": 40.84867, "region": {"abbr": "NY", "name": "New York"}, "locality": "East Quogue", "lng": -72.57794, "zip_code": "11942"}
+{"locality": "East Quogue", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["East Quogue"], "postal_code": "11942", "lat": 40.84867, "lng": -72.57794, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

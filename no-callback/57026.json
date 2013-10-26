@@ -1,1 +1,1 @@
-{"lat": 44.252315, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Elkton", "lng": -96.5166, "zip_code": "57026"}
+{"locality": "Elkton", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Elkton", "Ward"], "postal_code": "57026", "lat": 44.252315, "lng": -96.5166, "type": "STANDARD", "counties": [{"fips": "011", "name": "Brookings"}, {"fips": "101", "name": "Moody"}]}

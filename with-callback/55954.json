@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.498082, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mabel", "lng": -91.89429, "zip_code": "55954"});
+zipapicallback({"locality": "Mabel", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mabel"], "postal_code": "55954", "lat": 43.498082, "lng": -91.89429, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}, {"fips": "055", "name": "Houston"}]});

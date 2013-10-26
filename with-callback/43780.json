@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.930047, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Senecaville", "lng": -81.44256, "zip_code": "43780"});
+zipapicallback({"locality": "Senecaville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Senecaville"], "postal_code": "43780", "lat": 39.930047, "lng": -81.44256, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "121", "name": "Noble"}]});

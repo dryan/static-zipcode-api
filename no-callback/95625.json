@@ -1,1 +1,1 @@
-{"lat": 38.35011, "region": {"abbr": "CA", "name": "California"}, "locality": "Elmira", "lng": -121.90799, "zip_code": "95625"}
+{"locality": "Elmira", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Elmira"], "postal_code": "95625", "lat": 38.35011, "lng": -121.90799, "type": "POBOX", "counties": [{"fips": "095", "name": "Solano"}]}

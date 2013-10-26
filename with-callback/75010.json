@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.030556, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Carrollton", "lng": -96.89328, "zip_code": "75010"});
+zipapicallback({"locality": "Carrollton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Carrollton"], "postal_code": "75010", "lat": 33.030556, "lng": -96.89328, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]});

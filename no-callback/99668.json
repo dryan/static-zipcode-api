@@ -1,1 +1,1 @@
-{"lat": 61.683931, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Sleetmute", "lng": -157.15202, "zip_code": "99668"}
+{"locality": "Sleetmute", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Sleetmute"], "postal_code": "99668", "lat": 61.683931, "lng": -157.15202, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]}

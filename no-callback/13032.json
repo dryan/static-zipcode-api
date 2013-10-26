@@ -1,1 +1,1 @@
-{"lat": 43.086439, "region": {"abbr": "NY", "name": "New York"}, "locality": "Canastota", "lng": -75.76484, "zip_code": "13032"}
+{"locality": "Canastota", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Canastota", "Perryville"], "postal_code": "13032", "lat": 43.086439, "lng": -75.76484, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}]}

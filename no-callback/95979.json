@@ -1,1 +1,1 @@
-{"lat": 39.331444, "region": {"abbr": "CA", "name": "California"}, "locality": "Stonyford", "lng": -122.47943, "zip_code": "95979"}
+{"locality": "Stonyford", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Stonyford"], "postal_code": "95979", "lat": 39.331444, "lng": -122.47943, "type": "STANDARD", "counties": [{"fips": "011", "name": "Colusa"}]}

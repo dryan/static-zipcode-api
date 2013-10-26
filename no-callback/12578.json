@@ -1,1 +1,1 @@
-{"lat": 41.803384, "region": {"abbr": "NY", "name": "New York"}, "locality": "Salt Point", "lng": -73.78147, "zip_code": "12578"}
+{"locality": "Salt Point", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Salt Point"], "postal_code": "12578", "lat": 41.803384, "lng": -73.78147, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}]}

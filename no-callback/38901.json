@@ -1,1 +1,1 @@
-{"lat": 33.77132, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Grenada", "lng": -89.80301, "zip_code": "38901"}
+{"locality": "Grenada", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Grenada"], "postal_code": "38901", "lat": 33.77132, "lng": -89.80301, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grenada"}, {"fips": "015", "name": "Carroll"}, {"fips": "097", "name": "Montgomery"}, {"fips": "135", "name": "Tallahatchie"}]}

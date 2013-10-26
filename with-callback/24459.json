@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.042173, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Middlebrook", "lng": -79.28175, "zip_code": "24459"});
+zipapicallback({"locality": "Middlebrook", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Middlebrook"], "postal_code": "24459", "lat": 38.042173, "lng": -79.28175, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

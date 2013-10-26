@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.47449, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lynchburg", "lng": -92.2971, "zip_code": "65543"});
+zipapicallback({"locality": "Lynchburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lynchburg"], "postal_code": "65543", "lat": 37.47449, "lng": -92.2971, "type": "STANDARD", "counties": [{"fips": "215", "name": "Texas"}, {"fips": "105", "name": "Laclede"}, {"fips": "229", "name": "Wright"}]});

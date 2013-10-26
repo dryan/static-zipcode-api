@@ -1,1 +1,1 @@
-{"lat": 31.874887, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Coy", "lng": -87.4311, "zip_code": "36435"}
+{"locality": "Coy", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Coy"], "postal_code": "36435", "lat": 31.874887, "lng": -87.4311, "type": "STANDARD", "counties": [{"fips": "131", "name": "Wilcox"}]}

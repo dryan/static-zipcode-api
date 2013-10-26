@@ -1,1 +1,1 @@
-{"lat": 43.952597, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Casco", "lng": -70.51377, "zip_code": "04015"}
+{"locality": "Casco", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Casco"], "postal_code": "04015", "lat": 43.952597, "lng": -70.51377, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]}

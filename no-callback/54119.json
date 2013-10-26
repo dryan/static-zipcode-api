@@ -1,1 +1,1 @@
-{"lat": 45.613142, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Dunbar", "lng": -88.17458, "zip_code": "54119"}
+{"locality": "Dunbar", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dunbar", "Pembine"], "postal_code": "54119", "lat": 45.613142, "lng": -88.17458, "type": "STANDARD", "counties": [{"fips": "075", "name": "Marinette"}]}

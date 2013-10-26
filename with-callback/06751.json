@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.639235, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Bethlehem", "lng": -73.20864, "zip_code": "06751"});
+zipapicallback({"locality": "Bethlehem", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Bethlehem"], "postal_code": "06751", "lat": 41.639235, "lng": -73.20864, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]});

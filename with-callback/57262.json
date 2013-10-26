@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.667565, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Agency Village", "lng": -97.04528, "zip_code": "57262"});
+zipapicallback({"locality": "Sisseton", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Agency Village", "Agency Vlg", "Sisseton"], "postal_code": "57262", "lat": 45.667565, "lng": -97.04528, "type": "STANDARD", "counties": [{"fips": "109", "name": "Roberts"}, {"fips": "037", "name": "Day"}, {"fips": "091", "name": "Marshall"}]});

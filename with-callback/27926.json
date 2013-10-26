@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.519826, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Corapeake", "lng": -76.61637, "zip_code": "27926"});
+zipapicallback({"locality": "Corapeake", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Corapeake"], "postal_code": "27926", "lat": 36.519826, "lng": -76.61637, "type": "STANDARD", "counties": [{"fips": "073", "name": "Gates"}]});

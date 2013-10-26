@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.090479, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Sullivan", "lng": -87.40667, "zip_code": "47882"});
+zipapicallback({"locality": "Sullivan", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Lebanon", "Sullivan"], "postal_code": "47882", "lat": 39.090479, "lng": -87.40667, "type": "STANDARD", "counties": [{"fips": "153", "name": "Sullivan"}]});

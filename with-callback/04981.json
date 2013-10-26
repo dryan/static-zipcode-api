@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.499082, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Stockton Springs", "lng": -68.85667, "zip_code": "04981"});
+zipapicallback({"locality": "Stockton Springs", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Prospect", "Stockton Spgs", "Stockton Springs"], "postal_code": "04981", "lat": 44.499082, "lng": -68.85667, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

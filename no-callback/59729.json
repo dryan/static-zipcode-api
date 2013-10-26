@@ -1,1 +1,1 @@
-{"lat": 45.30767, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ennis", "lng": -111.70176, "zip_code": "59729"}
+{"locality": "Ennis", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ennis"], "postal_code": "59729", "lat": 45.30767, "lng": -111.70176, "type": "STANDARD", "counties": [{"fips": "057", "name": "Madison"}]}

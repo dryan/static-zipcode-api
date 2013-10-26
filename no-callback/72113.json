@@ -1,1 +1,1 @@
-{"lat": 34.854746, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Maumelle", "lng": -92.39981, "zip_code": "72113"}
+{"locality": "Maumelle", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Maumelle", "N Little Rock", "North Little Rock"], "postal_code": "72113", "lat": 34.854746, "lng": -92.39981, "type": "STANDARD", "counties": []}

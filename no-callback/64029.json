@@ -1,1 +1,1 @@
-{"lat": 39.012404, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Grain Valley", "lng": -94.21156, "zip_code": "64029"}
+{"locality": "Grain Valley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Blue Springs", "Grain Valley"], "postal_code": "64029", "lat": 39.012404, "lng": -94.21156, "type": "STANDARD", "counties": [{"fips": "095", "name": "Jackson"}]}

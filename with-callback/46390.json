@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.420078, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Wanatah", "lng": -86.88131, "zip_code": "46390"});
+zipapicallback({"locality": "Wanatah", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Wanatah"], "postal_code": "46390", "lat": 41.420078, "lng": -86.88131, "type": "STANDARD", "counties": [{"fips": "091", "name": "La Porte"}, {"fips": "127", "name": "Porter"}]});

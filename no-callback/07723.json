@@ -1,1 +1,1 @@
-{"lat": 40.250104, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Deal", "lng": -74.00153, "zip_code": "07723"}
+{"locality": "Deal", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Deal"], "postal_code": "07723", "lat": 40.250104, "lng": -74.00153, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

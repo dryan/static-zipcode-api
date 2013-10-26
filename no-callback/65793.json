@@ -1,1 +1,1 @@
-{"lat": 36.996755, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Willow Springs", "lng": -91.95796, "zip_code": "65793"}
+{"locality": "Willow Springs", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Willow Spgs", "Willow Springs"], "postal_code": "65793", "lat": 36.996755, "lng": -91.95796, "type": "STANDARD", "counties": [{"fips": "091", "name": "Howell"}, {"fips": "215", "name": "Texas"}, {"fips": "067", "name": "Douglas"}]}

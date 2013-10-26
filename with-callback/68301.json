@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.472055, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Adams", "lng": -96.52637, "zip_code": "68301"});
+zipapicallback({"locality": "Adams", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Adams"], "postal_code": "68301", "lat": 40.472055, "lng": -96.52637, "type": "STANDARD", "counties": [{"fips": "067", "name": "Gage"}, {"fips": "097", "name": "Johnson"}, {"fips": "109", "name": "Lancaster"}, {"fips": "131", "name": "Otoe"}]});

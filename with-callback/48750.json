@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.447318, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Oscoda", "lng": -83.41927, "zip_code": "48750"});
+zipapicallback({"locality": "Oscoda", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Au Sable", "Oscoda"], "postal_code": "48750", "lat": 44.447318, "lng": -83.41927, "type": "STANDARD", "counties": [{"fips": "069", "name": "Iosco"}, {"fips": "001", "name": "Alcona"}]});

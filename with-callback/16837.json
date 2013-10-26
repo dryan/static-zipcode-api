@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.945702, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Glen Richey", "lng": -78.4745, "zip_code": "16837"});
+zipapicallback({"locality": "Glen Richey", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Glen Richey"], "postal_code": "16837", "lat": 40.945702, "lng": -78.4745, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

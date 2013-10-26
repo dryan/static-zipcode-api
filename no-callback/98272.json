@@ -1,1 +1,1 @@
-{"lat": 47.860245, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Monroe", "lng": -121.93734, "zip_code": "98272"}
+{"locality": "Monroe", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Monroe"], "postal_code": "98272", "lat": 47.860245, "lng": -121.93734, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}]}

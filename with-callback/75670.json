@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.547424, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Marshall", "lng": -94.37958, "zip_code": "75670"});
+zipapicallback({"locality": "Marshall", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Marshall"], "postal_code": "75670", "lat": 32.547424, "lng": -94.37958, "type": "STANDARD", "counties": [{"fips": "203", "name": "Harrison"}]});

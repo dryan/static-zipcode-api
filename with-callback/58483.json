@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.631342, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Streeter", "lng": -99.39898, "zip_code": "58483"});
+zipapicallback({"locality": "Streeter", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Streeter"], "postal_code": "58483", "lat": 46.631342, "lng": -99.39898, "type": "STANDARD", "counties": [{"fips": "093", "name": "Stutsman"}, {"fips": "047", "name": "Logan"}, {"fips": "043", "name": "Kidder"}]});

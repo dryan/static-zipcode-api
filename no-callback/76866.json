@@ -1,1 +1,1 @@
-{"lat": 31.472654, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Paint Rock", "lng": -99.92215, "zip_code": "76866"}
+{"locality": "Paint Rock", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Paint Rock"], "postal_code": "76866", "lat": 31.472654, "lng": -99.92215, "type": "STANDARD", "counties": [{"fips": "095", "name": "Concho"}]}

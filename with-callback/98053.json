@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.640972, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Redmond", "lng": -122.03318, "zip_code": "98053"});
+zipapicallback({"locality": "Redmond", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Redmond"], "postal_code": "98053", "lat": 47.640972, "lng": -122.03318, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}, {"fips": "003", "name": "Asotin"}]});

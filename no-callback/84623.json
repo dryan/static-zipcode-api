@@ -1,1 +1,1 @@
-{"lat": 39.465357, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Chester", "lng": -111.57686, "zip_code": "84623"}
+{"locality": "Chester", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Chester"], "postal_code": "84623", "lat": 39.465357, "lng": -111.57686, "type": "STANDARD", "counties": [{"fips": "039", "name": "Sanpete"}]}

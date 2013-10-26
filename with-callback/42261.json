@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.219254, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Logansport", "lng": -86.67988, "zip_code": "42261"});
+zipapicallback({"locality": "Morgantown", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Brooklyn", "Huntsville", "Logansport", "Morgantown", "Provo", "Welchs Creek"], "postal_code": "42261", "lat": 37.219254, "lng": -86.67988, "type": "STANDARD", "counties": [{"fips": "031", "name": "Butler"}]});

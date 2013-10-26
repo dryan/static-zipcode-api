@@ -1,1 +1,1 @@
-{"lat": 34.745692, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Little Rock", "lng": -92.27987, "zip_code": "72201"}
+{"locality": "Little Rock", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Little Rock"], "postal_code": "72201", "lat": 34.745692, "lng": -92.27987, "type": "STANDARD", "counties": [{"fips": "119", "name": "Pulaski"}]}

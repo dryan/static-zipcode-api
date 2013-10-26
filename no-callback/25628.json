@@ -1,1 +1,1 @@
-{"lat": 37.757905, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kistler", "lng": -81.85517, "zip_code": "25628"}
+{"locality": "Kistler", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kistler"], "postal_code": "25628", "lat": 37.757905, "lng": -81.85517, "type": "POBOX", "counties": [{"fips": "045", "name": "Logan"}]}

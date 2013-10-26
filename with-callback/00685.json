@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.332595, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "San Sebastian", "lng": -66.98104, "zip_code": "00685"});
+zipapicallback({"locality": "San Sebastian", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["San Sebastian"], "postal_code": "00685", "lat": 18.332595, "lng": -66.98104, "type": "STANDARD", "counties": []});

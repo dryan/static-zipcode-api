@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.958377, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Bethesda", "lng": -77.11425, "zip_code": "20816"});
+zipapicallback({"locality": "Bethesda", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Bethesda"], "postal_code": "20816", "lat": 38.958377, "lng": -77.11425, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

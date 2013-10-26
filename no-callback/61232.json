@@ -1,1 +1,1 @@
-{"lat": 41.440852, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Andalusia", "lng": -90.71957, "zip_code": "61232"}
+{"locality": "Andalusia", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Andalusia"], "postal_code": "61232", "lat": 41.440852, "lng": -90.71957, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rock Island"}]}

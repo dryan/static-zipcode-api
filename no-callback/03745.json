@@ -1,1 +1,1 @@
-{"lat": 43.476337, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Cornish", "lng": -72.33337, "zip_code": "03745"}
+{"locality": "Cornish", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Cornish"], "postal_code": "03745", "lat": 43.476337, "lng": -72.33337, "type": "STANDARD", "counties": [{"fips": "019", "name": "Sullivan"}]}

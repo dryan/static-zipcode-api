@@ -1,1 +1,1 @@
-{"lat": 38.186991, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Wetmore", "lng": -105.07615, "zip_code": "81253"}
+{"locality": "Wetmore", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Wetmore"], "postal_code": "81253", "lat": 38.186991, "lng": -105.07615, "type": "STANDARD", "counties": [{"fips": "027", "name": "Custer"}, {"fips": "101", "name": "Pueblo"}, {"fips": "043", "name": "Fremont"}]}

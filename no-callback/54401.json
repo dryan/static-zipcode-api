@@ -1,1 +1,1 @@
-{"lat": 44.958382, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wausau", "lng": -89.6693, "zip_code": "54401"}
+{"locality": "Wausau", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wausau"], "postal_code": "54401", "lat": 44.958382, "lng": -89.6693, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}]}

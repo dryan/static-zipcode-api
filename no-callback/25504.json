@@ -1,1 +1,1 @@
-{"lat": 38.391209, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Barboursville", "lng": -82.28563, "zip_code": "25504"}
+{"locality": "Barboursville", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Barboursville"], "postal_code": "25504", "lat": 38.391209, "lng": -82.28563, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}, {"fips": "099", "name": "Wayne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.79151, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Roseland", "lng": -78.98961, "zip_code": "22967"});
+zipapicallback({"locality": "Roseland", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Lowesville", "Massies Mill", "Roseland", "Wintergreen Resort", "Wintergrn Rst"], "postal_code": "22967", "lat": 37.79151, "lng": -78.98961, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nelson"}]});

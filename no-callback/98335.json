@@ -1,1 +1,1 @@
-{"lat": 47.301252, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Gig Harbor", "lng": -122.60562, "zip_code": "98335"}
+{"locality": "Gig Harbor", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Gig Harbor"], "postal_code": "98335", "lat": 47.301252, "lng": -122.60562, "type": "STANDARD", "counties": [{"fips": "053", "name": "Pierce"}, {"fips": "035", "name": "Kitsap"}]}

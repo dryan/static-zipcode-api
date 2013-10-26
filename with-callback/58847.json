@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.8845, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Keene", "lng": -102.90911, "zip_code": "58847"});
+zipapicallback({"locality": "Keene", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Keene"], "postal_code": "58847", "lat": 47.8845, "lng": -102.90911, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.228278, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Appleton", "lng": -96.00539, "zip_code": "56208"});
+zipapicallback({"locality": "Appleton", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Appleton"], "postal_code": "56208", "lat": 45.228278, "lng": -96.00539, "type": "STANDARD", "counties": [{"fips": "151", "name": "Swift"}, {"fips": "073", "name": "Lac Qui Parle"}, {"fips": "023", "name": "Chippewa"}, {"fips": "011", "name": "Big Stone"}]});

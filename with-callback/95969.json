@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.750422, "region": {"abbr": "CA", "name": "California"}, "locality": "Paradise", "lng": -121.61026, "zip_code": "95969"});
+zipapicallback({"locality": "Paradise", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Paradise"], "postal_code": "95969", "lat": 39.750422, "lng": -121.61026, "type": "STANDARD", "counties": [{"fips": "007", "name": "Butte"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.419666, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Vega Alta", "lng": -66.33186, "zip_code": "00692"});
+zipapicallback({"locality": "Vega Alta", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Vega Alta"], "postal_code": "00692", "lat": 18.419666, "lng": -66.33186, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 42.046139, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mount Morris", "lng": -89.44025, "zip_code": "61054"}
+{"locality": "Mount Morris", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mount Morris"], "postal_code": "61054", "lat": 42.046139, "lng": -89.44025, "type": "STANDARD", "counties": [{"fips": "141", "name": "Ogle"}]}

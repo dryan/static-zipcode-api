@@ -1,1 +1,1 @@
-{"lat": 30.96373, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Du Pont", "lng": -82.86455, "zip_code": "31630"}
+{"locality": "Du Pont", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Du Pont"], "postal_code": "31630", "lat": 30.96373, "lng": -82.86455, "type": "STANDARD", "counties": [{"fips": "065", "name": "Clinch"}, {"fips": "101", "name": "Echols"}]}

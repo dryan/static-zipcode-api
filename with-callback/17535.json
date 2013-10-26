@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.000723, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kinzers", "lng": -76.04649, "zip_code": "17535"});
+zipapicallback({"locality": "Kinzers", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kinzers"], "postal_code": "17535", "lat": 40.000723, "lng": -76.04649, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

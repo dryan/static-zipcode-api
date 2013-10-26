@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.284678, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Roslindale", "lng": -71.13052, "zip_code": "02131"});
+zipapicallback({"locality": "Roslindale", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston", "Roslindale"], "postal_code": "02131", "lat": 42.284678, "lng": -71.13052, "type": "STANDARD", "counties": [{"fips": "025", "name": "Suffolk"}]});

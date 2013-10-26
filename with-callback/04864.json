@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.135936, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Warren", "lng": -69.24907, "zip_code": "04864"});
+zipapicallback({"locality": "Warren", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Warren"], "postal_code": "04864", "lat": 44.135936, "lng": -69.24907, "type": "STANDARD", "counties": [{"fips": "013", "name": "Knox"}]});

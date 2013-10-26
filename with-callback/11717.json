@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.783954, "region": {"abbr": "NY", "name": "New York"}, "locality": "West Brentwood", "lng": -73.24517, "zip_code": "11717"});
+zipapicallback({"locality": "Brentwood", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brentwood", "Edgewood", "W Brentwood", "West Brentwood"], "postal_code": "11717", "lat": 40.783954, "lng": -73.24517, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

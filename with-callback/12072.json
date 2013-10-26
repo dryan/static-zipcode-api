@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.896974, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fultonville", "lng": -74.37495, "zip_code": "12072"});
+zipapicallback({"locality": "Fultonville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fultonville"], "postal_code": "12072", "lat": 42.896974, "lng": -74.37495, "type": "STANDARD", "counties": [{"fips": "057", "name": "Montgomery"}]});

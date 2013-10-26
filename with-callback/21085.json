@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.432273, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Joppa", "lng": -76.35578, "zip_code": "21085"});
+zipapicallback({"locality": "Joppa", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Joppa"], "postal_code": "21085", "lat": 39.432273, "lng": -76.35578, "type": "STANDARD", "counties": [{"fips": "025", "name": "Harford"}]});

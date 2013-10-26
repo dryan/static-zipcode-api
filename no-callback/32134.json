@@ -1,1 +1,1 @@
-{"lat": 29.401523, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Salt Springs", "lng": -81.83636, "zip_code": "32134"}
+{"locality": "Fort Mc Coy", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Mc Coy", "Salt Springs"], "postal_code": "32134", "lat": 29.401523, "lng": -81.83636, "type": "STANDARD", "counties": []}

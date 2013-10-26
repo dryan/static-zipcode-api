@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.852547, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Norfolk", "lng": -76.29028, "zip_code": "23510"});
+zipapicallback({"locality": "Norfolk", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Norfolk"], "postal_code": "23510", "lat": 36.852547, "lng": -76.29028, "type": "STANDARD", "counties": [{"fips": "710", "name": "Norfolk (City)"}, {"fips": "700", "name": "Newport News (City)"}]});

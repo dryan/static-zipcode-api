@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.156758, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Parkers Prairie", "lng": -95.33754, "zip_code": "56361"});
+zipapicallback({"locality": "Parkers Prairie", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Parkers Pr", "Parkers Prairie"], "postal_code": "56361", "lat": 46.156758, "lng": -95.33754, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}, {"fips": "041", "name": "Douglas"}]});

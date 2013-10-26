@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.995238, "region": {"abbr": "CA", "name": "California"}, "locality": "Sonora", "lng": -120.3437, "zip_code": "95370"});
+zipapicallback({"locality": "Sonora", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sonora"], "postal_code": "95370", "lat": 37.995238, "lng": -120.3437, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]});

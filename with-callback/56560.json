@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.861413, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Moorhead", "lng": -96.75367, "zip_code": "56560"});
+zipapicallback({"locality": "Moorhead", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Moorhead"], "postal_code": "56560", "lat": 46.861413, "lng": -96.75367, "type": "STANDARD", "counties": [{"fips": "027", "name": "Clay"}, {"fips": "021", "name": "Cass"}, {"fips": "167", "name": "Wilkin"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.33458, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sarasota", "lng": -82.40894, "zip_code": "34240"});
+zipapicallback({"locality": "Sarasota", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lakewood Rch", "Sarasota"], "postal_code": "34240", "lat": 27.33458, "lng": -82.40894, "type": "STANDARD", "counties": [{"fips": "115", "name": "Sarasota"}, {"fips": "081", "name": "Manatee"}]});

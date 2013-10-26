@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.095437, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Swiftwater", "lng": -75.3191, "zip_code": "18370"});
+zipapicallback({"locality": "Swiftwater", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Swiftwater"], "postal_code": "18370", "lat": 41.095437, "lng": -75.3191, "type": "STANDARD", "counties": [{"fips": "089", "name": "Monroe"}]});

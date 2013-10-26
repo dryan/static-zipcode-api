@@ -1,1 +1,1 @@
-{"lat": 38.894711, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Vienna", "lng": -77.25337, "zip_code": "22180"}
+{"locality": "Vienna", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Vienna"], "postal_code": "22180", "lat": 38.894711, "lng": -77.25337, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}]}

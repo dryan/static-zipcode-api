@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.417028, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Sidon", "lng": -90.21318, "zip_code": "38954"});
+zipapicallback({"locality": "Sidon", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Sidon"], "postal_code": "38954", "lat": 33.417028, "lng": -90.21318, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}]});

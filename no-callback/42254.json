@@ -1,1 +1,1 @@
-{"lat": 36.657405, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "La Fayette", "lng": -87.65633, "zip_code": "42254"}
+{"locality": "La Fayette", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["La Fayette"], "postal_code": "42254", "lat": 36.657405, "lng": -87.65633, "type": "STANDARD", "counties": [{"fips": "047", "name": "Christian"}]}

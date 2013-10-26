@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.039394, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Lodi", "lng": -82.0137, "zip_code": "44254"});
+zipapicallback({"locality": "Lodi", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Lodi"], "postal_code": "44254", "lat": 41.039394, "lng": -82.0137, "type": "STANDARD", "counties": [{"fips": "103", "name": "Medina"}]});

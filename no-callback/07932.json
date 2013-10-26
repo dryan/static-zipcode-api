@@ -1,1 +1,1 @@
-{"lat": 40.77835, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Florham Park", "lng": -74.39009, "zip_code": "07932"}
+{"locality": "Florham Park", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Florham Park"], "postal_code": "07932", "lat": 40.77835, "lng": -74.39009, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}]}

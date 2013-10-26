@@ -1,1 +1,1 @@
-{"lat": 35.159237, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Stantonville", "lng": -88.41878, "zip_code": "38379"}
+{"locality": "Stantonville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Stantonville"], "postal_code": "38379", "lat": 35.159237, "lng": -88.41878, "type": "STANDARD", "counties": [{"fips": "109", "name": "McNairy"}]}

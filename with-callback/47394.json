@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.173141, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Winchester", "lng": -84.97922, "zip_code": "47394"});
+zipapicallback({"locality": "Winchester", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Winchester"], "postal_code": "47394", "lat": 40.173141, "lng": -84.97922, "type": "STANDARD", "counties": [{"fips": "135", "name": "Randolph"}]});

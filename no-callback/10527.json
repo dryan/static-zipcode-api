@@ -1,1 +1,1 @@
-{"lat": 41.319026, "region": {"abbr": "NY", "name": "New York"}, "locality": "Granite Springs", "lng": -73.7576, "zip_code": "10527"}
+{"locality": "Granite Springs", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Granite Spgs", "Granite Springs"], "postal_code": "10527", "lat": 41.319026, "lng": -73.7576, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

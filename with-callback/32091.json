@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.937512, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Starke", "lng": -82.11706, "zip_code": "32091"});
+zipapicallback({"locality": "Starke", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Kingsley Lake", "Kngsly Lk", "Starke"], "postal_code": "32091", "lat": 29.937512, "lng": -82.11706, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clay"}, {"fips": "127", "name": "Volusia"}, {"fips": "007", "name": "Bradford"}]});

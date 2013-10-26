@@ -1,1 +1,1 @@
-{"lat": 41.243419, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mazon", "lng": -88.40325, "zip_code": "60444"}
+{"locality": "Mazon", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Mazon"], "postal_code": "60444", "lat": 41.243419, "lng": -88.40325, "type": "STANDARD", "counties": [{"fips": "063", "name": "Grundy"}]}

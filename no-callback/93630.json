@@ -1,1 +1,1 @@
-{"lat": 36.722616, "region": {"abbr": "CA", "name": "California"}, "locality": "Kerman", "lng": -120.10081, "zip_code": "93630"}
+{"locality": "Kerman", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kerman"], "postal_code": "93630", "lat": 36.722616, "lng": -120.10081, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

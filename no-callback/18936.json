@@ -1,1 +1,1 @@
-{"lat": 40.223216, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Montgomeryville", "lng": -75.22829, "zip_code": "18936"}
+{"locality": "Montgomeryville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Montgomeryville", "Montgomeryvle"], "postal_code": "18936", "lat": 40.223216, "lng": -75.22829, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]}

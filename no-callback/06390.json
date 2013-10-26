@@ -1,1 +1,1 @@
-{"lat": 41.261936, "region": {"abbr": "NY", "name": "New York"}, "locality": "Fishers Island", "lng": -72.00708, "zip_code": "06390"}
+{"locality": "Fishers Island", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Fishers Island", "Fishers Isle"], "postal_code": "06390", "lat": 41.261936, "lng": -72.00708, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]}

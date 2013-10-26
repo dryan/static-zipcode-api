@@ -1,1 +1,1 @@
-{"lat": 38.200193, "region": {"abbr": "CA", "name": "California"}, "locality": "Acampo", "lng": -121.23505, "zip_code": "95220"}
+{"locality": "Acampo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Acampo"], "postal_code": "95220", "lat": 38.200193, "lng": -121.23505, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

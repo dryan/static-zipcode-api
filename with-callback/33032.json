@@ -1,1 +1,1 @@
-zipapicallback({"lat": 25.524528, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Princeton", "lng": -80.40521, "zip_code": "33032"});
+zipapicallback({"locality": "Homestead", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Homestead", "Naranja", "Princeton", "Redland"], "postal_code": "33032", "lat": 25.524528, "lng": -80.40521, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]});

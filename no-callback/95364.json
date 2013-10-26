@@ -1,1 +1,1 @@
-{"lat": 38.275328, "region": {"abbr": "CA", "name": "California"}, "locality": "Pinecrest", "lng": -119.89619, "zip_code": "95364"}
+{"locality": "Pinecrest", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Dardanelle", "Pinecrest"], "postal_code": "95364", "lat": 38.275328, "lng": -119.89619, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tuolumne"}]}

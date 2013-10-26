@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.697056, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Benton", "lng": -93.6991, "zip_code": "71006"});
+zipapicallback({"locality": "Benton", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Benton"], "postal_code": "71006", "lat": 32.697056, "lng": -93.6991, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bossier"}]});

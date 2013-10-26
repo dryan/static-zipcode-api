@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.226357, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Fort Morgan", "lng": -103.80625, "zip_code": "80701"});
+zipapicallback({"locality": "Fort Morgan", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Fort Morgan"], "postal_code": "80701", "lat": 40.226357, "lng": -103.80625, "type": "STANDARD", "counties": [{"fips": "087", "name": "Morgan"}]});

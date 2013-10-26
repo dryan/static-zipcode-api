@@ -1,1 +1,1 @@
-{"lat": 32.387648, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tolar", "lng": -97.93959, "zip_code": "76476"}
+{"locality": "Tolar", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tolar"], "postal_code": "76476", "lat": 32.387648, "lng": -97.93959, "type": "STANDARD", "counties": [{"fips": "221", "name": "Hood"}]}

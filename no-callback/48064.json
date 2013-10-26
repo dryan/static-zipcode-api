@@ -1,1 +1,1 @@
-{"lat": 42.773535, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Casco", "lng": -82.67684, "zip_code": "48064"}
+{"locality": "Casco", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Casco"], "postal_code": "48064", "lat": 42.773535, "lng": -82.67684, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}, {"fips": "099", "name": "MacOmb"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.073078, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Sabana Grande", "lng": -66.94864, "zip_code": "00637"});
+zipapicallback({"locality": "Sabana Grande", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Sabana Grande"], "postal_code": "00637", "lat": 18.073078, "lng": -66.94864, "type": "STANDARD", "counties": []});

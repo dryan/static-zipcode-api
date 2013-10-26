@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.060539, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Hudson", "lng": -104.62943, "zip_code": "80642"});
+zipapicallback({"locality": "Hudson", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Hudson"], "postal_code": "80642", "lat": 40.060539, "lng": -104.62943, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}, {"fips": "001", "name": "Adams"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.023296, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ayrshire", "lng": -94.85188, "zip_code": "50515"});
+zipapicallback({"locality": "Ayrshire", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ayrshire"], "postal_code": "50515", "lat": 43.023296, "lng": -94.85188, "type": "STANDARD", "counties": [{"fips": "147", "name": "Palo Alto"}]});

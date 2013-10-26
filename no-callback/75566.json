@@ -1,1 +1,1 @@
-{"lat": 33.157897, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Marietta", "lng": -94.50853, "zip_code": "75566"}
+{"locality": "Marietta", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Marietta"], "postal_code": "75566", "lat": 33.157897, "lng": -94.50853, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cass"}]}

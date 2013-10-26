@@ -1,1 +1,1 @@
-{"lat": 36.606892, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tecumseh", "lng": -92.26753, "zip_code": "65760"}
+{"locality": "Tecumseh", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Sycamore", "Tecumseh"], "postal_code": "65760", "lat": 36.606892, "lng": -92.26753, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]}

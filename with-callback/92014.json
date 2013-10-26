@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.961812, "region": {"abbr": "CA", "name": "California"}, "locality": "Del Mar", "lng": -117.25967, "zip_code": "92014"});
+zipapicallback({"locality": "Del Mar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Del Mar"], "postal_code": "92014", "lat": 32.961812, "lng": -117.25967, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]});

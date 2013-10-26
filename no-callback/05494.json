@@ -1,1 +1,1 @@
-{"lat": 44.608283, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Westford", "lng": -73.00979, "zip_code": "05494"}
+{"locality": "Westford", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Westford"], "postal_code": "05494", "lat": 44.608283, "lng": -73.00979, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.580455, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Jacksonville", "lng": -92.41023, "zip_code": "65260"});
+zipapicallback({"locality": "Jacksonville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Jacksonville"], "postal_code": "65260", "lat": 39.580455, "lng": -92.41023, "type": "STANDARD", "counties": [{"fips": "175", "name": "Randolph"}, {"fips": "137", "name": "Monroe"}, {"fips": "121", "name": "MacOn"}]});

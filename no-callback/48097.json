@@ -1,1 +1,1 @@
-{"lat": 43.131709, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Brockway", "lng": -82.81411, "zip_code": "48097"}
+{"locality": "Yale", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Brockway", "Lynn", "Yale"], "postal_code": "48097", "lat": 43.131709, "lng": -82.81411, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}, {"fips": "151", "name": "Sanilac"}]}

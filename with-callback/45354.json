@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.904603, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Phillipsburg", "lng": -84.40163, "zip_code": "45354"});
+zipapicallback({"locality": "Phillipsburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Phillipsburg"], "postal_code": "45354", "lat": 39.904603, "lng": -84.40163, "type": "POBOX", "counties": [{"fips": "113", "name": "Montgomery"}]});

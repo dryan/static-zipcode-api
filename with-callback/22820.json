@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.725738, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Criders", "lng": -79.01957, "zip_code": "22820"});
+zipapicallback({"locality": "Criders", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Criders"], "postal_code": "22820", "lat": 38.725738, "lng": -79.01957, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rockingham"}]});

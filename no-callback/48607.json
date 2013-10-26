@@ -1,1 +1,1 @@
-{"lat": 43.431375, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saginaw", "lng": -83.93267, "zip_code": "48607"}
+{"locality": "Saginaw", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saginaw"], "postal_code": "48607", "lat": 43.431375, "lng": -83.93267, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}]}

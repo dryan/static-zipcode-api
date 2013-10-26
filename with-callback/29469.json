@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.252941, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pinopolis", "lng": -80.08297, "zip_code": "29469"});
+zipapicallback({"locality": "Pinopolis", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pinopolis"], "postal_code": "29469", "lat": 33.252941, "lng": -80.08297, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]});

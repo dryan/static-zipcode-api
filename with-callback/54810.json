@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.455304, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Balsam Lake", "lng": -92.40153, "zip_code": "54810"});
+zipapicallback({"locality": "Balsam Lake", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Balsam Lake"], "postal_code": "54810", "lat": 45.455304, "lng": -92.40153, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}]});

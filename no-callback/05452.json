@@ -1,1 +1,1 @@
-{"lat": 44.501991, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Essex Junction", "lng": -73.09376, "zip_code": "05452"}
+{"locality": "Essex Junction", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Essex Jct", "Essex Junction"], "postal_code": "05452", "lat": 44.501991, "lng": -73.09376, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.1154, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Bainville", "lng": -104.19036, "zip_code": "59212"});
+zipapicallback({"locality": "Bainville", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Bainville"], "postal_code": "59212", "lat": 48.1154, "lng": -104.19036, "type": "STANDARD", "counties": [{"fips": "085", "name": "Roosevelt"}]});

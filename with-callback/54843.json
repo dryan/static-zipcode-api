@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.005082, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "North Woods Beac", "lng": -91.35255, "zip_code": "54843"});
+zipapicallback({"locality": "Hayward", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hayward", "N Woods Beach", "North Woods Beach"], "postal_code": "54843", "lat": 46.005082, "lng": -91.35255, "type": "STANDARD", "counties": [{"fips": "113", "name": "Sawyer"}, {"fips": "129", "name": "Washburn"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.855872, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Lincoln", "lng": -75.39889, "zip_code": "19960"});
+zipapicallback({"locality": "Lincoln", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Lincoln"], "postal_code": "19960", "lat": 38.855872, "lng": -75.39889, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]});

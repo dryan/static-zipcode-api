@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.272368, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mazeppa", "lng": -92.53501, "zip_code": "55956"});
+zipapicallback({"locality": "Mazeppa", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mazeppa"], "postal_code": "55956", "lat": 44.272368, "lng": -92.53501, "type": "STANDARD", "counties": [{"fips": "157", "name": "Wabasha"}, {"fips": "109", "name": "Olmsted"}, {"fips": "049", "name": "Goodhue"}]});

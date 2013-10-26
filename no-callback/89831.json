@@ -1,1 +1,1 @@
-{"lat": 41.796309, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Mountain City", "lng": -116.05489, "zip_code": "89831"}
+{"locality": "Mountain City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Mountain City"], "postal_code": "89831", "lat": 41.796309, "lng": -116.05489, "type": "STANDARD", "counties": [{"fips": "007", "name": "Elko"}]}

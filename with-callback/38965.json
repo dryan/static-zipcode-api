@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.148775, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Water Valley", "lng": -89.62882, "zip_code": "38965"});
+zipapicallback({"locality": "Water Valley", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Water Valley"], "postal_code": "38965", "lat": 34.148775, "lng": -89.62882, "type": "STANDARD", "counties": [{"fips": "161", "name": "Yalobusha"}, {"fips": "071", "name": "Lafayette"}, {"fips": "013", "name": "Calhoun"}, {"fips": "107", "name": "Panola"}]});

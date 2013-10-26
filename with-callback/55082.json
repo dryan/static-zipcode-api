@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.054551, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Oak Park Heights", "lng": -92.82581, "zip_code": "55082"});
+zipapicallback({"locality": "Stillwater", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Oak Park Heights", "Oak Park Hgts", "Oak Park Hts", "Stillwater", "W Lakeland", "West Lakeland"], "postal_code": "55082", "lat": 45.054551, "lng": -92.82581, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]});

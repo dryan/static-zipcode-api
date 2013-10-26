@@ -1,1 +1,1 @@
-{"lat": 38.864669, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Mosby", "lng": -77.18781, "zip_code": "22042"}
+{"locality": "Falls Church", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Falls Church", "Mosby"], "postal_code": "22042", "lat": 38.864669, "lng": -77.18781, "type": "STANDARD", "counties": [{"fips": "059", "name": "Fairfax"}, {"fips": "610", "name": "Falls Church (City)"}]}

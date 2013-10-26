@@ -1,1 +1,1 @@
-{"lat": 42.944838, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Lowell", "lng": -85.34928, "zip_code": "49331"}
+{"locality": "Lowell", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lowell"], "postal_code": "49331", "lat": 42.944838, "lng": -85.34928, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}, {"fips": "067", "name": "Ionia"}]}

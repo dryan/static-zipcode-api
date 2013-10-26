@@ -1,1 +1,1 @@
-{"lat": 39.578473, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Price", "lng": -110.78678, "zip_code": "84501"}
+{"locality": "Price", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Price"], "postal_code": "84501", "lat": 39.578473, "lng": -110.78678, "type": "STANDARD", "counties": [{"fips": "007", "name": "Carbon"}]}

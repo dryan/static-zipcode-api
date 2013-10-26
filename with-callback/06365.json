@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.509586, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Preston", "lng": -71.96621, "zip_code": "06365"});
+zipapicallback({"locality": "Preston", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Norwich", "Preston"], "postal_code": "06365", "lat": 41.509586, "lng": -71.96621, "type": "STANDARD", "counties": []});

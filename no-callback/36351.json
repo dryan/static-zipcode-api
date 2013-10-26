@@ -1,1 +1,1 @@
-{"lat": 31.406536, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "New Brockton", "lng": -85.9175, "zip_code": "36351"}
+{"locality": "New Brockton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["New Brockton"], "postal_code": "36351", "lat": 31.406536, "lng": -85.9175, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.752098, "region": {"abbr": "NY", "name": "New York"}, "locality": "Wheatley Heights", "lng": -73.36516, "zip_code": "11798"});
+zipapicallback({"locality": "Wyandanch", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Wheatley Heights", "Wheatley Hts", "Wyandanch"], "postal_code": "11798", "lat": 40.752098, "lng": -73.36516, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

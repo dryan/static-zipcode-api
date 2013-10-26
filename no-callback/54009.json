@@ -1,1 +1,1 @@
-{"lat": 45.351585, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Dresser", "lng": -92.60246, "zip_code": "54009"}
+{"locality": "Dresser", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dresser"], "postal_code": "54009", "lat": 45.351585, "lng": -92.60246, "type": "STANDARD", "counties": [{"fips": "095", "name": "Polk"}]}

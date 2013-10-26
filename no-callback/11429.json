@@ -1,1 +1,1 @@
-{"lat": 40.708833, "region": {"abbr": "NY", "name": "New York"}, "locality": "Queens Village", "lng": -73.73903, "zip_code": "11429"}
+{"locality": "Queens Village", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jamaica", "Queens Village", "Queens Vlg"], "postal_code": "11429", "lat": 40.708833, "lng": -73.73903, "type": "STANDARD", "counties": [{"fips": "081", "name": "Queens"}]}

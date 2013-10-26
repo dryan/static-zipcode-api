@@ -1,1 +1,1 @@
-{"lat": 41.058819, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ramsey", "lng": -74.14238, "zip_code": "07446"}
+{"locality": "Ramsey", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ramsey"], "postal_code": "07446", "lat": 41.058819, "lng": -74.14238, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]}

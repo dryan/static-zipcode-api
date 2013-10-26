@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.422525, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "La Madera", "lng": -106.06145, "zip_code": "87539"});
+zipapicallback({"locality": "La Madera", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["La Madera"], "postal_code": "87539", "lat": 36.422525, "lng": -106.06145, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]});

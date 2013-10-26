@@ -1,1 +1,1 @@
-{"lat": 40.140248, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Rostraver", "lng": -79.84251, "zip_code": "15012"}
+{"locality": "Belle Vernon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Belle Vernon", "Belle Vrn Br", "N Bell Vernon", "N Belle Vernon", "N Belle Vrn", "North Belle Vernon"], "postal_code": "15012", "lat": 40.140248, "lng": -79.84251, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}, {"fips": "125", "name": "Washington"}, {"fips": "129", "name": "Westmoreland"}]}

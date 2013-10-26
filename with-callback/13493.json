@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.421597, "region": {"abbr": "NY", "name": "New York"}, "locality": "Williamstown", "lng": -75.90529, "zip_code": "13493"});
+zipapicallback({"locality": "Williamstown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Williamstown"], "postal_code": "13493", "lat": 43.421597, "lng": -75.90529, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}, {"fips": "065", "name": "Oneida"}]});

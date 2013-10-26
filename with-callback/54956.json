@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.180085, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Neenah", "lng": -88.48273, "zip_code": "54956"});
+zipapicallback({"locality": "Neenah", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Neenah"], "postal_code": "54956", "lat": 44.180085, "lng": -88.48273, "type": "STANDARD", "counties": [{"fips": "139", "name": "Winnebago"}, {"fips": "087", "name": "Outagamie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.968513, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Smyrna", "lng": -86.52231, "zip_code": "37167"});
+zipapicallback({"locality": "Smyrna", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Smyrna"], "postal_code": "37167", "lat": 35.968513, "lng": -86.52231, "type": "STANDARD", "counties": [{"fips": "149", "name": "Rutherford"}]});

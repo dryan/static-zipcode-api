@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.440908, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Gorum", "lng": -92.94724, "zip_code": "71434"});
+zipapicallback({"locality": "Gorum", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Gorum"], "postal_code": "71434", "lat": 31.440908, "lng": -92.94724, "type": "POBOX", "counties": [{"fips": "069", "name": "Natchitoches"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.405768, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Pitcairn", "lng": -79.77643, "zip_code": "15140"});
+zipapicallback({"locality": "Pitcairn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Monroeville", "Pitcairn"], "postal_code": "15140", "lat": 40.405768, "lng": -79.77643, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

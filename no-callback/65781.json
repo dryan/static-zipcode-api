@@ -1,1 +1,1 @@
-{"lat": 37.340995, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Willard", "lng": -93.4179, "zip_code": "65781"}
+{"locality": "Willard", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Willard"], "postal_code": "65781", "lat": 37.340995, "lng": -93.4179, "type": "STANDARD", "counties": [{"fips": "077", "name": "Greene"}, {"fips": "167", "name": "Polk"}]}

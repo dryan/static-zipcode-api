@@ -1,1 +1,1 @@
-{"lat": 40.865731, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cold Spring Harb", "lng": -73.44645, "zip_code": "11724"}
+{"locality": "Cold Spring Harbor", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cold Spg Hbr", "Cold Spring Harbor"], "postal_code": "11724", "lat": 40.865731, "lng": -73.44645, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

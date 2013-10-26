@@ -1,1 +1,1 @@
-{"lat": 30.070414, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mountain Home", "lng": -99.69191, "zip_code": "78058"}
+{"locality": "Mountain Home", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mountain Home"], "postal_code": "78058", "lat": 30.070414, "lng": -99.69191, "type": "STANDARD", "counties": [{"fips": "265", "name": "Kerr"}]}

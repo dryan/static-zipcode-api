@@ -1,1 +1,1 @@
-{"lat": 42.938891, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Metamora", "lng": -83.29409, "zip_code": "48455"}
+{"locality": "Metamora", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Metamora"], "postal_code": "48455", "lat": 42.938891, "lng": -83.29409, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lapeer"}]}

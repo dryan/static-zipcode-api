@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.051603, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Panther Creek", "lng": -90.14057, "zip_code": "62627"});
+zipapicallback({"locality": "Chandlerville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chandlerville", "Panther Creek"], "postal_code": "62627", "lat": 40.051603, "lng": -90.14057, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "125", "name": "MacOn"}]});

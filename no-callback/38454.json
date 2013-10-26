@@ -1,1 +1,1 @@
-{"lat": 35.727189, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Duck River", "lng": -87.31927, "zip_code": "38454"}
+{"locality": "Duck River", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Duck River"], "postal_code": "38454", "lat": 35.727189, "lng": -87.31927, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hickman"}]}

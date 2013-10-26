@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.062818, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Cogdell", "lng": -82.72399, "zip_code": "31634"});
+zipapicallback({"locality": "Homerville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cogdell", "Homerville"], "postal_code": "31634", "lat": 31.062818, "lng": -82.72399, "type": "STANDARD", "counties": [{"fips": "065", "name": "Clinch"}]});

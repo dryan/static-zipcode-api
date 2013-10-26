@@ -1,1 +1,1 @@
-{"lat": 31.868699, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Fort Stewart", "lng": -81.61083, "zip_code": "31314"}
+{"locality": "Fort Stewart", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Fort Stewart"], "postal_code": "31314", "lat": 31.868699, "lng": -81.61083, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bryan"}]}

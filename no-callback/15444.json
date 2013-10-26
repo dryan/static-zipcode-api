@@ -1,1 +1,1 @@
-{"lat": 40.011146, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hiller", "lng": -79.90541, "zip_code": "15444"}
+{"locality": "Hiller", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hiller"], "postal_code": "15444", "lat": 40.011146, "lng": -79.90541, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

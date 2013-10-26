@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.923952, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Saint Ignace", "lng": -84.7255, "zip_code": "49781"});
+zipapicallback({"locality": "Saint Ignace", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Saint Ignace"], "postal_code": "49781", "lat": 45.923952, "lng": -84.7255, "type": "STANDARD", "counties": [{"fips": "097", "name": "MacKinac"}]});

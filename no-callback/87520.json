@@ -1,1 +1,1 @@
-{"lat": 36.874229, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Chama", "lng": -106.55118, "zip_code": "87520"}
+{"locality": "Chama", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Chama"], "postal_code": "87520", "lat": 36.874229, "lng": -106.55118, "type": "STANDARD", "counties": [{"fips": "039", "name": "Rio Arriba"}]}

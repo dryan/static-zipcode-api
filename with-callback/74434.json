@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.799294, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Fort Gibson", "lng": -95.23355, "zip_code": "74434"});
+zipapicallback({"locality": "Fort Gibson", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Fort Gibson"], "postal_code": "74434", "lat": 35.799294, "lng": -95.23355, "type": "STANDARD", "counties": [{"fips": "101", "name": "Muskogee"}, {"fips": "021", "name": "Cherokee"}, {"fips": "145", "name": "Wagoner"}]});

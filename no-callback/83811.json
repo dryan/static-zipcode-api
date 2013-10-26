@@ -1,1 +1,1 @@
-{"lat": 48.119781, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Clark Fork", "lng": -116.15905, "zip_code": "83811"}
+{"locality": "Clark Fork", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Clark Fork"], "postal_code": "83811", "lat": 48.119781, "lng": -116.15905, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bonner"}]}

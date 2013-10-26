@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.025946, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Mc Adams", "lng": -89.68374, "zip_code": "39107"});
+zipapicallback({"locality": "Mc Adams", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mc Adams"], "postal_code": "39107", "lat": 33.025946, "lng": -89.68374, "type": "POBOX", "counties": [{"fips": "007", "name": "Attala"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.240766, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Prosper", "lng": -96.79944, "zip_code": "75078"});
+zipapicallback({"locality": "Prosper", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Prosper"], "postal_code": "75078", "lat": 33.240766, "lng": -96.79944, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}]});

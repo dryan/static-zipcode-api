@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.316121, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Woodstock", "lng": -88.43884, "zip_code": "60098"});
+zipapicallback({"locality": "Woodstock", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bull Valley", "Woodstock"], "postal_code": "60098", "lat": 42.316121, "lng": -88.43884, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}]});

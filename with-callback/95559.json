@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.196116, "region": {"abbr": "CA", "name": "California"}, "locality": "Phillipsville", "lng": -123.77315, "zip_code": "95559"});
+zipapicallback({"locality": "Phillipsville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Phillipsville"], "postal_code": "95559", "lat": 40.196116, "lng": -123.77315, "type": "POBOX", "counties": [{"fips": "023", "name": "Humboldt"}]});

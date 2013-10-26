@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.45792, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Goshen", "lng": -72.81551, "zip_code": "01032"});
+zipapicallback({"locality": "Goshen", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Goshen"], "postal_code": "01032", "lat": 42.45792, "lng": -72.81551, "type": "STANDARD", "counties": [{"fips": "015", "name": "Hampshire"}]});

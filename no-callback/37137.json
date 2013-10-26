@@ -1,1 +1,1 @@
-{"lat": 35.88662, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Nunnelly", "lng": -87.50471, "zip_code": "37137"}
+{"locality": "Nunnelly", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Nunnelly"], "postal_code": "37137", "lat": 35.88662, "lng": -87.50471, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hickman"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.168508, "region": {"abbr": "NY", "name": "New York"}, "locality": "Salamanca", "lng": -78.7297, "zip_code": "14779"}
+{"locality": "Salamanca", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Salamanca"], "postal_code": "14779", "lat": 42.168508, "lng": -78.7297, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}]}

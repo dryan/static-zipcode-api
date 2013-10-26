@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.493457, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Axtell", "lng": -99.11348, "zip_code": "68924"});
+zipapicallback({"locality": "Axtell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Axtell"], "postal_code": "68924", "lat": 40.493457, "lng": -99.11348, "type": "STANDARD", "counties": [{"fips": "099", "name": "Kearney"}, {"fips": "137", "name": "Phelps"}]});

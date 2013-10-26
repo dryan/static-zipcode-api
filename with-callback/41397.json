@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.643659, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Zoe", "lng": -83.67763, "zip_code": "41397"});
+zipapicallback({"locality": "Zoe", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Zoe"], "postal_code": "41397", "lat": 37.643659, "lng": -83.67763, "type": "STANDARD", "counties": [{"fips": "129", "name": "Lee"}]});

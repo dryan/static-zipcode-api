@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.200711, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Bishop Hill", "lng": -90.11832, "zip_code": "61419"});
+zipapicallback({"locality": "Bishop Hill", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bishop Hill"], "postal_code": "61419", "lat": 41.200711, "lng": -90.11832, "type": "POBOX", "counties": [{"fips": "073", "name": "Henry"}]});

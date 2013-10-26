@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.519997, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Deckerville", "lng": -82.71234, "zip_code": "48427"});
+zipapicallback({"locality": "Deckerville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Deckerville"], "postal_code": "48427", "lat": 43.519997, "lng": -82.71234, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}]});

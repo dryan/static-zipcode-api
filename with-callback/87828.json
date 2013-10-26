@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.201613, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Polvadera", "lng": -106.92146, "zip_code": "87828"});
+zipapicallback({"locality": "Polvadera", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Polvadera"], "postal_code": "87828", "lat": 34.201613, "lng": -106.92146, "type": "STANDARD", "counties": [{"fips": "053", "name": "Socorro"}]});

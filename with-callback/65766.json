@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.545211, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Udall", "lng": -92.25803, "zip_code": "65766"});
+zipapicallback({"locality": "Udall", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Udall"], "postal_code": "65766", "lat": 36.545211, "lng": -92.25803, "type": "STANDARD", "counties": [{"fips": "153", "name": "Ozark"}]});

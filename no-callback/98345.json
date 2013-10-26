@@ -1,1 +1,1 @@
-{"lat": 47.702342, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Keyport", "lng": -122.62554, "zip_code": "98345"}
+{"locality": "Keyport", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Keyport"], "postal_code": "98345", "lat": 47.702342, "lng": -122.62554, "type": "POBOX", "counties": [{"fips": "035", "name": "Kitsap"}, {"fips": "053", "name": "Pierce"}]}

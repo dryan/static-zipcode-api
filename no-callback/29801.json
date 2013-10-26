@@ -1,1 +1,1 @@
-{"lat": 33.569885, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Aiken", "lng": -81.71368, "zip_code": "29801"}
+{"locality": "Aiken", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Aiken"], "postal_code": "29801", "lat": 33.569885, "lng": -81.71368, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aiken"}]}

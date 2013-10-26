@@ -1,1 +1,1 @@
-{"lat": 29.520049, "region": {"abbr": "TX", "name": "Texas"}, "locality": "East Bernard", "lng": -96.08527, "zip_code": "77435"}
+{"locality": "East Bernard", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["East Bernard"], "postal_code": "77435", "lat": 29.520049, "lng": -96.08527, "type": "STANDARD", "counties": [{"fips": "481", "name": "Wharton"}, {"fips": "157", "name": "Fort Bend"}]}

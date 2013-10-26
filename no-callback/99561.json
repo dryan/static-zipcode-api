@@ -1,1 +1,1 @@
-{"lat": 60.143735, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Chefornak", "lng": -164.25283, "zip_code": "99561"}
+{"locality": "Chefornak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Chefornak"], "postal_code": "99561", "lat": 60.143735, "lng": -164.25283, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]}

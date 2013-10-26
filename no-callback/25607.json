@@ -1,1 +1,1 @@
-{"lat": 37.788146, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Robinette", "lng": -81.80248, "zip_code": "25607"}
+{"locality": "Amherstdale", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Amherstdale", "Robinette"], "postal_code": "25607", "lat": 37.788146, "lng": -81.80248, "type": "STANDARD", "counties": [{"fips": "045", "name": "Logan"}]}

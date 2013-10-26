@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.55965, "region": {"abbr": "CA", "name": "California"}, "locality": "George Afb", "lng": -117.35773, "zip_code": "92394"});
+zipapicallback({"locality": "Victorville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["George Afb", "Victorville"], "postal_code": "92394", "lat": 34.55965, "lng": -117.35773, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

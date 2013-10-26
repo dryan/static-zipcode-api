@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.068368, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Polk", "lng": -97.78036, "zip_code": "68654"});
+zipapicallback({"locality": "Polk", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Polk"], "postal_code": "68654", "lat": 41.068368, "lng": -97.78036, "type": "STANDARD", "counties": [{"fips": "185", "name": "York"}, {"fips": "081", "name": "Hamilton"}, {"fips": "143", "name": "Polk"}]});

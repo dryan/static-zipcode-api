@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.448198, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Blackford", "lng": -87.93391, "zip_code": "42403"});
+zipapicallback({"locality": "Blackford", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Blackford"], "postal_code": "42403", "lat": 37.448198, "lng": -87.93391, "type": "STANDARD", "counties": [{"fips": "233", "name": "Webster"}]});

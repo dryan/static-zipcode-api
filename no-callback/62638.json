@@ -1,1 +1,1 @@
-{"lat": 39.609647, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Clements", "lng": -90.08116, "zip_code": "62638"}
+{"locality": "Franklin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Clements", "Franklin", "Rees"], "postal_code": "62638", "lat": 39.609647, "lng": -90.08116, "type": "STANDARD", "counties": [{"fips": "137", "name": "Morgan"}, {"fips": "117", "name": "MacOupin"}]}

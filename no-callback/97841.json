@@ -1,1 +1,1 @@
-{"lat": 45.463939, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Imbler", "lng": -117.9624, "zip_code": "97841"}
+{"locality": "Imbler", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Imbler"], "postal_code": "97841", "lat": 45.463939, "lng": -117.9624, "type": "STANDARD", "counties": [{"fips": "061", "name": "Union"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.828798, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Red Springs", "lng": -79.21215, "zip_code": "28377"}
+{"locality": "Red Springs", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Red Springs"], "postal_code": "28377", "lat": 34.828798, "lng": -79.21215, "type": "STANDARD", "counties": [{"fips": "155", "name": "Robeson"}]}

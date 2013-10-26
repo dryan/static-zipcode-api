@@ -1,1 +1,1 @@
-{"lat": 32.426372, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Montgomery", "lng": -86.27007, "zip_code": "36110"}
+{"locality": "Montgomery", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Montgomery"], "postal_code": "36110", "lat": 32.426372, "lng": -86.27007, "type": "STANDARD", "counties": [{"fips": "101", "name": "Montgomery"}]}

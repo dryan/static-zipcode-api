@@ -1,1 +1,1 @@
-{"lat": 34.715065, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Madison", "lng": -86.73964, "zip_code": "35758"}
+{"locality": "Madison", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Madison", "Triana"], "postal_code": "35758", "lat": 34.715065, "lng": -86.73964, "type": "STANDARD", "counties": [{"fips": "089", "name": "Madison"}, {"fips": "083", "name": "Limestone"}]}

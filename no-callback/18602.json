@@ -1,1 +1,1 @@
-{"lat": 41.184986, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bear Creek", "lng": -75.75144, "zip_code": "18602"}
+{"locality": "Bear Creek", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bear Creek"], "postal_code": "18602", "lat": 41.184986, "lng": -75.75144, "type": "POBOX", "counties": [{"fips": "079", "name": "Luzerne"}]}

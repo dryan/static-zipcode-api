@@ -1,1 +1,1 @@
-{"lat": 43.707331, "region": {"abbr": "NY", "name": "New York"}, "locality": "Old Forge", "lng": -74.94498, "zip_code": "13420"}
+{"locality": "Old Forge", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Old Forge"], "postal_code": "13420", "lat": 43.707331, "lng": -74.94498, "type": "STANDARD", "counties": [{"fips": "043", "name": "Herkimer"}]}

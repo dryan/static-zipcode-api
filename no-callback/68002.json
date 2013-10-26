@@ -1,1 +1,1 @@
-{"lat": 41.47502, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Arlington", "lng": -96.34446, "zip_code": "68002"}
+{"locality": "Arlington", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Arlington"], "postal_code": "68002", "lat": 41.47502, "lng": -96.34446, "type": "STANDARD", "counties": [{"fips": "177", "name": "Washington"}]}

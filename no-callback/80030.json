@@ -1,1 +1,1 @@
-{"lat": 39.830936, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Westminster", "lng": -105.03736, "zip_code": "80030"}
+{"locality": "Westminster", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Westminster"], "postal_code": "80030", "lat": 39.830936, "lng": -105.03736, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "059", "name": "Jefferson"}]}

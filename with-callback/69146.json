@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.296221, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Lemoyne", "lng": -101.77851, "zip_code": "69146"});
+zipapicallback({"locality": "Lemoyne", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lemoyne"], "postal_code": "69146", "lat": 41.296221, "lng": -101.77851, "type": "STANDARD", "counties": [{"fips": "101", "name": "Keith"}]});

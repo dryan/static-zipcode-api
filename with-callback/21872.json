@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.408973, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Whaleysville", "lng": -75.29575, "zip_code": "21872"});
+zipapicallback({"locality": "Whaleyville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Whaleyville"], "postal_code": "21872", "lat": 38.408973, "lng": -75.29575, "type": "STANDARD", "counties": [{"fips": "047", "name": "Worcester"}]});

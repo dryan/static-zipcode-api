@@ -1,1 +1,1 @@
-{"lat": 39.114762, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Jerseyville", "lng": -90.32442, "zip_code": "62052"}
+{"locality": "Jerseyville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Jerseyville", "Otterville"], "postal_code": "62052", "lat": 39.114762, "lng": -90.32442, "type": "STANDARD", "counties": [{"fips": "083", "name": "Jersey"}, {"fips": "061", "name": "Greene"}]}

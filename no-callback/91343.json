@@ -1,1 +1,1 @@
-{"lat": 34.239503, "region": {"abbr": "CA", "name": "California"}, "locality": "North Hills", "lng": -118.48224, "zip_code": "91343"}
+{"locality": "North Hills", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["North Hills", "Northridge", "Sepulveda"], "postal_code": "91343", "lat": 34.239503, "lng": -118.48224, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.77364, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Earling", "lng": -95.42761, "zip_code": "51530"});
+zipapicallback({"locality": "Earling", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Earling"], "postal_code": "51530", "lat": 41.77364, "lng": -95.42761, "type": "STANDARD", "counties": [{"fips": "165", "name": "Shelby"}]});

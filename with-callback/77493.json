@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.810279, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Park Row", "lng": -95.82011, "zip_code": "77493"});
+zipapicallback({"locality": "Katy", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Katy", "Park Row"], "postal_code": "77493", "lat": 29.810279, "lng": -95.82011, "type": "STANDARD", "counties": []});

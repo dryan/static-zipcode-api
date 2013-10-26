@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.382543, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Kiowa", "lng": -104.42847, "zip_code": "80117"});
+zipapicallback({"locality": "Kiowa", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Kiowa"], "postal_code": "80117", "lat": 39.382543, "lng": -104.42847, "type": "STANDARD", "counties": [{"fips": "039", "name": "Elbert"}]});

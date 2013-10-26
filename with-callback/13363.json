@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.311975, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lee Center", "lng": -75.50677, "zip_code": "13363"});
+zipapicallback({"locality": "Lee Center", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lee Center"], "postal_code": "13363", "lat": 43.311975, "lng": -75.50677, "type": "STANDARD", "counties": [{"fips": "065", "name": "Oneida"}]});

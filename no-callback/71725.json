@@ -1,1 +1,1 @@
-{"lat": 34.058224, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Carthage", "lng": -92.56519, "zip_code": "71725"}
+{"locality": "Carthage", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Carthage"], "postal_code": "71725", "lat": 34.058224, "lng": -92.56519, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dallas"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.017578, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Henderson", "lng": -115.05438, "zip_code": "89012"}
+{"locality": "Henderson", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Henderson"], "postal_code": "89012", "lat": 36.017578, "lng": -115.05438, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 42.302091, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lake View", "lng": -95.03061, "zip_code": "51450"}
+{"locality": "Lake View", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Carnarvon", "Lake View"], "postal_code": "51450", "lat": 42.302091, "lng": -95.03061, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sac"}]}

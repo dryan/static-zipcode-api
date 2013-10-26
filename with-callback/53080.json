@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.394676, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Saukville", "lng": -87.95887, "zip_code": "53080"});
+zipapicallback({"locality": "Saukville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Saukville"], "postal_code": "53080", "lat": 43.394676, "lng": -87.95887, "type": "STANDARD", "counties": [{"fips": "089", "name": "Ozaukee"}]});

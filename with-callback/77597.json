@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.843158, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wallisville", "lng": -94.70376, "zip_code": "77597"});
+zipapicallback({"locality": "Wallisville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wallisville"], "postal_code": "77597", "lat": 29.843158, "lng": -94.70376, "type": "STANDARD", "counties": [{"fips": "071", "name": "Chambers"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.180893, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Taft", "lng": -84.41881, "zip_code": "45213"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Taft"], "postal_code": "45213", "lat": 39.180893, "lng": -84.41881, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

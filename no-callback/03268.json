@@ -1,1 +1,1 @@
-{"lat": 43.388571, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Salisbury", "lng": -71.74199, "zip_code": "03268"}
+{"locality": "Salisbury", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Salisbury"], "postal_code": "03268", "lat": 43.388571, "lng": -71.74199, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]}

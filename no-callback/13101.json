@@ -1,1 +1,1 @@
-{"lat": 42.593363, "region": {"abbr": "NY", "name": "New York"}, "locality": "Mc Graw", "lng": -76.07789, "zip_code": "13101"}
+{"locality": "Mc Graw", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mc Graw"], "postal_code": "13101", "lat": 42.593363, "lng": -76.07789, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cortland"}]}

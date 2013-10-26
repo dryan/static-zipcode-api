@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.513119, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Johnsonville", "lng": -88.58911, "zip_code": "62850"});
+zipapicallback({"locality": "Johnsonville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Johnsonville"], "postal_code": "62850", "lat": 38.513119, "lng": -88.58911, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]});

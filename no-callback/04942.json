@@ -1,1 +1,1 @@
-{"lat": 44.985047, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Wellington", "lng": -69.56523, "zip_code": "04942"}
+{"locality": "Harmony", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Harmony", "Mayfield Twp", "Wellington"], "postal_code": "04942", "lat": 44.985047, "lng": -69.56523, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}, {"fips": "021", "name": "Piscataquis"}]}

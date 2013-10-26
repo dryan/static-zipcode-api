@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.798159, "region": {"abbr": "NY", "name": "New York"}, "locality": "Geneseo", "lng": -77.77733, "zip_code": "14454"});
+zipapicallback({"locality": "Geneseo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Geneseo"], "postal_code": "14454", "lat": 42.798159, "lng": -77.77733, "type": "STANDARD", "counties": [{"fips": "051", "name": "Livingston"}]});

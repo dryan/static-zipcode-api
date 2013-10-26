@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.868514, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bradley", "lng": -97.71386, "zip_code": "73011"});
+zipapicallback({"locality": "Bradley", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bradley"], "postal_code": "73011", "lat": 34.868514, "lng": -97.71386, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grady"}]});

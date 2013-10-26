@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.615464, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pettus", "lng": -97.81591, "zip_code": "78146"});
+zipapicallback({"locality": "Pettus", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pettus"], "postal_code": "78146", "lat": 28.615464, "lng": -97.81591, "type": "POBOX", "counties": [{"fips": "025", "name": "Bee"}]});

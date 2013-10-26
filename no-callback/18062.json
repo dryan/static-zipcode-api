@@ -1,1 +1,1 @@
-{"lat": 40.517304, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Macungie", "lng": -75.56515, "zip_code": "18062"}
+{"locality": "Macungie", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Macungie"], "postal_code": "18062", "lat": 40.517304, "lng": -75.56515, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "011", "name": "Berks"}]}

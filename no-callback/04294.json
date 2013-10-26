@@ -1,1 +1,1 @@
-{"lat": 44.602261, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Wilton", "lng": -70.22906, "zip_code": "04294"}
+{"locality": "Wilton", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Perkins Twp", "Wilton"], "postal_code": "04294", "lat": 44.602261, "lng": -70.22906, "type": "STANDARD", "counties": [{"fips": "007", "name": "Franklin"}]}

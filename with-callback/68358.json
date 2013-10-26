@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.533257, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Firth", "lng": -96.60568, "zip_code": "68358"});
+zipapicallback({"locality": "Firth", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Firth"], "postal_code": "68358", "lat": 40.533257, "lng": -96.60568, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lancaster"}, {"fips": "067", "name": "Gage"}]});

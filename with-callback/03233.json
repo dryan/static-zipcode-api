@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.423484, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Elkins", "lng": -71.93648, "zip_code": "03233"});
+zipapicallback({"locality": "Elkins", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Elkins"], "postal_code": "03233", "lat": 43.423484, "lng": -71.93648, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}]});

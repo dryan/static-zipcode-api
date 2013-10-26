@@ -1,1 +1,1 @@
-{"lat": 38.367276, "region": {"abbr": "CA", "name": "California"}, "locality": "Hood", "lng": -121.51487, "zip_code": "95639"}
+{"locality": "Hood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hood"], "postal_code": "95639", "lat": 38.367276, "lng": -121.51487, "type": "POBOX", "counties": [{"fips": "067", "name": "Sacramento"}]}

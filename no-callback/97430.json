@@ -1,1 +1,1 @@
-{"lat": 44.164325, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Greenleaf", "lng": -123.70193, "zip_code": "97430"}
+{"locality": "Deadwood", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Deadwood", "Greenleaf"], "postal_code": "97430", "lat": 44.164325, "lng": -123.70193, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.700548, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Ringgold", "lng": -75.96098, "zip_code": "17960"});
+zipapicallback({"locality": "New Ringgold", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Ringgold"], "postal_code": "17960", "lat": 40.700548, "lng": -75.96098, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]});

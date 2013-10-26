@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.542944, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Wynona", "lng": -96.31853, "zip_code": "74084"});
+zipapicallback({"locality": "Wynona", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Wynona"], "postal_code": "74084", "lat": 36.542944, "lng": -96.31853, "type": "STANDARD", "counties": [{"fips": "113", "name": "Osage"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.958059, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Harrison Valley", "lng": -77.67187, "zip_code": "16927"});
+zipapicallback({"locality": "Harrison Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Harrison Valley", "Harrison Vly", "Westfield"], "postal_code": "16927", "lat": 41.958059, "lng": -77.67187, "type": "STANDARD", "counties": [{"fips": "105", "name": "Potter"}]});

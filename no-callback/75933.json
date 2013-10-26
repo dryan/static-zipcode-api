@@ -1,1 +1,1 @@
-{"lat": 30.580648, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Call", "lng": -93.81112, "zip_code": "75933"}
+{"locality": "Call", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Call"], "postal_code": "75933", "lat": 30.580648, "lng": -93.81112, "type": "STANDARD", "counties": [{"fips": "241", "name": "Jasper"}, {"fips": "351", "name": "Newton"}]}

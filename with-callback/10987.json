@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.197123, "region": {"abbr": "NY", "name": "New York"}, "locality": "Tuxedo Park", "lng": -74.21069, "zip_code": "10987"});
+zipapicallback({"locality": "Tuxedo Park", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Tuxedo Park"], "postal_code": "10987", "lat": 41.197123, "lng": -74.21069, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

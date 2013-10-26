@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.188878, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mohawk", "lng": -83.09599, "zip_code": "37810"});
+zipapicallback({"locality": "Mohawk", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mohawk"], "postal_code": "37810", "lat": 36.188878, "lng": -83.09599, "type": "STANDARD", "counties": [{"fips": "059", "name": "Greene"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.774635, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Halifax", "lng": -78.93426, "zip_code": "24558"});
+zipapicallback({"locality": "Halifax", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Halifax"], "postal_code": "24558", "lat": 36.774635, "lng": -78.93426, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]});

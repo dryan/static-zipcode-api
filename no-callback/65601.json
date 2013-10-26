@@ -1,1 +1,1 @@
-{"lat": 37.537425, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Aldrich", "lng": -93.57069, "zip_code": "65601"}
+{"locality": "Aldrich", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Aldrich"], "postal_code": "65601", "lat": 37.537425, "lng": -93.57069, "type": "STANDARD", "counties": [{"fips": "167", "name": "Polk"}, {"fips": "039", "name": "Cedar"}, {"fips": "057", "name": "Dade"}]}

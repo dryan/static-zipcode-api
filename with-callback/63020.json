@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.120303, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "De Soto", "lng": -90.55426, "zip_code": "63020"});
+zipapicallback({"locality": "De Soto", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["De Soto"], "postal_code": "63020", "lat": 38.120303, "lng": -90.55426, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]});

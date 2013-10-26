@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.457731, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Wapato", "lng": -120.46721, "zip_code": "98951"});
+zipapicallback({"locality": "Wapato", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Wapato"], "postal_code": "98951", "lat": 46.457731, "lng": -120.46721, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]});

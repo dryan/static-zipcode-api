@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.535065, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Berry", "lng": -84.38904, "zip_code": "41003"});
+zipapicallback({"locality": "Berry", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Berry"], "postal_code": "41003", "lat": 38.535065, "lng": -84.38904, "type": "STANDARD", "counties": [{"fips": "097", "name": "Harrison"}]});

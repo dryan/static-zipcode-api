@@ -1,1 +1,1 @@
-{"lat": 39.938218, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Armstrong Mills", "lng": -80.89033, "zip_code": "43933"}
+{"locality": "Jacobsburg", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Armstrong Mills", "Armstrong Mls", "Jacobsburg", "Stewartsville"], "postal_code": "43933", "lat": 39.938218, "lng": -80.89033, "type": "STANDARD", "counties": [{"fips": "013", "name": "Belmont"}]}

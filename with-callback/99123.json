@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.907923, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Electric City", "lng": -119.06531, "zip_code": "99123"});
+zipapicallback({"locality": "Electric City", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Electric City"], "postal_code": "99123", "lat": 47.907923, "lng": -119.06531, "type": "STANDARD", "counties": [{"fips": "025", "name": "Grant"}]});

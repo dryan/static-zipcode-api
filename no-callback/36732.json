@@ -1,1 +1,1 @@
-{"lat": 32.495484, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Demopolis", "lng": -87.84521, "zip_code": "36732"}
+{"locality": "Demopolis", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Demopolis"], "postal_code": "36732", "lat": 32.495484, "lng": -87.84521, "type": "STANDARD", "counties": [{"fips": "091", "name": "Marengo"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.372881, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Dayton", "lng": -74.51363, "zip_code": "08810"}
+{"locality": "Dayton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Dayton"], "postal_code": "08810", "lat": 40.372881, "lng": -74.51363, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

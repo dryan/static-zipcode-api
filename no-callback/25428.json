@@ -1,1 +1,1 @@
-{"lat": 39.368967, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Inwood", "lng": -78.02742, "zip_code": "25428"}
+{"locality": "Inwood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Inwood"], "postal_code": "25428", "lat": 39.368967, "lng": -78.02742, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkeley"}]}

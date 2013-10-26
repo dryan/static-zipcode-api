@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.2159, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Collison", "lng": -87.78418, "zip_code": "61831"});
+zipapicallback({"locality": "Collison", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Collison"], "postal_code": "61831", "lat": 40.2159, "lng": -87.78418, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]});

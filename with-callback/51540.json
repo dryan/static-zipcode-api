@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.020978, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hastings", "lng": -95.49852, "zip_code": "51540"});
+zipapicallback({"locality": "Hastings", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hastings"], "postal_code": "51540", "lat": 41.020978, "lng": -95.49852, "type": "STANDARD", "counties": [{"fips": "129", "name": "Mills"}]});

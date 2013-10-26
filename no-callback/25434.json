@@ -1,1 +1,1 @@
-{"lat": 39.500633, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Paw Paw", "lng": -78.43726, "zip_code": "25434"}
+{"locality": "Paw Paw", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Paw Paw"], "postal_code": "25434", "lat": 39.500633, "lng": -78.43726, "type": "STANDARD", "counties": [{"fips": "065", "name": "Morgan"}, {"fips": "027", "name": "Hampshire"}]}

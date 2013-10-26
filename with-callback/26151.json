@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.885826, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mount Zion", "lng": -81.16885, "zip_code": "26151"});
+zipapicallback({"locality": "Mount Zion", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mount Zion"], "postal_code": "26151", "lat": 38.885826, "lng": -81.16885, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]});

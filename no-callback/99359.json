@@ -1,1 +1,1 @@
-{"lat": 46.523206, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Starbuck", "lng": -118.19393, "zip_code": "99359"}
+{"locality": "Starbuck", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Starbuck"], "postal_code": "99359", "lat": 46.523206, "lng": -118.19393, "type": "POBOX", "counties": [{"fips": "013", "name": "Columbia"}]}

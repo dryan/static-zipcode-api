@@ -1,1 +1,1 @@
-{"lat": 34.74428, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Jerome", "lng": -112.14586, "zip_code": "86331"}
+{"locality": "Jerome", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Jerome"], "postal_code": "86331", "lat": 34.74428, "lng": -112.14586, "type": "POBOX", "counties": [{"fips": "025", "name": "Yavapai"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.157683, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Newkirk", "lng": -104.2151, "zip_code": "88431"}
+{"locality": "Newkirk", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Bell Ranch", "Newkirk"], "postal_code": "88431", "lat": 35.157683, "lng": -104.2151, "type": "STANDARD", "counties": [{"fips": "019", "name": "Guadalupe"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.94263, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bridgman", "lng": -86.55586, "zip_code": "49106"}
+{"locality": "Bridgman", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bridgman"], "postal_code": "49106", "lat": 41.94263, "lng": -86.55586, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}]}

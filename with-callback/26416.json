@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.155551, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Broaddus", "lng": -80.02419, "zip_code": "26416"});
+zipapicallback({"locality": "Philippi", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Philippi"], "postal_code": "26416", "lat": 39.155551, "lng": -80.02419, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barbour"}, {"fips": "091", "name": "Taylor"}]});

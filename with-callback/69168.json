@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.734776, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Venango", "lng": -101.98221, "zip_code": "69168"});
+zipapicallback({"locality": "Venango", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Venango"], "postal_code": "69168", "lat": 40.734776, "lng": -101.98221, "type": "STANDARD", "counties": [{"fips": "135", "name": "Perkins"}, {"fips": "029", "name": "Chase"}]});

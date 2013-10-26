@@ -1,1 +1,1 @@
-{"lat": 37.173305, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Freeport", "lng": -97.84835, "zip_code": "67049"}
+{"locality": "Freeport", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Freeport"], "postal_code": "67049", "lat": 37.173305, "lng": -97.84835, "type": "STANDARD", "counties": [{"fips": "077", "name": "Harper"}, {"fips": "191", "name": "Sumner"}]}

@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Missoula", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Missoula"], "postal_code": "59807", "type": "POBOX", "counties": [{"fips": "063", "name": "Missoula"}, {"fips": "031", "name": "Gallatin"}]});

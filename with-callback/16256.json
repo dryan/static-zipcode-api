@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.854736, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Smicksburg", "lng": -79.13528, "zip_code": "16256"});
+zipapicallback({"locality": "Smicksburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Smicksburg"], "postal_code": "16256", "lat": 40.854736, "lng": -79.13528, "type": "STANDARD", "counties": [{"fips": "063", "name": "Indiana"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.030831, "region": {"abbr": "NY", "name": "New York"}, "locality": "Calcium", "lng": -75.85521, "zip_code": "13616"}
+{"locality": "Calcium", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Calcium"], "postal_code": "13616", "lat": 44.030831, "lng": -75.85521, "type": "STANDARD", "counties": [{"fips": "045", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 61.898872, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Skwentna", "lng": -151.51587, "zip_code": "99667"});
+zipapicallback({"locality": "Skwentna", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Skwentna"], "postal_code": "99667", "lat": 61.898872, "lng": -151.51587, "type": "POBOX", "counties": [{"fips": "170", "name": "Matanuska-Susitna"}]});

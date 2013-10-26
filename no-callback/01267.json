@@ -1,1 +1,1 @@
-{"lat": 42.689962, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Williamstown", "lng": -73.22355, "zip_code": "01267"}
+{"locality": "Williamstown", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Williamstown"], "postal_code": "01267", "lat": 42.689962, "lng": -73.22355, "type": "STANDARD", "counties": [{"fips": "003", "name": "Berkshire"}]}

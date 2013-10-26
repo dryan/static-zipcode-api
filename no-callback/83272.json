@@ -1,1 +1,1 @@
-{"lat": 42.127915, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Saint Charles", "lng": -111.3922, "zip_code": "83272"}
+{"locality": "Saint Charles", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Saint Charles"], "postal_code": "83272", "lat": 42.127915, "lng": -111.3922, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bear Lake"}]}

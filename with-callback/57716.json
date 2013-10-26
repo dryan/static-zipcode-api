@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.134526, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Denby", "lng": -102.16756, "zip_code": "57716"});
+zipapicallback({"locality": "Batesland", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Batesland", "Denby"], "postal_code": "57716", "lat": 43.134526, "lng": -102.16756, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}, {"fips": "007", "name": "Bennett"}]});

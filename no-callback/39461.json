@@ -1,1 +1,1 @@
-{"lat": 31.176281, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Neely", "lng": -88.72248, "zip_code": "39461"}
+{"locality": "Neely", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Neely"], "postal_code": "39461", "lat": 31.176281, "lng": -88.72248, "type": "STANDARD", "counties": [{"fips": "041", "name": "Greene"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.540495, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Overton", "lng": -114.45478, "zip_code": "89040"});
+zipapicallback({"locality": "Overton", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Moapa Valley", "Overton"], "postal_code": "89040", "lat": 36.540495, "lng": -114.45478, "type": "STANDARD", "counties": [{"fips": "003", "name": "Clark"}]});

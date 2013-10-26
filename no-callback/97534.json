@@ -1,1 +1,1 @@
-{"lat": 42.055397, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "O Brien", "lng": -123.7031, "zip_code": "97534"}
+{"locality": "O Brien", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["O Brien"], "postal_code": "97534", "lat": 42.055397, "lng": -123.7031, "type": "STANDARD", "counties": [{"fips": "033", "name": "Josephine"}]}

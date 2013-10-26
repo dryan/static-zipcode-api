@@ -1,1 +1,1 @@
-{"lat": 38.045951, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Evansville", "lng": -87.62723, "zip_code": "47720"}
+{"locality": "Evansville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Evansville"], "postal_code": "47720", "lat": 38.045951, "lng": -87.62723, "type": "STANDARD", "counties": []}

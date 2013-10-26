@@ -1,1 +1,1 @@
-{"lat": 32.132651, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Larue", "lng": -95.64632, "zip_code": "75770"}
+{"locality": "Larue", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Larue"], "postal_code": "75770", "lat": 32.132651, "lng": -95.64632, "type": "STANDARD", "counties": [{"fips": "213", "name": "Henderson"}, {"fips": "001", "name": "Anderson"}]}

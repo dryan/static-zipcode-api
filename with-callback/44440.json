@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.146334, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mineral Ridge", "lng": -80.77271, "zip_code": "44440"});
+zipapicallback({"locality": "Mineral Ridge", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mineral Ridge"], "postal_code": "44440", "lat": 41.146334, "lng": -80.77271, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}, {"fips": "099", "name": "Mahoning"}, {"fips": "029", "name": "Columbiana"}]});

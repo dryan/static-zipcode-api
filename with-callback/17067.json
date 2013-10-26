@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.389502, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Myerstown", "lng": -76.3147, "zip_code": "17067"});
+zipapicallback({"locality": "Myerstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Myerstown"], "postal_code": "17067", "lat": 40.389502, "lng": -76.3147, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lebanon"}, {"fips": "011", "name": "Berks"}]});

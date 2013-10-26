@@ -1,1 +1,1 @@
-{"lat": 35.756437, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Barnardsville", "lng": -82.41471, "zip_code": "28709"}
+{"locality": "Barnardsville", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Barnardsville"], "postal_code": "28709", "lat": 35.756437, "lng": -82.41471, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buncombe"}]}

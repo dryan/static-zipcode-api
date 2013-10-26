@@ -1,1 +1,1 @@
-{"lat": 35.136495, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Cedar Crest", "lng": -106.37296, "zip_code": "87008"}
+{"locality": "Cedar Crest", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Cedar Crest"], "postal_code": "87008", "lat": 35.136495, "lng": -106.37296, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bernalillo"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.693856, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Morris", "lng": -73.21056, "zip_code": "06763"}
+{"locality": "Morris", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Morris"], "postal_code": "06763", "lat": 41.693856, "lng": -73.21056, "type": "STANDARD", "counties": [{"fips": "005", "name": "Litchfield"}]}

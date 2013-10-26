@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.282127, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Clay City", "lng": -87.11557, "zip_code": "47841"});
+zipapicallback({"locality": "Clay City", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Clay City"], "postal_code": "47841", "lat": 39.282127, "lng": -87.11557, "type": "STANDARD", "counties": [{"fips": "021", "name": "Clay"}, {"fips": "119", "name": "Owen"}]});

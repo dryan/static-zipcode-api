@@ -1,1 +1,1 @@
-{"lat": 34.831398, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Savanna", "lng": -95.83967, "zip_code": "74565"}
+{"locality": "Savanna", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Savanna"], "postal_code": "74565", "lat": 34.831398, "lng": -95.83967, "type": "POBOX", "counties": [{"fips": "121", "name": "Pittsburg"}]}

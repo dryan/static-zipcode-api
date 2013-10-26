@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.257154, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Oglala", "lng": -102.77414, "zip_code": "57764"});
+zipapicallback({"locality": "Oglala", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Oglala"], "postal_code": "57764", "lat": 43.257154, "lng": -102.77414, "type": "STANDARD", "counties": [{"fips": "113", "name": "Shannon"}]});

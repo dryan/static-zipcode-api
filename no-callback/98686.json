@@ -1,1 +1,1 @@
-{"lat": 45.712623, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Vancouver", "lng": -122.63419, "zip_code": "98686"}
+{"locality": "Vancouver", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Vancouver"], "postal_code": "98686", "lat": 45.712623, "lng": -122.63419, "type": "STANDARD", "counties": [{"fips": "011", "name": "Clark"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.671589, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Tyngsboro", "lng": -71.41694, "zip_code": "01879"});
+zipapicallback({"locality": "Tyngsboro", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Tyngsboro"], "postal_code": "01879", "lat": 42.671589, "lng": -71.41694, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]});

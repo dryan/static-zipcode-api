@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.625307, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Josephine", "lng": -81.25093, "zip_code": "25857"});
+zipapicallback({"locality": "Josephine", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Josephine"], "postal_code": "25857", "lat": 37.625307, "lng": -81.25093, "type": "STANDARD", "counties": [{"fips": "081", "name": "Raleigh"}]});

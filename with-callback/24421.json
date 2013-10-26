@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.252683, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Churchville", "lng": -79.17339, "zip_code": "24421"});
+zipapicallback({"locality": "Churchville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Churchville"], "postal_code": "24421", "lat": 38.252683, "lng": -79.17339, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

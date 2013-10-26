@@ -1,1 +1,1 @@
-{"lat": 35.951244, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Glenpool", "lng": -96.00803, "zip_code": "74033"}
+{"locality": "Glenpool", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Glenpool"], "postal_code": "74033", "lat": 35.951244, "lng": -96.00803, "type": "STANDARD", "counties": [{"fips": "143", "name": "Tulsa"}]}

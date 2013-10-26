@@ -1,1 +1,1 @@
-{"lat": 44.112618, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Vida", "lng": -122.42255, "zip_code": "97488"}
+{"locality": "Vida", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Vida"], "postal_code": "97488", "lat": 44.112618, "lng": -122.42255, "type": "STANDARD", "counties": [{"fips": "039", "name": "Lane"}]}

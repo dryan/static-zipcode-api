@@ -1,1 +1,1 @@
-{"lat": 30.520782, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Robert", "lng": -90.30638, "zip_code": "70455"}
+{"locality": "Robert", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Robert"], "postal_code": "70455", "lat": 30.520782, "lng": -90.30638, "type": "STANDARD", "counties": [{"fips": "105", "name": "Tangipahoa"}]}

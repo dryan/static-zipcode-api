@@ -1,1 +1,1 @@
-{"lat": 39.027259, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Kensington", "lng": -77.07745, "zip_code": "20895"}
+{"locality": "Kensington", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Kensington"], "postal_code": "20895", "lat": 39.027259, "lng": -77.07745, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]}

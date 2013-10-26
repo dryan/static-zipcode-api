@@ -1,1 +1,1 @@
-{"lat": 32.556264, "region": {"abbr": "CA", "name": "California"}, "locality": "San Ysidro", "lng": -117.05057, "zip_code": "92173"}
+{"locality": "San Ysidro", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["San Diego", "San Ysidro"], "postal_code": "92173", "lat": 32.556264, "lng": -117.05057, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.817481, "region": {"abbr": "CA", "name": "California"}, "locality": "Cypress", "lng": -118.0399, "zip_code": "90630"});
+zipapicallback({"locality": "Cypress", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cypress"], "postal_code": "90630", "lat": 33.817481, "lng": -118.0399, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]});

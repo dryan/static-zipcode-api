@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.378868, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Birch Harbor", "lng": -68.02915, "zip_code": "04613"});
+zipapicallback({"locality": "Birch Harbor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Birch Harbor"], "postal_code": "04613", "lat": 44.378868, "lng": -68.02915, "type": "STANDARD", "counties": [{"fips": "009", "name": "Hancock"}]});

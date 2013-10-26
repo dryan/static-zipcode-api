@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.496465, "region": {"abbr": "CA", "name": "California"}, "locality": "Richvale", "lng": -121.74712, "zip_code": "95974"});
+zipapicallback({"locality": "Richvale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Richvale"], "postal_code": "95974", "lat": 39.496465, "lng": -121.74712, "type": "POBOX", "counties": [{"fips": "007", "name": "Butte"}]});

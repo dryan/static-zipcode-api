@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.418018, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Whittier", "lng": -83.30887, "zip_code": "28789"});
+zipapicallback({"locality": "Whittier", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Whittier"], "postal_code": "28789", "lat": 35.418018, "lng": -83.30887, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jackson"}]});

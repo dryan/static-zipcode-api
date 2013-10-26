@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.021829, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Fish Haven", "lng": -111.42742, "zip_code": "83287"});
+zipapicallback({"locality": "Fish Haven", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Fish Haven"], "postal_code": "83287", "lat": 42.021829, "lng": -111.42742, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bear Lake"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.236648, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Woden", "lng": -93.92137, "zip_code": "50484"}
+{"locality": "Woden", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Woden"], "postal_code": "50484", "lat": 43.236648, "lng": -93.92137, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.151537, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Eddyville", "lng": -92.64227, "zip_code": "52553"});
+zipapicallback({"locality": "Eddyville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Eddyville"], "postal_code": "52553", "lat": 41.151537, "lng": -92.64227, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wapello"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.743264, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Corydon", "lng": -87.73173, "zip_code": "42406"});
+zipapicallback({"locality": "Corydon", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Corydon"], "postal_code": "42406", "lat": 37.743264, "lng": -87.73173, "type": "STANDARD", "counties": [{"fips": "101", "name": "Henderson"}]});

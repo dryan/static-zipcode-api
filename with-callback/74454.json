@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.867529, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Porter", "lng": -95.52647, "zip_code": "74454"});
+zipapicallback({"locality": "Porter", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Porter", "Tullahassee"], "postal_code": "74454", "lat": 35.867529, "lng": -95.52647, "type": "STANDARD", "counties": [{"fips": "145", "name": "Wagoner"}]});

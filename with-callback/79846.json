@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.444333, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Redford", "lng": -104.11628, "zip_code": "79846"});
+zipapicallback({"locality": "Redford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Presidio", "Redford"], "postal_code": "79846", "lat": 29.444333, "lng": -104.11628, "type": "POBOX", "counties": [{"fips": "377", "name": "Presidio"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.508239, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Clyo", "lng": -81.3128, "zip_code": "31303"});
+zipapicallback({"locality": "Clyo", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Clyo"], "postal_code": "31303", "lat": 32.508239, "lng": -81.3128, "type": "STANDARD", "counties": [{"fips": "103", "name": "Effingham"}]});

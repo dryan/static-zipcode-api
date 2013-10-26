@@ -1,1 +1,1 @@
-{"lat": 37.223011, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Patterson", "lng": -82.00538, "zip_code": "24631"}
+{"locality": "Oakwood", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Oakwood", "Patterson"], "postal_code": "24631", "lat": 37.223011, "lng": -82.00538, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}]}

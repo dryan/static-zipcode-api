@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.89103, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elmhurst", "lng": -87.94181, "zip_code": "60126"});
+zipapicallback({"locality": "Elmhurst", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elmhurst"], "postal_code": "60126", "lat": 41.89103, "lng": -87.94181, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}, {"fips": "043", "name": "Du Page"}]});

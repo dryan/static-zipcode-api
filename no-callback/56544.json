@@ -1,1 +1,1 @@
-{"lat": 46.742349, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Frazee", "lng": -95.62935, "zip_code": "56544"}
+{"locality": "Frazee", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Frazee"], "postal_code": "56544", "lat": 46.742349, "lng": -95.62935, "type": "STANDARD", "counties": [{"fips": "005", "name": "Becker"}, {"fips": "111", "name": "Otter Tail"}]}

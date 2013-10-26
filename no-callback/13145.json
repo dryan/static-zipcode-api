@@ -1,1 +1,1 @@
-{"lat": 43.653475, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sandy Creek", "lng": -76.13214, "zip_code": "13145"}
+{"locality": "Sandy Creek", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sandy Creek"], "postal_code": "13145", "lat": 43.653475, "lng": -76.13214, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}, {"fips": "045", "name": "Jefferson"}]}

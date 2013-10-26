@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.671971, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Frohna", "lng": -89.61644, "zip_code": "63748"});
+zipapicallback({"locality": "Frohna", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Frohna", "Wittenberg"], "postal_code": "63748", "lat": 37.671971, "lng": -89.61644, "type": "STANDARD", "counties": [{"fips": "157", "name": "Perry"}]});

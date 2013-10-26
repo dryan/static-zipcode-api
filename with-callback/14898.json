@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.065376, "region": {"abbr": "NY", "name": "New York"}, "locality": "Woodhull", "lng": -77.42392, "zip_code": "14898"});
+zipapicallback({"locality": "Woodhull", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Woodhull"], "postal_code": "14898", "lat": 42.065376, "lng": -77.42392, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]});

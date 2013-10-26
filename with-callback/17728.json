@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.318934, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Cogan Station", "lng": -77.08211, "zip_code": "17728"});
+zipapicallback({"locality": "Cogan Station", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Cogan Station"], "postal_code": "17728", "lat": 41.318934, "lng": -77.08211, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}]});

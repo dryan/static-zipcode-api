@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.131449, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Ridgway", "lng": -107.77322, "zip_code": "81432"});
+zipapicallback({"locality": "Ridgway", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Ridgway"], "postal_code": "81432", "lat": 38.131449, "lng": -107.77322, "type": "STANDARD", "counties": [{"fips": "091", "name": "Ouray"}]});

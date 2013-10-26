@@ -1,1 +1,1 @@
-{"lat": 36.388724, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Camp", "lng": -91.7353, "zip_code": "72520"}
+{"locality": "Camp", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Camp"], "postal_code": "72520", "lat": 36.388724, "lng": -91.7353, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fulton"}]}

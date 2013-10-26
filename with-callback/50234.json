@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.89347, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Rhodes", "lng": -93.1813, "zip_code": "50234"});
+zipapicallback({"locality": "Rhodes", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Harvester", "Rhodes"], "postal_code": "50234", "lat": 41.89347, "lng": -93.1813, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}]});

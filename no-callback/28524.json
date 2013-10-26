@@ -1,1 +1,1 @@
-{"lat": 34.794527, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Davis", "lng": -76.46317, "zip_code": "28524"}
+{"locality": "Davis", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Davis"], "postal_code": "28524", "lat": 34.794527, "lng": -76.46317, "type": "POBOX", "counties": [{"fips": "031", "name": "Carteret"}]}

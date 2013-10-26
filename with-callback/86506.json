@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.368902, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Houck", "lng": -109.22194, "zip_code": "86506"});
+zipapicallback({"locality": "Houck", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Houck"], "postal_code": "86506", "lat": 35.368902, "lng": -109.22194, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.640223, "region": {"abbr": "CA", "name": "California"}, "locality": "Lake Forest", "lng": -117.69108, "zip_code": "92630"}
+{"locality": "Lake Forest", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["El Toro", "Lake Forest"], "postal_code": "92630", "lat": 33.640223, "lng": -117.69108, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]}

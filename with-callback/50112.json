@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.736434, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Grinnell", "lng": -92.72123, "zip_code": "50112"});
+zipapicallback({"locality": "Grinnell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Grinnell", "Oakland Acres"], "postal_code": "50112", "lat": 41.736434, "lng": -92.72123, "type": "STANDARD", "counties": [{"fips": "157", "name": "Poweshiek"}, {"fips": "171", "name": "Tama"}]});

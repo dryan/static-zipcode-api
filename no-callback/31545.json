@@ -1,1 +1,1 @@
-{"lat": 31.636895, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Jesup", "lng": -81.90843, "zip_code": "31545"}
+{"locality": "Jesup", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Jesup"], "postal_code": "31545", "lat": 31.636895, "lng": -81.90843, "type": "STANDARD", "counties": [{"fips": "305", "name": "Wayne"}]}

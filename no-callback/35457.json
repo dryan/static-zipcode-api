@@ -1,1 +1,1 @@
-{"lat": 33.301003, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Echola", "lng": -87.77187, "zip_code": "35457"}
+{"locality": "Echola", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Echola"], "postal_code": "35457", "lat": 33.301003, "lng": -87.77187, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]}

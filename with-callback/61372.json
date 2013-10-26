@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.466102, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Troy Grove", "lng": -89.07794, "zip_code": "61372"});
+zipapicallback({"locality": "Troy Grove", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Troy Grove"], "postal_code": "61372", "lat": 41.466102, "lng": -89.07794, "type": "POBOX", "counties": [{"fips": "099", "name": "La Salle"}]});

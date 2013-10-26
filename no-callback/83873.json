@@ -1,1 +1,1 @@
-{"lat": 47.533448, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Wallace", "lng": -115.88759, "zip_code": "83873"}
+{"locality": "Wallace", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Prichard", "Wallace"], "postal_code": "83873", "lat": 47.533448, "lng": -115.88759, "type": "STANDARD", "counties": [{"fips": "079", "name": "Shoshone"}]}

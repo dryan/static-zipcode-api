@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.065711, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Paragould", "lng": -90.5102, "zip_code": "72450"});
+zipapicallback({"locality": "Paragould", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Paragould"], "postal_code": "72450", "lat": 36.065711, "lng": -90.5102, "type": "STANDARD", "counties": [{"fips": "055", "name": "Greene"}]});

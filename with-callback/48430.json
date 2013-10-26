@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.78459, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fenton", "lng": -83.74074, "zip_code": "48430"});
+zipapicallback({"locality": "Fenton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fenton"], "postal_code": "48430", "lat": 42.78459, "lng": -83.74074, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}, {"fips": "125", "name": "Oakland"}, {"fips": "093", "name": "Livingston"}]});

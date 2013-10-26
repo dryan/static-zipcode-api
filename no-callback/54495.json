@@ -1,1 +1,1 @@
-{"lat": 44.376507, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wisconsin Rapids", "lng": -89.90771, "zip_code": "54495"}
+{"locality": "Wisconsin Rapids", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wisc Rapids", "Wisconsin Rapids"], "postal_code": "54495", "lat": 44.376507, "lng": -89.90771, "type": "STANDARD", "counties": [{"fips": "141", "name": "Wood"}]}

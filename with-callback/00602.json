@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.363285, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Aguada", "lng": -67.18024, "zip_code": "00602"});
+zipapicallback({"locality": "Aguada", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Aguada"], "postal_code": "00602", "lat": 18.363285, "lng": -67.18024, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aguada"}]});

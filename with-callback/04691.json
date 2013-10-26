@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.790082, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Whiting", "lng": -67.24789, "zip_code": "04691"});
+zipapicallback({"locality": "Whiting", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Whiting"], "postal_code": "04691", "lat": 44.790082, "lng": -67.24789, "type": "STANDARD", "counties": [{"fips": "029", "name": "Washington"}]});

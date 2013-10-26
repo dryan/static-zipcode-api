@@ -1,1 +1,1 @@
-{"lat": 37.420362, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Mousie", "lng": -82.87543, "zip_code": "41839"}
+{"locality": "Mousie", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Mousie"], "postal_code": "41839", "lat": 37.420362, "lng": -82.87543, "type": "STANDARD", "counties": [{"fips": "119", "name": "Knott"}]}

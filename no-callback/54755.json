@@ -1,1 +1,1 @@
-{"lat": 44.584633, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Modena", "lng": -91.68767, "zip_code": "54755"}
+{"locality": "Mondovi", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Modena", "Mondovi"], "postal_code": "54755", "lat": 44.584633, "lng": -91.68767, "type": "STANDARD", "counties": [{"fips": "011", "name": "Buffalo"}, {"fips": "035", "name": "Eau Claire"}, {"fips": "033", "name": "Dunn"}, {"fips": "091", "name": "Pepin"}]}

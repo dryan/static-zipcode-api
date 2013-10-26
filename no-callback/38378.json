@@ -1,1 +1,1 @@
-{"lat": 35.764637, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Spring Creek", "lng": -88.685, "zip_code": "38378"}
+{"locality": "Spring Creek", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Spring Creek"], "postal_code": "38378", "lat": 35.764637, "lng": -88.685, "type": "POBOX", "counties": [{"fips": "113", "name": "Madison"}]}

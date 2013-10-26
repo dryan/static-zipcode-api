@@ -1,1 +1,1 @@
-{"lat": 40.052872, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wellsville", "lng": -76.94481, "zip_code": "17365"}
+{"locality": "Wellsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wellsville"], "postal_code": "17365", "lat": 40.052872, "lng": -76.94481, "type": "STANDARD", "counties": [{"fips": "133", "name": "York"}]}

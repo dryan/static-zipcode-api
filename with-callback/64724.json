@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.171591, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Appleton City", "lng": -94.02233, "zip_code": "64724"});
+zipapicallback({"locality": "Appleton City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Appleton City"], "postal_code": "64724", "lat": 38.171591, "lng": -94.02233, "type": "STANDARD", "counties": [{"fips": "185", "name": "St. Clair"}, {"fips": "013", "name": "Bates"}, {"fips": "083", "name": "Henry"}]});

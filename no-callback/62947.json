@@ -1,1 +1,1 @@
-{"lat": 37.567779, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Herod", "lng": -88.39925, "zip_code": "62947"}
+{"locality": "Herod", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Herod"], "postal_code": "62947", "lat": 37.567779, "lng": -88.39925, "type": "STANDARD", "counties": [{"fips": "151", "name": "Pope"}, {"fips": "165", "name": "Saline"}, {"fips": "069", "name": "Hardin"}]}

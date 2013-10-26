@@ -1,1 +1,1 @@
-{"lat": 40.427561, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Port Monmouth", "lng": -74.1069, "zip_code": "07758"}
+{"locality": "Port Monmouth", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Port Monmouth"], "postal_code": "07758", "lat": 40.427561, "lng": -74.1069, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]}

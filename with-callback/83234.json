@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.43627, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Downey", "lng": -112.11647, "zip_code": "83234"});
+zipapicallback({"locality": "Downey", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Downey"], "postal_code": "83234", "lat": 42.43627, "lng": -112.11647, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bannock"}]});

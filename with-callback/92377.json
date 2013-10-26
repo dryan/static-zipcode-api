@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.151243, "region": {"abbr": "CA", "name": "California"}, "locality": "Rialto", "lng": -117.39873, "zip_code": "92377"});
+zipapicallback({"locality": "Rialto", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Rialto"], "postal_code": "92377", "lat": 34.151243, "lng": -117.39873, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]});

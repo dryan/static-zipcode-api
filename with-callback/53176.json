@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.642223, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Springfield", "lng": -88.41179, "zip_code": "53176"});
+zipapicallback({"locality": "Springfield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Springfield"], "postal_code": "53176", "lat": 42.642223, "lng": -88.41179, "type": "POBOX", "counties": [{"fips": "127", "name": "Walworth"}]});

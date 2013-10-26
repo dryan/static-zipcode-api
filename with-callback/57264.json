@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.104925, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Stockholm", "lng": -96.79467, "zip_code": "57264"});
+zipapicallback({"locality": "Stockholm", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Stockholm"], "postal_code": "57264", "lat": 45.104925, "lng": -96.79467, "type": "STANDARD", "counties": [{"fips": "051", "name": "Grant"}, {"fips": "029", "name": "Codington"}]});

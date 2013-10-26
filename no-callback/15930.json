@@ -1,1 +1,1 @@
-{"lat": 40.294347, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Dunlo", "lng": -78.71981, "zip_code": "15930"}
+{"locality": "Dunlo", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dunlo"], "postal_code": "15930", "lat": 40.294347, "lng": -78.71981, "type": "POBOX", "counties": [{"fips": "021", "name": "Cambria"}]}

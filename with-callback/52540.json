@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.153462, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Brighton", "lng": -91.82082, "zip_code": "52540"});
+zipapicallback({"locality": "Brighton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Brighton"], "postal_code": "52540", "lat": 41.153462, "lng": -91.82082, "type": "STANDARD", "counties": [{"fips": "183", "name": "Washington"}]});

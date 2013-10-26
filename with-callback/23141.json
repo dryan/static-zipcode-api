@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.506369, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Quinton", "lng": -77.15127, "zip_code": "23141"});
+zipapicallback({"locality": "Quinton", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Quinton"], "postal_code": "23141", "lat": 37.506369, "lng": -77.15127, "type": "STANDARD", "counties": [{"fips": "127", "name": "New Kent"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.957898, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Arcadia", "lng": -81.99252, "zip_code": "29320"}
+{"locality": "Arcadia", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Arcadia"], "postal_code": "29320", "lat": 34.957898, "lng": -81.99252, "type": "POBOX", "counties": [{"fips": "083", "name": "Spartanburg"}]}

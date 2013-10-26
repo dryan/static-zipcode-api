@@ -1,1 +1,1 @@
-{"lat": 46.723028, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wright", "lng": -92.96594, "zip_code": "55798"}
+{"locality": "Wright", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Wright"], "postal_code": "55798", "lat": 46.723028, "lng": -92.96594, "type": "STANDARD", "counties": [{"fips": "017", "name": "Carlton"}, {"fips": "137", "name": "St. Louis"}]}

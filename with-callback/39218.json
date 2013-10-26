@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.230408, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Richland", "lng": -90.16213, "zip_code": "39218"});
+zipapicallback({"locality": "Richland", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Jackson", "Richland"], "postal_code": "39218", "lat": 32.230408, "lng": -90.16213, "type": "STANDARD", "counties": [{"fips": "121", "name": "Rankin"}]});

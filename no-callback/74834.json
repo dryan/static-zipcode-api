@@ -1,1 +1,1 @@
-{"lat": 35.702159, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Chandler", "lng": -96.88961, "zip_code": "74834"}
+{"locality": "Chandler", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Chandler"], "postal_code": "74834", "lat": 35.702159, "lng": -96.88961, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lincoln"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.828586, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Decatur", "lng": -88.92907, "zip_code": "62521"}
+{"locality": "Decatur", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Decatur", "Long Creek"], "postal_code": "62521", "lat": 39.828586, "lng": -88.92907, "type": "STANDARD", "counties": [{"fips": "115", "name": "MacOn"}]}

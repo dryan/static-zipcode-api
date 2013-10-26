@@ -1,1 +1,1 @@
-{"lat": 41.234388, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Peninsula", "lng": -81.55114, "zip_code": "44264"}
+{"locality": "Peninsula", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Peninsula"], "postal_code": "44264", "lat": 41.234388, "lng": -81.55114, "type": "STANDARD", "counties": [{"fips": "153", "name": "Summit"}]}

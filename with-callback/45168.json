@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.850094, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Russellville", "lng": -83.77254, "zip_code": "45168"});
+zipapicallback({"locality": "Russellville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Russellville"], "postal_code": "45168", "lat": 38.850094, "lng": -83.77254, "type": "STANDARD", "counties": [{"fips": "015", "name": "Brown"}]});

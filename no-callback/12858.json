@@ -1,1 +1,1 @@
-{"lat": 43.888754, "region": {"abbr": "NY", "name": "New York"}, "locality": "Paradox", "lng": -73.65812, "zip_code": "12858"}
+{"locality": "Paradox", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Paradox", "Ticonderoga"], "postal_code": "12858", "lat": 43.888754, "lng": -73.65812, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]}

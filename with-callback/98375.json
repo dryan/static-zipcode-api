@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.112477, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Puyallup", "lng": -122.32247, "zip_code": "98375"});
+zipapicallback({"locality": "Puyallup", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Puyallup", "South Hill"], "postal_code": "98375", "lat": 47.112477, "lng": -122.32247, "type": "STANDARD", "counties": []});

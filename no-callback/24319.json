@@ -1,1 +1,1 @@
-{"lat": 36.776534, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Chilhowie", "lng": -81.65827, "zip_code": "24319"}
+{"locality": "Chilhowie", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chilhowie"], "postal_code": "24319", "lat": 36.776534, "lng": -81.65827, "type": "STANDARD", "counties": [{"fips": "173", "name": "Smyth"}, {"fips": "191", "name": "Washington"}]}

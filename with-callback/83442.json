@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.67511, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Rigby", "lng": -111.87407, "zip_code": "83442"});
+zipapicallback({"locality": "Rigby", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Rigby"], "postal_code": "83442", "lat": 43.67511, "lng": -111.87407, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}, {"fips": "019", "name": "Bonneville"}, {"fips": "065", "name": "Madison"}]});

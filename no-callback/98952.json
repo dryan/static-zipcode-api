@@ -1,1 +1,1 @@
-{"lat": 46.377579, "region": {"abbr": "WA", "name": "Washington"}, "locality": "White Swan", "lng": -120.7144, "zip_code": "98952"}
+{"locality": "White Swan", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["White Swan"], "postal_code": "98952", "lat": 46.377579, "lng": -120.7144, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

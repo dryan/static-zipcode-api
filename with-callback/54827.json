@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.802909, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Cornucopia", "lng": -91.10944, "zip_code": "54827"});
+zipapicallback({"locality": "Cornucopia", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Cornucopia"], "postal_code": "54827", "lat": 46.802909, "lng": -91.10944, "type": "STANDARD", "counties": [{"fips": "007", "name": "Bayfield"}]});

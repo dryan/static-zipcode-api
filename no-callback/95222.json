@@ -1,1 +1,1 @@
-{"lat": 38.087437, "region": {"abbr": "CA", "name": "California"}, "locality": "Angels Camp", "lng": -120.58072, "zip_code": "95222"}
+{"locality": "Angels Camp", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Angels Camp"], "postal_code": "95222", "lat": 38.087437, "lng": -120.58072, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]}

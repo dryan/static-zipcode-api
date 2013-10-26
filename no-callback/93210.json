@@ -1,1 +1,1 @@
-{"lat": 36.194736, "region": {"abbr": "CA", "name": "California"}, "locality": "Coalinga", "lng": -120.30865, "zip_code": "93210"}
+{"locality": "Coalinga", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Coalinga"], "postal_code": "93210", "lat": 36.194736, "lng": -120.30865, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

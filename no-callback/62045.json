@@ -1,1 +1,1 @@
-{"lat": 39.236358, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Hamburg", "lng": -90.71359, "zip_code": "62045"}
+{"locality": "Hamburg", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Hamburg"], "postal_code": "62045", "lat": 39.236358, "lng": -90.71359, "type": "STANDARD", "counties": [{"fips": "013", "name": "Calhoun"}]}

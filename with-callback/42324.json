@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.150125, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Belton", "lng": -87.00657, "zip_code": "42324"});
+zipapicallback({"locality": "Belton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Belton"], "postal_code": "42324", "lat": 37.150125, "lng": -87.00657, "type": "STANDARD", "counties": [{"fips": "177", "name": "Muhlenberg"}]});

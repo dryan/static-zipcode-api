@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.854987, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cook", "lng": -92.77077, "zip_code": "55723"});
+zipapicallback({"locality": "Cook", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cook", "Togo"], "postal_code": "55723", "lat": 47.854987, "lng": -92.77077, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "061", "name": "Itasca"}]});

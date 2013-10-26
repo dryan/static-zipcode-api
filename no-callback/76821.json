@@ -1,1 +1,1 @@
-{"lat": 31.754011, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ballinger", "lng": -99.93695, "zip_code": "76821"}
+{"locality": "Ballinger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ballinger"], "postal_code": "76821", "lat": 31.754011, "lng": -99.93695, "type": "STANDARD", "counties": [{"fips": "399", "name": "Runnels"}]}

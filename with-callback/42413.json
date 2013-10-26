@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.425687, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hanson", "lng": -87.495, "zip_code": "42413"});
+zipapicallback({"locality": "Hanson", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hanson"], "postal_code": "42413", "lat": 37.425687, "lng": -87.495, "type": "STANDARD", "counties": [{"fips": "107", "name": "Hopkins"}]});

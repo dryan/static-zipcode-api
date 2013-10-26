@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.344258, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mason", "lng": -84.3152, "zip_code": "45040"});
+zipapicallback({"locality": "Mason", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mason"], "postal_code": "45040", "lat": 39.344258, "lng": -84.3152, "type": "STANDARD", "counties": [{"fips": "165", "name": "Warren"}]});

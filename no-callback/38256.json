@@ -1,1 +1,1 @@
-{"lat": 36.330953, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Springville", "lng": -88.12309, "zip_code": "38256"}
+{"locality": "Springville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Springville"], "postal_code": "38256", "lat": 36.330953, "lng": -88.12309, "type": "STANDARD", "counties": [{"fips": "079", "name": "Henry"}]}

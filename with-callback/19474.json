@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.222343, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Skippack", "lng": -75.4052, "zip_code": "19474"});
+zipapicallback({"locality": "Skippack", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Skippack"], "postal_code": "19474", "lat": 40.222343, "lng": -75.4052, "type": "POBOX", "counties": [{"fips": "091", "name": "Montgomery"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.99207, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Kure Beach", "lng": -77.91092, "zip_code": "28449"}
+{"locality": "Kure Beach", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Kure Beach"], "postal_code": "28449", "lat": 33.99207, "lng": -77.91092, "type": "STANDARD", "counties": [{"fips": "129", "name": "New Hanover"}]}

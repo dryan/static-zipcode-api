@@ -1,1 +1,1 @@
-{"lat": 32.325214, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tyler", "lng": -95.29467, "zip_code": "75701"}
+{"locality": "Tyler", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tyler"], "postal_code": "75701", "lat": 32.325214, "lng": -95.29467, "type": "STANDARD", "counties": [{"fips": "423", "name": "Smith"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.919695, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Concord Farragut", "lng": -84.17255, "zip_code": "37932"});
+zipapicallback({"locality": "Knoxville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Knoxville"], "postal_code": "37932", "lat": 35.919695, "lng": -84.17255, "type": "STANDARD", "counties": [{"fips": "093", "name": "Knox"}, {"fips": "095", "name": "Lake"}]});

@@ -1,1 +1,1 @@
-{"lat": 31.652542, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Sycamore", "lng": -83.57934, "zip_code": "31790"}
+{"locality": "Sycamore", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Sycamore"], "postal_code": "31790", "lat": 31.652542, "lng": -83.57934, "type": "STANDARD", "counties": [{"fips": "287", "name": "Turner"}, {"fips": "277", "name": "Tift"}, {"fips": "155", "name": "Irwin"}]}

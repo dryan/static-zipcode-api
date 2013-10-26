@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.335017, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Still Pond", "lng": -76.05365, "zip_code": "21667"});
+zipapicallback({"locality": "Still Pond", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Still Pond"], "postal_code": "21667", "lat": 39.335017, "lng": -76.05365, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kent"}]});

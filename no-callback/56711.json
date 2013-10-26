@@ -1,1 +1,1 @@
-{"lat": 49.342144, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Angle Inlet", "lng": -95.03571, "zip_code": "56711"}
+{"locality": "Angle Inlet", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Angle Inlet"], "postal_code": "56711", "lat": 49.342144, "lng": -95.03571, "type": "POBOX", "counties": [{"fips": "077", "name": "Lake of the Woods"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.250299, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Finleyville", "lng": -79.99436, "zip_code": "15332"}
+{"locality": "Finleyville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Finleyville"], "postal_code": "15332", "lat": 40.250299, "lng": -79.99436, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}, {"fips": "003", "name": "Allegheny"}]}

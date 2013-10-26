@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.705162, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Emlyn", "lng": -84.14595, "zip_code": "40730"});
+zipapicallback({"locality": "Emlyn", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Emlyn"], "postal_code": "40730", "lat": 36.705162, "lng": -84.14595, "type": "POBOX", "counties": [{"fips": "235", "name": "Whitley"}]});

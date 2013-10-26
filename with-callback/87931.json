@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.969955, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Caballo", "lng": -107.36322, "zip_code": "87931"});
+zipapicallback({"locality": "Caballo", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Caballo"], "postal_code": "87931", "lat": 32.969955, "lng": -107.36322, "type": "STANDARD", "counties": [{"fips": "051", "name": "Sierra"}]});

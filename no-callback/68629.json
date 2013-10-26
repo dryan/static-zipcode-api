@@ -1,1 +1,1 @@
-{"lat": 41.70879, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Clarkson", "lng": -97.12748, "zip_code": "68629"}
+{"locality": "Clarkson", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Clarkson"], "postal_code": "68629", "lat": 41.70879, "lng": -97.12748, "type": "STANDARD", "counties": [{"fips": "037", "name": "Colfax"}, {"fips": "167", "name": "Stanton"}]}

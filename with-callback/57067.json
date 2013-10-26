@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.012455, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Utica", "lng": -97.48749, "zip_code": "57067"});
+zipapicallback({"locality": "Utica", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Utica"], "postal_code": "57067", "lat": 43.012455, "lng": -97.48749, "type": "STANDARD", "counties": [{"fips": "135", "name": "Yankton"}]});

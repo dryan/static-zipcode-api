@@ -1,1 +1,1 @@
-{"lat": 31.141962, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Pansey", "lng": -85.15675, "zip_code": "36370"}
+{"locality": "Pansey", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Pansey"], "postal_code": "36370", "lat": 31.141962, "lng": -85.15675, "type": "STANDARD", "counties": [{"fips": "069", "name": "Houston"}]}

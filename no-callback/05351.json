@@ -1,1 +1,1 @@
-{"lat": 42.934798, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "South Newfane", "lng": -72.75062, "zip_code": "05351"}
+{"locality": "South Newfane", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["South Newfane"], "postal_code": "05351", "lat": 42.934798, "lng": -72.75062, "type": "STANDARD", "counties": [{"fips": "025", "name": "Windham"}]}

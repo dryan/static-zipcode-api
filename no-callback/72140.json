@@ -1,1 +1,1 @@
-{"lat": 34.383661, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Saint Charles", "lng": -91.15428, "zip_code": "72140"}
+{"locality": "Saint Charles", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Saint Charles"], "postal_code": "72140", "lat": 34.383661, "lng": -91.15428, "type": "STANDARD", "counties": [{"fips": "001", "name": "Arkansas"}]}

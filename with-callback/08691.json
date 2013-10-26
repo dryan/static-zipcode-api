@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.207034, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hamilton", "lng": -74.59364, "zip_code": "08691"});
+zipapicallback({"locality": "Trenton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hamilton", "Robbinsville", "Trenton"], "postal_code": "08691", "lat": 40.207034, "lng": -74.59364, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}, {"fips": "025", "name": "Monmouth"}]});

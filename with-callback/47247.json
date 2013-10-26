@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.0601, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Jonesville", "lng": -85.88879, "zip_code": "47247"});
+zipapicallback({"locality": "Jonesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Jonesville"], "postal_code": "47247", "lat": 39.0601, "lng": -85.88879, "type": "POBOX", "counties": [{"fips": "005", "name": "Bartholomew"}]});

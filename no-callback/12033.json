@@ -1,1 +1,1 @@
-{"lat": 42.534631, "region": {"abbr": "NY", "name": "New York"}, "locality": "Castleton On Hud", "lng": -73.71327, "zip_code": "12033"}
+{"locality": "Castleton On Hudson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Brookview", "Castleton", "Castleton On Hudson", "S Schodack", "South Schodack"], "postal_code": "12033", "lat": 42.534631, "lng": -73.71327, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]}

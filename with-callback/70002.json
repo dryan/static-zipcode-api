@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.011517, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Metairie", "lng": -90.16245, "zip_code": "70002"});
+zipapicallback({"locality": "Metairie", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Metairie"], "postal_code": "70002", "lat": 30.011517, "lng": -90.16245, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]});

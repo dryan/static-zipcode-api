@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.660116, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Transylvania", "lng": -91.20531, "zip_code": "71286"});
+zipapicallback({"locality": "Transylvania", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Transylvania"], "postal_code": "71286", "lat": 32.660116, "lng": -91.20531, "type": "STANDARD", "counties": [{"fips": "035", "name": "East Carroll"}]});

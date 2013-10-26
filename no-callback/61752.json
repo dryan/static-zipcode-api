@@ -1,1 +1,1 @@
-{"lat": 40.345004, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Le Roy", "lng": -88.75786, "zip_code": "61752"}
+{"locality": "Le Roy", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Le Roy"], "postal_code": "61752", "lat": 40.345004, "lng": -88.75786, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}, {"fips": "039", "name": "Dewitt"}]}

@@ -1,1 +1,1 @@
-{"lat": 30.512458, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Fairhope", "lng": -87.88559, "zip_code": "36532"}
+{"locality": "Fairhope", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Fairhope"], "postal_code": "36532", "lat": 30.512458, "lng": -87.88559, "type": "STANDARD", "counties": [{"fips": "003", "name": "Baldwin"}, {"fips": "097", "name": "Mobile"}]}

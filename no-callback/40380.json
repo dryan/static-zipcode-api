@@ -1,1 +1,1 @@
-{"lat": 37.838747, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Patsey", "lng": -83.8099, "zip_code": "40380"}
+{"locality": "Stanton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bowen", "Patsey", "Rosslyn", "Stanton"], "postal_code": "40380", "lat": 37.838747, "lng": -83.8099, "type": "STANDARD", "counties": [{"fips": "197", "name": "Powell"}, {"fips": "065", "name": "Estill"}]}

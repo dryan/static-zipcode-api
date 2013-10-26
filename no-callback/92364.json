@@ -1,1 +1,1 @@
-{"lat": 35.46019, "region": {"abbr": "CA", "name": "California"}, "locality": "Nipton", "lng": -115.49467, "zip_code": "92364"}
+{"locality": "Nipton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Baker", "Nipton"], "postal_code": "92364", "lat": 35.46019, "lng": -115.49467, "type": "STANDARD", "counties": [{"fips": "071", "name": "San Bernardino"}]}

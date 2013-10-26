@@ -1,1 +1,1 @@
-{"lat": 36.841454, "region": {"abbr": "CA", "name": "California"}, "locality": "Pinedale", "lng": -119.79832, "zip_code": "93650"}
+{"locality": "Fresno", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fresno", "Pinedale"], "postal_code": "93650", "lat": 36.841454, "lng": -119.79832, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.991135, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Summerfield", "lng": -82.02658, "zip_code": "34491"});
+zipapicallback({"locality": "Summerfield", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Summerfield"], "postal_code": "34491", "lat": 28.991135, "lng": -82.02658, "type": "STANDARD", "counties": []});

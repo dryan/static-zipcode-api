@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.459575, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Bowdle", "lng": -99.67824, "zip_code": "57428"});
+zipapicallback({"locality": "Bowdle", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bowdle"], "postal_code": "57428", "lat": 45.459575, "lng": -99.67824, "type": "STANDARD", "counties": [{"fips": "045", "name": "Edmunds"}, {"fips": "089", "name": "McPherson"}, {"fips": "129", "name": "Walworth"}]});

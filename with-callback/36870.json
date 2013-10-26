@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.484671, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Phenix City", "lng": -85.0752, "zip_code": "36870"});
+zipapicallback({"locality": "Phenix City", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Phenix City"], "postal_code": "36870", "lat": 32.484671, "lng": -85.0752, "type": "STANDARD", "counties": []});

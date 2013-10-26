@@ -1,1 +1,1 @@
-{"lat": 34.96848, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Southaven", "lng": -89.99793, "zip_code": "38671"}
+{"locality": "Southaven", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Southaven"], "postal_code": "38671", "lat": 34.96848, "lng": -89.99793, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Soto"}]}

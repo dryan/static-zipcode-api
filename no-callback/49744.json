@@ -1,1 +1,1 @@
-{"lat": 44.993111, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Herron", "lng": -83.65723, "zip_code": "49744"}
+{"locality": "Herron", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Herron"], "postal_code": "49744", "lat": 44.993111, "lng": -83.65723, "type": "STANDARD", "counties": [{"fips": "007", "name": "Alpena"}]}

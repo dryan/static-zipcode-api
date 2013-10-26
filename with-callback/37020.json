@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.616935, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bell Buckle", "lng": -86.39629, "zip_code": "37020"});
+zipapicallback({"locality": "Bell Buckle", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bell Buckle"], "postal_code": "37020", "lat": 35.616935, "lng": -86.39629, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bedford"}, {"fips": "149", "name": "Rutherford"}]});

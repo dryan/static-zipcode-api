@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.725969, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Loudon", "lng": -84.33069, "zip_code": "37774"});
+zipapicallback({"locality": "Loudon", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Loudon"], "postal_code": "37774", "lat": 35.725969, "lng": -84.33069, "type": "STANDARD", "counties": [{"fips": "105", "name": "Loudon"}, {"fips": "123", "name": "Monroe"}, {"fips": "145", "name": "Roane"}]});

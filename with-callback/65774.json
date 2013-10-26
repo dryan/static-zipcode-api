@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.914579, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Weaubleau", "lng": -93.49803, "zip_code": "65774"});
+zipapicallback({"locality": "Weaubleau", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Weaubleau"], "postal_code": "65774", "lat": 37.914579, "lng": -93.49803, "type": "STANDARD", "counties": [{"fips": "085", "name": "Hickory"}, {"fips": "185", "name": "St. Clair"}]});

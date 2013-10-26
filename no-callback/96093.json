@@ -1,1 +1,1 @@
-{"lat": 40.734483, "region": {"abbr": "CA", "name": "California"}, "locality": "Weaverville", "lng": -122.93982, "zip_code": "96093"}
+{"locality": "Weaverville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Weaverville"], "postal_code": "96093", "lat": 40.734483, "lng": -122.93982, "type": "POBOX", "counties": [{"fips": "105", "name": "Trinity"}]}

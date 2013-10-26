@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.485896, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Davis", "lng": -97.14753, "zip_code": "73030"});
+zipapicallback({"locality": "Davis", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Davis"], "postal_code": "73030", "lat": 34.485896, "lng": -97.14753, "type": "STANDARD", "counties": [{"fips": "099", "name": "Murray"}, {"fips": "049", "name": "Garvin"}]});

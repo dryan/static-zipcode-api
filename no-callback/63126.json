@@ -1,1 +1,1 @@
-{"lat": 38.552303, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Sappington", "lng": -90.37921, "zip_code": "63126"}
+{"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Saint Louis", "Sappington"], "postal_code": "63126", "lat": 38.552303, "lng": -90.37921, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

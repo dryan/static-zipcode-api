@@ -1,1 +1,1 @@
-zipapicallback({"lat": 60.582127, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tununak", "lng": -165.25645, "zip_code": "99681"});
+zipapicallback({"locality": "Tununak", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Tununak"], "postal_code": "99681", "lat": 60.582127, "lng": -165.25645, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

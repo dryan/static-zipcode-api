@@ -1,1 +1,1 @@
-{"lat": 40.256648, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Jamison", "lng": -75.09357, "zip_code": "18929"}
+{"locality": "Jamison", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jamison"], "postal_code": "18929", "lat": 40.256648, "lng": -75.09357, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bucks"}]}

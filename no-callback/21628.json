@@ -1,1 +1,1 @@
-{"lat": 39.239132, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Crumpton", "lng": -75.9243, "zip_code": "21628"}
+{"locality": "Crumpton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Crumpton"], "postal_code": "21628", "lat": 39.239132, "lng": -75.9243, "type": "POBOX", "counties": [{"fips": "035", "name": "Queen Anne's"}]}

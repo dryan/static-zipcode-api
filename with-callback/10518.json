@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.269072, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cross River", "lng": -73.60493, "zip_code": "10518"});
+zipapicallback({"locality": "Cross River", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cross River"], "postal_code": "10518", "lat": 41.269072, "lng": -73.60493, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

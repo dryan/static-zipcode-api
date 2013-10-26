@@ -1,1 +1,1 @@
-{"lat": 26.581172, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Felda", "lng": -81.46202, "zip_code": "33930"}
+{"locality": "Felda", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Felda"], "postal_code": "33930", "lat": 26.581172, "lng": -81.46202, "type": "POBOX", "counties": [{"fips": "051", "name": "Hendry"}]}

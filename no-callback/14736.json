@@ -1,1 +1,1 @@
-{"lat": 42.130247, "region": {"abbr": "NY", "name": "New York"}, "locality": "Findley Lake", "lng": -79.74933, "zip_code": "14736"}
+{"locality": "Findley Lake", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Findley Lake"], "postal_code": "14736", "lat": 42.130247, "lng": -79.74933, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]}

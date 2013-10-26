@@ -1,1 +1,1 @@
-{"lat": 41.671548, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Plainville", "lng": -72.86294, "zip_code": "06062"}
+{"locality": "Plainville", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Plainville"], "postal_code": "06062", "lat": 41.671548, "lng": -72.86294, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]}

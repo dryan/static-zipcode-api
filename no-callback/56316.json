@@ -1,1 +1,1 @@
-{"lat": 45.510591, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brooten", "lng": -95.13636, "zip_code": "56316"}
+{"locality": "Brooten", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brooten"], "postal_code": "56316", "lat": 45.510591, "lng": -95.13636, "type": "STANDARD", "counties": [{"fips": "145", "name": "Stearns"}, {"fips": "121", "name": "Pope"}, {"fips": "067", "name": "Kandiyohi"}]}

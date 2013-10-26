@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.317264, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Saint Ignatius", "lng": -114.04402, "zip_code": "59865"});
+zipapicallback({"locality": "Saint Ignatius", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Saint Ignatius", "St Ignatius"], "postal_code": "59865", "lat": 47.317264, "lng": -114.04402, "type": "STANDARD", "counties": [{"fips": "047", "name": "Lake"}]});

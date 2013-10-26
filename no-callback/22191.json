@@ -1,1 +1,1 @@
-{"lat": 38.63275, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Woodbridge", "lng": -77.26786, "zip_code": "22191"}
+{"locality": "Woodbridge", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Woodbridge"], "postal_code": "22191", "lat": 38.63275, "lng": -77.26786, "type": "STANDARD", "counties": [{"fips": "153", "name": "Prince William"}]}

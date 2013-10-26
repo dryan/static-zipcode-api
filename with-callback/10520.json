@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.215541, "region": {"abbr": "NY", "name": "New York"}, "locality": "Croton On Hudson", "lng": -73.88543, "zip_code": "10520"});
+zipapicallback({"locality": "Croton On Hudson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Croton Hdsn", "Croton On Hudson"], "postal_code": "10520", "lat": 41.215541, "lng": -73.88543, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

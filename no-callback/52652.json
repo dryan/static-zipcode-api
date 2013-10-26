@@ -1,1 +1,1 @@
-{"lat": 41.103879, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Swedesburg", "lng": -91.54664, "zip_code": "52652"}
+{"locality": "Swedesburg", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Swedesburg"], "postal_code": "52652", "lat": 41.103879, "lng": -91.54664, "type": "POBOX", "counties": [{"fips": "087", "name": "Henry"}]}

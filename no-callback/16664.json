@@ -1,1 +1,1 @@
-{"lat": 40.174807, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "New Enterprise", "lng": -78.41772, "zip_code": "16664"}
+{"locality": "New Enterprise", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["New Enterprise", "New Entrprise"], "postal_code": "16664", "lat": 40.174807, "lng": -78.41772, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}]}

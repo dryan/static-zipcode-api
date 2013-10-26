@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.550591, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mayfield", "lng": -75.56795, "zip_code": "18433"});
+zipapicallback({"locality": "Jermyn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Jermyn", "Mayfield", "Scott Township", "Scott Twp"], "postal_code": "18433", "lat": 41.550591, "lng": -75.56795, "type": "STANDARD", "counties": [{"fips": "069", "name": "Lackawanna"}]});

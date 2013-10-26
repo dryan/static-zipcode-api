@@ -1,1 +1,1 @@
-{"lat": 43.105917, "region": {"abbr": "NY", "name": "New York"}, "locality": "Liverpool", "lng": -76.19365, "zip_code": "13088"}
+{"locality": "Liverpool", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Liverpool"], "postal_code": "13088", "lat": 43.105917, "lng": -76.19365, "type": "STANDARD", "counties": [{"fips": "067", "name": "Onondaga"}]}

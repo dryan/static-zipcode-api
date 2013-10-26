@@ -1,1 +1,1 @@
-{"lat": 43.42258, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Marion", "lng": -97.29026, "zip_code": "57043"}
+{"locality": "Marion", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Marion"], "postal_code": "57043", "lat": 43.42258, "lng": -97.29026, "type": "STANDARD", "counties": [{"fips": "125", "name": "Turner"}, {"fips": "067", "name": "Hutchinson"}, {"fips": "087", "name": "McCook"}]}

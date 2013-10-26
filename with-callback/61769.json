@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.885397, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Saunemin", "lng": -88.39957, "zip_code": "61769"});
+zipapicallback({"locality": "Saunemin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Saunemin"], "postal_code": "61769", "lat": 40.885397, "lng": -88.39957, "type": "STANDARD", "counties": [{"fips": "105", "name": "Livingston"}]});

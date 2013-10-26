@@ -1,1 +1,1 @@
-{"lat": 44.793747, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Stratford", "lng": -90.06026, "zip_code": "54484"}
+{"locality": "Stratford", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Stratford"], "postal_code": "54484", "lat": 44.793747, "lng": -90.06026, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}]}

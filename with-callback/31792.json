@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.817654, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Thomasville", "lng": -83.98919, "zip_code": "31792"});
+zipapicallback({"locality": "Thomasville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Metcalf", "Thomasville"], "postal_code": "31792", "lat": 30.817654, "lng": -83.98919, "type": "STANDARD", "counties": [{"fips": "275", "name": "Thomas"}, {"fips": "131", "name": "Grady"}]});

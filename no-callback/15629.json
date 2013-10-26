@@ -1,1 +1,1 @@
-{"lat": 40.598412, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Vandergrift", "lng": -79.56196, "zip_code": "15629"}
+{"locality": "East Vandergrift", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Vandergrift", "East Vandergrift"], "postal_code": "15629", "lat": 40.598412, "lng": -79.56196, "type": "POBOX", "counties": [{"fips": "129", "name": "Westmoreland"}]}

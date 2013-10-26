@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.467237, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Oilton", "lng": -98.97431, "zip_code": "78371"});
+zipapicallback({"locality": "Oilton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Oilton"], "postal_code": "78371", "lat": 27.467237, "lng": -98.97431, "type": "POBOX", "counties": [{"fips": "479", "name": "Webb"}]});

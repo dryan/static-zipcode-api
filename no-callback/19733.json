@@ -1,1 +1,1 @@
-{"lat": 39.555794, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Saint Georges", "lng": -75.65058, "zip_code": "19733"}
+{"locality": "Saint Georges", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Saint Georges"], "postal_code": "19733", "lat": 39.555794, "lng": -75.65058, "type": "POBOX", "counties": [{"fips": "003", "name": "New Castle"}]}

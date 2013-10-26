@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.726451, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lyle", "lng": -121.19784, "zip_code": "98635"});
+zipapicallback({"locality": "Lyle", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lyle"], "postal_code": "98635", "lat": 45.726451, "lng": -121.19784, "type": "STANDARD", "counties": [{"fips": "039", "name": "Klickitat"}]});

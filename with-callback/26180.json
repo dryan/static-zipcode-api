@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.179485, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Walker", "lng": -81.37836, "zip_code": "26180"});
+zipapicallback({"locality": "Walker", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Freeport", "Walker"], "postal_code": "26180", "lat": 39.179485, "lng": -81.37836, "type": "STANDARD", "counties": [{"fips": "107", "name": "Wood"}, {"fips": "105", "name": "Wirt"}]});

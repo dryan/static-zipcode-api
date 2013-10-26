@@ -1,1 +1,1 @@
-{"lat": 43.370434, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Vassar", "lng": -83.57917, "zip_code": "48768"}
+{"locality": "Vassar", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Tuscola", "Vassar"], "postal_code": "48768", "lat": 43.370434, "lng": -83.57917, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscola"}, {"fips": "145", "name": "Saginaw"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.110131, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Centerville", "lng": -93.17279, "zip_code": "72829"});
+zipapicallback({"locality": "Centerville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Centerville"], "postal_code": "72829", "lat": 35.110131, "lng": -93.17279, "type": "POBOX", "counties": [{"fips": "149", "name": "Yell"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.391172, "region": {"abbr": "NY", "name": "New York"}, "locality": "Slate Hill", "lng": -74.47758, "zip_code": "10973"});
+zipapicallback({"locality": "Slate Hill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Slate Hill"], "postal_code": "10973", "lat": 41.391172, "lng": -74.47758, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]});

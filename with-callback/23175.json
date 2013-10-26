@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.648536, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Remlik", "lng": -76.59872, "zip_code": "23175"});
+zipapicallback({"locality": "Urbanna", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Urbanna", "Warner"], "postal_code": "23175", "lat": 37.648536, "lng": -76.59872, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

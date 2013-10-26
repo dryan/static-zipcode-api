@@ -1,1 +1,1 @@
-{"lat": 42.668532, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pontiac", "lng": -83.29585, "zip_code": "48340"}
+{"locality": "Pontiac", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mi Metro", "Pontiac"], "postal_code": "48340", "lat": 42.668532, "lng": -83.29585, "type": "STANDARD", "counties": []}

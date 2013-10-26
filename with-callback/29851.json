@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.530409, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Warrenville", "lng": -81.81743, "zip_code": "29851"});
+zipapicallback({"locality": "Warrenville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Warrenville"], "postal_code": "29851", "lat": 33.530409, "lng": -81.81743, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aiken"}]});

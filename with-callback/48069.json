@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.472235, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pleasant Ridge", "lng": -83.14051, "zip_code": "48069"});
+zipapicallback({"locality": "Pleasant Ridge", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pleasant Rdg", "Pleasant Ridge"], "postal_code": "48069", "lat": 42.472235, "lng": -83.14051, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]});

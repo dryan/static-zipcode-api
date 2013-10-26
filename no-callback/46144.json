@@ -1,1 +1,1 @@
-{"lat": 39.661964, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Gwynneville", "lng": -85.64945, "zip_code": "46144"}
+{"locality": "Gwynneville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Gwynneville"], "postal_code": "46144", "lat": 39.661964, "lng": -85.64945, "type": "POBOX", "counties": [{"fips": "145", "name": "Shelby"}]}

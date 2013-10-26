@@ -1,1 +1,1 @@
-{"lat": 42.753378, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Ray", "lng": -82.91658, "zip_code": "48096"}
+{"locality": "Ray", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Ray", "Ray Twp"], "postal_code": "48096", "lat": 42.753378, "lng": -82.91658, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}]}

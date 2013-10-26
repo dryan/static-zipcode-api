@@ -1,1 +1,1 @@
-{"lat": 36.436042, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Portageville", "lng": -89.68851, "zip_code": "63873"}
+{"locality": "Portageville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Conran", "Portageville"], "postal_code": "63873", "lat": 36.436042, "lng": -89.68851, "type": "STANDARD", "counties": [{"fips": "143", "name": "New Madrid"}, {"fips": "155", "name": "Pemiscot"}]}

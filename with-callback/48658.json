@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.985129, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Standish", "lng": -83.93628, "zip_code": "48658"});
+zipapicallback({"locality": "Standish", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Standish"], "postal_code": "48658", "lat": 43.985129, "lng": -83.93628, "type": "STANDARD", "counties": [{"fips": "011", "name": "Arenac"}, {"fips": "017", "name": "Bay"}]});

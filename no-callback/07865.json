@@ -1,1 +1,1 @@
-{"lat": 40.783175, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Port Murray", "lng": -74.90934, "zip_code": "07865"}
+{"locality": "Port Murray", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Port Murray"], "postal_code": "07865", "lat": 40.783175, "lng": -74.90934, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.370336, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Eminence", "lng": -85.17208, "zip_code": "40019"});
+zipapicallback({"locality": "Eminence", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Eminence"], "postal_code": "40019", "lat": 38.370336, "lng": -85.17208, "type": "STANDARD", "counties": [{"fips": "103", "name": "Henry"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.370091, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Waggoner", "lng": -89.67132, "zip_code": "62572"});
+zipapicallback({"locality": "Waggoner", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Atwater", "Waggoner"], "postal_code": "62572", "lat": 39.370091, "lng": -89.67132, "type": "STANDARD", "counties": [{"fips": "135", "name": "Montgomery"}, {"fips": "117", "name": "MacOupin"}]});

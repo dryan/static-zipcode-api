@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.216165, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Winchester", "lng": -116.62363, "zip_code": "83555"});
+zipapicallback({"locality": "Winchester", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Winchester"], "postal_code": "83555", "lat": 46.216165, "lng": -116.62363, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lewis"}]});

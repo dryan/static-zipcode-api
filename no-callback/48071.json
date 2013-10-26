@@ -1,1 +1,1 @@
-{"lat": 42.501385, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Madison Heights", "lng": -83.10474, "zip_code": "48071"}
+{"locality": "Madison Heights", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Madison Heights", "Madison Hts"], "postal_code": "48071", "lat": 42.501385, "lng": -83.10474, "type": "STANDARD", "counties": [{"fips": "125", "name": "Oakland"}, {"fips": "099", "name": "MacOmb"}]}

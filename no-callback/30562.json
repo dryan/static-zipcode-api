@@ -1,1 +1,1 @@
-{"lat": 34.917466, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Mountain City", "lng": -83.38487, "zip_code": "30562"}
+{"locality": "Mountain City", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mountain City"], "postal_code": "30562", "lat": 34.917466, "lng": -83.38487, "type": "POBOX", "counties": [{"fips": "241", "name": "Rabun"}]}

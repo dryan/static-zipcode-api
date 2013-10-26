@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.626187, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Stafford", "lng": -95.57145, "zip_code": "77477"});
+zipapicallback({"locality": "Stafford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Meadows Place", "Stafford"], "postal_code": "77477", "lat": 29.626187, "lng": -95.57145, "type": "STANDARD", "counties": [{"fips": "157", "name": "Fort Bend"}, {"fips": "201", "name": "Harris"}]});

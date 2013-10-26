@@ -1,1 +1,1 @@
-{"lat": 30.536223, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Anderson", "lng": -96.0229, "zip_code": "77830"}
+{"locality": "Anderson", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Anderson"], "postal_code": "77830", "lat": 30.536223, "lng": -96.0229, "type": "STANDARD", "counties": [{"fips": "185", "name": "Grimes"}]}

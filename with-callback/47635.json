@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.883451, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Rockport", "lng": -87.09771, "zip_code": "47635"});
+zipapicallback({"locality": "Rockport", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Rockport"], "postal_code": "47635", "lat": 37.883451, "lng": -87.09771, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}]});

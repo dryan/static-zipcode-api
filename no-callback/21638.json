@@ -1,1 +1,1 @@
-{"lat": 38.954613, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Grasonville", "lng": -76.21257, "zip_code": "21638"}
+{"locality": "Grasonville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Grasonville"], "postal_code": "21638", "lat": 38.954613, "lng": -76.21257, "type": "STANDARD", "counties": [{"fips": "035", "name": "Queen Anne's"}]}

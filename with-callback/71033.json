@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.453029, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Greenwood", "lng": -93.99683, "zip_code": "71033"});
+zipapicallback({"locality": "Greenwood", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Greenwood"], "postal_code": "71033", "lat": 32.453029, "lng": -93.99683, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]});

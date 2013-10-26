@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.455501, "region": {"abbr": "CA", "name": "California"}, "locality": "Traver", "lng": -119.48495, "zip_code": "93673"});
+zipapicallback({"locality": "Traver", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Traver"], "postal_code": "93673", "lat": 36.455501, "lng": -119.48495, "type": "POBOX", "counties": [{"fips": "107", "name": "Tulare"}]});

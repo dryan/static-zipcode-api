@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.79955, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Chelan Falls", "lng": -119.98921, "zip_code": "98817"});
+zipapicallback({"locality": "Chelan Falls", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Chelan Falls"], "postal_code": "98817", "lat": 47.79955, "lng": -119.98921, "type": "POBOX", "counties": [{"fips": "007", "name": "Chelan"}]});

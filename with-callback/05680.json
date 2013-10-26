@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.551056, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Wolcott", "lng": -72.4739, "zip_code": "05680"});
+zipapicallback({"locality": "Wolcott", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Wolcott"], "postal_code": "05680", "lat": 44.551056, "lng": -72.4739, "type": "STANDARD", "counties": [{"fips": "015", "name": "Lamoille"}, {"fips": "005", "name": "Caledonia"}, {"fips": "019", "name": "Orleans"}]});

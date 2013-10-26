@@ -1,1 +1,1 @@
-{"lat": 43.791699, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pentwater", "lng": -86.40276, "zip_code": "49449"}
+{"locality": "Pentwater", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pentwater"], "postal_code": "49449", "lat": 43.791699, "lng": -86.40276, "type": "STANDARD", "counties": [{"fips": "127", "name": "Oceana"}, {"fips": "105", "name": "Mason"}]}

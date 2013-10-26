@@ -1,1 +1,1 @@
-{"lat": 37.371119, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Conaway", "lng": -82.1645, "zip_code": "24603"}
+{"locality": "Big Rock", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Big Rock", "Conaway"], "postal_code": "24603", "lat": 37.371119, "lng": -82.1645, "type": "STANDARD", "counties": [{"fips": "027", "name": "Buchanan"}]}

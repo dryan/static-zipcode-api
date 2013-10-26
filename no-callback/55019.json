@@ -1,1 +1,1 @@
-{"lat": 44.415567, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Dundas", "lng": -93.23269, "zip_code": "55019"}
+{"locality": "Dundas", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Dundas"], "postal_code": "55019", "lat": 44.415567, "lng": -93.23269, "type": "STANDARD", "counties": [{"fips": "131", "name": "Rice"}]}

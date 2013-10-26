@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.004198, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Morrisdale", "lng": -78.19085, "zip_code": "16858"});
+zipapicallback({"locality": "Morrisdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morrisdale"], "postal_code": "16858", "lat": 41.004198, "lng": -78.19085, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

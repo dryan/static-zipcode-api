@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.707145, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Fayette", "lng": -91.05349, "zip_code": "39069"});
+zipapicallback({"locality": "Fayette", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Fayette"], "postal_code": "39069", "lat": 31.707145, "lng": -91.05349, "type": "STANDARD", "counties": [{"fips": "063", "name": "Jefferson"}]});

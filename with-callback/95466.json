@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.089273, "region": {"abbr": "CA", "name": "California"}, "locality": "Philo", "lng": -123.50186, "zip_code": "95466"});
+zipapicallback({"locality": "Philo", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Philo"], "postal_code": "95466", "lat": 39.089273, "lng": -123.50186, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.050628, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Somerset Center", "lng": -84.39902, "zip_code": "49282"}
+{"locality": "Somerset Center", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Somerset Center", "Somerset Ctr"], "postal_code": "49282", "lat": 42.050628, "lng": -84.39902, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hillsdale"}]}

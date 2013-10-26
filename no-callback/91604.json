@@ -1,1 +1,1 @@
-{"lat": 34.143856, "region": {"abbr": "CA", "name": "California"}, "locality": "Studio City", "lng": -118.39429, "zip_code": "91604"}
+{"locality": "Studio City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["N Hollywood", "North Hollywood", "Studio City"], "postal_code": "91604", "lat": 34.143856, "lng": -118.39429, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

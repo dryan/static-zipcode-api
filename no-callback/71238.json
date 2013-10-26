@@ -1,1 +1,1 @@
-{"lat": 32.361562, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Eros", "lng": -92.37517, "zip_code": "71238"}
+{"locality": "Eros", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Eros"], "postal_code": "71238", "lat": 32.361562, "lng": -92.37517, "type": "STANDARD", "counties": [{"fips": "073", "name": "Ouachita"}, {"fips": "049", "name": "Jackson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.203729, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Vernon", "lng": -95.90822, "zip_code": "74845"});
+zipapicallback({"locality": "Hanna", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hanna", "Vernon"], "postal_code": "74845", "lat": 35.203729, "lng": -95.90822, "type": "STANDARD", "counties": [{"fips": "091", "name": "McIntosh"}]});

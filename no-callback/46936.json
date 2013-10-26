@@ -1,1 +1,1 @@
-{"lat": 40.482338, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Greentown", "lng": -85.94279, "zip_code": "46936"}
+{"locality": "Greentown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Greentown"], "postal_code": "46936", "lat": 40.482338, "lng": -85.94279, "type": "STANDARD", "counties": [{"fips": "067", "name": "Howard"}, {"fips": "159", "name": "Tipton"}, {"fips": "103", "name": "Miami"}, {"fips": "053", "name": "Grant"}]}

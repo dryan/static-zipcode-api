@@ -1,1 +1,1 @@
-{"lat": 28.532052, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mcfaddin", "lng": -96.9902, "zip_code": "77973"}
+{"locality": "Mcfaddin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mcfaddin"], "postal_code": "77973", "lat": 28.532052, "lng": -96.9902, "type": "POBOX", "counties": [{"fips": "469", "name": "Victoria"}]}

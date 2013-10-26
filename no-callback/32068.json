@@ -1,1 +1,1 @@
-{"lat": 30.074926, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Middleburg", "lng": -81.87932, "zip_code": "32068"}
+{"locality": "Middleburg", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Middleburg"], "postal_code": "32068", "lat": 30.074926, "lng": -81.87932, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clay"}, {"fips": "109", "name": "Saint Johns"}]}

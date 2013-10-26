@@ -1,1 +1,1 @@
-{"lat": 39.934395, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Narka", "lng": -97.42125, "zip_code": "66960"}
+{"locality": "Narka", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Narka"], "postal_code": "66960", "lat": 39.934395, "lng": -97.42125, "type": "STANDARD", "counties": [{"fips": "157", "name": "Republic"}, {"fips": "201", "name": "Washington"}]}

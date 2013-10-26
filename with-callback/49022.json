@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.10809, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Benton Harbor", "lng": -86.41801, "zip_code": "49022"});
+zipapicallback({"locality": "Benton Harbor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Benton Harbor"], "postal_code": "49022", "lat": 42.10809, "lng": -86.41801, "type": "STANDARD", "counties": [{"fips": "021", "name": "Berrien"}, {"fips": "159", "name": "Van Buren"}]});

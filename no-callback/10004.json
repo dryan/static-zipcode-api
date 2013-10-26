@@ -1,1 +1,1 @@
-{"lat": 40.699226, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Governors Island", "lng": -74.04118, "zip_code": "10004"}
+{"locality": "New York", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bowling Green", "New York"], "postal_code": "10004", "lat": 40.699226, "lng": -74.04118, "type": "STANDARD", "counties": [{"fips": "061", "name": "New York"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.448733, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Concho", "lng": -109.7114, "zip_code": "85924"});
+zipapicallback({"locality": "Concho", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Concho"], "postal_code": "85924", "lat": 34.448733, "lng": -109.7114, "type": "STANDARD", "counties": [{"fips": "001", "name": "Apache"}]});

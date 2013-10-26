@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.09977, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Kearny", "lng": -110.97202, "zip_code": "85237"});
+zipapicallback({"locality": "Kearny", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Kearny"], "postal_code": "85237", "lat": 33.09977, "lng": -110.97202, "type": "STANDARD", "counties": [{"fips": "021", "name": "Pinal"}, {"fips": "013", "name": "Maricopa"}]});

@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Dover", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Dover"], "postal_code": "19903", "type": "POBOX", "counties": [{"fips": "001", "name": "Kent"}, {"fips": "005", "name": "Sussex"}]});

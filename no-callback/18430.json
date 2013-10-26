@@ -1,1 +1,1 @@
-{"lat": 41.759285, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Herrick Center", "lng": -75.50111, "zip_code": "18430"}
+{"locality": "Herrick Center", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Herrick Center", "Herrick Ctr"], "postal_code": "18430", "lat": 41.759285, "lng": -75.50111, "type": "STANDARD", "counties": [{"fips": "115", "name": "Susquehanna"}]}

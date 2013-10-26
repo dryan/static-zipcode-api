@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.278429, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Russellville", "lng": -93.13682, "zip_code": "72801"});
+zipapicallback({"locality": "Russellville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Russellville"], "postal_code": "72801", "lat": 35.278429, "lng": -93.13682, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pope"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.731908, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Foreman", "lng": -94.38751, "zip_code": "71836"}
+{"locality": "Foreman", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Foreman"], "postal_code": "71836", "lat": 33.731908, "lng": -94.38751, "type": "STANDARD", "counties": [{"fips": "081", "name": "Little River"}]}

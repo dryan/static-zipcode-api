@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.839663, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Suitland", "lng": -76.91478, "zip_code": "20746"});
+zipapicallback({"locality": "Suitland", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Camp Springs", "Hillcrest Hgts", "Hillcrest Hts", "Morningside", "Suitland"], "postal_code": "20746", "lat": 38.839663, "lng": -76.91478, "type": "STANDARD", "counties": [{"fips": "033", "name": "Prince George's"}, {"fips": "031", "name": "Montgomery"}]});

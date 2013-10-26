@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.475132, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Hudgins", "lng": -76.31316, "zip_code": "23076"});
+zipapicallback({"locality": "Hudgins", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Hudgins", "Redart"], "postal_code": "23076", "lat": 37.475132, "lng": -76.31316, "type": "STANDARD", "counties": [{"fips": "115", "name": "Mathews"}]});

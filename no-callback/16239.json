@@ -1,1 +1,1 @@
-{"lat": 41.496544, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Marienville", "lng": -79.13944, "zip_code": "16239"}
+{"locality": "Marienville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Marienville"], "postal_code": "16239", "lat": 41.496544, "lng": -79.13944, "type": "STANDARD", "counties": [{"fips": "053", "name": "Forest"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.835421, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Lund", "lng": -115.02628, "zip_code": "89317"}
+{"locality": "Lund", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Lund"], "postal_code": "89317", "lat": 38.835421, "lng": -115.02628, "type": "POBOX", "counties": [{"fips": "033", "name": "White Pine"}]}

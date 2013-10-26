@@ -1,1 +1,1 @@
-{"lat": 43.133294, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ruthven", "lng": -94.90006, "zip_code": "51358"}
+{"locality": "Ruthven", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ruthven"], "postal_code": "51358", "lat": 43.133294, "lng": -94.90006, "type": "STANDARD", "counties": [{"fips": "147", "name": "Palo Alto"}]}

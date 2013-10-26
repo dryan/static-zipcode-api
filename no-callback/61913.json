@@ -1,1 +1,1 @@
-{"lat": 39.809929, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Atwood", "lng": -88.45309, "zip_code": "61913"}
+{"locality": "Atwood", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Atwood"], "postal_code": "61913", "lat": 39.809929, "lng": -88.45309, "type": "STANDARD", "counties": [{"fips": "041", "name": "Douglas"}]}

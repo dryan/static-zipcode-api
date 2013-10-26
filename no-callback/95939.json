@@ -1,1 +1,1 @@
-{"lat": 39.535446, "region": {"abbr": "CA", "name": "California"}, "locality": "Elk Creek", "lng": -122.57667, "zip_code": "95939"}
+{"locality": "Elk Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Elk Creek"], "postal_code": "95939", "lat": 39.535446, "lng": -122.57667, "type": "STANDARD", "counties": [{"fips": "021", "name": "Glenn"}]}

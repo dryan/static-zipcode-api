@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.416335, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hemlock", "lng": -84.22384, "zip_code": "48626"});
+zipapicallback({"locality": "Hemlock", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hemlock"], "postal_code": "48626", "lat": 43.416335, "lng": -84.22384, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "111", "name": "Midland"}]});

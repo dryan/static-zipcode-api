@@ -1,1 +1,1 @@
-{"lat": 41.971403, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Woodstock", "lng": -71.99872, "zip_code": "06281"}
+{"locality": "Woodstock", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Woodstock"], "postal_code": "06281", "lat": 41.971403, "lng": -71.99872, "type": "STANDARD", "counties": [{"fips": "015", "name": "Windham"}]}

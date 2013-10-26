@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.329473, "region": {"abbr": "NY", "name": "New York"}, "locality": "Upper Jay", "lng": -73.79282, "zip_code": "12987"});
+zipapicallback({"locality": "Upper Jay", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Upper Jay"], "postal_code": "12987", "lat": 44.329473, "lng": -73.79282, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]});

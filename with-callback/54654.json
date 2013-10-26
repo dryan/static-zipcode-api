@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.265154, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Seneca", "lng": -90.959, "zip_code": "54654"});
+zipapicallback({"locality": "Seneca", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Seneca"], "postal_code": "54654", "lat": 43.265154, "lng": -90.959, "type": "POBOX", "counties": [{"fips": "023", "name": "Crawford"}]});

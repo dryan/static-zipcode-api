@@ -1,1 +1,1 @@
-{"lat": 33.784316, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Stephens", "lng": -83.16666, "zip_code": "30667"}
+{"locality": "Stephens", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Stephens"], "postal_code": "30667", "lat": 33.784316, "lng": -83.16666, "type": "STANDARD", "counties": [{"fips": "221", "name": "Oglethorpe"}]}

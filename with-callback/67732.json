@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.424782, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Brewster", "lng": -101.3533, "zip_code": "67732"});
+zipapicallback({"locality": "Brewster", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Brewster"], "postal_code": "67732", "lat": 39.424782, "lng": -101.3533, "type": "STANDARD", "counties": [{"fips": "193", "name": "Thomas"}, {"fips": "023", "name": "Cheyenne"}, {"fips": "181", "name": "Sherman"}, {"fips": "153", "name": "Rawlins"}, {"fips": "109", "name": "Logan"}]});

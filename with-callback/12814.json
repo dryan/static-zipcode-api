@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.582318, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bolton Landing", "lng": -73.65515, "zip_code": "12814"});
+zipapicallback({"locality": "Bolton Landing", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bolton Landing", "Bolton Lndg"], "postal_code": "12814", "lat": 43.582318, "lng": -73.65515, "type": "STANDARD", "counties": [{"fips": "113", "name": "Warren"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.906099, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Millwood", "lng": -81.83274, "zip_code": "25262"}
+{"locality": "Millwood", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Millwood"], "postal_code": "25262", "lat": 38.906099, "lng": -81.83274, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}]}

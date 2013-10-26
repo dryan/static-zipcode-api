@@ -1,1 +1,1 @@
-{"lat": 42.515818, "region": {"abbr": "NY", "name": "New York"}, "locality": "Westerlo", "lng": -74.04978, "zip_code": "12193"}
+{"locality": "Westerlo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Westerlo"], "postal_code": "12193", "lat": 42.515818, "lng": -74.04978, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}]}

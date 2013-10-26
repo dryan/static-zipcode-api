@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.174994, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ephrata", "lng": -76.17619, "zip_code": "17522"});
+zipapicallback({"locality": "Ephrata", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ephrata"], "postal_code": "17522", "lat": 40.174994, "lng": -76.17619, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.401466, "region": {"abbr": "CA", "name": "California"}, "locality": "Oak View", "lng": -119.30082, "zip_code": "93022"}
+{"locality": "Oak View", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Oak View"], "postal_code": "93022", "lat": 34.401466, "lng": -119.30082, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}]}

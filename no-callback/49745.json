@@ -1,1 +1,1 @@
-{"lat": 46.01207, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hessel", "lng": -84.45048, "zip_code": "49745"}
+{"locality": "Hessel", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hessel"], "postal_code": "49745", "lat": 46.01207, "lng": -84.45048, "type": "STANDARD", "counties": [{"fips": "097", "name": "MacKinac"}]}

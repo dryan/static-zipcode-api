@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.244744, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Maple Lake", "lng": -94.00289, "zip_code": "55358"});
+zipapicallback({"locality": "Maple Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Maple Lake"], "postal_code": "55358", "lat": 45.244744, "lng": -94.00289, "type": "STANDARD", "counties": [{"fips": "171", "name": "Wright"}]});

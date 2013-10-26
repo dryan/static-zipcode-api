@@ -1,1 +1,1 @@
-{"lat": 39.192552, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Dover", "lng": -93.68661, "zip_code": "64022"}
+{"locality": "Dover", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Dover"], "postal_code": "64022", "lat": 39.192552, "lng": -93.68661, "type": "STANDARD", "counties": [{"fips": "107", "name": "Lafayette"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.416189, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Crouse", "lng": -81.31911, "zip_code": "28033"}
+{"locality": "Crouse", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Crouse"], "postal_code": "28033", "lat": 35.416189, "lng": -81.31911, "type": "STANDARD", "counties": [{"fips": "109", "name": "Lincoln"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.450262, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Sterling", "lng": -96.37773, "zip_code": "68443"});
+zipapicallback({"locality": "Sterling", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Saint Mary", "Sterling"], "postal_code": "68443", "lat": 40.450262, "lng": -96.37773, "type": "STANDARD", "counties": [{"fips": "097", "name": "Johnson"}]});

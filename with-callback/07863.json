@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.815107, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Oxford", "lng": -74.96802, "zip_code": "07863"});
+zipapicallback({"locality": "Oxford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Oxford"], "postal_code": "07863", "lat": 40.815107, "lng": -74.96802, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.625444, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Bethlehem", "lng": -75.38831, "zip_code": "18018"}
+{"locality": "Bethlehem", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bethlehem"], "postal_code": "18018", "lat": 40.625444, "lng": -75.38831, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "095", "name": "Northampton"}]}

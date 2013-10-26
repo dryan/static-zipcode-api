@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.661554, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Axtell", "lng": -96.95451, "zip_code": "76624"});
+zipapicallback({"locality": "Axtell", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Axtell"], "postal_code": "76624", "lat": 31.661554, "lng": -96.95451, "type": "STANDARD", "counties": [{"fips": "309", "name": "McLennan"}, {"fips": "293", "name": "Limestone"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.000076, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Grand Rapids", "lng": -85.64785, "zip_code": "49505"}
+{"locality": "Grand Rapids", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grand Rapids"], "postal_code": "49505", "lat": 43.000076, "lng": -85.64785, "type": "STANDARD", "counties": [{"fips": "081", "name": "Kent"}]}

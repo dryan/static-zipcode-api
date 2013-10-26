@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.007625, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Kewanna", "lng": -86.4016, "zip_code": "46939"});
+zipapicallback({"locality": "Kewanna", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Kewanna"], "postal_code": "46939", "lat": 41.007625, "lng": -86.4016, "type": "STANDARD", "counties": [{"fips": "049", "name": "Fulton"}, {"fips": "131", "name": "Pulaski"}]});

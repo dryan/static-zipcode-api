@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.116959, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mount Morris", "lng": -83.69025, "zip_code": "48458"});
+zipapicallback({"locality": "Mount Morris", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mount Morris"], "postal_code": "48458", "lat": 43.116959, "lng": -83.69025, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}]});

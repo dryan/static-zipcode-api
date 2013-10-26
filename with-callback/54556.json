@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.549425, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Prentice", "lng": -90.31571, "zip_code": "54556"});
+zipapicallback({"locality": "Prentice", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Prentice"], "postal_code": "54556", "lat": 45.549425, "lng": -90.31571, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}]});

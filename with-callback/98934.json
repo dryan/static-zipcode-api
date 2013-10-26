@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.984565, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Kittitas", "lng": -120.41782, "zip_code": "98934"});
+zipapicallback({"locality": "Kittitas", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Kittitas"], "postal_code": "98934", "lat": 46.984565, "lng": -120.41782, "type": "POBOX", "counties": [{"fips": "037", "name": "Kittitas"}]});

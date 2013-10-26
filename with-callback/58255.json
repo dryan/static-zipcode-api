@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.999101, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Maida", "lng": -98.35241, "zip_code": "58255"});
+zipapicallback({"locality": "Maida", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Maida"], "postal_code": "58255", "lat": 48.999101, "lng": -98.35241, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cavalier"}]});

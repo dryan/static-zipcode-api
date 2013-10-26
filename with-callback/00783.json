@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.304874, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Corozal", "lng": -66.32305, "zip_code": "00783"});
+zipapicallback({"locality": "Corozal", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Corozal"], "postal_code": "00783", "lat": 18.304874, "lng": -66.32305, "type": "STANDARD", "counties": []});

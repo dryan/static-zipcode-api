@@ -1,1 +1,1 @@
-{"lat": 42.379436, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Redford", "lng": -83.29105, "zip_code": "48239"}
+{"locality": "Redford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Detroit", "Redford"], "postal_code": "48239", "lat": 42.379436, "lng": -83.29105, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

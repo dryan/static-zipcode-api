@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.491226, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Nicoma Park", "lng": -97.32434, "zip_code": "73066"});
+zipapicallback({"locality": "Nicoma Park", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Nicoma Park"], "postal_code": "73066", "lat": 35.491226, "lng": -97.32434, "type": "POBOX", "counties": [{"fips": "109", "name": "Oklahoma"}]});

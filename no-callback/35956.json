@@ -1,1 +1,1 @@
-{"lat": 34.155318, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Boaz", "lng": -86.13237, "zip_code": "35956"}
+{"locality": "Boaz", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Boaz", "Sardis City"], "postal_code": "35956", "lat": 34.155318, "lng": -86.13237, "type": "STANDARD", "counties": []}

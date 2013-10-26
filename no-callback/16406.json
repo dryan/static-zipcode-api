@@ -1,1 +1,1 @@
-{"lat": 41.746056, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Conneautville", "lng": -80.35888, "zip_code": "16406"}
+{"locality": "Conneautville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Conneautville"], "postal_code": "16406", "lat": 41.746056, "lng": -80.35888, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}, {"fips": "049", "name": "Erie"}]}

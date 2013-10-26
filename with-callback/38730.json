@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.701986, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Boyle", "lng": -90.76402, "zip_code": "38730"});
+zipapicallback({"locality": "Boyle", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Boyle", "Skene"], "postal_code": "38730", "lat": 33.701986, "lng": -90.76402, "type": "STANDARD", "counties": [{"fips": "011", "name": "Bolivar"}]});

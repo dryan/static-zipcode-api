@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.513198, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Bigelow", "lng": -95.69138, "zip_code": "56117"});
+zipapicallback({"locality": "Bigelow", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Bigelow"], "postal_code": "56117", "lat": 43.513198, "lng": -95.69138, "type": "STANDARD", "counties": [{"fips": "105", "name": "Nobles"}, {"fips": "143", "name": "Sibley"}]});

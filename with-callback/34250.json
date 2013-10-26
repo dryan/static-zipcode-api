@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.575972, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Terra Ceia", "lng": -82.58493, "zip_code": "34250"});
+zipapicallback({"locality": "Terra Ceia", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Terra Ceia", "Terra Ceia Is", "Terra Ceia Island"], "postal_code": "34250", "lat": 27.575972, "lng": -82.58493, "type": "POBOX", "counties": [{"fips": "081", "name": "Manatee"}]});

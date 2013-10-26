@@ -1,1 +1,1 @@
-{"lat": 40.916165, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Paterson", "lng": -74.17129, "zip_code": "07505"}
+{"locality": "Paterson", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Paterson"], "postal_code": "07505", "lat": 40.916165, "lng": -74.17129, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}]}

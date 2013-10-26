@@ -1,1 +1,1 @@
-{"lat": 32.941481, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Shongaloo", "lng": -93.3102, "zip_code": "71072"}
+{"locality": "Shongaloo", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Shongaloo"], "postal_code": "71072", "lat": 32.941481, "lng": -93.3102, "type": "STANDARD", "counties": [{"fips": "119", "name": "Webster"}, {"fips": "027", "name": "Claiborne"}]}

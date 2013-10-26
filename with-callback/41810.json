@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.185228, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Cromona", "lng": -82.69447, "zip_code": "41810"});
+zipapicallback({"locality": "Cromona", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Cromona"], "postal_code": "41810", "lat": 37.185228, "lng": -82.69447, "type": "POBOX", "counties": [{"fips": "133", "name": "Letcher"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.201674, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Grafton", "lng": -71.68771, "zip_code": "01519"}
+{"locality": "Grafton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Grafton"], "postal_code": "01519", "lat": 42.201674, "lng": -71.68771, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

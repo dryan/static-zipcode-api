@@ -1,1 +1,1 @@
-{"lat": 30.637348, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Bryan", "lng": -96.36015, "zip_code": "77801"}
+{"locality": "Bryan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bryan"], "postal_code": "77801", "lat": 30.637348, "lng": -96.36015, "type": "STANDARD", "counties": [{"fips": "041", "name": "Brazos"}, {"fips": "395", "name": "Robertson"}]}

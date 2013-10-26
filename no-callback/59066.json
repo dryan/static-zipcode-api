@@ -1,1 +1,1 @@
-{"lat": 45.353002, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Pryor", "lng": -108.49163, "zip_code": "59066"}
+{"locality": "Pryor", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Pryor"], "postal_code": "59066", "lat": 45.353002, "lng": -108.49163, "type": "POBOX", "counties": [{"fips": "003", "name": "Big Horn"}]}

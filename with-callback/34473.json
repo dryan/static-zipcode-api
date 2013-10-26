@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.003195, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ocala", "lng": -82.1899, "zip_code": "34473"});
+zipapicallback({"locality": "Ocala", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ocala"], "postal_code": "34473", "lat": 29.003195, "lng": -82.1899, "type": "STANDARD", "counties": []});

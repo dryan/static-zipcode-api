@@ -1,1 +1,1 @@
-{"lat": 41.300042, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Washington", "lng": -91.69743, "zip_code": "52353"}
+{"locality": "Washington", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Washington"], "postal_code": "52353", "lat": 41.300042, "lng": -91.69743, "type": "STANDARD", "counties": [{"fips": "183", "name": "Washington"}]}

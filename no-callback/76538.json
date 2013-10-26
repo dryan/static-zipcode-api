@@ -1,1 +1,1 @@
-{"lat": 31.629515, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Jonesboro", "lng": -97.90249, "zip_code": "76538"}
+{"locality": "Jonesboro", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Jonesboro"], "postal_code": "76538", "lat": 31.629515, "lng": -97.90249, "type": "STANDARD", "counties": [{"fips": "099", "name": "Coryell"}, {"fips": "193", "name": "Hamilton"}]}

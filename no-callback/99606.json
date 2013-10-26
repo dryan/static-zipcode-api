@@ -1,1 +1,1 @@
-{"lat": 59.748806, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kokhanok", "lng": -154.8124, "zip_code": "99606"}
+{"locality": "Iliamna", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Iliamna", "Kokhanok"], "postal_code": "99606", "lat": 59.748806, "lng": -154.8124, "type": "POBOX", "counties": [{"fips": "070", "name": "Dillingham"}]}

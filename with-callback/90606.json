@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.978312, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Nietos", "lng": -118.06778, "zip_code": "90606"});
+zipapicallback({"locality": "Whittier", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Nietos", "Whittier"], "postal_code": "90606", "lat": 33.978312, "lng": -118.06778, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "059", "name": "Orange"}]});

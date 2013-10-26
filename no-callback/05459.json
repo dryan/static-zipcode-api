@@ -1,1 +1,1 @@
-{"lat": 44.941617, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Highgate Center", "lng": -73.03056, "zip_code": "05459"}
+{"locality": "Highgate Center", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Highgate Center", "Highgate Ctr"], "postal_code": "05459", "lat": 44.941617, "lng": -73.03056, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}]}

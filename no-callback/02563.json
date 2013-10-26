@@ -1,1 +1,1 @@
-{"lat": 41.735645, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Sandwich", "lng": -70.48866, "zip_code": "02563"}
+{"locality": "Sandwich", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Sandwich"], "postal_code": "02563", "lat": 41.735645, "lng": -70.48866, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.018456, "region": {"abbr": "CA", "name": "California"}, "locality": "Linden", "lng": -121.05675, "zip_code": "95236"}
+{"locality": "Linden", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Linden"], "postal_code": "95236", "lat": 38.018456, "lng": -121.05675, "type": "STANDARD", "counties": [{"fips": "077", "name": "San Joaquin"}]}

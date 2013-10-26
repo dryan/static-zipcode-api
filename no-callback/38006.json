@@ -1,1 +1,1 @@
-{"lat": 35.696656, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Bells", "lng": -89.08457, "zip_code": "38006"}
+{"locality": "Bells", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Bells"], "postal_code": "38006", "lat": 35.696656, "lng": -89.08457, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crockett"}]}

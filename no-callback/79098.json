@@ -1,1 +1,1 @@
-{"lat": 35.151101, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wildorado", "lng": -102.18977, "zip_code": "79098"}
+{"locality": "Wildorado", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wildorado"], "postal_code": "79098", "lat": 35.151101, "lng": -102.18977, "type": "STANDARD", "counties": [{"fips": "359", "name": "Oldham"}, {"fips": "381", "name": "Randall"}, {"fips": "117", "name": "Deaf Smith"}]}

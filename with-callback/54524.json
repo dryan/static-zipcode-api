@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.85263, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Fifield", "lng": -90.41709, "zip_code": "54524"});
+zipapicallback({"locality": "Fifield", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fifield"], "postal_code": "54524", "lat": 45.85263, "lng": -90.41709, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}]});

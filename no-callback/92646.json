@@ -1,1 +1,1 @@
-{"lat": 33.666269, "region": {"abbr": "CA", "name": "California"}, "locality": "Huntington Beach", "lng": -117.9693, "zip_code": "92646"}
+{"locality": "Huntington Beach", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Huntingtn Bch", "Huntington Beach"], "postal_code": "92646", "lat": 33.666269, "lng": -117.9693, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}]}

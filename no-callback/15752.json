@@ -1,1 +1,1 @@
-{"lat": 40.541589, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kent", "lng": -79.28315, "zip_code": "15752"}
+{"locality": "Kent", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kent"], "postal_code": "15752", "lat": 40.541589, "lng": -79.28315, "type": "POBOX", "counties": [{"fips": "063", "name": "Indiana"}]}

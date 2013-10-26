@@ -1,1 +1,1 @@
-{"lat": 37.539672, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lafontaine", "lng": -95.84307, "zip_code": "66736"}
+{"locality": "Fredonia", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Coyville", "Fredonia", "Lafontaine", "New Albany"], "postal_code": "66736", "lat": 37.539672, "lng": -95.84307, "type": "STANDARD", "counties": [{"fips": "205", "name": "Wilson"}, {"fips": "207", "name": "Woodson"}, {"fips": "049", "name": "Elk"}, {"fips": "125", "name": "Montgomery"}, {"fips": "073", "name": "Greenwood"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.113918, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Superior", "lng": -114.84507, "zip_code": "59872"});
+zipapicallback({"locality": "Superior", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Superior"], "postal_code": "59872", "lat": 47.113918, "lng": -114.84507, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mineral"}]});

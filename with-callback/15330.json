@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.178679, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Eighty Four", "lng": -80.10014, "zip_code": "15330"});
+zipapicallback({"locality": "Eighty Four", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Eighty Four"], "postal_code": "15330", "lat": 40.178679, "lng": -80.10014, "type": "STANDARD", "counties": [{"fips": "125", "name": "Washington"}]});

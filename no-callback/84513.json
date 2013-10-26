@@ -1,1 +1,1 @@
-{"lat": 39.222858, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Castle Dale", "lng": -111.00605, "zip_code": "84513"}
+{"locality": "Castle Dale", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Castle Dale"], "postal_code": "84513", "lat": 39.222858, "lng": -111.00605, "type": "STANDARD", "counties": [{"fips": "015", "name": "Emery"}]}

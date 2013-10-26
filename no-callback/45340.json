@@ -1,1 +1,1 @@
-{"lat": 40.372607, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Maplewood", "lng": -84.05113, "zip_code": "45340"}
+{"locality": "Maplewood", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Maplewood"], "postal_code": "45340", "lat": 40.372607, "lng": -84.05113, "type": "STANDARD", "counties": [{"fips": "149", "name": "Shelby"}]}

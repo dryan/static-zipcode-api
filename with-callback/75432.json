@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.377005, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cooper", "lng": -95.68573, "zip_code": "75432"});
+zipapicallback({"locality": "Cooper", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cooper"], "postal_code": "75432", "lat": 33.377005, "lng": -95.68573, "type": "STANDARD", "counties": [{"fips": "119", "name": "Delta"}]});

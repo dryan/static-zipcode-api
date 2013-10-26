@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.555245, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fife Lake", "lng": -85.22931, "zip_code": "49633"});
+zipapicallback({"locality": "Fife Lake", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fife Lake"], "postal_code": "49633", "lat": 44.555245, "lng": -85.22931, "type": "STANDARD", "counties": [{"fips": "055", "name": "Grand Traverse"}, {"fips": "079", "name": "Kalkaska"}, {"fips": "165", "name": "Wexford"}]});

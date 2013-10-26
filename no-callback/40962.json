@@ -1,1 +1,1 @@
-{"lat": 37.164346, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Bright Shade", "lng": -83.76674, "zip_code": "40962"}
+{"locality": "Manchester", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Bluehole", "Bright Shade", "Chestnutburg", "Eriline", "Fogertown", "Grace", "Manchester", "Marcum", "Ogle", "Plank", "Tanksley", "Urban", "Wildcat"], "postal_code": "40962", "lat": 37.164346, "lng": -83.76674, "type": "STANDARD", "counties": [{"fips": "051", "name": "Clay"}, {"fips": "151", "name": "Madison"}]}

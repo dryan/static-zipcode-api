@@ -1,1 +1,1 @@
-{"lat": 40.150605, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Stratton", "lng": -101.23375, "zip_code": "69043"}
+{"locality": "Stratton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Stratton"], "postal_code": "69043", "lat": 40.150605, "lng": -101.23375, "type": "STANDARD", "counties": [{"fips": "087", "name": "Hitchcock"}, {"fips": "057", "name": "Dundy"}]}

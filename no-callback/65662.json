@@ -1,1 +1,1 @@
-{"lat": 37.465808, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Grovespring", "lng": -92.58794, "zip_code": "65662"}
+{"locality": "Grovespring", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Grovespring"], "postal_code": "65662", "lat": 37.465808, "lng": -92.58794, "type": "STANDARD", "counties": [{"fips": "229", "name": "Wright"}, {"fips": "225", "name": "Webster"}, {"fips": "105", "name": "Laclede"}]}

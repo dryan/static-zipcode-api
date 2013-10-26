@@ -1,1 +1,1 @@
-{"lat": 35.458912, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Princeton", "lng": -78.1638, "zip_code": "27569"}
+{"locality": "Princeton", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Princeton"], "postal_code": "27569", "lat": 35.458912, "lng": -78.1638, "type": "STANDARD", "counties": [{"fips": "101", "name": "Johnston"}, {"fips": "191", "name": "Wayne"}]}

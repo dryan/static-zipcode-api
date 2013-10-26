@@ -1,1 +1,1 @@
-{"lat": 48.214268, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Fordville", "lng": -97.82544, "zip_code": "58231"}
+{"locality": "Fordville", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Fordville"], "postal_code": "58231", "lat": 48.214268, "lng": -97.82544, "type": "STANDARD", "counties": [{"fips": "099", "name": "Walsh"}, {"fips": "035", "name": "Grand Forks"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.229815, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Regan", "lng": -100.5398, "zip_code": "58477"});
+zipapicallback({"locality": "Regan", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Regan"], "postal_code": "58477", "lat": 47.229815, "lng": -100.5398, "type": "STANDARD", "counties": [{"fips": "015", "name": "Burleigh"}]});

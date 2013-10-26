@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.325318, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Buckhorn", "lng": -83.49048, "zip_code": "41721"});
+zipapicallback({"locality": "Buckhorn", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Buckhorn"], "postal_code": "41721", "lat": 37.325318, "lng": -83.49048, "type": "STANDARD", "counties": [{"fips": "193", "name": "Perry"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.176109, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mount Pleasant", "lng": -80.79979, "zip_code": "43939"}
+{"locality": "Mount Pleasant", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Mount Pleasant", "Mt Pleasant"], "postal_code": "43939", "lat": 40.176109, "lng": -80.79979, "type": "POBOX", "counties": [{"fips": "081", "name": "Jefferson"}]}

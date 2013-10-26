@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.300247, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Windsor", "lng": -69.5744, "zip_code": "04363"});
+zipapicallback({"locality": "Windsor", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Windsor"], "postal_code": "04363", "lat": 44.300247, "lng": -69.5744, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]});

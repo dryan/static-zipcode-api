@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.857303, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Windsor", "lng": -72.66654, "zip_code": "06095"});
+zipapicallback({"locality": "Windsor", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Windsor"], "postal_code": "06095", "lat": 41.857303, "lng": -72.66654, "type": "STANDARD", "counties": [{"fips": "003", "name": "Hartford"}]});

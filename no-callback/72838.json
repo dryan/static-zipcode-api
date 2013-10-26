@@ -1,1 +1,1 @@
-{"lat": 34.88007, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gravelly", "lng": -93.70593, "zip_code": "72838"}
+{"locality": "Gravelly", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gravelly"], "postal_code": "72838", "lat": 34.88007, "lng": -93.70593, "type": "STANDARD", "counties": [{"fips": "149", "name": "Yell"}]}

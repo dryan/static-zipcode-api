@@ -1,1 +1,1 @@
-{"lat": 30.364339, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Jacksonville", "lng": -81.59087, "zip_code": "32277"}
+{"locality": "Jacksonville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jacksonville"], "postal_code": "32277", "lat": 30.364339, "lng": -81.59087, "type": "STANDARD", "counties": []}

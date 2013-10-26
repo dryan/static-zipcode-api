@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.176325, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Schneider", "lng": -87.46426, "zip_code": "46376"});
+zipapicallback({"locality": "Schneider", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Schneider"], "postal_code": "46376", "lat": 41.176325, "lng": -87.46426, "type": "POBOX", "counties": [{"fips": "089", "name": "Lake"}]});

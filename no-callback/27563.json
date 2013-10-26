@@ -1,1 +1,1 @@
-{"lat": 36.450603, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Norlina", "lng": -78.21676, "zip_code": "27563"}
+{"locality": "Norlina", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Norlina"], "postal_code": "27563", "lat": 36.450603, "lng": -78.21676, "type": "STANDARD", "counties": [{"fips": "185", "name": "Warren"}]}

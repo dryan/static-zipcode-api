@@ -1,1 +1,1 @@
-{"lat": 40.059068, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Catlin", "lng": -87.70376, "zip_code": "61817"}
+{"locality": "Catlin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Catlin"], "postal_code": "61817", "lat": 40.059068, "lng": -87.70376, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

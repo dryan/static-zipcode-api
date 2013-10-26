@@ -1,1 +1,1 @@
-{"lat": 47.057303, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Monarch", "lng": -110.84279, "zip_code": "59463"}
+{"locality": "Monarch", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Monarch"], "postal_code": "59463", "lat": 47.057303, "lng": -110.84279, "type": "STANDARD", "counties": [{"fips": "013", "name": "Cascade"}]}

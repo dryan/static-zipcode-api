@@ -1,1 +1,1 @@
-{"lat": 32.765739, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Belcher", "lng": -93.88028, "zip_code": "71004"}
+{"locality": "Belcher", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Belcher"], "postal_code": "71004", "lat": 32.765739, "lng": -93.88028, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]}

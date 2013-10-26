@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.471378, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Correctionville", "lng": -95.80529, "zip_code": "51016"});
+zipapicallback({"locality": "Correctionville", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Correctionville", "Correctionvle"], "postal_code": "51016", "lat": 42.471378, "lng": -95.80529, "type": "STANDARD", "counties": [{"fips": "193", "name": "Woodbury"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.15283, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Sandy Spring", "lng": -77.03494, "zip_code": "20860"});
+zipapicallback({"locality": "Sandy Spring", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Sandy Spring"], "postal_code": "20860", "lat": 39.15283, "lng": -77.03494, "type": "STANDARD", "counties": [{"fips": "031", "name": "Montgomery"}]});

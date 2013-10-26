@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.351697, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ravenwood", "lng": -94.67399, "zip_code": "64479"});
+zipapicallback({"locality": "Ravenwood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ravenwood"], "postal_code": "64479", "lat": 40.351697, "lng": -94.67399, "type": "STANDARD", "counties": [{"fips": "147", "name": "Nodaway"}, {"fips": "075", "name": "Gentry"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.283844, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Leeds", "lng": -70.11254, "zip_code": "04263"}
+{"locality": "Leeds", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Leeds"], "postal_code": "04263", "lat": 44.283844, "lng": -70.11254, "type": "STANDARD", "counties": [{"fips": "001", "name": "Androscoggin"}]}

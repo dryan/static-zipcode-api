@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.388872, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Hancock", "lng": -95.36782, "zip_code": "51536"});
+zipapicallback({"locality": "Hancock", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Hancock"], "postal_code": "51536", "lat": 41.388872, "lng": -95.36782, "type": "STANDARD", "counties": [{"fips": "155", "name": "Pottawattamie"}]});

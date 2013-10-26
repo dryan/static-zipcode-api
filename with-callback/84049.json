@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.518775, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Midway", "lng": -111.49837, "zip_code": "84049"});
+zipapicallback({"locality": "Midway", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Midway"], "postal_code": "84049", "lat": 40.518775, "lng": -111.49837, "type": "STANDARD", "counties": [{"fips": "051", "name": "Wasatch"}]});

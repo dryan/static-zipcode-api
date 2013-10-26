@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.826487, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Fisher", "lng": -96.83308, "zip_code": "56723"});
+zipapicallback({"locality": "Fisher", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Fisher"], "postal_code": "56723", "lat": 47.826487, "lng": -96.83308, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}]});

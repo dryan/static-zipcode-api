@@ -1,1 +1,1 @@
-{"lat": 32.644647, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hutchins", "lng": -96.71036, "zip_code": "75141"}
+{"locality": "Hutchins", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hutchins"], "postal_code": "75141", "lat": 32.644647, "lng": -96.71036, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.458502, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Farmington Hills", "lng": -83.3464, "zip_code": "48336"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Farmingtn Hls", "Farmington", "Farmington Hills", "Farmington Hls"], "postal_code": "48336", "lat": 42.458502, "lng": -83.3464, "type": "STANDARD", "counties": []});

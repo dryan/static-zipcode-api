@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.33816, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gentry", "lng": -94.44985, "zip_code": "64453"});
+zipapicallback({"locality": "Gentry", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Gentry"], "postal_code": "64453", "lat": 40.33816, "lng": -94.44985, "type": "STANDARD", "counties": [{"fips": "075", "name": "Gentry"}]});

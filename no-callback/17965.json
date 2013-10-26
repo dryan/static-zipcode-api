@@ -1,1 +1,1 @@
-{"lat": 40.698814, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Port Carbon", "lng": -76.16405, "zip_code": "17965"}
+{"locality": "Port Carbon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Port Carbon"], "postal_code": "17965", "lat": 40.698814, "lng": -76.16405, "type": "STANDARD", "counties": [{"fips": "107", "name": "Schuylkill"}]}

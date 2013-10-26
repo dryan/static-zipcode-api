@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.974439, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Laketon", "lng": -85.83873, "zip_code": "46943"});
+zipapicallback({"locality": "Laketon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Laketon"], "postal_code": "46943", "lat": 40.974439, "lng": -85.83873, "type": "STANDARD", "counties": [{"fips": "169", "name": "Wabash"}]});

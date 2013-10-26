@@ -1,1 +1,1 @@
-{"lat": 42.516845, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Salem", "lng": -70.8985, "zip_code": "01970"}
+{"locality": "Salem", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Salem"], "postal_code": "01970", "lat": 42.516845, "lng": -70.8985, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

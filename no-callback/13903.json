@@ -1,1 +1,1 @@
-{"lat": 42.077258, "region": {"abbr": "NY", "name": "New York"}, "locality": "Binghamton", "lng": -75.90226, "zip_code": "13903"}
+{"locality": "Binghamton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Binghamton"], "postal_code": "13903", "lat": 42.077258, "lng": -75.90226, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broome"}]}

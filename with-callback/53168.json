@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.573081, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Salem", "lng": -88.12444, "zip_code": "53168"});
+zipapicallback({"locality": "Salem", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Salem"], "postal_code": "53168", "lat": 42.573081, "lng": -88.12444, "type": "STANDARD", "counties": [{"fips": "059", "name": "Kenosha"}]});

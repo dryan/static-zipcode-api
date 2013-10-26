@@ -1,1 +1,1 @@
-{"lat": 37.396445, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Providence", "lng": -87.76428, "zip_code": "42450"}
+{"locality": "Providence", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Providence"], "postal_code": "42450", "lat": 37.396445, "lng": -87.76428, "type": "STANDARD", "counties": [{"fips": "233", "name": "Webster"}]}

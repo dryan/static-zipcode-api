@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.232003, "region": {"abbr": "CA", "name": "California"}, "locality": "La Crescenta", "lng": -118.24753, "zip_code": "91214"});
+zipapicallback({"locality": "La Crescenta", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Glendale", "La Crescenta"], "postal_code": "91214", "lat": 34.232003, "lng": -118.24753, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

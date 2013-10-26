@@ -1,1 +1,1 @@
-{"lat": 32.408183, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Alvarado", "lng": -97.20956, "zip_code": "76009"}
+{"locality": "Alvarado", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alvarado"], "postal_code": "76009", "lat": 32.408183, "lng": -97.20956, "type": "STANDARD", "counties": [{"fips": "251", "name": "Johnson"}]}

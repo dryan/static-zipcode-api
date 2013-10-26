@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.496588, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Burley", "lng": -113.79857, "zip_code": "83318"});
+zipapicallback({"locality": "Burley", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Burley"], "postal_code": "83318", "lat": 42.496588, "lng": -113.79857, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cassia"}]});

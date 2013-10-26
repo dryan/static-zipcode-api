@@ -1,1 +1,1 @@
-{"lat": 45.549336, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hawkins", "lng": -90.73047, "zip_code": "54530"}
+{"locality": "Hawkins", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hawkins"], "postal_code": "54530", "lat": 45.549336, "lng": -90.73047, "type": "STANDARD", "counties": [{"fips": "107", "name": "Rusk"}, {"fips": "113", "name": "Sawyer"}, {"fips": "099", "name": "Price"}]}

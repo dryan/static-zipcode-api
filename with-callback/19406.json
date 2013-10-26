@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.092941, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "King Of Prussia", "lng": -75.37525, "zip_code": "19406"});
+zipapicallback({"locality": "King Of Prussia", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["King Of Prussia", "Kng Of Prussa", "Norristown"], "postal_code": "19406", "lat": 40.092941, "lng": -75.37525, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}]});

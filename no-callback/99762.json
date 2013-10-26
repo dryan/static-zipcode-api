@@ -1,1 +1,1 @@
-{"lat": 64.532616, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Golovin", "lng": -165.10883, "zip_code": "99762"}
+{"locality": "Nome", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Diomede", "Golovin", "Little Diomede", "Ltl Diomede", "Nome"], "postal_code": "99762", "lat": 64.532616, "lng": -165.10883, "type": "POBOX", "counties": [{"fips": "180", "name": "Nome"}]}

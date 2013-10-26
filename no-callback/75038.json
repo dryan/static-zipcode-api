@@ -1,1 +1,1 @@
-{"lat": 32.872386, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Irving", "lng": -96.98524, "zip_code": "75038"}
+{"locality": "Irving", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Irving"], "postal_code": "75038", "lat": 32.872386, "lng": -96.98524, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]}

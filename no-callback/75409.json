@@ -1,1 +1,1 @@
-{"lat": 33.356094, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Anna", "lng": -96.51907, "zip_code": "75409"}
+{"locality": "Anna", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Anna"], "postal_code": "75409", "lat": 33.356094, "lng": -96.51907, "type": "STANDARD", "counties": []}

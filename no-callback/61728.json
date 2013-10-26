@@ -1,1 +1,1 @@
-{"lat": 40.56944, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Colfax", "lng": -88.62727, "zip_code": "61728"}
+{"locality": "Colfax", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Colfax"], "postal_code": "61728", "lat": 40.56944, "lng": -88.62727, "type": "STANDARD", "counties": [{"fips": "113", "name": "McLean"}]}

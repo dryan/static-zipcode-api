@@ -1,1 +1,1 @@
-{"lat": 39.67083, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Morristown", "lng": -85.69786, "zip_code": "46161"}
+{"locality": "Morristown", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Morristown"], "postal_code": "46161", "lat": 39.67083, "lng": -85.69786, "type": "STANDARD", "counties": [{"fips": "145", "name": "Shelby"}, {"fips": "059", "name": "Hancock"}, {"fips": "139", "name": "Rush"}]}

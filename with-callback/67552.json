@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.876262, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Lewis", "lng": -99.23229, "zip_code": "67552"});
+zipapicallback({"locality": "Lewis", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Lewis"], "postal_code": "67552", "lat": 37.876262, "lng": -99.23229, "type": "STANDARD", "counties": [{"fips": "047", "name": "Edwards"}]});

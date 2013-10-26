@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.125523, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Marlow", "lng": -72.21382, "zip_code": "03456"});
+zipapicallback({"locality": "Marlow", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Marlow"], "postal_code": "03456", "lat": 43.125523, "lng": -72.21382, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cheshire"}]});

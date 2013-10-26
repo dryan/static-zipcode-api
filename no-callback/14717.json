@@ -1,1 +1,1 @@
-{"lat": 42.37074, "region": {"abbr": "NY", "name": "New York"}, "locality": "Caneadea", "lng": -78.19335, "zip_code": "14717"}
+{"locality": "Caneadea", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Caneadea"], "postal_code": "14717", "lat": 42.37074, "lng": -78.19335, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]}

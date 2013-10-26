@@ -1,1 +1,1 @@
-{"lat": 33.199867, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tahoka", "lng": -101.81949, "zip_code": "79373"}
+{"locality": "Tahoka", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tahoka"], "postal_code": "79373", "lat": 33.199867, "lng": -101.81949, "type": "STANDARD", "counties": [{"fips": "305", "name": "Lynn"}]}

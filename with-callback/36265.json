@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.824496, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Jacksonville", "lng": -85.77037, "zip_code": "36265"});
+zipapicallback({"locality": "Jacksonville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Jacksonville"], "postal_code": "36265", "lat": 33.824496, "lng": -85.77037, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calhoun"}]});

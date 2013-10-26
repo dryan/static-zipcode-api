@@ -1,1 +1,1 @@
-{"lat": 38.662989, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Clarksburg", "lng": -92.67253, "zip_code": "65025"}
+{"locality": "Clarksburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Clarksburg"], "postal_code": "65025", "lat": 38.662989, "lng": -92.67253, "type": "STANDARD", "counties": [{"fips": "135", "name": "Moniteau"}, {"fips": "053", "name": "Cooper"}]}

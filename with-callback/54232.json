@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.008575, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Saint Nazianz", "lng": -87.92456, "zip_code": "54232"});
+zipapicallback({"locality": "Saint Nazianz", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Saint Nazianz"], "postal_code": "54232", "lat": 44.008575, "lng": -87.92456, "type": "POBOX", "counties": [{"fips": "071", "name": "Manitowoc"}]});

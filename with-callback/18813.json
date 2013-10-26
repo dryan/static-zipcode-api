@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.753339, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Brooklyn", "lng": -75.80831, "zip_code": "18813"});
+zipapicallback({"locality": "Brooklyn", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Brooklyn"], "postal_code": "18813", "lat": 41.753339, "lng": -75.80831, "type": "POBOX", "counties": [{"fips": "115", "name": "Susquehanna"}]});

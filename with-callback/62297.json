@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.049616, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Walsh", "lng": -89.80775, "zip_code": "62297"});
+zipapicallback({"locality": "Walsh", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Walsh"], "postal_code": "62297", "lat": 38.049616, "lng": -89.80775, "type": "STANDARD", "counties": [{"fips": "157", "name": "Randolph"}]});

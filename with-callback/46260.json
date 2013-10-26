@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.898107, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Nora", "lng": -86.18232, "zip_code": "46260"});
+zipapicallback({"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Indianapolis", "Meridian Hills", "Meridian Hls", "Nora"], "postal_code": "46260", "lat": 39.898107, "lng": -86.18232, "type": "STANDARD", "counties": [{"fips": "057", "name": "Hamilton"}, {"fips": "097", "name": "Marion"}]});

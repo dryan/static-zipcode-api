@@ -1,1 +1,1 @@
-{"lat": 33.284887, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Bonneau", "lng": -79.91504, "zip_code": "29431"}
+{"locality": "Bonneau", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bonneau"], "postal_code": "29431", "lat": 33.284887, "lng": -79.91504, "type": "STANDARD", "counties": [{"fips": "015", "name": "Berkeley"}]}

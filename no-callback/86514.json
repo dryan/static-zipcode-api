@@ -1,1 +1,1 @@
-{"lat": 36.88092, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Teec Nos Pos", "lng": -109.33634, "zip_code": "86514"}
+{"locality": "Teec Nos Pos", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Teec Nos Pos"], "postal_code": "86514", "lat": 36.88092, "lng": -109.33634, "type": "STANDARD", "counties": [{"fips": "001", "name": "Apache"}]}

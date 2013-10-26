@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.462734, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Novi", "lng": -83.45865, "zip_code": "48375"});
+zipapicallback({"locality": "Novi", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Novi"], "postal_code": "48375", "lat": 42.462734, "lng": -83.45865, "type": "STANDARD", "counties": []});

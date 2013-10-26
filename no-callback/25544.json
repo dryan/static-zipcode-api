@@ -1,1 +1,1 @@
-{"lat": 38.219991, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Myra", "lng": -82.11462, "zip_code": "25544"}
+{"locality": "Myra", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Myra"], "postal_code": "25544", "lat": 38.219991, "lng": -82.11462, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.292147, "region": {"abbr": "NY", "name": "New York"}, "locality": "North Pole", "lng": -73.95985, "zip_code": "12946"});
+zipapicallback({"locality": "Lake Placid", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lake Placid"], "postal_code": "12946", "lat": 44.292147, "lng": -73.95985, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]});

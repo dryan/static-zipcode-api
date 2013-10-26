@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.802089, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Centerville", "lng": -85.00994, "zip_code": "47330"});
+zipapicallback({"locality": "Centerville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Centerville"], "postal_code": "47330", "lat": 39.802089, "lng": -85.00994, "type": "STANDARD", "counties": [{"fips": "177", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.354422, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Wyaconda", "lng": -91.91063, "zip_code": "63474"}
+{"locality": "Wyaconda", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Wyaconda"], "postal_code": "63474", "lat": 40.354422, "lng": -91.91063, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clark"}, {"fips": "199", "name": "Scotland"}, {"fips": "111", "name": "Lewis"}]}

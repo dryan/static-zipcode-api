@@ -1,1 +1,1 @@
-{"lat": 39.665637, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Aurora", "lng": -104.83421, "zip_code": "80014"}
+{"locality": "Aurora", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Aurora", "Denver"], "postal_code": "80014", "lat": 39.665637, "lng": -104.83421, "type": "STANDARD", "counties": [{"fips": "005", "name": "Arapahoe"}, {"fips": "031", "name": "Denver"}]}

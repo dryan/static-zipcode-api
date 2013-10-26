@@ -1,1 +1,1 @@
-{"lat": 32.834372, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Hillsboro", "lng": -107.59761, "zip_code": "88042"}
+{"locality": "Hillsboro", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Hillsboro"], "postal_code": "88042", "lat": 32.834372, "lng": -107.59761, "type": "STANDARD", "counties": [{"fips": "051", "name": "Sierra"}]}

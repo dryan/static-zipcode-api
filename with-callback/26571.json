@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.513513, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Farmington", "lng": -80.25738, "zip_code": "26571"});
+zipapicallback({"locality": "Farmington", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Farmington"], "postal_code": "26571", "lat": 39.513513, "lng": -80.25738, "type": "STANDARD", "counties": [{"fips": "049", "name": "Marion"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.030536, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Immaculata", "lng": -75.565, "zip_code": "19345"});
+zipapicallback({"locality": "Immaculata", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Immaculata"], "postal_code": "19345", "lat": 40.030536, "lng": -75.565, "type": "POBOX", "counties": [{"fips": "029", "name": "Chester"}]});

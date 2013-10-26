@@ -1,1 +1,1 @@
-{"lat": 46.574691, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Westfield", "lng": -67.96531, "zip_code": "04787"}
+{"locality": "Westfield", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Westfield"], "postal_code": "04787", "lat": 46.574691, "lng": -67.96531, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

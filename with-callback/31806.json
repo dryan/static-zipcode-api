@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.246795, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Ellaville", "lng": -84.32008, "zip_code": "31806"});
+zipapicallback({"locality": "Ellaville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Ellaville"], "postal_code": "31806", "lat": 32.246795, "lng": -84.32008, "type": "STANDARD", "counties": [{"fips": "249", "name": "Schley"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.217168, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Tuscaloosa", "lng": -87.49461, "zip_code": "35404"}
+{"locality": "Tuscaloosa", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Tuscaloosa"], "postal_code": "35404", "lat": 33.217168, "lng": -87.49461, "type": "STANDARD", "counties": [{"fips": "125", "name": "Tuscaloosa"}]}

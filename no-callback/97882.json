@@ -1,1 +1,1 @@
-{"lat": 45.915993, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Mcnary", "lng": -119.33008, "zip_code": "97882"}
+{"locality": "Umatilla", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Mcnary", "Umatilla"], "postal_code": "97882", "lat": 45.915993, "lng": -119.33008, "type": "STANDARD", "counties": [{"fips": "059", "name": "Umatilla"}]}

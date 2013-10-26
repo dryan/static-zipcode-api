@@ -1,1 +1,1 @@
-{"lat": 41.478896, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Wellman", "lng": -91.85354, "zip_code": "52356"}
+{"locality": "Wellman", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Wellman"], "postal_code": "52356", "lat": 41.478896, "lng": -91.85354, "type": "STANDARD", "counties": [{"fips": "183", "name": "Washington"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.483508, "region": {"abbr": "NY", "name": "New York"}, "locality": "Freedom", "lng": -78.30011, "zip_code": "14065"});
+zipapicallback({"locality": "Freedom", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Freedom", "Sandusky"], "postal_code": "14065", "lat": 42.483508, "lng": -78.30011, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}, {"fips": "003", "name": "Allegany"}]});

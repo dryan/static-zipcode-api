@@ -1,1 +1,1 @@
-{"lat": 35.335107, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Leupp", "lng": -110.99972, "zip_code": "86035"}
+{"locality": "Leupp", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Leupp"], "postal_code": "86035", "lat": 35.335107, "lng": -110.99972, "type": "POBOX", "counties": [{"fips": "005", "name": "Coconino"}]}

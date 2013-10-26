@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.606209, "region": {"abbr": "NY", "name": "New York"}, "locality": "Milford", "lng": -74.97261, "zip_code": "13807"});
+zipapicallback({"locality": "Milford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Milford"], "postal_code": "13807", "lat": 42.606209, "lng": -74.97261, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]});

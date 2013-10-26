@@ -1,1 +1,1 @@
-{"lat": 40.470605, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Rushsylvania", "lng": -83.66538, "zip_code": "43347"}
+{"locality": "Rushsylvania", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Rushsylvania"], "postal_code": "43347", "lat": 40.470605, "lng": -83.66538, "type": "STANDARD", "counties": [{"fips": "091", "name": "Logan"}, {"fips": "065", "name": "Hardin"}]}

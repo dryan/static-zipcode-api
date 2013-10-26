@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.635319, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Galata", "lng": -111.24083, "zip_code": "59444"});
+zipapicallback({"locality": "Galata", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Galata"], "postal_code": "59444", "lat": 48.635319, "lng": -111.24083, "type": "STANDARD", "counties": [{"fips": "101", "name": "Toole"}]});

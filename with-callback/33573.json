@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.713353, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sun City Center", "lng": -82.35965, "zip_code": "33573"});
+zipapicallback({"locality": "Sun City Center", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Ruskin", "Sun City Center", "Sun City Ctr"], "postal_code": "33573", "lat": 27.713353, "lng": -82.35965, "type": "STANDARD", "counties": []});

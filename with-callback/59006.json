@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.947154, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Ballantine", "lng": -108.0969, "zip_code": "59006"});
+zipapicallback({"locality": "Ballantine", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Ballantine"], "postal_code": "59006", "lat": 45.947154, "lng": -108.0969, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]});

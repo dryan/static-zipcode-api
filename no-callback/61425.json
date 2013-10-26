@@ -1,1 +1,1 @@
-{"lat": 40.778519, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carman", "lng": -91.05902, "zip_code": "61425"}
+{"locality": "Carman", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carman"], "postal_code": "61425", "lat": 40.778519, "lng": -91.05902, "type": "STANDARD", "counties": [{"fips": "071", "name": "Henderson"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.774967, "region": {"abbr": "CA", "name": "California"}, "locality": "Delano", "lng": -119.23371, "zip_code": "93215"}
+{"locality": "Delano", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Delano"], "postal_code": "93215", "lat": 35.774967, "lng": -119.23371, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]}

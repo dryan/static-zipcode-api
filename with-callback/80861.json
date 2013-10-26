@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.36479, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Vona", "lng": -102.75387, "zip_code": "80861"});
+zipapicallback({"locality": "Vona", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Vona"], "postal_code": "80861", "lat": 39.36479, "lng": -102.75387, "type": "STANDARD", "counties": [{"fips": "063", "name": "Kit Carson"}]});

@@ -1,1 +1,1 @@
-{"lat": 44.472424, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Center Valley", "lng": -88.45746, "zip_code": "54106"}
+{"locality": "Black Creek", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Black Creek"], "postal_code": "54106", "lat": 44.472424, "lng": -88.45746, "type": "STANDARD", "counties": [{"fips": "087", "name": "Outagamie"}, {"fips": "115", "name": "Shawano"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.530698, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Leeds", "lng": -86.55506, "zip_code": "35094"}
+{"locality": "Leeds", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Leeds"], "postal_code": "35094", "lat": 33.530698, "lng": -86.55506, "type": "STANDARD", "counties": [{"fips": "073", "name": "Jefferson"}, {"fips": "115", "name": "St. Clair"}, {"fips": "117", "name": "Shelby"}]}

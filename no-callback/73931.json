@@ -1,1 +1,1 @@
-{"lat": 36.601946, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Balko", "lng": -100.76553, "zip_code": "73931"}
+{"locality": "Balko", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Balko"], "postal_code": "73931", "lat": 36.601946, "lng": -100.76553, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beaver"}, {"fips": "139", "name": "Texas"}]}

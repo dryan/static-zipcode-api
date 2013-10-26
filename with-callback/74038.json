@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.164934, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Jennings", "lng": -96.56083, "zip_code": "74038"});
+zipapicallback({"locality": "Jennings", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Jennings"], "postal_code": "74038", "lat": 36.164934, "lng": -96.56083, "type": "STANDARD", "counties": [{"fips": "117", "name": "Pawnee"}, {"fips": "037", "name": "Creek"}]});

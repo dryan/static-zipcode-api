@@ -1,1 +1,1 @@
-{"lat": 41.774575, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Venango", "lng": -80.1145, "zip_code": "16440"}
+{"locality": "Venango", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Venango"], "postal_code": "16440", "lat": 41.774575, "lng": -80.1145, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}]}

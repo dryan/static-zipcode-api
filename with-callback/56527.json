@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.383585, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Deer Creek", "lng": -95.31644, "zip_code": "56527"});
+zipapicallback({"locality": "Deer Creek", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Deer Creek"], "postal_code": "56527", "lat": 46.383585, "lng": -95.31644, "type": "STANDARD", "counties": [{"fips": "111", "name": "Otter Tail"}]});

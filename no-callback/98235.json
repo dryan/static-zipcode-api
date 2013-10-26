@@ -1,1 +1,1 @@
-{"lat": 48.461672, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Clearlake", "lng": -122.23308, "zip_code": "98235"}
+{"locality": "Clearlake", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Clearlake"], "postal_code": "98235", "lat": 48.461672, "lng": -122.23308, "type": "POBOX", "counties": [{"fips": "057", "name": "Skagit"}]}

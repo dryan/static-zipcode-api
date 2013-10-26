@@ -1,1 +1,1 @@
-{"lat": 37.099348, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Ignacio", "lng": -107.64223, "zip_code": "81137"}
+{"locality": "Ignacio", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Ignacio", "S Ute Indian", "Southern Ute Indian Reservat"], "postal_code": "81137", "lat": 37.099348, "lng": -107.64223, "type": "STANDARD", "counties": [{"fips": "067", "name": "La Plata"}]}

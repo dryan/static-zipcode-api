@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.204009, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Daytona Beach", "lng": -81.03602, "zip_code": "32114"});
+zipapicallback({"locality": "Daytona Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Daytona Beach"], "postal_code": "32114", "lat": 29.204009, "lng": -81.03602, "type": "STANDARD", "counties": []});

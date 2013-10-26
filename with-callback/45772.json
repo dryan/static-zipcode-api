@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.143542, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Reedsville", "lng": -81.83724, "zip_code": "45772"});
+zipapicallback({"locality": "Reedsville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Reedsville"], "postal_code": "45772", "lat": 39.143542, "lng": -81.83724, "type": "STANDARD", "counties": [{"fips": "105", "name": "Meigs"}]});

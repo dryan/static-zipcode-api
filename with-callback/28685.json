@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.33942, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Traphill", "lng": -81.03564, "zip_code": "28685"});
+zipapicallback({"locality": "Traphill", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Traphill"], "postal_code": "28685", "lat": 36.33942, "lng": -81.03564, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}]});

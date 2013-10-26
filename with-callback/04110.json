@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.760369, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Cumberland Fores", "lng": -70.19681, "zip_code": "04110"});
+zipapicallback({"locality": "Cumberland Foreside", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cumb Foreside", "Cumberland Foreside", "Portland"], "postal_code": "04110", "lat": 43.760369, "lng": -70.19681, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

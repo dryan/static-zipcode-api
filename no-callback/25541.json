@@ -1,1 +1,1 @@
-{"lat": 38.440316, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Milton", "lng": -82.13535, "zip_code": "25541"}
+{"locality": "Milton", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Milton"], "postal_code": "25541", "lat": 38.440316, "lng": -82.13535, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}, {"fips": "053", "name": "Mason"}]}

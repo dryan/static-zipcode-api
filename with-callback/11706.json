@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.729098, "region": {"abbr": "NY", "name": "New York"}, "locality": "Kismet", "lng": -73.25607, "zip_code": "11706"});
+zipapicallback({"locality": "Bay Shore", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bay Shore", "Fair Harbor", "Kismet", "Point O Woods", "Saltaire"], "postal_code": "11706", "lat": 40.729098, "lng": -73.25607, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}, {"fips": "059", "name": "Nassau"}]});

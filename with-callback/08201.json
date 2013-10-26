@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.457517, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Smithville", "lng": -74.50914, "zip_code": "08201"});
+zipapicallback({"locality": "Absecon", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Absecon"], "postal_code": "08201", "lat": 39.457517, "lng": -74.50914, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]});

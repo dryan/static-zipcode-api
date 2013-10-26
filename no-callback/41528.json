@@ -1,1 +1,1 @@
-{"lat": 37.561944, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Freeburn", "lng": -82.13471, "zip_code": "41528"}
+{"locality": "Freeburn", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Freeburn"], "postal_code": "41528", "lat": 37.561944, "lng": -82.13471, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.612243, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Howell", "lng": -83.91835, "zip_code": "48843"}
+{"locality": "Howell", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Howell"], "postal_code": "48843", "lat": 42.612243, "lng": -83.91835, "type": "STANDARD", "counties": [{"fips": "093", "name": "Livingston"}]}

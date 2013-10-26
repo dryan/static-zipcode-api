@@ -1,1 +1,1 @@
-{"lat": 47.463725, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Rockford", "lng": -117.11319, "zip_code": "99030"}
+{"locality": "Rockford", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Rockford"], "postal_code": "99030", "lat": 47.463725, "lng": -117.11319, "type": "STANDARD", "counties": [{"fips": "063", "name": "Spokane"}]}

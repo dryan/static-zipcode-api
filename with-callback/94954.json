@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.243299, "region": {"abbr": "CA", "name": "California"}, "locality": "Petaluma", "lng": -122.6069, "zip_code": "94954"});
+zipapicallback({"locality": "Petaluma", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Petaluma"], "postal_code": "94954", "lat": 38.243299, "lng": -122.6069, "type": "STANDARD", "counties": []});

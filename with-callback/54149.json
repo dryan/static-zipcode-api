@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.204046, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Mountain", "lng": -88.51121, "zip_code": "54149"});
+zipapicallback({"locality": "Mountain", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Mountain"], "postal_code": "54149", "lat": 45.204046, "lng": -88.51121, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}]});

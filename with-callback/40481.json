@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.43424, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Sandgap", "lng": -84.09155, "zip_code": "40481"});
+zipapicallback({"locality": "Sandgap", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Sandgap"], "postal_code": "40481", "lat": 37.43424, "lng": -84.09155, "type": "STANDARD", "counties": [{"fips": "109", "name": "Jackson"}]});

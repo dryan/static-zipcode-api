@@ -1,1 +1,1 @@
-{"lat": 28.555795, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Big Wells", "lng": -99.50744, "zip_code": "78830"}
+{"locality": "Big Wells", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Big Wells"], "postal_code": "78830", "lat": 28.555795, "lng": -99.50744, "type": "STANDARD", "counties": [{"fips": "127", "name": "Dimmit"}]}

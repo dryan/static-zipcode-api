@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.824885, "region": {"abbr": "ME", "name": "Maine"}, "locality": "West Baldwin", "lng": -70.75038, "zip_code": "04091"});
+zipapicallback({"locality": "West Baldwin", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["West Baldwin"], "postal_code": "04091", "lat": 43.824885, "lng": -70.75038, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cumberland"}]});

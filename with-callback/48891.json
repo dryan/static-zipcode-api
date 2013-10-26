@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.402185, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Vestaburg", "lng": -84.92216, "zip_code": "48891"});
+zipapicallback({"locality": "Vestaburg", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Vestaburg"], "postal_code": "48891", "lat": 43.402185, "lng": -84.92216, "type": "STANDARD", "counties": [{"fips": "117", "name": "Montcalm"}, {"fips": "073", "name": "Isabella"}]});

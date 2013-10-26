@@ -1,1 +1,1 @@
-{"lat": 41.151826, "region": {"abbr": "NY", "name": "New York"}, "locality": "Orient", "lng": -72.27511, "zip_code": "11957"}
+{"locality": "Orient", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Orient"], "postal_code": "11957", "lat": 41.151826, "lng": -72.27511, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]}

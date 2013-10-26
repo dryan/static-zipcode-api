@@ -1,1 +1,1 @@
-{"lat": 46.12672, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Houlton", "lng": -67.87798, "zip_code": "04730"}
+{"locality": "Houlton", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Hammond", "Hodgdon", "Houlton", "Linneus", "Littleton", "Ludlow"], "postal_code": "04730", "lat": 46.12672, "lng": -67.87798, "type": "STANDARD", "counties": [{"fips": "003", "name": "Aroostook"}]}

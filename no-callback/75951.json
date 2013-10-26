@@ -1,1 +1,1 @@
-{"lat": 30.941282, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sam Rayburn", "lng": -94.03455, "zip_code": "75951"}
+{"locality": "Jasper", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Jasper"], "postal_code": "75951", "lat": 30.941282, "lng": -94.03455, "type": "STANDARD", "counties": [{"fips": "241", "name": "Jasper"}]}

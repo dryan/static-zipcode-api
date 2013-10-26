@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.090038, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Orleans", "lng": -85.11754, "zip_code": "48865"});
+zipapicallback({"locality": "Orleans", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Orleans"], "postal_code": "48865", "lat": 43.090038, "lng": -85.11754, "type": "STANDARD", "counties": [{"fips": "067", "name": "Ionia"}]});

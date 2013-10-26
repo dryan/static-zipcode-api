@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.394814, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Johnson", "lng": -96.01864, "zip_code": "68378"});
+zipapicallback({"locality": "Johnson", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Johnson"], "postal_code": "68378", "lat": 40.394814, "lng": -96.01864, "type": "STANDARD", "counties": [{"fips": "127", "name": "Nemaha"}, {"fips": "097", "name": "Johnson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.410145, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Palmyra", "lng": -86.09643, "zip_code": "47164"});
+zipapicallback({"locality": "Palmyra", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Palmyra"], "postal_code": "47164", "lat": 38.410145, "lng": -86.09643, "type": "STANDARD", "counties": [{"fips": "061", "name": "Harrison"}, {"fips": "043", "name": "Floyd"}, {"fips": "175", "name": "Washington"}]});

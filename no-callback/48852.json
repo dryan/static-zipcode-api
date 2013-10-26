@@ -1,1 +1,1 @@
-{"lat": 43.355304, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Mcbrides", "lng": -85.04326, "zip_code": "48852"}
+{"locality": "Mcbrides", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Mcbride", "Mcbrides"], "postal_code": "48852", "lat": 43.355304, "lng": -85.04326, "type": "POBOX", "counties": [{"fips": "117", "name": "Montcalm"}]}

@@ -1,1 +1,1 @@
-{"lat": 29.237074, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Stockdale", "lng": -97.95439, "zip_code": "78160"}
+{"locality": "Stockdale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Stockdale"], "postal_code": "78160", "lat": 29.237074, "lng": -97.95439, "type": "STANDARD", "counties": [{"fips": "493", "name": "Wilson"}]}

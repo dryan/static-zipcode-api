@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.189812, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Freeport", "lng": -81.27506, "zip_code": "43973"});
+zipapicallback({"locality": "Freeport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Freeport"], "postal_code": "43973", "lat": 40.189812, "lng": -81.27506, "type": "STANDARD", "counties": [{"fips": "059", "name": "Guernsey"}, {"fips": "067", "name": "Harrison"}, {"fips": "159", "name": "Union"}, {"fips": "013", "name": "Belmont"}]});

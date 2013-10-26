@@ -1,1 +1,1 @@
-{"lat": 37.675571, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Pence Springs", "lng": -80.73336, "zip_code": "24962"}
+{"locality": "Pence Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Pence Springs"], "postal_code": "24962", "lat": 37.675571, "lng": -80.73336, "type": "STANDARD", "counties": [{"fips": "089", "name": "Summers"}]}

@@ -1,1 +1,1 @@
-{"lat": 44.963802, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Jay Peak", "lng": -72.41782, "zip_code": "05859"}
+{"locality": "North Troy", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Jay", "Jay Peak", "North Troy"], "postal_code": "05859", "lat": 44.963802, "lng": -72.41782, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]}

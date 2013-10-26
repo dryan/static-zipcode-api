@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.098941, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Forman", "lng": -97.63549, "zip_code": "58032"});
+zipapicallback({"locality": "Forman", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Forman"], "postal_code": "58032", "lat": 46.098941, "lng": -97.63549, "type": "STANDARD", "counties": [{"fips": "081", "name": "Sargent"}]});

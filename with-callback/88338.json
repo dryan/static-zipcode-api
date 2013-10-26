@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.479136, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Lincoln", "lng": -105.35812, "zip_code": "88338"});
+zipapicallback({"locality": "Lincoln", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Lincoln"], "postal_code": "88338", "lat": 33.479136, "lng": -105.35812, "type": "STANDARD", "counties": [{"fips": "027", "name": "Lincoln"}]});

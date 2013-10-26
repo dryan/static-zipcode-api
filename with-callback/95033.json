@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.160012, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Gatos", "lng": -121.9881, "zip_code": "95033"});
+zipapicallback({"locality": "Los Gatos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Gatos"], "postal_code": "95033", "lat": 37.160012, "lng": -121.9881, "type": "STANDARD", "counties": []});

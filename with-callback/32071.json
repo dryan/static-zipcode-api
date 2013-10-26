@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.039096, "region": {"abbr": "FL", "name": "Florida"}, "locality": "O Brien", "lng": -82.94481, "zip_code": "32071"});
+zipapicallback({"locality": "O Brien", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["O Brien"], "postal_code": "32071", "lat": 30.039096, "lng": -82.94481, "type": "STANDARD", "counties": [{"fips": "121", "name": "Suwannee"}, {"fips": "023", "name": "Columbia"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.48067, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Winthrop Harbor", "lng": -87.83018, "zip_code": "60096"}
+{"locality": "Winthrop Harbor", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Winthrop Harbor", "Winthrop Hbr"], "postal_code": "60096", "lat": 42.48067, "lng": -87.83018, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lake"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.941521, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fayetteville", "lng": -96.65977, "zip_code": "78940"});
+zipapicallback({"locality": "Fayetteville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fayetteville"], "postal_code": "78940", "lat": 29.941521, "lng": -96.65977, "type": "STANDARD", "counties": [{"fips": "149", "name": "Fayette"}, {"fips": "015", "name": "Austin"}, {"fips": "089", "name": "Colorado"}]});

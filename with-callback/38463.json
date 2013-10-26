@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.069017, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Iron City", "lng": -87.62171, "zip_code": "38463"});
+zipapicallback({"locality": "Iron City", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Iron City"], "postal_code": "38463", "lat": 35.069017, "lng": -87.62171, "type": "STANDARD", "counties": [{"fips": "099", "name": "Lawrence"}, {"fips": "181", "name": "Wayne"}]});

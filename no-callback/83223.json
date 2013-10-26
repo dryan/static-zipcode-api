@@ -1,1 +1,1 @@
-{"lat": 42.188641, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Bloomington", "lng": -111.40853, "zip_code": "83223"}
+{"locality": "Bloomington", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Bloomington"], "postal_code": "83223", "lat": 42.188641, "lng": -111.40853, "type": "POBOX", "counties": [{"fips": "007", "name": "Bear Lake"}]}

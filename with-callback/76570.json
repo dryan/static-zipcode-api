@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.071723, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rosebud", "lng": -96.96229, "zip_code": "76570"});
+zipapicallback({"locality": "Rosebud", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rosebud"], "postal_code": "76570", "lat": 31.071723, "lng": -96.96229, "type": "STANDARD", "counties": [{"fips": "145", "name": "Falls"}, {"fips": "331", "name": "Milam"}, {"fips": "027", "name": "Bell"}]});

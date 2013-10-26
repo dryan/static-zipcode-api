@@ -1,1 +1,1 @@
-{"lat": 36.111943, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Mannford", "lng": -96.37159, "zip_code": "74044"}
+{"locality": "Mannford", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Lawrence Creek", "Lawrence Crk", "Mannford"], "postal_code": "74044", "lat": 36.111943, "lng": -96.37159, "type": "STANDARD", "counties": [{"fips": "037", "name": "Creek"}, {"fips": "117", "name": "Pawnee"}]}

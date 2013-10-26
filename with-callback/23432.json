@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.871628, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Suffolk", "lng": -76.56063, "zip_code": "23432"});
+zipapicallback({"locality": "Suffolk", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Suffolk"], "postal_code": "23432", "lat": 36.871628, "lng": -76.56063, "type": "STANDARD", "counties": [{"fips": "800", "name": "Suffolk (City)"}]});

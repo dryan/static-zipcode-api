@@ -1,1 +1,1 @@
-{"lat": 34.39174, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lazbuddie", "lng": -102.60242, "zip_code": "79053"}
+{"locality": "Lazbuddie", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lazbuddie"], "postal_code": "79053", "lat": 34.39174, "lng": -102.60242, "type": "POBOX", "counties": [{"fips": "369", "name": "Parmer"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.682886, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Oelwein", "lng": -91.92182, "zip_code": "50662"});
+zipapicallback({"locality": "Oelwein", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Oelwein"], "postal_code": "50662", "lat": 42.682886, "lng": -91.92182, "type": "STANDARD", "counties": [{"fips": "065", "name": "Fayette"}, {"fips": "019", "name": "Buchanan"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.568115, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Murrells Inlet", "lng": -79.03226, "zip_code": "29576"}
+{"locality": "Murrells Inlet", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Murrells Inlet", "Murrells Inlt"], "postal_code": "29576", "lat": 33.568115, "lng": -79.03226, "type": "STANDARD", "counties": [{"fips": "043", "name": "Georgetown"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.922583, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Smithville", "lng": -85.80108, "zip_code": "37166"}
+{"locality": "Smithville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Smithville"], "postal_code": "37166", "lat": 35.922583, "lng": -85.80108, "type": "STANDARD", "counties": [{"fips": "041", "name": "Dekalb"}, {"fips": "177", "name": "Warren"}, {"fips": "015", "name": "Cannon"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.921705, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Oxford", "lng": -82.07847, "zip_code": "34484"});
+zipapicallback({"locality": "Oxford", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Oxford"], "postal_code": "34484", "lat": 28.921705, "lng": -82.07847, "type": "STANDARD", "counties": []});

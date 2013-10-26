@@ -1,1 +1,1 @@
-{"lat": 39.081754, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Cape May Court H", "lng": -74.83658, "zip_code": "08210"}
+{"locality": "Cape May Court House", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cape May Ch", "Cape May Court House"], "postal_code": "08210", "lat": 39.081754, "lng": -74.83658, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cape May"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.314084, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Port Elizabeth", "lng": -74.97889, "zip_code": "08348"}
+{"locality": "Port Elizabeth", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Port Elizabeth", "Prt Elizabeth"], "postal_code": "08348", "lat": 39.314084, "lng": -74.97889, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cumberland"}]}

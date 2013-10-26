@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.401801, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Brigantine", "lng": -74.38017, "zip_code": "08203"});
+zipapicallback({"locality": "Brigantine", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Brigantine"], "postal_code": "08203", "lat": 39.401801, "lng": -74.38017, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]});

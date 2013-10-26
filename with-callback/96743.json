@@ -1,1 +1,1 @@
-zipapicallback({"lat": 20.040191, "region": {"abbr": "HI", "name": "Hawaii"}, "locality": "Kamuela", "lng": -155.69999, "zip_code": "96743"});
+zipapicallback({"locality": "Kamuela", "region": {"fips": "15", "abbr": "HI", "name": "Hawaii"}, "localities": ["Kamuela"], "postal_code": "96743", "lat": 20.040191, "lng": -155.69999, "type": "STANDARD", "counties": [{"fips": "001", "name": "Hawaii"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.236691, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Tulsa", "lng": -95.98674, "zip_code": "74126"});
+zipapicallback({"locality": "Tulsa", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Tulsa"], "postal_code": "74126", "lat": 36.236691, "lng": -95.98674, "type": "STANDARD", "counties": [{"fips": "143", "name": "Tulsa"}, {"fips": "113", "name": "Osage"}]});

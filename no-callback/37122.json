@@ -1,1 +1,1 @@
-{"lat": 36.195016, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Mount Juliet", "lng": -86.49732, "zip_code": "37122"}
+{"locality": "Mount Juliet", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Mount Juliet"], "postal_code": "37122", "lat": 36.195016, "lng": -86.49732, "type": "STANDARD", "counties": [{"fips": "189", "name": "Wilson"}, {"fips": "037", "name": "Davidson"}, {"fips": "149", "name": "Rutherford"}]}

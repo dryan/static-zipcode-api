@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.861237, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Neola", "lng": -80.24008, "zip_code": "24986"});
+zipapicallback({"locality": "White Sulphur Springs", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Neola", "White Sulphur Springs", "Wht Sphr Spgs", "Wht Sulphur S", "Wht Sulphur Spgs"], "postal_code": "24986", "lat": 37.861237, "lng": -80.24008, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.909175, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lenox", "lng": -94.52311, "zip_code": "50851"}
+{"locality": "Lenox", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Kent", "Lenox"], "postal_code": "50851", "lat": 40.909175, "lng": -94.52311, "type": "STANDARD", "counties": [{"fips": "173", "name": "Taylor"}, {"fips": "003", "name": "Adams"}, {"fips": "175", "name": "Union"}, {"fips": "159", "name": "Ringgold"}]}

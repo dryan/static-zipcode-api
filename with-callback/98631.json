@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.365773, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Long Beach", "lng": -124.05022, "zip_code": "98631"});
+zipapicallback({"locality": "Long Beach", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Long Beach"], "postal_code": "98631", "lat": 46.365773, "lng": -124.05022, "type": "STANDARD", "counties": [{"fips": "049", "name": "Pacific"}]});

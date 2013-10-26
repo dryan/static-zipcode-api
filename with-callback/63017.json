@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.647023, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Town And Country", "lng": -90.53918, "zip_code": "63017"});
+zipapicallback({"locality": "Chesterfield", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Chesterfield", "Town And Country", "Twn And Cntry"], "postal_code": "63017", "lat": 38.647023, "lng": -90.53918, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]});

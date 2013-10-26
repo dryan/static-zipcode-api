@@ -1,1 +1,1 @@
-{"lat": 43.182851, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Montrose", "lng": -83.89507, "zip_code": "48457"}
+{"locality": "Montrose", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Montrose"], "postal_code": "48457", "lat": 43.182851, "lng": -83.89507, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}, {"fips": "145", "name": "Saginaw"}]}

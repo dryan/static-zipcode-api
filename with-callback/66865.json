@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.241502, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Olpe", "lng": -96.20048, "zip_code": "66865"});
+zipapicallback({"locality": "Olpe", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Olpe"], "postal_code": "66865", "lat": 38.241502, "lng": -96.20048, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lyon"}]});

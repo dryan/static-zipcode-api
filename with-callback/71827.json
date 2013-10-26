@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.378452, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Buckner", "lng": -93.43692, "zip_code": "71827"});
+zipapicallback({"locality": "Buckner", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Buckner"], "postal_code": "71827", "lat": 33.378452, "lng": -93.43692, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lafayette"}]});

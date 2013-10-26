@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.547098, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Enterprise", "lng": -117.26823, "zip_code": "97828"});
+zipapicallback({"locality": "Enterprise", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Enterprise"], "postal_code": "97828", "lat": 45.547098, "lng": -117.26823, "type": "STANDARD", "counties": [{"fips": "063", "name": "Wallowa"}]});

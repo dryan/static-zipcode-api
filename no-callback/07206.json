@@ -1,1 +1,1 @@
-{"lat": 40.653189, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Elizabeth", "lng": -74.19158, "zip_code": "07206"}
+{"locality": "Elizabethport", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Elizabeth", "Elizabethport"], "postal_code": "07206", "lat": 40.653189, "lng": -74.19158, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}]}

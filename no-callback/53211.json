@@ -1,1 +1,1 @@
-{"lat": 43.083012, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Shorewood", "lng": -87.8859, "zip_code": "53211"}
+{"locality": "Milwaukee", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Glendale", "Milwaukee", "Shorewood", "Whitefish Bay"], "postal_code": "53211", "lat": 43.083012, "lng": -87.8859, "type": "STANDARD", "counties": [{"fips": "079", "name": "Milwaukee"}]}

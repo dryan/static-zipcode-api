@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.536715, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Roslyn", "lng": -97.54435, "zip_code": "57261"});
+zipapicallback({"locality": "Roslyn", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Roslyn"], "postal_code": "57261", "lat": 45.536715, "lng": -97.54435, "type": "STANDARD", "counties": [{"fips": "037", "name": "Day"}]});

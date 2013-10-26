@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.123919, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Desmet", "lng": -116.94417, "zip_code": "83824"});
+zipapicallback({"locality": "Desmet", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Desmet"], "postal_code": "83824", "lat": 47.123919, "lng": -116.94417, "type": "STANDARD", "counties": [{"fips": "009", "name": "Benewah"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.660607, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Newcastle", "lng": -96.92796, "zip_code": "68757"});
+zipapicallback({"locality": "Newcastle", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Newcastle", "Obert"], "postal_code": "68757", "lat": 42.660607, "lng": -96.92796, "type": "STANDARD", "counties": [{"fips": "051", "name": "Dixon"}, {"fips": "027", "name": "Cedar"}]});

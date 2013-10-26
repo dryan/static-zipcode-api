@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.203634, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Counselor", "lng": -107.49441, "zip_code": "87018"});
+zipapicallback({"locality": "Counselor", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Counselor"], "postal_code": "87018", "lat": 36.203634, "lng": -107.49441, "type": "STANDARD", "counties": [{"fips": "043", "name": "Sandoval"}]});

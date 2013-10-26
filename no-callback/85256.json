@@ -1,1 +1,1 @@
-{"lat": 33.491302, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Scottsdale", "lng": -111.83509, "zip_code": "85256"}
+{"locality": "Scottsdale", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Scottsdale"], "postal_code": "85256", "lat": 33.491302, "lng": -111.83509, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]}

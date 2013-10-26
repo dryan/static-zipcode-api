@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.235, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Imler", "lng": -78.53545, "zip_code": "16655"});
+zipapicallback({"locality": "Imler", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Imler"], "postal_code": "16655", "lat": 40.235, "lng": -78.53545, "type": "STANDARD", "counties": [{"fips": "009", "name": "Bedford"}, {"fips": "013", "name": "Blair"}]});

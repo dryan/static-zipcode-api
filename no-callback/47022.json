@@ -1,1 +1,1 @@
-{"lat": 39.206203, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Guilford", "lng": -84.94922, "zip_code": "47022"}
+{"locality": "Guilford", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Guilford"], "postal_code": "47022", "lat": 39.206203, "lng": -84.94922, "type": "STANDARD", "counties": [{"fips": "029", "name": "Dearborn"}]}

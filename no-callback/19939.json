@@ -1,1 +1,1 @@
-{"lat": 38.557501, "region": {"abbr": "DE", "name": "Delaware"}, "locality": "Dagsboro", "lng": -75.21465, "zip_code": "19939"}
+{"locality": "Dagsboro", "region": {"fips": "10", "abbr": "DE", "name": "Delaware"}, "localities": ["Dagsboro"], "postal_code": "19939", "lat": 38.557501, "lng": -75.21465, "type": "STANDARD", "counties": [{"fips": "005", "name": "Sussex"}]}

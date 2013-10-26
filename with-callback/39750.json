@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.596326, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Maben", "lng": -89.07609, "zip_code": "39750"});
+zipapicallback({"locality": "Maben", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Maben"], "postal_code": "39750", "lat": 33.596326, "lng": -89.07609, "type": "STANDARD", "counties": [{"fips": "155", "name": "Webster"}, {"fips": "105", "name": "Oktibbeha"}]});

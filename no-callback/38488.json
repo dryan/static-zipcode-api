@@ -1,1 +1,1 @@
-{"lat": 35.045279, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Taft", "lng": -86.69047, "zip_code": "38488"}
+{"locality": "Taft", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Taft"], "postal_code": "38488", "lat": 35.045279, "lng": -86.69047, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lincoln"}, {"fips": "089", "name": "Jefferson"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.77928, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Sugar Tree", "lng": -88.02646, "zip_code": "38380"}
+{"locality": "Sugar Tree", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Sugar Tree"], "postal_code": "38380", "lat": 35.77928, "lng": -88.02646, "type": "STANDARD", "counties": [{"fips": "039", "name": "Decatur"}]}

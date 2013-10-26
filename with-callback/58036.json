@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.15096, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Gardner", "lng": -96.96482, "zip_code": "58036"});
+zipapicallback({"locality": "Gardner", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Gardner"], "postal_code": "58036", "lat": 47.15096, "lng": -96.96482, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}]});

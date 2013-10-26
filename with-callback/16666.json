@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.85258, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Osceola Mills", "lng": -78.28335, "zip_code": "16666"});
+zipapicallback({"locality": "Osceola Mills", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Osceola Mills"], "postal_code": "16666", "lat": 40.85258, "lng": -78.28335, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}, {"fips": "013", "name": "Blair"}]});

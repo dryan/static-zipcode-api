@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.314446, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Warsaw", "lng": -91.40638, "zip_code": "62379"});
+zipapicallback({"locality": "Warsaw", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Warsaw"], "postal_code": "62379", "lat": 40.314446, "lng": -91.40638, "type": "STANDARD", "counties": [{"fips": "067", "name": "Hancock"}, {"fips": "001", "name": "Adams"}]});

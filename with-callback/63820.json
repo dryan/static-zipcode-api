@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.824596, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Anniston", "lng": -89.32516, "zip_code": "63820"});
+zipapicallback({"locality": "Anniston", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Anniston"], "postal_code": "63820", "lat": 36.824596, "lng": -89.32516, "type": "POBOX", "counties": [{"fips": "133", "name": "Mississippi"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.499735, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Hennepin", "lng": -97.36406, "zip_code": "73444"}
+{"locality": "Hennepin", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Hennepin"], "postal_code": "73444", "lat": 34.499735, "lng": -97.36406, "type": "STANDARD", "counties": []}

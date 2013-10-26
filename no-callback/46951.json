@@ -1,1 +1,1 @@
-{"lat": 40.952117, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Macy", "lng": -86.1172, "zip_code": "46951"}
+{"locality": "Macy", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Macy"], "postal_code": "46951", "lat": 40.952117, "lng": -86.1172, "type": "STANDARD", "counties": [{"fips": "103", "name": "Miami"}, {"fips": "049", "name": "Fulton"}]}

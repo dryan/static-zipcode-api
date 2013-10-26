@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.608849, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Bridgewater Corn", "lng": -72.6799, "zip_code": "05035"});
+zipapicallback({"locality": "Bridgewater Corners", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Brdgewtr Cors", "Bridgewater Corners", "Bridgewtr Cor"], "postal_code": "05035", "lat": 43.608849, "lng": -72.6799, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

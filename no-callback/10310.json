@@ -1,1 +1,1 @@
-{"lat": 40.63212, "region": {"abbr": "NY", "name": "New York"}, "locality": "Staten Island", "lng": -74.11551, "zip_code": "10310"}
+{"locality": "Staten Island", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Staten Island"], "postal_code": "10310", "lat": 40.63212, "lng": -74.11551, "type": "STANDARD", "counties": [{"fips": "085", "name": "Richmond"}]}

@@ -1,1 +1,1 @@
-{"lat": 31.944207, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hico", "lng": -98.02763, "zip_code": "76457"}
+{"locality": "Hico", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hico"], "postal_code": "76457", "lat": 31.944207, "lng": -98.02763, "type": "STANDARD", "counties": [{"fips": "193", "name": "Hamilton"}, {"fips": "035", "name": "Bosque"}, {"fips": "143", "name": "Erath"}]}

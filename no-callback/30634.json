@@ -1,1 +1,1 @@
-{"lat": 34.212836, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Dewy Rose", "lng": -82.94112, "zip_code": "30634"}
+{"locality": "Dewy Rose", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dewy Rose"], "postal_code": "30634", "lat": 34.212836, "lng": -82.94112, "type": "STANDARD", "counties": [{"fips": "105", "name": "Elbert"}, {"fips": "147", "name": "Hart"}]}

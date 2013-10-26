@@ -1,1 +1,1 @@
-{"lat": 41.239046, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Linden", "lng": -77.15154, "zip_code": "17744"}
+{"locality": "Linden", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Linden"], "postal_code": "17744", "lat": 41.239046, "lng": -77.15154, "type": "STANDARD", "counties": [{"fips": "081", "name": "Lycoming"}]}

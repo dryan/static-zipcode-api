@@ -1,1 +1,1 @@
-{"lat": 35.023369, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Houston", "lng": -92.71047, "zip_code": "72070"}
+{"locality": "Houston", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Houston"], "postal_code": "72070", "lat": 35.023369, "lng": -92.71047, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perry"}]}

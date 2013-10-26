@@ -1,1 +1,1 @@
-{"lat": 30.866613, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Bemiss", "lng": -83.30078, "zip_code": "31602"}
+{"locality": "Valdosta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Valdosta"], "postal_code": "31602", "lat": 30.866613, "lng": -83.30078, "type": "STANDARD", "counties": [{"fips": "185", "name": "Lowndes"}, {"fips": "027", "name": "Brooks"}]}

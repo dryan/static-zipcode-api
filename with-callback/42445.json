@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.12596, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Princeton", "lng": -87.87429, "zip_code": "42445"});
+zipapicallback({"locality": "Princeton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Princeton"], "postal_code": "42445", "lat": 37.12596, "lng": -87.87429, "type": "STANDARD", "counties": [{"fips": "033", "name": "Caldwell"}, {"fips": "221", "name": "Trigg"}]});

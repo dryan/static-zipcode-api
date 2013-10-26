@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.028617, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mifflinville", "lng": -76.30717, "zip_code": "18631"});
+zipapicallback({"locality": "Mifflinville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mifflinville"], "postal_code": "18631", "lat": 41.028617, "lng": -76.30717, "type": "POBOX", "counties": [{"fips": "037", "name": "Columbia"}]});

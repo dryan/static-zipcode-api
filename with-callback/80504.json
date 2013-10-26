@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.160138, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Longmont", "lng": -105.01772, "zip_code": "80504"});
+zipapicallback({"locality": "Longmont", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Firestone", "Frederick", "Longmont", "Niwot"], "postal_code": "80504", "lat": 40.160138, "lng": -105.01772, "type": "STANDARD", "counties": []});

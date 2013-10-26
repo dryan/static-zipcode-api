@@ -1,1 +1,1 @@
-{"lat": 37.753347, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Owensboro", "lng": -87.17419, "zip_code": "42301"}
+{"locality": "Owensboro", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Owensboro", "Saint Joseph", "St Joseph", "Stanley"], "postal_code": "42301", "lat": 37.753347, "lng": -87.17419, "type": "STANDARD", "counties": [{"fips": "059", "name": "Daviess"}, {"fips": "053", "name": "Clinton"}, {"fips": "101", "name": "Henderson"}]}

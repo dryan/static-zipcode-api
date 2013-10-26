@@ -1,1 +1,1 @@
-{"lat": 34.014212, "region": {"abbr": "CA", "name": "California"}, "locality": "Montebello", "lng": -118.11358, "zip_code": "90640"}
+{"locality": "Montebello", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Montebello"], "postal_code": "90640", "lat": 34.014212, "lng": -118.11358, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "059", "name": "Orange"}]}

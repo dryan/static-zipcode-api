@@ -1,1 +1,1 @@
-{"lat": 40.689007, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Grantsville", "lng": -112.6698, "zip_code": "84029"}
+{"locality": "Grantsville", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Grantsville", "Lakeside", "Skull Valley"], "postal_code": "84029", "lat": 40.689007, "lng": -112.6698, "type": "STANDARD", "counties": [{"fips": "045", "name": "Tooele"}]}

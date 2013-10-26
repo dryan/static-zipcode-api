@@ -1,1 +1,1 @@
-{"lat": 46.323845, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Limestone", "lng": -86.90766, "zip_code": "49816"}
+{"locality": "Chatham", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Chatham", "Limestone"], "postal_code": "49816", "lat": 46.323845, "lng": -86.90766, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alger"}]}

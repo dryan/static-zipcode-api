@@ -1,1 +1,1 @@
-{"lat": 33.209313, "region": {"abbr": "CA", "name": "California"}, "locality": "Ranchita", "lng": -116.54244, "zip_code": "92066"}
+{"locality": "Ranchita", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ranchita", "Warner Spgs", "Warner Springs"], "postal_code": "92066", "lat": 33.209313, "lng": -116.54244, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

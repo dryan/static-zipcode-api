@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.395137, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Orchard", "lng": -98.22358, "zip_code": "68764"});
+zipapicallback({"locality": "Orchard", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Orchard"], "postal_code": "68764", "lat": 42.395137, "lng": -98.22358, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}, {"fips": "107", "name": "Knox"}, {"fips": "089", "name": "Holt"}]});

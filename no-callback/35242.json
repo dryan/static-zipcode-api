@@ -1,1 +1,1 @@
-{"lat": 33.409582, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Birmingham", "lng": -86.69684, "zip_code": "35242"}
+{"locality": "Birmingham", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Birmingham", "Meadowbrook", "Shoal Creek", "Vestavia", "Vestavia Hills", "Vestavia Hls"], "postal_code": "35242", "lat": 33.409582, "lng": -86.69684, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}, {"fips": "073", "name": "Jefferson"}]}

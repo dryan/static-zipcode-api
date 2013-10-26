@@ -1,1 +1,1 @@
-{"lat": 39.694641, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Helper", "lng": -110.98561, "zip_code": "84526"}
+{"locality": "Helper", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Helper", "Scofield"], "postal_code": "84526", "lat": 39.694641, "lng": -110.98561, "type": "STANDARD", "counties": [{"fips": "007", "name": "Carbon"}]}

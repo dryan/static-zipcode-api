@@ -1,1 +1,1 @@
-{"lat": 37.785734, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Panaca", "lng": -114.38399, "zip_code": "89042"}
+{"locality": "Panaca", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Panaca"], "postal_code": "89042", "lat": 37.785734, "lng": -114.38399, "type": "POBOX", "counties": [{"fips": "017", "name": "Lincoln"}]}

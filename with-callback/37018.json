@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.642797, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Beechgrove", "lng": -86.1669, "zip_code": "37018"});
+zipapicallback({"locality": "Beechgrove", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Beechgrove"], "postal_code": "37018", "lat": 35.642797, "lng": -86.1669, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coffee"}, {"fips": "003", "name": "Bedford"}]});

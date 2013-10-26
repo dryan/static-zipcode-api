@@ -1,1 +1,1 @@
-{"lat": 38.882722, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Gove", "lng": -100.46085, "zip_code": "67736"}
+{"locality": "Gove", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Gove"], "postal_code": "67736", "lat": 38.882722, "lng": -100.46085, "type": "STANDARD", "counties": [{"fips": "063", "name": "Gove"}]}

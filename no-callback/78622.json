@@ -1,1 +1,1 @@
-{"lat": 29.760052, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fentress", "lng": -97.77727, "zip_code": "78622"}
+{"locality": "Fentress", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fentress"], "postal_code": "78622", "lat": 29.760052, "lng": -97.77727, "type": "POBOX", "counties": [{"fips": "055", "name": "Caldwell"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.290647, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Rio Rancho", "lng": -106.71469, "zip_code": "87124"}
+{"locality": "Rio Rancho", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Albuquerque", "Rio Rancho"], "postal_code": "87124", "lat": 35.290647, "lng": -106.71469, "type": "STANDARD", "counties": [{"fips": "043", "name": "Sandoval"}]}

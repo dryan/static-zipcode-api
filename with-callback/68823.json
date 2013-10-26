@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.820617, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Burwell", "lng": -99.12531, "zip_code": "68823"});
+zipapicallback({"locality": "Burwell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Burwell"], "postal_code": "68823", "lat": 41.820617, "lng": -99.12531, "type": "STANDARD", "counties": [{"fips": "071", "name": "Garfield"}, {"fips": "041", "name": "Custer"}, {"fips": "115", "name": "Loup"}, {"fips": "175", "name": "Valley"}, {"fips": "149", "name": "Rock"}]});

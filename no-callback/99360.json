@@ -1,1 +1,1 @@
-{"lat": 46.059286, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Lowden", "lng": -118.67264, "zip_code": "99360"}
+{"locality": "Touchet", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Lowden", "Touchet"], "postal_code": "99360", "lat": 46.059286, "lng": -118.67264, "type": "STANDARD", "counties": [{"fips": "071", "name": "Walla Walla"}]}

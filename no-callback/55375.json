@@ -1,1 +1,1 @@
-{"lat": 44.906512, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Bonifacius", "lng": -93.7439, "zip_code": "55375"}
+{"locality": "Saint Bonifacius", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Crown College", "Minnetrista", "Saint Bonifacius", "St Bonifacius"], "postal_code": "55375", "lat": 44.906512, "lng": -93.7439, "type": "STANDARD", "counties": [{"fips": "053", "name": "Hennepin"}]}

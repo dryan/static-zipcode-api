@@ -1,1 +1,1 @@
-{"lat": 41.455078, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Luckey", "lng": -83.47735, "zip_code": "43443"}
+{"locality": "Luckey", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Luckey"], "postal_code": "43443", "lat": 41.455078, "lng": -83.47735, "type": "STANDARD", "counties": [{"fips": "173", "name": "Wood"}, {"fips": "143", "name": "Sandusky"}]}

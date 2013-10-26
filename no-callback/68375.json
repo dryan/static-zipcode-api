@@ -1,1 +1,1 @@
-{"lat": 40.025484, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Hubbell", "lng": -97.47265, "zip_code": "68375"}
+{"locality": "Hubbell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Hubbell"], "postal_code": "68375", "lat": 40.025484, "lng": -97.47265, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}]}

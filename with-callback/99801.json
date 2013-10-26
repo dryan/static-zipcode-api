@@ -1,1 +1,1 @@
-zipapicallback({"lat": 58.358599, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Juneau", "lng": -134.54749, "zip_code": "99801"});
+zipapicallback({"locality": "Juneau", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Juneau"], "postal_code": "99801", "lat": 58.358599, "lng": -134.54749, "type": "STANDARD", "counties": [{"fips": "110", "name": "Juneau"}]});

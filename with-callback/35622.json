@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.340484, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Falkville", "lng": -86.89176, "zip_code": "35622"});
+zipapicallback({"locality": "Falkville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Falkville"], "postal_code": "35622", "lat": 34.340484, "lng": -86.89176, "type": "STANDARD", "counties": [{"fips": "103", "name": "Morgan"}, {"fips": "043", "name": "Cullman"}]});

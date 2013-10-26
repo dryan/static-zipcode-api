@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.518309, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Freeland", "lng": -84.1337, "zip_code": "48623"});
+zipapicallback({"locality": "Freeland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Freeland"], "postal_code": "48623", "lat": 43.518309, "lng": -84.1337, "type": "STANDARD", "counties": [{"fips": "145", "name": "Saginaw"}, {"fips": "017", "name": "Bay"}, {"fips": "111", "name": "Midland"}]});

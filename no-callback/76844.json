@@ -1,1 +1,1 @@
-{"lat": 31.460782, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Goldthwaite", "lng": -98.52618, "zip_code": "76844"}
+{"locality": "Goldthwaite", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Goldthwaite"], "postal_code": "76844", "lat": 31.460782, "lng": -98.52618, "type": "STANDARD", "counties": [{"fips": "333", "name": "Mills"}, {"fips": "193", "name": "Hamilton"}]}

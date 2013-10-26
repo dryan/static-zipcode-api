@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.008529, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ward", "lng": -91.92244, "zip_code": "72176"});
+zipapicallback({"locality": "Ward", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Ward"], "postal_code": "72176", "lat": 35.008529, "lng": -91.92244, "type": "STANDARD", "counties": [{"fips": "085", "name": "Lonoke"}, {"fips": "117", "name": "Prairie"}]});

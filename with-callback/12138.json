@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.760049, "region": {"abbr": "NY", "name": "New York"}, "locality": "Taconic Lake", "lng": -73.36801, "zip_code": "12138"});
+zipapicallback({"locality": "Petersburg", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Petersburg", "Petersburgh", "Taconic Lake"], "postal_code": "12138", "lat": 42.760049, "lng": -73.36801, "type": "STANDARD", "counties": [{"fips": "083", "name": "Rensselaer"}]});

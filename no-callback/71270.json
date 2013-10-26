@@ -1,1 +1,1 @@
-{"lat": 32.52476, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ruston", "lng": -92.64696, "zip_code": "71270"}
+{"locality": "Ruston", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ruston"], "postal_code": "71270", "lat": 32.52476, "lng": -92.64696, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lincoln"}, {"fips": "049", "name": "Jackson"}]}

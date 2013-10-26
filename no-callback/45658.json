@@ -1,1 +1,1 @@
-{"lat": 38.766082, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Patriot", "lng": -82.41638, "zip_code": "45658"}
+{"locality": "Patriot", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Patriot"], "postal_code": "45658", "lat": 38.766082, "lng": -82.41638, "type": "STANDARD", "counties": [{"fips": "053", "name": "Gallia"}, {"fips": "005", "name": "Ashland"}, {"fips": "087", "name": "Lawrence"}]}

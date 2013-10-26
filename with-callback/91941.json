@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.761801, "region": {"abbr": "CA", "name": "California"}, "locality": "La Mesa", "lng": -117.01273, "zip_code": "91941"});
+zipapicallback({"locality": "La Mesa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["La Mesa"], "postal_code": "91941", "lat": 32.761801, "lng": -117.01273, "type": "STANDARD", "counties": []});

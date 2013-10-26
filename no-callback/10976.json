@@ -1,1 +1,1 @@
-{"lat": 41.028647, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sparkill", "lng": -73.92817, "zip_code": "10976"}
+{"locality": "Sparkill", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sparkill"], "postal_code": "10976", "lat": 41.028647, "lng": -73.92817, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rockland"}]}

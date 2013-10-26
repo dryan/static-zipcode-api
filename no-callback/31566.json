@@ -1,1 +1,1 @@
-{"lat": 31.144635, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Waynesville", "lng": -81.83011, "zip_code": "31566"}
+{"locality": "Waynesville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Waynesville"], "postal_code": "31566", "lat": 31.144635, "lng": -81.83011, "type": "STANDARD", "counties": [{"fips": "025", "name": "Brantley"}, {"fips": "039", "name": "Camden"}]}

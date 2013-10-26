@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.310343, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Eustace", "lng": -96.00312, "zip_code": "75124"});
+zipapicallback({"locality": "Eustace", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Eustace"], "postal_code": "75124", "lat": 32.310343, "lng": -96.00312, "type": "STANDARD", "counties": [{"fips": "213", "name": "Henderson"}]});

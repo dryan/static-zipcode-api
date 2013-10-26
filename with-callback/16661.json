@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.841761, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Madera", "lng": -78.46167, "zip_code": "16661"});
+zipapicallback({"locality": "Madera", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Madera"], "postal_code": "16661", "lat": 40.841761, "lng": -78.46167, "type": "STANDARD", "counties": [{"fips": "033", "name": "Clearfield"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.495436, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Terre Haute", "lng": -87.39209, "zip_code": "47804"});
+zipapicallback({"locality": "Terre Haute", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Terre Haute"], "postal_code": "47804", "lat": 39.495436, "lng": -87.39209, "type": "STANDARD", "counties": [{"fips": "167", "name": "Vigo"}]});

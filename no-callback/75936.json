@@ -1,1 +1,1 @@
-{"lat": 30.942336, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Chester", "lng": -94.58376, "zip_code": "75936"}
+{"locality": "Chester", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Chester"], "postal_code": "75936", "lat": 30.942336, "lng": -94.58376, "type": "STANDARD", "counties": [{"fips": "457", "name": "Tyler"}, {"fips": "373", "name": "Polk"}]}

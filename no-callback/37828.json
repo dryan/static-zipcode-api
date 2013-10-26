@@ -1,1 +1,1 @@
-{"lat": 36.190257, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Norris", "lng": -84.07017, "zip_code": "37828"}
+{"locality": "Norris", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Norris"], "postal_code": "37828", "lat": 36.190257, "lng": -84.07017, "type": "POBOX", "counties": [{"fips": "001", "name": "Anderson"}]}

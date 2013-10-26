@@ -1,1 +1,1 @@
-{"lat": 41.922412, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Wellfleet", "lng": -70.01484, "zip_code": "02667"}
+{"locality": "Wellfleet", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Wellfleet"], "postal_code": "02667", "lat": 41.922412, "lng": -70.01484, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.154281, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Greenfield", "lng": -88.76867, "zip_code": "38230"}
+{"locality": "Greenfield", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Greenfield"], "postal_code": "38230", "lat": 36.154281, "lng": -88.76867, "type": "STANDARD", "counties": [{"fips": "183", "name": "Weakley"}]}

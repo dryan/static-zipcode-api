@@ -1,1 +1,1 @@
-{"lat": 38.186707, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Handley", "lng": -81.3639, "zip_code": "25102"}
+{"locality": "Handley", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Handley"], "postal_code": "25102", "lat": 38.186707, "lng": -81.3639, "type": "POBOX", "counties": [{"fips": "039", "name": "Kanawha"}]}

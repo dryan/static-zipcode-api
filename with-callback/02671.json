@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.665589, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Harwich", "lng": -70.11152, "zip_code": "02671"});
+zipapicallback({"locality": "West Harwich", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["West Harwich"], "postal_code": "02671", "lat": 41.665589, "lng": -70.11152, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]});

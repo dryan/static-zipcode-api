@@ -1,1 +1,1 @@
-{"lat": 41.423601, "region": {"abbr": "RI", "name": "Rhode Island"}, "locality": "Narragansett", "lng": -71.52322, "zip_code": "02879"}
+{"locality": "Wakefield", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Narragansett", "Peace Dale", "S Kingstown", "South Kingstown", "Wakefield"], "postal_code": "02879", "lat": 41.423601, "lng": -71.52322, "type": "STANDARD", "counties": [{"fips": "009", "name": "Washington"}]}

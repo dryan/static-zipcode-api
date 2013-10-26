@@ -1,1 +1,1 @@
-{"lat": 40.310324, "region": {"abbr": "CA", "name": "California"}, "locality": "Mill Creek", "lng": -121.43316, "zip_code": "96061"}
+{"locality": "Mill Creek", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mill Creek", "Mineral"], "postal_code": "96061", "lat": 40.310324, "lng": -121.43316, "type": "STANDARD", "counties": []}

@@ -1,1 +1,1 @@
-{"lat": 46.368093, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Verona", "lng": -98.06074, "zip_code": "58490"}
+{"locality": "Verona", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Verona"], "postal_code": "58490", "lat": 46.368093, "lng": -98.06074, "type": "STANDARD", "counties": [{"fips": "045", "name": "Lamoure"}, {"fips": "073", "name": "Ransom"}]}

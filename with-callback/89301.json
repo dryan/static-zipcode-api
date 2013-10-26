@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.282855, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Ely", "lng": -114.9208, "zip_code": "89301"});
+zipapicallback({"locality": "Ely", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Ely"], "postal_code": "89301", "lat": 39.282855, "lng": -114.9208, "type": "STANDARD", "counties": [{"fips": "033", "name": "White Pine"}]});

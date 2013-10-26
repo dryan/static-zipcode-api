@@ -1,1 +1,1 @@
-{"lat": 42.774077, "region": {"abbr": "NY", "name": "New York"}, "locality": "Sharon Springs", "lng": -74.58404, "zip_code": "13459"}
+{"locality": "Sharon Springs", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sharon Spgs", "Sharon Springs"], "postal_code": "13459", "lat": 42.774077, "lng": -74.58404, "type": "STANDARD", "counties": [{"fips": "095", "name": "Schoharie"}, {"fips": "057", "name": "Montgomery"}, {"fips": "077", "name": "Otsego"}]}

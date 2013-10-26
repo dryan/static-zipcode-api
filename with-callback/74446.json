@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.852293, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Okay", "lng": -95.31717, "zip_code": "74446"});
+zipapicallback({"locality": "Okay", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Okay"], "postal_code": "74446", "lat": 35.852293, "lng": -95.31717, "type": "POBOX", "counties": [{"fips": "145", "name": "Wagoner"}]});

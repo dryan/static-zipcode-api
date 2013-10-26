@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.434002, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Verndale", "lng": -94.95748, "zip_code": "56481"});
+zipapicallback({"locality": "Verndale", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Verndale"], "postal_code": "56481", "lat": 46.434002, "lng": -94.95748, "type": "STANDARD", "counties": [{"fips": "159", "name": "Wadena"}, {"fips": "153", "name": "Todd"}, {"fips": "021", "name": "Cass"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.783472, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Torreon", "lng": -106.36553, "zip_code": "87061"}
+{"locality": "Torreon", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Torreon"], "postal_code": "87061", "lat": 34.783472, "lng": -106.36553, "type": "POBOX", "counties": [{"fips": "057", "name": "Torrance"}]}

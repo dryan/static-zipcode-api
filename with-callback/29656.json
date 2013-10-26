@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.612144, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "La France", "lng": -82.76263, "zip_code": "29656"});
+zipapicallback({"locality": "La France", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["La France"], "postal_code": "29656", "lat": 34.612144, "lng": -82.76263, "type": "POBOX", "counties": [{"fips": "007", "name": "Anderson"}]});

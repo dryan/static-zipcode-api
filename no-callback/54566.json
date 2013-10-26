@@ -1,1 +1,1 @@
-{"lat": 45.432682, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Wabeno", "lng": -88.67339, "zip_code": "54566"}
+{"locality": "Wabeno", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Wabeno"], "postal_code": "54566", "lat": 45.432682, "lng": -88.67339, "type": "STANDARD", "counties": [{"fips": "041", "name": "Forest"}]}

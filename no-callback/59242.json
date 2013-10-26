@@ -1,1 +1,1 @@
-{"lat": 48.40892, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Homestead", "lng": -104.70869, "zip_code": "59242"}
+{"locality": "Homestead", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Homestead"], "postal_code": "59242", "lat": 48.40892, "lng": -104.70869, "type": "STANDARD", "counties": [{"fips": "091", "name": "Sheridan"}]}

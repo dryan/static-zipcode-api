@@ -1,1 +1,1 @@
-{"lat": 44.231811, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Monmouth", "lng": -69.99897, "zip_code": "04259"}
+{"locality": "Monmouth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Monmouth"], "postal_code": "04259", "lat": 44.231811, "lng": -69.99897, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}]}

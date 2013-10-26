@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.640719, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Potterville", "lng": -84.73826, "zip_code": "48876"});
+zipapicallback({"locality": "Potterville", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Potterville"], "postal_code": "48876", "lat": 42.640719, "lng": -84.73826, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}]});

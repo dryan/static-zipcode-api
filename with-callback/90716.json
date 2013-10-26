@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.828565, "region": {"abbr": "CA", "name": "California"}, "locality": "Hawaiian Gardens", "lng": -118.07364, "zip_code": "90716"});
+zipapicallback({"locality": "Hawaiian Gardens", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hawaiian Gardens", "Hawaiian Gdns", "Lakewood"], "postal_code": "90716", "lat": 33.828565, "lng": -118.07364, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

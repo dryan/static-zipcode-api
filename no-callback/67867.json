@@ -1,1 +1,1 @@
-{"lat": 37.586422, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Montezuma", "lng": -100.46228, "zip_code": "67867"}
+{"locality": "Montezuma", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Montezuma"], "postal_code": "67867", "lat": 37.586422, "lng": -100.46228, "type": "STANDARD", "counties": [{"fips": "069", "name": "Gray"}]}

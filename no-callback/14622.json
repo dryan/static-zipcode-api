@@ -1,1 +1,1 @@
-{"lat": 43.21543, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rochester", "lng": -77.55638, "zip_code": "14622"}
+{"locality": "Rochester", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Irondequoit", "Rochester"], "postal_code": "14622", "lat": 43.21543, "lng": -77.55638, "type": "STANDARD", "counties": [{"fips": "055", "name": "Monroe"}]}

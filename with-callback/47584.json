@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.248608, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Spurgeon", "lng": -87.24115, "zip_code": "47584"});
+zipapicallback({"locality": "Spurgeon", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Spurgeon"], "postal_code": "47584", "lat": 38.248608, "lng": -87.24115, "type": "POBOX", "counties": [{"fips": "125", "name": "Pike"}]});

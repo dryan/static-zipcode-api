@@ -1,1 +1,1 @@
-{"lat": 40.916126, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Catawissa", "lng": -76.43888, "zip_code": "17820"}
+{"locality": "Catawissa", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Catawissa"], "postal_code": "17820", "lat": 40.916126, "lng": -76.43888, "type": "STANDARD", "counties": [{"fips": "037", "name": "Columbia"}, {"fips": "097", "name": "Northumberland"}, {"fips": "093", "name": "Montour"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.597574, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Delphi", "lng": -86.65297, "zip_code": "46923"}
+{"locality": "Delphi", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Delphi"], "postal_code": "46923", "lat": 40.597574, "lng": -86.65297, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}, {"fips": "157", "name": "Tippecanoe"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.587974, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Norris", "lng": -111.60577, "zip_code": "59745"}
+{"locality": "Norris", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Norris"], "postal_code": "59745", "lat": 45.587974, "lng": -111.60577, "type": "STANDARD", "counties": [{"fips": "057", "name": "Madison"}]}

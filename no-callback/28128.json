@@ -1,1 +1,1 @@
-{"lat": 35.228831, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Norwood", "lng": -80.15214, "zip_code": "28128"}
+{"locality": "Norwood", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Norwood"], "postal_code": "28128", "lat": 35.228831, "lng": -80.15214, "type": "STANDARD", "counties": [{"fips": "167", "name": "Stanly"}]}

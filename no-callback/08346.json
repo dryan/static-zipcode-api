@@ -1,1 +1,1 @@
-{"lat": 39.562719, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Newtonville", "lng": -74.85853, "zip_code": "08346"}
+{"locality": "Newtonville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Newtonville"], "postal_code": "08346", "lat": 39.562719, "lng": -74.85853, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

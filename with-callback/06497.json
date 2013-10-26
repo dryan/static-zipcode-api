@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Stratford", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Stratford"], "postal_code": "06497", "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}, {"fips": "009", "name": "New Haven"}]});

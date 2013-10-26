@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.386374, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Hammond", "lng": -104.75677, "zip_code": "59332"});
+zipapicallback({"locality": "Hammond", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Hammond"], "postal_code": "59332", "lat": 45.386374, "lng": -104.75677, "type": "STANDARD", "counties": [{"fips": "011", "name": "Carter"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.478519, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lerona", "lng": -80.95735, "zip_code": "25971"}
+{"locality": "Lerona", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lerona"], "postal_code": "25971", "lat": 37.478519, "lng": -80.95735, "type": "STANDARD", "counties": [{"fips": "055", "name": "Mercer"}, {"fips": "089", "name": "Summers"}]}

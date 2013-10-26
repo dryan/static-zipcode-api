@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.646145, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Barronett", "lng": -92.01923, "zip_code": "54813"});
+zipapicallback({"locality": "Barronett", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Barronett"], "postal_code": "54813", "lat": 45.646145, "lng": -92.01923, "type": "STANDARD", "counties": [{"fips": "005", "name": "Barron"}, {"fips": "013", "name": "Burnett"}, {"fips": "129", "name": "Washburn"}]});

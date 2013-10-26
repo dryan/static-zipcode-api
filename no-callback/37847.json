@@ -1,1 +1,1 @@
-{"lat": 36.432891, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Pioneer", "lng": -84.27781, "zip_code": "37847"}
+{"locality": "Pioneer", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Pioneer"], "postal_code": "37847", "lat": 36.432891, "lng": -84.27781, "type": "STANDARD", "counties": [{"fips": "013", "name": "Campbell"}, {"fips": "151", "name": "Scott"}]}

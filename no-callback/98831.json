@@ -1,1 +1,1 @@
-{"lat": 47.915227, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Manson", "lng": -120.12934, "zip_code": "98831"}
+{"locality": "Manson", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Manson"], "postal_code": "98831", "lat": 47.915227, "lng": -120.12934, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chelan"}]}

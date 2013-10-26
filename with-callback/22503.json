@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.732696, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Lancaster", "lng": -76.51554, "zip_code": "22503"});
+zipapicallback({"locality": "Lancaster", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alfonso", "Lancaster", "Regina"], "postal_code": "22503", "lat": 37.732696, "lng": -76.51554, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lancaster"}]});

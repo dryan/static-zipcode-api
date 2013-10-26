@@ -1,1 +1,1 @@
-{"lat": 39.593121, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Milledgeville", "lng": -83.5876, "zip_code": "43142"}
+{"locality": "Milledgeville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Milledgeville"], "postal_code": "43142", "lat": 39.593121, "lng": -83.5876, "type": "POBOX", "counties": [{"fips": "047", "name": "Fayette"}]}

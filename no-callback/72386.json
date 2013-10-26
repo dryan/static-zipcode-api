@@ -1,1 +1,1 @@
-{"lat": 35.473821, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Tyronza", "lng": -90.36077, "zip_code": "72386"}
+{"locality": "Tyronza", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Tyronza"], "postal_code": "72386", "lat": 35.473821, "lng": -90.36077, "type": "STANDARD", "counties": [{"fips": "111", "name": "Poinsett"}]}

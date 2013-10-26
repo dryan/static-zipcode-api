@@ -1,1 +1,1 @@
-{"lat": 41.078981, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Aroma Park", "lng": -87.80536, "zip_code": "60910"}
+{"locality": "Aroma Park", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Aroma Park"], "postal_code": "60910", "lat": 41.078981, "lng": -87.80536, "type": "POBOX", "counties": [{"fips": "091", "name": "Kankakee"}]}

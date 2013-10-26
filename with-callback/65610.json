@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.042293, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Billings", "lng": -93.52526, "zip_code": "65610"});
+zipapicallback({"locality": "Billings", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Billings"], "postal_code": "65610", "lat": 37.042293, "lng": -93.52526, "type": "STANDARD", "counties": [{"fips": "043", "name": "Christian"}, {"fips": "209", "name": "Stone"}, {"fips": "109", "name": "Lawrence"}, {"fips": "077", "name": "Greene"}]});

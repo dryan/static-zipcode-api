@@ -1,1 +1,1 @@
-{"lat": 32.209381, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Pennington", "lng": -88.05965, "zip_code": "36916"}
+{"locality": "Pennington", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Pennington"], "postal_code": "36916", "lat": 32.209381, "lng": -88.05965, "type": "STANDARD", "counties": [{"fips": "023", "name": "Choctaw"}]}

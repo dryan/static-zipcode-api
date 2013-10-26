@@ -1,1 +1,1 @@
-{"lat": 38.142541, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Hesston", "lng": -97.43368, "zip_code": "67062"}
+{"locality": "Hesston", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hesston"], "postal_code": "67062", "lat": 38.142541, "lng": -97.43368, "type": "STANDARD", "counties": [{"fips": "079", "name": "Harvey"}]}

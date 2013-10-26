@@ -1,1 +1,1 @@
-{"lat": 32.154164, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Louvale", "lng": -84.83857, "zip_code": "31814"}
+{"locality": "Louvale", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Louvale"], "postal_code": "31814", "lat": 32.154164, "lng": -84.83857, "type": "POBOX", "counties": [{"fips": "259", "name": "Stewart"}]}

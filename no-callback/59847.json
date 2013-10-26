@@ -1,1 +1,1 @@
-{"lat": 46.752798, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lolo", "lng": -114.35326, "zip_code": "59847"}
+{"locality": "Lolo", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lolo"], "postal_code": "59847", "lat": 46.752798, "lng": -114.35326, "type": "STANDARD", "counties": [{"fips": "063", "name": "Missoula"}, {"fips": "047", "name": "Lake"}]}

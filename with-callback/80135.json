@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.340969, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Deckers", "lng": -105.05404, "zip_code": "80135"});
+zipapicallback({"locality": "Sedalia", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Deckers", "Sedalia"], "postal_code": "80135", "lat": 39.340969, "lng": -105.05404, "type": "STANDARD", "counties": [{"fips": "035", "name": "Douglas"}]});

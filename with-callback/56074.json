@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.331757, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Nicollet", "lng": -94.19561, "zip_code": "56074"});
+zipapicallback({"locality": "Nicollet", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Nicollet"], "postal_code": "56074", "lat": 44.331757, "lng": -94.19561, "type": "STANDARD", "counties": [{"fips": "103", "name": "Nicollet"}]});

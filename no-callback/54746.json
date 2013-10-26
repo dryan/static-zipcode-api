@@ -1,1 +1,1 @@
-{"lat": 44.550251, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Humbird", "lng": -90.89542, "zip_code": "54746"}
+{"locality": "Humbird", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Humbird"], "postal_code": "54746", "lat": 44.550251, "lng": -90.89542, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "053", "name": "Jackson"}]}

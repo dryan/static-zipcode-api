@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.512403, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Zenda", "lng": -88.48262, "zip_code": "53195"});
+zipapicallback({"locality": "Zenda", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Zenda"], "postal_code": "53195", "lat": 42.512403, "lng": -88.48262, "type": "POBOX", "counties": [{"fips": "127", "name": "Walworth"}]});

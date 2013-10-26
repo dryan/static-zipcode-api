@@ -1,1 +1,1 @@
-{"lat": 40.600375, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Carrolltown", "lng": -78.72133, "zip_code": "15722"}
+{"locality": "Carrolltown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Carrolltown"], "postal_code": "15722", "lat": 40.600375, "lng": -78.72133, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cambria"}]}

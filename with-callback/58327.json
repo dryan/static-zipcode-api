@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.088486, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Southam", "lng": -98.56277, "zip_code": "58327"});
+zipapicallback({"locality": "Crary", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Crary", "Doyon", "Southam"], "postal_code": "58327", "lat": 48.088486, "lng": -98.56277, "type": "STANDARD", "counties": [{"fips": "071", "name": "Ramsey"}, {"fips": "005", "name": "Benson"}]});

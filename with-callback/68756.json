@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.150892, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Neligh", "lng": -98.02352, "zip_code": "68756"});
+zipapicallback({"locality": "Neligh", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Neligh"], "postal_code": "68756", "lat": 42.150892, "lng": -98.02352, "type": "STANDARD", "counties": [{"fips": "003", "name": "Antelope"}]});

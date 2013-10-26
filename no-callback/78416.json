@@ -1,1 +1,1 @@
-{"lat": 27.752356, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Corpus Christi", "lng": -97.43465, "zip_code": "78416"}
+{"locality": "Corpus Christi", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Corpus Christi", "Crp Christi"], "postal_code": "78416", "lat": 27.752356, "lng": -97.43465, "type": "STANDARD", "counties": [{"fips": "355", "name": "Nueces"}]}

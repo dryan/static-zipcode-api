@@ -1,1 +1,1 @@
-{"lat": 43.534319, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Marsing", "lng": -116.84062, "zip_code": "83639"}
+{"locality": "Marsing", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Marsing"], "postal_code": "83639", "lat": 43.534319, "lng": -116.84062, "type": "STANDARD", "counties": [{"fips": "073", "name": "Owyhee"}]}

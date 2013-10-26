@@ -1,1 +1,1 @@
-{"lat": 39.683577, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Deepwater", "lng": -75.48932, "zip_code": "08023"}
+{"locality": "Deepwater", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Deepwater"], "postal_code": "08023", "lat": 39.683577, "lng": -75.48932, "type": "POBOX", "counties": [{"fips": "033", "name": "Salem"}]}

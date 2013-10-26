@@ -1,1 +1,1 @@
-{"lat": 38.44068, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ona", "lng": -82.22311, "zip_code": "25545"}
+{"locality": "Ona", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ona"], "postal_code": "25545", "lat": 38.44068, "lng": -82.22311, "type": "STANDARD", "counties": [{"fips": "011", "name": "Cabell"}]}

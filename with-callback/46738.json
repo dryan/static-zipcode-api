@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.334204, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Garrett", "lng": -85.13569, "zip_code": "46738"});
+zipapicallback({"locality": "Garrett", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Garrett"], "postal_code": "46738", "lat": 41.334204, "lng": -85.13569, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Kalb"}, {"fips": "113", "name": "Noble"}]});

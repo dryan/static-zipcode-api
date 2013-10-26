@@ -1,1 +1,1 @@
-{"lat": 48.810879, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Malo", "lng": -118.59088, "zip_code": "99150"}
+{"locality": "Malo", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Malo"], "postal_code": "99150", "lat": 48.810879, "lng": -118.59088, "type": "STANDARD", "counties": [{"fips": "019", "name": "Ferry"}]}

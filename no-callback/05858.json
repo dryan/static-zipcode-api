@@ -1,1 +1,1 @@
-{"lat": 44.498374, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "North Concord", "lng": -71.83773, "zip_code": "05858"}
+{"locality": "North Concord", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["North Concord", "Victory"], "postal_code": "05858", "lat": 44.498374, "lng": -71.83773, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}]}

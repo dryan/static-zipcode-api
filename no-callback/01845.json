@@ -1,1 +1,1 @@
-{"lat": 42.683841, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "North Andover", "lng": -71.11171, "zip_code": "01845"}
+{"locality": "North Andover", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["North Andover"], "postal_code": "01845", "lat": 42.683841, "lng": -71.11171, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}, {"fips": "017", "name": "Middlesex"}]}

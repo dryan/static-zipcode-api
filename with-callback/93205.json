@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.576134, "region": {"abbr": "CA", "name": "California"}, "locality": "Bodfish", "lng": -118.46745, "zip_code": "93205"});
+zipapicallback({"locality": "Bodfish", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bodfish"], "postal_code": "93205", "lat": 35.576134, "lng": -118.46745, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kern"}]});

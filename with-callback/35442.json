@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.095505, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Aliceville", "lng": -88.18653, "zip_code": "35442"});
+zipapicallback({"locality": "Aliceville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Aliceville", "Old Memphis"], "postal_code": "35442", "lat": 33.095505, "lng": -88.18653, "type": "STANDARD", "counties": [{"fips": "107", "name": "Pickens"}, {"fips": "063", "name": "Greene"}, {"fips": "119", "name": "Sumter"}]});

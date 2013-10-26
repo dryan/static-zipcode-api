@@ -1,1 +1,1 @@
-{"lat": 43.378638, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Hillpoint", "lng": -90.15726, "zip_code": "53937"}
+{"locality": "Hillpoint", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hillpoint"], "postal_code": "53937", "lat": 43.378638, "lng": -90.15726, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}, {"fips": "103", "name": "Richland"}]}

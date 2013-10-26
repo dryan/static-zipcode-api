@@ -1,1 +1,1 @@
-{"lat": 44.764411, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Spencer", "lng": -90.33179, "zip_code": "54479"}
+{"locality": "Spencer", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Spencer"], "postal_code": "54479", "lat": 44.764411, "lng": -90.33179, "type": "STANDARD", "counties": [{"fips": "073", "name": "Marathon"}, {"fips": "019", "name": "Clark"}]}

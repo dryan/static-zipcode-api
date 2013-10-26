@@ -1,1 +1,1 @@
-{"lat": 33.035844, "region": {"abbr": "CA", "name": "California"}, "locality": "Ramona", "lng": -116.8513, "zip_code": "92065"}
+{"locality": "Ramona", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Ramona"], "postal_code": "92065", "lat": 33.035844, "lng": -116.8513, "type": "STANDARD", "counties": [{"fips": "073", "name": "San Diego"}]}

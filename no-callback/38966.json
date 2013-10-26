@@ -1,1 +1,1 @@
-{"lat": 33.934418, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Webb", "lng": -90.34434, "zip_code": "38966"}
+{"locality": "Webb", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Webb"], "postal_code": "38966", "lat": 33.934418, "lng": -90.34434, "type": "STANDARD", "counties": [{"fips": "135", "name": "Tallahatchie"}]}

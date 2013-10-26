@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.109445, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Florin", "lng": -76.50919, "zip_code": "17552"});
+zipapicallback({"locality": "Mount Joy", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Florin", "Mount Joy"], "postal_code": "17552", "lat": 40.109445, "lng": -76.50919, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}]});

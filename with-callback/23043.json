@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.550168, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Deltaville", "lng": -76.34327, "zip_code": "23043"});
+zipapicallback({"locality": "Deltaville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Deltaville"], "postal_code": "23043", "lat": 37.550168, "lng": -76.34327, "type": "STANDARD", "counties": [{"fips": "119", "name": "Middlesex"}]});

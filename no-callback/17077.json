@@ -1,1 +1,1 @@
-{"lat": 40.406144, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ono", "lng": -76.52753, "zip_code": "17077"}
+{"locality": "Ono", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ono"], "postal_code": "17077", "lat": 40.406144, "lng": -76.52753, "type": "POBOX", "counties": [{"fips": "075", "name": "Lebanon"}]}

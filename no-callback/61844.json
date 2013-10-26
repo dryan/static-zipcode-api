@@ -1,1 +1,1 @@
-{"lat": 40.126299, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fithian", "lng": -87.86871, "zip_code": "61844"}
+{"locality": "Fithian", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fithian"], "postal_code": "61844", "lat": 40.126299, "lng": -87.86871, "type": "STANDARD", "counties": [{"fips": "183", "name": "Vermilion"}]}

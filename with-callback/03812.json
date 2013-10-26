@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.081906, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Bartlett", "lng": -71.29729, "zip_code": "03812"});
+zipapicallback({"locality": "Bartlett", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Bartlett", "Harts Lctn", "Harts Location"], "postal_code": "03812", "lat": 44.081906, "lng": -71.29729, "type": "STANDARD", "counties": [{"fips": "003", "name": "Carroll"}]});

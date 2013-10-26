@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.415902, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Belford", "lng": -74.08689, "zip_code": "07718"});
+zipapicallback({"locality": "Belford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Belford"], "postal_code": "07718", "lat": 40.415902, "lng": -74.08689, "type": "STANDARD", "counties": [{"fips": "025", "name": "Monmouth"}]});

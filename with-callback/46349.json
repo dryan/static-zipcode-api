@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.111996, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lake Village", "lng": -87.43686, "zip_code": "46349"});
+zipapicallback({"locality": "Lake Village", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lake Village"], "postal_code": "46349", "lat": 41.111996, "lng": -87.43686, "type": "STANDARD", "counties": [{"fips": "111", "name": "Newton"}]});

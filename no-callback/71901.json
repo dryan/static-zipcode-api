@@ -1,1 +1,1 @@
-{"lat": 34.506487, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lake Catherine", "lng": -93.01941, "zip_code": "71901"}
+{"locality": "Hot Springs National Park", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Fountain Lake", "Hot Springs", "Hot Springs National Park"], "postal_code": "71901", "lat": 34.506487, "lng": -93.01941, "type": "STANDARD", "counties": [{"fips": "051", "name": "Garland"}]}

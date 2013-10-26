@@ -1,1 +1,1 @@
-{"lat": 36.860612, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Daysville", "lng": -86.88171, "zip_code": "42276"}
+{"locality": "Russellville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Oakville", "Russellville"], "postal_code": "42276", "lat": 36.860612, "lng": -86.88171, "type": "STANDARD", "counties": [{"fips": "141", "name": "Logan"}, {"fips": "031", "name": "Butler"}]}

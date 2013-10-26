@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.731479, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Wells", "lng": -93.71837, "zip_code": "56097"});
+zipapicallback({"locality": "Wells", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Walters", "Wells"], "postal_code": "56097", "lat": 43.731479, "lng": -93.71837, "type": "STANDARD", "counties": [{"fips": "043", "name": "Faribault"}, {"fips": "047", "name": "Freeborn"}, {"fips": "161", "name": "Waseca"}]});

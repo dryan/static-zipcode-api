@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.121411, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Fife", "lng": -99.3407, "zip_code": "76825"});
+zipapicallback({"locality": "Brady", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Brady", "Fife"], "postal_code": "76825", "lat": 31.121411, "lng": -99.3407, "type": "STANDARD", "counties": [{"fips": "307", "name": "McCulloch"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.509557, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Kimberly", "lng": -114.37441, "zip_code": "83341"});
+zipapicallback({"locality": "Kimberly", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Kimberly"], "postal_code": "83341", "lat": 42.509557, "lng": -114.37441, "type": "STANDARD", "counties": [{"fips": "083", "name": "Twin Falls"}]});

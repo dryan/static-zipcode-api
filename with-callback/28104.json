@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.067285, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Matthews", "lng": -80.68424, "zip_code": "28104"});
+zipapicallback({"locality": "Matthews", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Matthews", "Stallings", "Weddington", "Wesley Chapel"], "postal_code": "28104", "lat": 35.067285, "lng": -80.68424, "type": "STANDARD", "counties": []});

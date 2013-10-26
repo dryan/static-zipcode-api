@@ -1,1 +1,1 @@
-{"lat": 40.147075, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Piedmont", "lng": -81.20232, "zip_code": "43983"}
+{"locality": "Piedmont", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Piedmont"], "postal_code": "43983", "lat": 40.147075, "lng": -81.20232, "type": "STANDARD", "counties": [{"fips": "067", "name": "Harrison"}, {"fips": "013", "name": "Belmont"}, {"fips": "059", "name": "Guernsey"}]}

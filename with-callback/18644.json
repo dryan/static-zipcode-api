@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.31943, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wyoming", "lng": -75.85208, "zip_code": "18644"});
+zipapicallback({"locality": "Wyoming", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittston", "West Wyoming", "Wyoming"], "postal_code": "18644", "lat": 41.31943, "lng": -75.85208, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]});

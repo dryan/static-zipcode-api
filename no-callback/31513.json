@@ -1,1 +1,1 @@
-{"lat": 31.768849, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Baxley", "lng": -82.35198, "zip_code": "31513"}
+{"locality": "Baxley", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Baxley"], "postal_code": "31513", "lat": 31.768849, "lng": -82.35198, "type": "STANDARD", "counties": [{"fips": "001", "name": "Appling"}]}

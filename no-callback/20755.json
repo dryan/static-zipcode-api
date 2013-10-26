@@ -1,1 +1,1 @@
-{"lat": 39.105015, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Fort George G Me", "lng": -76.74126, "zip_code": "20755"}
+{"locality": "Fort George G Meade", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Fort George G Meade", "Fort Meade"], "postal_code": "20755", "lat": 39.105015, "lng": -76.74126, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

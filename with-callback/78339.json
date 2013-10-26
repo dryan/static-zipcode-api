@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.807025, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Banquete", "lng": -97.79801, "zip_code": "78339"});
+zipapicallback({"locality": "Banquete", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Banquete"], "postal_code": "78339", "lat": 27.807025, "lng": -97.79801, "type": "POBOX", "counties": [{"fips": "355", "name": "Nueces"}]});

@@ -1,1 +1,1 @@
-{"lat": 45.869921, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Minocqua", "lng": -89.79346, "zip_code": "54548"}
+{"locality": "Minocqua", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Minocqua"], "postal_code": "54548", "lat": 45.869921, "lng": -89.79346, "type": "STANDARD", "counties": [{"fips": "085", "name": "Oneida"}, {"fips": "125", "name": "Vilas"}]}

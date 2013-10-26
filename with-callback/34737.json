@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.711167, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Howey In The Hil", "lng": -81.77955, "zip_code": "34737"});
+zipapicallback({"locality": "Howey In The Hills", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Groveland", "Howey In Hls", "Howey In The Hills"], "postal_code": "34737", "lat": 28.711167, "lng": -81.77955, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.679246, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Conowingo", "lng": -76.15464, "zip_code": "21918"});
+zipapicallback({"locality": "Conowingo", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Conowingo"], "postal_code": "21918", "lat": 39.679246, "lng": -76.15464, "type": "STANDARD", "counties": [{"fips": "015", "name": "Cecil"}]});

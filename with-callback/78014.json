@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.43544, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cotulla", "lng": -99.21676, "zip_code": "78014"});
+zipapicallback({"locality": "Cotulla", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cotulla"], "postal_code": "78014", "lat": 28.43544, "lng": -99.21676, "type": "STANDARD", "counties": [{"fips": "283", "name": "La Salle"}]});

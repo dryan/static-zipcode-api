@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.876475, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Saginaw", "lng": -97.41249, "zip_code": "76179"});
+zipapicallback({"locality": "Fort Worth", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Fort Worth", "Ft Worth", "Saginaw"], "postal_code": "76179", "lat": 32.876475, "lng": -97.41249, "type": "STANDARD", "counties": [{"fips": "439", "name": "Tarrant"}, {"fips": "497", "name": "Wise"}]});

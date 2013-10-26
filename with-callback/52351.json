@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.876767, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Walford", "lng": -91.83532, "zip_code": "52351"});
+zipapicallback({"locality": "Walford", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Walford"], "postal_code": "52351", "lat": 41.876767, "lng": -91.83532, "type": "STANDARD", "counties": [{"fips": "011", "name": "Benton"}]});

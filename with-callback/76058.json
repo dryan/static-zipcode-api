@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.461964, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Joshua", "lng": -97.40774, "zip_code": "76058"});
+zipapicallback({"locality": "Joshua", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Joshua"], "postal_code": "76058", "lat": 32.461964, "lng": -97.40774, "type": "STANDARD", "counties": [{"fips": "251", "name": "Johnson"}]});

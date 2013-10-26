@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.425342, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ropesville", "lng": -102.16505, "zip_code": "79358"});
+zipapicallback({"locality": "Ropesville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ropesville"], "postal_code": "79358", "lat": 33.425342, "lng": -102.16505, "type": "STANDARD", "counties": [{"fips": "219", "name": "Hockley"}, {"fips": "303", "name": "Lubbock"}]});

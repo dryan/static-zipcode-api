@@ -1,1 +1,1 @@
-{"lat": 41.256639, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Salem", "lng": -73.54076, "zip_code": "10590"}
+{"locality": "South Salem", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["South Salem"], "postal_code": "10590", "lat": 41.256639, "lng": -73.54076, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]}

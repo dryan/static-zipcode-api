@@ -1,1 +1,1 @@
-{"lat": 36.388731, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Chapmansboro", "lng": -87.13175, "zip_code": "37035"}
+{"locality": "Chapmansboro", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Chapmansboro"], "postal_code": "37035", "lat": 36.388731, "lng": -87.13175, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cheatham"}, {"fips": "125", "name": "Montgomery"}, {"fips": "147", "name": "Robertson"}]}

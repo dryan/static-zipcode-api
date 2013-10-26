@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.76022, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Krakow", "lng": -88.25467, "zip_code": "54137"});
+zipapicallback({"locality": "Krakow", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Krakow"], "postal_code": "54137", "lat": 44.76022, "lng": -88.25467, "type": "STANDARD", "counties": [{"fips": "115", "name": "Shawano"}, {"fips": "083", "name": "Oconto"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.381787, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Maysville", "lng": -94.58854, "zip_code": "72747"}
+{"locality": "Maysville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Maysville"], "postal_code": "72747", "lat": 36.381787, "lng": -94.58854, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}]}

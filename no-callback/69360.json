@@ -1,1 +1,1 @@
-{"lat": 42.737843, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Rushville", "lng": -102.48573, "zip_code": "69360"}
+{"locality": "Rushville", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Rushville"], "postal_code": "69360", "lat": 42.737843, "lng": -102.48573, "type": "STANDARD", "counties": [{"fips": "161", "name": "Sheridan"}]}

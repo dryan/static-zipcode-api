@@ -1,1 +1,1 @@
-{"lat": 43.336126, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Marlette", "lng": -83.03213, "zip_code": "48453"}
+{"locality": "Marlette", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Marlette"], "postal_code": "48453", "lat": 43.336126, "lng": -83.03213, "type": "STANDARD", "counties": [{"fips": "151", "name": "Sanilac"}, {"fips": "157", "name": "Tuscola"}]}

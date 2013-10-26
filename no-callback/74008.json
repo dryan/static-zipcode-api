@@ -1,1 +1,1 @@
-{"lat": 35.951402, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Bixby", "lng": -95.88361, "zip_code": "74008"}
+{"locality": "Bixby", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Bixby"], "postal_code": "74008", "lat": 35.951402, "lng": -95.88361, "type": "STANDARD", "counties": [{"fips": "143", "name": "Tulsa"}]}

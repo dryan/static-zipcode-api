@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.298595, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Stinesville", "lng": -86.6512, "zip_code": "47464"});
+zipapicallback({"locality": "Stinesville", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Stinesville"], "postal_code": "47464", "lat": 39.298595, "lng": -86.6512, "type": "POBOX", "counties": [{"fips": "105", "name": "Monroe"}]});

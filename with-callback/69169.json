@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.820868, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wallace", "lng": -101.17982, "zip_code": "69169"});
+zipapicallback({"locality": "Wallace", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wallace"], "postal_code": "69169", "lat": 40.820868, "lng": -101.17982, "type": "STANDARD", "counties": [{"fips": "111", "name": "Lincoln"}, {"fips": "135", "name": "Perkins"}, {"fips": "085", "name": "Hayes"}]});

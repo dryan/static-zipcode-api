@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.585984, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Lame Deer", "lng": -106.63862, "zip_code": "59043"});
+zipapicallback({"locality": "Lame Deer", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Lame Deer"], "postal_code": "59043", "lat": 45.585984, "lng": -106.63862, "type": "POBOX", "counties": [{"fips": "087", "name": "Rosebud"}]});

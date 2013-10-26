@@ -1,1 +1,1 @@
-{"lat": 44.322689, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Black Butte Ranc", "lng": -121.54897, "zip_code": "97759"}
+{"locality": "Sisters", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Sisters"], "postal_code": "97759", "lat": 44.322689, "lng": -121.54897, "type": "STANDARD", "counties": [{"fips": "017", "name": "Deschutes"}, {"fips": "043", "name": "Linn"}, {"fips": "031", "name": "Jefferson"}]}

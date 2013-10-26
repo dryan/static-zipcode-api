@@ -1,1 +1,1 @@
-{"lat": 38.94575, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Clearview City", "lng": -95.00349, "zip_code": "66019"}
+{"locality": "Clearview City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Clearview City", "Clearview Cty", "De Soto"], "postal_code": "66019", "lat": 38.94575, "lng": -95.00349, "type": "POBOX", "counties": [{"fips": "091", "name": "Johnson"}]}

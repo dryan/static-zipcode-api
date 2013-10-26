@@ -1,1 +1,1 @@
-{"lat": 41.832213, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pittsford", "lng": -84.45404, "zip_code": "49271"}
+{"locality": "Pittsford", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Pittsford", "Prattville"], "postal_code": "49271", "lat": 41.832213, "lng": -84.45404, "type": "STANDARD", "counties": [{"fips": "059", "name": "Hillsdale"}]}

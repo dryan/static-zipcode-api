@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.797622, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Clermont", "lng": -86.32493, "zip_code": "46234"});
+zipapicallback({"locality": "Indianapolis", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Clermont", "Indianapolis"], "postal_code": "46234", "lat": 39.797622, "lng": -86.32493, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hendricks"}, {"fips": "097", "name": "Marion"}]});

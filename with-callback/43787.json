@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.536415, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Pennsville", "lng": -81.80009, "zip_code": "43787"});
+zipapicallback({"locality": "Stockport", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Pennsville", "Stockport"], "postal_code": "43787", "lat": 39.536415, "lng": -81.80009, "type": "STANDARD", "counties": [{"fips": "115", "name": "Morgan"}, {"fips": "167", "name": "Washington"}]});

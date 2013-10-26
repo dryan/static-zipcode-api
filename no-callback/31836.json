@@ -1,1 +1,1 @@
-{"lat": 32.797475, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Woodland", "lng": -84.54095, "zip_code": "31836"}
+{"locality": "Woodland", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Woodland"], "postal_code": "31836", "lat": 32.797475, "lng": -84.54095, "type": "STANDARD", "counties": [{"fips": "263", "name": "Talbot"}]}

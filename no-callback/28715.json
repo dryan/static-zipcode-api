@@ -1,1 +1,1 @@
-{"lat": 35.529895, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Candler", "lng": -82.70449, "zip_code": "28715"}
+{"locality": "Candler", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Biltmore Lake", "Candler"], "postal_code": "28715", "lat": 35.529895, "lng": -82.70449, "type": "STANDARD", "counties": [{"fips": "021", "name": "Buncombe"}, {"fips": "199", "name": "Yancey"}]}

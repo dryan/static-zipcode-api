@@ -1,1 +1,1 @@
-{"lat": 38.988098, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Munday", "lng": -81.20721, "zip_code": "26152"}
+{"locality": "Munday", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Munday"], "postal_code": "26152", "lat": 38.988098, "lng": -81.20721, "type": "STANDARD", "counties": [{"fips": "105", "name": "Wirt"}, {"fips": "013", "name": "Calhoun"}]}

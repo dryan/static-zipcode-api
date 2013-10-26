@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.010415, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "State Center", "lng": -93.16827, "zip_code": "50247"});
+zipapicallback({"locality": "State Center", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["State Center"], "postal_code": "50247", "lat": 42.010415, "lng": -93.16827, "type": "STANDARD", "counties": [{"fips": "127", "name": "Marshall"}, {"fips": "169", "name": "Story"}]});

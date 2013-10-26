@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.324091, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Nineveh", "lng": -86.11397, "zip_code": "46164"});
+zipapicallback({"locality": "Nineveh", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Nineveh", "Princes Lakes"], "postal_code": "46164", "lat": 39.324091, "lng": -86.11397, "type": "STANDARD", "counties": [{"fips": "081", "name": "Johnson"}, {"fips": "013", "name": "Brown"}]});

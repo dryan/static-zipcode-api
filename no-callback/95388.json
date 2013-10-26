@@ -1,1 +1,1 @@
-{"lat": 37.400193, "region": {"abbr": "CA", "name": "California"}, "locality": "Winton", "lng": -120.61094, "zip_code": "95388"}
+{"locality": "Winton", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Winton"], "postal_code": "95388", "lat": 37.400193, "lng": -120.61094, "type": "STANDARD", "counties": [{"fips": "047", "name": "Merced"}]}

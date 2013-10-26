@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.855861, "region": {"abbr": "NY", "name": "New York"}, "locality": "Manorville", "lng": -72.79736, "zip_code": "11949"});
+zipapicallback({"locality": "Manorville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Manorville"], "postal_code": "11949", "lat": 40.855861, "lng": -72.79736, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}]});

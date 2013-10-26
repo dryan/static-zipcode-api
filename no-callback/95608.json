@@ -1,1 +1,1 @@
-{"lat": 38.628371, "region": {"abbr": "CA", "name": "California"}, "locality": "Carmichael", "lng": -121.32702, "zip_code": "95608"}
+{"locality": "Carmichael", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Carmichael"], "postal_code": "95608", "lat": 38.628371, "lng": -121.32702, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

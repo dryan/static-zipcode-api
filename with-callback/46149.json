@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.885033, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lizton", "lng": -86.54978, "zip_code": "46149"});
+zipapicallback({"locality": "Lizton", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lizton"], "postal_code": "46149", "lat": 39.885033, "lng": -86.54978, "type": "STANDARD", "counties": [{"fips": "063", "name": "Hendricks"}, {"fips": "011", "name": "Boone"}]});

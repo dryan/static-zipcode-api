@@ -1,1 +1,1 @@
-{"lat": 39.313666, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Brunswick", "lng": -77.62466, "zip_code": "21716"}
+{"locality": "Brunswick", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Brunswick"], "postal_code": "21716", "lat": 39.313666, "lng": -77.62466, "type": "STANDARD", "counties": [{"fips": "021", "name": "Frederick"}]}

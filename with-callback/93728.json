@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.758598, "region": {"abbr": "CA", "name": "California"}, "locality": "Fresno", "lng": -119.81022, "zip_code": "93728"});
+zipapicallback({"locality": "Fresno", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Fresno"], "postal_code": "93728", "lat": 36.758598, "lng": -119.81022, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

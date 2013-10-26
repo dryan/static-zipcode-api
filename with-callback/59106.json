@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.777818, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Billings", "lng": -108.66944, "zip_code": "59106"});
+zipapicallback({"locality": "Billings", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Billings"], "postal_code": "59106", "lat": 45.777818, "lng": -108.66944, "type": "STANDARD", "counties": [{"fips": "111", "name": "Yellowstone"}]});

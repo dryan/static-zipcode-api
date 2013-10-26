@@ -1,1 +1,1 @@
-{"lat": 36.128851, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Scotland Neck", "lng": -77.41983, "zip_code": "27874"}
+{"locality": "Scotland Neck", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Scotland Neck"], "postal_code": "27874", "lat": 36.128851, "lng": -77.41983, "type": "STANDARD", "counties": [{"fips": "083", "name": "Halifax"}]}

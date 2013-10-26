@@ -1,1 +1,1 @@
-{"lat": 43.062245, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Etna", "lng": -111.01917, "zip_code": "83118"}
+{"locality": "Etna", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Etna"], "postal_code": "83118", "lat": 43.062245, "lng": -111.01917, "type": "STANDARD", "counties": [{"fips": "023", "name": "Lincoln"}]}

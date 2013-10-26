@@ -1,1 +1,1 @@
-{"lat": 39.214104, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Snowmass Village", "lng": -106.94528, "zip_code": "81615"}
+{"locality": "Snowmass Village", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Snowmass Village", "Snowmass Vlg"], "postal_code": "81615", "lat": 39.214104, "lng": -106.94528, "type": "POBOX", "counties": [{"fips": "097", "name": "Pitkin"}]}

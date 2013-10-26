@@ -1,1 +1,1 @@
-{"lat": 39.229204, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Hunter", "lng": -98.38455, "zip_code": "67452"}
+{"locality": "Hunter", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Hunter"], "postal_code": "67452", "lat": 39.229204, "lng": -98.38455, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mitchell"}, {"fips": "105", "name": "Lincoln"}]}

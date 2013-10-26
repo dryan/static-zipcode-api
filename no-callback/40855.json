@@ -1,1 +1,1 @@
-{"lat": 36.96222, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Lynch", "lng": -82.90522, "zip_code": "40855"}
+{"locality": "Lynch", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Lynch"], "postal_code": "40855", "lat": 36.96222, "lng": -82.90522, "type": "POBOX", "counties": [{"fips": "095", "name": "Harlan"}]}

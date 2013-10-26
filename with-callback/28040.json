@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.346886, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ellenboro", "lng": -81.75621, "zip_code": "28040"});
+zipapicallback({"locality": "Ellenboro", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ellenboro"], "postal_code": "28040", "lat": 35.346886, "lng": -81.75621, "type": "STANDARD", "counties": [{"fips": "161", "name": "Rutherford"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.343729, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Newburg", "lng": -76.92493, "zip_code": "20664"}
+{"locality": "Newburg", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Newburg"], "postal_code": "20664", "lat": 38.343729, "lng": -76.92493, "type": "STANDARD", "counties": [{"fips": "017", "name": "Charles"}]}

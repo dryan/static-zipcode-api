@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.801489, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Dugspur", "lng": -80.60492, "zip_code": "24325"});
+zipapicallback({"locality": "Dugspur", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Dugspur"], "postal_code": "24325", "lat": 36.801489, "lng": -80.60492, "type": "STANDARD", "counties": [{"fips": "035", "name": "Carroll"}]});

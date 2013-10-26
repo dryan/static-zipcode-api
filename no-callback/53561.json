@@ -1,1 +1,1 @@
-{"lat": 43.37262, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Merrimac", "lng": -89.69418, "zip_code": "53561"}
+{"locality": "Merrimac", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Merrimac"], "postal_code": "53561", "lat": 43.37262, "lng": -89.69418, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}, {"fips": "021", "name": "Columbia"}]}

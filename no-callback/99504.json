@@ -1,1 +1,1 @@
-{"lat": 61.204466, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Anchorage", "lng": -149.74633, "zip_code": "99504"}
+{"locality": "Anchorage", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Anchorage"], "postal_code": "99504", "lat": 61.204466, "lng": -149.74633, "type": "STANDARD", "counties": [{"fips": "020", "name": "Anchorage"}]}

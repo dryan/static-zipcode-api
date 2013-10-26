@@ -1,1 +1,1 @@
-{"lat": 42.380562, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Berlin", "lng": -71.62665, "zip_code": "01503"}
+{"locality": "Berlin", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Berlin"], "postal_code": "01503", "lat": 42.380562, "lng": -71.62665, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

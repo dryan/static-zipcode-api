@@ -1,1 +1,1 @@
-{"lat": 41.455226, "region": {"abbr": "CA", "name": "California"}, "locality": "Somes Bar", "lng": -123.47671, "zip_code": "95568"}
+{"locality": "Somes Bar", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Somes Bar"], "postal_code": "95568", "lat": 41.455226, "lng": -123.47671, "type": "STANDARD", "counties": [{"fips": "093", "name": "Siskiyou"}]}

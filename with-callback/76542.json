@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.027003, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Harker Heights", "lng": -97.76717, "zip_code": "76542"});
+zipapicallback({"locality": "Killeen", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Killeen"], "postal_code": "76542", "lat": 31.027003, "lng": -97.76717, "type": "STANDARD", "counties": [{"fips": "027", "name": "Bell"}, {"fips": "053", "name": "Burnet"}, {"fips": "491", "name": "Williamson"}]});

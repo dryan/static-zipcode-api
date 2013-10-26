@@ -1,1 +1,1 @@
-{"lat": 41.84992, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Sabinsville", "lng": -77.59404, "zip_code": "16943"}
+{"locality": "Sabinsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Sabinsville"], "postal_code": "16943", "lat": 41.84992, "lng": -77.59404, "type": "STANDARD", "counties": [{"fips": "117", "name": "Tioga"}, {"fips": "105", "name": "Potter"}]}

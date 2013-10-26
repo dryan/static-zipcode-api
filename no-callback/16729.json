@@ -1,1 +1,1 @@
-{"lat": 41.96192, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Duke Center", "lng": -78.4841, "zip_code": "16729"}
+{"locality": "Duke Center", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Duke Center"], "postal_code": "16729", "lat": 41.96192, "lng": -78.4841, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}]}

@@ -1,1 +1,1 @@
-{"lat": 63.135294, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Tetlin", "lng": -142.5323, "zip_code": "99779"}
+{"locality": "Tok", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Tok"], "postal_code": "99779", "lat": 63.135294, "lng": -142.5323, "type": "STANDARD", "counties": []}

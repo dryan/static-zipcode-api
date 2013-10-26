@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.931068, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Beachwood", "lng": -74.19618, "zip_code": "08722"});
+zipapicallback({"locality": "Beachwood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Beachwood"], "postal_code": "08722", "lat": 39.931068, "lng": -74.19618, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]});

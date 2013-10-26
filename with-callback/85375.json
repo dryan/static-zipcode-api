@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.683352, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sun City West", "lng": -112.36474, "zip_code": "85375"});
+zipapicallback({"locality": "Sun City West", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sun City", "Sun City West"], "postal_code": "85375", "lat": 33.683352, "lng": -112.36474, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}]});

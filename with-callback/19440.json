@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.278294, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Hatfield", "lng": -75.29479, "zip_code": "19440"});
+zipapicallback({"locality": "Hatfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Hatfield", "North Penn"], "postal_code": "19440", "lat": 40.278294, "lng": -75.29479, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "017", "name": "Bucks"}]});

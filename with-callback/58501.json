@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.83962, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Bismarck", "lng": -100.7723, "zip_code": "58501"});
+zipapicallback({"locality": "Bismarck", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Bismarck"], "postal_code": "58501", "lat": 46.83962, "lng": -100.7723, "type": "STANDARD", "counties": [{"fips": "015", "name": "Burleigh"}]});

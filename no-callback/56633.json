@@ -1,1 +1,1 @@
-{"lat": 47.373207, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cass Lake", "lng": -94.58834, "zip_code": "56633"}
+{"locality": "Cass Lake", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cass Lake"], "postal_code": "56633", "lat": 47.373207, "lng": -94.58834, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cass"}, {"fips": "057", "name": "Hubbard"}, {"fips": "007", "name": "Beltrami"}]}

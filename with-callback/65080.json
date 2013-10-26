@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.634516, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Tebbetts", "lng": -91.9766, "zip_code": "65080"});
+zipapicallback({"locality": "Tebbetts", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Tebbetts"], "postal_code": "65080", "lat": 38.634516, "lng": -91.9766, "type": "STANDARD", "counties": [{"fips": "027", "name": "Callaway"}]});

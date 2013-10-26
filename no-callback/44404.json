@@ -1,1 +1,1 @@
-{"lat": 41.340211, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Burghill", "lng": -80.536, "zip_code": "44404"}
+{"locality": "Burghill", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Burghill"], "postal_code": "44404", "lat": 41.340211, "lng": -80.536, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}, {"fips": "085", "name": "Lake"}]}

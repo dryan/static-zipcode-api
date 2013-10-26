@@ -1,1 +1,1 @@
-{"lat": 42.05283, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Southwick", "lng": -72.76966, "zip_code": "01077"}
+{"locality": "Southwick", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Southwick"], "postal_code": "01077", "lat": 42.05283, "lng": -72.76966, "type": "STANDARD", "counties": [{"fips": "013", "name": "Hampden"}]}

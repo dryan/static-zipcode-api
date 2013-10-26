@@ -1,1 +1,1 @@
-{"lat": 37.501358, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Gwynn", "lng": -76.28453, "zip_code": "23066"}
+{"locality": "Gwynn", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Gwynn"], "postal_code": "23066", "lat": 37.501358, "lng": -76.28453, "type": "POBOX", "counties": [{"fips": "115", "name": "Mathews"}]}

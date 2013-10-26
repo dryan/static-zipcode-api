@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.738817, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Newhebron", "lng": -89.97045, "zip_code": "39140"});
+zipapicallback({"locality": "Newhebron", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Newhebron"], "postal_code": "39140", "lat": 31.738817, "lng": -89.97045, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lawrence"}, {"fips": "127", "name": "Simpson"}, {"fips": "063", "name": "Jefferson"}]});

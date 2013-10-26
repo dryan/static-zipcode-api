@@ -1,1 +1,1 @@
-{"lat": 63.978355, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Dot", "lng": -145.4623, "zip_code": "99737"}
+{"locality": "Delta Junction", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Delta Jct", "Delta Junction", "Dot Lake"], "postal_code": "99737", "lat": 63.978355, "lng": -145.4623, "type": "STANDARD", "counties": [{"fips": "240", "name": "Southeast Fairbanks"}]}

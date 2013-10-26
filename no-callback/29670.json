@@ -1,1 +1,1 @@
-{"lat": 34.641851, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pendleton", "lng": -82.76668, "zip_code": "29670"}
+{"locality": "Pendleton", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pendleton"], "postal_code": "29670", "lat": 34.641851, "lng": -82.76668, "type": "STANDARD", "counties": [{"fips": "007", "name": "Anderson"}, {"fips": "077", "name": "Pickens"}]}

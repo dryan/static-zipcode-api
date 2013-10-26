@@ -1,1 +1,1 @@
-{"lat": 40.067767, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Blaine", "lng": -80.81836, "zip_code": "43909"}
+{"locality": "Blaine", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Blaine"], "postal_code": "43909", "lat": 40.067767, "lng": -80.81836, "type": "POBOX", "counties": [{"fips": "013", "name": "Belmont"}]}

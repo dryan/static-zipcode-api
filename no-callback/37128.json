@@ -1,1 +1,1 @@
-{"lat": 35.813319, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Murfreesboro", "lng": -86.4455, "zip_code": "37128"}
+{"locality": "Murfreesboro", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Murfreesboro"], "postal_code": "37128", "lat": 35.813319, "lng": -86.4455, "type": "STANDARD", "counties": []}

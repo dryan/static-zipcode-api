@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.415995, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Beaufort", "lng": -91.1603, "zip_code": "63013"});
+zipapicallback({"locality": "Beaufort", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Beaufort"], "postal_code": "63013", "lat": 38.415995, "lng": -91.1603, "type": "STANDARD", "counties": [{"fips": "071", "name": "Franklin"}]});

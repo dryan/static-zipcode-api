@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.190568, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Jeffersontown", "lng": -85.55348, "zip_code": "40299"});
+zipapicallback({"locality": "Louisville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Jeffersontown", "Louisville"], "postal_code": "40299", "lat": 38.190568, "lng": -85.55348, "type": "STANDARD", "counties": [{"fips": "111", "name": "Jefferson"}, {"fips": "029", "name": "Bullitt"}]});

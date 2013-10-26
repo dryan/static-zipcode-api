@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.879419, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Gravel Ridge", "lng": -92.12244, "zip_code": "72076"});
+zipapicallback({"locality": "Jacksonville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Gravel Ridge", "Jacksonville", "Little Rock Afb", "Lr Afb", "Lrafb"], "postal_code": "72076", "lat": 34.879419, "lng": -92.12244, "type": "STANDARD", "counties": [{"fips": "119", "name": "Pulaski"}]});

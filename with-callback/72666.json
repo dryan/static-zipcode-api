@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.955198, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Parthenon", "lng": -93.25985, "zip_code": "72666"});
+zipapicallback({"locality": "Parthenon", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Parthenon"], "postal_code": "72666", "lat": 35.955198, "lng": -93.25985, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]});

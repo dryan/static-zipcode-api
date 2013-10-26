@@ -1,1 +1,1 @@
-{"lat": 41.236357, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Norwalk", "lng": -82.60185, "zip_code": "44857"}
+{"locality": "Norwalk", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Norwalk"], "postal_code": "44857", "lat": 41.236357, "lng": -82.60185, "type": "STANDARD", "counties": [{"fips": "077", "name": "Huron"}, {"fips": "043", "name": "Erie"}]}

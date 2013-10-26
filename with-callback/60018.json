@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.008429, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Rosemont", "lng": -87.89234, "zip_code": "60018"});
+zipapicallback({"locality": "Des Plaines", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Des Plaines", "Rosemont"], "postal_code": "60018", "lat": 42.008429, "lng": -87.89234, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]});

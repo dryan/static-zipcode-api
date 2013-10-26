@@ -1,1 +1,1 @@
-{"lat": 44.971494, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Garden City", "lng": -97.58996, "zip_code": "57236"}
+{"locality": "Garden City", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Garden City"], "postal_code": "57236", "lat": 44.971494, "lng": -97.58996, "type": "STANDARD", "counties": [{"fips": "025", "name": "Clark"}]}

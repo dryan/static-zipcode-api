@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.085244, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Craigsville", "lng": -79.36209, "zip_code": "24430"});
+zipapicallback({"locality": "Craigsville", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Craigsville"], "postal_code": "24430", "lat": 38.085244, "lng": -79.36209, "type": "STANDARD", "counties": [{"fips": "015", "name": "Augusta"}]});

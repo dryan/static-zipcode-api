@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.364638, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Eden", "lng": -111.81304, "zip_code": "84310"});
+zipapicallback({"locality": "Eden", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Eden", "Liberty"], "postal_code": "84310", "lat": 41.364638, "lng": -111.81304, "type": "STANDARD", "counties": [{"fips": "057", "name": "Weber"}]});

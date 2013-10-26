@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.354706, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hastings", "lng": -76.14871, "zip_code": "13076"});
+zipapicallback({"locality": "Hastings", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hastings"], "postal_code": "13076", "lat": 43.354706, "lng": -76.14871, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}]});

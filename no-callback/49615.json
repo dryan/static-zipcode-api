@@ -1,1 +1,1 @@
-{"lat": 44.970267, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bellaire", "lng": -85.21448, "zip_code": "49615"}
+{"locality": "Bellaire", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bellaire"], "postal_code": "49615", "lat": 44.970267, "lng": -85.21448, "type": "STANDARD", "counties": [{"fips": "009", "name": "Antrim"}]}

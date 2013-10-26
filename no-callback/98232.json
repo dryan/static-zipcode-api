@@ -1,1 +1,1 @@
-{"lat": 48.559548, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Bow", "lng": -122.41375, "zip_code": "98232"}
+{"locality": "Bow", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Bow"], "postal_code": "98232", "lat": 48.559548, "lng": -122.41375, "type": "STANDARD", "counties": [{"fips": "057", "name": "Skagit"}]}

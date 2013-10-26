@@ -1,1 +1,1 @@
-{"lat": 37.838563, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Nevada", "lng": -94.35075, "zip_code": "64772"}
+{"locality": "Nevada", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Nevada"], "postal_code": "64772", "lat": 37.838563, "lng": -94.35075, "type": "STANDARD", "counties": [{"fips": "217", "name": "Vernon"}]}

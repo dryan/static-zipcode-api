@@ -1,1 +1,1 @@
-{"lat": 46.041157, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Cottonwood", "lng": -116.38568, "zip_code": "83522"}
+{"locality": "Cottonwood", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Cottonwood", "Keuterville"], "postal_code": "83522", "lat": 46.041157, "lng": -116.38568, "type": "STANDARD", "counties": [{"fips": "049", "name": "Idaho"}, {"fips": "069", "name": "Nez Perce"}]}

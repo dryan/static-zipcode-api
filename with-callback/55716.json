@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.32211, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Calumet", "lng": -93.27581, "zip_code": "55716"});
+zipapicallback({"locality": "Calumet", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Calumet"], "postal_code": "55716", "lat": 47.32211, "lng": -93.27581, "type": "POBOX", "counties": [{"fips": "061", "name": "Itasca"}]});

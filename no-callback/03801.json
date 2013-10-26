@@ -1,1 +1,1 @@
-{"lat": 43.070188, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Newington", "lng": -70.77684, "zip_code": "03801"}
+{"locality": "Portsmouth", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Newington", "Portsmouth"], "postal_code": "03801", "lat": 43.070188, "lng": -70.77684, "type": "STANDARD", "counties": [{"fips": "015", "name": "Rockingham"}, {"fips": "031", "name": "York"}]}

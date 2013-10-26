@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.110425, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Ferguson", "lng": -81.42262, "zip_code": "28624"});
+zipapicallback({"locality": "Ferguson", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Ferguson"], "postal_code": "28624", "lat": 36.110425, "lng": -81.42262, "type": "STANDARD", "counties": [{"fips": "193", "name": "Wilkes"}]});

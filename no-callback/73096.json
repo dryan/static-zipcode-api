@@ -1,1 +1,1 @@
-{"lat": 35.527593, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Weatherford", "lng": -98.71259, "zip_code": "73096"}
+{"locality": "Weatherford", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Weatherford"], "postal_code": "73096", "lat": 35.527593, "lng": -98.71259, "type": "STANDARD", "counties": [{"fips": "039", "name": "Custer"}, {"fips": "149", "name": "Washita"}, {"fips": "011", "name": "Blaine"}]}

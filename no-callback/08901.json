@@ -1,1 +1,1 @@
-{"lat": 40.488304, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "New Brunswick", "lng": -74.44775, "zip_code": "08901"}
+{"locality": "New Brunswick", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["New Brunswick"], "postal_code": "08901", "lat": 40.488304, "lng": -74.44775, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.87107, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Reno", "lng": -119.71313, "zip_code": "89510"});
+zipapicallback({"locality": "Reno", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Reno"], "postal_code": "89510", "lat": 39.87107, "lng": -119.71313, "type": "STANDARD", "counties": [{"fips": "031", "name": "Washoe"}]});

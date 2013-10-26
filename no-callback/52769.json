@@ -1,1 +1,1 @@
-{"lat": 41.594283, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Stockton", "lng": -90.8469, "zip_code": "52769"}
+{"locality": "Stockton", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Stockton"], "postal_code": "52769", "lat": 41.594283, "lng": -90.8469, "type": "STANDARD", "counties": [{"fips": "139", "name": "Muscatine"}]}

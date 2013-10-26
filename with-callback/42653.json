@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.772507, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wiborg", "lng": -84.47785, "zip_code": "42653"});
+zipapicallback({"locality": "Whitley City", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Whitley City"], "postal_code": "42653", "lat": 36.772507, "lng": -84.47785, "type": "STANDARD", "counties": [{"fips": "147", "name": "McCreary"}]});

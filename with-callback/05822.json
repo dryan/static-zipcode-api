@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.750509, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Barton", "lng": -72.16376, "zip_code": "05822"});
+zipapicallback({"locality": "Barton", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Barton", "West Glover"], "postal_code": "05822", "lat": 44.750509, "lng": -72.16376, "type": "STANDARD", "counties": [{"fips": "019", "name": "Orleans"}]});

@@ -1,1 +1,1 @@
-{"lat": 40.10311, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "White Heath", "lng": -88.49744, "zip_code": "61884"}
+{"locality": "White Heath", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["White Heath"], "postal_code": "61884", "lat": 40.10311, "lng": -88.49744, "type": "STANDARD", "counties": [{"fips": "147", "name": "Piatt"}, {"fips": "019", "name": "Champaign"}]}

@@ -1,1 +1,1 @@
-{"lat": 34.995039, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Conasauga", "lng": -84.72951, "zip_code": "37316"}
+{"locality": "Conasauga", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Conasauga"], "postal_code": "37316", "lat": 34.995039, "lng": -84.72951, "type": "POBOX", "counties": [{"fips": "139", "name": "Polk"}]}

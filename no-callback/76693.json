@@ -1,1 +1,1 @@
-{"lat": 31.787449, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wortham", "lng": -96.44885, "zip_code": "76693"}
+{"locality": "Wortham", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Wortham"], "postal_code": "76693", "lat": 31.787449, "lng": -96.44885, "type": "STANDARD", "counties": [{"fips": "161", "name": "Freestone"}, {"fips": "293", "name": "Limestone"}, {"fips": "349", "name": "Navarro"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.626839, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Dolton", "lng": -87.59865, "zip_code": "60419"}
+{"locality": "Dolton", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Dolton"], "postal_code": "60419", "lat": 41.626839, "lng": -87.59865, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.360896, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Bogue", "lng": -99.68559, "zip_code": "67625"}
+{"locality": "Bogue", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Bogue"], "postal_code": "67625", "lat": 39.360896, "lng": -99.68559, "type": "STANDARD", "counties": [{"fips": "065", "name": "Graham"}]}

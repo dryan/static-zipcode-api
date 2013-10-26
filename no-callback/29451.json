@@ -1,1 +1,1 @@
-{"lat": 32.798138, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Isle Of Palms", "lng": -79.76496, "zip_code": "29451"}
+{"locality": "Isle Of Palms", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Dewees Island", "Isle Of Palms"], "postal_code": "29451", "lat": 32.798138, "lng": -79.76496, "type": "STANDARD", "counties": [{"fips": "019", "name": "Charleston"}]}

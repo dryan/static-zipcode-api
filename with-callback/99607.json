@@ -1,1 +1,1 @@
-zipapicallback({"lat": 61.535511, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Kalskag", "lng": -160.30165, "zip_code": "99607"});
+zipapicallback({"locality": "Kalskag", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Kalskag"], "postal_code": "99607", "lat": 61.535511, "lng": -160.30165, "type": "POBOX", "counties": [{"fips": "050", "name": "Bethel"}]});

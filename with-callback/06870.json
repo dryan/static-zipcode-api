@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.033347, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Old Greenwich", "lng": -73.56804, "zip_code": "06870"});
+zipapicallback({"locality": "Old Greenwich", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Old Greenwich"], "postal_code": "06870", "lat": 41.033347, "lng": -73.56804, "type": "STANDARD", "counties": [{"fips": "001", "name": "Fairfield"}]});

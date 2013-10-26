@@ -1,1 +1,1 @@
-{"lat": 30.540874, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Hutto", "lng": -97.54611, "zip_code": "78634"}
+{"locality": "Hutto", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Hutto"], "postal_code": "78634", "lat": 30.540874, "lng": -97.54611, "type": "STANDARD", "counties": [{"fips": "491", "name": "Williamson"}]}

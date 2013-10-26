@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.079185, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Elco", "lng": -79.87475, "zip_code": "15434"});
+zipapicallback({"locality": "Elco", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Elco"], "postal_code": "15434", "lat": 40.079185, "lng": -79.87475, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]});

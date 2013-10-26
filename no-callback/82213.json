@@ -1,1 +1,1 @@
-{"lat": 42.489239, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Glendo", "lng": -104.97591, "zip_code": "82213"}
+{"locality": "Glendo", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Glendo"], "postal_code": "82213", "lat": 42.489239, "lng": -104.97591, "type": "STANDARD", "counties": [{"fips": "031", "name": "Platte"}, {"fips": "001", "name": "Albany"}]}

@@ -1,1 +1,1 @@
-{"lat": 36.802445, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Squires", "lng": -92.62563, "zip_code": "65755"}
+{"locality": "Squires", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Squires"], "postal_code": "65755", "lat": 36.802445, "lng": -92.62563, "type": "STANDARD", "counties": [{"fips": "067", "name": "Douglas"}, {"fips": "153", "name": "Ozark"}]}

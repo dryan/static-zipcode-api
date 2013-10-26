@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.080329, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Troy", "lng": -80.76956, "zip_code": "26443"});
+zipapicallback({"locality": "Troy", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Troy"], "postal_code": "26443", "lat": 39.080329, "lng": -80.76956, "type": "STANDARD", "counties": [{"fips": "021", "name": "Gilmer"}, {"fips": "017", "name": "Doddridge"}]});

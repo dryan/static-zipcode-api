@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.874895, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Montgomery Cente", "lng": -72.58798, "zip_code": "05471"});
+zipapicallback({"locality": "Montgomery Center", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Montgomery Center", "Montgomry Ctr"], "postal_code": "05471", "lat": 44.874895, "lng": -72.58798, "type": "STANDARD", "counties": [{"fips": "011", "name": "Franklin"}, {"fips": "019", "name": "Orleans"}]});

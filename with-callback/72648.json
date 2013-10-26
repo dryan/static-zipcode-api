@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.083655, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Dogpatch", "lng": -93.12978, "zip_code": "72648"});
+zipapicallback({"locality": "Marble Falls", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Marble Falls"], "postal_code": "72648", "lat": 36.083655, "lng": -93.12978, "type": "STANDARD", "counties": [{"fips": "101", "name": "Newton"}]});

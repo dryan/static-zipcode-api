@@ -1,1 +1,1 @@
-{"lat": 39.65643, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Little Orleans", "lng": -78.3986, "zip_code": "21766"}
+{"locality": "Little Orleans", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Little Orleans", "Ltl Orleans"], "postal_code": "21766", "lat": 39.65643, "lng": -78.3986, "type": "STANDARD", "counties": [{"fips": "001", "name": "Allegany"}]}

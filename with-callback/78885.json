@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.785042, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Vanderpool", "lng": -99.55361, "zip_code": "78885"});
+zipapicallback({"locality": "Vanderpool", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Vanderpool"], "postal_code": "78885", "lat": 29.785042, "lng": -99.55361, "type": "STANDARD", "counties": [{"fips": "019", "name": "Bandera"}]});

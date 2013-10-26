@@ -1,1 +1,1 @@
-{"lat": 38.200101, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Leavenworth", "lng": -86.36988, "zip_code": "47137"}
+{"locality": "Leavenworth", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Alton", "Carefree", "Fredonia", "Leavenworth"], "postal_code": "47137", "lat": 38.200101, "lng": -86.36988, "type": "STANDARD", "counties": [{"fips": "025", "name": "Crawford"}]}

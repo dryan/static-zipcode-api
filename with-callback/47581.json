@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.663011, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Shoals", "lng": -86.77554, "zip_code": "47581"});
+zipapicallback({"locality": "Shoals", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Shoals"], "postal_code": "47581", "lat": 38.663011, "lng": -86.77554, "type": "STANDARD", "counties": [{"fips": "101", "name": "Martin"}, {"fips": "117", "name": "Orange"}]});

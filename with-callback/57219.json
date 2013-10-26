@@ -1,1 +1,1 @@
-zipapicallback({"lat": 45.278469, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Butler", "lng": -97.78645, "zip_code": "57219"});
+zipapicallback({"locality": "Bristol", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Bristol", "Butler"], "postal_code": "57219", "lat": 45.278469, "lng": -97.78645, "type": "STANDARD", "counties": [{"fips": "037", "name": "Day"}]});

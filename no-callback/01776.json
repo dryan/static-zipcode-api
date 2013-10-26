@@ -1,1 +1,1 @@
-{"lat": 42.38532, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Sudbury", "lng": -71.42989, "zip_code": "01776"}
+{"locality": "Sudbury", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Sudbury"], "postal_code": "01776", "lat": 42.38532, "lng": -71.42989, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}]}

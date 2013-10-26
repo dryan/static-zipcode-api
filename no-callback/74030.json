@@ -1,1 +1,1 @@
-{"lat": 35.987421, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Drumright", "lng": -96.58776, "zip_code": "74030"}
+{"locality": "Drumright", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Drumright"], "postal_code": "74030", "lat": 35.987421, "lng": -96.58776, "type": "STANDARD", "counties": [{"fips": "037", "name": "Creek"}, {"fips": "119", "name": "Payne"}]}

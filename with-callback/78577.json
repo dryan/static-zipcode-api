@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.201284, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pharr", "lng": -98.18619, "zip_code": "78577"});
+zipapicallback({"locality": "Pharr", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pharr"], "postal_code": "78577", "lat": 26.201284, "lng": -98.18619, "type": "STANDARD", "counties": [{"fips": "215", "name": "Hidalgo"}]});

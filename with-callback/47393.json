@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.953627, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Williamsburg", "lng": -84.99542, "zip_code": "47393"});
+zipapicallback({"locality": "Williamsburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Williamsburg"], "postal_code": "47393", "lat": 39.953627, "lng": -84.99542, "type": "STANDARD", "counties": [{"fips": "177", "name": "Wayne"}, {"fips": "135", "name": "Randolph"}]});

@@ -1,1 +1,1 @@
-{"lat": 47.118566, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Copalis Beach", "lng": -124.16027, "zip_code": "98535"}
+{"locality": "Copalis Beach", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Copalis Beach"], "postal_code": "98535", "lat": 47.118566, "lng": -124.16027, "type": "STANDARD", "counties": [{"fips": "027", "name": "Grays Harbor"}]}

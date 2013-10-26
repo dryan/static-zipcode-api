@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.154895, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Gilman City", "lng": -93.8395, "zip_code": "64642"});
+zipapicallback({"locality": "Gilman City", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brimson", "Gilman City"], "postal_code": "64642", "lat": 40.154895, "lng": -93.8395, "type": "STANDARD", "counties": [{"fips": "081", "name": "Harrison"}, {"fips": "061", "name": "Daviess"}, {"fips": "079", "name": "Grundy"}]});

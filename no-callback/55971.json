@@ -1,1 +1,1 @@
-{"lat": 43.80784, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Rushford", "lng": -91.75117, "zip_code": "55971"}
+{"locality": "Rushford", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rushford", "Rushford Village", "Rushford Vlg"], "postal_code": "55971", "lat": 43.80784, "lng": -91.75117, "type": "STANDARD", "counties": [{"fips": "045", "name": "Fillmore"}, {"fips": "169", "name": "Winona"}, {"fips": "055", "name": "Houston"}]}

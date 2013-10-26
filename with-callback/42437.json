@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.67416, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Henshaw", "lng": -87.90199, "zip_code": "42437"});
+zipapicallback({"locality": "Morganfield", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Henshaw", "Morganfield"], "postal_code": "42437", "lat": 37.67416, "lng": -87.90199, "type": "STANDARD", "counties": [{"fips": "225", "name": "Union"}, {"fips": "233", "name": "Webster"}]});

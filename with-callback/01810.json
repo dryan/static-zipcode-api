@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.646942, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Andover", "lng": -71.1513, "zip_code": "01810"});
+zipapicallback({"locality": "Andover", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Andover"], "postal_code": "01810", "lat": 42.646942, "lng": -71.1513, "type": "STANDARD", "counties": [{"fips": "009", "name": "Essex"}, {"fips": "017", "name": "Middlesex"}]});

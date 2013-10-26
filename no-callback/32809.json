@@ -1,1 +1,1 @@
-{"lat": 28.463482, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pine Castle", "lng": -81.38814, "zip_code": "32809"}
+{"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Belle Isle", "Edgewood", "Orlando", "Pine Castle"], "postal_code": "32809", "lat": 28.463482, "lng": -81.38814, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}]}

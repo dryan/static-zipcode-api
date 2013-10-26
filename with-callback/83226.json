@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.53742, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Challis", "lng": -114.18803, "zip_code": "83226"});
+zipapicallback({"locality": "Challis", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Challis"], "postal_code": "83226", "lat": 44.53742, "lng": -114.18803, "type": "STANDARD", "counties": [{"fips": "037", "name": "Custer"}, {"fips": "059", "name": "Lemhi"}]});

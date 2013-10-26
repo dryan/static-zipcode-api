@@ -1,1 +1,1 @@
-{"lat": 42.385744, "region": {"abbr": "NY", "name": "New York"}, "locality": "Rushford", "lng": -78.23754, "zip_code": "14777"}
+{"locality": "Rushford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Rushford"], "postal_code": "14777", "lat": 42.385744, "lng": -78.23754, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegany"}]}

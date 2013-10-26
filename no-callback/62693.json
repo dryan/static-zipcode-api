@@ -1,1 +1,1 @@
-{"lat": 39.956803, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Williamsville", "lng": -89.54209, "zip_code": "62693"}
+{"locality": "Williamsville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Williamsville"], "postal_code": "62693", "lat": 39.956803, "lng": -89.54209, "type": "STANDARD", "counties": [{"fips": "167", "name": "Sangamon"}, {"fips": "107", "name": "Logan"}, {"fips": "129", "name": "Menard"}]}

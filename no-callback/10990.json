@@ -1,1 +1,1 @@
-{"lat": 41.259896, "region": {"abbr": "NY", "name": "New York"}, "locality": "Warwick", "lng": -74.35837, "zip_code": "10990"}
+{"locality": "Warwick", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Warwick"], "postal_code": "10990", "lat": 41.259896, "lng": -74.35837, "type": "STANDARD", "counties": [{"fips": "071", "name": "Orange"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.468003, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Proctorville", "lng": -82.35457, "zip_code": "45669"}
+{"locality": "Proctorville", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Athalia", "Proctorville"], "postal_code": "45669", "lat": 38.468003, "lng": -82.35457, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lawrence"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.482224, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Sugar Grove", "lng": -79.33161, "zip_code": "26815"});
+zipapicallback({"locality": "Sugar Grove", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Moyers", "Sugar Grove"], "postal_code": "26815", "lat": 38.482224, "lng": -79.33161, "type": "STANDARD", "counties": [{"fips": "071", "name": "Pendleton"}]});

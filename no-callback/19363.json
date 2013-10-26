@@ -1,1 +1,1 @@
-{"lat": 39.781938, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oxford", "lng": -75.97458, "zip_code": "19363"}
+{"locality": "Oxford", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Oxford"], "postal_code": "19363", "lat": 39.781938, "lng": -75.97458, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "071", "name": "Lancaster"}]}

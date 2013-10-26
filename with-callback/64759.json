@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.507321, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Iantha", "lng": -94.2761, "zip_code": "64759"});
+zipapicallback({"locality": "Lamar", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Iantha", "Irwin", "Lamar"], "postal_code": "64759", "lat": 37.507321, "lng": -94.2761, "type": "STANDARD", "counties": [{"fips": "011", "name": "Barton"}, {"fips": "057", "name": "Dade"}]});

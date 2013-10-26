@@ -1,1 +1,1 @@
-{"lat": 34.993579, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Bigelow", "lng": -92.62183, "zip_code": "72016"}
+{"locality": "Bigelow", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Bigelow"], "postal_code": "72016", "lat": 34.993579, "lng": -92.62183, "type": "STANDARD", "counties": [{"fips": "105", "name": "Perry"}]}

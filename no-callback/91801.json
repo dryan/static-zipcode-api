@@ -1,1 +1,1 @@
-{"lat": 34.090409, "region": {"abbr": "CA", "name": "California"}, "locality": "Alhambra", "lng": -118.127, "zip_code": "91801"}
+{"locality": "Alhambra", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Alhambra"], "postal_code": "91801", "lat": 34.090409, "lng": -118.127, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

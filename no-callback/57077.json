@@ -1,1 +1,1 @@
-{"lat": 43.327859, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Worthing", "lng": -96.76115, "zip_code": "57077"}
+{"locality": "Worthing", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Worthing"], "postal_code": "57077", "lat": 43.327859, "lng": -96.76115, "type": "STANDARD", "counties": [{"fips": "083", "name": "Lincoln"}]}

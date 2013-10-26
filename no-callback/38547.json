@@ -1,1 +1,1 @@
-{"lat": 36.141741, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Brush Creek", "lng": -86.00868, "zip_code": "38547"}
+{"locality": "Brush Creek", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Brush Creek"], "postal_code": "38547", "lat": 36.141741, "lng": -86.00868, "type": "STANDARD", "counties": [{"fips": "159", "name": "Smith"}]}

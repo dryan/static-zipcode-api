@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.101527, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Grenelefe", "lng": -81.6235, "zip_code": "33844"});
+zipapicallback({"locality": "Haines City", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Haines City"], "postal_code": "33844", "lat": 28.101527, "lng": -81.6235, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]});

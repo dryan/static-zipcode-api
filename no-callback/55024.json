@@ -1,1 +1,1 @@
-{"lat": 44.649263, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Farmington", "lng": -93.15222, "zip_code": "55024"}
+{"locality": "Farmington", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Farmington"], "postal_code": "55024", "lat": 44.649263, "lng": -93.15222, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dakota"}]}

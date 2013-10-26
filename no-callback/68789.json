@@ -1,1 +1,1 @@
-{"lat": 42.534339, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Winnetoon", "lng": -97.99902, "zip_code": "68789"}
+{"locality": "Winnetoon", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Winnetoon"], "postal_code": "68789", "lat": 42.534339, "lng": -97.99902, "type": "STANDARD", "counties": [{"fips": "107", "name": "Knox"}]}

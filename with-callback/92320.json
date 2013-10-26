@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.984551, "region": {"abbr": "CA", "name": "California"}, "locality": "Calimesa", "lng": -117.03767, "zip_code": "92320"});
+zipapicallback({"locality": "Calimesa", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Calimesa"], "postal_code": "92320", "lat": 33.984551, "lng": -117.03767, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}, {"fips": "071", "name": "San Bernardino"}]});

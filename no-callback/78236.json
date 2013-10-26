@@ -1,1 +1,1 @@
-{"lat": 29.389767, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Wilford Hall U S", "lng": -98.61251, "zip_code": "78236"}
+{"locality": "Lackland A F B", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kelly Usa", "Lackland", "Lackland A F B", "Lackland Afb", "San Antonio", "Security Services", "Security Svc", "Wilford Hall", "Wilford Hall Usaf Hosp"], "postal_code": "78236", "lat": 29.389767, "lng": -98.61251, "type": "STANDARD", "counties": [{"fips": "029", "name": "Bexar"}]}

@@ -1,1 +1,1 @@
-{"lat": 32.973728, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Woodbury", "lng": -84.5903, "zip_code": "30293"}
+{"locality": "Woodbury", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Woodbury"], "postal_code": "30293", "lat": 32.973728, "lng": -84.5903, "type": "STANDARD", "counties": [{"fips": "199", "name": "Meriwether"}]}

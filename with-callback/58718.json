@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.327365, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Blaisdell", "lng": -101.81878, "zip_code": "58718"});
+zipapicallback({"locality": "Berthold", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Berthold", "Blaisdell", "Foxholm", "Tagus"], "postal_code": "58718", "lat": 48.327365, "lng": -101.81878, "type": "STANDARD", "counties": [{"fips": "101", "name": "Ward"}, {"fips": "061", "name": "Mountrail"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.968547, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Macks Creek", "lng": -92.9428, "zip_code": "65786"});
+zipapicallback({"locality": "Macks Creek", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Macks Creek"], "postal_code": "65786", "lat": 37.968547, "lng": -92.9428, "type": "STANDARD", "counties": [{"fips": "029", "name": "Camden"}, {"fips": "059", "name": "Dallas"}]});

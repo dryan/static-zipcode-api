@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.305981, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Islesboro", "lng": -68.90883, "zip_code": "04848"});
+zipapicallback({"locality": "Islesboro", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Islesboro"], "postal_code": "04848", "lat": 44.305981, "lng": -68.90883, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]});

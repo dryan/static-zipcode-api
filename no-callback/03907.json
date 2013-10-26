@@ -1,1 +1,1 @@
-{"lat": 43.247931, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Ogunquit", "lng": -70.59952, "zip_code": "03907"}
+{"locality": "Ogunquit", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Ogunquit"], "postal_code": "03907", "lat": 43.247931, "lng": -70.59952, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.548693, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "New Washington", "lng": -85.49124, "zip_code": "47162"});
+zipapicallback({"locality": "New Washington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["New Washingtn", "New Washington"], "postal_code": "47162", "lat": 38.548693, "lng": -85.49124, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]});

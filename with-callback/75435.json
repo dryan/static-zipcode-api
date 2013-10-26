@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.507909, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Deport", "lng": -95.31828, "zip_code": "75435"});
+zipapicallback({"locality": "Deport", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Deport"], "postal_code": "75435", "lat": 33.507909, "lng": -95.31828, "type": "STANDARD", "counties": [{"fips": "277", "name": "Lamar"}]});

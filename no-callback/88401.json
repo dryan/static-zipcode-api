@@ -1,1 +1,1 @@
-{"lat": 35.103769, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tucumcari", "lng": -103.77676, "zip_code": "88401"}
+{"locality": "Tucumcari", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tucumcari"], "postal_code": "88401", "lat": 35.103769, "lng": -103.77676, "type": "STANDARD", "counties": [{"fips": "037", "name": "Quay"}]}

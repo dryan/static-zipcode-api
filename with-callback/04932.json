@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.689677, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Dixmont", "lng": -69.1248, "zip_code": "04932"});
+zipapicallback({"locality": "Dixmont", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Dixmont"], "postal_code": "04932", "lat": 44.689677, "lng": -69.1248, "type": "STANDARD", "counties": [{"fips": "019", "name": "Penobscot"}]});

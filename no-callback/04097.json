@@ -1,1 +1,1 @@
-{"lat": 43.842797, "region": {"abbr": "ME", "name": "Maine"}, "locality": "North Yarmouth", "lng": -70.22985, "zip_code": "04097"}
+{"locality": "North Yarmouth", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["N Yarmouth", "North Yarmouth"], "postal_code": "04097", "lat": 43.842797, "lng": -70.22985, "type": "STANDARD", "counties": []}

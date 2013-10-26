@@ -1,1 +1,1 @@
-{"lat": 38.192911, "region": {"abbr": "CA", "name": "California"}, "locality": "Wallace", "lng": -120.95775, "zip_code": "95254"}
+{"locality": "Wallace", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Wallace"], "postal_code": "95254", "lat": 38.192911, "lng": -120.95775, "type": "POBOX", "counties": [{"fips": "009", "name": "Calaveras"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.50847, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Manitou", "lng": -98.96369, "zip_code": "73555"});
+zipapicallback({"locality": "Manitou", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Manitou"], "postal_code": "73555", "lat": 34.50847, "lng": -98.96369, "type": "POBOX", "counties": [{"fips": "141", "name": "Tillman"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.332506, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Austin", "lng": -97.70571, "zip_code": "78752"});
+zipapicallback({"locality": "Austin", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Austin"], "postal_code": "78752", "lat": 30.332506, "lng": -97.70571, "type": "STANDARD", "counties": [{"fips": "453", "name": "Travis"}, {"fips": "455", "name": "Trinity"}]});

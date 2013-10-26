@@ -1,1 +1,1 @@
-{"lat": 39.785785, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mantua", "lng": -75.17761, "zip_code": "08051"}
+{"locality": "Mantua", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mantua", "West Deptford"], "postal_code": "08051", "lat": 39.785785, "lng": -75.17761, "type": "STANDARD", "counties": [{"fips": "015", "name": "Gloucester"}, {"fips": "005", "name": "Burlington"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.309757, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Deerfield Beach", "lng": -80.14548, "zip_code": "33442"});
+zipapicallback({"locality": "Deerfield Beach", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Deerfield Bch", "Deerfield Beach"], "postal_code": "33442", "lat": 26.309757, "lng": -80.14548, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}, {"fips": "099", "name": "Palm Beach"}]});

@@ -1,1 +1,1 @@
-{"lat": 36.751276, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cherokee", "lng": -98.37108, "zip_code": "73728"}
+{"locality": "Cherokee", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cherokee", "Lambert"], "postal_code": "73728", "lat": 36.751276, "lng": -98.37108, "type": "STANDARD", "counties": [{"fips": "003", "name": "Alfalfa"}]}

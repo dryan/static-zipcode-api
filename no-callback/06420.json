@@ -1,1 +1,1 @@
-{"lat": 41.485469, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Salem", "lng": -72.25445, "zip_code": "06420"}
+{"locality": "Salem", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Colchester", "Salem"], "postal_code": "06420", "lat": 41.485469, "lng": -72.25445, "type": "STANDARD", "counties": []}

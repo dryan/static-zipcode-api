@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.75159, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "American Falls", "lng": -112.91931, "zip_code": "83211"});
+zipapicallback({"locality": "American Falls", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Am Falls", "American Falls", "American Fls"], "postal_code": "83211", "lat": 42.75159, "lng": -112.91931, "type": "STANDARD", "counties": [{"fips": "077", "name": "Power"}, {"fips": "011", "name": "Bingham"}]});

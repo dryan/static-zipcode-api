@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.24934, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Saint Cloud", "lng": -81.28749, "zip_code": "34769"});
+zipapicallback({"locality": "Saint Cloud", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Cloud"], "postal_code": "34769", "lat": 28.24934, "lng": -81.28749, "type": "STANDARD", "counties": []});

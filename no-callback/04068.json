@@ -1,1 +1,1 @@
-{"lat": 43.833831, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Porter", "lng": -70.93094, "zip_code": "04068"}
+{"locality": "Porter", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Porter"], "postal_code": "04068", "lat": 43.833831, "lng": -70.93094, "type": "STANDARD", "counties": [{"fips": "017", "name": "Oxford"}]}

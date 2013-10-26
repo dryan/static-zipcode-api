@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.548569, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Cross Plains", "lng": -86.67907, "zip_code": "37049"});
+zipapicallback({"locality": "Cross Plains", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Cross Plains"], "postal_code": "37049", "lat": 36.548569, "lng": -86.67907, "type": "STANDARD", "counties": [{"fips": "147", "name": "Robertson"}, {"fips": "165", "name": "Sumner"}]});

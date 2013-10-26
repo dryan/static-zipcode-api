@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.662458, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Friendsville", "lng": -79.416, "zip_code": "21531"});
+zipapicallback({"locality": "Friendsville", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Friendsville"], "postal_code": "21531", "lat": 39.662458, "lng": -79.416, "type": "STANDARD", "counties": [{"fips": "023", "name": "Garrett"}]});

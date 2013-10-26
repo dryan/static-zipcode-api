@@ -1,1 +1,1 @@
-{"lat": 36.427351, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Palmersville", "lng": -88.59234, "zip_code": "38241"}
+{"locality": "Palmersville", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Palmersville"], "postal_code": "38241", "lat": 36.427351, "lng": -88.59234, "type": "STANDARD", "counties": [{"fips": "183", "name": "Weakley"}]}

@@ -1,1 +1,1 @@
-{"lat": 33.04993, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Justiceburg", "lng": -101.14146, "zip_code": "79330"}
+{"locality": "Justiceburg", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Justiceburg"], "postal_code": "79330", "lat": 33.04993, "lng": -101.14146, "type": "STANDARD", "counties": [{"fips": "169", "name": "Garza"}]}

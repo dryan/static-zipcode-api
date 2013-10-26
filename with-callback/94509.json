@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.991571, "region": {"abbr": "CA", "name": "California"}, "locality": "Antioch", "lng": -121.80207, "zip_code": "94509"});
+zipapicallback({"locality": "Antioch", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Antioch"], "postal_code": "94509", "lat": 37.991571, "lng": -121.80207, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

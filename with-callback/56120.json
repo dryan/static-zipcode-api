@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.957826, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Butterfield", "lng": -94.79571, "zip_code": "56120"});
+zipapicallback({"locality": "Butterfield", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Butterfield"], "postal_code": "56120", "lat": 43.957826, "lng": -94.79571, "type": "STANDARD", "counties": [{"fips": "165", "name": "Watonwan"}, {"fips": "033", "name": "Cottonwood"}]});

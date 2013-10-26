@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.763205, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Rohwer", "lng": -91.27239, "zip_code": "71666"});
+zipapicallback({"locality": "Rohwer", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Mc Gehee", "Mcgehee", "Rohwer"], "postal_code": "71666", "lat": 33.763205, "lng": -91.27239, "type": "POBOX", "counties": [{"fips": "041", "name": "Desha"}]});

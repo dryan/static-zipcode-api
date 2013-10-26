@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.225377, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Maylene", "lng": -86.86443, "zip_code": "35114"});
+zipapicallback({"locality": "Maylene", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Maylene"], "postal_code": "35114", "lat": 33.225377, "lng": -86.86443, "type": "STANDARD", "counties": [{"fips": "117", "name": "Shelby"}]});

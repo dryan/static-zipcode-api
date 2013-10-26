@@ -1,1 +1,1 @@
-{"lat": 38.077016, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Buffaloville", "lng": -86.92258, "zip_code": "47550"}
+{"locality": "Lamar", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Buffaloville", "Lamar"], "postal_code": "47550", "lat": 38.077016, "lng": -86.92258, "type": "STANDARD", "counties": [{"fips": "147", "name": "Spencer"}]}

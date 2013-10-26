@@ -1,1 +1,1 @@
-{"lat": 38.707236, "region": {"abbr": "CA", "name": "California"}, "locality": "Sacramento", "lng": -121.54983, "zip_code": "95836"}
+{"locality": "Sacramento", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Sacramento"], "postal_code": "95836", "lat": 38.707236, "lng": -121.54983, "type": "STANDARD", "counties": [{"fips": "067", "name": "Sacramento"}]}

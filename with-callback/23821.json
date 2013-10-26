@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.87229, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Alberta", "lng": -77.91125, "zip_code": "23821"});
+zipapicallback({"locality": "Alberta", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Alberta"], "postal_code": "23821", "lat": 36.87229, "lng": -77.91125, "type": "STANDARD", "counties": [{"fips": "025", "name": "Brunswick"}]});

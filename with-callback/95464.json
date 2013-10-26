@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.12558, "region": {"abbr": "CA", "name": "California"}, "locality": "Nice", "lng": -122.84653, "zip_code": "95464"});
+zipapicallback({"locality": "Nice", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Nice"], "postal_code": "95464", "lat": 39.12558, "lng": -122.84653, "type": "STANDARD", "counties": [{"fips": "033", "name": "Lake"}]});

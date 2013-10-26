@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.350557, "region": {"abbr": "NY", "name": "New York"}, "locality": "Earlton", "lng": -73.91978, "zip_code": "12058"});
+zipapicallback({"locality": "Earlton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Earlton"], "postal_code": "12058", "lat": 42.350557, "lng": -73.91978, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]});

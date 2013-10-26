@@ -1,1 +1,1 @@
-{"lat": 42.221382, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Wayne", "lng": -97.03303, "zip_code": "68787"}
+{"locality": "Wayne", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Wayne"], "postal_code": "68787", "lat": 42.221382, "lng": -97.03303, "type": "STANDARD", "counties": [{"fips": "179", "name": "Wayne"}, {"fips": "051", "name": "Dixon"}]}

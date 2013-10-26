@@ -1,1 +1,1 @@
-{"lat": 35.010683, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Forrest City", "lng": -90.78048, "zip_code": "72335"}
+{"locality": "Forrest City", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Forrest City"], "postal_code": "72335", "lat": 35.010683, "lng": -90.78048, "type": "STANDARD", "counties": [{"fips": "123", "name": "St. Francis"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.293363, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Colgate", "lng": -97.75338, "zip_code": "58046"});
+zipapicallback({"locality": "Hope", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Colgate", "Hope"], "postal_code": "58046", "lat": 47.293363, "lng": -97.75338, "type": "STANDARD", "counties": [{"fips": "091", "name": "Steele"}, {"fips": "017", "name": "Cass"}, {"fips": "003", "name": "Barnes"}]});

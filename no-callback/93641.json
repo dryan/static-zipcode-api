@@ -1,1 +1,1 @@
-{"lat": 36.697311, "region": {"abbr": "CA", "name": "California"}, "locality": "Miramonte", "lng": -119.01864, "zip_code": "93641"}
+{"locality": "Miramonte", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Miramonte"], "postal_code": "93641", "lat": 36.697311, "lng": -119.01864, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]}

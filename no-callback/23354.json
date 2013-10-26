@@ -1,1 +1,1 @@
-{"lat": 37.479588, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Franktown", "lng": -75.90262, "zip_code": "23354"}
+{"locality": "Franktown", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Franktown"], "postal_code": "23354", "lat": 37.479588, "lng": -75.90262, "type": "STANDARD", "counties": [{"fips": "131", "name": "Northampton"}]}

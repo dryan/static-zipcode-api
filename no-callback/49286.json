@@ -1,1 +1,1 @@
-{"lat": 42.012268, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Tecumseh", "lng": -83.93878, "zip_code": "49286"}
+{"locality": "Tecumseh", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Tecumseh"], "postal_code": "49286", "lat": 42.012268, "lng": -83.93878, "type": "STANDARD", "counties": [{"fips": "091", "name": "Lenawee"}]}

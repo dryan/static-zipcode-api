@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.177132, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Dupuyer", "lng": -112.61804, "zip_code": "59432"});
+zipapicallback({"locality": "Dupuyer", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Dupuyer"], "postal_code": "59432", "lat": 48.177132, "lng": -112.61804, "type": "POBOX", "counties": [{"fips": "073", "name": "Pondera"}]});

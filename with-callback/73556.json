@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.751924, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Martha", "lng": -99.39383, "zip_code": "73556"});
+zipapicallback({"locality": "Martha", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Martha"], "postal_code": "73556", "lat": 34.751924, "lng": -99.39383, "type": "POBOX", "counties": [{"fips": "065", "name": "Jackson"}]});

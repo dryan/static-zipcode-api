@@ -1,1 +1,1 @@
-{"lat": 38.473956, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Dubois", "lng": -86.77777, "zip_code": "47527"}
+{"locality": "Dubois", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Dubois"], "postal_code": "47527", "lat": 38.473956, "lng": -86.77777, "type": "STANDARD", "counties": [{"fips": "037", "name": "Dubois"}, {"fips": "117", "name": "Orange"}, {"fips": "101", "name": "Martin"}]}

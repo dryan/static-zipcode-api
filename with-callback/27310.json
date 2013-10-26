@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.178137, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Oak Ridge", "lng": -79.9842, "zip_code": "27310"});
+zipapicallback({"locality": "Oak Ridge", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Oak Ridge"], "postal_code": "27310", "lat": 36.178137, "lng": -79.9842, "type": "STANDARD", "counties": [{"fips": "081", "name": "Guilford"}]});

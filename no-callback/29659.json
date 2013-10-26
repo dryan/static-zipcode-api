@@ -1,1 +1,1 @@
-{"lat": 34.210243, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Lowndesville", "lng": -82.63239, "zip_code": "29659"}
+{"locality": "Lowndesville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Lowndesville"], "postal_code": "29659", "lat": 34.210243, "lng": -82.63239, "type": "POBOX", "counties": [{"fips": "001", "name": "Abbeville"}]}

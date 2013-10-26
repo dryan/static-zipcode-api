@@ -1,1 +1,1 @@
-{"lat": 38.859515, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Shobonier", "lng": -89.054, "zip_code": "62885"}
+{"locality": "Shobonier", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Shobonier"], "postal_code": "62885", "lat": 38.859515, "lng": -89.054, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}, {"fips": "121", "name": "Marion"}]}

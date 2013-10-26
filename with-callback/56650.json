@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.997931, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Kelliher", "lng": -94.55748, "zip_code": "56650"});
+zipapicallback({"locality": "Kelliher", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Kelliher", "Saum"], "postal_code": "56650", "lat": 47.997931, "lng": -94.55748, "type": "STANDARD", "counties": [{"fips": "007", "name": "Beltrami"}]});

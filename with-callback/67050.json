@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.663743, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Garden Plain", "lng": -97.68539, "zip_code": "67050"});
+zipapicallback({"locality": "Garden Plain", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Garden Plain"], "postal_code": "67050", "lat": 37.663743, "lng": -97.68539, "type": "STANDARD", "counties": [{"fips": "173", "name": "Sedgwick"}]});

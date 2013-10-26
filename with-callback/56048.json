@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.102188, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Janesville", "lng": -93.71255, "zip_code": "56048"});
+zipapicallback({"locality": "Janesville", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Janesville"], "postal_code": "56048", "lat": 44.102188, "lng": -93.71255, "type": "STANDARD", "counties": [{"fips": "161", "name": "Waseca"}]});

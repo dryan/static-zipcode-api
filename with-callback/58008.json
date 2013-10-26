@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.304176, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Barney", "lng": -96.99819, "zip_code": "58008"});
+zipapicallback({"locality": "Barney", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Barney"], "postal_code": "58008", "lat": 46.304176, "lng": -96.99819, "type": "STANDARD", "counties": [{"fips": "077", "name": "Richland"}]});

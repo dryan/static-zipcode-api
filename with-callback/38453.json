@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.128317, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Ardmore", "lng": -86.81188, "zip_code": "38453"});
+zipapicallback({"locality": "Dellrose", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Dellrose"], "postal_code": "38453", "lat": 35.128317, "lng": -86.81188, "type": "STANDARD", "counties": [{"fips": "103", "name": "Lincoln"}, {"fips": "055", "name": "Giles"}]});

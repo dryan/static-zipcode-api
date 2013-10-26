@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.958689, "region": {"abbr": "NY", "name": "New York"}, "locality": "Tuckahoe", "lng": -73.82363, "zip_code": "10707"});
+zipapicallback({"locality": "Tuckahoe", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Eastchester", "Tuckahoe", "Yonkers"], "postal_code": "10707", "lat": 40.958689, "lng": -73.82363, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.681337, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Arvada", "lng": -106.08209, "zip_code": "82831"});
+zipapicallback({"locality": "Arvada", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Arvada"], "postal_code": "82831", "lat": 44.681337, "lng": -106.08209, "type": "STANDARD", "counties": [{"fips": "033", "name": "Sheridan"}]});

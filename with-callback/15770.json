@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.999588, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ringgold", "lng": -79.15992, "zip_code": "15770"});
+zipapicallback({"locality": "Ringgold", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ringgold"], "postal_code": "15770", "lat": 40.999588, "lng": -79.15992, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}]});

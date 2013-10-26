@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.320028, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Glenwood", "lng": -93.5993, "zip_code": "71943"});
+zipapicallback({"locality": "Glenwood", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Glenwood"], "postal_code": "71943", "lat": 34.320028, "lng": -93.5993, "type": "STANDARD", "counties": [{"fips": "109", "name": "Pike"}]});

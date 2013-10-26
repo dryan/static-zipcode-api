@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.140956, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Elliott", "lng": -95.13004, "zip_code": "51532"});
+zipapicallback({"locality": "Elliott", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Elliott"], "postal_code": "51532", "lat": 41.140956, "lng": -95.13004, "type": "STANDARD", "counties": [{"fips": "137", "name": "Montgomery"}, {"fips": "029", "name": "Cass"}, {"fips": "155", "name": "Pottawattamie"}]});

@@ -1,1 +1,1 @@
-{"lat": 43.803691, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bad Axe", "lng": -83.00181, "zip_code": "48413"}
+{"locality": "Bad Axe", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bad Axe"], "postal_code": "48413", "lat": 43.803691, "lng": -83.00181, "type": "STANDARD", "counties": [{"fips": "063", "name": "Huron"}]}

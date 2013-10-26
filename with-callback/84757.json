@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.391483, "region": {"abbr": "UT", "name": "Utah"}, "locality": "New Harmony", "lng": -113.2821, "zip_code": "84757"});
+zipapicallback({"locality": "New Harmony", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["New Harmony"], "postal_code": "84757", "lat": 37.391483, "lng": -113.2821, "type": "STANDARD", "counties": [{"fips": "053", "name": "Washington"}]});

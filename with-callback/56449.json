@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.166054, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Fort Ripley", "lng": -94.29254, "zip_code": "56449"});
+zipapicallback({"locality": "Fort Ripley", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Fort Ripley"], "postal_code": "56449", "lat": 46.166054, "lng": -94.29254, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crow Wing"}, {"fips": "097", "name": "Morrison"}]});

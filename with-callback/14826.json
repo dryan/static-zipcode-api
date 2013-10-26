@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.484672, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cohocton", "lng": -77.49846, "zip_code": "14826"});
+zipapicallback({"locality": "Cohocton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cohocton"], "postal_code": "14826", "lat": 42.484672, "lng": -77.49846, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}]});

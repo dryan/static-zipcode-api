@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.190984, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Madbury", "lng": -70.88787, "zip_code": "03820"});
+zipapicallback({"locality": "Dover", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Dover"], "postal_code": "03820", "lat": 43.190984, "lng": -70.88787, "type": "STANDARD", "counties": [{"fips": "017", "name": "Strafford"}]});

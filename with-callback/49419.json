@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.679762, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Hamilton", "lng": -85.98996, "zip_code": "49419"});
+zipapicallback({"locality": "Hamilton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Hamilton"], "postal_code": "49419", "lat": 42.679762, "lng": -85.98996, "type": "STANDARD", "counties": [{"fips": "005", "name": "Allegan"}]});

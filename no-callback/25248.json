@@ -1,1 +1,1 @@
-{"lat": 38.631892, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Romance", "lng": -81.62048, "zip_code": "25248"}
+{"locality": "Kenna", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kenna", "Kentuck", "Romance"], "postal_code": "25248", "lat": 38.631892, "lng": -81.62048, "type": "STANDARD", "counties": [{"fips": "035", "name": "Jackson"}, {"fips": "039", "name": "Kanawha"}]}

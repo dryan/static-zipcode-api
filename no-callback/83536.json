@@ -1,1 +1,1 @@
-{"lat": 46.224145, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Kamiah", "lng": -116.03726, "zip_code": "83536"}
+{"locality": "Kamiah", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Kamiah"], "postal_code": "83536", "lat": 46.224145, "lng": -116.03726, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lewis"}, {"fips": "049", "name": "Idaho"}]}

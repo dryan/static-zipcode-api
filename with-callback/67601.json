@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.881082, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Antonino", "lng": -99.32559, "zip_code": "67601"});
+zipapicallback({"locality": "Hays", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Antonino", "Hays"], "postal_code": "67601", "lat": 38.881082, "lng": -99.32559, "type": "STANDARD", "counties": [{"fips": "051", "name": "Ellis"}]});

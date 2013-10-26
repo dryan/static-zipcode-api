@@ -1,1 +1,1 @@
-{"lat": 41.337585, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "West Pittston", "lng": -75.81587, "zip_code": "18643"}
+{"locality": "Pittston", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Exeter", "Harding", "Pittston", "West Pittston"], "postal_code": "18643", "lat": 41.337585, "lng": -75.81587, "type": "STANDARD", "counties": [{"fips": "079", "name": "Luzerne"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.029526, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Davison", "lng": -83.5218, "zip_code": "48423"});
+zipapicallback({"locality": "Davison", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Davison"], "postal_code": "48423", "lat": 43.029526, "lng": -83.5218, "type": "STANDARD", "counties": [{"fips": "049", "name": "Genesee"}, {"fips": "087", "name": "Lapeer"}]});

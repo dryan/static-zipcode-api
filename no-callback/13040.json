@@ -1,1 +1,1 @@
-{"lat": 42.560795, "region": {"abbr": "NY", "name": "New York"}, "locality": "Cincinnatus", "lng": -75.93241, "zip_code": "13040"}
+{"locality": "Cincinnatus", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cincinnatus", "East Freetown"], "postal_code": "13040", "lat": 42.560795, "lng": -75.93241, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cortland"}, {"fips": "017", "name": "Chenango"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.961768, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Lockesburg", "lng": -94.14717, "zip_code": "71846"});
+zipapicallback({"locality": "Lockesburg", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Lockesburg"], "postal_code": "71846", "lat": 33.961768, "lng": -94.14717, "type": "STANDARD", "counties": [{"fips": "133", "name": "Sevier"}]});

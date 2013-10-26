@@ -1,1 +1,1 @@
-{"lat": 25.962069, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ojus", "lng": -80.14465, "zip_code": "33180"}
+{"locality": "Miami", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Aventura", "Miami"], "postal_code": "33180", "lat": 25.962069, "lng": -80.14465, "type": "STANDARD", "counties": [{"fips": "025", "name": "Dade"}]}

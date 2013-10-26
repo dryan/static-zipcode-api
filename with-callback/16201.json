@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.809467, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kittanning", "lng": -79.49922, "zip_code": "16201"});
+zipapicallback({"locality": "Kittanning", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kittanning"], "postal_code": "16201", "lat": 40.809467, "lng": -79.49922, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}]});

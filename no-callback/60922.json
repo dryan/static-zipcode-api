@@ -1,1 +1,1 @@
-{"lat": 41.005603, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Chebanse", "lng": -87.90649, "zip_code": "60922"}
+{"locality": "Chebanse", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Chebanse", "Sammons Point"], "postal_code": "60922", "lat": 41.005603, "lng": -87.90649, "type": "STANDARD", "counties": [{"fips": "075", "name": "Iroquois"}, {"fips": "091", "name": "Kankakee"}]}

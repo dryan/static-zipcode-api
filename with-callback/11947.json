@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.943323, "region": {"abbr": "NY", "name": "New York"}, "locality": "Jamesport", "lng": -72.57996, "zip_code": "11947"});
+zipapicallback({"locality": "Jamesport", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Jamesport"], "postal_code": "11947", "lat": 40.943323, "lng": -72.57996, "type": "POBOX", "counties": [{"fips": "103", "name": "Suffolk"}]});

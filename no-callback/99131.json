@@ -1,1 +1,1 @@
-{"lat": 48.290089, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Gifford", "lng": -118.09326, "zip_code": "99131"}
+{"locality": "Gifford", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Gifford"], "postal_code": "99131", "lat": 48.290089, "lng": -118.09326, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}]}

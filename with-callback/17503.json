@@ -1,0 +1,1 @@
+zipapicallback({"locality": "Bart", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bart"], "postal_code": "17503", "type": "POBOX", "counties": [{"fips": "071", "name": "Lancaster"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.195778, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bedford", "lng": -73.62777, "zip_code": "10506"});
+zipapicallback({"locality": "Bedford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bedford"], "postal_code": "10506", "lat": 41.195778, "lng": -73.62777, "type": "STANDARD", "counties": [{"fips": "119", "name": "Westchester"}]});

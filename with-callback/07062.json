@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.631252, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "North Plainfield", "lng": -74.40383, "zip_code": "07062"});
+zipapicallback({"locality": "Plainfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["N Plainfield", "North Plainfield", "Plainfield"], "postal_code": "07062", "lat": 40.631252, "lng": -74.40383, "type": "STANDARD", "counties": [{"fips": "039", "name": "Union"}, {"fips": "035", "name": "Somerset"}]});

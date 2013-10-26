@@ -1,1 +1,1 @@
-{"lat": 41.014534, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Benedict", "lng": -97.60967, "zip_code": "68316"}
+{"locality": "Benedict", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Benedict"], "postal_code": "68316", "lat": 41.014534, "lng": -97.60967, "type": "STANDARD", "counties": [{"fips": "185", "name": "York"}, {"fips": "143", "name": "Polk"}]}

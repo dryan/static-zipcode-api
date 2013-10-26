@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.218342, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Hatteras", "lng": -75.68792, "zip_code": "27943"});
+zipapicallback({"locality": "Hatteras", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Hatteras"], "postal_code": "27943", "lat": 35.218342, "lng": -75.68792, "type": "POBOX", "counties": [{"fips": "055", "name": "Dare"}]});

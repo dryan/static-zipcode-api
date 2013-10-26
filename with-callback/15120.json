@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.395336, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Munhall", "lng": -79.90635, "zip_code": "15120"});
+zipapicallback({"locality": "Homestead", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Homestead", "Munhall", "W Homestead", "West Homestead", "Whitaker"], "postal_code": "15120", "lat": 40.395336, "lng": -79.90635, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]});

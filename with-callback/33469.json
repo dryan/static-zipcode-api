@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.968795, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Tequesta", "lng": -80.0994, "zip_code": "33469"});
+zipapicallback({"locality": "Jupiter", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jupiter", "Jupiter Inlet", "Jupiter Inlet Colony", "Tequesta"], "postal_code": "33469", "lat": 26.968795, "lng": -80.0994, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}, {"fips": "085", "name": "Martin"}]});

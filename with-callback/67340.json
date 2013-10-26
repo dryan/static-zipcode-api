@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.058083, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Dearing", "lng": -95.70982, "zip_code": "67340"});
+zipapicallback({"locality": "Dearing", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Dearing"], "postal_code": "67340", "lat": 37.058083, "lng": -95.70982, "type": "POBOX", "counties": [{"fips": "125", "name": "Montgomery"}]});

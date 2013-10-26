@@ -1,1 +1,1 @@
-{"lat": 42.930305, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Goodell", "lng": -93.62645, "zip_code": "50439"}
+{"locality": "Goodell", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Goodell"], "postal_code": "50439", "lat": 42.930305, "lng": -93.62645, "type": "STANDARD", "counties": [{"fips": "081", "name": "Hancock"}]}

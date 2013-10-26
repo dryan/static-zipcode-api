@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.725631, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Newark", "lng": -91.42605, "zip_code": "72562"});
+zipapicallback({"locality": "Newark", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Newark"], "postal_code": "72562", "lat": 35.725631, "lng": -91.42605, "type": "STANDARD", "counties": [{"fips": "063", "name": "Independence"}]});

@@ -1,1 +1,1 @@
-{"lat": 48.070852, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Granite Falls", "lng": -121.82242, "zip_code": "98252"}
+{"locality": "Granite Falls", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Granite Falls"], "postal_code": "98252", "lat": 48.070852, "lng": -121.82242, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}]}

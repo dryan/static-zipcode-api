@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.374627, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Fairfield", "lng": -88.35735, "zip_code": "62837"});
+zipapicallback({"locality": "Fairfield", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Fairfield"], "postal_code": "62837", "lat": 38.374627, "lng": -88.35735, "type": "STANDARD", "counties": [{"fips": "191", "name": "Wayne"}]});

@@ -1,1 +1,1 @@
-{"lat": 39.968503, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Millsboro", "lng": -79.95183, "zip_code": "15433"}
+{"locality": "East Millsboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Millsboro", "East Millsboro"], "postal_code": "15433", "lat": 39.968503, "lng": -79.95183, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

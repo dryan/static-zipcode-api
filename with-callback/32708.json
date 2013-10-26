@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.683408, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Winter Springs", "lng": -81.28151, "zip_code": "32708"});
+zipapicallback({"locality": "Winter Springs", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Casselberry", "Winter Spgs", "Winter Springs"], "postal_code": "32708", "lat": 28.683408, "lng": -81.28151, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]});

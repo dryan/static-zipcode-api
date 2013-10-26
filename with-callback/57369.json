@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.435193, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Academy", "lng": -98.89387, "zip_code": "57369"});
+zipapicallback({"locality": "Platte", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Academy", "Platte"], "postal_code": "57369", "lat": 43.435193, "lng": -98.89387, "type": "STANDARD", "counties": [{"fips": "023", "name": "Charles Mix"}, {"fips": "043", "name": "Douglas"}, {"fips": "003", "name": "Aurora"}, {"fips": "015", "name": "Brule"}]});

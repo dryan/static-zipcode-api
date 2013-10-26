@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.024108, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Kincaid", "lng": -81.28534, "zip_code": "25119"});
+zipapicallback({"locality": "Kincaid", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Kincaid"], "postal_code": "25119", "lat": 38.024108, "lng": -81.28534, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fayette"}]});

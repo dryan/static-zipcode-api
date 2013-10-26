@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.692923, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carrier Mills", "lng": -88.65284, "zip_code": "62917"});
+zipapicallback({"locality": "Carrier Mills", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carrier Mills"], "postal_code": "62917", "lat": 37.692923, "lng": -88.65284, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}, {"fips": "199", "name": "Williamson"}]});

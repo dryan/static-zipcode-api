@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.309443, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Brimson", "lng": -91.87839, "zip_code": "55602"});
+zipapicallback({"locality": "Brimson", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Brimson"], "postal_code": "55602", "lat": 47.309443, "lng": -91.87839, "type": "STANDARD", "counties": [{"fips": "137", "name": "St. Louis"}, {"fips": "075", "name": "Lake"}]});

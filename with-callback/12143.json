@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.46915, "region": {"abbr": "NY", "name": "New York"}, "locality": "Ravena", "lng": -73.82956, "zip_code": "12143"});
+zipapicallback({"locality": "Ravena", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ravena"], "postal_code": "12143", "lat": 42.46915, "lng": -73.82956, "type": "STANDARD", "counties": [{"fips": "001", "name": "Albany"}, {"fips": "039", "name": "Greene"}]});

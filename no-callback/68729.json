@@ -1,1 +1,1 @@
-{"lat": 42.469145, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Creighton", "lng": -97.9023, "zip_code": "68729"}
+{"locality": "Creighton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Bazile Mills", "Creighton"], "postal_code": "68729", "lat": 42.469145, "lng": -97.9023, "type": "STANDARD", "counties": [{"fips": "107", "name": "Knox"}, {"fips": "003", "name": "Antelope"}]}

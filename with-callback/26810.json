@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.973027, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Lost City", "lng": -78.73978, "zip_code": "26810"});
+zipapicallback({"locality": "Lost City", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Lost City", "Lost River"], "postal_code": "26810", "lat": 38.973027, "lng": -78.73978, "type": "STANDARD", "counties": [{"fips": "031", "name": "Hardy"}]});

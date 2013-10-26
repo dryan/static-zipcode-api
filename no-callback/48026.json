@@ -1,1 +1,1 @@
-{"lat": 42.536402, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Fraser", "lng": -82.95044, "zip_code": "48026"}
+{"locality": "Fraser", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fraser"], "postal_code": "48026", "lat": 42.536402, "lng": -82.95044, "type": "STANDARD", "counties": [{"fips": "099", "name": "MacOmb"}]}

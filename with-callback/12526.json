@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.123977, "region": {"abbr": "NY", "name": "New York"}, "locality": "Germantown", "lng": -73.86199, "zip_code": "12526"});
+zipapicallback({"locality": "Germantown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Germantown"], "postal_code": "12526", "lat": 42.123977, "lng": -73.86199, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}]});

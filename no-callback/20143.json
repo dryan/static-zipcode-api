@@ -1,1 +1,1 @@
-{"lat": 38.858613, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Catharpin", "lng": -77.56391, "zip_code": "20143"}
+{"locality": "Catharpin", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Catharpin"], "postal_code": "20143", "lat": 38.858613, "lng": -77.56391, "type": "STANDARD", "counties": []}

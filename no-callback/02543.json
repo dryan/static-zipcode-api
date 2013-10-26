@@ -1,1 +1,1 @@
-{"lat": 41.526791, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Woods Hole", "lng": -70.66505, "zip_code": "02543"}
+{"locality": "Woods Hole", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Falmouth", "Woods Hole"], "postal_code": "02543", "lat": 41.526791, "lng": -70.66505, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

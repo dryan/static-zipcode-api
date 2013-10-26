@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.168528, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Selma", "lng": -85.2698, "zip_code": "47383"});
+zipapicallback({"locality": "Selma", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Selma"], "postal_code": "47383", "lat": 40.168528, "lng": -85.2698, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]});

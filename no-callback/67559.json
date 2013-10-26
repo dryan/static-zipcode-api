@@ -1,1 +1,1 @@
-{"lat": 38.41473, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Nekoma", "lng": -99.44681, "zip_code": "67559"}
+{"locality": "Nekoma", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Nekoma"], "postal_code": "67559", "lat": 38.41473, "lng": -99.44681, "type": "STANDARD", "counties": [{"fips": "165", "name": "Rush"}, {"fips": "145", "name": "Pawnee"}]}

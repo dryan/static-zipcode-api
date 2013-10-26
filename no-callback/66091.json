@@ -1,1 +1,1 @@
-{"lat": 38.185196, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Welda", "lng": -95.33705, "zip_code": "66091"}
+{"locality": "Welda", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Welda"], "postal_code": "66091", "lat": 38.185196, "lng": -95.33705, "type": "STANDARD", "counties": [{"fips": "059", "name": "Franklin"}, {"fips": "003", "name": "Anderson"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.484598, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Milroy", "lng": -85.47698, "zip_code": "46156"});
+zipapicallback({"locality": "Milroy", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Milroy"], "postal_code": "46156", "lat": 39.484598, "lng": -85.47698, "type": "STANDARD", "counties": [{"fips": "139", "name": "Rush"}, {"fips": "031", "name": "Decatur"}]});

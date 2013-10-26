@@ -1,1 +1,1 @@
-{"lat": 45.351247, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Birney", "lng": -106.58858, "zip_code": "59012"}
+{"locality": "Birney", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Birney"], "postal_code": "59012", "lat": 45.351247, "lng": -106.58858, "type": "STANDARD", "counties": [{"fips": "087", "name": "Rosebud"}]}

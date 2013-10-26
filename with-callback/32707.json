@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.665125, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Casselberry", "lng": -81.31772, "zip_code": "32707"});
+zipapicallback({"locality": "Casselberry", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Casselberry"], "postal_code": "32707", "lat": 28.665125, "lng": -81.31772, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]});

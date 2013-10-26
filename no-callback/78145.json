@@ -1,1 +1,1 @@
-{"lat": 28.650728, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Pawnee", "lng": -98.00056, "zip_code": "78145"}
+{"locality": "Pawnee", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Pawnee"], "postal_code": "78145", "lat": 28.650728, "lng": -98.00056, "type": "POBOX", "counties": [{"fips": "025", "name": "Bee"}]}

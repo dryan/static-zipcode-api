@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.952412, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Riva", "lng": -76.58205, "zip_code": "21140"});
+zipapicallback({"locality": "Riva", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Riva"], "postal_code": "21140", "lat": 38.952412, "lng": -76.58205, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]});

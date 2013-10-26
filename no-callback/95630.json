@@ -1,1 +1,1 @@
-{"lat": 38.672127, "region": {"abbr": "CA", "name": "California"}, "locality": "El Dorado Hills", "lng": -121.15783, "zip_code": "95630"}
+{"locality": "Folsom", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Folsom"], "postal_code": "95630", "lat": 38.672127, "lng": -121.15783, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}, {"fips": "067", "name": "Sacramento"}]}

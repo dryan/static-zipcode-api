@@ -1,1 +1,1 @@
-{"lat": 46.971146, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Alberton", "lng": -114.49692, "zip_code": "59820"}
+{"locality": "Alberton", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Alberton"], "postal_code": "59820", "lat": 46.971146, "lng": -114.49692, "type": "STANDARD", "counties": [{"fips": "061", "name": "Mineral"}, {"fips": "063", "name": "Missoula"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.779483, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Liberty", "lng": -82.68861, "zip_code": "29657"});
+zipapicallback({"locality": "Liberty", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Liberty"], "postal_code": "29657", "lat": 34.779483, "lng": -82.68861, "type": "STANDARD", "counties": [{"fips": "077", "name": "Pickens"}, {"fips": "007", "name": "Anderson"}]});

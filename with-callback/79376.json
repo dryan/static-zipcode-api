@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.203713, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tokio", "lng": -102.62018, "zip_code": "79376"});
+zipapicallback({"locality": "Tokio", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tokio"], "postal_code": "79376", "lat": 33.203713, "lng": -102.62018, "type": "STANDARD", "counties": [{"fips": "445", "name": "Terry"}, {"fips": "501", "name": "Yoakum"}]});

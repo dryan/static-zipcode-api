@@ -1,1 +1,1 @@
-{"lat": 38.955142, "region": {"abbr": "CA", "name": "California"}, "locality": "Hopland", "lng": -123.08125, "zip_code": "95449"}
+{"locality": "Hopland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hopland"], "postal_code": "95449", "lat": 38.955142, "lng": -123.08125, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

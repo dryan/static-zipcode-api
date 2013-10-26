@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.871178, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Rainier", "lng": -122.67573, "zip_code": "98576"});
+zipapicallback({"locality": "Rainier", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Rainier"], "postal_code": "98576", "lat": 46.871178, "lng": -122.67573, "type": "STANDARD", "counties": [{"fips": "067", "name": "Thurston"}]});

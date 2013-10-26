@@ -1,1 +1,1 @@
-{"lat": 29.894261, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Terrytown", "lng": -90.03072, "zip_code": "70056"}
+{"locality": "Gretna", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Gretna", "Terrytown"], "postal_code": "70056", "lat": 29.894261, "lng": -90.03072, "type": "STANDARD", "counties": [{"fips": "051", "name": "Jefferson"}]}

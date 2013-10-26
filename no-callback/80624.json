@@ -1,1 +1,1 @@
-{"lat": 40.481168, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Gill", "lng": -104.5151, "zip_code": "80624"}
+{"locality": "Gill", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Gill"], "postal_code": "80624", "lat": 40.481168, "lng": -104.5151, "type": "STANDARD", "counties": [{"fips": "123", "name": "Weld"}]}

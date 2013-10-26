@@ -1,1 +1,1 @@
-{"lat": 42.390291, "region": {"abbr": "NY", "name": "New York"}, "locality": "Durham", "lng": -74.20164, "zip_code": "12422"}
+{"locality": "Durham", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Durham"], "postal_code": "12422", "lat": 42.390291, "lng": -74.20164, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]}

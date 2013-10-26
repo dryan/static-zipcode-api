@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.221103, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Muncie", "lng": -85.37602, "zip_code": "47303"});
+zipapicallback({"locality": "Muncie", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Muncie"], "postal_code": "47303", "lat": 40.221103, "lng": -85.37602, "type": "STANDARD", "counties": [{"fips": "035", "name": "Delaware"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.694132, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Pocasset", "lng": -70.61706, "zip_code": "02559"}
+{"locality": "Pocasset", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Pocasset"], "postal_code": "02559", "lat": 41.694132, "lng": -70.61706, "type": "STANDARD", "counties": [{"fips": "001", "name": "Barnstable"}]}

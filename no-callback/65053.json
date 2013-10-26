@@ -1,1 +1,1 @@
-{"lat": 38.543762, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Lohman", "lng": -92.35461, "zip_code": "65053"}
+{"locality": "Lohman", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Lohman"], "postal_code": "65053", "lat": 38.543762, "lng": -92.35461, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.026811, "region": {"abbr": "CA", "name": "California"}, "locality": "Boonville", "lng": -123.38621, "zip_code": "95415"}
+{"locality": "Boonville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Boonville"], "postal_code": "95415", "lat": 39.026811, "lng": -123.38621, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

@@ -1,1 +1,1 @@
-{"lat": 42.222061, "region": {"abbr": "NY", "name": "New York"}, "locality": "Hunter", "lng": -74.23418, "zip_code": "12442"}
+{"locality": "Hunter", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Hunter"], "postal_code": "12442", "lat": 42.222061, "lng": -74.23418, "type": "STANDARD", "counties": [{"fips": "039", "name": "Greene"}]}

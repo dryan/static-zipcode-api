@@ -1,1 +1,1 @@
-{"lat": 33.895013, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Enochs", "lng": -102.78117, "zip_code": "79324"}
+{"locality": "Enochs", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Enochs"], "postal_code": "79324", "lat": 33.895013, "lng": -102.78117, "type": "STANDARD", "counties": [{"fips": "017", "name": "Bailey"}]}

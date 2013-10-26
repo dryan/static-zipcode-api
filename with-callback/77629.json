@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.031927, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Nome", "lng": -94.42374, "zip_code": "77629"});
+zipapicallback({"locality": "Nome", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Nome"], "postal_code": "77629", "lat": 30.031927, "lng": -94.42374, "type": "POBOX", "counties": [{"fips": "245", "name": "Jefferson"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.529091, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Port Sulphur", "lng": -89.7883, "zip_code": "70083"});
+zipapicallback({"locality": "Port Sulphur", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Port Sulphur"], "postal_code": "70083", "lat": 29.529091, "lng": -89.7883, "type": "STANDARD", "counties": [{"fips": "075", "name": "Plaquemines"}]});

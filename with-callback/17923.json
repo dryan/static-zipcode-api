@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.670753, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Branchdale", "lng": -76.32397, "zip_code": "17923"});
+zipapicallback({"locality": "Branchdale", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Branchdale"], "postal_code": "17923", "lat": 40.670753, "lng": -76.32397, "type": "POBOX", "counties": [{"fips": "107", "name": "Schuylkill"}]});

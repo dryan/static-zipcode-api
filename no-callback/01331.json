@@ -1,1 +1,1 @@
-{"lat": 42.579931, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "New Salem", "lng": -72.20836, "zip_code": "01331"}
+{"locality": "Athol", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Athol", "Phillipston"], "postal_code": "01331", "lat": 42.579931, "lng": -72.20836, "type": "STANDARD", "counties": [{"fips": "027", "name": "Worcester"}]}

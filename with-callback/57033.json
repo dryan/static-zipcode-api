@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.614888, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Hartford", "lng": -96.95463, "zip_code": "57033"});
+zipapicallback({"locality": "Hartford", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Hartford"], "postal_code": "57033", "lat": 43.614888, "lng": -96.95463, "type": "STANDARD", "counties": [{"fips": "099", "name": "Minnehaha"}]});

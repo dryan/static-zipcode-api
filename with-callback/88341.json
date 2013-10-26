@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.520074, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Nogal", "lng": -105.73072, "zip_code": "88341"});
+zipapicallback({"locality": "Nogal", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Nogal"], "postal_code": "88341", "lat": 33.520074, "lng": -105.73072, "type": "STANDARD", "counties": [{"fips": "027", "name": "Lincoln"}]});

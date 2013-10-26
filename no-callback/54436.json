@@ -1,1 +1,1 @@
-{"lat": 44.557846, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Granton", "lng": -90.44622, "zip_code": "54436"}
+{"locality": "Granton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Granton"], "postal_code": "54436", "lat": 44.557846, "lng": -90.44622, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}]}

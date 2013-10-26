@@ -1,1 +1,1 @@
-{"lat": 33.963435, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Cleveland", "lng": -86.5954, "zip_code": "35049"}
+{"locality": "Cleveland", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Cleveland", "Nectar"], "postal_code": "35049", "lat": 33.963435, "lng": -86.5954, "type": "STANDARD", "counties": [{"fips": "009", "name": "Blount"}]}

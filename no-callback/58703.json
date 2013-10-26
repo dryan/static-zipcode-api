@@ -1,1 +1,1 @@
-{"lat": 48.277024, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Minot", "lng": -101.31942, "zip_code": "58703"}
+{"locality": "Minot", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Minot"], "postal_code": "58703", "lat": 48.277024, "lng": -101.31942, "type": "STANDARD", "counties": []}

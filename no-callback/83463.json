@@ -1,1 +1,1 @@
-{"lat": 45.593774, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Gibbonsville", "lng": -113.9625, "zip_code": "83463"}
+{"locality": "Gibbonsville", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Gibbonsville"], "postal_code": "83463", "lat": 45.593774, "lng": -113.9625, "type": "STANDARD", "counties": [{"fips": "059", "name": "Lemhi"}]}

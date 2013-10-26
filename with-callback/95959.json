@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.299405, "region": {"abbr": "CA", "name": "California"}, "locality": "Nevada City", "lng": -120.95144, "zip_code": "95959"});
+zipapicallback({"locality": "Nevada City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Nevada City"], "postal_code": "95959", "lat": 39.299405, "lng": -120.95144, "type": "STANDARD", "counties": [{"fips": "057", "name": "Nevada"}, {"fips": "005", "name": "Amador"}]});

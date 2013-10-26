@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.818158, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Benton", "lng": -97.10839, "zip_code": "67017"});
+zipapicallback({"locality": "Benton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Benton"], "postal_code": "67017", "lat": 37.818158, "lng": -97.10839, "type": "STANDARD", "counties": [{"fips": "015", "name": "Butler"}, {"fips": "173", "name": "Sedgwick"}]});

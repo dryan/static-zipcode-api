@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.247793, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Alexandria", "lng": -97.41164, "zip_code": "68303"});
+zipapicallback({"locality": "Alexandria", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Alexandria"], "postal_code": "68303", "lat": 40.247793, "lng": -97.41164, "type": "STANDARD", "counties": [{"fips": "169", "name": "Thayer"}, {"fips": "095", "name": "Jefferson"}]});

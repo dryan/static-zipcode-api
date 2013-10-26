@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.824993, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Red Feather Lake", "lng": -105.63525, "zip_code": "80545"});
+zipapicallback({"locality": "Red Feather Lakes", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Red Fe Lks", "Red Feather Lakes"], "postal_code": "80545", "lat": 40.824993, "lng": -105.63525, "type": "STANDARD", "counties": [{"fips": "069", "name": "Larimer"}]});

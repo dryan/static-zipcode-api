@@ -1,1 +1,1 @@
-{"lat": 33.092846, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Allen", "lng": -96.62447, "zip_code": "75002"}
+{"locality": "Allen", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Allen", "Lucas", "Parker"], "postal_code": "75002", "lat": 33.092846, "lng": -96.62447, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}]}

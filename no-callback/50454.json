@@ -1,1 +1,1 @@
-{"lat": 43.38301, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Little Cedar", "lng": -92.7293, "zip_code": "50454"}
+{"locality": "Little Cedar", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Little Cedar"], "postal_code": "50454", "lat": 43.38301, "lng": -92.7293, "type": "STANDARD", "counties": [{"fips": "131", "name": "Mitchell"}]}

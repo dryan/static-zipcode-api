@@ -1,1 +1,1 @@
-{"lat": 34.491359, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Stringtown", "lng": -95.94157, "zip_code": "74569"}
+{"locality": "Stringtown", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Stringtown"], "postal_code": "74569", "lat": 34.491359, "lng": -95.94157, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atoka"}]}

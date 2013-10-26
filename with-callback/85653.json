@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.454488, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Marana", "lng": -111.26232, "zip_code": "85653"});
+zipapicallback({"locality": "Marana", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Marana"], "postal_code": "85653", "lat": 32.454488, "lng": -111.26232, "type": "STANDARD", "counties": [{"fips": "019", "name": "Pima"}, {"fips": "021", "name": "Pinal"}]});

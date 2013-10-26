@@ -1,1 +1,1 @@
-{"lat": 42.0477, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ute", "lng": -95.70185, "zip_code": "51060"}
+{"locality": "Ute", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ute"], "postal_code": "51060", "lat": 42.0477, "lng": -95.70185, "type": "STANDARD", "counties": [{"fips": "133", "name": "Monona"}]}

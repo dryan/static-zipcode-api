@@ -1,1 +1,1 @@
-{"lat": 39.204959, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "College Hill", "lng": -84.53734, "zip_code": "45224"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cincinnati", "Colg Hill Sta", "College Hl", "N College Hl"], "postal_code": "45224", "lat": 39.204959, "lng": -84.53734, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

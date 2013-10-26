@@ -1,1 +1,1 @@
-{"lat": 35.71177, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Sanford", "lng": -101.54716, "zip_code": "79078"}
+{"locality": "Sanford", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Sanford"], "postal_code": "79078", "lat": 35.71177, "lng": -101.54716, "type": "POBOX", "counties": [{"fips": "233", "name": "Hutchinson"}]}

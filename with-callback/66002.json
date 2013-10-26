@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.553786, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Atchison", "lng": -95.13472, "zip_code": "66002"});
+zipapicallback({"locality": "Atchison", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Atchison", "Potter"], "postal_code": "66002", "lat": 39.553786, "lng": -95.13472, "type": "STANDARD", "counties": [{"fips": "005", "name": "Atchison"}, {"fips": "087", "name": "Jefferson"}, {"fips": "103", "name": "Leavenworth"}, {"fips": "043", "name": "Doniphan"}]});

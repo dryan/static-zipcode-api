@@ -1,1 +1,1 @@
-{"lat": 41.768455, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Mansfield Center", "lng": -72.20007, "zip_code": "06250"}
+{"locality": "Mansfield Center", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Mansfield Center", "Mansfield Ctr"], "postal_code": "06250", "lat": 41.768455, "lng": -72.20007, "type": "STANDARD", "counties": [{"fips": "013", "name": "Tolland"}, {"fips": "015", "name": "Windham"}]}

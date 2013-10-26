@@ -1,1 +1,1 @@
-{"lat": 35.856035, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Rociada", "lng": -105.42596, "zip_code": "87742"}
+{"locality": "Rociada", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Rociada"], "postal_code": "87742", "lat": 35.856035, "lng": -105.42596, "type": "STANDARD", "counties": [{"fips": "033", "name": "Mora"}]}

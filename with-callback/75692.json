@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.472069, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Waskom", "lng": -94.09556, "zip_code": "75692"});
+zipapicallback({"locality": "Waskom", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Waskom"], "postal_code": "75692", "lat": 32.472069, "lng": -94.09556, "type": "STANDARD", "counties": [{"fips": "203", "name": "Harrison"}]});

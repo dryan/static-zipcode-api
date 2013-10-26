@@ -1,1 +1,1 @@
-{"lat": 44.138142, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Seneca", "lng": -118.9767, "zip_code": "97873"}
+{"locality": "Seneca", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Seneca"], "postal_code": "97873", "lat": 44.138142, "lng": -118.9767, "type": "STANDARD", "counties": [{"fips": "023", "name": "Grant"}]}

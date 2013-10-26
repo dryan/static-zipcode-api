@@ -1,1 +1,1 @@
-{"lat": 46.595248, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Yakima", "lng": -120.53102, "zip_code": "98902"}
+{"locality": "Yakima", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Yakima"], "postal_code": "98902", "lat": 46.595248, "lng": -120.53102, "type": "STANDARD", "counties": [{"fips": "077", "name": "Yakima"}]}

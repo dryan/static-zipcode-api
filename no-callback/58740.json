@@ -1,1 +1,1 @@
-{"lat": 48.485288, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Wolseth", "lng": -101.22156, "zip_code": "58740"}
+{"locality": "Glenburn", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Glenburn", "Wolseth"], "postal_code": "58740", "lat": 48.485288, "lng": -101.22156, "type": "STANDARD", "counties": [{"fips": "075", "name": "Renville"}, {"fips": "049", "name": "McHenry"}, {"fips": "101", "name": "Ward"}, {"fips": "009", "name": "Bottineau"}]}

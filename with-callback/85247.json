@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.107581, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Sacaton", "lng": -111.75128, "zip_code": "85247"});
+zipapicallback({"locality": "Sacaton", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Sacaton"], "postal_code": "85247", "lat": 33.107581, "lng": -111.75128, "type": "POBOX", "counties": [{"fips": "013", "name": "Maricopa"}]});

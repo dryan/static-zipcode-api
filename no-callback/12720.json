@@ -1,1 +1,1 @@
-{"lat": 41.66023, "region": {"abbr": "NY", "name": "New York"}, "locality": "Bethel", "lng": -74.90438, "zip_code": "12720"}
+{"locality": "Bethel", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bethel"], "postal_code": "12720", "lat": 41.66023, "lng": -74.90438, "type": "STANDARD", "counties": [{"fips": "105", "name": "Sullivan"}]}

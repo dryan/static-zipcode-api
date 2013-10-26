@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.716468, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Epes", "lng": -88.15261, "zip_code": "35460"});
+zipapicallback({"locality": "Epes", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Epes"], "postal_code": "35460", "lat": 32.716468, "lng": -88.15261, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.348406, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Mc Henry", "lng": -88.24769, "zip_code": "60050"}
+{"locality": "Mchenry", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Bull Valley", "Holiday Hills", "Johnsburg", "Lakemoor", "Mccullom Lake", "Mchenry"], "postal_code": "60050", "lat": 42.348406, "lng": -88.24769, "type": "STANDARD", "counties": [{"fips": "111", "name": "McHenry"}, {"fips": "097", "name": "Lake"}]}

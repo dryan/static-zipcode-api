@@ -1,1 +1,1 @@
-{"lat": 41.690084, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Guthrie Center", "lng": -94.52602, "zip_code": "50115"}
+{"locality": "Guthrie Center", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Guthrie Center", "Guthrie Ctr"], "postal_code": "50115", "lat": 41.690084, "lng": -94.52602, "type": "STANDARD", "counties": [{"fips": "077", "name": "Guthrie"}]}

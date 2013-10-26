@@ -1,1 +1,1 @@
-{"lat": 43.590212, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Nampa", "lng": -116.53781, "zip_code": "83687"}
+{"locality": "Nampa", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Nampa"], "postal_code": "83687", "lat": 43.590212, "lng": -116.53781, "type": "STANDARD", "counties": [{"fips": "027", "name": "Canyon"}]}

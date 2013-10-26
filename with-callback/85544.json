@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.394226, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Strawberry", "lng": -111.46865, "zip_code": "85544"});
+zipapicallback({"locality": "Pine", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Pine", "Strawberry"], "postal_code": "85544", "lat": 34.394226, "lng": -111.46865, "type": "STANDARD", "counties": [{"fips": "007", "name": "Gila"}]});

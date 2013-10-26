@@ -1,1 +1,1 @@
-{"lat": 38.012459, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Charmco", "lng": -80.72757, "zip_code": "25958"}
+{"locality": "Charmco", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bingham", "Charmco", "Hines", "Orient Hill"], "postal_code": "25958", "lat": 38.012459, "lng": -80.72757, "type": "STANDARD", "counties": [{"fips": "025", "name": "Greenbrier"}]}

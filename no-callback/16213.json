@@ -1,1 +1,1 @@
-{"lat": 41.125693, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Callensburg", "lng": -79.557, "zip_code": "16213"}
+{"locality": "Callensburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Callensburg"], "postal_code": "16213", "lat": 41.125693, "lng": -79.557, "type": "POBOX", "counties": [{"fips": "031", "name": "Clarion"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.925991, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Blytheville A F", "lng": -89.91767, "zip_code": "72315"}
+{"locality": "Blytheville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Blytheville", "Gosnell"], "postal_code": "72315", "lat": 35.925991, "lng": -89.91767, "type": "STANDARD", "counties": [{"fips": "093", "name": "Mississippi"}]}

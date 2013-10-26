@@ -1,1 +1,1 @@
-{"lat": 36.9761, "region": {"abbr": "CA", "name": "California"}, "locality": "Capitola", "lng": -121.95316, "zip_code": "95010"}
+{"locality": "Capitola", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Capitola"], "postal_code": "95010", "lat": 36.9761, "lng": -121.95316, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}]}

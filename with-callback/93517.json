@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.21053, "region": {"abbr": "CA", "name": "California"}, "locality": "Bridgeport", "lng": -119.31968, "zip_code": "93517"});
+zipapicallback({"locality": "Bridgeport", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bridgeport"], "postal_code": "93517", "lat": 38.21053, "lng": -119.31968, "type": "STANDARD", "counties": [{"fips": "051", "name": "Mono"}]});

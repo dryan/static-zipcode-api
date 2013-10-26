@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.711647, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Myers", "lng": -81.865, "zip_code": "33917"});
+zipapicallback({"locality": "North Fort Myers", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Myers", "N Fort Myers", "N Ft Myers", "No Fort Myers", "No Ft Myers", "North Fort Myers", "North Ft Myers"], "postal_code": "33917", "lat": 26.711647, "lng": -81.865, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lee"}, {"fips": "015", "name": "Charlotte"}]});

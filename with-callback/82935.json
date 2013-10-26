@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.659162, "region": {"abbr": "WY", "name": "Wyoming"}, "locality": "Green River", "lng": -109.63919, "zip_code": "82935"});
+zipapicallback({"locality": "Green River", "region": {"fips": "56", "abbr": "WY", "name": "Wyoming"}, "localities": ["Green River"], "postal_code": "82935", "lat": 41.659162, "lng": -109.63919, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sweetwater"}, {"fips": "029", "name": "Park"}]});

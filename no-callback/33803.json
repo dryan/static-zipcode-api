@@ -1,1 +1,1 @@
-{"lat": 28.015032, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lakeland", "lng": -81.95206, "zip_code": "33803"}
+{"locality": "Lakeland", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lakeland"], "postal_code": "33803", "lat": 28.015032, "lng": -81.95206, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.192619, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lockney", "lng": -101.38934, "zip_code": "79241"});
+zipapicallback({"locality": "Lockney", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lockney"], "postal_code": "79241", "lat": 34.192619, "lng": -101.38934, "type": "STANDARD", "counties": [{"fips": "153", "name": "Floyd"}, {"fips": "437", "name": "Swisher"}, {"fips": "045", "name": "Briscoe"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.417254, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Steele", "lng": -82.18823, "zip_code": "41566"});
+zipapicallback({"locality": "Steele", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Steele"], "postal_code": "41566", "lat": 37.417254, "lng": -82.18823, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]});

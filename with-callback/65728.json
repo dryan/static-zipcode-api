@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.87478, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Ponce De Leon", "lng": -93.34371, "zip_code": "65728"});
+zipapicallback({"locality": "Ponce De Leon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ponce De Leon"], "postal_code": "65728", "lat": 36.87478, "lng": -93.34371, "type": "STANDARD", "counties": [{"fips": "209", "name": "Stone"}, {"fips": "043", "name": "Christian"}]});

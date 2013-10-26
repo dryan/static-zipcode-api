@@ -1,1 +1,1 @@
-{"lat": 35.348331, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Cromwell", "lng": -96.46385, "zip_code": "74837"}
+{"locality": "Cromwell", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Cromwell"], "postal_code": "74837", "lat": 35.348331, "lng": -96.46385, "type": "POBOX", "counties": [{"fips": "133", "name": "Seminole"}]}

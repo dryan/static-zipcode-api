@@ -1,1 +1,1 @@
-{"lat": 34.893254, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Nesbit", "lng": -89.97629, "zip_code": "38651"}
+{"locality": "Nesbit", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Nesbit"], "postal_code": "38651", "lat": 34.893254, "lng": -89.97629, "type": "STANDARD", "counties": [{"fips": "033", "name": "De Soto"}]}

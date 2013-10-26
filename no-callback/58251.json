@@ -1,1 +1,1 @@
-{"lat": 47.942137, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Mccanna", "lng": -97.67455, "zip_code": "58251"}
+{"locality": "Larimore", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Larimore", "Mccanna"], "postal_code": "58251", "lat": 47.942137, "lng": -97.67455, "type": "STANDARD", "counties": [{"fips": "035", "name": "Grand Forks"}]}

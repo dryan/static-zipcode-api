@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.766281, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Waynesboro", "lng": -77.57241, "zip_code": "17268"});
+zipapicallback({"locality": "Waynesboro", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Waynesboro"], "postal_code": "17268", "lat": 39.766281, "lng": -77.57241, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]});

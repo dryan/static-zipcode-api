@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.440654, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Nebo", "lng": -90.77809, "zip_code": "62355"});
+zipapicallback({"locality": "Nebo", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Nebo"], "postal_code": "62355", "lat": 39.440654, "lng": -90.77809, "type": "STANDARD", "counties": [{"fips": "149", "name": "Pike"}, {"fips": "013", "name": "Calhoun"}]});

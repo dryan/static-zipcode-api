@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.655487, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Halma", "lng": -96.59592, "zip_code": "56729"});
+zipapicallback({"locality": "Halma", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Halma"], "postal_code": "56729", "lat": 48.655487, "lng": -96.59592, "type": "STANDARD", "counties": [{"fips": "069", "name": "Kittson"}]});

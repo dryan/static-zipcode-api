@@ -1,1 +1,1 @@
-{"lat": 41.860809, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Youngsville", "lng": -79.31703, "zip_code": "16371"}
+{"locality": "Youngsville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Youngsville"], "postal_code": "16371", "lat": 41.860809, "lng": -79.31703, "type": "STANDARD", "counties": [{"fips": "123", "name": "Warren"}]}

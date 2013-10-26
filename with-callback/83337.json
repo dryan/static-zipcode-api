@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.312973, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Hill City", "lng": -115.04088, "zip_code": "83337"});
+zipapicallback({"locality": "Hill City", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Hill City"], "postal_code": "83337", "lat": 43.312973, "lng": -115.04088, "type": "POBOX", "counties": [{"fips": "025", "name": "Camas"}]});

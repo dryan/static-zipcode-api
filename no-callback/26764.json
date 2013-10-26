@@ -1,1 +1,1 @@
-{"lat": 39.454805, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Hopemont", "lng": -79.54326, "zip_code": "26764"}
+{"locality": "Terra Alta", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Corinth", "Hopemont", "Terra Alta"], "postal_code": "26764", "lat": 39.454805, "lng": -79.54326, "type": "STANDARD", "counties": [{"fips": "077", "name": "Preston"}]}

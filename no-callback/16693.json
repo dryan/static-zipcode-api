@@ -1,1 +1,1 @@
-{"lat": 40.456531, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ganister", "lng": -78.2221, "zip_code": "16693"}
+{"locality": "Williamsburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ganister", "Williamsburg"], "postal_code": "16693", "lat": 40.456531, "lng": -78.2221, "type": "STANDARD", "counties": [{"fips": "013", "name": "Blair"}, {"fips": "061", "name": "Huntingdon"}]}

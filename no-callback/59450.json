@@ -1,1 +1,1 @@
-{"lat": 47.530558, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Highwood", "lng": -110.57208, "zip_code": "59450"}
+{"locality": "Highwood", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Highwood", "Shonkin"], "postal_code": "59450", "lat": 47.530558, "lng": -110.57208, "type": "STANDARD", "counties": [{"fips": "015", "name": "Chouteau"}, {"fips": "013", "name": "Cascade"}]}

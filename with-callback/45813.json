@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.18312, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Antwerp", "lng": -84.73533, "zip_code": "45813"});
+zipapicallback({"locality": "Antwerp", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Antwerp"], "postal_code": "45813", "lat": 41.18312, "lng": -84.73533, "type": "STANDARD", "counties": [{"fips": "125", "name": "Paulding"}, {"fips": "003", "name": "Allen"}, {"fips": "039", "name": "Defiance"}]});

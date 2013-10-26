@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.599286, "region": {"abbr": "TX", "name": "Texas"}, "locality": "De Soto", "lng": -96.85882, "zip_code": "75115"});
+zipapicallback({"locality": "Desoto", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Desoto"], "postal_code": "75115", "lat": 32.599286, "lng": -96.85882, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]});

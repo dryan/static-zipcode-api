@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.532524, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Bud", "lng": -81.37275, "zip_code": "24716"});
+zipapicallback({"locality": "Bud", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Bud"], "postal_code": "24716", "lat": 37.532524, "lng": -81.37275, "type": "POBOX", "counties": [{"fips": "109", "name": "Wyoming"}]});

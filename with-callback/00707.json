@@ -1,1 +1,1 @@
-zipapicallback({"lat": 18.014505, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Maunabo", "lng": -65.91018, "zip_code": "00707"});
+zipapicallback({"locality": "Maunabo", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Maunabo"], "postal_code": "00707", "lat": 18.014505, "lng": -65.91018, "type": "STANDARD", "counties": [{"fips": "095", "name": "Maunabo"}]});

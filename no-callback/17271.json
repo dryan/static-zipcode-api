@@ -1,1 +1,1 @@
-{"lat": 40.110585, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Willow Hill", "lng": -77.79943, "zip_code": "17271"}
+{"locality": "Willow Hill", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Willow Hill"], "postal_code": "17271", "lat": 40.110585, "lng": -77.79943, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]}

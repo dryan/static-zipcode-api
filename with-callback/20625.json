@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.262468, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Cobb Island", "lng": -76.84951, "zip_code": "20625"});
+zipapicallback({"locality": "Cobb Island", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Cobb Island"], "postal_code": "20625", "lat": 38.262468, "lng": -76.84951, "type": "POBOX", "counties": [{"fips": "017", "name": "Charles"}]});

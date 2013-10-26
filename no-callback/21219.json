@@ -1,1 +1,1 @@
-{"lat": 39.229258, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Dundalk Sparrows", "lng": -76.44898, "zip_code": "21219"}
+{"locality": "Sparrows Point", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Edgemere", "Sparrows Point", "Sparrows Pt"], "postal_code": "21219", "lat": 39.229258, "lng": -76.44898, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}]}

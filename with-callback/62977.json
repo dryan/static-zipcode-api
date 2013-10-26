@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.844963, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Raleigh", "lng": -88.54416, "zip_code": "62977"});
+zipapicallback({"locality": "Raleigh", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Raleigh"], "postal_code": "62977", "lat": 37.844963, "lng": -88.54416, "type": "STANDARD", "counties": [{"fips": "165", "name": "Saline"}]});

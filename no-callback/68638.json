@@ -1,1 +1,1 @@
-{"lat": 41.375063, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Fullerton", "lng": -97.96381, "zip_code": "68638"}
+{"locality": "Fullerton", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Fullerton"], "postal_code": "68638", "lat": 41.375063, "lng": -97.96381, "type": "STANDARD", "counties": [{"fips": "125", "name": "Nance"}, {"fips": "011", "name": "Boone"}, {"fips": "121", "name": "Merrick"}]}

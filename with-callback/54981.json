@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.331217, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Waupaca", "lng": -89.11499, "zip_code": "54981"});
+zipapicallback({"locality": "Waupaca", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Waupaca"], "postal_code": "54981", "lat": 44.331217, "lng": -89.11499, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}, {"fips": "097", "name": "Portage"}, {"fips": "137", "name": "Waushara"}]});

@@ -1,1 +1,1 @@
-{"lat": 33.987497, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Rockmart", "lng": -85.05508, "zip_code": "30153"}
+{"locality": "Rockmart", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Braswell", "Rockmart"], "postal_code": "30153", "lat": 33.987497, "lng": -85.05508, "type": "STANDARD", "counties": [{"fips": "233", "name": "Polk"}, {"fips": "223", "name": "Paulding"}, {"fips": "143", "name": "Haralson"}]}

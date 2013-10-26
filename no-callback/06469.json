@@ -1,1 +1,1 @@
-{"lat": 41.506499, "region": {"abbr": "CT", "name": "Connecticut"}, "locality": "Moodus", "lng": -72.44479, "zip_code": "06469"}
+{"locality": "Moodus", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Moodus"], "postal_code": "06469", "lat": 41.506499, "lng": -72.44479, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}]}

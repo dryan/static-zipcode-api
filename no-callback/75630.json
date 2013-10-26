@@ -1,1 +1,1 @@
-{"lat": 32.854406, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Avinger", "lng": -94.55859, "zip_code": "75630"}
+{"locality": "Avinger", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Avinger"], "postal_code": "75630", "lat": 32.854406, "lng": -94.55859, "type": "STANDARD", "counties": [{"fips": "067", "name": "Cass"}, {"fips": "315", "name": "Marion"}]}

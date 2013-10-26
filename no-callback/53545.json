@@ -1,1 +1,1 @@
-{"lat": 42.69146, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Janesville", "lng": -89.04277, "zip_code": "53545"}
+{"locality": "Janesville", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Janesville"], "postal_code": "53545", "lat": 42.69146, "lng": -89.04277, "type": "STANDARD", "counties": [{"fips": "105", "name": "Rock"}]}

@@ -1,1 +1,1 @@
-{"lat": 35.200501, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Marion", "lng": -90.20234, "zip_code": "72364"}
+{"locality": "Marion", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Marion"], "postal_code": "72364", "lat": 35.200501, "lng": -90.20234, "type": "STANDARD", "counties": [{"fips": "035", "name": "Crittenden"}]}

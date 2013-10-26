@@ -1,1 +1,1 @@
-{"lat": 42.664079, "region": {"abbr": "NY", "name": "New York"}, "locality": "Penn Yan", "lng": -77.05664, "zip_code": "14527"}
+{"locality": "Penn Yan", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Penn Yan"], "postal_code": "14527", "lat": 42.664079, "lng": -77.05664, "type": "STANDARD", "counties": [{"fips": "123", "name": "Yates"}]}

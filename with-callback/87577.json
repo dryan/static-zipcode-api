@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.631809, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Tres Piedras", "lng": -105.9267, "zip_code": "87577"});
+zipapicallback({"locality": "Tres Piedras", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Tres Piedras"], "postal_code": "87577", "lat": 36.631809, "lng": -105.9267, "type": "POBOX", "counties": [{"fips": "055", "name": "Taos"}]});

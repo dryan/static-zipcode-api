@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.350373, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Merritt Island", "lng": -80.6691, "zip_code": "32952"});
+zipapicallback({"locality": "Merritt Island", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Merritt Is", "Merritt Island"], "postal_code": "32952", "lat": 28.350373, "lng": -80.6691, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brevard"}]});

@@ -1,1 +1,1 @@
-{"lat": 34.442184, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Hartselle", "lng": -86.94027, "zip_code": "35640"}
+{"locality": "Hartselle", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Hartselle"], "postal_code": "35640", "lat": 34.442184, "lng": -86.94027, "type": "STANDARD", "counties": [{"fips": "103", "name": "Morgan"}]}

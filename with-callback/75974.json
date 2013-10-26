@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.943273, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Tenaha", "lng": -94.24291, "zip_code": "75974"});
+zipapicallback({"locality": "Tenaha", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tenaha"], "postal_code": "75974", "lat": 31.943273, "lng": -94.24291, "type": "STANDARD", "counties": [{"fips": "419", "name": "Shelby"}, {"fips": "365", "name": "Panola"}]});

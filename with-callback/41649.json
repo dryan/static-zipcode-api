@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.568873, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hite", "lng": -82.75937, "zip_code": "41649"});
+zipapicallback({"locality": "Martin", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hite", "Martin", "Risner"], "postal_code": "41649", "lat": 37.568873, "lng": -82.75937, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

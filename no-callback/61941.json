@@ -1,1 +1,1 @@
-{"lat": 39.801562, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Murdock", "lng": -88.07823, "zip_code": "61941"}
+{"locality": "Murdock", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Murdock"], "postal_code": "61941", "lat": 39.801562, "lng": -88.07823, "type": "POBOX", "counties": [{"fips": "041", "name": "Douglas"}]}

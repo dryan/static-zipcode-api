@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.494139, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Arcadia", "lng": -86.21509, "zip_code": "49613"});
+zipapicallback({"locality": "Arcadia", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Arcadia"], "postal_code": "49613", "lat": 44.494139, "lng": -86.21509, "type": "STANDARD", "counties": [{"fips": "101", "name": "Manistee"}, {"fips": "019", "name": "Benzie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.309666, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "War", "lng": -81.69546, "zip_code": "24892"});
+zipapicallback({"locality": "War", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Caretta", "English", "War", "Yukon"], "postal_code": "24892", "lat": 37.309666, "lng": -81.69546, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]});

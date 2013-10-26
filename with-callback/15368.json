@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.015501, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Vestaburg", "lng": -79.99019, "zip_code": "15368"});
+zipapicallback({"locality": "Vestaburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Vestaburg"], "postal_code": "15368", "lat": 40.015501, "lng": -79.99019, "type": "POBOX", "counties": [{"fips": "125", "name": "Washington"}]});

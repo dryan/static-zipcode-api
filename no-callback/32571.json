@@ -1,1 +1,1 @@
-{"lat": 30.627637, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Pace", "lng": -87.16724, "zip_code": "32571"}
+{"locality": "Milton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Milton", "Pace"], "postal_code": "32571", "lat": 30.627637, "lng": -87.16724, "type": "STANDARD", "counties": [{"fips": "113", "name": "Santa Rosa"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.589593, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Lake Delton", "lng": -89.79306, "zip_code": "53940"});
+zipapicallback({"locality": "Lake Delton", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lake Delton"], "postal_code": "53940", "lat": 43.589593, "lng": -89.79306, "type": "POBOX", "counties": [{"fips": "111", "name": "Sauk"}]});

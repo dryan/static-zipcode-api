@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.610285, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Saint Michaels", "lng": -109.2093, "zip_code": "86511"});
+zipapicallback({"locality": "Saint Michaels", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Saint Michaels", "St Michaels"], "postal_code": "86511", "lat": 35.610285, "lng": -109.2093, "type": "POBOX", "counties": [{"fips": "001", "name": "Apache"}]});

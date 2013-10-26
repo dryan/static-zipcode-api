@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.716952, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Fall River", "lng": -71.13986, "zip_code": "02720"});
+zipapicallback({"locality": "Fall River", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Fall River"], "postal_code": "02720", "lat": 41.716952, "lng": -71.13986, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

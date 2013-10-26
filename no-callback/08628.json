@@ -1,1 +1,1 @@
-{"lat": 40.264708, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "West Trenton", "lng": -74.82295, "zip_code": "08628"}
+{"locality": "Trenton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ewing", "Trenton", "West Trenton"], "postal_code": "08628", "lat": 40.264708, "lng": -74.82295, "type": "STANDARD", "counties": [{"fips": "021", "name": "Mercer"}]}

@@ -1,1 +1,1 @@
-{"lat": 38.35222, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Henley", "lng": -92.31857, "zip_code": "65040"}
+{"locality": "Henley", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Henley"], "postal_code": "65040", "lat": 38.35222, "lng": -92.31857, "type": "STANDARD", "counties": [{"fips": "051", "name": "Cole"}, {"fips": "131", "name": "Miller"}]}

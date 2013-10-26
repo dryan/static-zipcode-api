@@ -1,1 +1,1 @@
-{"lat": 44.501065, "region": {"abbr": "NY", "name": "New York"}, "locality": "South Colton", "lng": -74.86633, "zip_code": "13687"}
+{"locality": "South Colton", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["South Colton"], "postal_code": "13687", "lat": 44.501065, "lng": -74.86633, "type": "STANDARD", "counties": [{"fips": "089", "name": "St. Lawrence"}]}

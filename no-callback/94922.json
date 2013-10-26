@@ -1,1 +1,1 @@
-{"lat": 38.345572, "region": {"abbr": "CA", "name": "California"}, "locality": "Bodega", "lng": -122.96676, "zip_code": "94922"}
+{"locality": "Bodega", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Bodega"], "postal_code": "94922", "lat": 38.345572, "lng": -122.96676, "type": "STANDARD", "counties": [{"fips": "097", "name": "Sonoma"}]}

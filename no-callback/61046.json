@@ -1,1 +1,1 @@
-{"lat": 42.111421, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lanark", "lng": -89.82436, "zip_code": "61046"}
+{"locality": "Lanark", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Lanark"], "postal_code": "61046", "lat": 42.111421, "lng": -89.82436, "type": "STANDARD", "counties": [{"fips": "015", "name": "Carroll"}]}

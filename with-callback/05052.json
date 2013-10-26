@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.598261, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "North Hartland", "lng": -72.351, "zip_code": "05052"});
+zipapicallback({"locality": "North Hartland", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["N Hartland", "North Hartland"], "postal_code": "05052", "lat": 43.598261, "lng": -72.351, "type": "STANDARD", "counties": [{"fips": "027", "name": "Windsor"}]});

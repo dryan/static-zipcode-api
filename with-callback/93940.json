@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.586193, "region": {"abbr": "CA", "name": "California"}, "locality": "Del Rey Oaks", "lng": -121.88667, "zip_code": "93940"});
+zipapicallback({"locality": "Monterey", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Del Rey Oaks", "Monterey"], "postal_code": "93940", "lat": 36.586193, "lng": -121.88667, "type": "STANDARD", "counties": [{"fips": "053", "name": "Monterey"}]});

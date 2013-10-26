@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.749664, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Watkins", "lng": -104.60811, "zip_code": "80137"});
+zipapicallback({"locality": "Watkins", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Watkins"], "postal_code": "80137", "lat": 39.749664, "lng": -104.60811, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "005", "name": "Arapahoe"}]});

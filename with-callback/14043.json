@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.904958, "region": {"abbr": "NY", "name": "New York"}, "locality": "Depew", "lng": -78.7006, "zip_code": "14043"});
+zipapicallback({"locality": "Depew", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Depew"], "postal_code": "14043", "lat": 42.904958, "lng": -78.7006, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]});

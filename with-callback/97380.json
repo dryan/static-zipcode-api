@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.738154, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Siletz", "lng": -123.91023, "zip_code": "97380"});
+zipapicallback({"locality": "Siletz", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Siletz"], "postal_code": "97380", "lat": 44.738154, "lng": -123.91023, "type": "STANDARD", "counties": [{"fips": "041", "name": "Lincoln"}]});

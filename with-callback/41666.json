@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.446983, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Wayland", "lng": -82.80852, "zip_code": "41666"});
+zipapicallback({"locality": "Wayland", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Estill", "Wayland"], "postal_code": "41666", "lat": 37.446983, "lng": -82.80852, "type": "STANDARD", "counties": [{"fips": "071", "name": "Floyd"}]});

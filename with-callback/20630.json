@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.171834, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Drayden", "lng": -76.47437, "zip_code": "20630"});
+zipapicallback({"locality": "Drayden", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Drayden"], "postal_code": "20630", "lat": 38.171834, "lng": -76.47437, "type": "STANDARD", "counties": [{"fips": "037", "name": "St. Mary's"}]});

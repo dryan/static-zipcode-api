@@ -1,1 +1,1 @@
-{"lat": 35.10935, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Memphis", "lng": -89.94363, "zip_code": "38111"}
+{"locality": "Memphis", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Memphis"], "postal_code": "38111", "lat": 35.10935, "lng": -89.94363, "type": "STANDARD", "counties": [{"fips": "157", "name": "Shelby"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.838163, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Martindale", "lng": -97.84178, "zip_code": "78655"});
+zipapicallback({"locality": "Martindale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Martindale"], "postal_code": "78655", "lat": 29.838163, "lng": -97.84178, "type": "STANDARD", "counties": [{"fips": "055", "name": "Caldwell"}]});

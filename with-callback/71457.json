@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.751287, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Natchitoches", "lng": -93.09021, "zip_code": "71457"});
+zipapicallback({"locality": "Natchitoches", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Cypress", "Natchitoches"], "postal_code": "71457", "lat": 31.751287, "lng": -93.09021, "type": "STANDARD", "counties": [{"fips": "069", "name": "Natchitoches"}, {"fips": "127", "name": "Winn"}]});

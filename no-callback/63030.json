@@ -1,1 +1,1 @@
-{"lat": 38.129238, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Fletcher", "lng": -90.74342, "zip_code": "63030"}
+{"locality": "Fletcher", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Fletcher"], "postal_code": "63030", "lat": 38.129238, "lng": -90.74342, "type": "STANDARD", "counties": [{"fips": "099", "name": "Jefferson"}]}

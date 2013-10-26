@@ -1,1 +1,1 @@
-{"lat": 41.202549, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Grabill", "lng": -84.93811, "zip_code": "46741"}
+{"locality": "Grabill", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Grabill"], "postal_code": "46741", "lat": 41.202549, "lng": -84.93811, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allen"}]}

@@ -1,1 +1,1 @@
-{"lat": 27.7437, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Meade", "lng": -81.79405, "zip_code": "33841"}
+{"locality": "Fort Meade", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Meade"], "postal_code": "33841", "lat": 27.7437, "lng": -81.79405, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

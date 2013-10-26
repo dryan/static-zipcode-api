@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.212623, "region": {"abbr": "NY", "name": "New York"}, "locality": "Elizabethtown", "lng": -73.59542, "zip_code": "12932"});
+zipapicallback({"locality": "Elizabethtown", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Elizabethtown"], "postal_code": "12932", "lat": 44.212623, "lng": -73.59542, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}]});

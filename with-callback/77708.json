@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.141361, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Beaumont", "lng": -94.16488, "zip_code": "77708"});
+zipapicallback({"locality": "Beaumont", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Beaumont"], "postal_code": "77708", "lat": 30.141361, "lng": -94.16488, "type": "STANDARD", "counties": [{"fips": "245", "name": "Jefferson"}]});

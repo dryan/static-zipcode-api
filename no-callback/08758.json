@@ -1,1 +1,1 @@
-{"lat": 39.784513, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Waretown", "lng": -74.22376, "zip_code": "08758"}
+{"locality": "Waretown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Waretown"], "postal_code": "08758", "lat": 39.784513, "lng": -74.22376, "type": "STANDARD", "counties": [{"fips": "029", "name": "Ocean"}]}

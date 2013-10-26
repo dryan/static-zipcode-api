@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.418877, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Lake Mills", "lng": -93.52078, "zip_code": "50450"});
+zipapicallback({"locality": "Lake Mills", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Lake Mills"], "postal_code": "50450", "lat": 43.418877, "lng": -93.52078, "type": "STANDARD", "counties": [{"fips": "189", "name": "Winnebago"}]});

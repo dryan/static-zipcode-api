@@ -1,1 +1,1 @@
-{"lat": 38.8016, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Florissant", "lng": -90.33662, "zip_code": "63031"}
+{"locality": "Florissant", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Florissant"], "postal_code": "63031", "lat": 38.8016, "lng": -90.33662, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}]}

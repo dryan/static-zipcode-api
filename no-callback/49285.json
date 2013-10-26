@@ -1,1 +1,1 @@
-{"lat": 42.458785, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Stockbridge", "lng": -84.19374, "zip_code": "49285"}
+{"locality": "Stockbridge", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Stockbridge"], "postal_code": "49285", "lat": 42.458785, "lng": -84.19374, "type": "STANDARD", "counties": [{"fips": "065", "name": "Ingham"}, {"fips": "161", "name": "Washtenaw"}, {"fips": "093", "name": "Livingston"}, {"fips": "075", "name": "Jackson"}]}

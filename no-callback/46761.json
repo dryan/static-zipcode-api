@@ -1,1 +1,1 @@
-{"lat": 41.634457, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Lagrange", "lng": -85.35825, "zip_code": "46761"}
+{"locality": "Lagrange", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Lagrange"], "postal_code": "46761", "lat": 41.634457, "lng": -85.35825, "type": "STANDARD", "counties": [{"fips": "087", "name": "Lagrange"}]}

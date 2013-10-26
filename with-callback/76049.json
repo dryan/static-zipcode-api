@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.440376, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Granbury", "lng": -97.72002, "zip_code": "76049"});
+zipapicallback({"locality": "Granbury", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Acton", "Decordova", "Granbury"], "postal_code": "76049", "lat": 32.440376, "lng": -97.72002, "type": "STANDARD", "counties": []});

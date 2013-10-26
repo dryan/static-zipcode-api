@@ -1,1 +1,1 @@
-{"lat": 37.485276, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Mohawk", "lng": -81.93955, "zip_code": "24862"}
+{"locality": "Mohawk", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Mohawk"], "postal_code": "24862", "lat": 37.485276, "lng": -81.93955, "type": "STANDARD", "counties": [{"fips": "047", "name": "McDowell"}]}

@@ -1,1 +1,1 @@
-{"lat": 45.780793, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Siren", "lng": -92.39152, "zip_code": "54872"}
+{"locality": "Siren", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Siren"], "postal_code": "54872", "lat": 45.780793, "lng": -92.39152, "type": "STANDARD", "counties": [{"fips": "013", "name": "Burnett"}, {"fips": "095", "name": "Polk"}]}

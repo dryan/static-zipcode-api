@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.353064, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Rockvale", "lng": -105.18642, "zip_code": "81244"});
+zipapicallback({"locality": "Rockvale", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rockvale"], "postal_code": "81244", "lat": 38.353064, "lng": -105.18642, "type": "POBOX", "counties": [{"fips": "043", "name": "Fremont"}]});

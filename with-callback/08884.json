@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.39159, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Spotswood", "lng": -74.39329, "zip_code": "08884"});
+zipapicallback({"locality": "Spotswood", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Spotswood"], "postal_code": "08884", "lat": 40.39159, "lng": -74.39329, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}]});

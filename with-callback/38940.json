@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.742886, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Holcomb", "lng": -89.99349, "zip_code": "38940"});
+zipapicallback({"locality": "Holcomb", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Holcomb"], "postal_code": "38940", "lat": 33.742886, "lng": -89.99349, "type": "STANDARD", "counties": [{"fips": "043", "name": "Grenada"}]});

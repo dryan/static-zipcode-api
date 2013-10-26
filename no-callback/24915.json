@@ -1,1 +1,1 @@
-{"lat": 38.462522, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Arbovale", "lng": -79.80308, "zip_code": "24915"}
+{"locality": "Arbovale", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Arbovale"], "postal_code": "24915", "lat": 38.462522, "lng": -79.80308, "type": "STANDARD", "counties": [{"fips": "075", "name": "Pocahontas"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.145438, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Percy", "lng": -90.85634, "zip_code": "38748"});
+zipapicallback({"locality": "Hollandale", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Hollandale", "Percy"], "postal_code": "38748", "lat": 33.145438, "lng": -90.85634, "type": "STANDARD", "counties": [{"fips": "151", "name": "Washington"}, {"fips": "125", "name": "Sharkey"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.739023, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Ripley", "lng": -88.92629, "zip_code": "38663"});
+zipapicallback({"locality": "Ripley", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Ripley"], "postal_code": "38663", "lat": 34.739023, "lng": -88.92629, "type": "STANDARD", "counties": [{"fips": "139", "name": "Tippah"}, {"fips": "145", "name": "Union"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.073759, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Angeles", "lng": -118.37376, "zip_code": "90048"});
+zipapicallback({"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Angeles", "W Hollywood", "West Hollywood"], "postal_code": "90048", "lat": 34.073759, "lng": -118.37376, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]});

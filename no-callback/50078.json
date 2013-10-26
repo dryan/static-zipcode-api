@@ -1,1 +1,1 @@
-{"lat": 41.93746, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ferguson", "lng": -92.865, "zip_code": "50078"}
+{"locality": "Ferguson", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ferguson"], "postal_code": "50078", "lat": 41.93746, "lng": -92.865, "type": "POBOX", "counties": [{"fips": "127", "name": "Marshall"}]}

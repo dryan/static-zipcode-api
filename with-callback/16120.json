@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.875943, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Enon Valley", "lng": -80.46851, "zip_code": "16120"});
+zipapicallback({"locality": "Enon Valley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Enon Valley"], "postal_code": "16120", "lat": 40.875943, "lng": -80.46851, "type": "STANDARD", "counties": [{"fips": "073", "name": "Lawrence"}, {"fips": "007", "name": "Beaver"}]});

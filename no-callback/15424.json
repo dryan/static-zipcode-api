@@ -1,1 +1,1 @@
-{"lat": 39.817148, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Listonburg", "lng": -79.34803, "zip_code": "15424"}
+{"locality": "Confluence", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Confluence", "Listonburg", "Ursina"], "postal_code": "15424", "lat": 39.817148, "lng": -79.34803, "type": "STANDARD", "counties": [{"fips": "111", "name": "Somerset"}, {"fips": "051", "name": "Fayette"}]}

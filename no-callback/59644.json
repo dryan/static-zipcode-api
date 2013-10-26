@@ -1,1 +1,1 @@
-{"lat": 46.394352, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Townsend", "lng": -111.44665, "zip_code": "59644"}
+{"locality": "Townsend", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Townsend"], "postal_code": "59644", "lat": 46.394352, "lng": -111.44665, "type": "STANDARD", "counties": [{"fips": "007", "name": "Broadwater"}]}

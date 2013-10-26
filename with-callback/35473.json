@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.260567, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Northport", "lng": -87.58945, "zip_code": "35473"});
+zipapicallback({"locality": "Northport", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Northport"], "postal_code": "35473", "lat": 33.260567, "lng": -87.58945, "type": "STANDARD", "counties": []});

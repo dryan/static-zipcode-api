@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.441178, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Darrouzett", "lng": -100.33123, "zip_code": "79024"});
+zipapicallback({"locality": "Darrouzett", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Darrouzett"], "postal_code": "79024", "lat": 36.441178, "lng": -100.33123, "type": "POBOX", "counties": [{"fips": "295", "name": "Lipscomb"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.314481, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Port Washington", "lng": -81.49751, "zip_code": "43837"});
+zipapicallback({"locality": "Port Washington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Port Washington", "Prt Washingtn"], "postal_code": "43837", "lat": 40.314481, "lng": -81.49751, "type": "STANDARD", "counties": [{"fips": "157", "name": "Tuscarawas"}, {"fips": "059", "name": "Guernsey"}]});

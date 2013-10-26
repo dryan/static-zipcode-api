@@ -1,1 +1,1 @@
-{"lat": 56.009124, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Coffman Cove", "lng": -132.82018, "zip_code": "99918"}
+{"locality": "Coffman Cove", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Coffman Cove", "Ketchikan"], "postal_code": "99918", "lat": 56.009124, "lng": -132.82018, "type": "POBOX", "counties": []}

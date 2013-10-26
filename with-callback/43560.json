@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.706383, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Sylvania", "lng": -83.7102, "zip_code": "43560"});
+zipapicallback({"locality": "Sylvania", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Sylvania"], "postal_code": "43560", "lat": 41.706383, "lng": -83.7102, "type": "STANDARD", "counties": [{"fips": "095", "name": "Lucas"}]});

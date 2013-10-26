@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.721652, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Somerset", "lng": -71.17482, "zip_code": "02725"});
+zipapicallback({"locality": "Somerset", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Somerset"], "postal_code": "02725", "lat": 41.721652, "lng": -71.17482, "type": "STANDARD", "counties": [{"fips": "005", "name": "Bristol"}]});

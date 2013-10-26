@@ -1,1 +1,1 @@
-{"lat": 40.861748, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Hackettstown", "lng": -74.83054, "zip_code": "07840"}
+{"locality": "Hackettstown", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Hackettstown"], "postal_code": "07840", "lat": 40.861748, "lng": -74.83054, "type": "STANDARD", "counties": [{"fips": "041", "name": "Warren"}, {"fips": "027", "name": "Morris"}]}

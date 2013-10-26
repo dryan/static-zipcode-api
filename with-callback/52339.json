@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.95277, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Tama", "lng": -92.58225, "zip_code": "52339"});
+zipapicallback({"locality": "Tama", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Tama"], "postal_code": "52339", "lat": 41.95277, "lng": -92.58225, "type": "STANDARD", "counties": [{"fips": "171", "name": "Tama"}]});

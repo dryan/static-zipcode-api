@@ -1,1 +1,1 @@
-{"lat": 33.151713, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Aspermont", "lng": -100.25449, "zip_code": "79502"}
+{"locality": "Aspermont", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Aspermont"], "postal_code": "79502", "lat": 33.151713, "lng": -100.25449, "type": "STANDARD", "counties": [{"fips": "433", "name": "Stonewall"}]}

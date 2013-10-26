@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.607077, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Aloma", "lng": -81.30606, "zip_code": "32792"});
+zipapicallback({"locality": "Winter Park", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Aloma", "Winter Park"], "postal_code": "32792", "lat": 28.607077, "lng": -81.30606, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}, {"fips": "117", "name": "Seminole"}]});

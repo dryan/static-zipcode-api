@@ -1,1 +1,1 @@
-{"lat": 31.86577, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Odessa", "lng": -102.45367, "zip_code": "79764"}
+{"locality": "Odessa", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Odessa"], "postal_code": "79764", "lat": 31.86577, "lng": -102.45367, "type": "STANDARD", "counties": [{"fips": "135", "name": "Ector"}, {"fips": "141", "name": "El Paso"}]}

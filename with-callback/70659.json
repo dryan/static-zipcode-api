@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.921274, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Rosepine", "lng": -93.28194, "zip_code": "70659"});
+zipapicallback({"locality": "Rosepine", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Rosepine"], "postal_code": "70659", "lat": 30.921274, "lng": -93.28194, "type": "POBOX", "counties": [{"fips": "115", "name": "Vernon"}]});

@@ -1,1 +1,1 @@
-{"lat": 37.444879, "region": {"abbr": "CA", "name": "California"}, "locality": "Woodside", "lng": -122.26253, "zip_code": "94062"}
+{"locality": "Redwood City", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Emerald Hills", "Palomar Park", "Redwood City", "Woodside"], "postal_code": "94062", "lat": 37.444879, "lng": -122.26253, "type": "STANDARD", "counties": [{"fips": "081", "name": "San Mateo"}]}

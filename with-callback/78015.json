@@ -1,1 +1,1 @@
-zipapicallback({"lat": 29.743603, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Boerne", "lng": -98.64854, "zip_code": "78015"});
+zipapicallback({"locality": "Boerne", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Boerne", "Fair Oaks", "Fair Oaks Ranch"], "postal_code": "78015", "lat": 29.743603, "lng": -98.64854, "type": "STANDARD", "counties": []});

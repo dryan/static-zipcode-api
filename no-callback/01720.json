@@ -1,1 +1,1 @@
-{"lat": 42.477142, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Acton", "lng": -71.4422, "zip_code": "01720"}
+{"locality": "Acton", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Acton"], "postal_code": "01720", "lat": 42.477142, "lng": -71.4422, "type": "STANDARD", "counties": [{"fips": "017", "name": "Middlesex"}, {"fips": "027", "name": "Worcester"}]}

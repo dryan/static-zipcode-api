@@ -1,1 +1,1 @@
-{"lat": 37.016847, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Oakland", "lng": -86.25187, "zip_code": "42159"}
+{"locality": "Oakland", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Oakland"], "postal_code": "42159", "lat": 37.016847, "lng": -86.25187, "type": "STANDARD", "counties": [{"fips": "227", "name": "Warren"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.588986, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Friesland", "lng": -89.06787, "zip_code": "53935"});
+zipapicallback({"locality": "Friesland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Friesland"], "postal_code": "53935", "lat": 43.588986, "lng": -89.06787, "type": "POBOX", "counties": [{"fips": "021", "name": "Columbia"}]});

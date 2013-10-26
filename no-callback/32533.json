@@ -1,1 +1,1 @@
-{"lat": 30.600993, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Cantonment", "lng": -87.31979, "zip_code": "32533"}
+{"locality": "Cantonment", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Cantonment"], "postal_code": "32533", "lat": 30.600993, "lng": -87.31979, "type": "STANDARD", "counties": [{"fips": "033", "name": "Escambia"}, {"fips": "003", "name": "Baker"}]}

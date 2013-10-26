@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.329164, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Oglethorpe", "lng": -84.07988, "zip_code": "31068"});
+zipapicallback({"locality": "Oglethorpe", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Oglethorpe"], "postal_code": "31068", "lat": 32.329164, "lng": -84.07988, "type": "STANDARD", "counties": [{"fips": "193", "name": "MacOn"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.433107, "region": {"abbr": "NY", "name": "New York"}, "locality": "Middle Granville", "lng": -73.29152, "zip_code": "12849"});
+zipapicallback({"locality": "Middle Granville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Mdl Granville", "Middle Granville"], "postal_code": "12849", "lat": 43.433107, "lng": -73.29152, "type": "STANDARD", "counties": [{"fips": "115", "name": "Washington"}]});

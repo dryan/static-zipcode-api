@@ -1,1 +1,1 @@
-{"lat": 44.541352, "region": {"abbr": "VT", "name": "Vermont"}, "locality": "Lyndonville", "lng": -72.02686, "zip_code": "05851"}
+{"locality": "Lyndonville", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Lyndonville"], "postal_code": "05851", "lat": 44.541352, "lng": -72.02686, "type": "STANDARD", "counties": [{"fips": "005", "name": "Caledonia"}]}

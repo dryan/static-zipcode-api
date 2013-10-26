@@ -1,1 +1,1 @@
-{"lat": 27.894991, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Bartow", "lng": -81.82638, "zip_code": "33830"}
+{"locality": "Bartow", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Bartow"], "postal_code": "33830", "lat": 27.894991, "lng": -81.82638, "type": "STANDARD", "counties": [{"fips": "105", "name": "Polk"}]}

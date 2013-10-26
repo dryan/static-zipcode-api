@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.884657, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Iona", "lng": -95.77444, "zip_code": "56141"});
+zipapicallback({"locality": "Iona", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Iona"], "postal_code": "56141", "lat": 43.884657, "lng": -95.77444, "type": "STANDARD", "counties": [{"fips": "101", "name": "Murray"}, {"fips": "105", "name": "Nobles"}]});

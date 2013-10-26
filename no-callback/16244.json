@@ -1,1 +1,1 @@
-{"lat": 40.796406, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Nu Mine", "lng": -79.2727, "zip_code": "16244"}
+{"locality": "Nu Mine", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Nu Mine"], "postal_code": "16244", "lat": 40.796406, "lng": -79.2727, "type": "POBOX", "counties": [{"fips": "005", "name": "Armstrong"}]}

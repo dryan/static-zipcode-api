@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.076516, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Hobe Sound", "lng": -80.14697, "zip_code": "33455"});
+zipapicallback({"locality": "Hobe Sound", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Hobe Sound"], "postal_code": "33455", "lat": 27.076516, "lng": -80.14697, "type": "STANDARD", "counties": [{"fips": "085", "name": "Martin"}]});

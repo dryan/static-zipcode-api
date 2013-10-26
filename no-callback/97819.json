@@ -1,1 +1,1 @@
-{"lat": 44.489628, "region": {"abbr": "OR", "name": "Oregon"}, "locality": "Bridgeport", "lng": -117.73478, "zip_code": "97819"}
+{"locality": "Bridgeport", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Bridgeport"], "postal_code": "97819", "lat": 44.489628, "lng": -117.73478, "type": "STANDARD", "counties": [{"fips": "001", "name": "Baker"}]}

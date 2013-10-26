@@ -1,1 +1,1 @@
-{"lat": 42.002691, "region": {"abbr": "NY", "name": "New York"}, "locality": "Red Hook", "lng": -73.8442, "zip_code": "12571"}
+{"locality": "Red Hook", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Milan", "Red Hook"], "postal_code": "12571", "lat": 42.002691, "lng": -73.8442, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}, {"fips": "021", "name": "Columbia"}]}

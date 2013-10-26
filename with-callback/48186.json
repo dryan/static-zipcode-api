@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.293787, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Westland", "lng": -83.37464, "zip_code": "48186"});
+zipapicallback({"locality": "Westland", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Westland"], "postal_code": "48186", "lat": 42.293787, "lng": -83.37464, "type": "STANDARD", "counties": []});

@@ -1,1 +1,1 @@
-{"lat": 40.945198, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Haledon", "lng": -74.18286, "zip_code": "07508"}
+{"locality": "Haledon", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Haledon", "North Haledon", "Paterson", "Prospect Park"], "postal_code": "07508", "lat": 40.945198, "lng": -74.18286, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}]}

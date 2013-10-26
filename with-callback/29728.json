@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.769259, "region": {"abbr": "SC", "name": "South Carolina"}, "locality": "Pageland", "lng": -80.39935, "zip_code": "29728"});
+zipapicallback({"locality": "Pageland", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Pageland"], "postal_code": "29728", "lat": 34.769259, "lng": -80.39935, "type": "STANDARD", "counties": [{"fips": "025", "name": "Chesterfield"}]});

@@ -1,1 +1,1 @@
-{"lat": 32.229884, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Jonesboro", "lng": -92.69763, "zip_code": "71251"}
+{"locality": "Jonesboro", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Jonesboro"], "postal_code": "71251", "lat": 32.229884, "lng": -92.69763, "type": "STANDARD", "counties": [{"fips": "049", "name": "Jackson"}, {"fips": "013", "name": "Bienville"}]}

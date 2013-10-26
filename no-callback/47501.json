@@ -1,1 +1,1 @@
-{"lat": 38.658196, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Washington", "lng": -87.17619, "zip_code": "47501"}
+{"locality": "Washington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Washington"], "postal_code": "47501", "lat": 38.658196, "lng": -87.17619, "type": "STANDARD", "counties": [{"fips": "027", "name": "Daviess"}]}

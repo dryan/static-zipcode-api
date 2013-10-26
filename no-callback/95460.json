@@ -1,1 +1,1 @@
-{"lat": 39.311858, "region": {"abbr": "CA", "name": "California"}, "locality": "Mendocino", "lng": -123.79166, "zip_code": "95460"}
+{"locality": "Mendocino", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mendocino"], "postal_code": "95460", "lat": 39.311858, "lng": -123.79166, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

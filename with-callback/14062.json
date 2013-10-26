@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.450845, "region": {"abbr": "NY", "name": "New York"}, "locality": "Forestville", "lng": -79.16528, "zip_code": "14062"});
+zipapicallback({"locality": "Forestville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Forestville"], "postal_code": "14062", "lat": 42.450845, "lng": -79.16528, "type": "STANDARD", "counties": [{"fips": "013", "name": "Chautauqua"}]});

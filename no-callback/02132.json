@@ -1,1 +1,1 @@
-{"lat": 42.279432, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "West Roxbury", "lng": -71.1598, "zip_code": "02132"}
+{"locality": "West Roxbury", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Boston", "West Roxbury"], "postal_code": "02132", "lat": 42.279432, "lng": -71.1598, "type": "STANDARD", "counties": [{"fips": "025", "name": "Suffolk"}]}

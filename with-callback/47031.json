@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.126201, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Milan", "lng": -85.14049, "zip_code": "47031"});
+zipapicallback({"locality": "Milan", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Milan"], "postal_code": "47031", "lat": 39.126201, "lng": -85.14049, "type": "STANDARD", "counties": [{"fips": "137", "name": "Ripley"}]});

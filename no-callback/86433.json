@@ -1,1 +1,1 @@
-{"lat": 35.030577, "region": {"abbr": "AZ", "name": "Arizona"}, "locality": "Oatman", "lng": -114.38928, "zip_code": "86433"}
+{"locality": "Oatman", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Oatman"], "postal_code": "86433", "lat": 35.030577, "lng": -114.38928, "type": "POBOX", "counties": [{"fips": "015", "name": "Mohave"}]}

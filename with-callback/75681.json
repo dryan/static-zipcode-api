@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.934633, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mount Enterprise", "lng": -94.68886, "zip_code": "75681"});
+zipapicallback({"locality": "Mount Enterprise", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mount Enterprise", "Mt Enterprise"], "postal_code": "75681", "lat": 31.934633, "lng": -94.68886, "type": "STANDARD", "counties": [{"fips": "401", "name": "Rusk"}]});

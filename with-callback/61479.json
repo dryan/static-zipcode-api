@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.999497, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Speer", "lng": -89.65429, "zip_code": "61479"});
+zipapicallback({"locality": "Speer", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Speer"], "postal_code": "61479", "lat": 40.999497, "lng": -89.65429, "type": "STANDARD", "counties": [{"fips": "175", "name": "Stark"}, {"fips": "123", "name": "Marshall"}]});

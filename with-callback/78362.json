@@ -1,1 +1,1 @@
-zipapicallback({"lat": 27.866143, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Ingleside", "lng": -97.20712, "zip_code": "78362"});
+zipapicallback({"locality": "Ingleside", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Ingleside"], "postal_code": "78362", "lat": 27.866143, "lng": -97.20712, "type": "STANDARD", "counties": [{"fips": "409", "name": "San Patricio"}]});

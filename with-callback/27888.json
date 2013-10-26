@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.593689, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Walstonburg", "lng": -77.70192, "zip_code": "27888"});
+zipapicallback({"locality": "Walstonburg", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Walstonburg"], "postal_code": "27888", "lat": 35.593689, "lng": -77.70192, "type": "STANDARD", "counties": [{"fips": "079", "name": "Greene"}, {"fips": "147", "name": "Pitt"}, {"fips": "195", "name": "Wilson"}]});

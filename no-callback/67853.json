@@ -1,1 +1,1 @@
-{"lat": 37.842421, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Ingalls", "lng": -100.49796, "zip_code": "67853"}
+{"locality": "Ingalls", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Ingalls"], "postal_code": "67853", "lat": 37.842421, "lng": -100.49796, "type": "STANDARD", "counties": [{"fips": "069", "name": "Gray"}, {"fips": "055", "name": "Finney"}]}

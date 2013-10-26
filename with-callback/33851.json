@@ -1,1 +1,1 @@
-zipapicallback({"lat": 28.044641, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Lake Hamilton", "lng": -81.62373, "zip_code": "33851"});
+zipapicallback({"locality": "Lake Hamilton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lake Hamilton"], "postal_code": "33851", "lat": 28.044641, "lng": -81.62373, "type": "POBOX", "counties": [{"fips": "105", "name": "Polk"}]});

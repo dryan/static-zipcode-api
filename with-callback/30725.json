@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.932348, "region": {"abbr": "GA", "name": "Georgia"}, "locality": "Flintstone", "lng": -85.35064, "zip_code": "30725"});
+zipapicallback({"locality": "Flintstone", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Flintstone"], "postal_code": "30725", "lat": 34.932348, "lng": -85.35064, "type": "STANDARD", "counties": [{"fips": "295", "name": "Walker"}]});

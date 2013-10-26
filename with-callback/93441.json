@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.709973, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Olivos", "lng": -120.09201, "zip_code": "93441"});
+zipapicallback({"locality": "Los Olivos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Olivos"], "postal_code": "93441", "lat": 34.709973, "lng": -120.09201, "type": "POBOX", "counties": [{"fips": "083", "name": "Santa Barbara"}]});

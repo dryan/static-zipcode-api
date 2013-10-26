@@ -1,1 +1,1 @@
-{"lat": 39.205109, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Taft", "lng": -84.39512, "zip_code": "45236"}
+{"locality": "Cincinnati", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Blue Ash", "Cincinnati", "Deer Park", "Reading", "Silverton", "Taft"], "postal_code": "45236", "lat": 39.205109, "lng": -84.39512, "type": "STANDARD", "counties": [{"fips": "061", "name": "Hamilton"}]}

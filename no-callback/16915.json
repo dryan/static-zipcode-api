@@ -1,1 +1,1 @@
-{"lat": 41.800278, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Oswayo", "lng": -77.98905, "zip_code": "16915"}
+{"locality": "Coudersport", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Coudersport", "Oswayo"], "postal_code": "16915", "lat": 41.800278, "lng": -77.98905, "type": "STANDARD", "counties": [{"fips": "105", "name": "Potter"}]}

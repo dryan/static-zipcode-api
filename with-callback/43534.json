@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.368743, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Mc Clure", "lng": -83.93422, "zip_code": "43534"});
+zipapicallback({"locality": "Mc Clure", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Grelton", "Mc Clure"], "postal_code": "43534", "lat": 41.368743, "lng": -83.93422, "type": "STANDARD", "counties": [{"fips": "069", "name": "Henry"}]});

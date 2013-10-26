@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.983957, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Ida", "lng": -93.89254, "zip_code": "71044"});
+zipapicallback({"locality": "Ida", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Ida", "Mira"], "postal_code": "71044", "lat": 32.983957, "lng": -93.89254, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}, {"fips": "091", "name": "St. Helena"}]});

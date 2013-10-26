@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.631359, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Pearl Beach", "lng": -82.554, "zip_code": "48001"});
+zipapicallback({"locality": "Algonac", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Algonac", "Clay", "Pearl Beach", "Russell Is", "Russell Island"], "postal_code": "48001", "lat": 42.631359, "lng": -82.554, "type": "STANDARD", "counties": [{"fips": "147", "name": "Saint Clair"}]});

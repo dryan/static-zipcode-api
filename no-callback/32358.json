@@ -1,1 +1,1 @@
-{"lat": 30.029899, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Sopchoppy", "lng": -84.50595, "zip_code": "32358"}
+{"locality": "Sopchoppy", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Saint Teresa", "Sopchoppy", "St Teresa"], "postal_code": "32358", "lat": 30.029899, "lng": -84.50595, "type": "STANDARD", "counties": [{"fips": "129", "name": "Wakulla"}, {"fips": "037", "name": "Franklin"}]}

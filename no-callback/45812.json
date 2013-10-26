@@ -1,1 +1,1 @@
-{"lat": 40.696862, "region": {"abbr": "OH", "name": "Ohio"}, "locality": "Alger", "lng": -83.8231, "zip_code": "45812"}
+{"locality": "Alger", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Alger"], "postal_code": "45812", "lat": 40.696862, "lng": -83.8231, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hardin"}, {"fips": "003", "name": "Allen"}]}

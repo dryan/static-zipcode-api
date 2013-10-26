@@ -1,1 +1,1 @@
-{"lat": 42.162453, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Pilot Mound", "lng": -94.01728, "zip_code": "50223"}
+{"locality": "Pilot Mound", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Pilot Mound"], "postal_code": "50223", "lat": 42.162453, "lng": -94.01728, "type": "STANDARD", "counties": [{"fips": "015", "name": "Boone"}]}

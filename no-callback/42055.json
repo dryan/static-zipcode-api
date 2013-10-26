@@ -1,1 +1,1 @@
-{"lat": 37.058356, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Kuttawa", "lng": -88.14097, "zip_code": "42055"}
+{"locality": "Kuttawa", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Kuttawa"], "postal_code": "42055", "lat": 37.058356, "lng": -88.14097, "type": "STANDARD", "counties": [{"fips": "143", "name": "Lyon"}]}

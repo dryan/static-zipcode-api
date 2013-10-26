@@ -1,1 +1,1 @@
-{"lat": 47.858074, "region": {"abbr": "WA", "name": "Washington"}, "locality": "Tumtum", "lng": -117.74582, "zip_code": "99034"}
+{"locality": "Tumtum", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Tumtum"], "postal_code": "99034", "lat": 47.858074, "lng": -117.74582, "type": "STANDARD", "counties": [{"fips": "065", "name": "Stevens"}]}

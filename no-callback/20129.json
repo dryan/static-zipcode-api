@@ -1,1 +1,1 @@
-{"lat": 39.149032, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Paeonian Springs", "lng": -77.61471, "zip_code": "20129"}
+{"locality": "Paeonian Springs", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Paeonian Spgs", "Paeonian Springs"], "postal_code": "20129", "lat": 39.149032, "lng": -77.61471, "type": "STANDARD", "counties": []}

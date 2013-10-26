@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.884263, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Mount Ephraim", "lng": -75.0923, "zip_code": "08059"});
+zipapicallback({"locality": "Mount Ephraim", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Mount Ephraim", "W Colls Hgts", "West Collingswood Heights"], "postal_code": "08059", "lat": 39.884263, "lng": -75.0923, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}]});

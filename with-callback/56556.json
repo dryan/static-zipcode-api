@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.656231, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Mcintosh", "lng": -95.88214, "zip_code": "56556"});
+zipapicallback({"locality": "Mcintosh", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Mcintosh"], "postal_code": "56556", "lat": 47.656231, "lng": -95.88214, "type": "STANDARD", "counties": [{"fips": "119", "name": "Polk"}]});

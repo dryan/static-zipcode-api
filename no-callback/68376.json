@@ -1,1 +1,1 @@
-{"lat": 40.172733, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Humboldt", "lng": -95.9426, "zip_code": "68376"}
+{"locality": "Humboldt", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Humboldt"], "postal_code": "68376", "lat": 40.172733, "lng": -95.9426, "type": "STANDARD", "counties": [{"fips": "147", "name": "Richardson"}, {"fips": "133", "name": "Pawnee"}, {"fips": "127", "name": "Nemaha"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.951672, "region": {"abbr": "CA", "name": "California"}, "locality": "Pleasant Hill", "lng": -122.07317, "zip_code": "94523"});
+zipapicallback({"locality": "Pleasant Hill", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Concord", "Pleasant Hill"], "postal_code": "94523", "lat": 37.951672, "lng": -122.07317, "type": "STANDARD", "counties": [{"fips": "013", "name": "Contra Costa"}]});

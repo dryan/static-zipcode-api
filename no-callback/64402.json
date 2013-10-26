@@ -1,1 +1,1 @@
-{"lat": 40.247423, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Albany", "lng": -94.33216, "zip_code": "64402"}
+{"locality": "Albany", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Albany"], "postal_code": "64402", "lat": 40.247423, "lng": -94.33216, "type": "STANDARD", "counties": [{"fips": "075", "name": "Gentry"}]}

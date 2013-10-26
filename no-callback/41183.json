@@ -1,1 +1,1 @@
-{"lat": 38.54912, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Worthington", "lng": -82.73508, "zip_code": "41183"}
+{"locality": "Worthington", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Worthington"], "postal_code": "41183", "lat": 38.54912, "lng": -82.73508, "type": "STANDARD", "counties": [{"fips": "089", "name": "Greenup"}]}

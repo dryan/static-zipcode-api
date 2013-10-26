@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.276758, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Nantucket", "lng": -70.09089, "zip_code": "02554"});
+zipapicallback({"locality": "Nantucket", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Nantucket"], "postal_code": "02554", "lat": 41.276758, "lng": -70.09089, "type": "STANDARD", "counties": [{"fips": "019", "name": "Nantucket"}, {"fips": "023", "name": "Plymouth"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.796157, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Alamo", "lng": -89.14016, "zip_code": "38001"});
+zipapicallback({"locality": "Alamo", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Alamo"], "postal_code": "38001", "lat": 35.796157, "lng": -89.14016, "type": "STANDARD", "counties": [{"fips": "033", "name": "Crockett"}]});

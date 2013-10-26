@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.795164, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Purdy", "lng": -93.94164, "zip_code": "65734"});
+zipapicallback({"locality": "Purdy", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Purdy"], "postal_code": "65734", "lat": 36.795164, "lng": -93.94164, "type": "STANDARD", "counties": [{"fips": "009", "name": "Barry"}, {"fips": "145", "name": "Newton"}]});

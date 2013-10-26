@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.956385, "region": {"abbr": "CA", "name": "California"}, "locality": "New Cuyama", "lng": -119.74696, "zip_code": "93254"});
+zipapicallback({"locality": "New Cuyama", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Cuyama", "New Cuyama"], "postal_code": "93254", "lat": 34.956385, "lng": -119.74696, "type": "STANDARD", "counties": [{"fips": "083", "name": "Santa Barbara"}]});

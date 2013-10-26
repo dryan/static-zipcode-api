@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.709254, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Royal Oak", "lng": -76.2086, "zip_code": "21662"});
+zipapicallback({"locality": "Royal Oak", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Royal Oak"], "postal_code": "21662", "lat": 38.709254, "lng": -76.2086, "type": "STANDARD", "counties": [{"fips": "041", "name": "Talbot"}]});

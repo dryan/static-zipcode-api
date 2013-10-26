@@ -1,1 +1,1 @@
-{"lat": 42.447038, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Bellevue", "lng": -85.04264, "zip_code": "49021"}
+{"locality": "Bellevue", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Bellevue"], "postal_code": "49021", "lat": 42.447038, "lng": -85.04264, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}, {"fips": "015", "name": "Barry"}, {"fips": "025", "name": "Calhoun"}]}

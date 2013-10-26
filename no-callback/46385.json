@@ -1,1 +1,1 @@
-{"lat": 41.484652, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Valparaiso", "lng": -87.11269, "zip_code": "46385"}
+{"locality": "Valparaiso", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Valparaiso", "Valpo"], "postal_code": "46385", "lat": 41.484652, "lng": -87.11269, "type": "STANDARD", "counties": []}

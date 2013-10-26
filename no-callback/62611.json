@@ -1,1 +1,1 @@
-{"lat": 39.883346, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Arenzville", "lng": -90.39332, "zip_code": "62611"}
+{"locality": "Arenzville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Arenzville"], "postal_code": "62611", "lat": 39.883346, "lng": -90.39332, "type": "STANDARD", "counties": [{"fips": "017", "name": "Cass"}, {"fips": "137", "name": "Morgan"}]}

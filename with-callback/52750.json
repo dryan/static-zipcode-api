@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.926933, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Goose Lake", "lng": -90.41181, "zip_code": "52750"});
+zipapicallback({"locality": "Goose Lake", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Goose Lake"], "postal_code": "52750", "lat": 41.926933, "lng": -90.41181, "type": "STANDARD", "counties": [{"fips": "045", "name": "Clinton"}]});

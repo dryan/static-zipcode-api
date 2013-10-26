@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.117517, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Allenwood", "lng": -77.00557, "zip_code": "17810"});
+zipapicallback({"locality": "Allenwood", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Allenwood"], "postal_code": "17810", "lat": 41.117517, "lng": -77.00557, "type": "STANDARD", "counties": [{"fips": "119", "name": "Union"}, {"fips": "081", "name": "Lycoming"}]});

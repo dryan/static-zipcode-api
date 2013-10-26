@@ -1,1 +1,1 @@
-{"lat": 38.14969, "region": {"abbr": "KS", "name": "Kansas"}, "locality": "Matfield Green", "lng": -96.51545, "zip_code": "66862"}
+{"locality": "Matfield Green", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Matfield Green", "Matfield Grn"], "postal_code": "66862", "lat": 38.14969, "lng": -96.51545, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chase"}]}

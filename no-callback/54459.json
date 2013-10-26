@@ -1,1 +1,1 @@
-{"lat": 45.434426, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ogema", "lng": -90.26806, "zip_code": "54459"}
+{"locality": "Ogema", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ogema"], "postal_code": "54459", "lat": 45.434426, "lng": -90.26806, "type": "STANDARD", "counties": [{"fips": "099", "name": "Price"}, {"fips": "119", "name": "Taylor"}]}

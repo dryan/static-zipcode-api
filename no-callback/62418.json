@@ -1,1 +1,1 @@
-{"lat": 39.018987, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Brownstown", "lng": -88.96134, "zip_code": "62418"}
+{"locality": "Brownstown", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Brownstown"], "postal_code": "62418", "lat": 39.018987, "lng": -88.96134, "type": "STANDARD", "counties": [{"fips": "051", "name": "Fayette"}]}

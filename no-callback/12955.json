@@ -1,1 +1,1 @@
-{"lat": 44.787489, "region": {"abbr": "NY", "name": "New York"}, "locality": "Merrill", "lng": -73.98702, "zip_code": "12955"}
+{"locality": "Lyon Mountain", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lyon Mountain", "Merrill"], "postal_code": "12955", "lat": 44.787489, "lng": -73.98702, "type": "STANDARD", "counties": [{"fips": "033", "name": "Franklin"}, {"fips": "019", "name": "Clinton"}]}

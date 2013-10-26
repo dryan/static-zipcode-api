@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.906415, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gadsden", "lng": -86.02665, "zip_code": "35907"});
+zipapicallback({"locality": "Gadsden", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gadsden", "Southside"], "postal_code": "35907", "lat": 33.906415, "lng": -86.02665, "type": "STANDARD", "counties": []});

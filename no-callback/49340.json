@@ -1,1 +1,1 @@
-{"lat": 43.617313, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Remus", "lng": -85.09604, "zip_code": "49340"}
+{"locality": "Remus", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Remus"], "postal_code": "49340", "lat": 43.617313, "lng": -85.09604, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "073", "name": "Isabella"}]}

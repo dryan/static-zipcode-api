@@ -1,1 +1,1 @@
-{"lat": 36.370315, "region": {"abbr": "NV", "name": "Nevada"}, "locality": "Nellis Afb", "lng": -115.23128, "zip_code": "89191"}
+{"locality": "Nellis Afb", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Indian Springs Air Force Aux", "Isafa", "Las Vegas", "Nellis Afb"], "postal_code": "89191", "lat": 36.370315, "lng": -115.23128, "type": "POBOX", "counties": [{"fips": "003", "name": "Clark"}]}

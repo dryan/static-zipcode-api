@@ -1,1 +1,1 @@
-{"lat": 64.560888, "region": {"abbr": "AK", "name": "Alaska"}, "locality": "Nenana", "lng": -149.07674, "zip_code": "99760"}
+{"locality": "Nenana", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Nenana"], "postal_code": "99760", "lat": 64.560888, "lng": -149.07674, "type": "STANDARD", "counties": [{"fips": "290", "name": "Yukon-Koyukuk"}]}

@@ -1,1 +1,1 @@
-{"lat": 28.735088, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Okahumpka", "lng": -81.91035, "zip_code": "34762"}
+{"locality": "Okahumpka", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Okahumpka"], "postal_code": "34762", "lat": 28.735088, "lng": -81.91035, "type": "STANDARD", "counties": []}

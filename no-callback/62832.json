@@ -1,1 +1,1 @@
-{"lat": 38.011729, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Du Quoin", "lng": -89.24688, "zip_code": "62832"}
+{"locality": "Du Quoin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Du Quoin"], "postal_code": "62832", "lat": 38.011729, "lng": -89.24688, "type": "STANDARD", "counties": [{"fips": "145", "name": "Perry"}, {"fips": "025", "name": "Clay"}, {"fips": "077", "name": "Jackson"}]}

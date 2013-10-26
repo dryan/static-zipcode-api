@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.599122, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Odanah", "lng": -90.65361, "zip_code": "54861"});
+zipapicallback({"locality": "Odanah", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Odanah"], "postal_code": "54861", "lat": 46.599122, "lng": -90.65361, "type": "POBOX", "counties": [{"fips": "003", "name": "Ashland"}]});

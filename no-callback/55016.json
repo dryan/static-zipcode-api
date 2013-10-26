@@ -1,1 +1,1 @@
-{"lat": 44.830966, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Cottage Grove", "lng": -92.93739, "zip_code": "55016"}
+{"locality": "Cottage Grove", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Cottage Grove"], "postal_code": "55016", "lat": 44.830966, "lng": -92.93739, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}]}

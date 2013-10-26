@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.52284, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Oneida", "lng": -88.18008, "zip_code": "54155"});
+zipapicallback({"locality": "Oneida", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Hobart", "Oneida"], "postal_code": "54155", "lat": 44.52284, "lng": -88.18008, "type": "STANDARD", "counties": [{"fips": "009", "name": "Brown"}, {"fips": "087", "name": "Outagamie"}]});

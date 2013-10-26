@@ -1,1 +1,1 @@
-{"lat": 40.465744, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Elliott", "lng": -88.26994, "zip_code": "60933"}
+{"locality": "Elliott", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Elliott"], "postal_code": "60933", "lat": 40.465744, "lng": -88.26994, "type": "POBOX", "counties": [{"fips": "053", "name": "Ford"}]}

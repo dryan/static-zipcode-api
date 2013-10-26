@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.095774, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Beebe", "lng": -91.90636, "zip_code": "72012"});
+zipapicallback({"locality": "Beebe", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Beebe"], "postal_code": "72012", "lat": 35.095774, "lng": -91.90636, "type": "STANDARD", "counties": [{"fips": "145", "name": "White"}]});

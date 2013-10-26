@@ -1,1 +1,1 @@
-{"lat": 42.535917, "region": {"abbr": "NY", "name": "New York"}, "locality": "Lawtons", "lng": -78.88235, "zip_code": "14091"}
+{"locality": "Lawtons", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Lawtons"], "postal_code": "14091", "lat": 42.535917, "lng": -78.88235, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.295736, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Worton", "lng": -76.09974, "zip_code": "21678"}
+{"locality": "Worton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Lynch", "Worton"], "postal_code": "21678", "lat": 39.295736, "lng": -76.09974, "type": "STANDARD", "counties": [{"fips": "029", "name": "Kent"}]}

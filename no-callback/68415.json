@@ -1,1 +1,1 @@
-{"lat": 40.052388, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Odell", "lng": -96.81761, "zip_code": "68415"}
+{"locality": "Odell", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Odell"], "postal_code": "68415", "lat": 40.052388, "lng": -96.81761, "type": "STANDARD", "counties": [{"fips": "067", "name": "Gage"}]}

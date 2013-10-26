@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.333048, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gaylesville", "lng": -85.55172, "zip_code": "35973"});
+zipapicallback({"locality": "Gaylesville", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gaylesville"], "postal_code": "35973", "lat": 34.333048, "lng": -85.55172, "type": "STANDARD", "counties": [{"fips": "019", "name": "Cherokee"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.121471, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Pegram", "lng": -87.04467, "zip_code": "37143"});
+zipapicallback({"locality": "Pegram", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Pegram"], "postal_code": "37143", "lat": 36.121471, "lng": -87.04467, "type": "STANDARD", "counties": [{"fips": "021", "name": "Cheatham"}, {"fips": "037", "name": "Davidson"}]});

@@ -1,1 +1,1 @@
-{"lat": 41.240562, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Omaha", "lng": -95.93353, "zip_code": "68108"}
+{"locality": "Omaha", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Omaha"], "postal_code": "68108", "lat": 41.240562, "lng": -95.93353, "type": "STANDARD", "counties": [{"fips": "055", "name": "Douglas"}]}

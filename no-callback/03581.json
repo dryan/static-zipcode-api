@@ -1,1 +1,1 @@
-{"lat": 44.386557, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Gorham", "lng": -71.16273, "zip_code": "03581"}
+{"locality": "Gorham", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Gorham", "Shelburne"], "postal_code": "03581", "lat": 44.386557, "lng": -71.16273, "type": "STANDARD", "counties": [{"fips": "007", "name": "Coos"}]}

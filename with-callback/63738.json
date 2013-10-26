@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.082526, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Brownwood", "lng": -89.95595, "zip_code": "63738"});
+zipapicallback({"locality": "Brownwood", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Brownwood"], "postal_code": "63738", "lat": 37.082526, "lng": -89.95595, "type": "POBOX", "counties": [{"fips": "207", "name": "Stoddard"}]});

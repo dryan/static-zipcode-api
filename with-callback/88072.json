@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.123655, "region": {"abbr": "NM", "name": "New Mexico"}, "locality": "Vado", "lng": -106.63846, "zip_code": "88072"});
+zipapicallback({"locality": "Vado", "region": {"fips": "35", "abbr": "NM", "name": "New Mexico"}, "localities": ["Vado"], "postal_code": "88072", "lat": 32.123655, "lng": -106.63846, "type": "STANDARD", "counties": [{"fips": "013", "name": "Dona Ana"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.939609, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Yeadon", "lng": -75.26453, "zip_code": "19050"});
+zipapicallback({"locality": "Lansdowne", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Lansdowne", "East Lansdowne", "Lansdowne", "Yeadon"], "postal_code": "19050", "lat": 39.939609, "lng": -75.26453, "type": "STANDARD", "counties": [{"fips": "045", "name": "Delaware"}]});

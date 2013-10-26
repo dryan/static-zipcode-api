@@ -1,1 +1,1 @@
-{"lat": 41.656592, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Blue Island", "lng": -87.68154, "zip_code": "60406"}
+{"locality": "Blue Island", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Blue Island"], "postal_code": "60406", "lat": 41.656592, "lng": -87.68154, "type": "STANDARD", "counties": [{"fips": "031", "name": "Cook"}]}

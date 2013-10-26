@@ -1,1 +1,1 @@
-{"lat": 38.724439, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Ghent", "lng": -85.05007, "zip_code": "41045"}
+{"locality": "Ghent", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Ghent"], "postal_code": "41045", "lat": 38.724439, "lng": -85.05007, "type": "STANDARD", "counties": [{"fips": "041", "name": "Carroll"}]}

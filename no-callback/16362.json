@@ -1,1 +1,1 @@
-{"lat": 41.445871, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Utica", "lng": -79.96704, "zip_code": "16362"}
+{"locality": "Utica", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Utica"], "postal_code": "16362", "lat": 41.445871, "lng": -79.96704, "type": "STANDARD", "counties": [{"fips": "121", "name": "Venango"}, {"fips": "039", "name": "Crawford"}, {"fips": "085", "name": "Mercer"}]}

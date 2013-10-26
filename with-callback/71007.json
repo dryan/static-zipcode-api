@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.420611, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Bethany", "lng": -94.00923, "zip_code": "71007"});
+zipapicallback({"locality": "Bethany", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Bethany"], "postal_code": "71007", "lat": 32.420611, "lng": -94.00923, "type": "STANDARD", "counties": [{"fips": "017", "name": "Caddo"}]});

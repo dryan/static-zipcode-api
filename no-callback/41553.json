@@ -1,1 +1,1 @@
-{"lat": 37.506174, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Phelps", "lng": -82.15907, "zip_code": "41553"}
+{"locality": "Phelps", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Jamboree", "Paw Paw", "Phelps"], "postal_code": "41553", "lat": 37.506174, "lng": -82.15907, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

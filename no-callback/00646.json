@@ -1,1 +1,1 @@
-{"lat": 18.442798, "region": {"abbr": "PR", "name": "Puerto Rico"}, "locality": "Dorado", "lng": -66.27689, "zip_code": "00646"}
+{"locality": "Dorado", "region": {"fips": "72", "abbr": "PR", "name": "Puerto Rico"}, "localities": ["Dorado"], "postal_code": "00646", "lat": 18.442798, "lng": -66.27689, "type": "STANDARD", "counties": [{"fips": "051", "name": "Dorado"}]}

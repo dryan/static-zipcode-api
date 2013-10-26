@@ -1,1 +1,1 @@
-{"lat": 28.568393, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Ridge Manor Esta", "lng": -82.15053, "zip_code": "33597"}
+{"locality": "Webster", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Rdg Mnr Est", "Ridge Manor Estates", "Webster"], "postal_code": "33597", "lat": 28.568393, "lng": -82.15053, "type": "STANDARD", "counties": [{"fips": "119", "name": "Sumter"}, {"fips": "053", "name": "Hernando"}, {"fips": "101", "name": "Pasco"}]}

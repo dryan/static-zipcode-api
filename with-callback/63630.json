@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.020743, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Cadet", "lng": -90.74557, "zip_code": "63630"});
+zipapicallback({"locality": "Cadet", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Cadet"], "postal_code": "63630", "lat": 38.020743, "lng": -90.74557, "type": "STANDARD", "counties": [{"fips": "221", "name": "Washington"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.393881, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Ransom", "lng": -75.82447, "zip_code": "18653"});
+zipapicallback({"locality": "Ransom", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Ransom"], "postal_code": "18653", "lat": 41.393881, "lng": -75.82447, "type": "POBOX", "counties": [{"fips": "069", "name": "Lackawanna"}]});

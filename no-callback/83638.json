@@ -1,1 +1,1 @@
-{"lat": 44.854428, "region": {"abbr": "ID", "name": "Idaho"}, "locality": "Mc Call", "lng": -116.04991, "zip_code": "83638"}
+{"locality": "Mccall", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Mccall"], "postal_code": "83638", "lat": 44.854428, "lng": -116.04991, "type": "STANDARD", "counties": [{"fips": "085", "name": "Valley"}, {"fips": "049", "name": "Idaho"}]}

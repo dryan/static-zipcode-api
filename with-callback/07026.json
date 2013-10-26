@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.879858, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Garfield", "lng": -74.10807, "zip_code": "07026"});
+zipapicallback({"locality": "Garfield", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Garfield"], "postal_code": "07026", "lat": 40.879858, "lng": -74.10807, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}]});

@@ -1,1 +1,1 @@
-{"lat": 42.121188, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Carpentersville", "lng": -88.27227, "zip_code": "60110"}
+{"locality": "Carpentersville", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Carpentersville", "Carpentersvle"], "postal_code": "60110", "lat": 42.121188, "lng": -88.27227, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}]}

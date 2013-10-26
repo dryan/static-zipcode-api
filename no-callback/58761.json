@@ -1,1 +1,1 @@
-{"lat": 48.770684, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Loraine", "lng": -101.55153, "zip_code": "58761"}
+{"locality": "Mohall", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Loraine", "Mohall"], "postal_code": "58761", "lat": 48.770684, "lng": -101.55153, "type": "STANDARD", "counties": [{"fips": "075", "name": "Renville"}, {"fips": "009", "name": "Bottineau"}]}

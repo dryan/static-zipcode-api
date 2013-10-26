@@ -1,1 +1,1 @@
-{"lat": 32.556296, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Opelika", "lng": -85.33465, "zip_code": "36804"}
+{"locality": "Opelika", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Opelika"], "postal_code": "36804", "lat": 32.556296, "lng": -85.33465, "type": "STANDARD", "counties": []}

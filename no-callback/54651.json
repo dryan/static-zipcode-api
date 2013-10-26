@@ -1,1 +1,1 @@
-{"lat": 43.740893, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Ontario", "lng": -90.56934, "zip_code": "54651"}
+{"locality": "Ontario", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ontario"], "postal_code": "54651", "lat": 43.740893, "lng": -90.56934, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}, {"fips": "081", "name": "Monroe"}]}

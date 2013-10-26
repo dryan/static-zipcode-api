@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.081642, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Harrold", "lng": -99.062, "zip_code": "76364"});
+zipapicallback({"locality": "Harrold", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Harrold"], "postal_code": "76364", "lat": 34.081642, "lng": -99.062, "type": "STANDARD", "counties": [{"fips": "487", "name": "Wilbarger"}]});

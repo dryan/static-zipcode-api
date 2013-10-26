@@ -1,1 +1,1 @@
-{"lat": 39.567001, "region": {"abbr": "CA", "name": "California"}, "locality": "Downieville", "lng": -120.8384, "zip_code": "95936"}
+{"locality": "Downieville", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Downieville"], "postal_code": "95936", "lat": 39.567001, "lng": -120.8384, "type": "POBOX", "counties": [{"fips": "091", "name": "Sierra"}]}

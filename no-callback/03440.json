@@ -1,1 +1,1 @@
-{"lat": 43.060424, "region": {"abbr": "NH", "name": "New Hampshire"}, "locality": "Antrim", "lng": -71.95068, "zip_code": "03440"}
+{"locality": "Antrim", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Antrim"], "postal_code": "03440", "lat": 43.060424, "lng": -71.95068, "type": "STANDARD", "counties": [{"fips": "011", "name": "Hillsborough"}, {"fips": "005", "name": "Cheshire"}]}

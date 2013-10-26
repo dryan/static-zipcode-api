@@ -1,1 +1,1 @@
-{"lat": 32.588536, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Cedar Hill", "lng": -96.94949, "zip_code": "75104"}
+{"locality": "Cedar Hill", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cedar Hill"], "postal_code": "75104", "lat": 32.588536, "lng": -96.94949, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}, {"fips": "139", "name": "Ellis"}]}

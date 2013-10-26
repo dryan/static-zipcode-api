@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.851953, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Big Stone Gap", "lng": -82.77056, "zip_code": "24219"});
+zipapicallback({"locality": "Big Stone Gap", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Big Stone Gap"], "postal_code": "24219", "lat": 36.851953, "lng": -82.77056, "type": "STANDARD", "counties": [{"fips": "195", "name": "Wise"}, {"fips": "105", "name": "Lee"}]});

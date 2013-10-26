@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.827903, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Golden", "lng": -105.32256, "zip_code": "80403"});
+zipapicallback({"locality": "Golden", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Arvada", "Golden"], "postal_code": "80403", "lat": 39.827903, "lng": -105.32256, "type": "STANDARD", "counties": [{"fips": "059", "name": "Jefferson"}, {"fips": "013", "name": "Boulder"}, {"fips": "047", "name": "Gilpin"}, {"fips": "005", "name": "Arapahoe"}]});

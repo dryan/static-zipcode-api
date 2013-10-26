@@ -1,1 +1,1 @@
-{"lat": 38.26127, "region": {"abbr": "CA", "name": "California"}, "locality": "Mountain Ranch", "lng": -120.50328, "zip_code": "95246"}
+{"locality": "Mountain Ranch", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Mountain Ranch", "Mtn Ranch", "Sheep Ranch"], "postal_code": "95246", "lat": 38.26127, "lng": -120.50328, "type": "STANDARD", "counties": [{"fips": "009", "name": "Calaveras"}]}

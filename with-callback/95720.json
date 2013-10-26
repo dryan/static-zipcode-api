@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.771209, "region": {"abbr": "CA", "name": "California"}, "locality": "Kyburz", "lng": -120.26765, "zip_code": "95720"});
+zipapicallback({"locality": "Kyburz", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Kyburz"], "postal_code": "95720", "lat": 38.771209, "lng": -120.26765, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}]});

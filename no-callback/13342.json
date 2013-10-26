@@ -1,1 +1,1 @@
-{"lat": 42.64743, "region": {"abbr": "NY", "name": "New York"}, "locality": "Garrattsville", "lng": -75.17793, "zip_code": "13342"}
+{"locality": "Garrattsville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Garrattsville"], "postal_code": "13342", "lat": 42.64743, "lng": -75.17793, "type": "STANDARD", "counties": [{"fips": "077", "name": "Otsego"}]}

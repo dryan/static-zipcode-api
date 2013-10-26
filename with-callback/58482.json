@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.862714, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Steele", "lng": -99.9205, "zip_code": "58482"});
+zipapicallback({"locality": "Steele", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Steele"], "postal_code": "58482", "lat": 46.862714, "lng": -99.9205, "type": "STANDARD", "counties": [{"fips": "043", "name": "Kidder"}]});

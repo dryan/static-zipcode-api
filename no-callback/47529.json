@@ -1,1 +1,1 @@
-{"lat": 38.869876, "region": {"abbr": "IN", "name": "Indiana"}, "locality": "Elnora", "lng": -87.08288, "zip_code": "47529"}
+{"locality": "Elnora", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Elnora"], "postal_code": "47529", "lat": 38.869876, "lng": -87.08288, "type": "STANDARD", "counties": [{"fips": "027", "name": "Daviess"}, {"fips": "055", "name": "Greene"}]}

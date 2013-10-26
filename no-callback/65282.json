@@ -1,1 +1,1 @@
-{"lat": 39.369471, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Santa Fe", "lng": -91.81864, "zip_code": "65282"}
+{"locality": "Santa Fe", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Santa Fe"], "postal_code": "65282", "lat": 39.369471, "lng": -91.81864, "type": "STANDARD", "counties": [{"fips": "137", "name": "Monroe"}]}

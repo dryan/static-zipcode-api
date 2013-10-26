@@ -1,1 +1,1 @@
-{"lat": 37.771573, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Uniontown", "lng": -87.91614, "zip_code": "42461"}
+{"locality": "Uniontown", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Uniontown"], "postal_code": "42461", "lat": 37.771573, "lng": -87.91614, "type": "STANDARD", "counties": [{"fips": "225", "name": "Union"}]}

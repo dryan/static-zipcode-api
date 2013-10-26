@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.17315, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Lake In The Hill", "lng": -88.31849, "zip_code": "60102"});
+zipapicallback({"locality": "Algonquin", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Algonquin", "Lake In The Hills", "Lk In The Hls"], "postal_code": "60102", "lat": 42.17315, "lng": -88.31849, "type": "STANDARD", "counties": [{"fips": "089", "name": "Kane"}, {"fips": "111", "name": "McHenry"}]});

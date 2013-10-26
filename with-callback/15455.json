@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.998299, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Leisenring", "lng": -79.64333, "zip_code": "15455"});
+zipapicallback({"locality": "Leisenring", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leisenring"], "postal_code": "15455", "lat": 39.998299, "lng": -79.64333, "type": "POBOX", "counties": [{"fips": "051", "name": "Fayette"}]});

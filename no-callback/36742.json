@@ -1,1 +1,1 @@
-{"lat": 32.454007, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Gallion", "lng": -87.75003, "zip_code": "36742"}
+{"locality": "Gallion", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Gallion", "Providence"], "postal_code": "36742", "lat": 32.454007, "lng": -87.75003, "type": "STANDARD", "counties": [{"fips": "065", "name": "Hale"}, {"fips": "091", "name": "Marengo"}]}

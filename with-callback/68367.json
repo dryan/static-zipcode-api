@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.03937, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Gresham", "lng": -97.39671, "zip_code": "68367"});
+zipapicallback({"locality": "Gresham", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Gresham"], "postal_code": "68367", "lat": 41.03937, "lng": -97.39671, "type": "STANDARD", "counties": [{"fips": "185", "name": "York"}, {"fips": "023", "name": "Butler"}, {"fips": "159", "name": "Seward"}, {"fips": "143", "name": "Polk"}]});

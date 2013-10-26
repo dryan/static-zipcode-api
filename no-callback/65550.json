@@ -1,1 +1,1 @@
-{"lat": 37.862197, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Newburg", "lng": -91.93811, "zip_code": "65550"}
+{"locality": "Newburg", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Newburg"], "postal_code": "65550", "lat": 37.862197, "lng": -91.93811, "type": "STANDARD", "counties": [{"fips": "161", "name": "Phelps"}, {"fips": "169", "name": "Pulaski"}]}

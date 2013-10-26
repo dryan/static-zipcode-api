@@ -1,1 +1,1 @@
-{"lat": 38.137345, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Richwoods", "lng": -90.83168, "zip_code": "63071"}
+{"locality": "Richwoods", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Richwoods"], "postal_code": "63071", "lat": 38.137345, "lng": -90.83168, "type": "STANDARD", "counties": [{"fips": "221", "name": "Washington"}]}

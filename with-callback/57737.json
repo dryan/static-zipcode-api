@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.560996, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Enning", "lng": -102.57677, "zip_code": "57737"});
+zipapicallback({"locality": "Enning", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Enning"], "postal_code": "57737", "lat": 44.560996, "lng": -102.57677, "type": "STANDARD", "counties": [{"fips": "093", "name": "Meade"}]});

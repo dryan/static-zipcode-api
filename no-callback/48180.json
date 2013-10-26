@@ -1,1 +1,1 @@
-{"lat": 42.231788, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Taylor", "lng": -83.26481, "zip_code": "48180"}
+{"locality": "Taylor", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Taylor"], "postal_code": "48180", "lat": 42.231788, "lng": -83.26481, "type": "STANDARD", "counties": [{"fips": "163", "name": "Wayne"}]}

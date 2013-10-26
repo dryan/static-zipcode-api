@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.542119, "region": {"abbr": "MO", "name": "Missouri"}, "locality": "Powersville", "lng": -93.25234, "zip_code": "64672"});
+zipapicallback({"locality": "Powersville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Powersville"], "postal_code": "64672", "lat": 40.542119, "lng": -93.25234, "type": "STANDARD", "counties": [{"fips": "171", "name": "Putnam"}, {"fips": "129", "name": "Mercer"}]});

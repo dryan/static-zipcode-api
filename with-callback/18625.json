@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.509364, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Lake Winola", "lng": -75.85458, "zip_code": "18625"});
+zipapicallback({"locality": "Lake Winola", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Lake Winola"], "postal_code": "18625", "lat": 41.509364, "lng": -75.85458, "type": "POBOX", "counties": [{"fips": "131", "name": "Wyoming"}]});

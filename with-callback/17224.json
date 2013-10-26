@@ -1,1 +1,1 @@
-zipapicallback({"lat": 39.957564, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Fort Loudon", "lng": -77.90623, "zip_code": "17224"});
+zipapicallback({"locality": "Fort Loudon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Fort Loudon"], "postal_code": "17224", "lat": 39.957564, "lng": -77.90623, "type": "STANDARD", "counties": [{"fips": "055", "name": "Franklin"}]});

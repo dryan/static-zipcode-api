@@ -1,1 +1,1 @@
-{"lat": 32.80699, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Lueders", "lng": -99.60862, "zip_code": "79533"}
+{"locality": "Lueders", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Lueders"], "postal_code": "79533", "lat": 32.80699, "lng": -99.60862, "type": "STANDARD", "counties": [{"fips": "253", "name": "Jones"}, {"fips": "417", "name": "Shackelford"}]}

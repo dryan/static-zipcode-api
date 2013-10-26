@@ -1,1 +1,1 @@
-{"lat": 30.182175, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Giddings", "lng": -96.93171, "zip_code": "78942"}
+{"locality": "Giddings", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Giddings"], "postal_code": "78942", "lat": 30.182175, "lng": -96.93171, "type": "STANDARD", "counties": [{"fips": "287", "name": "Lee"}, {"fips": "297", "name": "Live Oak"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 33.22584, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Green Pond", "lng": -87.12515, "zip_code": "35074"});
+zipapicallback({"locality": "Green Pond", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Green Pond"], "postal_code": "35074", "lat": 33.22584, "lng": -87.12515, "type": "POBOX", "counties": [{"fips": "007", "name": "Bibb"}]});

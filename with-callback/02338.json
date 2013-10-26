@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.999851, "region": {"abbr": "MA", "name": "Massachusetts"}, "locality": "Halifax", "lng": -70.85395, "zip_code": "02338"});
+zipapicallback({"locality": "Halifax", "region": {"fips": "25", "abbr": "MA", "name": "Massachusetts"}, "localities": ["Halifax"], "postal_code": "02338", "lat": 41.999851, "lng": -70.85395, "type": "STANDARD", "counties": [{"fips": "023", "name": "Plymouth"}]});

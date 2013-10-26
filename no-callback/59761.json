@@ -1,1 +1,1 @@
-{"lat": 45.595349, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Wisdom", "lng": -113.61624, "zip_code": "59761"}
+{"locality": "Wisdom", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Wisdom"], "postal_code": "59761", "lat": 45.595349, "lng": -113.61624, "type": "STANDARD", "counties": [{"fips": "001", "name": "Beaverhead"}]}

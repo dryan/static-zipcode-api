@@ -1,1 +1,1 @@
-zipapicallback({"lat": 26.120714, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Fort Lauderdale", "lng": -80.25326, "zip_code": "33388"});
+zipapicallback({"locality": "Plantation", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Fort Lauderdale", "Ft Lauderdale", "Plantation"], "postal_code": "33388", "lat": 26.120714, "lng": -80.25326, "type": "STANDARD", "counties": [{"fips": "011", "name": "Broward"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 32.803646, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Mesquite", "lng": -96.56965, "zip_code": "75182"});
+zipapicallback({"locality": "Sunnyvale", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Mesquite", "Sunnyvale"], "postal_code": "75182", "lat": 32.803646, "lng": -96.56965, "type": "STANDARD", "counties": [{"fips": "113", "name": "Dallas"}]});

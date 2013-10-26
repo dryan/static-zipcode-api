@@ -1,1 +1,1 @@
-{"lat": 41.033239, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Drifting", "lng": -78.1104, "zip_code": "16834"}
+{"locality": "Drifting", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Drifting"], "postal_code": "16834", "lat": 41.033239, "lng": -78.1104, "type": "POBOX", "counties": [{"fips": "033", "name": "Clearfield"}]}

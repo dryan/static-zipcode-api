@@ -1,1 +1,1 @@
-{"lat": 39.620748, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Edwards", "lng": -106.6148, "zip_code": "81632"}
+{"locality": "Edwards", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Cordillera", "Edwards"], "postal_code": "81632", "lat": 39.620748, "lng": -106.6148, "type": "STANDARD", "counties": [{"fips": "037", "name": "Eagle"}]}

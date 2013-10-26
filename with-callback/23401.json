@@ -1,1 +1,1 @@
-zipapicallback({"lat": 37.61686, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Keller", "lng": -75.76512, "zip_code": "23401"});
+zipapicallback({"locality": "Keller", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Keller"], "postal_code": "23401", "lat": 37.61686, "lng": -75.76512, "type": "POBOX", "counties": [{"fips": "001", "name": "Accomack"}]});

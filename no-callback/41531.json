@@ -1,1 +1,1 @@
-{"lat": 37.599893, "region": {"abbr": "KY", "name": "Kentucky"}, "locality": "Hardy", "lng": -82.23349, "zip_code": "41531"}
+{"locality": "Hardy", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Hardy"], "postal_code": "41531", "lat": 37.599893, "lng": -82.23349, "type": "STANDARD", "counties": [{"fips": "195", "name": "Pike"}]}

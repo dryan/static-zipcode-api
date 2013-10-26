@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.934465, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Saint Paul", "lng": -93.16554, "zip_code": "55105"});
+zipapicallback({"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Paul"], "postal_code": "55105", "lat": 44.934465, "lng": -93.16554, "type": "STANDARD", "counties": [{"fips": "123", "name": "Ramsey"}]});

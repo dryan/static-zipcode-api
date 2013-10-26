@@ -1,1 +1,1 @@
-zipapicallback({"lat": 35.637993, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Ripley", "lng": -89.86859, "zip_code": "38063"});
+zipapicallback({"locality": "Ripley", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Ripley"], "postal_code": "38063", "lat": 35.637993, "lng": -89.86859, "type": "STANDARD", "counties": [{"fips": "097", "name": "Lauderdale"}, {"fips": "047", "name": "Fayette"}]});

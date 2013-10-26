@@ -1,1 +1,1 @@
-zipapicallback({"lat": 46.191702, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "Curtis", "lng": -85.72148, "zip_code": "49820"});
+zipapicallback({"locality": "Curtis", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Curtis"], "postal_code": "49820", "lat": 46.191702, "lng": -85.72148, "type": "STANDARD", "counties": [{"fips": "097", "name": "MacKinac"}]});

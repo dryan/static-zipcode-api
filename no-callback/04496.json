@@ -1,1 +1,1 @@
-{"lat": 44.657697, "region": {"abbr": "ME", "name": "Maine"}, "locality": "Winterport", "lng": -68.8957, "zip_code": "04496"}
+{"locality": "Winterport", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Winterport"], "postal_code": "04496", "lat": 44.657697, "lng": -68.8957, "type": "STANDARD", "counties": [{"fips": "027", "name": "Waldo"}]}

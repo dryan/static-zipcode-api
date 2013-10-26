@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.421895, "region": {"abbr": "CA", "name": "California"}, "locality": "Summerland", "lng": -119.60084, "zip_code": "93067"});
+zipapicallback({"locality": "Summerland", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Summerland"], "postal_code": "93067", "lat": 34.421895, "lng": -119.60084, "type": "POBOX", "counties": [{"fips": "083", "name": "Santa Barbara"}]});

@@ -1,1 +1,1 @@
-{"lat": 29.943573, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Forked Island", "lng": -92.14872, "zip_code": "70510"}
+{"locality": "Abbeville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Abbeville", "Cow Island", "Meaux"], "postal_code": "70510", "lat": 29.943573, "lng": -92.14872, "type": "STANDARD", "counties": [{"fips": "113", "name": "Vermilion"}]}

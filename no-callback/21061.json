@@ -1,1 +1,1 @@
-{"lat": 39.164158, "region": {"abbr": "MD", "name": "Maryland"}, "locality": "Glen Burnie", "lng": -76.6306, "zip_code": "21061"}
+{"locality": "Glen Burnie", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Glen Burnie"], "postal_code": "21061", "lat": 39.164158, "lng": -76.6306, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}]}

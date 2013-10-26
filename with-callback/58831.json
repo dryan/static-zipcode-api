@@ -1,1 +1,1 @@
-zipapicallback({"lat": 47.826449, "region": {"abbr": "ND", "name": "North Dakota"}, "locality": "Rawson", "lng": -103.65916, "zip_code": "58831"});
+zipapicallback({"locality": "Alexander", "region": {"fips": "38", "abbr": "ND", "name": "North Dakota"}, "localities": ["Alexander", "Rawson"], "postal_code": "58831", "lat": 47.826449, "lng": -103.65916, "type": "STANDARD", "counties": [{"fips": "053", "name": "McKenzie"}]});

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.153969, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Mason City", "lng": -93.20037, "zip_code": "50401"});
+zipapicallback({"locality": "Mason City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Mason City"], "postal_code": "50401", "lat": 43.153969, "lng": -93.20037, "type": "STANDARD", "counties": [{"fips": "033", "name": "Cerro Gordo"}]});

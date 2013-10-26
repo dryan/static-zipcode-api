@@ -1,1 +1,1 @@
-{"lat": 36.913228, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Saxe", "lng": -78.63611, "zip_code": "23967"}
+{"locality": "Saxe", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Saxe"], "postal_code": "23967", "lat": 36.913228, "lng": -78.63611, "type": "STANDARD", "counties": [{"fips": "037", "name": "Charlotte"}]}

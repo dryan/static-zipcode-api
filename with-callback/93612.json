@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.813456, "region": {"abbr": "CA", "name": "California"}, "locality": "Clovis", "lng": -119.70826, "zip_code": "93612"});
+zipapicallback({"locality": "Clovis", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Clovis"], "postal_code": "93612", "lat": 36.813456, "lng": -119.70826, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}]});

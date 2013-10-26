@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.233942, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Oslo", "lng": -97.11882, "zip_code": "56744"});
+zipapicallback({"locality": "Oslo", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Oslo"], "postal_code": "56744", "lat": 48.233942, "lng": -97.11882, "type": "STANDARD", "counties": [{"fips": "089", "name": "Marshall"}, {"fips": "119", "name": "Polk"}]});

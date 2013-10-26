@@ -1,1 +1,1 @@
-{"lat": 41.691648, "region": {"abbr": "NE", "name": "Nebraska"}, "locality": "Leigh", "lng": -97.24781, "zip_code": "68643"}
+{"locality": "Leigh", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Leigh"], "postal_code": "68643", "lat": 41.691648, "lng": -97.24781, "type": "STANDARD", "counties": [{"fips": "037", "name": "Colfax"}, {"fips": "141", "name": "Platte"}, {"fips": "167", "name": "Stanton"}]}

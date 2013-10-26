@@ -1,1 +1,1 @@
-zipapicallback({"lat": 43.234782, "region": {"abbr": "ME", "name": "Maine"}, "locality": "South Berwick", "lng": -70.77876, "zip_code": "03908"});
+zipapicallback({"locality": "South Berwick", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["South Berwick"], "postal_code": "03908", "lat": 43.234782, "lng": -70.77876, "type": "STANDARD", "counties": [{"fips": "031", "name": "York"}]});

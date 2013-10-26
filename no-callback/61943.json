@@ -1,1 +1,1 @@
-{"lat": 39.655063, "region": {"abbr": "IL", "name": "Illinois"}, "locality": "Oakland", "lng": -88.01806, "zip_code": "61943"}
+{"locality": "Oakland", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Oakland"], "postal_code": "61943", "lat": 39.655063, "lng": -88.01806, "type": "STANDARD", "counties": [{"fips": "029", "name": "Coles"}, {"fips": "045", "name": "Edgar"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.058276, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Garyville", "lng": -90.61738, "zip_code": "70051"});
+zipapicallback({"locality": "Garyville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Garyville"], "postal_code": "70051", "lat": 30.058276, "lng": -90.61738, "type": "STANDARD", "counties": [{"fips": "095", "name": "St. John the Baptist"}]});

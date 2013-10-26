@@ -1,1 +1,1 @@
-zipapicallback({"lat": 31.416059, "region": {"abbr": "AL", "name": "Alabama"}, "locality": "Red Level", "lng": -86.61397, "zip_code": "36474"});
+zipapicallback({"locality": "Red Level", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Red Level"], "postal_code": "36474", "lat": 31.416059, "lng": -86.61397, "type": "STANDARD", "counties": [{"fips": "039", "name": "Covington"}, {"fips": "035", "name": "Conecuh"}]});

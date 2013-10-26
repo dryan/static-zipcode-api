@@ -1,1 +1,1 @@
-zipapicallback({"lat": 42.332677, "region": {"abbr": "IA", "name": "Iowa"}, "locality": "Ida Grove", "lng": -95.46823, "zip_code": "51445"});
+zipapicallback({"locality": "Ida Grove", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["Ida Grove"], "postal_code": "51445", "lat": 42.332677, "lng": -95.46823, "type": "STANDARD", "counties": [{"fips": "093", "name": "Ida"}]});

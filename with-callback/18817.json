@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.875402, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "East Smithfield", "lng": -76.63313, "zip_code": "18817"});
+zipapicallback({"locality": "East Smithfield", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["E Smithfield", "East Smithfield"], "postal_code": "18817", "lat": 41.875402, "lng": -76.63313, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}]});

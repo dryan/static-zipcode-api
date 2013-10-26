@@ -1,1 +1,1 @@
-zipapicallback({"lat": 48.006744, "region": {"abbr": "MT", "name": "Montana"}, "locality": "Fort Peck", "lng": -106.46104, "zip_code": "59223"});
+zipapicallback({"locality": "Fort Peck", "region": {"fips": "30", "abbr": "MT", "name": "Montana"}, "localities": ["Fort Peck"], "postal_code": "59223", "lat": 48.006744, "lng": -106.46104, "type": "STANDARD", "counties": [{"fips": "105", "name": "Valley"}]});

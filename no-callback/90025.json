@@ -1,1 +1,1 @@
-{"lat": 34.045006, "region": {"abbr": "CA", "name": "California"}, "locality": "Los Angeles", "lng": -118.44527, "zip_code": "90025"}
+{"locality": "Los Angeles", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Angeles", "W Los Angeles", "West Los Angeles"], "postal_code": "90025", "lat": 34.045006, "lng": -118.44527, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}]}

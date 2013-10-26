@@ -1,1 +1,1 @@
-{"lat": 40.482655, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Plum", "lng": -79.74278, "zip_code": "15239"}
+{"locality": "Pittsburgh", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pittsburgh", "Plum"], "postal_code": "15239", "lat": 40.482655, "lng": -79.74278, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}]}

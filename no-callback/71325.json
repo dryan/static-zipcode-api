@@ -1,1 +1,1 @@
-{"lat": 30.996931, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Cheneyville", "lng": -92.32228, "zip_code": "71325"}
+{"locality": "Cheneyville", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Cheneyville"], "postal_code": "71325", "lat": 30.996931, "lng": -92.32228, "type": "STANDARD", "counties": [{"fips": "079", "name": "Rapides"}, {"fips": "039", "name": "Evangeline"}]}

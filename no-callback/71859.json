@@ -1,1 +1,1 @@
-{"lat": 33.740704, "region": {"abbr": "AR", "name": "Arkansas"}, "locality": "Saratoga", "lng": -93.91747, "zip_code": "71859"}
+{"locality": "Saratoga", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Saratoga"], "postal_code": "71859", "lat": 33.740704, "lng": -93.91747, "type": "STANDARD", "counties": [{"fips": "061", "name": "Howard"}]}

@@ -1,1 +1,1 @@
-{"lat": 40.761179, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Freeburg", "lng": -76.94339, "zip_code": "17827"}
+{"locality": "Freeburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Freeburg"], "postal_code": "17827", "lat": 40.761179, "lng": -76.94339, "type": "STANDARD", "counties": [{"fips": "109", "name": "Snyder"}]}

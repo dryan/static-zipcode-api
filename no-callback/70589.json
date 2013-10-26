@@ -1,1 +1,1 @@
-{"lat": 30.653805, "region": {"abbr": "LA", "name": "Louisiana"}, "locality": "Washington", "lng": -92.05479, "zip_code": "70589"}
+{"locality": "Washington", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Washington"], "postal_code": "70589", "lat": 30.653805, "lng": -92.05479, "type": "STANDARD", "counties": [{"fips": "097", "name": "St. Landry"}]}

@@ -1,1 +1,1 @@
-{"lat": 41.727069, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Centerville", "lng": -79.78908, "zip_code": "16404"}
+{"locality": "Centerville", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Centerville"], "postal_code": "16404", "lat": 41.727069, "lng": -79.78908, "type": "STANDARD", "counties": [{"fips": "039", "name": "Crawford"}]}

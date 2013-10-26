@@ -1,1 +1,1 @@
-zipapicallback({"lat": 30.480319, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Rye", "lng": -94.75643, "zip_code": "77369"});
+zipapicallback({"locality": "Rye", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Rye"], "postal_code": "77369", "lat": 30.480319, "lng": -94.75643, "type": "POBOX", "counties": [{"fips": "291", "name": "Liberty"}]});

@@ -1,1 +1,1 @@
-{"lat": 38.678663, "region": {"abbr": "CA", "name": "California"}, "locality": "Madison", "lng": -121.96907, "zip_code": "95653"}
+{"locality": "Madison", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Madison"], "postal_code": "95653", "lat": 38.678663, "lng": -121.96907, "type": "POBOX", "counties": [{"fips": "113", "name": "Yolo"}]}

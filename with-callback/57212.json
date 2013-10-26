@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.377534, "region": {"abbr": "SD", "name": "South Dakota"}, "locality": "Arlington", "lng": -97.13878, "zip_code": "57212"});
+zipapicallback({"locality": "Arlington", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Arlington", "Hetland"], "postal_code": "57212", "lat": 44.377534, "lng": -97.13878, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kingsbury"}, {"fips": "011", "name": "Brookings"}, {"fips": "057", "name": "Hamlin"}, {"fips": "079", "name": "Lake"}]});

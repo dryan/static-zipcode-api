@@ -1,1 +1,1 @@
-{"lat": 40.652301, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Bedminster", "lng": -74.653, "zip_code": "07921"}
+{"locality": "Bedminster", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Bedminster"], "postal_code": "07921", "lat": 40.652301, "lng": -74.653, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}]}

@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.687543, "region": {"abbr": "VA", "name": "Virginia"}, "locality": "Fentress", "lng": -76.22905, "zip_code": "23322"});
+zipapicallback({"locality": "Chesapeake", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Chesapeake"], "postal_code": "23322", "lat": 36.687543, "lng": -76.22905, "type": "STANDARD", "counties": [{"fips": "550", "name": "Chesapeake (City)"}]});

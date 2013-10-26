@@ -1,1 +1,1 @@
-{"lat": 43.278021, "region": {"abbr": "MI", "name": "Michigan"}, "locality": "North Muskegon", "lng": -86.2682, "zip_code": "49445"}
+{"locality": "Muskegon", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Muskegon", "N Muskegon", "North Muskegon"], "postal_code": "49445", "lat": 43.278021, "lng": -86.2682, "type": "STANDARD", "counties": [{"fips": "121", "name": "Muskegon"}]}

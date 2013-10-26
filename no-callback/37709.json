@@ -1,1 +1,1 @@
-{"lat": 36.161001, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Blaine", "lng": -83.67602, "zip_code": "37709"}
+{"locality": "Blaine", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Blaine"], "postal_code": "37709", "lat": 36.161001, "lng": -83.67602, "type": "STANDARD", "counties": [{"fips": "057", "name": "Grainger"}, {"fips": "093", "name": "Knox"}, {"fips": "087", "name": "Jackson"}]}

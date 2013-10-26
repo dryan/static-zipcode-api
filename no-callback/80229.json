@@ -1,1 +1,1 @@
-{"lat": 39.859585, "region": {"abbr": "CO", "name": "Colorado"}, "locality": "Thornton", "lng": -104.95943, "zip_code": "80229"}
+{"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Thornton"], "postal_code": "80229", "lat": 39.859585, "lng": -104.95943, "type": "STANDARD", "counties": [{"fips": "001", "name": "Adams"}, {"fips": "031", "name": "Denver"}]}

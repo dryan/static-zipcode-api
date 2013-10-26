@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.6851, "region": {"abbr": "NY", "name": "New York"}, "locality": "Amityville", "lng": -73.41317, "zip_code": "11701"});
+zipapicallback({"locality": "Amityville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Amity Harbor", "Amityville"], "postal_code": "11701", "lat": 40.6851, "lng": -73.41317, "type": "STANDARD", "counties": [{"fips": "103", "name": "Suffolk"}, {"fips": "059", "name": "Nassau"}]});

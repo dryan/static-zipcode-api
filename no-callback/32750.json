@@ -1,1 +1,1 @@
-{"lat": 28.703674, "region": {"abbr": "FL", "name": "Florida"}, "locality": "Longwood", "lng": -81.35384, "zip_code": "32750"}
+{"locality": "Longwood", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Longwood"], "postal_code": "32750", "lat": 28.703674, "lng": -81.35384, "type": "STANDARD", "counties": [{"fips": "117", "name": "Seminole"}]}

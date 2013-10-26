@@ -1,1 +1,1 @@
-zipapicallback({"lat": 34.72775, "region": {"abbr": "OK", "name": "Oklahoma"}, "locality": "Medicine Park", "lng": -98.5008, "zip_code": "73557"});
+zipapicallback({"locality": "Medicine Park", "region": {"fips": "40", "abbr": "OK", "name": "Oklahoma"}, "localities": ["Medicine Park"], "postal_code": "73557", "lat": 34.72775, "lng": -98.5008, "type": "POBOX", "counties": [{"fips": "031", "name": "Comanche"}]});

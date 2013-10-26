@@ -1,1 +1,1 @@
-{"lat": 39.451662, "region": {"abbr": "CA", "name": "California"}, "locality": "Willits", "lng": -123.37285, "zip_code": "95490"}
+{"locality": "Willits", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Willits"], "postal_code": "95490", "lat": 39.451662, "lng": -123.37285, "type": "STANDARD", "counties": [{"fips": "045", "name": "Mendocino"}]}

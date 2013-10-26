@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.628726, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Kane", "lng": -78.80734, "zip_code": "16735"});
+zipapicallback({"locality": "Kane", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Kane"], "postal_code": "16735", "lat": 41.628726, "lng": -78.80734, "type": "STANDARD", "counties": [{"fips": "083", "name": "McKean"}, {"fips": "047", "name": "Elk"}]});

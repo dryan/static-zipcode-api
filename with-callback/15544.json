@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.134685, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Gray", "lng": -79.09236, "zip_code": "15544"});
+zipapicallback({"locality": "Gray", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Gray"], "postal_code": "15544", "lat": 40.134685, "lng": -79.09236, "type": "POBOX", "counties": [{"fips": "111", "name": "Somerset"}]});

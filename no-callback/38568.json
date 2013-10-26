@@ -1,1 +1,1 @@
-{"lat": 36.414282, "region": {"abbr": "TN", "name": "Tennessee"}, "locality": "Hilham", "lng": -85.45701, "zip_code": "38568"}
+{"locality": "Hilham", "region": {"fips": "47", "abbr": "TN", "name": "Tennessee"}, "localities": ["Hilham"], "postal_code": "38568", "lat": 36.414282, "lng": -85.45701, "type": "STANDARD", "counties": [{"fips": "133", "name": "Overton"}, {"fips": "027", "name": "Clay"}, {"fips": "087", "name": "Jackson"}]}

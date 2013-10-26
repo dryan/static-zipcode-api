@@ -1,1 +1,1 @@
-{"lat": 42.917657, "region": {"abbr": "NY", "name": "New York"}, "locality": "Buffalo", "lng": -78.8779, "zip_code": "14222"}
+{"locality": "Buffalo", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Buffalo"], "postal_code": "14222", "lat": 42.917657, "lng": -78.8779, "type": "STANDARD", "counties": [{"fips": "029", "name": "Erie"}]}

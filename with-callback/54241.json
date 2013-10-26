@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.174245, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Two Rivers", "lng": -87.58613, "zip_code": "54241"});
+zipapicallback({"locality": "Two Rivers", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Two Rivers"], "postal_code": "54241", "lat": 44.174245, "lng": -87.58613, "type": "STANDARD", "counties": [{"fips": "071", "name": "Manitowoc"}]});

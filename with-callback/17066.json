@@ -1,1 +1,1 @@
-zipapicallback({"lat": 40.373421, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Mount Union", "lng": -77.8739, "zip_code": "17066"});
+zipapicallback({"locality": "Mount Union", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Mount Union"], "postal_code": "17066", "lat": 40.373421, "lng": -77.8739, "type": "STANDARD", "counties": [{"fips": "061", "name": "Huntingdon"}, {"fips": "087", "name": "Mifflin"}]});

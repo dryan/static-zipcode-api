@@ -1,1 +1,1 @@
-zipapicallback({"lat": 44.417533, "region": {"abbr": "MN", "name": "Minnesota"}, "locality": "Morgan", "lng": -94.91902, "zip_code": "56266"});
+zipapicallback({"locality": "Morgan", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Evan", "Morgan"], "postal_code": "56266", "lat": 44.417533, "lng": -94.91902, "type": "STANDARD", "counties": [{"fips": "127", "name": "Redwood"}, {"fips": "015", "name": "Brown"}]});

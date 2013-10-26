@@ -1,1 +1,1 @@
-{"lat": 40.960106, "region": {"abbr": "PA", "name": "Pennsylvania"}, "locality": "Wallaceton", "lng": -78.28886, "zip_code": "16876"}
+{"locality": "Wallaceton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Wallaceton"], "postal_code": "16876", "lat": 40.960106, "lng": -78.28886, "type": "POBOX", "counties": [{"fips": "033", "name": "Clearfield"}]}

@@ -1,1 +1,1 @@
-{"lat": 39.342299, "region": {"abbr": "NJ", "name": "New Jersey"}, "locality": "Ventnor City", "lng": -74.48192, "zip_code": "08406"}
+{"locality": "Ventnor City", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Ventnor City"], "postal_code": "08406", "lat": 39.342299, "lng": -74.48192, "type": "STANDARD", "counties": [{"fips": "001", "name": "Atlantic"}]}

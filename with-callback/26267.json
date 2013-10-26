@@ -1,1 +1,1 @@
-zipapicallback({"lat": 38.912609, "region": {"abbr": "WV", "name": "West Virginia"}, "locality": "Ellamore", "lng": -80.07907, "zip_code": "26267"});
+zipapicallback({"locality": "Ellamore", "region": {"fips": "54", "abbr": "WV", "name": "West Virginia"}, "localities": ["Ellamore"], "postal_code": "26267", "lat": 38.912609, "lng": -80.07907, "type": "STANDARD", "counties": [{"fips": "083", "name": "Randolph"}, {"fips": "097", "name": "Upshur"}, {"fips": "001", "name": "Barbour"}]});

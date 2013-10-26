@@ -1,1 +1,1 @@
-{"lat": 44.179504, "region": {"abbr": "WI", "name": "Wisconsin"}, "locality": "Brillion", "lng": -88.07449, "zip_code": "54110"}
+{"locality": "Brillion", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Brillion"], "postal_code": "54110", "lat": 44.179504, "lng": -88.07449, "type": "STANDARD", "counties": [{"fips": "015", "name": "Calumet"}, {"fips": "009", "name": "Brown"}, {"fips": "071", "name": "Manitowoc"}]}

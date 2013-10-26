@@ -1,1 +1,1 @@
-{"lat": 33.226598, "region": {"abbr": "TX", "name": "Texas"}, "locality": "Denton", "lng": -97.13061, "zip_code": "76201"}
+{"locality": "Denton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Denton"], "postal_code": "76201", "lat": 33.226598, "lng": -97.13061, "type": "STANDARD", "counties": [{"fips": "121", "name": "Denton"}]}

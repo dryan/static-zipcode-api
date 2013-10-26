@@ -1,1 +1,1 @@
-zipapicallback({"lat": 41.721715, "region": {"abbr": "UT", "name": "Utah"}, "locality": "Mendon", "lng": -111.97114, "zip_code": "84325"});
+zipapicallback({"locality": "Mendon", "region": {"fips": "49", "abbr": "UT", "name": "Utah"}, "localities": ["Mendon"], "postal_code": "84325", "lat": 41.721715, "lng": -111.97114, "type": "STANDARD", "counties": [{"fips": "005", "name": "Cache"}]});

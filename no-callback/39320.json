@@ -1,1 +1,1 @@
-{"lat": 32.535472, "region": {"abbr": "MS", "name": "Mississippi"}, "locality": "Bailey", "lng": -88.72639, "zip_code": "39320"}
+{"locality": "Bailey", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Bailey"], "postal_code": "39320", "lat": 32.535472, "lng": -88.72639, "type": "STANDARD", "counties": [{"fips": "075", "name": "Lauderdale"}]}

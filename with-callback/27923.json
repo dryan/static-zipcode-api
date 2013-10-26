@@ -1,1 +1,1 @@
-zipapicallback({"lat": 36.381161, "region": {"abbr": "NC", "name": "North Carolina"}, "locality": "Coinjock", "lng": -75.94115, "zip_code": "27923"});
+zipapicallback({"locality": "Coinjock", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Coinjock"], "postal_code": "27923", "lat": 36.381161, "lng": -75.94115, "type": "STANDARD", "counties": [{"fips": "053", "name": "Currituck"}]});

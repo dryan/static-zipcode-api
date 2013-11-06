@@ -1,0 +1,16 @@
+{
+    "default": {
+        "bucket":       "zips.dryan.io",
+        "local_path":   "no-callback",
+        "bucket_path":  "/",
+        "gzip":         true,
+        "charset":		"utf-8",
+        "cache":		{
+        	"application/json": 	31536000
+        } 
+    },
+    "callback": {
+        "local_path":   "with-callback",
+        "bucket_path":  "/callback/"
+    }
+}

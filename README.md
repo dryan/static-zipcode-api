@@ -1,6 +1,6 @@
 # Static ZIP Code API
 
-Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these in a CDN like Amazon S3.
+Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these on a CDN like Amazon S3. 
 
 There are two flavors: vanilla JSON and JSONP with a hardcoded callback function of `zipapicallback`.
 
@@ -9,6 +9,10 @@ There are two flavors: vanilla JSON and JSONP with a hardcoded callback function
 For low traffic usage (less than 1,000 requests per month), you can use http://zips.dryan.io/XXXXX.json. This site uses CORS headers meaning all modern browsers should allow a cross-domain request. If you need to support older browsers, use http://zips.dryan.io/callback/XXXXX.json which uses a hard-coded callback function name of `zipapicallback` (see example below). 
 
 For SSL the URIs are https://s3.amazonaws.com/zips.dryan.io/XXXXX.json and https://s3.amazonaws.com/zips.dryan.io/callback/XXXXX.json.
+
+## d3ploy Support
+
+For easy upload to S3, rename `sample-deploy.json` to `deploy.json` and change the "bucket" variable to the name of your target bucket. Then run [d3ploy](http://d3ploy.com/) with the `--all` flag.
 
 ## Usage
 

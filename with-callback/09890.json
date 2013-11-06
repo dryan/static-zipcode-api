@@ -1,1 +1,1 @@
-zipapicallback({"locality": "", "region": {"fips": "", "abbr": "AE", "name": "Armed Forces Europe"}, "localities": ["", ""], "postal_code": "09890", "type": "MILITARY", "counties": []});
+zipapicallback({"locality": "", "region": {"fips": "", "abbr": "AE", "name": "Armed Forces Europe"}, "localities": [""], "postal_code": "09890", "type": "MILITARY", "counties": []});

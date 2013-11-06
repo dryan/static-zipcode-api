@@ -119,25 +119,25 @@ for z in primary_data:
 
     bar.update(bar.currval + 1)
 
-# f               =   open('datasets/zip-county.txt', 'r')
-# for line in f:
-#     line    =   line.strip()
-#     if len(line) >= 29:
-#         # this is a full record
-#         zipcode     =   line[0:5]
-#         state       =   line[23:25]
-#         fips        =   line[25:28]
-#         name        =   titlecase(line[28:])
+f               =   open('datasets/zip-county.txt', 'r')
+for line in f:
+    line    =   line.strip()
+    if len(line) >= 29:
+        # this is a full record
+        zipcode     =   line[0:5]
+        state       =   line[23:25]
+        fips        =   line[25:28]
+        name        =   titlecase(line[28:])
 
-#         if(state in us_states and zipcode in zips):
-#             county  =   {
-#                 'name':     name,
-#                 'fips':     fips,
-#             }
-#             if not county in zips[zipcode]['counties']:
-#                 zips[zipcode]['counties'].append(county)
-#     bar.update(bar.currval + 1)
-# f.close()
+        if(state in us_states and zipcode in zips):
+            county  =   {
+                'name':     name,
+                'fips':     fips,
+            }
+            if not county in zips[zipcode]['counties']:
+                zips[zipcode]['counties'].append(county)
+    bar.update(bar.currval + 1)
+f.close()
 
 bar.finish()
 
@@ -159,8 +159,7 @@ for z in zips:
     f.close()
 
 # make the reverse mapping by STATE/CITY
-for i in range(0, 100000):
-    i           =   '%05d' % i
+for i in zips:
     f           =   open('no-callback/%s.json' % i, 'r')
     zip_data    =   json.load(f)
     f.close()
@@ -212,7 +211,7 @@ for region in regions:
     for city in region.get('localities', []):
         city    =   region.get('localities').get(city)
         city['postal_codes']    =   list(set(city['postal_codes']))
-        city['counties']        =   list(set(city['counties']))
+        city['counties']        =   [dict(t) for t in set([tuple(d.items()) for d in city['counties']])]
 
     bar     =   progressbar.ProgressBar(widgets = ['\033[92m', progressbar.FormatLabel('Processing ' + region.get('abbr') + ' %(value)d: '), progressbar.Percentage(), ' ', progressbar.Bar(), ' ', progressbar.ETA(), '\033[0;0m'], maxval = len(region.get('localities', []))).start()
 
@@ -242,11 +241,15 @@ for region in regions:
     for locality in region['localities']:
         locality    =   region['localities'].get(locality)
 
+        if not os.path.exists(os.path.join('no-callback', region.get('abbr').lower(), alpha_only.sub('', locality.get('name')).lower())):
+            os.mkdir(os.path.join('no-callback', region.get('abbr').lower(), alpha_only.sub('', locality.get('name')).lower()))
         f           =   open(os.path.join('no-callback', region.get('abbr').lower(), alpha_only.sub('', locality.get('name')).lower(), 'index.json'), 'w')
         f.write(json.dumps(locality))
         f.flush()
         f.close()
 
+        if not os.path.exists(os.path.join('with-callback', region.get('abbr').lower(), alpha_only.sub('', locality.get('name')).lower())):
+            os.mkdir(os.path.join('with-callback', region.get('abbr').lower(), alpha_only.sub('', locality.get('name')).lower()))
         f           =   open(os.path.join('with-callback', region.get('abbr').lower(),alpha_only.sub('', locality.get('name')).lower(), 'index.json'), 'w')
         f.write(json.dumps(locality))
         f.flush()

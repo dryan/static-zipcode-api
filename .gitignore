@@ -3,3 +3,5 @@ datasets/zip-county.txt
 upload.py
 deploy.json
 
+*.pyc
+

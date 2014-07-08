@@ -68,7 +68,7 @@ For easy upload to S3, rename `sample-deploy.json` to `deploy.json` and change t
 
 Hat tip to [Ziptastic](http://daspecster.github.com/ziptastic/).
 
-Data compiled from USPS, the CDC and federalgovernmentzipcodes.us.
+Data compiled from USPS, the CDC and federalgovernmentzipcodes.us. To build your own, you'll need to download http://zips.dryan.io.s3.amazonaws.com/zip-county.txt into the project root.
 
 ## Changes in version 2
 

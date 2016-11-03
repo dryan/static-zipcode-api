@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Athens", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Athens"], "postal_code": "49011", "lat": 42.089314, "lng": -85.23333, "type": "STANDARD", "counties": [{"fips": "025", "name": "Calhoun"}, {"fips": "077", "name": "Kalamazoo"}, {"fips": "149", "name": "St. Joseph"}, {"fips": "023", "name": "Branch"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Dayton", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Dayton"], "postal_code": "16222", "lat": 40.8739, "lng": -79.24188, "type": "STANDARD", "counties": [{"fips": "005", "name": "Armstrong"}, {"fips": "063", "name": "Indiana"}, {"fips": "065", "name": "Jefferson"}]});

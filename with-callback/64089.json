@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Smithville", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Smithville"], "postal_code": "64089", "lat": 39.389339, "lng": -94.56774, "type": "STANDARD", "counties": [{"fips": "047", "name": "Clay"}, {"fips": "165", "name": "Platte"}, {"fips": "049", "name": "Clinton"}]});

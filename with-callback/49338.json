@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Paris", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Paris"], "postal_code": "49338", "lat": 43.764906, "lng": -85.57223, "type": "STANDARD", "counties": [{"fips": "107", "name": "Mecosta"}, {"fips": "133", "name": "Osceola"}, {"fips": "123", "name": "Newaygo"}]});

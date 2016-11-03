@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Morton", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Morton"], "postal_code": "39117", "lat": 32.313881, "lng": -89.66509, "type": "STANDARD", "counties": [{"fips": "123", "name": "Scott"}, {"fips": "129", "name": "Smith"}, {"fips": "121", "name": "Rankin"}]});

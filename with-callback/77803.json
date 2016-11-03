@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bryan", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Bryan"], "postal_code": "77803", "lat": 30.678097, "lng": -96.37639, "type": "STANDARD", "counties": [{"fips": "041", "name": "Brazos"}, {"fips": "395", "name": "Robertson"}]});

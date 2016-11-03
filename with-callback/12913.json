@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bloomingdale", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bloomingdale"], "postal_code": "12913", "lat": 44.421547, "lng": -73.99256, "type": "STANDARD", "counties": [{"fips": "031", "name": "Essex"}, {"fips": "033", "name": "Franklin"}]});

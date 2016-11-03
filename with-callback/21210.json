@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Baltimore", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Roland Park"], "postal_code": "21210", "lat": 39.352496, "lng": -76.63452, "type": "STANDARD", "counties": [{"fips": "510", "name": "Baltimore (City)"}, {"fips": "005", "name": "Baltimore"}]});

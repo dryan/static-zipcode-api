@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Meigs", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Meigs"], "postal_code": "31765", "lat": 31.082141, "lng": -84.05767, "type": "STANDARD", "counties": [{"fips": "275", "name": "Thomas"}, {"fips": "205", "name": "Mitchell"}, {"fips": "071", "name": "Colquitt"}]});

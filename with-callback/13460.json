@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sherburne", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Sherburne"], "postal_code": "13460", "lat": 42.680051, "lng": -75.46547, "type": "STANDARD", "counties": [{"fips": "017", "name": "Chenango"}, {"fips": "053", "name": "Madison"}]});

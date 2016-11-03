@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Hollister", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Hollister"], "postal_code": "95023", "lat": 36.862243, "lng": -121.38006, "type": "STANDARD", "counties": [{"fips": "069", "name": "San Benito"}, {"fips": "049", "name": "Modoc"}, {"fips": "085", "name": "Santa Clara"}]});

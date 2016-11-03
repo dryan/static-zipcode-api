@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Narvon", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Narvon"], "postal_code": "17555", "lat": 40.126611, "lng": -75.96767, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}, {"fips": "029", "name": "Chester"}, {"fips": "011", "name": "Berks"}]});

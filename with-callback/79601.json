@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Abilene", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Abilene"], "postal_code": "79601", "lat": 32.500532, "lng": -99.69803, "type": "STANDARD", "counties": [{"fips": "441", "name": "Taylor"}, {"fips": "417", "name": "Shackelford"}, {"fips": "059", "name": "Callahan"}, {"fips": "253", "name": "Jones"}]});

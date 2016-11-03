@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bradford", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Bradford"], "postal_code": "14815", "lat": 42.383304, "lng": -77.08762, "type": "STANDARD", "counties": [{"fips": "101", "name": "Steuben"}, {"fips": "097", "name": "Schuyler"}]});

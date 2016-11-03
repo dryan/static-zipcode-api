@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Thousand Oaks", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Thousand Oaks", "Westlake Village", "Westlake Vlg"], "postal_code": "91362", "lat": 34.190804, "lng": -118.83704, "type": "STANDARD", "counties": [{"fips": "111", "name": "Ventura"}, {"fips": "037", "name": "Los Angeles"}]});

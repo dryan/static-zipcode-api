@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Houston", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Houston", "W Univ Pl", "West University Place"], "postal_code": "77005", "lat": 29.717529, "lng": -95.42821, "type": "STANDARD", "counties": [{"fips": "201", "name": "Harris"}, {"fips": "207", "name": "Haskell"}]});

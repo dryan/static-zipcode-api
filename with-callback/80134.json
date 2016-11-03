@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Parker", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Parker"], "postal_code": "80134", "lat": 39.508608, "lng": -104.78031, "type": "STANDARD", "counties": [{"fips": "035", "name": "Douglas"}, {"fips": "039", "name": "Elbert"}, {"fips": "005", "name": "Arapahoe"}]});

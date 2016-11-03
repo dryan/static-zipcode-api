@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Buffalo", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Buffalo"], "postal_code": "42716", "lat": 37.47534, "lng": -85.60987, "type": "STANDARD", "counties": [{"fips": "123", "name": "Larue"}, {"fips": "087", "name": "Green"}, {"fips": "217", "name": "Taylor"}]});

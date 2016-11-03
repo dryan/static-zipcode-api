@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Hillsboro", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Cornelius", "Hillsboro"], "postal_code": "97123", "lat": 45.491024, "lng": -122.95745, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "071", "name": "Yamhill"}]});

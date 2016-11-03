@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Henry", "region": {"fips": "46", "abbr": "SD", "name": "South Dakota"}, "localities": ["Henry"], "postal_code": "57243", "lat": 44.917623, "lng": -97.43149, "type": "STANDARD", "counties": [{"fips": "029", "name": "Codington"}, {"fips": "025", "name": "Clark"}, {"fips": "057", "name": "Hamlin"}]});

@@ -1,12 +1,12 @@
 # Static ZIP Code API
 
-Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these on a CDN like Amazon S3. 
+Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these on a CDN like Amazon S3.
 
 There are two flavors: vanilla JSON and JSONP with a hardcoded callback function of `zipapicallback`.
 
 ## Hosted Version
 
-For low traffic usage (less than 1,000 requests per month), you can use http://zips.dryan.io/XXXXX.json. This site uses CORS headers meaning all modern browsers should allow a cross-domain request. If you need to support older browsers, use http://zips.dryan.io/callback/XXXXX.json which uses a hard-coded callback function name of `zipapicallback` (see example below). 
+For low traffic usage (less than 1,000 requests per month), you can use http://zips.dryan.io/XXXXX.json. This site uses CORS headers meaning all modern browsers should allow a cross-domain request. If you need to support older browsers, use http://zips.dryan.io/callback/XXXXX.json which uses a hard-coded callback function name of `zipapicallback` (see example below).
 
 For SSL the URIs are https://s3.amazonaws.com/zips.dryan.io/XXXXX.json and https://s3.amazonaws.com/zips.dryan.io/callback/XXXXX.json.
 
@@ -40,7 +40,7 @@ For easy upload to S3, rename `sample-deploy.json` to `deploy.json` and change t
     ],
     "region": {
         "abbr": "TN",
-        "name": "Tennessee"
+        "name": "Tennessee",
         "fips": "47"
     },
     "counties": [
@@ -68,7 +68,7 @@ For easy upload to S3, rename `sample-deploy.json` to `deploy.json` and change t
 
 Hat tip to [Ziptastic](http://daspecster.github.com/ziptastic/).
 
-Data compiled from USPS, the CDC and federalgovernmentzipcodes.us. To build your own, you'll need to download http://zips.dryan.io.s3.amazonaws.com/zip-county.txt into the project root.
+Data compiled from US Census Bureau, US Department of Housing and Urban Development and federalgovernmentzipcodes.us.
 
 ## Changes in version 2
 

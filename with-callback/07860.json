@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Newton", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fredon", "Fredon Township", "Fredon Twp", "Newton"], "postal_code": "07860", "lat": 41.0714, "lng": -74.80199, "type": "STANDARD", "counties": [{"fips": "037", "name": "Sussex"}, {"fips": "041", "name": "Warren"}]});

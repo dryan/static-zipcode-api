@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Central Square", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Central Sq", "Central Square"], "postal_code": "13036", "lat": 43.299689, "lng": -76.15144, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}, {"fips": "067", "name": "Onondaga"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Prospect", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Prospect"], "postal_code": "43342", "lat": 40.470755, "lng": -83.18305, "type": "STANDARD", "counties": [{"fips": "101", "name": "Marion"}, {"fips": "159", "name": "Union"}, {"fips": "041", "name": "Delaware"}]});

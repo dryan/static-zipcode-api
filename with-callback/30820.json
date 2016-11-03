@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Mitchell", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Mitchell"], "postal_code": "30820", "lat": 33.224199, "lng": -82.713, "type": "STANDARD", "counties": [{"fips": "125", "name": "Glascock"}, {"fips": "303", "name": "Washington"}, {"fips": "141", "name": "Hancock"}, {"fips": "301", "name": "Warren"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cleveland", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Cleveland"], "postal_code": "30528", "lat": 34.595859, "lng": -83.76194, "type": "STANDARD", "counties": [{"fips": "311", "name": "White"}, {"fips": "187", "name": "Lumpkin"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Henry", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Henry"], "postal_code": "61537", "lat": 41.113829, "lng": -89.38486, "type": "STANDARD", "counties": [{"fips": "123", "name": "Marshall"}, {"fips": "011", "name": "Bureau"}]});

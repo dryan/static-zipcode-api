@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Elizabethtown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Elizabethtown"], "postal_code": "17022", "lat": 40.160793, "lng": -76.60763, "type": "STANDARD", "counties": [{"fips": "071", "name": "Lancaster"}, {"fips": "043", "name": "Dauphin"}, {"fips": "075", "name": "Lebanon"}]});

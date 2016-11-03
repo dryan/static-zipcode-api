@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Pueblo", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Pueblo"], "postal_code": "81003", "lat": 38.281052, "lng": -104.62567, "type": "STANDARD", "counties": [{"fips": "101", "name": "Pueblo"}, {"fips": "041", "name": "El Paso"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Browntown", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Browntown"], "postal_code": "53522", "lat": 42.552731, "lng": -89.79624, "type": "STANDARD", "counties": [{"fips": "045", "name": "Green"}, {"fips": "065", "name": "Lafayette"}]});

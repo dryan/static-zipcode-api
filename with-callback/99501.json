@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Anchorage", "region": {"fips": "02", "abbr": "AK", "name": "Alaska"}, "localities": ["Anchorage"], "postal_code": "99501", "lat": 61.216799, "lng": -149.87828, "type": "STANDARD", "counties": [{"fips": "020", "name": "Anchorage"}, {"fips": "170", "name": "Matanuska-Susitna"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Punxsutawney", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Frostburg", "Juneau", "Punxsutawney"], "postal_code": "15767", "lat": 40.954059, "lng": -78.97017, "type": "STANDARD", "counties": [{"fips": "065", "name": "Jefferson"}, {"fips": "033", "name": "Clearfield"}, {"fips": "063", "name": "Indiana"}]});

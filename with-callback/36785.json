@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Tyler", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Benton", "Tyler"], "postal_code": "36785", "lat": 32.282192, "lng": -86.8216, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dallas"}, {"fips": "085", "name": "Lowndes"}]});

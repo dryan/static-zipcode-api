@@ -1,1 +1,0 @@
-zipapicallback({"locality": "La Porte City", "region": {"fips": "19", "abbr": "IA", "name": "Iowa"}, "localities": ["La Porte City"], "postal_code": "50651", "lat": 42.325098, "lng": -92.19383, "type": "STANDARD", "counties": [{"fips": "013", "name": "Black Hawk"}, {"fips": "011", "name": "Benton"}, {"fips": "171", "name": "Tama"}, {"fips": "019", "name": "Buchanan"}]});

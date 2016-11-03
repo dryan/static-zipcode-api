@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cortland", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Cortland"], "postal_code": "13045", "lat": 42.591109, "lng": -76.19217, "type": "STANDARD", "counties": [{"fips": "023", "name": "Cortland"}, {"fips": "011", "name": "Cayuga"}, {"fips": "109", "name": "Tompkins"}]});

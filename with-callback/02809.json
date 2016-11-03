@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bristol", "region": {"fips": "44", "abbr": "RI", "name": "Rhode Island"}, "localities": ["Bristol"], "postal_code": "02809", "lat": 41.6842, "lng": -71.26866, "type": "STANDARD", "counties": [{"fips": "001", "name": "Bristol"}, {"fips": "003", "name": "Kent"}]});

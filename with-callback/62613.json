@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Athens", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Athens", "Fancy Prairie"], "postal_code": "62613", "lat": 39.982768, "lng": -89.68326, "type": "STANDARD", "counties": [{"fips": "129", "name": "Menard"}, {"fips": "107", "name": "Logan"}, {"fips": "167", "name": "Sangamon"}]});

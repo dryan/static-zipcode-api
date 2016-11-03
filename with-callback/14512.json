@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Naples", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Naples"], "postal_code": "14512", "lat": 42.628515, "lng": -77.39457, "type": "STANDARD", "counties": [{"fips": "069", "name": "Ontario"}, {"fips": "051", "name": "Livingston"}, {"fips": "101", "name": "Steuben"}, {"fips": "123", "name": "Yates"}]});

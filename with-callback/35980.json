@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Horton", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Horton"], "postal_code": "35980", "lat": 34.179277, "lng": -86.36882, "type": "STANDARD", "counties": [{"fips": "095", "name": "Marshall"}, {"fips": "043", "name": "Cullman"}, {"fips": "009", "name": "Blount"}]});

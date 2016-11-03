@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Fulton", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Crutchfield", "Fulton"], "postal_code": "42041", "lat": 36.532059, "lng": -88.89132, "type": "STANDARD", "counties": [{"fips": "105", "name": "Hickman"}, {"fips": "075", "name": "Fulton"}, {"fips": "083", "name": "Graves"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Branch", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Branch"], "postal_code": "49402", "lat": 43.930995, "lng": -86.05421, "type": "STANDARD", "counties": [{"fips": "105", "name": "Mason"}, {"fips": "127", "name": "Oceana"}, {"fips": "085", "name": "Lake"}]});

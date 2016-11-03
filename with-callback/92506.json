@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Riverside", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Riverside"], "postal_code": "92506", "lat": 33.943615, "lng": -117.37239, "type": "STANDARD", "counties": [{"fips": "065", "name": "Riverside"}, {"fips": "067", "name": "Sacramento"}]});

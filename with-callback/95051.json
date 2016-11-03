@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Santa Clara", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Santa Clara"], "postal_code": "95051", "lat": 37.346241, "lng": -121.9846, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}, {"fips": "087", "name": "Santa Cruz"}]});

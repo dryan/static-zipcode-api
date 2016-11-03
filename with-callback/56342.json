@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Isle", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Isle"], "postal_code": "56342", "lat": 46.212757, "lng": -93.45729, "type": "STANDARD", "counties": [{"fips": "095", "name": "Mille Lacs"}, {"fips": "065", "name": "Kanabec"}, {"fips": "001", "name": "Aitkin"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Anton", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Anton"], "postal_code": "79313", "lat": 33.823216, "lng": -102.16413, "type": "STANDARD", "counties": [{"fips": "219", "name": "Hockley"}, {"fips": "189", "name": "Hale"}, {"fips": "303", "name": "Lubbock"}, {"fips": "279", "name": "Lamb"}]});

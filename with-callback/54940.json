@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Fremont", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Fremont"], "postal_code": "54940", "lat": 44.237843, "lng": -88.84998, "type": "STANDARD", "counties": [{"fips": "135", "name": "Waupaca"}, {"fips": "139", "name": "Winnebago"}, {"fips": "137", "name": "Waushara"}, {"fips": "087", "name": "Outagamie"}]});

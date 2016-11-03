@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Wilbur", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Wilbur"], "postal_code": "99185", "lat": 47.756616, "lng": -118.70628, "type": "STANDARD", "counties": [{"fips": "043", "name": "Lincoln"}, {"fips": "019", "name": "Ferry"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Lansing", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Lansing"], "postal_code": "48917", "lat": 42.735535, "lng": -84.62698, "type": "STANDARD", "counties": [{"fips": "045", "name": "Eaton"}, {"fips": "065", "name": "Ingham"}]});

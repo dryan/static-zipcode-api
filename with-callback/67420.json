@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Beloit", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Beloit", "Scottsville"], "postal_code": "67420", "lat": 39.440546, "lng": -98.07736, "type": "STANDARD", "counties": [{"fips": "123", "name": "Mitchell"}, {"fips": "089", "name": "Jewell"}, {"fips": "029", "name": "Cloud"}]});

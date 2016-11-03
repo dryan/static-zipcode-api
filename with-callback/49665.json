@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Marion", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Marion"], "postal_code": "49665", "lat": 44.095357, "lng": -85.11843, "type": "STANDARD", "counties": [{"fips": "133", "name": "Osceola"}, {"fips": "101", "name": "Manistee"}, {"fips": "035", "name": "Clare"}]});

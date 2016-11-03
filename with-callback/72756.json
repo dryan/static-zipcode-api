@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Rogers", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Little Flock", "Rogers"], "postal_code": "72756", "lat": 36.342235, "lng": -94.07141, "type": "STANDARD", "counties": [{"fips": "007", "name": "Benton"}, {"fips": "143", "name": "Washington"}, {"fips": "015", "name": "Carroll"}, {"fips": "087", "name": "Madison"}]});

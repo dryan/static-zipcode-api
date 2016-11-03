@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Odin", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Odin"], "postal_code": "56160", "lat": 43.847252, "lng": -94.77124, "type": "STANDARD", "counties": [{"fips": "165", "name": "Watonwan"}, {"fips": "063", "name": "Jackson"}, {"fips": "091", "name": "Martin"}]});

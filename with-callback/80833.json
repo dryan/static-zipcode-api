@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Rush", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Rush"], "postal_code": "80833", "lat": 38.694617, "lng": -103.96314, "type": "STANDARD", "counties": [{"fips": "041", "name": "El Paso"}, {"fips": "073", "name": "Lincoln"}, {"fips": "039", "name": "Elbert"}]});

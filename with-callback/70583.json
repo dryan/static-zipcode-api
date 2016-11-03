@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Scott", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Scott"], "postal_code": "70583", "lat": 30.244311, "lng": -92.10099, "type": "STANDARD", "counties": [{"fips": "055", "name": "Lafayette"}, {"fips": "033", "name": "East Baton Rouge"}]});

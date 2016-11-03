@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Mc Cool", "region": {"fips": "28", "abbr": "MS", "name": "Mississippi"}, "localities": ["Mc Cool"], "postal_code": "39108", "lat": 33.169445, "lng": -89.33038, "type": "STANDARD", "counties": [{"fips": "007", "name": "Attala"}, {"fips": "159", "name": "Winston"}, {"fips": "019", "name": "Choctaw"}]});

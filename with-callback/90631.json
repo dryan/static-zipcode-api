@@ -1,1 +1,0 @@
-zipapicallback({"locality": "La Habra", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["La Habra", "La Habra Heights", "La Habra Hgts"], "postal_code": "90631", "lat": 33.934513, "lng": -117.95159, "type": "STANDARD", "counties": [{"fips": "059", "name": "Orange"}, {"fips": "037", "name": "Los Angeles"}]});

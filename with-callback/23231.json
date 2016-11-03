@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Henrico", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Henrico", "Richmond"], "postal_code": "23231", "lat": 37.482896, "lng": -77.36304, "type": "STANDARD", "counties": [{"fips": "760", "name": "Richmond (City)"}, {"fips": "087", "name": "Henrico"}, {"fips": "036", "name": "Charles City"}]});

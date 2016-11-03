@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Detroit", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Detroit"], "postal_code": "04929", "lat": 44.785927, "lng": -69.30376, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}, {"fips": "027", "name": "Waldo"}, {"fips": "019", "name": "Penobscot"}]});

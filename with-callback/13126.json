@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Oswego", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Oswego"], "postal_code": "13126", "lat": 43.449201, "lng": -76.47992, "type": "STANDARD", "counties": [{"fips": "075", "name": "Oswego"}, {"fips": "011", "name": "Cayuga"}]});

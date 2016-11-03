@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Soquel", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Soquel"], "postal_code": "95073", "lat": 37.007916, "lng": -121.95072, "type": "STANDARD", "counties": [{"fips": "087", "name": "Santa Cruz"}, {"fips": "085", "name": "Santa Clara"}]});

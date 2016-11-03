@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Troy", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Troy"], "postal_code": "27371", "lat": 35.382213, "lng": -79.92418, "type": "STANDARD", "counties": [{"fips": "123", "name": "Montgomery"}, {"fips": "151", "name": "Randolph"}]});

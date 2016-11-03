@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Westby", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Westby"], "postal_code": "54667", "lat": 43.656393, "lng": -90.85562, "type": "STANDARD", "counties": [{"fips": "123", "name": "Vernon"}, {"fips": "081", "name": "Monroe"}, {"fips": "063", "name": "La Crosse"}]});

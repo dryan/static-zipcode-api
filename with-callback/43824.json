@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Fresno", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Fresno", "New Bedford"], "postal_code": "43824", "lat": 40.357857, "lng": -81.75288, "type": "STANDARD", "counties": [{"fips": "031", "name": "Coshocton"}, {"fips": "157", "name": "Tuscarawas"}]});

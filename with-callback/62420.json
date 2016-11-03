@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Casey", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Casey"], "postal_code": "62420", "lat": 39.299447, "lng": -87.99863, "type": "STANDARD", "counties": [{"fips": "023", "name": "Clark"}, {"fips": "079", "name": "Jasper"}, {"fips": "035", "name": "Cumberland"}, {"fips": "029", "name": "Coles"}]});

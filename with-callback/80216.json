@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver"], "postal_code": "80216", "lat": 39.784622, "lng": -104.96214, "type": "STANDARD", "counties": [{"fips": "031", "name": "Denver"}, {"fips": "001", "name": "Adams"}]});

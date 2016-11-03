@@ -1,7 +1,9 @@
 manifest*.txt
-datasets/zip-county.txt
 upload.py
 deploy.json
+with-callback/
+no-callback/
 
 *.pyc
 
+.python-version

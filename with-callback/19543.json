@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Morgantown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Morgantown"], "postal_code": "19543", "lat": 40.167618, "lng": -75.89259, "type": "STANDARD", "counties": [{"fips": "011", "name": "Berks"}, {"fips": "029", "name": "Chester"}, {"fips": "071", "name": "Lancaster"}]});

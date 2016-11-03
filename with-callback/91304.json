@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Canoga Park", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Box Canyon", "Canoga Park", "West Hills"], "postal_code": "91304", "lat": 34.218654, "lng": -118.62538, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "111", "name": "Ventura"}]});

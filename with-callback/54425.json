@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Dorchester", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Dorchester"], "postal_code": "54425", "lat": 45.006072, "lng": -90.33146, "type": "STANDARD", "counties": [{"fips": "019", "name": "Clark"}, {"fips": "119", "name": "Taylor"}, {"fips": "073", "name": "Marathon"}]});

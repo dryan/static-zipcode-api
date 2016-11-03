@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Rochester", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Rochester"], "postal_code": "55901", "lat": 44.048931, "lng": -92.49459, "type": "STANDARD", "counties": [{"fips": "109", "name": "Olmsted"}, {"fips": "123", "name": "Ramsey"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cranbury", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Cranbury", "East Windsor"], "postal_code": "08512", "lat": 40.306286, "lng": -74.52627, "type": "STANDARD", "counties": [{"fips": "023", "name": "Middlesex"}, {"fips": "021", "name": "Mercer"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Portville", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Portville"], "postal_code": "14770", "lat": 42.047063, "lng": -78.30659, "type": "STANDARD", "counties": [{"fips": "009", "name": "Cattaraugus"}, {"fips": "003", "name": "Allegany"}, {"fips": "029", "name": "Erie"}]});

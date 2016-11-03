@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Greeley", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Greeley"], "postal_code": "66033", "lat": 38.368325, "lng": -95.12925, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anderson"}, {"fips": "107", "name": "Linn"}, {"fips": "059", "name": "Franklin"}]});

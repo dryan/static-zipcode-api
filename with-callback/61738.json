@@ -1,1 +1,0 @@
-zipapicallback({"locality": "El Paso", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["El Paso", "Kappa", "Panola"], "postal_code": "61738", "lat": 40.731662, "lng": -89.03978, "type": "STANDARD", "counties": [{"fips": "203", "name": "Woodford"}, {"fips": "105", "name": "Livingston"}, {"fips": "113", "name": "McLean"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Los Gatos", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Los Gatos", "Monte Sereno"], "postal_code": "95030", "lat": 37.228594, "lng": -121.98396, "type": "STANDARD", "counties": [{"fips": "085", "name": "Santa Clara"}, {"fips": "087", "name": "Santa Cruz"}]});

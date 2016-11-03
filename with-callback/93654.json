@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Reedley", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Reedley"], "postal_code": "93654", "lat": 36.608675, "lng": -119.43761, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}, {"fips": "107", "name": "Tulare"}]});

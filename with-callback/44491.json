@@ -1,1 +1,0 @@
-zipapicallback({"locality": "West Farmington", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["W Farmington", "West Farmington"], "postal_code": "44491", "lat": 41.369527, "lng": -80.96327, "type": "STANDARD", "counties": [{"fips": "155", "name": "Trumbull"}, {"fips": "133", "name": "Portage"}, {"fips": "055", "name": "Geauga"}]});

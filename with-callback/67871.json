@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Scott City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Friend", "Scott City"], "postal_code": "67871", "lat": 38.48461, "lng": -100.93476, "type": "STANDARD", "counties": [{"fips": "171", "name": "Scott"}, {"fips": "203", "name": "Wichita"}, {"fips": "109", "name": "Logan"}]});

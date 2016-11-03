@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Hampton", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Hampton"], "postal_code": "30228", "lat": 33.401827, "lng": -84.30152, "type": "STANDARD", "counties": [{"fips": "151", "name": "Henry"}, {"fips": "063", "name": "Clayton"}, {"fips": "155", "name": "Irwin"}, {"fips": "255", "name": "Spalding"}]});

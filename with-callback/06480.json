@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Portland", "region": {"fips": "09", "abbr": "CT", "name": "Connecticut"}, "localities": ["Portland"], "postal_code": "06480", "lat": 41.588297, "lng": -72.60384, "type": "STANDARD", "counties": [{"fips": "007", "name": "Middlesex"}, {"fips": "009", "name": "New Haven"}, {"fips": "001", "name": "Fairfield"}]});

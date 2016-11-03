@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Selma", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Selma", "Valley Grande"], "postal_code": "36701", "lat": 32.429066, "lng": -87.03809, "type": "STANDARD", "counties": [{"fips": "047", "name": "Dallas"}, {"fips": "105", "name": "Perry"}, {"fips": "045", "name": "Dale"}, {"fips": "001", "name": "Autauga"}]});

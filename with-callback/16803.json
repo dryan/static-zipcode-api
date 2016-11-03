@@ -1,1 +1,0 @@
-zipapicallback({"locality": "State College", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["State College"], "postal_code": "16803", "lat": 40.802661, "lng": -77.89936, "type": "STANDARD", "counties": [{"fips": "027", "name": "Centre"}, {"fips": "033", "name": "Clearfield"}]});

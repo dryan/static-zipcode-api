@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Wayne", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Wayne"], "postal_code": "07470", "lat": 40.943608, "lng": -74.25004, "type": "STANDARD", "counties": [{"fips": "031", "name": "Passaic"}, {"fips": "003", "name": "Bergen"}]});

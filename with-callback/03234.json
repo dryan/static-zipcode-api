@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Epsom", "region": {"fips": "33", "abbr": "NH", "name": "New Hampshire"}, "localities": ["Epsom"], "postal_code": "03234", "lat": 43.228594, "lng": -71.3611, "type": "STANDARD", "counties": [{"fips": "013", "name": "Merrimack"}, {"fips": "001", "name": "Belknap"}]});

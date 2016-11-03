@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cleveland", "region": {"fips": "39", "abbr": "OH", "name": "Ohio"}, "localities": ["Cleveland", "Cuyahoga Heights", "Cuyahoga Hts", "Newburgh Heights", "Newburgh Hts"], "postal_code": "44127", "lat": 41.469951, "lng": -81.65009, "type": "STANDARD", "counties": [{"fips": "035", "name": "Cuyahoga"}]});

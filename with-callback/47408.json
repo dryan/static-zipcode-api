@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bloomington", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Bloomington", "Woodbridge"], "postal_code": "47408", "lat": 39.183164, "lng": -86.50293, "type": "STANDARD", "counties": [{"fips": "105", "name": "Monroe"}, {"fips": "013", "name": "Brown"}]});

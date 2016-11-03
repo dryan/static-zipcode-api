@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Leechburg", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Leechburg", "N Leechburg", "North Leechburg", "W Leechburg", "West Leechburg"], "postal_code": "15656", "lat": 40.63071, "lng": -79.61381, "type": "STANDARD", "counties": [{"fips": "129", "name": "Westmoreland"}, {"fips": "005", "name": "Armstrong"}]});

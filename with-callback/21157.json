@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Westminster", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Westminster"], "postal_code": "21157", "lat": 39.563901, "lng": -76.98926, "type": "STANDARD", "counties": [{"fips": "013", "name": "Carroll"}, {"fips": "005", "name": "Baltimore"}, {"fips": "015", "name": "Cecil"}]});

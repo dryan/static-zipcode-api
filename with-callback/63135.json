@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Saint Louis", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Ferguson", "Saint Louis"], "postal_code": "63135", "lat": 38.74785, "lng": -90.30258, "type": "STANDARD", "counties": [{"fips": "189", "name": "St Louis"}, {"fips": "510", "name": "St Louis (City)"}]});

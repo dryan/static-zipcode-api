@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Catasauqua", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Catasauqua"], "postal_code": "18032", "lat": 40.657089, "lng": -75.47123, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lehigh"}, {"fips": "095", "name": "Northampton"}]});

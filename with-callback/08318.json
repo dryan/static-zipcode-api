@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Elmer", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Elmer", "Pittsgrove"], "postal_code": "08318", "lat": 39.553504, "lng": -75.16843, "type": "STANDARD", "counties": [{"fips": "033", "name": "Salem"}, {"fips": "011", "name": "Cumberland"}]});

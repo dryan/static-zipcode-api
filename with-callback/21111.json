@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Monkton", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Hereford", "Monkton"], "postal_code": "21111", "lat": 39.575605, "lng": -76.59123, "type": "STANDARD", "counties": [{"fips": "005", "name": "Baltimore"}, {"fips": "025", "name": "Harford"}]});

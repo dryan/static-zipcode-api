@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Dover", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Dover"], "postal_code": "07801", "lat": 40.889166, "lng": -74.55462, "type": "STANDARD", "counties": [{"fips": "027", "name": "Morris"}, {"fips": "013", "name": "Essex"}]});

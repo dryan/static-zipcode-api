@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Elon", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Elon", "Elon College"], "postal_code": "27244", "lat": 36.152742, "lng": -79.50839, "type": "STANDARD", "counties": [{"fips": "001", "name": "Alamance"}, {"fips": "081", "name": "Guilford"}, {"fips": "033", "name": "Caswell"}]});

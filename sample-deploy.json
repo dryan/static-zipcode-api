@@ -6,8 +6,8 @@
         "gzip":         true,
         "charset":		"utf-8",
         "cache":		{
-        	"application/json": 	31536000
-        } 
+        	"application/json": 	0
+        }
     },
     "callback": {
         "local_path":   "with-callback",

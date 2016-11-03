@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Columbus", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Columbus"], "postal_code": "53925", "lat": 43.340383, "lng": -89.04091, "type": "STANDARD", "counties": [{"fips": "021", "name": "Columbia"}, {"fips": "027", "name": "Dodge"}, {"fips": "025", "name": "Dane"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Madison", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Madison"], "postal_code": "13402", "lat": 42.90777, "lng": -75.4988, "type": "STANDARD", "counties": [{"fips": "053", "name": "Madison"}, {"fips": "065", "name": "Oneida"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Berlin", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Berlin"], "postal_code": "54923", "lat": 43.978561, "lng": -88.95413, "type": "STANDARD", "counties": [{"fips": "047", "name": "Green Lake"}, {"fips": "137", "name": "Waushara"}, {"fips": "139", "name": "Winnebago"}]});

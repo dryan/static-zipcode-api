@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Fulton", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Fulton"], "postal_code": "49052", "lat": 42.111949, "lng": -85.31673, "type": "STANDARD", "counties": [{"fips": "077", "name": "Kalamazoo"}, {"fips": "149", "name": "St. Joseph"}, {"fips": "025", "name": "Calhoun"}]});

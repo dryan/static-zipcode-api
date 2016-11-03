@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Shelbyville", "region": {"fips": "21", "abbr": "KY", "name": "Kentucky"}, "localities": ["Shelbyville"], "postal_code": "40065", "lat": 38.211511, "lng": -85.21658, "type": "STANDARD", "counties": [{"fips": "211", "name": "Shelby"}, {"fips": "215", "name": "Spencer"}, {"fips": "185", "name": "Oldham"}, {"fips": "019", "name": "Boyd"}]});

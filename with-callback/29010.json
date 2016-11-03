@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bishopville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Bishopville", "Wisacky"], "postal_code": "29010", "lat": 34.213582, "lng": -80.26083, "type": "STANDARD", "counties": [{"fips": "061", "name": "Lee"}, {"fips": "055", "name": "Kershaw"}, {"fips": "009", "name": "Bamberg"}]});

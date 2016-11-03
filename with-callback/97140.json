@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sherwood", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Sherwood"], "postal_code": "97140", "lat": 45.352086, "lng": -122.85376, "type": "STANDARD", "counties": [{"fips": "067", "name": "Washington"}, {"fips": "005", "name": "Clackamas"}, {"fips": "071", "name": "Yamhill"}]});

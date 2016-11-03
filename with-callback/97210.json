@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Portland", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Portland"], "postal_code": "97210", "lat": 45.534839, "lng": -122.7095, "type": "STANDARD", "counties": [{"fips": "051", "name": "Multnomah"}, {"fips": "067", "name": "Washington"}]});

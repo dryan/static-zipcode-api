@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Horton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Horton"], "postal_code": "66439", "lat": 39.659471, "lng": -95.53567, "type": "STANDARD", "counties": [{"fips": "013", "name": "Brown"}, {"fips": "177", "name": "Shawnee"}, {"fips": "005", "name": "Atchison"}, {"fips": "085", "name": "Jackson"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sauk City", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Sauk City"], "postal_code": "53583", "lat": 43.267183, "lng": -89.76912, "type": "STANDARD", "counties": [{"fips": "111", "name": "Sauk"}, {"fips": "025", "name": "Dane"}, {"fips": "021", "name": "Columbia"}]});

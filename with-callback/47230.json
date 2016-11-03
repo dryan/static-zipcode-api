@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Deputy", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Deputy"], "postal_code": "47230", "lat": 38.802781, "lng": -85.62922, "type": "STANDARD", "counties": [{"fips": "077", "name": "Jefferson"}, {"fips": "079", "name": "Jennings"}, {"fips": "143", "name": "Scott"}]});

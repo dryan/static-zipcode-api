@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Kansas City", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Kansas City"], "postal_code": "66102", "lat": 39.112204, "lng": -94.66643, "type": "STANDARD", "counties": [{"fips": "209", "name": "Wyandotte"}, {"fips": "091", "name": "Johnson"}, {"fips": "009", "name": "Barton"}]});

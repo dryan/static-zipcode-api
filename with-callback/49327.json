@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Grant", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Grant"], "postal_code": "49327", "lat": 43.34022, "lng": -85.82566, "type": "STANDARD", "counties": [{"fips": "123", "name": "Newaygo"}, {"fips": "121", "name": "Muskegon"}, {"fips": "081", "name": "Kent"}]});

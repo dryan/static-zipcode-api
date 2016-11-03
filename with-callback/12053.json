@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Delanson", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Delanson"], "postal_code": "12053", "lat": 42.749499, "lng": -74.18601, "type": "STANDARD", "counties": [{"fips": "093", "name": "Schenectady"}, {"fips": "057", "name": "Montgomery"}, {"fips": "095", "name": "Schoharie"}, {"fips": "001", "name": "Albany"}]});

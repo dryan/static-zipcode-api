@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Plano", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Plano"], "postal_code": "75093", "lat": 33.03505, "lng": -96.80492, "type": "STANDARD", "counties": [{"fips": "085", "name": "Collin"}, {"fips": "121", "name": "Denton"}]});

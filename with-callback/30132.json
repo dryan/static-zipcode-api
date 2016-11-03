@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Dallas", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Dallas"], "postal_code": "30132", "lat": 33.945735, "lng": -84.84463, "type": "STANDARD", "counties": [{"fips": "223", "name": "Paulding"}, {"fips": "233", "name": "Polk"}, {"fips": "225", "name": "Peach"}, {"fips": "067", "name": "Cobb"}]});

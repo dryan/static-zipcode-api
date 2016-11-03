@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sewickley", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Edgeworth", "Sewickley"], "postal_code": "15143", "lat": 40.561091, "lng": -80.15554, "type": "STANDARD", "counties": [{"fips": "003", "name": "Allegheny"}, {"fips": "007", "name": "Beaver"}]});

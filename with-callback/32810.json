@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Orlando", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Lockhart", "Orlando"], "postal_code": "32810", "lat": 28.619445, "lng": -81.42695, "type": "STANDARD", "counties": [{"fips": "095", "name": "Orange"}, {"fips": "117", "name": "Seminole"}]});

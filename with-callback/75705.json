@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Tyler", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Tyler"], "postal_code": "75705", "lat": 32.364281, "lng": -95.08971, "type": "STANDARD", "counties": [{"fips": "423", "name": "Smith"}, {"fips": "023", "name": "Baylor"}]});

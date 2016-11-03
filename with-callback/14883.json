@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Spencer", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Spencer", "West Danby"], "postal_code": "14883", "lat": 42.234865, "lng": -76.48643, "type": "STANDARD", "counties": [{"fips": "107", "name": "Tioga"}, {"fips": "015", "name": "Chemung"}, {"fips": "109", "name": "Tompkins"}]});

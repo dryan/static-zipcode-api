@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cleburne", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Cleburne"], "postal_code": "76031", "lat": 32.343115, "lng": -97.40081, "type": "STANDARD", "counties": [{"fips": "251", "name": "Johnson"}, {"fips": "439", "name": "Tarrant"}, {"fips": "425", "name": "Somervell"}, {"fips": "221", "name": "Hood"}]});

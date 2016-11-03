@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Fort Lee", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Fort Lee"], "postal_code": "07024", "lat": 40.849879, "lng": -73.97501, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}, {"fips": "013", "name": "Essex"}]});

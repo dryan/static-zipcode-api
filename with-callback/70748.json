@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Jackson", "region": {"fips": "22", "abbr": "LA", "name": "Louisiana"}, "localities": ["Jackson", "The Bluffs"], "postal_code": "70748", "lat": 30.826285, "lng": -91.22812, "type": "STANDARD", "counties": [{"fips": "037", "name": "East Feliciana"}, {"fips": "033", "name": "East Baton Rouge"}, {"fips": "125", "name": "West Feliciana"}]});

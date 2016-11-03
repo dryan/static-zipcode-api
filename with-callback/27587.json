@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Wake Forest", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Wake Forest"], "postal_code": "27587", "lat": 35.97154, "lng": -78.52241, "type": "STANDARD", "counties": [{"fips": "183", "name": "Wake"}, {"fips": "077", "name": "Granville"}, {"fips": "069", "name": "Franklin"}]});

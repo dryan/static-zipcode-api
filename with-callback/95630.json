@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Folsom", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Folsom"], "postal_code": "95630", "lat": 38.672127, "lng": -121.15783, "type": "STANDARD", "counties": [{"fips": "017", "name": "El Dorado"}, {"fips": "067", "name": "Sacramento"}]});

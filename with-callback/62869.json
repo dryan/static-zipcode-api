@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Norris City", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["Herald", "Norris City"], "postal_code": "62869", "lat": 37.971434, "lng": -88.30419, "type": "STANDARD", "counties": [{"fips": "193", "name": "White"}, {"fips": "059", "name": "Gallatin"}, {"fips": "165", "name": "Saline"}, {"fips": "065", "name": "Hamilton"}]});

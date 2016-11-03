@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Newberg", "region": {"fips": "41", "abbr": "OR", "name": "Oregon"}, "localities": ["Newberg"], "postal_code": "97132", "lat": 45.310304, "lng": -122.972, "type": "STANDARD", "counties": [{"fips": "071", "name": "Yamhill"}, {"fips": "005", "name": "Clackamas"}, {"fips": "067", "name": "Washington"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Malvern", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Frazer", "Malvern"], "postal_code": "19355", "lat": 40.042957, "lng": -75.53221, "type": "STANDARD", "counties": [{"fips": "029", "name": "Chester"}, {"fips": "091", "name": "Montgomery"}]});

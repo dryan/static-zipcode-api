@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Lansing", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Ithaca", "Lansing"], "postal_code": "14882", "lat": 42.564191, "lng": -76.54077, "type": "STANDARD", "counties": [{"fips": "109", "name": "Tompkins"}, {"fips": "011", "name": "Cayuga"}]});

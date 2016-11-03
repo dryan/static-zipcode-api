@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Newton", "region": {"fips": "20", "abbr": "KS", "name": "Kansas"}, "localities": ["Newton"], "postal_code": "67114", "lat": 38.051679, "lng": -97.323, "type": "STANDARD", "counties": [{"fips": "079", "name": "Harvey"}, {"fips": "113", "name": "McPherson"}, {"fips": "115", "name": "Marion"}, {"fips": "015", "name": "Butler"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Ashland", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Ashland", "Moquah", "Sanborn"], "postal_code": "54806", "lat": 46.577191, "lng": -90.89707, "type": "STANDARD", "counties": [{"fips": "003", "name": "Ashland"}, {"fips": "033", "name": "Dunn"}, {"fips": "007", "name": "Bayfield"}]});

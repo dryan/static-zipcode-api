@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Lebec", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Gorman", "Lebec"], "postal_code": "93243", "lat": 34.851405, "lng": -118.87993, "type": "STANDARD", "counties": [{"fips": "037", "name": "Los Angeles"}, {"fips": "029", "name": "Kern"}]});

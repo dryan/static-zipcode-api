@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Pavo", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Pavo"], "postal_code": "31778", "lat": 30.966781, "lng": -83.72075, "type": "STANDARD", "counties": [{"fips": "275", "name": "Thomas"}, {"fips": "027", "name": "Brooks"}, {"fips": "071", "name": "Colquitt"}]});

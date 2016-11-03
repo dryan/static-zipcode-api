@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Eufaula", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Bakerhill", "Eufaula"], "postal_code": "36027", "lat": 31.876168, "lng": -85.17362, "type": "STANDARD", "counties": [{"fips": "005", "name": "Barbour"}, {"fips": "067", "name": "Henry"}, {"fips": "113", "name": "Russell"}]});

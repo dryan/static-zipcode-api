@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Denver", "region": {"fips": "08", "abbr": "CO", "name": "Colorado"}, "localities": ["Denver", "Wheat Ridge"], "postal_code": "80212", "lat": 39.770336, "lng": -105.04688, "type": "STANDARD", "counties": [{"fips": "031", "name": "Denver"}, {"fips": "001", "name": "Adams"}, {"fips": "059", "name": "Jefferson"}]});

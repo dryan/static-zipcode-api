@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cambridge", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Cambridge"], "postal_code": "04923", "lat": 45.031691, "lng": -69.44672, "type": "STANDARD", "counties": [{"fips": "025", "name": "Somerset"}, {"fips": "021", "name": "Piscataquis"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Clinton", "region": {"fips": "23", "abbr": "ME", "name": "Maine"}, "localities": ["Clinton"], "postal_code": "04927", "lat": 44.659486, "lng": -69.53064, "type": "STANDARD", "counties": [{"fips": "011", "name": "Kennebec"}, {"fips": "001", "name": "Androscoggin"}, {"fips": "025", "name": "Somerset"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Troy", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Troy", "W Burlington", "West Burlington Township"], "postal_code": "16947", "lat": 41.759353, "lng": -76.80388, "type": "STANDARD", "counties": [{"fips": "015", "name": "Bradford"}, {"fips": "117", "name": "Tioga"}]});

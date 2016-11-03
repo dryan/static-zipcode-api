@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Milton", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Milton"], "postal_code": "05468", "lat": 44.641974, "lng": -73.13469, "type": "STANDARD", "counties": [{"fips": "007", "name": "Chittenden"}, {"fips": "011", "name": "Franklin"}]});

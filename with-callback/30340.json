@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta", "Doraville"], "postal_code": "30340", "lat": 33.899381, "lng": -84.25367, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "135", "name": "Gwinnett"}]});

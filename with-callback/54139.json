@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Lena", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Lena", "Stiles"], "postal_code": "54139", "lat": 44.943923, "lng": -88.06843, "type": "STANDARD", "counties": [{"fips": "083", "name": "Oconto"}, {"fips": "075", "name": "Marinette"}]});

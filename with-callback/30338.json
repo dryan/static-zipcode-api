@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Atlanta", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Atlanta", "Dunwoody", "Sandy Springs"], "postal_code": "30338", "lat": 33.942751, "lng": -84.31769, "type": "STANDARD", "counties": [{"fips": "089", "name": "De Kalb"}, {"fips": "121", "name": "Fulton"}]});

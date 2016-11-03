@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Jacksonville", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Jacksonville"], "postal_code": "32223", "lat": 30.159091, "lng": -81.63073, "type": "STANDARD", "counties": [{"fips": "031", "name": "Duval"}, {"fips": "109", "name": "Saint Johns"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bourbon", "region": {"fips": "29", "abbr": "MO", "name": "Missouri"}, "localities": ["Bourbon"], "postal_code": "65441", "lat": 38.126316, "lng": -91.20688, "type": "STANDARD", "counties": [{"fips": "055", "name": "Crawford"}, {"fips": "221", "name": "Washington"}, {"fips": "073", "name": "Gasconade"}, {"fips": "071", "name": "Franklin"}]});

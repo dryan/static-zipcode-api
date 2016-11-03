@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Holmes", "region": {"fips": "36", "abbr": "NY", "name": "New York"}, "localities": ["Holmes"], "postal_code": "12531", "lat": 41.519085, "lng": -73.67241, "type": "STANDARD", "counties": [{"fips": "027", "name": "Dutchess"}, {"fips": "079", "name": "Putnam"}]});

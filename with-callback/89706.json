@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Carson City", "region": {"fips": "32", "abbr": "NV", "name": "Nevada"}, "localities": ["Carson City", "Mound House"], "postal_code": "89706", "lat": 39.200035, "lng": -119.72732, "type": "STANDARD", "counties": [{"fips": "510", "name": "Carson City"}, {"fips": "005", "name": "Douglas"}, {"fips": "019", "name": "Lyon"}]});

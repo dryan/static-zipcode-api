@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cleveland", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Barber", "Cleveland"], "postal_code": "27013", "lat": 35.73956, "lng": -80.69407, "type": "STANDARD", "counties": [{"fips": "159", "name": "Rowan"}, {"fips": "097", "name": "Iredell"}]});

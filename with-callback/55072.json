@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sandstone", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Markville", "Sandstone"], "postal_code": "55072", "lat": 46.131798, "lng": -92.71377, "type": "STANDARD", "counties": [{"fips": "115", "name": "Pine"}, {"fips": "001", "name": "Aitkin"}, {"fips": "065", "name": "Kanabec"}]});

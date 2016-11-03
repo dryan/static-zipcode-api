@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Vanderbilt", "region": {"fips": "26", "abbr": "MI", "name": "Michigan"}, "localities": ["Vanderbilt"], "postal_code": "49795", "lat": 45.169729, "lng": -84.60248, "type": "STANDARD", "counties": [{"fips": "137", "name": "Otsego"}, {"fips": "029", "name": "Charlevoix"}, {"fips": "031", "name": "Cheboygan"}]});

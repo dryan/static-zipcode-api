@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Alice", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Alice"], "postal_code": "78332", "lat": 27.737965, "lng": -98.09302, "type": "STANDARD", "counties": [{"fips": "249", "name": "Jim Wells"}, {"fips": "355", "name": "Nueces"}, {"fips": "131", "name": "Duval"}]});

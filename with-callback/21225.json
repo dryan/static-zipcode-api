@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Brooklyn", "region": {"fips": "24", "abbr": "MD", "name": "Maryland"}, "localities": ["Baltimore", "Brooklyn", "Brooklyn Park"], "postal_code": "21225", "lat": 39.229507, "lng": -76.61203, "type": "STANDARD", "counties": [{"fips": "003", "name": "Anne Arundel"}, {"fips": "510", "name": "Baltimore (City)"}]});

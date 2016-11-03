@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Grove City", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Grove City"], "postal_code": "16127", "lat": 41.169987, "lng": -80.08174, "type": "STANDARD", "counties": [{"fips": "085", "name": "Mercer"}, {"fips": "121", "name": "Venango"}, {"fips": "019", "name": "Butler"}, {"fips": "073", "name": "Lawrence"}]});

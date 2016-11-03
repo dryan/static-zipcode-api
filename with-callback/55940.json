@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Hayfield", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Hayfield"], "postal_code": "55940", "lat": 43.885028, "lng": -92.80894, "type": "STANDARD", "counties": [{"fips": "039", "name": "Dodge"}, {"fips": "099", "name": "Mower"}, {"fips": "109", "name": "Olmsted"}]});

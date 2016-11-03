@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Eagle", "region": {"fips": "16", "abbr": "ID", "name": "Idaho"}, "localities": ["Eagle"], "postal_code": "83616", "lat": 43.705551, "lng": -116.36346, "type": "STANDARD", "counties": [{"fips": "001", "name": "Ada"}, {"fips": "045", "name": "Gem"}]});

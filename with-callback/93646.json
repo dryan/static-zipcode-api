@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Orange Cove", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Orange Cove", "Squaw Valley"], "postal_code": "93646", "lat": 36.623699, "lng": -119.30892, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}, {"fips": "107", "name": "Tulare"}]});

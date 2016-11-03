@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Melrose", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Melrose"], "postal_code": "32666", "lat": 29.733375, "lng": -82.01048, "type": "STANDARD", "counties": [{"fips": "107", "name": "Putnam"}, {"fips": "007", "name": "Bradford"}, {"fips": "019", "name": "Clay"}, {"fips": "001", "name": "Alachua"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Kenosha", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Kenosha"], "postal_code": "53140", "lat": 42.60217, "lng": -87.82979, "type": "STANDARD", "counties": [{"fips": "059", "name": "Kenosha"}, {"fips": "005", "name": "Barron"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "East Rutherford", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["E Rutherford", "East Rutherford"], "postal_code": "07073", "lat": 40.830158, "lng": -74.09707, "type": "STANDARD", "counties": [{"fips": "003", "name": "Bergen"}, {"fips": "013", "name": "Essex"}]});

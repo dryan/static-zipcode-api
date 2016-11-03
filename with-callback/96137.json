@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Westwood", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Lake Almanor", "Westwood"], "postal_code": "96137", "lat": 40.290007, "lng": -121.05272, "type": "STANDARD", "counties": [{"fips": "035", "name": "Lassen"}, {"fips": "063", "name": "Plumas"}]});

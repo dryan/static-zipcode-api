@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Phoenix", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Phoenix"], "postal_code": "85013", "lat": 33.50711, "lng": -112.08483, "type": "STANDARD", "counties": [{"fips": "013", "name": "Maricopa"}, {"fips": "027", "name": "Yuma"}]});

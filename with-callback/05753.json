@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Middlebury", "region": {"fips": "50", "abbr": "VT", "name": "Vermont"}, "localities": ["Bread Loaf", "Cornwall", "Middlebury", "Weybridge"], "postal_code": "05753", "lat": 44.006024, "lng": -73.172, "type": "STANDARD", "counties": [{"fips": "001", "name": "Addison"}, {"fips": "007", "name": "Chittenden"}]});

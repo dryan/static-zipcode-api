@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Arlington", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Arlington"], "postal_code": "98223", "lat": 48.203856, "lng": -122.05288, "type": "STANDARD", "counties": [{"fips": "061", "name": "Snohomish"}, {"fips": "033", "name": "King"}]});

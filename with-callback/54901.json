@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Oshkosh", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Oshkosh"], "postal_code": "54901", "lat": 44.043984, "lng": -88.53528, "type": "STANDARD", "counties": [{"fips": "139", "name": "Winnebago"}, {"fips": "137", "name": "Waushara"}]});

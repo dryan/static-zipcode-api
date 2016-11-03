@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Greenville", "region": {"fips": "45", "abbr": "SC", "name": "South Carolina"}, "localities": ["Greenville", "Powdersville"], "postal_code": "29611", "lat": 34.840717, "lng": -82.44234, "type": "STANDARD", "counties": [{"fips": "045", "name": "Greenville"}, {"fips": "077", "name": "Pickens"}, {"fips": "007", "name": "Anderson"}]});

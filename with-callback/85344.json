@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Parker", "region": {"fips": "04", "abbr": "AZ", "name": "Arizona"}, "localities": ["Parker"], "postal_code": "85344", "lat": 34.100704, "lng": -114.30462, "type": "STANDARD", "counties": [{"fips": "012", "name": "La Paz"}, {"fips": "013", "name": "Maricopa"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Gordon", "region": {"fips": "55", "abbr": "WI", "name": "Wisconsin"}, "localities": ["Gordon", "Wascott"], "postal_code": "54838", "lat": 46.233591, "lng": -91.81795, "type": "STANDARD", "counties": [{"fips": "031", "name": "Douglas"}, {"fips": "007", "name": "Bayfield"}]});

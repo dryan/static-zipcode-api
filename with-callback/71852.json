@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Nashville", "region": {"fips": "05", "abbr": "AR", "name": "Arkansas"}, "localities": ["Nashville"], "postal_code": "71852", "lat": 33.985613, "lng": -93.85214, "type": "STANDARD", "counties": [{"fips": "061", "name": "Howard"}, {"fips": "057", "name": "Hempstead"}, {"fips": "099", "name": "Nevada"}, {"fips": "109", "name": "Pike"}]});

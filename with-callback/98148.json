@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Seattle", "region": {"fips": "53", "abbr": "WA", "name": "Washington"}, "localities": ["Burien", "Des Moines", "Normandy Park", "Seatac", "Seattle"], "postal_code": "98148", "lat": 47.443756, "lng": -122.33068, "type": "STANDARD", "counties": [{"fips": "033", "name": "King"}]});

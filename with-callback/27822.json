@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Elm City", "region": {"fips": "37", "abbr": "NC", "name": "North Carolina"}, "localities": ["Elm City"], "postal_code": "27822", "lat": 35.809514, "lng": -77.8601, "type": "STANDARD", "counties": [{"fips": "195", "name": "Wilson"}, {"fips": "127", "name": "Nash"}, {"fips": "065", "name": "Edgecombe"}]});

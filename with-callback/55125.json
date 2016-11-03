@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Saint Paul", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Saint Paul", "Woodbury"], "postal_code": "55125", "lat": 44.921982, "lng": -92.94234, "type": "STANDARD", "counties": [{"fips": "163", "name": "Washington"}, {"fips": "123", "name": "Ramsey"}, {"fips": "037", "name": "Dakota"}]});

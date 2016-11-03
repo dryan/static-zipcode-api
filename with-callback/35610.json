@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Anderson", "region": {"fips": "01", "abbr": "AL", "name": "Alabama"}, "localities": ["Anderson"], "postal_code": "35610", "lat": 34.944113, "lng": -87.24921, "type": "STANDARD", "counties": [{"fips": "077", "name": "Lauderdale"}, {"fips": "083", "name": "Limestone"}]});

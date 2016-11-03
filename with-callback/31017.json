@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Danville", "region": {"fips": "13", "abbr": "GA", "name": "Georgia"}, "localities": ["Danville"], "postal_code": "31017", "lat": 32.600844, "lng": -83.24549, "type": "STANDARD", "counties": [{"fips": "289", "name": "Twiggs"}, {"fips": "319", "name": "Wilkinson"}, {"fips": "023", "name": "Bleckley"}]});

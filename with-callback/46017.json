@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Anderson", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Anderson", "Chesterfield"], "postal_code": "46017", "lat": 40.096343, "lng": -85.60147, "type": "STANDARD", "counties": [{"fips": "095", "name": "Madison"}, {"fips": "035", "name": "Delaware"}, {"fips": "097", "name": "Marion"}]});

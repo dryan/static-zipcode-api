@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Somerville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Branchburg", "North Branch", "Somerville"], "postal_code": "08876", "lat": 40.545853, "lng": -74.63592, "type": "STANDARD", "counties": [{"fips": "035", "name": "Somerset"}, {"fips": "019", "name": "Hunterdon"}]});

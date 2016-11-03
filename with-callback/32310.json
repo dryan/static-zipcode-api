@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Tallahassee", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Tallahassee"], "postal_code": "32310", "lat": 30.400318, "lng": -84.34803, "type": "STANDARD", "counties": [{"fips": "073", "name": "Leon"}, {"fips": "077", "name": "Liberty"}, {"fips": "129", "name": "Wakulla"}]});

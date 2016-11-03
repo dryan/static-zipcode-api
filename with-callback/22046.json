@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Falls Church", "region": {"fips": "51", "abbr": "VA", "name": "Virginia"}, "localities": ["Falls Church"], "postal_code": "22046", "lat": 38.886311, "lng": -77.18098, "type": "STANDARD", "counties": [{"fips": "610", "name": "Falls Church (City)"}, {"fips": "059", "name": "Fairfax"}, {"fips": "600", "name": "Fairfax (City)"}]});

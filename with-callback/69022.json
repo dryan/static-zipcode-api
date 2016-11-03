@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Cambridge", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Cambridge"], "postal_code": "69022", "lat": 40.317358, "lng": -100.17857, "type": "STANDARD", "counties": [{"fips": "065", "name": "Furnas"}, {"fips": "073", "name": "Gosper"}, {"fips": "063", "name": "Frontier"}, {"fips": "145", "name": "Red Willow"}]});

@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Greensburg", "region": {"fips": "18", "abbr": "IN", "name": "Indiana"}, "localities": ["Burney", "Greensburg"], "postal_code": "47240", "lat": 39.333248, "lng": -85.47579, "type": "STANDARD", "counties": [{"fips": "031", "name": "Decatur"}, {"fips": "047", "name": "Franklin"}, {"fips": "137", "name": "Ripley"}, {"fips": "145", "name": "Shelby"}]});

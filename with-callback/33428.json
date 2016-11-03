@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Boca Raton", "region": {"fips": "12", "abbr": "FL", "name": "Florida"}, "localities": ["Boca Raton"], "postal_code": "33428", "lat": 26.348354, "lng": -80.21841, "type": "STANDARD", "counties": [{"fips": "099", "name": "Palm Beach"}, {"fips": "055", "name": "Highlands"}]});

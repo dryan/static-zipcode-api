@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Bethlehem", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Bethlehem", "Butztown", "Freemansburg"], "postal_code": "18017", "lat": 40.645665, "lng": -75.36926, "type": "STANDARD", "counties": [{"fips": "095", "name": "Northampton"}, {"fips": "077", "name": "Lehigh"}]});

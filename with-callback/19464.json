@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Pottstown", "region": {"fips": "42", "abbr": "PA", "name": "Pennsylvania"}, "localities": ["Pottstown", "Sanatoga", "Stowe"], "postal_code": "19464", "lat": 40.253496, "lng": -75.63481, "type": "STANDARD", "counties": [{"fips": "091", "name": "Montgomery"}, {"fips": "029", "name": "Chester"}, {"fips": "011", "name": "Berks"}]});

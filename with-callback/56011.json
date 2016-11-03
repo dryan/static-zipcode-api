@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Belle Plaine", "region": {"fips": "27", "abbr": "MN", "name": "Minnesota"}, "localities": ["Belle Plaine"], "postal_code": "56011", "lat": 44.616113, "lng": -93.76906, "type": "STANDARD", "counties": [{"fips": "139", "name": "Scott"}, {"fips": "019", "name": "Carver"}, {"fips": "079", "name": "Le Sueur"}]});

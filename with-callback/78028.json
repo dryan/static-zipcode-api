@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Kerrville", "region": {"fips": "48", "abbr": "TX", "name": "Texas"}, "localities": ["Kerrville"], "postal_code": "78028", "lat": 30.042529, "lng": -99.15152, "type": "STANDARD", "counties": [{"fips": "265", "name": "Kerr"}, {"fips": "171", "name": "Gillespie"}, {"fips": "029", "name": "Bexar"}]});

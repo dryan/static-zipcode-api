@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Sicklerville", "region": {"fips": "34", "abbr": "NJ", "name": "New Jersey"}, "localities": ["Erial", "Sicklerville"], "postal_code": "08081", "lat": 39.741385, "lng": -74.99035, "type": "STANDARD", "counties": [{"fips": "007", "name": "Camden"}, {"fips": "015", "name": "Gloucester"}]});

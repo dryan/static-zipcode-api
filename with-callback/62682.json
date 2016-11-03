@@ -1,1 +1,0 @@
-zipapicallback({"locality": "San Jose", "region": {"fips": "17", "abbr": "IL", "name": "Illinois"}, "localities": ["San Jose"], "postal_code": "62682", "lat": 40.29916, "lng": -89.60101, "type": "STANDARD", "counties": [{"fips": "125", "name": "MacOn"}, {"fips": "179", "name": "Tazewell"}, {"fips": "107", "name": "Logan"}]});

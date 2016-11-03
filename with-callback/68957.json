@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Lawrence", "region": {"fips": "31", "abbr": "NE", "name": "Nebraska"}, "localities": ["Lawrence"], "postal_code": "68957", "lat": 40.275161, "lng": -98.24659, "type": "STANDARD", "counties": [{"fips": "129", "name": "Nuckolls"}, {"fips": "001", "name": "Adams"}, {"fips": "035", "name": "Clay"}, {"fips": "181", "name": "Webster"}]});

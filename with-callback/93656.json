@@ -1,1 +1,0 @@
-zipapicallback({"locality": "Riverdale", "region": {"fips": "06", "abbr": "CA", "name": "California"}, "localities": ["Riverdale"], "postal_code": "93656", "lat": 36.45185, "lng": -119.93651, "type": "STANDARD", "counties": [{"fips": "019", "name": "Fresno"}, {"fips": "031", "name": "Kings"}]});

@@ -2,94 +2,11 @@
 <html>
 
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Static ZIP Code API : &quot;API&quot; for getting information about a ZIP Code via a series of static files." />
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Static ZIP Code API</title>
+    <meta charset='utf-8'>
+    <meta http-equiv="refresh" content="0;URL='https://github.com/dryan/static-zipcode-api'">
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/dryan/static-zipcode-api">View on GitHub</a>
-
-          <h1 id="project_title">Static ZIP Code API</h1>
-          <h2 id="project_tagline">&quot;API&quot; for getting information about a ZIP Code via a series of static files.</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/dryan/static-zipcode-api/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/dryan/static-zipcode-api/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
-<a name="static-zip-code-api" class="anchor" href="#static-zip-code-api"><span class="octicon octicon-link"></span></a>Static ZIP Code API</h1>
-
-<p>Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these in a CDN like Amazon S3.</p>
-
-<p>There are two flavors: vanilla JSON and JSONP with a hardcoded callback function of <code>zipapicallback</code>.</p>
-
-<h2>
-<a name="usage" class="anchor" href="#usage"><span class="octicon octicon-link"></span></a>Usage</h2>
-
-<pre><code>function zipapicallback(data) {
-    // do something with your data
-}
-$.ajax({
-    url:             'http://youramazonbucket.com/37415.json?callback=?',
-    cache:           true,
-    dataType:        'jsonp',
-    jsonpCallback:   'zipapicallback'
-});
-</code></pre>
-
-<h2>
-<a name="returned-data" class="anchor" href="#returned-data"><span class="octicon octicon-link"></span></a>Returned Data</h2>
-
-<pre><code>{
-    "zip_code": "37415",
-    "lat":      35.116285,
-    "lng":      -85.28466,
-    "locality": "Red Bank",
-    "region":   {
-        "abbr": "TN",
-        "name": "Tennessee"
-    }
-}
-</code></pre>
-
-<p>Hat tip to <a href="http://daspecster.github.com/ziptastic/">Ziptastic</a>.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Static ZIP Code API maintained by <a href="https://github.com/dryan">dryan</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-3625251-12");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-
+    <p>Visit <a href="https://github.com/dryan/static-zipcode-api">https://github.com/dryan/static-zipcode-api</a> for documentation.</p>
   </body>
 </html>

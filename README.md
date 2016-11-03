@@ -1,6 +1,6 @@
 # Static ZIP Code API
 
-Simple "API" for retrieving information about a given ZIP Code via (several thousand) static files. The idea is to host these on a CDN like Amazon S3.
+Simple "API" for retrieving information about a given ZIP Code via (several hundred thousand) static files. The idea is to host these on a static storage service like Amazon S3.
 
 There are two flavors: vanilla JSON and JSONP with a hardcoded callback function of `zipapicallback`.
 
@@ -65,10 +65,16 @@ For easy upload to S3, rename `sample-deploy.json` to `deploy.json` and change t
     * MILITARY: used to route mail for the US military
     * UNIQUE: only applies to a single entity such as 20505 for the CIA in Washington, DC
 
+You can also get data for each US state and some territories, as well as US counties and cities. The URL structures are:
+
+* States: /<state two-letter abbreviation lowercased>/ (Example: /tn/)
+* Counties: /<state two-letter abbreviation lowercased>/<county name lowercased, spaces replaced with hyphens>/ (Example: /tn/hamilton/)
+* Cities: /<state two-letter abbreviation lowercased>/<city name lowercased, spaces replaced with hyphens>/ (Example: /tn/chattanooga/)
+
 
 Hat tip to [Ziptastic](http://daspecster.github.com/ziptastic/).
 
-Data compiled from US Census Bureau, US Department of Housing and Urban Development and federalgovernmentzipcodes.us.
+Data compiled from US Census Bureau, US Department of Housing and Urban Development and http://federalgovernmentzipcodes.us.
 
 ## Changes in version 2
 
@@ -76,3 +82,10 @@ Data compiled from US Census Bureau, US Department of Housing and Urban Developm
 * `locality` is now the USPS primary city
 * added `localities`, `counties` and `region.fips`
 * generated files for all non ZIP codes between 00000-99999 that return an empty object (prevents issues with detecting 404 errors via JSONP)
+
+
+## Changes in version 3
+
+* updated data sources
+* changed process.py to compile.py
+* now outputs state, county and city files

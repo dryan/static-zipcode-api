@@ -229,7 +229,8 @@ bar = progressbar.ProgressBar(widgets=['\033[92m', progressbar.FormatLabel('Outp
 for county in counties_verbose:
     county_data = counties_verbose[county]
     state = county_data['region']['abbr'].lower()
-    county_name = county_data['name'].decode('utf-8').lower().replace(' ', '-')
+    county_name = county_data['name'].decode(
+        'utf-8').lower().split(', ')[0].replace(' ', '-')
     ouput = json.dumps(county_data)
     if not os.path.exists('no-callback/{}/{}/'.format(state, county_name)):
         os.makedirs('no-callback/{}/{}/'.format(state, county_name))
@@ -253,7 +254,8 @@ bar = progressbar.ProgressBar(widgets=['\033[92m', progressbar.FormatLabel('Outp
 for locality in localities:
     locality_data = localities[locality]
     state = locality_data['region']['abbr'].lower()
-    locality_name = locality_data['name'].lower().replace(' ', '-')
+    locality_name = locality_data['name'].decode(
+        'utf-8').lower().split(', ')[0].replace(' ', '-')
     ouput = json.dumps(locality_data)
     if not os.path.exists('no-callback/{}/{}/'.format(state, locality_name)):
         os.makedirs('no-callback/{}/{}/'.format(state, locality_name))
